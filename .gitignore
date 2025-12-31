@@ -1,5 +1,7 @@
 # Environment variables
 .env
+.env.bak
+env_example.txt
 
 # Python
 __pycache__/
