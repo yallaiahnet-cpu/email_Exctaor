@@ -53,3 +53,7 @@ test_*.py
 
 # Nested git repositories
 LLM_POWERED_EMAIL_EXCTRTION/
+
+# Large archive files
+backup_unused_files/*.zip
+backup_unused_files/Archive*.zip
