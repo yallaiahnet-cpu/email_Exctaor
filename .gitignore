@@ -57,3 +57,8 @@ LLM_POWERED_EMAIL_EXCTRTION/
 # Large archive files
 backup_unused_files/*.zip
 backup_unused_files/Archive*.zip
+
+# Large data files
+sent_emails.json
+flask_server_error.log
+*.log
