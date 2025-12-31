@@ -1,0 +1,294 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Platform Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of experience building data platforms in Insurance, Healthcare, Banking, and Consulting, I integrate Azure Data Factory, Synapse, and Microsoft Fabric to support R&D and business analytics.",
+    "Design data pipelines using PySpark and Azure Synapse to handle insurance claim analytics, ensuring dimensional models meet regulatory compliance and support near real-time reporting needs.",
+    "Construct lakehouse architectures on Microsoft Fabric and OneLake, applying Bronze/Silver/Gold layers to organize healthcare patient data while strictly following HIPAA governance rules.",
+    "Develop ETL processes with Azure Data Factory that ingest banking transaction feeds, applying data quality checks and schema enforcement for PCI-DSS compliant financial reporting.",
+    "Establish data warehousing solutions using Azure SQL Pools and dimensional modeling techniques to serve as the single source of truth for cross-departmental BI dashboards and analytics.",
+    "Implement API integration patterns with REST endpoints and Azure Key Vault for secure credential management, enabling ingestion of external market data into the enterprise data lake.",
+    "Build monitoring and alerting systems using Azure Monitor to track pipeline health and data freshness, creating an always-up operational model for critical business intelligence workflows.",
+    "Apply CI/CD practices through Azure DevOps to automate deployment of Synapse notebooks and data pipelines, reducing manual errors and accelerating R&D team iteration cycles.",
+    "Create reusable code patterns and documentation for common data engineering tasks, facilitating knowledge sharing across software engineering and data governance teams.",
+    "Optimize Spark job performance within Synapse by adjusting partition strategies and memory configurations, reducing data processing costs for large-scale analytics workloads.",
+    "Define data governance practices and quality frameworks alongside compliance teams, ensuring audit trails and lineage tracking for sensitive research and business data assets.",
+    "Configure Azure Data Lake storage tiers and lifecycle policies to balance performance and cost for historical insurance policy data, supporting long-term analytical research projects.",
+    "Collaborate with business units to translate reporting requirements into technical specifications for Power BI datasets, ensuring accurate metrics for executive decision-making.",
+    "Assemble data processing systems that combine relational policy databases with non-relational document stores, enabling a comprehensive view of customer interactions across channels.",
+    "Troubleshoot data pipeline failures by examining Synapse Spark logs and ADF activity runs, coordinating with DevOps to restore services and meet availability service level agreements.",
+    "Modernize legacy ETL systems by migrating on-premise SQL Server integration packages to cloud-native Azure Data Factory pipelines, improving scalability and reducing maintenance overhead.",
+    "Guide R&D teams on best practices for data extraction and preparation, enabling efficient data mining and experimental analysis within a governed and secure platform environment.",
+    "Validate BI dashboard outputs by cross-referencing source system data, working through discrepancies with business analysts to ensure trust in the published analytical insights."
+  ],
+  "technical_skills": {
+    "Data Engineering & ETL": [
+      "Azure Data Factory (ADF)",
+      "Azure Synapse Pipelines",
+      "Microsoft Fabric Pipelines",
+      "PySpark",
+      "Apache Spark",
+      "Informatica",
+      "Sqoop",
+      "SSIS"
+    ],
+    "Cloud Data Platforms": [
+      "Microsoft Fabric (Lakehouse, Warehouse, OneLake)",
+      "Azure Synapse (SQL Pools, Spark)",
+      "Azure Data Lake",
+      "AWS S3",
+      "AWS Glue"
+    ],
+    "Orchestration & Monitoring": [
+      "Azure Data Factory",
+      "Apache Airflow",
+      "Azure Monitor",
+      "Application Insights",
+      "Logging & Alerting"
+    ],
+    "Data Warehousing & Modeling": [
+      "Dimensional Data Modeling",
+      "Star & Snowflake Schemas",
+      "Azure Synapse SQL Pools",
+      "Microsoft Fabric Warehouse",
+      "Relational Databases"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "Scala"
+    ],
+    "BI & Visualization": [
+      "Power BI",
+      "Tableau",
+      "BI Dashboards",
+      "Data Analysis"
+    ],
+    "Data Storage": [
+      "Azure Data Lake / OneLake",
+      "Delta Lake / Parquet",
+      "Object/Document/Key-Value Stores",
+      "Non-Relational Databases"
+    ],
+    "API & Integration": [
+      "REST API Integration",
+      "SOAP",
+      "Authentication",
+      "Pagination & Retry Logic",
+      "Azure Functions"
+    ],
+    "DevOps & CI/CD": [
+      "Azure DevOps",
+      "Git",
+      "GitHub",
+      "CI/CD Pipelines",
+      "Infrastructure-as-Code"
+    ],
+    "Data Governance & Quality": [
+      "Data Quality Frameworks",
+      "Data Governance Compliance",
+      "Schema Design",
+      "Data Lineage"
+    ],
+    "Container & Compute": [
+      "Docker",
+      "Azure Networking (VNETs, Private Endpoints)"
+    ],
+    "Big Data Frameworks": [
+      "Apache Hadoop",
+      "Hive",
+      "MapReduce"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Plan and design a new lakehouse architecture using Microsoft Fabric and OneLake to consolidate disparate policy and claims data into a unified Bronze layer for analytics.",
+        "Implement PySpark data transformations within Synapse notebooks to create Silver-layer tables, cleansing raw data and enforcing insurance domain-specific business rules.",
+        "Deploy curated Gold-layer dimensional models as Fabric Warehouses to serve Power BI reports, ensuring data accuracy for regulatory compliance and risk management reporting.",
+        "Monitor daily pipeline execution via Azure Monitor dashboards, setting up alerts for job failures to maintain the always-available operational model for business users.",
+        "Optimize slow-running Spark jobs by analyzing query plans and adjusting partition sizes, reducing data processing latency for time-sensitive claim analytics.",
+        "Troubleshoot authentication issues with a REST API source by refining Azure Key Vault integration, securing external weather data used for catastrophe modeling.",
+        "Construct a proof-of-concept multi-agent system using LangGraph to automate data quality report generation, exploring its application for anomaly detection in financial transactions.",
+        "Establish a CI/CD pipeline in Azure DevOps to automate testing and deployment of ADF pipelines, improving deployment reliability and team velocity.",
+        "Debug a data mismatch in a critical BI dashboard by tracing the ETL flow from source to Fabric dataset, identifying a missing join condition in the SQL view.",
+        "Coordinate with data governance teams to document data lineage from source systems to Fabric reports, supporting audit requirements for insurance financial reporting.",
+        "Review pull requests for Synapse SQL scripts, suggesting improvements to window function usage and indexing strategies for better query performance.",
+        "Refactor a legacy monolithic data pipeline into modular ADF components, enhancing maintainability and enabling parallel development by the engineering team.",
+        "Configure Private Endpoints in Azure Networking to securely connect Synapse to internal policy administration databases, isolating data movement from the public internet.",
+        "Experiment with Model Context Protocol to structure metadata for agent-based systems, documenting findings for potential future R&D projects in automated underwriting.",
+        "Archive historical claims data to cool storage tiers in Azure Data Lake, implementing lifecycle policies to manage storage costs while preserving data accessibility.",
+        "Validate the schema evolution handling in Delta Lake tables, ensuring backward compatibility as new fields are added to the policy data model without breaking existing reports."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse",
+        "Microsoft Fabric",
+        "PySpark",
+        "OneLake",
+        "Delta Lake",
+        "Azure Key Vault",
+        "Azure DevOps",
+        "Power BI",
+        "Azure Monitor",
+        "Azure Networking",
+        "LangGraph",
+        "Python",
+        "SQL",
+        "Dimensional Modeling",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned the migration of clinical trial data pipelines to Azure Synapse, defining a lakehouse architecture that separated raw, cleansed, and aggregated data layers.",
+        "Implemented HIPAA-compliant data masking within PySpark transformations to de-identify patient records before analysis, using Azure Data Lake for secure storage.",
+        "Deployed Azure Data Factory pipelines with robust error handling and retry logic to ingest data from REST APIs, ensuring reliable data flow for research teams.",
+        "Monitored data quality metrics using custom logging to Fabric notebooks, flagging anomalies in laboratory result data for manual review by scientists.",
+        "Optimized dimensional models in Synapse SQL Pools to accelerate complex joins across patient, trial, and adverse event data, improving dashboard responsiveness.",
+        "Troubleshooted performance bottlenecks in a Spark streaming job that processed real-time device data, adjusting micro-batch intervals to balance latency and throughput.",
+        "Built a proof-of-concept using LangChain to structure unstructured medical literature, exploring its use for enhancing R&D data discovery pipelines.",
+        "Established a data governance workflow with Purview integration, classifying sensitive data elements to comply with healthcare regulations and internal policies.",
+        "Debugged a recurring pipeline failure caused by schema drift in source CSV files, implementing a flexible schema-on-read approach in the Bronze layer.",
+        "Coordinated daily stand-ups with software engineering to align on API contracts, ensuring smooth data handoff between clinical applications and the analytics platform.",
+        "Reviewed and refactored Python utility modules for API interactions, improving code reuse across different data ingestion workflows for the healthcare domain.",
+        "Configured Azure Functions for lightweight data transformations, processing small JSON payloads from IoT healthcare devices into the data lake.",
+        "Experienced initial challenges with Delta Lake merge operations on large datasets, eventually implementing optimized Z-ordering to improve performance.",
+        "Validated BI dashboard calculations against source EHR system reports, reconciling discrepancies with business analysts to ensure regulatory reporting accuracy."
+      ],
+      "environment": [
+        "Azure Synapse",
+        "Azure Data Factory",
+        "PySpark",
+        "Azure Data Lake",
+        "Delta Lake",
+        "Azure Functions",
+        "REST API",
+        "Dimensional Modeling",
+        "HIPAA Compliance",
+        "Data Governance",
+        "Python",
+        "SQL",
+        "Power BI",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed a data warehouse on AWS Redshift to consolidate public health records from multiple county sources, employing dimensional modeling for pandemic reporting.",
+        "Built AWS Glue ETL jobs with PySpark to process HIPAA-sensitive vaccination data, applying encryption and access logging to meet state security mandates.",
+        "Launched scheduled data pipelines that transformed raw JSON health surveys into structured Parquet files on S3, enabling analytics on population health trends.",
+        "Watched over data pipeline costs using AWS CloudWatch, adjusting Glue worker counts and job concurrency to stay within public sector budget constraints.",
+        "Improved query performance on large Medicaid datasets by implementing distribution and sort keys in Redshift, reducing report generation time for emergency responses.",
+        "Fixed data duplication issues in a daily batch load by examining Glue job bookmarks and source system change data capture logic, ensuring accurate record counts.",
+        "Created reusable Python modules for common data validation tasks, such as checking for null values in required fields and verifying date format consistency.",
+        "Set up a basic CI/CD pipeline using GitHub Actions to test and deploy Glue job scripts, introducing version control practices to the state data team.",
+        "Investigated a data latency problem traced to a slow API source, working with the vendor to improve response times and implementing incremental ingestion patterns.",
+        "Partnered with public health analysts to understand their data needs, translating their requirements into technical specifications for fact and dimension tables.",
+        "Updated legacy SQL scripts to use modern ANSI joins and CTEs, improving readability and maintainability for the newly formed data engineering team.",
+        "Checked data quality outputs manually each morning during the initial deployment phase, building confidence in the automated checks before full handover."
+      ],
+      "environment": [
+        "AWS Glue",
+        "PySpark",
+        "AWS Redshift",
+        "Amazon S3",
+        "Parquet",
+        "Python",
+        "SQL",
+        "Dimensional Modeling",
+        "CloudWatch",
+        "HIPAA Compliance",
+        "GitHub Actions",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Architected a data processing system on AWS to analyze credit card transaction streams, using S3 for raw data and Redshift for aggregated reporting features.",
+        "Developed Scala Spark jobs to cleanse and enrich financial transaction data, applying business rules to categorize spending while adhering to PCI-DSS standards.",
+        "Released daily batch aggregates to a Tableau server, providing business units with insights into customer spending patterns and potential fraud indicators.",
+        "Oversaw the nightly ETL job completion, responding to occasional failures by examining Spark driver logs and restarting from the last successful checkpoint.",
+        "Enhanced a slow-moving customer segmentation query by rewriting it to use temporary tables and pre-aggregated metrics, satisfying user demand for faster refreshes.",
+        "Repaired broken data feeds from mainframe sources by collaborating with legacy system teams to adjust the FTP file transfer schedule and format.",
+        "Produced documentation for the new data pipeline architecture, diagramming the flow from source systems to analytical datasets for onboarding new team members.",
+        "Initiated a weekly data quality review meeting with stakeholders, presenting metrics on record counts and value distributions to build trust in the new platform.",
+        "Explored machine learning libraries for anomaly detection, though the initial project scope later shifted to focus on core reporting and ETL delivery.",
+        "Confirmed the accuracy of financial reporting numbers by manually sampling transaction records and tracing them through the entire processing lifecycle."
+      ],
+      "environment": [
+        "AWS S3",
+        "Apache Spark (Scala)",
+        "AWS Glue",
+        "Amazon Redshift",
+        "Tableau",
+        "Python",
+        "SQL",
+        "Data Warehousing",
+        "PCI-DSS Compliance",
+        "ETL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to build Hadoop MapReduce jobs in Java to process large log files for a consulting client, extracting session data for customer behavior analysis.",
+        "Wrote Informatica workflows to move data from Oracle databases to a staging area, performing basic transformations like data type conversion and field mapping.",
+        "Used Sqoop to incrementally import sales data from relational databases into HDFS, scheduling the jobs with a simple cron scheduler on a Linux server.",
+        "Assisted senior engineers in monitoring cluster health, checking disk space and job status on the on-premise Hadoop cluster via command-line tools.",
+        "Suggested a small improvement to a repetitive mapping task by creating a reusable Informatica template, which was adopted by the team for similar projects.",
+        "Helped troubleshoot a failing Sqoop job that had connectivity issues with the source database, learning about JDBC drivers and network configurations.",
+        "Began documenting the steps for the nightly batch process, creating a simple checklist that reduced mistakes during manual operations.",
+        "Asked many questions during code reviews, gradually understanding best practices for writing efficient Hive queries and managing partitions in HDFS."
+      ],
+      "environment": [
+        "Hadoop",
+        "MapReduce (Java)",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "Oracle",
+        "Hive",
+        "Linux",
+        "Shell Scripting",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

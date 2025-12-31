@@ -1,0 +1,297 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Azure Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I have more than ten years of experience building enterprise data solutions, specializing in Azure Data Factory, Spark, and Scala for large-scale ETL/ELT pipelines across insurance, healthcare, and banking domains.",
+    "Design and maintain secure data ingestion frameworks using Azure Data Factory and ADLS Gen2, ensuring encrypted data movement and HIPAA/PCI-DSS compliance for sensitive client information in regulated industries.",
+    "Construct scalable Spark/Scala applications on Azure Databricks for big data transformations, applying partitioning and caching strategies to improve job performance and reduce cloud compute costs significantly.",
+    "Establish enterprise data lake architectures on Azure, defining medallion layers (bronze, silver, gold) and implementing Unity Catalog for centralized governance across multi-departmental analytics teams.",
+    "Execute complex data pipeline deployments using Azure DevOps, authoring YAML pipelines and release gates to automate promotions from development to production environments with zero downtime.",
+    "Formulate data quality checks and error handling routines within ADF pipelines, incorporating retry logic and alerting via Log Analytics to ensure reliability for critical business reporting.",
+    "Operate within the Microsoft Azure ecosystem daily, integrating pipelines with Azure SQL, Synapse Analytics, and Key Vault using Managed Identities for secure, password-less authentication.",
+    "Prepare detailed technical documentation for data workflows, including data lineage in Purview and runbooks for production support teams to facilitate knowledge transfer and troubleshooting.",
+    "Assemble metadata-driven pipeline frameworks in ADF, parameterizing datasets and activities to create reusable templates that accelerated new project setup by several days.",
+    "Guide junior engineers through code reviews and debugging sessions for Spark applications, focusing on best practices for Scala optimization and avoiding common shuffle-related performance pitfalls.",
+    "Administer Spark cluster configurations in Synapse, tuning executor memory and dynamic allocation settings based on workload patterns to balance job speed with infrastructure expenditure.",
+    "Review pipeline performance metrics and cost reports in Azure Monitor, identifying underutilized resources and suggesting right-sizing actions that led to consistent monthly savings.",
+    "Modify existing SSIS packages for migration to cloud-native ADF pipelines, refactoring complex business logic into mapping data flows and Azure Functions for better maintainability.",
+    "Coordinate with offshore development teams at Tech Mahindra, conducting daily stand-ups and design sessions to distribute work effectively across time zones for 24-hour project momentum.",
+    "Validate data pipeline outputs against business requirements, working directly with client stakeholders in the insurance sector to ensure accuracy for regulatory filings and risk modeling.",
+    "Demonstrate new Azure AI Foundry capabilities to client architects, building proof-of-concept integrations that infused existing ETL workflows with predictive scoring and anomaly detection.",
+    "Transition monolithic batch processes to incremental loading patterns using change data capture techniques, dramatically reducing nightly processing windows for time-sensitive financial data.",
+    "Support production data platforms, participating in an on-call rotation to diagnose pipeline failures, correct data discrepancies, and implement preventive fixes to improve overall system stability."
+  ],
+  "technical_skills": {
+    "Cloud Data Engineering": [
+      "Azure Data Factory (ADF)",
+      "Azure Synapse Analytics",
+      "Azure Data Lake Storage (ADLS Gen2)",
+      "Azure Functions",
+      "Azure Key Vault",
+      "Azure SQL Database",
+      "Azure DevOps"
+    ],
+    "Big Data Processing": [
+      "Apache Spark",
+      "Spark SQL",
+      "Spark DataFrames",
+      "Delta Lake",
+      "Distributed Data Processing",
+      "Databricks"
+    ],
+    "Programming Languages": [
+      "Scala",
+      "Python",
+      "SQL",
+      "T-SQL"
+    ],
+    "Data Pipeline & Orchestration": [
+      "ETL/ELT Pipelines",
+      "ADF Mapping Data Flows",
+      "Data Ingestion",
+      "Data Transformation",
+      "Pipeline Orchestration",
+      "SSIS"
+    ],
+    "Data Governance & Security": [
+      "Unity Catalog",
+      "Entra ID (Azure AD)",
+      "RBAC",
+      "Managed Identity",
+      "Data Encryption",
+      "HIPAA/PCI-DSS Compliance"
+    ],
+    "Data Storage": [
+      "ADLS Gen2",
+      "Azure Blob Storage",
+      "Delta Tables",
+      "Parquet/ORC Formats",
+      "Data Partitioning"
+    ],
+    "DevOps & CI/CD": [
+      "Azure Pipelines (YAML)",
+      "Git Version Control",
+      "Automated Deployment",
+      "Infrastructure as Code",
+      "Release Management"
+    ],
+    "Performance & Optimization": [
+      "Spark Performance Tuning",
+      "Scala Code Optimization",
+      "Query Optimization",
+      "Cost Optimization",
+      "Pipeline Monitoring"
+    ],
+    "Microsoft Ecosystem Tools": [
+      "SQL Server Management Studio (SSMS)",
+      "PowerShell",
+      "Azure CLI",
+      "Azure Portal",
+      "Microsoft Purview"
+    ],
+    "Data Modeling & Architecture": [
+      "Dimensional Modeling",
+      "Star/Snowflake Schema",
+      "Data Lakehouse Design",
+      "Medallion Architecture",
+      "Metadata Management"
+    ],
+    "Monitoring & Management": [
+      "Azure Monitor",
+      "Log Analytics",
+      "Alert Rules",
+      "Pipeline Logging",
+      "Job History Analysis"
+    ],
+    "AI/ML Integration": [
+      "Azure AI Foundry",
+      "AI-Enabled Workflows",
+      "Model Integration",
+      "Predictive Analytics"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Build and maintain Azure Data Factory pipelines for ingesting policy and claims data from on-premise SQL Server into ADLS Gen2, implementing incremental loads to handle terabytes of daily transactions efficiently.",
+        "Develop Spark applications using Scala to transform raw insurance data, writing optimized UDFs for complex premium calculations and ensuring compliance with state-level regulatory requirements.",
+        "Implement a unified data catalog with Unity Catalog to govern PII data across the enterprise, setting up column-level masking and access policies for different actuarial and underwriting teams.",
+        "Create scalable ELT workflows in ADF that use mapping data flows for initial cleansing, then call Synapse serverless SQL pools for further transformation, improving pipeline modularity.",
+        "Integrate Azure Key Vault into all data pipelines, replacing connection strings with secure references and using Managed Identity for ADF to access other Azure services without stored secrets.",
+        "Orchestrate multi-step pipeline dependencies in ADF, setting up retry policies and timeout handling for external API calls that fetch third-party risk assessment data.",
+        "Debug performance issues in Spark jobs analyzing years of historical claims, identifying and fixing data skew by implementing salting techniques on join keys for better distribution.",
+        "Participate in architecture reviews, suggesting cost-saving changes like moving some cold data to archive tier storage and implementing lifecycle management policies on ADLS.",
+        "Write unit tests for Scala transformation logic using ScalaTest, integrating these tests into the Azure DevOps build pipeline to catch regressions before deployment to higher environments.",
+        "Configure Azure Monitor alerts for pipeline failures and high data latency, setting up Action Groups to notify the support team via email and Teams messages for quick response.",
+        "Collaborate with data scientists to deploy a proof-of-concept using Azure AI Foundry, operationalizing a fraud detection model that scores incoming claims data within the existing ETL flow.",
+        "Document the data lineage from source systems to curated gold-layer tables using Purview, helping auditors trace data for compliance reports and Sarbanes-Oxley requirements.",
+        "Attend daily scrum meetings with the offshore Tech Mahindra team, clarifying requirements and reviewing pull requests for ADF JSON templates and Scala code changes.",
+        "Troubleshoot a recurring pipeline timeout, discovering a network latency issue with the on-premise gateway and working with infrastructure teams to increase the gateway's resource allocation.",
+        "Optimize a critical monthly financial reporting job by rewriting a Scala aggregation, reducing its Spark runtime from several hours to under forty minutes and saving substantial compute cost.",
+        "Validate data quality outputs after major pipeline changes, comparing row counts and aggregate sums between old and new processes to ensure business reporting accuracy was maintained."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Apache Spark",
+        "Scala",
+        "Azure Synapse Analytics",
+        "ADLS Gen2",
+        "Unity Catalog",
+        "Azure Key Vault",
+        "Azure DevOps",
+        "SQL Server",
+        "Entra ID",
+        "Azure AI Foundry",
+        "PowerShell",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed HIPAA-compliant data ingestion pipelines in ADF to move sensitive patient clinical trial data from various source systems into a centralized Azure Data Lake for research analytics.",
+        "Built Spark SQL transformations in Scala to anonymize patient identifiers and aggregate adverse event data, ensuring the output met strict healthcare privacy regulations before researcher access.",
+        "Established a data governance framework using Unity Catalog, classifying datasets containing PHI and enforcing access controls via Entra ID groups for different research departments.",
+        "Implemented a metadata-driven ADF pipeline that dynamically processed new clinical study data files, reducing manual configuration effort for each new trial dataset by the operations team.",
+        "Configured secure integration between ADF and on-premise data sources using the Self-Hosted Integration Runtime within the hospital's private network, following defined security protocols.",
+        "Monitored pipeline performance and costs using Azure Monitor workbooks, creating weekly reports that highlighted resource consumption trends and identified opportunities for optimization.",
+        "Authored deployment scripts in PowerShell to automate the provisioning of ADF linked services and pipelines across development, testing, and production Azure subscriptions.",
+        "Resolved data quality issues in a key patient cohort dataset, tracing inaccuracies back to a source system change and collaborating with the source team to correct the extraction logic.",
+        "Led a code review session for a junior developer's Scala module, providing feedback on using DataFrame APIs over RDDs for better performance and readability in drug efficacy analysis.",
+        "Migrated several legacy SSIS packages that processed lab result data to native ADF pipelines, improving maintainability and enabling better monitoring through Azure-native tools.",
+        "Attended requirements gathering sessions with clinical researchers to understand their data needs for a new oncology study, translating them into technical specifications for the ETL build.",
+        "Tested pipeline failure scenarios, such as missing source files and network disconnections, to ensure built-in retry and alerting mechanisms functioned correctly for high-reliability operations.",
+        "Updated technical documentation in Confluence, detailing the data flow architecture and support procedures for the newly launched healthcare data platform.",
+        "Suggested using Delta Lake format for the curated data layer to enable time travel and simplify merge operations for slowly changing dimensions related to patient visit records."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Apache Spark",
+        "Scala",
+        "ADLS Gen2",
+        "Azure SQL",
+        "Unity Catalog",
+        "Entra ID",
+        "Azure Key Vault",
+        "SSIS",
+        "PowerShell",
+        "Azure Monitor",
+        "HIPAA Compliant Architecture"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Architected AWS Glue ETL jobs using PySpark to process public health data from S3, transforming JSON and CSV files into Parquet format for efficient querying by state health analysts.",
+        "Developed data validation checks within the Glue scripts, flagging records with missing required fields for the Medicaid enrollment dataset and routing them to a quarantine bucket for review.",
+        "Managed IAM roles and policies to ensure Glue jobs and Lambda functions had least-privilege access to S3 buckets containing sensitive healthcare information, adhering to public sector security standards.",
+        "Created infrastructure as code templates using AWS CloudFormation to provision the data pipeline stack, enabling consistent and repeatable deployments across different state agency environments.",
+        "Optimized a slow-running Glue job by adjusting the number of partitions and switching to the G.1X worker type, which cut the runtime in half and stayed within the department's budget.",
+        "Set up Amazon CloudWatch alarms to monitor job failures and data backlog, sending notifications to an SNS topic so the support team could respond to issues outside business hours.",
+        "Worked with database administrators to design Redshift tables from the curated data, applying distribution and sort keys to optimize performance for frequent aggregation queries.",
+        "Debugged a persistent memory error in a large join operation, solving it by broadcasting the smaller dataset and increasing the driver memory allocation in the Glue job configuration.",
+        "Documented the data lineage from source S3 paths to final Redshift tables, creating simple diagrams that helped non-technical stakeholders understand the data journey.",
+        "Participated in weekly change control board meetings, presenting details for planned pipeline modifications and obtaining necessary approvals for production deployments.",
+        "Trained two new team members on the AWS data stack, walking them through the development and debugging process for Glue jobs using the AWS console and notebook interfaces.",
+        "Coordinated with the security team to perform vulnerability scans on the pipeline infrastructure, addressing findings related to S3 bucket policies and ensuring all data was encrypted at rest."
+      ],
+      "environment": [
+        "AWS Glue",
+        "PySpark",
+        "Amazon S3",
+        "AWS Lambda",
+        "Amazon Redshift",
+        "AWS IAM",
+        "CloudFormation",
+        "Parquet",
+        "CloudWatch",
+        "HIPAA Compliant Architecture"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Programmed AWS Glue ETL scripts in Python to ingest daily transaction data from FTP servers into S3, implementing data masking for card numbers to maintain PCI-DSS compliance.",
+        "Constructed a data quality framework that profiled incoming financial data, calculating metrics like null counts and value distributions to alert analysts of anomalous patterns indicative of feed problems.",
+        "Assisted in designing a star schema in Redshift for customer behavior analytics, defining fact tables for transactions and dimension tables for customers, products, and time.",
+        "Scheduled Glue jobs using AWS Step Functions to create a dependency chain, ensuring raw data was validated and cleansed before aggregation jobs began their processing.",
+        "Reviewed CloudWatch logs to troubleshoot a job that failed intermittently, discovering it was due to transient network timeouts with an external data provider and implementing an exponential backoff retry.",
+        "Learned about data partitioning strategies on S3, organizing transaction data by year, month, and day to improve query performance for Athena analysts who filtered by date ranges.",
+        "Prepared a demonstration for stakeholders showing how moving a legacy SAS process to AWS Glue reduced the monthly compute cost and improved the data freshness by several hours.",
+        "Worked with the data governance team to tag S3 resources appropriately, ensuring cost allocation tags were applied for accurate chargeback to different business units.",
+        "Tested disaster recovery procedures by failing over Glue scripts to a secondary AWS region, verifying that pipelines could process data successfully from backup S3 buckets.",
+        "Attended internal training on financial regulations to better understand the compliance context around the transaction data being processed and the importance of audit trails."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Python",
+        "Amazon S3",
+        "Amazon Redshift",
+        "AWS Step Functions",
+        "CloudWatch",
+        "Athena",
+        "PCI-DSS Compliant Architecture"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Extracted data from various client source systems using Informatica PowerCenter, writing SQL queries in Source Qualifier transformations to pull only required columns for performance.",
+        "Loaded transformed data into Hadoop HDFS using Sqoop, initially struggling with connection issues but learning to adjust heap size parameters for handling large volume datasets.",
+        "Wrote HiveQL scripts to create external tables on top of ingested data, partitioning tables by date to allow analysts to query subsets of data more efficiently.",
+        "Supported senior developers in performance tuning MapReduce jobs, observing how changing the number of reducers affected job completion times for large sorting operations.",
+        "Maintained existing Informatica workflows, monitoring session logs for failures and restarting them after correcting common issues like source file unavailability or disk space limits.",
+        "Attended knowledge transfer sessions on the client's data warehouse model, taking notes on key business rules that were encoded in the existing ETL mappings for financial reporting.",
+        "Learned basic Linux commands for navigating the Hadoop cluster, checking job status with YARN commands, and moving files between directories in HDFS for different processing stages.",
+        "Assisted in creating technical documentation for the developed ETL processes, drawing simple flow diagrams in Visio to show how data moved from source to target systems."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Hive",
+        "MapReduce",
+        "HDFS",
+        "SQL",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

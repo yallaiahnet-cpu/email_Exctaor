@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Machine Learning Engineer - Time-Series Analytics & Forecasting",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Contributed 10 years across Insurance, Healthcare, Banking, and Consulting domains with PyTorch and TensorFlow for time-series forecasting models including ARIMA, Prophet, LSTM networks that handle large-scale predictive analytics on AWS infrastructure.",
+    "Built anomaly detection systems using Scikit-learn and PySpark processing petabyte-scale time-series data with feature engineering pipelines that extract seasonal patterns and handle missing values through statistical imputation methods.",
+    "Designed deep learning architectures with RNN and Transformer models for multi-step forecasting that predict future trends across multiple horizons while maintaining model robustness against concept drift in production environments.",
+    "Constructed MLOps workflows using MLflow and Docker containers with CI/CD pipelines on AWS SageMaker that automate model retraining triggers and enable A/B testing for gradual rollout of new forecasting algorithms across environments.",
+    "Processed time-series datasets with Pandas and NumPy implementing data preprocessing steps like normalization, detrending, and seasonality decomposition while ensuring data quality through validation checks and outlier removal before training.",
+    "Configured AWS services including S3 for dataset storage, EC2 for distributed model training, and Lambda functions for real-time inference endpoints that serve predictions with low latency to downstream applications handling traffic.",
+    "Established model monitoring dashboards using CloudWatch and Prometheus tracking performance metrics like MAE, RMSE, MAPE across different forecast horizons while setting up alerts for model drift detection and performance degradation issues.",
+    "Integrated causal inference methods into predictive models analyzing relationships between exogenous variables and target time-series to improve forecast accuracy when external factors influence future trends significantly in data patterns.",
+    "Automated data pipelines with Airflow orchestrating ETL jobs that clean raw sensor data, transform features, and load processed datasets into PostgreSQL and TimescaleDB for efficient time-series query operations supporting analytics.",
+    "Coordinated with data engineers on PySpark jobs processing streaming data from Kafka topics applying sliding window operations for real-time anomaly detection that flag unusual patterns within seconds of occurrence across systems.",
+    "Tested hyperparameter optimization strategies using grid search and random search across LSTM configurations finding optimal combinations of layers, units, and dropout rates that balance prediction accuracy with training time constraints.",
+    "Deployed REST APIs with FastAPI serving ensemble models that combine multiple forecasting approaches including gradient boosting with XGBoost and statistical methods for probabilistic predictions with confidence intervals for decisions.",
+    "Managed feature stores centralizing time-series feature definitions across teams ensuring consistency in feature extraction logic and reducing redundant computation when multiple models use same derived attributes for predictions.",
+    "Validated models through time-series cross-validation using walk-forward techniques that simulate production conditions by training on historical windows and testing on subsequent periods to assess generalization capability accurately.",
+    "Maintained Git repositories with DVC for version control of large datasets and model artifacts enabling reproducibility of experiments and easy rollback to previous model versions when new deployments show issues in production environments.",
+    "Analyzed multi-variate time-series data understanding correlations between related series and incorporating lagged features from multiple variables into forecasting models to capture dependencies that improve prediction quality across datasets.",
+    "Collaborated with domain experts translating business requirements into technical specifications for forecasting systems while explaining model outputs and uncertainty quantification to non-technical stakeholders during review meetings.",
+    "Optimized AWS infrastructure costs by selecting appropriate EC2 instance types for training workloads, implementing spot instances for batch predictions, and tuning Spark cluster configurations to maximize resource utilization efficiency."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "Scala"
+    ],
+    "Machine Learning Frameworks": [
+      "Scikit-Learn",
+      "XGBoost",
+      "LightGBM",
+      "Prophet",
+      "Statsmodels",
+      "H2O"
+    ],
+    "Deep Learning Frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "Keras"
+    ],
+    "Time-Series Architectures": [
+      "LSTM Networks",
+      "GRU Networks",
+      "RNN",
+      "Transformers",
+      "Auto-encoders",
+      "Attention Mechanisms"
+    ],
+    "Data Processing Libraries": [
+      "Pandas",
+      "NumPy",
+      "PySpark",
+      "Dask",
+      "SciPy"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (S3, SageMaker, EC2, Lambda, RDS, Redshift, CloudWatch)",
+      "Azure (ML Studio, Data Factory, Databricks)"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Apache Airflow",
+      "Spark Streaming",
+      "Hive"
+    ],
+    "MLOps & Deployment": [
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "DVC",
+      "CI/CD (Jenkins, GitHub Actions)",
+      "Terraform"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "TimescaleDB",
+      "SQL Server",
+      "Snowflake",
+      "MongoDB"
+    ],
+    "Model Serving & APIs": [
+      "FastAPI",
+      "Flask",
+      "REST APIs"
+    ],
+    "Monitoring & Visualization": [
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Tableau",
+      "matplotlib",
+      "seaborn"
+    ],
+    "Anomaly Detection Methods": [
+      "Isolation Forest",
+      "Statistical Methods",
+      "Unsupervised Learning"
+    ],
+    "Feature Engineering Tools": [
+      "Feature Stores (Feast, SageMaker)",
+      "Great Expectations",
+      "Custom Pipelines"
+    ],
+    "Version Control & Testing": [
+      "Git",
+      "GitHub",
+      "Pytest",
+      "Unit Testing"
+    ],
+    "Model Interpretability": [
+      "SHAP",
+      "LIME"
+    ],
+    "Distributed Computing": [
+      "Ray",
+      "Spark MLlib"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Assess business requirements for insurance claim forecasting with stakeholders defining model objectives including prediction horizons, accuracy targets, and compliance needs around PCI-DSS regulations before starting technical design work.",
+        "Structure multi-agent system using LangGraph orchestrating specialized agents for data validation, feature extraction, model training, and prediction serving while implementing Model Context Protocol for agent-to-agent communication patterns.",
+        "Develop LSTM-based forecasting models in PyTorch processing historical claim data from S3 buckets applying feature engineering on time-series attributes like claim frequency, seasonal patterns, and policy holder demographics using Pandas operations.",
+        "Create proof of concepts with Databricks notebooks testing various deep learning architectures including Transformer models comparing performance across different forecast horizons to identify optimal approach before full-scale implementation begins.",
+        "Build PySpark ETL jobs on Databricks extracting claim records from AWS RDS transforming timestamps into lag features and rolling statistics then loading processed datasets into feature store for model consumption reducing preparation time significantly.",
+        "Implement Crew AI framework coordinating multiple agents where one agent handles anomaly detection in incoming claims another performs fraud pattern recognition and third agent generates forecasts enabling parallel processing workflows across systems.",
+        "Package trained models into Docker containers deploying on AWS SageMaker endpoints with auto-scaling configurations that handle variable prediction request loads during peak claim periods maintaining sub-second response times for real-time predictions.",
+        "Configure CloudWatch dashboards tracking model metrics including forecast accuracy MAPE values, data drift indicators, and system performance measures like inference latency setting up automated alerts when thresholds breach requiring investigation.",
+        "Schedule Airflow DAGs triggering weekly model retraining jobs when concept drift detection indicates performance degradation comparing new model versions against production baseline using A/B testing before promoting to full traffic deployment.",
+        "Apply causal inference techniques analyzing impact of weather patterns and economic indicators on claim volumes incorporating exogenous variables into forecasting models improving prediction accuracy during unusual external events affecting insurance claims.",
+        "Process correlated time-series across different insurance product lines using multi-variate LSTM networks capturing dependencies between auto, home, and life insurance claims that share common seasonal trends and regional patterns across data.",
+        "Tune hyperparameters for Transformer models experimenting with attention head counts, embedding dimensions, and dropout rates through grid search finding configurations that reduce RMSE while maintaining reasonable training times on EC2 instances.",
+        "Debug production issues where forecast accuracy dropped investigating root causes including data quality problems upstream schema changes and model staleness implementing fixes like additional validation checks and retraining triggers for stability.",
+        "Combine predictions from multiple models including Prophet for trend capture ARIMA for short-term forecasts and LSTM for complex patterns using weighted averaging based on recent performance metrics improving overall robustness across horizons.",
+        "Stream claim submissions through Kafka topics applying sliding window aggregations with Spark Streaming generating features from recent claim patterns feeding into online learning models that adapt to changing claim behavior quickly in production.",
+        "Write technical documentation describing model architectures, feature definitions, training procedures, and deployment configurations enabling team members to understand system design and maintain models when original developers rotate off project."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "PySpark",
+        "Databricks",
+        "LangGraph",
+        "Crew AI",
+        "Model Context Protocol",
+        "AWS (S3, SageMaker, EC2, Lambda, RDS, CloudWatch)",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "Airflow",
+        "Kafka",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "LSTM",
+        "Transformers",
+        "Prophet",
+        "ARIMA",
+        "FastAPI",
+        "Prometheus",
+        "Git",
+        "DVC"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Met with healthcare operations teams understanding needs for patient admission forecasting and medication demand prediction while ensuring all solutions comply with HIPAA regulations for protected health information handling throughout development lifecycle.",
+        "Constructed ETL workflows using Databricks processing electronic health records from AWS RDS applying de-identification techniques and feature extraction logic generating time-series datasets with patient visit patterns and treatment histories for analysis.",
+        "Trained RNN architectures using PyTorch for predicting hospital bed occupancy analyzing historical admission patterns seasonal flu trends and demographic factors achieving forecast accuracy suitable for resource planning across multiple facilities.",
+        "Proved concept feasibility with LangChain agents automating medical literature review for treatment effectiveness studies extracting relevant findings from research papers and clinical trial databases supporting evidence-based forecasting model enhancements.",
+        "Identified unusual patterns in medication inventory levels using Isolation Forest algorithms flagging potential supply chain disruptions or data quality issues enabling proactive investigation before stock shortages impact patient care delivery.",
+        "Organized agent workflows with AutoGen framework where separate agents handle patient data preprocessing, predictive modeling, result validation, and report generation ensuring outputs meet healthcare quality standards before clinical use.",
+        "Generated time-series features from patient encounter data including visit frequency, treatment duration distributions, and readmission rates using Pandas calculating rolling statistics and lag features capturing dependencies.",
+        "Released forecasting models through SageMaker endpoints with encryption for data in transit and at rest satisfying HIPAA technical safeguards exposing REST APIs to hospital management systems for daily prediction updates.",
+        "Tracked model accuracy metrics comparing predicted versus actual patient volumes using CloudWatch logs analyzing forecast errors by facility location and time period identifying when retraining becomes necessary due to changing patterns.",
+        "Forecasted medication demand for pharmacies training LSTM models on historical prescription data incorporating seasonal illness patterns and demographic shifts helping inventory managers optimize stock levels reducing waste from expiration.",
+        "Validated incoming healthcare data implementing Great Expectations test suites checking for missing values, outliers, and schema compliance rejecting batches that fail quality thresholds before they corrupt training datasets.",
+        "Examined relationships between treatment protocols and patient outcomes using causal analysis methods identifying factors that significantly influence recovery times feeding insights into forecasting models for better outcome predictions.",
+        "Scheduled weekly forecast generation jobs using Airflow processing aggregated patient data from multiple sources running ensemble models combining statistical and deep learning approaches producing consolidated predictions for executive dashboards.",
+        "Explained forecasting model predictions using SHAP values showing which features like seasonal trends or demographic factors contributed most to specific predictions helping clinical staff understand and trust automated recommendations."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "PySpark",
+        "Databricks",
+        "LangChain",
+        "AutoGen",
+        "AWS (S3, SageMaker, EC2, RDS, CloudWatch)",
+        "Docker",
+        "MLflow",
+        "Airflow",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "RNN",
+        "LSTM",
+        "Isolation Forest",
+        "FastAPI",
+        "Great Expectations",
+        "SHAP",
+        "Git",
+        "HIPAA Compliance Tools"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Defined scope for Medicaid enrollment forecasting system working with state healthcare officials understanding policy changes affecting eligibility and ensuring solution meets HIPAA and state regulatory requirements for public sector systems.",
+        "Provisioned Azure infrastructure including Data Factory for ETL pipelines, Databricks for distributed processing, and ML Studio for model training establishing secure environments compliant with government data handling policies.",
+        "Pulled enrollment records from legacy SQL Server databases using SSIS packages transforming demographic information and program participation history into standardized formats suitable for time-series analysis with Pandas.",
+        "Applied ARIMA models forecasting monthly enrollment trends analyzing historical patterns including seasonal variations and policy impact events using Statsmodels library achieving predictions within acceptable error margins for budget planning.",
+        "Calculated time-series features from enrollment data including moving averages, trend components, and categorical encodings for demographic segments using NumPy operations preparing datasets for machine learning model training.",
+        "Built LSTM networks in TensorFlow predicting enrollment numbers across different Medicaid programs incorporating external factors like unemployment rates and policy changes improving accuracy over traditional statistical methods.",
+        "Executed training jobs on Azure ML Studio using GPU compute resources tuning learning rates, batch sizes, and network depths through systematic experimentation tracking results in MLflow for version comparison and analysis.",
+        "Detected outliers in enrollment data using statistical methods flagging unusual spikes or drops that might indicate data quality issues or unreported policy changes requiring investigation before model training.",
+        "Scheduled data processing and model training workflows with Airflow ensuring weekly updates to forecasts as new enrollment data becomes available automating end-to-end pipeline from data extraction to prediction delivery.",
+        "Validated forecast accuracy using walk-forward testing simulating production conditions by training on historical periods and testing on subsequent months calculating MAE and RMSE metrics for different forecast horizons.",
+        "Published trained models to Azure ML endpoints creating REST APIs that accept request parameters and return enrollment predictions with confidence intervals integrating with state dashboard systems for visualization.",
+        "Maintained records of data access, model versions, and prediction outputs satisfying HIPAA audit requirements and state government documentation standards ensuring transparency in automated decision support systems."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "PySpark",
+        "Databricks",
+        "Azure (ML Studio, Data Factory, Databricks)",
+        "SSIS",
+        "SQL Server",
+        "Airflow",
+        "MLflow",
+        "Pandas",
+        "NumPy",
+        "Statsmodels",
+        "ARIMA",
+        "LSTM",
+        "REST APIs",
+        "Git",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Gathered specifications for transaction volume forecasting talking with banking operations understanding peak periods and compliance needs around PCI-DSS for secure handling of financial transaction data across channels.",
+        "Retrieved transaction records from Azure SQL databases aggregating daily volumes across branches and ATM networks preparing historical time-series datasets spanning multiple years for pattern analysis and model development work.",
+        "Examined transaction patterns identifying weekly cycles, monthly trends, and holiday effects visualizing findings with matplotlib helping stakeholders understand data characteristics before model development.",
+        "Used Prophet models predicting daily transaction volumes incorporating special events like holidays and payroll dates achieving baseline forecasts for comparison against machine learning approaches during evaluation phase.",
+        "Derived time-series features including day-of-week indicators, rolling transaction counts, and velocity metrics from raw data using Pandas transformations creating informative inputs for predictive models during training phase.",
+        "Trained gradient boosting models with XGBoost on tabular features extracted from time-series data comparing performance against LSTM approaches finding optimal method for transaction forecasting accuracy in production.",
+        "Tuned hyperparameters through random search exploring tree depth, learning rate, and regularization parameters for XGBoost models improving prediction accuracy while avoiding overfitting to training data during validation.",
+        "Packaged models into Docker containers deploying on Azure ML endpoints with authentication and encryption meeting PCI-DSS requirements exposing APIs for downstream systems to retrieve forecasts securely from services.",
+        "Created dashboards in Azure Monitor tracking model performance metrics and system health setting alerts for forecast errors exceeding thresholds or data pipeline failures requiring immediate attention from team members.",
+        "Flagged unusual transaction patterns using statistical control charts identifying potential fraud or system errors enabling rapid investigation by security teams before significant impact occurs to customer accounts."
+      ],
+      "environment": [
+        "Python",
+        "XGBoost",
+        "Prophet",
+        "Azure (ML Studio, SQL Database, Monitor)",
+        "Docker",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "matplotlib",
+        "REST APIs",
+        "Git",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Understood Hadoop ecosystem components including HDFS, MapReduce, and Hive through hands-on practice processing sample datasets gaining foundation in distributed computing concepts and big data processing techniques.",
+        "Transferred data from relational databases to Hadoop using Sqoop commands scheduling incremental imports that capture daily changes in source systems for downstream analytics and reporting requirements meeting deadlines.",
+        "Wrote Informatica workflows transforming raw data into clean formats applying business rules and data quality checks before loading into Hive tables for reporting purposes ensuring accuracy and completeness of results.",
+        "Checked ETL job logs identifying failures and performance bottlenecks working with senior engineers to troubleshoot issues and optimize workflows for faster processing reducing execution times significantly improving throughput.",
+        "Compared record counts between source and target systems ensuring data completeness after migration documenting discrepancies for investigation and resolution by team members during quality assurance review cycles.",
+        "Improved query performance by adding partitions and using appropriate file formats reducing execution times for frequently accessed reports helping business users get insights faster from large datasets stored in cluster.",
+        "Created runbooks describing ETL processes and operational procedures helping team members understand workflows during on-call support rotation improving knowledge transfer across team reducing troubleshooting times.",
+        "Participated in daily standups and code reviews learning best practices from experienced developers and contributing to team knowledge sharing sessions building technical skills in distributed data processing frameworks."
+      ],
+      "environment": [
+        "Hadoop",
+        "Hive",
+        "Sqoop",
+        "Informatica",
+        "MapReduce",
+        "SQL",
+        "Linux",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

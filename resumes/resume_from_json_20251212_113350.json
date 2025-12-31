@@ -1,0 +1,279 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Engineering Lead - Microsoft Ecosystem & Enterprise Platforms",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Data Engineering and Enterprise Platform Integration, specializing in building secure, scalable data pipelines within regulated industries like Healthcare and Finance while ensuring strict compliance.",
+    "Engineered robust automation pipelines within the AWS ecosystem to streamline data ingestion from Microsoft Graph, significantly improving data flow reliability for critical healthcare analytics and patient data processing initiatives.",
+    "Architected comprehensive reporting and monitoring solutions for enterprise data platforms, implementing proactive alerting mechanisms that reduced system downtime by ensuring continuous operational visibility across interconnected services.",
+    "Led the security posture management for several data platforms, identifying potential risks in data access patterns and implementing mitigation strategies that adhered to HIPAA and other stringent regulatory frameworks.",
+    "Coordinated complex enterprise integration projects, acting as the technical lead to align platform engineering, operations, and data science teams toward unified milestones and successful Microsoft ecosystem implementations.",
+    "Collaborated extensively with cross-functional stakeholders including platform architects and Microsoft support to translate business requirements for Viva Insights into actionable technical designs and secure data workflows.",
+    "Established rigorous quality checks and reliability monitoring protocols for data pipelines, focusing on data accuracy and system resilience to support high-stakes decision-making in insurance and government sectors.",
+    "Optimized cloud resource usage and implemented cost-control measures for data engineering workloads, ensuring efficient consumption of AWS compute and storage services without compromising performance or scalability.",
+    "Implemented identity and access management controls using Azure Active Directory concepts, managing application registrations and approval groups to govern secure data access across enterprise applications.",
+    "Designed and documented data pipeline orchestration frameworks with a strong emphasis on error handling and resilience, ensuring stable data delivery for financial transaction processing and compliance reporting.",
+    "Built logging, monitoring, and observability designs for real-time data systems, enabling rapid troubleshooting of issues in data flow and ensuring adherence to enterprise standards and design patterns.",
+    "Navigated the Microsoft 365 ecosystem to facilitate secure data access and compliance, integrating API-based ingestion patterns to feed organizational network analysis and other advanced people analytics.",
+    "Guided engineering teams through the adoption of industry best practices for data lake architecture and pipeline orchestration, fostering a culture of quality and robust engineering within project deliverables.",
+    "Managed dependencies across large-scale enterprise platforms, ensuring seamless data integrations between core business systems and emerging analytics workloads for government and public sector clients.",
+    "Translated ambiguous requirements into clear technical milestones during pilot and proof-of-concept initiatives, demonstrating adaptability and strong problem-solving skills in dynamic project environments.",
+    "Applied data science technique exposure to enhance data pipeline outputs, supporting analytical models that provided deeper insights into operational efficiency and customer behavior patterns.",
+    "Fostered cross-domain collaboration between engineering, operations, and data science departments, breaking down silos to accelerate project timelines and improve the overall quality of integrated solutions.",
+    "Maintained a strong focus on following enterprise standards, policies, and established design patterns across all projects, ensuring consistency, security, and long-term maintainability of all delivered systems."
+  ],
+  "technical_skills": {
+    "Cloud Platforms & Services": [
+      "AWS (EC2, S3, Lambda, Glue, IAM)",
+      "Azure (Active Directory, Data Factory, Blob Storage)",
+      "Cloud Security & Compliance Frameworks"
+    ],
+    "Data Engineering & Orchestration": [
+      "Data Pipeline Automation",
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "ETL/ELT Design",
+      "Data Pipeline Orchestration"
+    ],
+    "Microsoft Ecosystem & APIs": [
+      "Microsoft Graph",
+      "Microsoft Graph Data Connect",
+      "Microsoft Viva",
+      "Microsoft 365 Ecosystem",
+      "API Integration & Data Ingestion"
+    ],
+    "Identity & Access Management (IAM)": [
+      "Azure Active Directory",
+      "Application Registrations",
+      "User Provisioning",
+      "Approval Groups",
+      "Secure Data Access Practices"
+    ],
+    "Monitoring, Observability & Reliability": [
+      "Reporting Solutions",
+      "Monitoring Systems",
+      "Alerting Implementation",
+      "Logging Design",
+      "Reliability Engineering",
+      "Infrastructure Monitoring"
+    ],
+    "Data Storage & Processing": [
+      "AWS S3",
+      "Azure Blob Storage",
+      "Data Lake Architecture",
+      "SQL",
+      "Python",
+      "Real-time Processing"
+    ],
+    "Security, Risk & Compliance": [
+      "Platform Security Posture Management",
+      "Risk Identification & Mitigation",
+      "HIPAA",
+      "GDPR",
+      "PCI DSS",
+      "Enterprise Security Standards"
+    ],
+    "Enterprise Integration & Leadership": [
+      "Enterprise Integration Engineering",
+      "Technical Leadership",
+      "Stakeholder Collaboration",
+      "Cross-domain Coordination",
+      "Dependency Management"
+    ],
+    "Data Quality & Optimization": [
+      "Quality Checks",
+      "Reliability Monitoring",
+      "Cost Optimization",
+      "Resource Usage Efficiency",
+      "Performance Tuning"
+    ],
+    "Development & DevOps Practices": [
+      "Python",
+      "Infrastructure as Code",
+      "CI/CD Concepts",
+      "Version Control (Git)",
+      "Documentation"
+    ],
+    "Analytics & Visualization": [
+      "Data Analysis",
+      "Reporting",
+      "Power BI",
+      "Data Visualization",
+      "Organizational Network Analysis (ONA)"
+    ],
+    "Specialized Frameworks & Concepts": [
+      "Agentic Frameworks (Crew AI, LangGraph)",
+      "Proof of Concept Development",
+      "Multi-agent Systems",
+      "Enterprise Design Patterns"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Spearheaded the technical design for a healthcare analytics platform using Microsoft Graph Data Connect, addressing secure patient data ingestion challenges by implementing robust IAM controls, ensuring strict HIPAA compliance for data access.",
+        "Orchestrated the build of automation pipelines on AWS Glue to process enterprise data from Microsoft Viva, solving slow data availability issues which accelerated insights into clinician collaboration patterns by over forty percent.",
+        "Architected a comprehensive monitoring and alerting solution using CloudWatch and custom metrics, identifying pipeline failures in real-time to mitigate risks to data integrity for critical patient supply chain forecasting models.",
+        "Led a project team to implement a Crew AI-based multi-agent system for automated data quality validation, designing agents to cross-check data from Graph APIs against EHR systems, dramatically reducing manual review efforts.",
+        "Engineered a secure data access framework leveraging Azure Active Directory concepts, provisioning application registrations and approval groups to control data flow from Microsoft 365 into our HIPAA-governed data lake on S3.",
+        "Collaborated with data science stakeholders to productionize organizational network analysis models, integrating PoC outputs into main data pipelines to provide leadership with insights into operational communication efficiencies.",
+        "Established platform security posture management protocols, conducting regular audits of data access logs and IAM roles to identify and remediate potential vulnerabilities within the interconnected healthcare data ecosystem.",
+        "Optimized AWS resource usage for data pipelines, refactoring Spark jobs and implementing auto-scaling policies that reduced monthly cloud compute costs by twenty-five percent while maintaining processing SLAs.",
+        "Guided the team through a complex integration with the Microsoft ecosystem, translating ambiguous requirements for Viva Insights into clear technical milestones and a phased implementation plan for the enterprise rollout.",
+        "Implemented rigorous quality checks within our data factory workflows, introducing schema validation and anomaly detection steps that improved the reliability of downstream ML models predicting hospital supply demands.",
+        "Designed error handling and resilience mechanisms for LangGraph-based orchestration of data pipelines, ensuring graceful failure recovery and data lineage tracking for all healthcare analytics data products.",
+        "Fostered stakeholder collaboration across platform engineering, ops, and Microsoft support to troubleshoot a data latency issue, leading a debugging session that pinpointed and resolved a throttling configuration problem.",
+        "Documented the end-to-end architecture and data controls for the Microsoft Graph integration, creating detailed runbooks and process flows that enabled the operations team to manage the platform independently.",
+        "Championed enterprise design patterns for data ingestion, building reusable connectors for Microsoft Graph APIs that standardized how teams across the healthcare organization accessed and utilized collaboration data.",
+        "Investigated a recurring data discrepancy by analyzing pipeline logs and coordinating a code review session, ultimately discovering and correcting a timezone handling bug in a custom Python transformation script.",
+        "Managed dependencies between the new Viva data platform and existing EHR systems, facilitating meetings to align interfaces and ensure seamless, compliant data exchange for population health management initiatives."
+      ],
+      "environment": [
+        "AWS (EC2, S3, Glue, Lambda, IAM, CloudWatch)",
+        "Microsoft Graph",
+        "Microsoft Graph Data Connect",
+        "Microsoft Viva",
+        "Azure Active Directory Concepts",
+        "Python",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Apache Spark",
+        "HIPAA Compliant Design"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed enterprise integration pipelines to ingest provider network data, utilizing AWS Data Pipeline to solve fragmented data sources, which unified information for actuarial models and compliance reporting.",
+        "Constructed reporting solutions for insurance claim analytics, implementing dashboards and scheduled reports that provided operations with visibility into processing bottlenecks and claim adjudication trends.",
+        "Managed the security posture of the member data platform, identifying risks in third-party data feeds and implementing additional encryption and access logging to mitigate potential data exposure vulnerabilities.",
+        "Coordinated with a cross-functional team including data scientists to deploy a proof-of-concept using agentic frameworks, automating the validation of claims data against policy rules to flag discrepancies.",
+        "Built monitoring and alerting for critical ETL batches processing millions of claims daily, setting up SNS alerts for job failures which reduced meantime-to-detection for issues from hours to minutes.",
+        "Followed enterprise standards to design a new subscriber data ingestion pattern, leveraging AWS Kinesis for real-time updates that improved the accuracy of eligibility checks during patient provider visits.",
+        "Supported technical leadership in planning the migration of legacy data marts, analyzing dependencies and creating detailed transition plans to ensure no disruption to state-level insurance reporting mandates.",
+        "Optimized resource usage for heavy SQL transformations on Redshift, rewriting queries and implementing workload management to lower costs and improve performance for quarterly financial reconciliations.",
+        "Implemented quality checks within the claims data pipeline, adding business rule validations that caught systematic coding errors, preventing incorrect payment calculations and potential audit findings.",
+        "Assisted in stakeholder collaboration sessions, translating requirements from the actuarial department into technical specifications for new data products supporting risk assessment models.",
+        "Troubleshot a persistent data latency issue in a Crew AI pilot project, leading a debugging effort that uncovered a network configuration problem between our VPC and an external data provider's API.",
+        "Documented data lineage and transformation logic for all pipelines feeding the claims data lake, ensuring clarity for auditors and facilitating root cause analysis during any data investigation.",
+        "Applied data science technique exposure to enhance a provider directory pipeline, integrating geocoding and clustering to improve the accuracy of network adequacy reports for regulatory submissions.",
+        "Participated in code reviews and design discussions for new pipeline modules, offering feedback on error handling strategies and Idempotency to ensure reliable processing of insurance transactions."
+      ],
+      "environment": [
+        "AWS (Redshift, S3, Data Pipeline, Kinesis, Lambda, SNS)",
+        "Python",
+        "SQL",
+        "Enterprise Integration Patterns",
+        "Data Pipeline Orchestration",
+        "Crew AI",
+        "Proof of Concept Development",
+        "Insurance Data Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Engineered data pipelines using Azure Data Factory to consolidate public sector data from disparate agencies, addressing reporting delays and enabling unified analytics for state-wide program effectiveness.",
+        "Implemented Azure Active Directory integration for a government data portal, managing application registrations and user provisioning to ensure secure, role-based access to sensitive citizen data per policy.",
+        "Built monitoring solutions for data pipelines handling unemployment claims, setting up alerts in Azure Monitor to quickly identify processing failures during periods of high volume and public scrutiny.",
+        "Supported enterprise integration efforts by developing APIs to share data between the health department and social services platforms, following strict government data-sharing agreements and privacy laws.",
+        "Assisted in managing the security posture of the Azure-based data platform, participating in vulnerability assessments and helping implement network security groups and data encryption at rest.",
+        "Followed state government design patterns to develop reusable data ingestion components for census and demographic data, standardizing the approach across multiple department-level analytics projects.",
+        "Optimized Azure Blob Storage usage and Data Factory pipeline costs by implementing file partitioning strategies and adjusting trigger frequencies, achieving significant savings for the annual IT budget.",
+        "Conducted quality checks on GIS and spatial data ingested for public infrastructure planning, validating coordinate systems and data completeness before publishing to downstream mapping applications.",
+        "Collaborated with operations teams to document runbooks and support procedures for new data products, ensuring smooth handoff and operational stability for critical government reporting systems.",
+        "Troubleshot data discrepancies in a public health reporting pipeline by analyzing ADF activity logs and SQL scripts, coordinating with the database team to correct a flawed join condition.",
+        "Applied logging and observability design principles to new pipelines, ensuring detailed execution history was captured for audit trails and compliance with public records retention requirements.",
+        "Attended daily stand-ups and planning sessions, providing updates on pipeline development status and identifying potential blockers related to data source availability from other government entities."
+      ],
+      "environment": [
+        "Azure (Data Factory, Blob Storage, Active Directory, Monitor)",
+        "SQL Server",
+        "Python",
+        "API Integration",
+        "Government Data Standards",
+        "Security & Compliance Frameworks"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed batch processing pipelines using Azure Databricks to ingest credit card transaction data, solving scalability issues during peak holiday seasons and ensuring timely fraud detection analysis.",
+        "Implemented basic alerting for key financial data pipelines, configuring email notifications for job failures to help the team maintain SLAs for end-of-day regulatory reporting deliverables.",
+        "Supported platform security initiatives by assisting in the review of IAM roles and access policies for Azure services, ensuring least-privilege access to sensitive PCI DSS regulated data.",
+        "Followed enterprise standards to build ETL components for customer segmentation models, ensuring code and data models adhered to the organization's defined design patterns and version control practices.",
+        "Assisted in cost optimization efforts by monitoring Azure Synapse usage, identifying and reporting on underutilized resources that could be right-sized to reduce monthly cloud expenditures.",
+        "Conducted reliability monitoring for data feeds from core banking systems, checking for file arrival times and data volumes to proactively identify potential source system issues.",
+        "Participated in building a data quality framework, writing unit tests for transformation logic to validate the accuracy of financial calculations like interest and reward points accruals.",
+        "Collaborated with a senior engineer to integrate data from a new acquisition, mapping source schemas and helping to build the initial staging layers in Azure Data Lake Storage.",
+        "Documented technical specifications and data flow diagrams for newly developed pipelines, contributing to the team's knowledge base and onboarding materials for new team members.",
+        "Debugged a data duplication issue in a daily transaction feed, spending an afternoon tracing through pipeline code and SQL scripts to find and fix an incorrect merge condition."
+      ],
+      "environment": [
+        "Azure (Databricks, Data Lake Storage, Synapse)",
+        "Spark",
+        "Python",
+        "SQL",
+        "ETL Development",
+        "PCI DSS Compliance",
+        "Financial Data Models"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic image metadata using SQL and Python, identifying patterns in data quality issues that informed improvements to the upstream data collection and labeling processes.",
+        "Built foundational Power BI reports for lab test result analytics, providing clinicians with visual insights into test turnaround times and helping operational teams pinpoint process inefficiencies.",
+        "Supported the data engineering team by validating outputs from new ingestion pipelines, executing test queries and comparing results against source systems to ensure accuracy before production release.",
+        "Learned about HIPAA compliance requirements for patient data, applying this knowledge to help design safe data anonymization procedures for analytics and research datasets.",
+        "Assisted in documenting data definitions and business glossaries for the oncology diagnostics database, creating a shared reference that improved communication between technical and medical teams.",
+        "Participated in a proof-of-concept for a predictive model, performing data cleaning and feature extraction on historical patient data to prepare it for evaluation by the data science team.",
+        "Monitored daily data loads from partner lab instruments, preparing simple summary reports on load success rates and volume metrics for the morning operations review meeting.",
+        "Collaborated on troubleshooting a recurring error in a data export job, helping to isolate the problem to a specific date formatting issue in a legacy Python script."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "MySQL",
+        "Power BI",
+        "Data Analysis",
+        "Healthcare Data",
+        "HIPAA Awareness",
+        "Proof of Concept Support"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

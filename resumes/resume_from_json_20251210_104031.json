@@ -1,0 +1,313 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "Managed full-stack application modernizations to Azure for Hospitality platforms, applying .NET/C# and ASP.NET Core to transition legacy systems and boost booking engine performance while aligning with PCI-DSS standards.",
+    "Assembled secure patient data portals for Healthcare using Angular and Azure SQL Database, configured HIPAA-compliant encryption and Azure Key Vault integrations to protect sensitive medical records during system migrations.",
+    "Governed Transportation logistics APIs with React frontends and Azure Functions, transformed monolithic cargo tracking applications into microservices that improved real-time flight schedule updates for operational teams.",
+    "Produced Government public service web applications via ASP.NET Core, deployed with Azure App Service and ARM Templates to create scalable portals for citizen benefit claims processing under strict regulatory audits.",
+    "Guided Banking financial data pipelines toward Azure cloud, utilized Azure DevOps Pipelines and Terraform to automate deployments for transactional systems, reinforcing SOX compliance and fraud detection mechanisms.",
+    "Operationalized Telecommunications billing system upgrades with .NET frameworks, integrated RESTful APIs and SQL Server to streamline customer invoice generation and reduce monthly statement processing errors.",
+    "Synthesized cloud architecture for Hospitality loyalty programs, applied Azure Monitor and Application Insights to detect booking funnel drop-offs, which led to targeted UI corrections and increased conversion rates.",
+    "Directed Healthcare imaging data workflows with Azure Logic Apps, established automated processing pipelines for diagnostic reports that reduced radiologist manual entry tasks and accelerated patient report delivery.",
+    "Mobilized Transportation crew management tools with C# and Docker, containerized legacy .NET applications for consistent deployment across airport hubs, ensuring reliable shift scheduling for ground staff.",
+    "Restructured Government document archive systems using Azure SQL Database, authored stored procedures and LINQ queries to optimize retrieval times for public records requested through Freedom of Information Act queries.",
+    "Enforced Banking authentication protocols with Azure AD B2C, implemented multi-factor authentication flows for online banking portals, which substantially lowered incidents of unauthorized account access attempts.",
+    "Transitioned Telecommunications network monitoring dashboards to Azure, leveraged Azure Kubernetes Service to orchestrate containerized .NET microservices, providing real-time visibility into cellular tower performance.",
+    "Arranged Hospitality revenue analytics using Azure Synapse Analytics, constructed data models to analyze seasonal booking patterns, enabling dynamic pricing strategies for hotel partners to maximize occupancy.",
+    "Steered Healthcare telehealth platform integrations, connected React-based patient interfaces with backend .NET APIs, facilitating secure video consultations and electronic prescription renewals for remote clinics.",
+    "Modernized Transportation baggage handling system APIs, converted WCF services to ASP.NET Core Web APIs with Azure API Management, improving message reliability and tracking accuracy for passenger luggage.",
+    "Administered Government grant application portals, set up automated approval workflows with Azure Functions and Logic Apps, reducing manual review cycles for small business funding requests.",
+    "Strengthened Banking data encryption standards, configured Transparent Data Encryption on Azure SQL Databases and rotated keys via Key Vault, meeting internal security policies for customer financial information.",
+    "Automated Telecommunications customer onboarding processes, designed and deployed Azure DevOps Pipelines with infrastructure-as-code using Terraform, which accelerated provisioning of new subscriber accounts."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      ".NET/C#",
+      "C# LINQ",
+      "SQL",
+      "JavaScript"
+    ],
+    "Frameworks & Backend": [
+      "ASP.NET Core",
+      ".NET",
+      "RESTful API Design",
+      "Azure Functions"
+    ],
+    "Frontend Development": [
+      "React",
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "Bootstrap"
+    ],
+    "Database Technologies": [
+      "Azure SQL Database",
+      "SQL Server",
+      "Entity Framework Core",
+      "Cosmos DB"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure",
+      "Azure App Service",
+      "Azure Kubernetes Service (AKS)",
+      "Azure Logic Apps",
+      "Azure Synapse Analytics"
+    ],
+    "DevOps & Infrastructure": [
+      "Terraform",
+      "ARM Templates",
+      "Azure DevOps Pipelines",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Security & Identity": [
+      "Azure Key Vault",
+      "Azure AD B2C",
+      "OAuth 2.0",
+      "GDPR Compliance"
+    ],
+    "Testing & Quality Assurance": [
+      "xUnit",
+      "NUnit",
+      "Moq",
+      "Selenium",
+      "Postman"
+    ],
+    "Monitoring & Diagnostics": [
+      "Application Insights",
+      "Azure Monitor",
+      "Log Analytics",
+      "Splunk"
+    ],
+    "Version Control & Methodology": [
+      "Git",
+      "Azure Repos",
+      "Agile/Scrum",
+      "JIRA"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "Maintain a multi-tenant hotel reservation platform using ASP.NET Core and React, upgrade legacy modules to integrate with new Azure App Service instances for improved scalability during peak booking seasons.",
+        "Created a real-time room availability service with Azure Functions and Cosmos DB, solved latency issues that previously caused double-bookings for hospitality partners across different time zones.",
+        "Fabricated Infrastructure-as-Code templates with Terraform to provision Azure SQL Database and App Service environments, automated the setup of new client onboarding pipelines for franchise hotel groups.",
+        "Structured a comprehensive CI/CD pipeline in Azure DevOps that compiles, tests, and deploys microservices; this process reduced manual deployment errors for critical payment processing components.",
+        "Verified all API endpoints with xUnit and integration tests, focused on booking transaction flows to ensure data consistency and compliance with regional hospitality tax calculation rules.",
+        "Delivered containerized versions of legacy services using Docker, deployed them to Azure Kubernetes Service to achieve better resource utilization and faster rollback capabilities for front-desk applications.",
+        "Architected a centralized logging solution with Application Insights and Azure Monitor, correlated errors across services to diagnose a recurring issue with loyalty point redemption during checkout.",
+        "Resolved a critical production bug where promotional codes failed, traced the problem to a race condition in the Redis cache layer and implemented a distributed lock pattern to fix it.",
+        "Reviewed pull requests daily for the frontend React team, provided feedback on state management hooks and component structure to align with the design system for guest-facing booking pages.",
+        "Coordinated with the security team to integrate Azure Key Vault for managing database connection strings and API keys, removing hard-coded secrets from the configuration files of the reservation system.",
+        "Attended bi-weekly sprint planning sessions with product managers, broke down user stories for new features like dynamic pricing and group booking capabilities into actionable technical tasks.",
+        "Trained two junior developers on the codebase, walked them through the domain model for room inventory and rate management, and paired with them to debug their first feature submissions.",
+        "Initiated a performance optimization effort for the search results page, identified and indexed slow SQL queries on the Azure SQL Database, which cut page load time for guests by half.",
+        "Evaluated the adoption of Azure AD B2C for a unified guest authentication system, presented a proof-of-concept to leadership comparing it with the existing custom identity solution.",
+        "Documented the deployment runbooks and disaster recovery procedures for the cloud infrastructure, focusing on the high-availability setup of the booking engine across Azure regions.",
+        "Adapted the application's data handling processes to align with GDPR requirements for European guests, implemented data anonymization routines and user consent logging in the customer profile service."
+      ],
+      "environment": [
+        "ASP.NET Core",
+        "React",
+        "Azure",
+        "Azure App Service",
+        "Azure SQL Database",
+        "Azure Functions",
+        "Cosmos DB",
+        "Terraform",
+        "Azure DevOps Pipelines",
+        "Docker",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Key Vault",
+        "Application Insights",
+        "Azure Monitor",
+        "Azure AD B2C",
+        "Redis",
+        "xUnit"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "Built a patient portal module with Angular and .NET 6 Web API, enabled secure access to lab results and appointment scheduling while enforcing strict HIPAA-compliant audit trails.",
+        "Migrated an on-premise SQL Server database for clinical trial management to Azure SQL Database, executed a detailed data validation plan to ensure zero loss of sensitive patient cohort information.",
+        "Applied Azure Logic Apps to automate the generation and secure delivery of patient discharge summaries, connected disparate hospital systems to reduce nurse administrative workload by several hours weekly.",
+        "Designed a set of RESTful APIs for medical imaging metadata, utilized Entity Framework Core and LINQ for efficient querying, which accelerated radiologist search times within the picture archiving system.",
+        "Formulated a unit and integration test suite with NUnit and Moq for critical patient identity management services, achieved target code coverage to satisfy internal healthcare software quality gates.",
+        "Planned and executed the blue-green deployment of a telehealth application using Azure App Service slots, minimized downtime during the rollout of a new video consultation feature for cardiology.",
+        "Inspected application performance using Application Insights, pinpointed memory leaks in a long-running service that processed HL7 messages and refactored the code to stabilize the service.",
+        "Composed Infrastructure-as-Code scripts with ARM Templates to replicate the non-production Azure environments, ensured the development and QA teams had consistent setups for testing new features.",
+        "Audited the authentication flow for the staff intranet application, integrated Azure AD B2C to unify login processes across various internal tools used by doctors and administrative personnel.",
+        "Organized weekly knowledge-sharing sessions with the development team, covered topics like dependency injection in ASP.NET Core and secure coding practices for handling Protected Health Information (PHI).",
+        "Debugged a complex issue where appointment reminders failed sporadically, discovered a misconfigured timeout in the Azure Function trigger and adjusted the configuration to resolve it.",
+        "Tested the data encryption implementation for patient records at rest in Azure SQL, collaborated with the compliance team to validate that the setup met all necessary FDA and HIPAA regulations.",
+        "Enhanced the search functionality of the patient directory, implemented full-text search capabilities which allowed clinical staff to find patient records faster during emergency situations.",
+        "Deployed a monitoring dashboard using Azure Monitor workbooks, configured alerts for key metrics of the appointment management system to proactively address potential service degradation."
+      ],
+      "environment": [
+        ".NET 6",
+        "Angular",
+        "Azure SQL Database",
+        "SQL Server",
+        "Entity Framework Core",
+        "Azure App Service",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "ARM Templates",
+        "Azure AD B2C",
+        "Application Insights",
+        "Azure Monitor",
+        "HL7",
+        "NUnit",
+        "Moq"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "Developed a flight crew scheduling application with ASP.NET Core MVC and React, streamlined the assignment process for pilots and flight attendants, considering union rules and FAA rest regulations.",
+        "Converted a monolithic baggage tracking system into a set of microservices hosted on Azure App Service, improved the reliability of real-time luggage location updates for airport customer service agents.",
+        "Established an Azure DevOps release pipeline that deployed containerized .NET APIs to Azure Kubernetes Service, automated the canary release process for the inflight entertainment management service.",
+        "Programmed Azure Functions to handle event-driven notifications for flight status changes, integrated with Service Bus to alert operational control centers about delays and gate changes.",
+        "Examined performance bottlenecks in the cargo manifest API, optimized SQL queries and introduced Redis caching for frequently accessed flight load data, which reduced response times significantly.",
+        "Installed Application Insights across all backend services, set up custom telemetry to track the performance of the revenue management system during high-demand holiday booking periods.",
+        "Protected passenger Personally Identifiable Information (PII) within the mileage account system, implemented data masking in logs and utilized Azure Key Vault for all credential management.",
+        "Compiled technical documentation for the flight operations API suite, created runbooks for the support team to handle common incidents like integration failures with airport systems.",
+        "Troubleshot a production outage in the check-in kiosk backend, identified a network ACL misconfiguration in the Azure environment that blocked communication and restored service within the SLA.",
+        "Updated the legacy .NET Framework components of the employee travel benefits portal to .NET 6, resolved compatibility issues with modern authentication libraries and third-party travel APIs.",
+        "Validated the disaster recovery failover procedure for the booking engine database, participated in a scheduled drill to switch over to the Azure SQL geo-replicated secondary region.",
+        "Assisted the QA team in automating regression tests for the booking flow, provided them with Postman collections and example payloads to simulate complex multi-city international itineraries."
+      ],
+      "environment": [
+        "ASP.NET Core",
+        ".NET 6",
+        "React",
+        "Azure App Service",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Functions",
+        "Azure Service Bus",
+        "Azure SQL Database",
+        "Redis",
+        "Azure Key Vault",
+        "Application Insights",
+        "Entity Framework Core",
+        "Azure DevOps",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "Engineered a web-based system for unemployment claim processing using ASP.NET Web API and Angular, enabled citizens to submit claims and track status online, reducing call center volume.",
+        "Integrated the benefits application with legacy mainframe systems via IBM MQ, built a reliable messaging layer in C# that ensured data consistency between modern web interfaces and older COBOL systems.",
+        "Configured Azure App Service plans and Auto-scaling rules for the public portal, handled predictable traffic surges during weekly claim filing deadlines without performance degradation.",
+        "Authored detailed unit tests with MSTest for core business logic modules, focused on complex eligibility calculation rules dictated by state government legislation and policy updates.",
+        "Orchestrated the database migration from an on-premise SQL Server 2012 cluster to Azure SQL Database, performed extensive data cleansing to align with new application data models.",
+        "Monitored application health with Azure Monitor and Log Analytics, created alert rules for error rates and response times to ensure high availability for this critical public service.",
+        "Defined API security standards using OAuth 2.0 and OpenID Connect, implemented token-based authentication to secure citizen data as mandated by the state's IT security office.",
+        "Refactored several legacy Web Forms pages into modern Razor Pages within the ASP.NET Core application, improved maintainability and page load performance for internal agency users.",
+        "Investigated a data discrepancy reported by auditors, traced it to a timezone conversion bug in a batch job and corrected the logic to ensure accurate reporting for federal compliance.",
+        "Participated in daily stand-ups and sprint retrospectives, provided estimates for implementing new features like document upload and digital signature capture for claim forms."
+      ],
+      "environment": [
+        "ASP.NET Core",
+        "Angular",
+        "Azure App Service",
+        "Azure SQL Database",
+        "SQL Server",
+        "Entity Framework",
+        "IBM MQ",
+        "Azure Monitor",
+        "Log Analytics",
+        "OAuth 2.0",
+        "MSTest"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "Constructed internal tools for loan origination using .NET Framework 4.7 and WPF, automated data validation steps which shortened the processing time for mortgage applications.",
+        "Incorporated SOAP-based web services from third-party credit bureaus into the application workflow, handled secure transmission and parsing of XML responses to populate applicant credit reports.",
+        "Deployed application updates to on-premise IIS servers using PowerShell scripts, coordinated with the infrastructure team during maintenance windows to minimize disruption for loan officers.",
+        "Analyzed stored procedures in SQL Server 2016 to fix performance issues in the customer search functionality, added missing indexes that improved query speed for high-volume branches.",
+        "Checked code submissions for adherence to internal security standards, focused on preventing SQL injection and cross-site scripting vulnerabilities in ASP.NET MVC customer portals.",
+        "Prepared technical design documents for a new module to calculate adjustable-rate mortgage (ARM) terms, diagrammed the class relationships and sequence of operations for review by the architect.",
+        "Supported the production environment by being on-call, diagnosed and fixed a bug where interest rate updates from a feed service were not being reflected correctly in the user interface.",
+        "Learned about the bank's strict change management and SOX compliance procedures, followed all required steps for code promotion from development through to production deployment."
+      ],
+      "environment": [
+        ".NET Framework 4.7",
+        "ASP.NET MVC",
+        "WPF",
+        "SQL Server 2016",
+        "Entity Framework",
+        "IIS",
+        "SOAP Web Services",
+        "PowerShell",
+        "TFS"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "Implemented features for a customer care desktop application using WinForms and .NET 4.5, focused on modules for managing prepaid mobile plan upgrades and handling service complaints.",
+        "Connected to Oracle databases using ADO.NET, wrote optimized queries to retrieve subscriber call detail records for billing dispute resolution by customer service representatives.",
+        "Fixed bugs reported by the UAT team, such as incorrect data display in the customer profile screen and navigation errors between different forms of the legacy application.",
+        "Performed routine builds of the application using Team Foundation Server, resolved merge conflicts and ensured the code compiled successfully for the nightly integration tests.",
+        "Attended requirements gathering meetings with business analysts, helped clarify technical feasibility for new features like bulk SIM card activation for corporate accounts.",
+        "Studied the existing three-tier architecture of the billing system, began working on a new Web API prototype to eventually replace parts of the older Windows Communication Foundation services."
+      ],
+      "environment": [
+        ".NET Framework 4.5",
+        "WinForms",
+        "Oracle Database",
+        "ADO.NET",
+        "Team Foundation Server (TFS)",
+        "Web API",
+        "Windows Communication Foundation (WCF)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "Microsoft Azure Fundamentals (AZ-900)",
+    "Microsoft Azure Data Fundamentals (DP-900)",
+    "Microsoft Azure AI Fundamentals (AI-900)",
+    "Microsoft Azure Database Administrator Associate (DP-300)",
+    "Microsoft Azure Data Engineer Associate (DP-203)"
+  ]
+}

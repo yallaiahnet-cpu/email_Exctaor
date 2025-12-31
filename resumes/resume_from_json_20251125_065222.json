@@ -1,0 +1,386 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Developer - Computer Vision & OCR Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I've been working in AI and machine learning for over 10 years, specializing in computer vision and OCR pipelines across insurance, healthcare, and financial domains with production-grade Python development.",
+    "Leveraging Python and Object-Oriented Programming to architect computer vision systems that process thousands of document images daily while maintaining strict insurance compliance and data security standards for enterprise clients.",
+    "Developing sophisticated OCR pipelines using Tesseract, PaddleOCR, and EasyOCR to extract critical information from insurance claims, medical forms, and financial documents with high accuracy and processing efficiency.",
+    "Building machine learning models for object detection and image classification that automate manual review processes, significantly reducing operational costs while improving accuracy in document processing workflows.",
+    "Creating production-ready computer vision components using Python OOP principles that integrate seamlessly with distributed architectures and microservices ecosystems across cloud and on-premise environments.",
+    "Implementing image processing techniques to enhance document quality before OCR extraction, addressing challenges like skewed images, poor lighting, and varying document formats in insurance claim processing.",
+    "Designing REST API endpoints using FastAPI to serve computer vision models, enabling real-time OCR capabilities for mobile applications and web portals used by insurance agents and field adjusters.",
+    "Utilizing NumPy, SciPy, and Pandas for preprocessing image datasets and performing statistical analysis on OCR results to identify patterns and optimize extraction accuracy across different document types.",
+    "Accelerating deep learning model training with GPU acceleration through CUDA/cuDNN, reducing training times from days to hours while maintaining model performance for complex computer vision tasks.",
+    "Establishing data annotation workflows for training custom object detection models, collaborating with cross-functional teams to ensure labeled datasets meet quality standards for insurance document processing.",
+    "Optimizing computer vision models using ONNX and TensorRT for real-time inference, achieving significant performance improvements in production environments handling high-volume document processing.",
+    "Managing version control with Git for all AI components, implementing branching strategies that support collaborative development across distributed engineering teams working on OCR pipelines.",
+    "Integrating OpenCV for image preprocessing and augmentation in OCR workflows, developing techniques that handle document variations while maintaining extraction accuracy for regulatory compliance.",
+    "Building object detection models with PyTorch to identify specific regions of interest in complex documents, enabling targeted OCR extraction for insurance policy numbers and claim details.",
+    "Containerizing AI applications using Docker for consistent deployment across development, testing, and production environments in distributed system architectures supporting OCR services.",
+    "Developing image quality classifiers that automatically assess document scan quality before OCR processing, reducing processing errors and improving overall system reliability for critical business operations.",
+    "Implementing MLOps practices with MLflow for tracking computer vision model performance, ensuring OCR accuracy remains consistent as document formats and quality evolve over time.",
+    "Creating distributed data pipelines that handle large image datasets from cloud storage systems, optimizing throughput for batch processing of historical insurance documents and real-time claims."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architecting OCR pipelines using Tesseract and PaddleOCR to process insurance claim documents, implementing image preprocessing techniques that handle varying document qualities while maintaining compliance with state insurance regulations.",
+        "Developing computer vision models with PyTorch for object detection in complex insurance forms, creating bounding boxes around critical fields like policy numbers and claim amounts to improve OCR extraction accuracy.",
+        "Building production-grade Python components using Object-Oriented Programming principles that integrate OCR capabilities into existing claims processing systems, ensuring seamless operation within distributed Azure architecture.",
+        "Implementing image classification models that automatically categorize insurance documents by type, enabling routing to appropriate processing workflows and reducing manual sorting efforts by claims adjusters.",
+        "Creating REST APIs with FastAPI to serve computer vision models, providing real-time OCR capabilities for mobile applications used by field agents to process claim documentation on-site.",
+        "Utilizing NumPy and Pandas for statistical analysis of OCR results, identifying patterns in extraction errors and developing targeted improvements to handle challenging document layouts and font variations.",
+        "Accelerating deep learning model training with GPU acceleration through CUDA, reducing training time for complex object detection models from weeks to days while maintaining high accuracy standards.",
+        "Establishing data annotation workflows for labeling insurance documents, collaborating with claims specialists to ensure training datasets accurately represent real-world document variations and regulatory requirements.",
+        "Optimizing computer vision models using ONNX runtime for faster inference, achieving significant performance improvements in production environments processing thousands of insurance documents daily.",
+        "Managing version control with Git for all AI components, implementing collaborative workflows that support multiple developers working on OCR pipeline enhancements and bug fixes.",
+        "Integrating OpenCV for advanced image preprocessing in OCR workflows, developing techniques to handle skewed scans, poor lighting conditions, and document artifacts that commonly affect insurance claim processing.",
+        "Containerizing OCR services using Docker for consistent deployment across Azure environments, ensuring reliable operation of computer vision components in production claims processing systems.",
+        "Developing image quality classifiers that assess document scan quality before OCR processing, automatically flagging poor-quality images for rescanning to maintain high extraction accuracy rates.",
+        "Implementing multi-agent systems using Crew AI and LangGraph to coordinate complex document processing workflows, enabling intelligent routing of insurance documents based on content and complexity.",
+        "Creating proof of concepts for advanced OCR capabilities using model context protocol, demonstrating potential improvements in handling handwritten portions of insurance claim forms and signatures.",
+        "Building distributed data pipelines with PySpark that process large volumes of historical insurance documents, enabling batch OCR processing for digital transformation initiatives while maintaining data security standards."
+      ],
+      "environment": [
+        "Python",
+        "Object-Oriented Programming",
+        "Tesseract",
+        "PaddleOCR",
+        "PyTorch",
+        "FastAPI",
+        "NumPy",
+        "Pandas",
+        "CUDA",
+        "ONNX",
+        "Git",
+        "OpenCV",
+        "Docker",
+        "Azure",
+        "Crew AI",
+        "LangGraph",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Engineered OCR solutions using EasyOCR and Tesseract to extract data from medical device documentation and clinical trial forms, ensuring HIPAA compliance while processing sensitive healthcare information.",
+        "Constructed computer vision models for object detection in medical imaging documentation, identifying specific regions containing patient data and clinical observations for automated data entry systems.",
+        "Developed production-ready Python code using OOP principles for healthcare document processing, creating maintainable components that integrated with existing medical record systems on Azure infrastructure.",
+        "Designed image classification systems that categorized medical documents by type and urgency, enabling prioritized processing of critical healthcare documentation while maintaining regulatory compliance.",
+        "Built REST API endpoints with Flask to serve OCR capabilities for healthcare applications, providing real-time document processing for clinical staff while ensuring data security and privacy protections.",
+        "Leveraged SciPy and NumPy for statistical analysis of medical document processing results, identifying optimization opportunities to improve OCR accuracy for complex healthcare forms and handwritten notes.",
+        "Utilized GPU acceleration with cuDNN to train deep learning models faster, enabling rapid iteration on computer vision architectures for medical document processing while maintaining high accuracy standards.",
+        "Established annotation workflows for labeling healthcare documents, working with clinical specialists to create training datasets that represented diverse medical documentation while protecting patient privacy.",
+        "Optimized computer vision models using TensorRT for deployment in healthcare environments, achieving performance improvements that enabled real-time processing of medical documentation during patient consultations.",
+        "Managed code collaboration using Git version control, implementing branching strategies that supported parallel development of multiple OCR enhancements for different medical document types.",
+        "Integrated OpenCV for medical image preprocessing in document processing pipelines, developing techniques to handle various scan qualities while maintaining readability of critical healthcare information.",
+        "Containerized healthcare AI applications using Docker for consistent deployment across clinical environments, ensuring reliable operation of OCR services while meeting strict healthcare IT standards.",
+        "Implemented multi-agent systems using Crew AI to coordinate complex medical document processing, enabling intelligent extraction and validation of healthcare data across different document types and formats.",
+        "Created proof of concepts using LangGraph for advanced medical document understanding, demonstrating potential applications in automated clinical data entry and medical record processing workflows."
+      ],
+      "environment": [
+        "Python",
+        "Object-Oriented Programming",
+        "EasyOCR",
+        "Tesseract",
+        "Computer Vision",
+        "Flask",
+        "SciPy",
+        "NumPy",
+        "cuDNN",
+        "TensorRT",
+        "Git",
+        "OpenCV",
+        "Docker",
+        "Azure",
+        "Crew AI",
+        "LangGraph"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented OCR pipelines using Tesseract for processing healthcare enrollment forms and medical assistance applications, ensuring accurate data extraction while maintaining HIPAA compliance standards.",
+        "Developed object detection models with TensorFlow to identify critical form fields in healthcare documentation, creating bounding boxes around patient information sections for targeted OCR processing.",
+        "Built production Python components using OOP principles for healthcare document processing, creating scalable solutions that handled varying volumes of medical assistance applications on AWS infrastructure.",
+        "Created image classification systems that categorized healthcare documents by program type, enabling automated routing to appropriate processing teams and reducing manual sorting efforts.",
+        "Designed REST API services with FastAPI to provide OCR capabilities for healthcare portal applications, enabling real-time document processing for case workers while ensuring data security.",
+        "Utilized Pandas and NumPy for analysis of healthcare document processing results, identifying common OCR challenges and developing targeted improvements for specific form types and data fields.",
+        "Accelerated model training with GPU optimization techniques, reducing development time for healthcare document processing models while maintaining high accuracy requirements for sensitive data.",
+        "Established data annotation processes for labeling healthcare forms, collaborating with program specialists to create training datasets that represented diverse applicant documentation.",
+        "Optimized computer vision models for deployment in healthcare environments, achieving performance improvements that supported timely processing of medical assistance applications.",
+        "Managed codebase with Git version control, implementing collaborative workflows that supported team development of healthcare document processing enhancements.",
+        "Integrated OpenCV for document image preprocessing in healthcare applications, developing techniques to improve OCR accuracy for variously scanned forms and supporting documents.",
+        "Containerized healthcare applications using Docker for consistent deployment across state systems, ensuring reliable operation of document processing services for critical healthcare programs."
+      ],
+      "environment": [
+        "Python",
+        "Object-Oriented Programming",
+        "Tesseract",
+        "TensorFlow",
+        "FastAPI",
+        "Pandas",
+        "NumPy",
+        "GPU Acceleration",
+        "Git",
+        "OpenCV",
+        "Docker",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed OCR solutions using PaddleOCR for processing financial documents and loan applications, implementing extraction techniques that handled various document formats while ensuring PCI compliance.",
+        "Built machine learning models for document classification in banking operations, categorizing financial documents by type and priority to streamline processing workflows and reduce manual intervention.",
+        "Created Python-based data processing components using OOP principles for financial document analysis, developing maintainable code that integrated with existing banking systems on AWS infrastructure.",
+        "Implemented image processing techniques to enhance financial document quality before OCR extraction, addressing challenges like fax artifacts and poor copy quality in historical banking records.",
+        "Designed REST API endpoints with Flask to provide OCR capabilities for banking applications, enabling real-time document processing for loan officers and financial advisors.",
+        "Utilized NumPy and Pandas for statistical analysis of financial document processing results, identifying patterns in extraction errors and developing targeted improvements for specific document types.",
+        "Accelerated computer vision model training with optimization techniques, reducing development time for financial document processing while maintaining high accuracy standards for regulatory compliance.",
+        "Established data annotation workflows for labeling banking documents, working with financial specialists to create training datasets that represented diverse financial instruments and document types.",
+        "Managed code development with Git version control, implementing collaborative workflows that supported team development of financial document processing enhancements.",
+        "Integrated OpenCV for document image preprocessing in banking applications, developing techniques to improve OCR accuracy for variously scanned financial statements and supporting documents."
+      ],
+      "environment": [
+        "Python",
+        "Object-Oriented Programming",
+        "PaddleOCR",
+        "Machine Learning",
+        "Flask",
+        "NumPy",
+        "Pandas",
+        "Git",
+        "OpenCV",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Supported OCR implementation using Tesseract for client document processing, assisting with image preprocessing and data extraction workflows in consulting engagements across multiple industries.",
+        "Assisted in developing machine learning pipelines for document classification, learning foundational computer vision concepts while supporting senior developers in model training and evaluation.",
+        "Created basic Python scripts for data processing tasks, developing initial understanding of OOP principles while supporting document processing workflows in client consulting projects.",
+        "Implemented image processing techniques using OpenCV for document enhancement, learning foundational computer vision approaches to improve OCR accuracy in client document digitization projects.",
+        "Supported development of data processing components with Hadoop and Informatica, learning enterprise data integration patterns while assisting with document processing pipeline implementations.",
+        "Utilized Sqoop for data transfer tasks in document processing workflows, supporting extraction of processed OCR results from Hadoop systems to client databases and applications.",
+        "Assisted in data annotation activities for training datasets, learning foundational concepts in computer vision and document processing while supporting client consulting engagements.",
+        "Participated in code development with version control systems, learning collaborative development practices while supporting team efforts in document processing solution delivery."
+      ],
+      "environment": [
+        "Python",
+        "Tesseract",
+        "Machine Learning",
+        "OpenCV",
+        "Hadoop",
+        "Informatica",
+        "Sqoop"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

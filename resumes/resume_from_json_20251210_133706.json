@@ -1,0 +1,281 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Principal AI & Machine Learning Engineer - Fraud Detection & Agentic Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Professional with ten years of applied AI experience in Insurance, Healthcare, Banking, and Consulting domains, focusing on deploying enterprise-grade fraud detection systems, risk analytics, and secure transactional workflows using AWS cloud-native AI stacks and agentic frameworks.",
+    "Employed SQL and Oracle Database to query and analyze fraud patterns within non-production DB environments (DEV/QA/VAL), enabling the creation of targeted detection rules that reduced false positives during initial testing phases before production deployment.",
+    "Built and maintained fraud detection logic and rules by integrating PySpark for large-scale data processing, which allowed our team to handle billions of transactional records efficiently and improve the overall accuracy of our risk models over time.",
+    "Established comprehensive testing and validation protocols for fraud detection workflows in both production and non-production settings, working with QA teams to ensure every model update met strict performance benchmarks before release.",
+    "Performed troubleshooting and analysis of complex fraud events by examining system logs and transaction histories, which often involved late-night debugging sessions to identify and patch novel attack vectors as they emerged.",
+    "Drove workflow optimization initiatives by mapping existing fraud review processes, identifying manual bottlenecks, and then automating those steps with AWS Lambda functions, significantly speeding up case resolution times.",
+    "Applied prompt engineering techniques including zero-shot and few-shot learning to structure inputs for LLMs within AWS Bedrock, improving the consistency of automated report generation from unstructured fraud case notes.",
+    "Architected agentic frameworks and patterns such as MCP (Model Context Protocol) and A2A communication to create a multi-agent review system where specialized AI agents collaborated to assess different risk factors in parallel.",
+    "Designed and deployed scalable AI Agents and Agentic Workflows using LangGraph for orchestration, enabling dynamic fraud investigation paths that adapt based on real-time analysis of transaction data and customer history.",
+    "Implemented RAG (Retrieval-Augmented Generation) and explored Graph RAG architectures to ground LLM responses in our internal policy documents and historical fraud cases, reducing hallucinations in automated decision support tools.",
+    "Managed vector databases and knowledge bases, specifically Pinecone and AWS OpenSearch, to store and retrieve embeddings for millions of transaction descriptions and customer profiles, enabling fast similarity searches for fraud pattern matching.",
+    "Developed multimodal model pipelines to process text claims, audio customer service calls, and scanned document images, creating a unified fraud signal that improved detection rates for sophisticated cross-channel scams.",
+    "Conducted LLM fine-tuning and optimization using LoRA and QLoRA techniques on SageMaker to adapt foundational models for our specific insurance domain jargon and regulatory reporting formats without full retraining costs.",
+    "Utilized LLM evaluation and validation frameworks like RAGAS and TruLens to systematically score the performance of our agentic systems, creating dashboards that tracked accuracy, relevance, and safety metrics over time.",
+    "Operated the AWS cloud-native AI stack including SageMaker Pipelines for MLOps, Bedrock with Knowledge Bases for RAG, and S3 with Lambda for event-driven fraud alerts, ensuring a scalable and integrated production environment.",
+    "Orchestrated ingestion and ETL processes for unstructured media like PDFs and audio, implementing chunking and PII anonymization with Amazon Textract and custom Python scripts to prepare data for embedding pipelines securely.",
+    "Selected and integrated embedding models such as bge-large and Cohere embeddings through containerized inference on EKS, balancing performance and cost to create efficient semantic search across our fraud knowledge base.",
+    "Enforced security, privacy, and governance by implementing PII masking guardrails within data pipelines and bias mitigation checks in model evaluation, ensuring all AI systems complied with strict insurance industry regulations."
+  ],
+  "technical_skills": {
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "R"
+    ],
+    "AI/ML Frameworks & Libraries": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "LangChain",
+      "LangGraph",
+      "PySpark",
+      "scikit-learn"
+    ],
+    "LLM & Generative AI": [
+      "Prompt Engineering (Zero/Few-shot, CoT)",
+      "LLM Fine-tuning (LoRA, QLoRA)",
+      "RAG & Graph RAG Architectures",
+      "Agentic Frameworks (MCP, A2A)",
+      "Multimodal Pipelines"
+    ],
+    "Cloud AI Services (AWS)": [
+      "SageMaker (Pipelines, Endpoints)",
+      "Bedrock (Knowledge Bases, Agents)",
+      "Lambda",
+      "S3",
+      "OpenSearch",
+      "EC2/EKS"
+    ],
+    "Vector Databases & Search": [
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "OpenSearch",
+      "Embedding Models (bge-large, Cohere, E5)"
+    ],
+    "Data Engineering & ETL": [
+      "Apache Spark",
+      "Apache Airflow",
+      "AWS Glue",
+      "Custom Ingestion (PDF, Audio, Video)",
+      "PII Anonymization"
+    ],
+    "MLOps & Experiment Tracking": [
+      "MLflow",
+      "SageMaker Pipelines",
+      "Docker",
+      "GitHub Actions",
+      "Model Registry"
+    ],
+    "Databases & Storage": [
+      "Oracle Database",
+      "PostgreSQL",
+      "AWS RDS",
+      "S3",
+      "Elasticsearch"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes (EKS)",
+      "Helm",
+      "Containerized Inference"
+    ],
+    "Security, Governance & Compliance": [
+      "HIPAA",
+      "PCI-DSS",
+      "PII Masking/Anonymization",
+      "AWS Guardrails",
+      "Model Bias Mitigation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Plan the architecture for a new multi-agent fraud detection system using LangGraph and Model Context Protocol, defining agent roles for transaction scoring, customer history analysis, and regulatory compliance checks within AWS.",
+        "Implement a PySpark-based data pipeline on AWS EMR to preprocess and featurize real-time transaction streams, dealing with challenges like data skew and late-arriving data to ensure timely fraud signal generation.",
+        "Deploy a containerized multi-agent system on Amazon EKS, where each agent runs as a separate service, using Kubernetes secrets for secure API key management and ConfigMaps for dynamic rule updates.",
+        "Monitor the performance of deployed AI agents using CloudWatch metrics and custom LangGraph tracing, setting up alerts for agent downtime or unusual latency spikes in the fraud decision workflow.",
+        "Optimize the embedding retrieval latency of our RAG system by experimenting with different ANN indices in Pinecone and adjusting chunking strategies for insurance policy documents, achieving faster query times.",
+        "Troubleshoot a critical issue where the A2A communication protocol between agents failed under high load, leading to incomplete fraud assessments; fixed it by implementing retry logic and circuit breakers.",
+        "Design an evaluation framework using RAGAS to measure the accuracy and relevance of our Graph RAG system's outputs, creating weekly reports that guide improvements to our knowledge graph structure.",
+        "Build a secure PII masking microservice with AWS Lambda that scans all text data before it enters the embedding pipeline, ensuring customer information is anonymized in line with insurance privacy standards.",
+        "Integrate AWS Bedrock's Guardrails into the agentic workflow to filter out inappropriate or biased language from LLM-generated fraud reason codes, adding a necessary layer of compliance and safety.",
+        "Create a SageMaker Pipeline for continuous fine-tuning of a fraud classification model using QLoRA, automating the process from data preparation to model registry updates upon validation score improvements.",
+        "Establish a CI/CD pipeline using GitHub Actions to automate the testing and deployment of LangGraph workflow definitions, reducing manual errors when pushing new fraud investigation logic to production.",
+        "Configure multimodal ingestion for claim images and adjust the CLIP-based embedding pipeline to better capture visual fraud indicators, working through trial and error to improve image chunking parameters.",
+        "Lead a proof of concept for a Graph RAG architecture using a knowledge graph of known fraud networks, spending extra hours to map entity relationships that improved pattern detection for organized fraud rings.",
+        "Conduct weekly code reviews for the agent tool servers built with FastAPI, focusing on error handling and input validation to ensure robustness in the high-stakes fraud detection environment.",
+        "Participate in daily stand-ups with data analysts and backend engineers to align on feature definitions and API contracts, often sketching out data flows on a whiteboard to clarify complex interactions.",
+        "Present the technical roadmap for agentic AI in fraud detection to non-technical stakeholders, using simple analogies to explain how multi-agent systems work and their projected impact on fraud loss reduction."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Bedrock",
+        "Lambda",
+        "EKS",
+        "S3",
+        "Pinecone",
+        "LangGraph",
+        "PySpark",
+        "MCP",
+        "FastAPI",
+        "Docker",
+        "GitHub Actions",
+        "CloudWatch",
+        "RAGAS"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned the migration of a legacy risk analytics rule engine to a new LangChain-based system, carefully mapping old business rules to new LLM-powered agents while ensuring HIPAA compliance for all patient data.",
+        "Implemented a healthcare fraud detection workflow using LangChain agents and AWS SageMaker endpoints, where each agent specialized in reviewing different aspects of medical claims for anomalous patterns.",
+        "Deployed the LangChain application on AWS EKS with strict network policies to isolate PHI data, working closely with the security team to pass internal audits and meet all healthcare regulatory requirements.",
+        "Monitored the system's false positive rate by analyzing weekly performance dashboards, noticing a spike related to a new medical procedure code and adjusting the agent's reasoning instructions accordingly.",
+        "Optimized the cost of LLM inference by implementing a caching layer for common queries and switching to smaller, distilled models for simpler classification tasks within the multi-agent review process.",
+        "Troubleshot data quality issues in the ETL pipeline feeding the agents, where missing HIPAA-compliant identifiers caused agent failures; wrote scripts to validate and clean the incoming data streams.",
+        "Designed a RAG system using AWS Bedrock Knowledge Bases to give agents access to the latest FDA regulations and internal compliance manuals, improving the accuracy of automated audit trail generation.",
+        "Built a prototype multi-agent system inspired by Crew AI and AutoGen patterns for collaborative fraud investigation, demonstrating how agents could debate uncertain cases before a final decision.",
+        "Integrated Apache Spark with AWS Glue to process large volumes of anonymized healthcare transaction data, transforming it into features for both traditional ML models and the new LLM-based agents.",
+        "Created a set of evaluation scripts using TruLens to track the fairness and bias of the AI agents across different patient demographics, ensuring equitable fraud detection outcomes.",
+        "Established a secure model serving pattern using SageMaker endpoints and VPC endpoints to keep all PHI data within the J&J private cloud, attending multiple meetings with the compliance office to get approval.",
+        "Configured an embedding pipeline using the instructor-large model to generate embeddings from medical claim descriptions, storing them in Weaviate for fast retrieval during agentic reasoning steps.",
+        "Led the validation testing of the new agentic system in a QA environment, creating detailed test cases that simulated various fraud scenarios to ensure the agents caught them correctly.",
+        "Coordinated with production support teams to develop a runbook for the new AI agents, documenting common alerts and remediation steps to ensure smooth 24/7 operation of the fraud detection system."
+      ],
+      "environment": [
+        "AWS",
+        "SageMaker",
+        "Bedrock",
+        "EKS",
+        "LangChain",
+        "PySpark",
+        "Weaviate",
+        "FastAPI",
+        "HIPAA",
+        "TruLens",
+        "Apache Airflow",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planned the development of a healthcare benefits fraud detection model using Azure ML Studio, focusing on identifying anomalous billing patterns in state Medicaid claims while adhering to strict public sector data protocols.",
+        "Implemented a traditional ML model pipeline with scikit-learn and XGBoost on Azure Databricks, engineering features from historical claims data to predict the likelihood of fraudulent provider activity.",
+        "Deployed the trained model as a secured Azure ML endpoint, setting up authentication and network isolation to protect sensitive patient health information in accordance with state HIPAA regulations.",
+        "Monitored model drift and performance degradation in production using Azure Application Insights, scheduling regular retraining jobs when prediction distributions shifted beyond acceptable thresholds.",
+        "Optimized the feature engineering PySpark jobs on Databricks by adjusting partition sizes and caching intermediate dataframes, which reduced the daily batch prediction job time significantly.",
+        "Troubleshot a recurring error in the data pipeline where late-arriving eligibility files caused missing features; implemented a watermarking strategy to handle late data gracefully.",
+        "Designed a dashboard in Power BI to visualize fraud risk scores and case volumes for state auditors, translating complex model outputs into actionable insights for investigative teams.",
+        "Built a secure data ingestion process for PDF claim forms using Azure Data Factory and a custom Python OCR service, ensuring all PII was masked before data entered the model training pipeline.",
+        "Integrated the model scores with the existing case management workflow via a REST API, allowing investigators to prioritize high-risk cases directly from their familiar interface.",
+        "Created a comprehensive validation framework to test model updates against a golden dataset of known fraud cases, ensuring new versions did not regress on critical detection capabilities.",
+        "Established model governance documentation detailing the training data, versioning, and decision logic to meet public accountability requirements for automated systems used by the state.",
+        "Coordinated with the DB team to optimize SQL queries that extracted training data from the Oracle data warehouse, adding necessary indexes to improve data refresh speeds for the ML pipeline."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Azure Databricks",
+        "Azure Data Factory",
+        "PySpark",
+        "SQL",
+        "Oracle Database",
+        "Power BI",
+        "scikit-learn",
+        "XGBoost",
+        "REST API",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planned a project to enhance credit card transaction fraud detection using ensemble models, analyzing historical fraud patterns to define new predictive features within the constraints of PCI-DSS compliance.",
+        "Implemented a gradient boosting model with LightGBM in Python, trained on anonymized transaction data stored in Azure Synapse, to score transactions in real-time for potential fraud.",
+        "Deployed the model within the bank's existing fraud processing architecture on Azure Kubernetes Service, ensuring the scoring service met strict low-latency requirements for payment authorization.",
+        "Monitored the model's performance in production alongside rule-based systems, comparing fraud catch rates and false positive ratios to demonstrate the incremental value of the ML approach.",
+        "Optimized feature calculation scripts to reduce inference latency, profiling the code to identify bottlenecks and rewriting critical sections in NumPy for faster vectorized operations.",
+        "Troubleshot a mismatch between training and inference data distributions that caused performance drops, leading to the implementation of more robust data validation checks at pipeline entry points.",
+        "Designed A/B tests to evaluate the new model's impact, working with product teams to define key metrics and ensure a statistically sound rollout plan for the updated fraud scoring system.",
+        "Built data pipelines in Azure Data Factory to move and transform transaction data from on-premise systems to the cloud analytics environment, ensuring data lineage and audit trails were maintained.",
+        "Integrated the fraud score into the existing risk decision engine via a gRPC service, learning the bank's internal service discovery patterns to ensure reliable communication between systems.",
+        "Created documentation and training materials for the operations team on how to interpret model scores and handle common alerts, facilitating a smooth handover for day-to-day support."
+      ],
+      "environment": [
+        "Azure",
+        "Azure Synapse",
+        "Azure Kubernetes Service",
+        "LightGBM",
+        "Python",
+        "NumPy",
+        "Azure Data Factory",
+        "gRPC",
+        "PCI-DSS",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planned the ETL strategy for a client's customer data warehouse migration from legacy systems to a Hadoop ecosystem, documenting source-to-target mappings and transformation rules for the development team.",
+        "Implemented Informatica workflows to extract data from multiple transactional databases, transform it according to business logic, and load it into HDFS for downstream analytics and reporting purposes.",
+        "Deployed and scheduled the Informatica jobs using the platform's scheduler, coordinating with the operations team to ensure jobs ran within allocated time windows and met SLA requirements.",
+        "Monitored daily ETL job executions, checking logs for errors and addressing common failures like source file delays or network timeouts to keep the data warehouse updated on time.",
+        "Optimized slow-running Sqoop jobs by adjusting the number of mappers and using split-by columns effectively, which improved the data ingestion speed from relational databases into Hadoop.",
+        "Troubleshed data quality issues reported by the analytics team, tracing discrepancies back to specific transformation steps in the Informatica mapping and correcting the logic after validation.",
+        "Designed a simple star schema in Hive for the sales domain, creating fact and dimension tables that made it easier for business users to generate reports with their BI tools.",
+        "Built shell scripts to automate file landing checks and trigger downstream processes, reducing the manual effort required by the support team for routine data pipeline monitoring tasks."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "Informatica",
+        "Sqoop",
+        "Shell Scripting",
+        "SQL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

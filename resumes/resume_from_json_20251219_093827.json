@@ -1,0 +1,288 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Principal Enterprise Data Engineer",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise-scale data engineering, specializing in designing and implementing globally scalable data solutions for complex domains like Healthcare, Insurance, Government, and Finance, with deep expertise in data pipeline architecture and AI integration.",
+    "Leveraged advanced PySpark and AWS Glue to overcome challenges processing HIPAA-compliant patient data at petabyte scale, implementing incremental processing logic that reduced nightly batch windows by 40% and ensured stringent data privacy controls.",
+    "Architected and deployed a multi-agent AI system using CrewAI and LangGraph on AWS to automate healthcare supply chain forecasting, which involved complex coordination between data validation, enrichment, and prediction agents to improve accuracy.",
+    "Spearheaded the migration of legacy insurance claims data from on-premise Oracle systems to a cloud-native AWS architecture, employing sophisticated data modeling techniques to ensure referential integrity and support real-time analytics.",
+    "Utilized SQL and Python to develop and enforce data quality frameworks for government public health datasets, instituting automated validation checks that increased data consistency for critical pandemic response reporting.",
+    "Engineered a real-time streaming pipeline with Apache Kafka and Spark Streaming on AWS for financial transaction monitoring, implementing windowed aggregations to detect anomalies while adhering to PCI-DSS compliance standards.",
+    "Directed the full data lifecycle management for an enterprise eCommerce analytics platform, from raw log ingestion through curated feature store creation, enabling personalized digital marketing campaigns that lifted conversion rates.",
+    "Pioneered the integration of machine learning models into production analytics pipelines by containerizing Scikit-Learn models with Docker and deploying them as scalable AWS Lambda functions for on-demand inference.",
+    "Championed performance tuning and cost optimization for big data platforms, conducting thorough reviews of Spark job execution plans and right-sizing AWS resources to achieve a 30% reduction in monthly cloud expenditures.",
+    "Formulated data modeling best practices and governance policies for healthcare data assets, conducting stakeholder workshops to translate business requirements into dimensional models that powered enterprise BI tools.",
+    "Constructed reliable and scalable data pipeline architectures using Apache Airflow for workflow orchestration, designing modular DAGs that improved development team productivity and simplified debugging processes.",
+    "Integrated Azure AI Services within a government data platform to create cognitive search capabilities over unstructured documents, leveraging text analytics and entity recognition to unlock new insights.",
+    "Orchestrated batch and large-scale data processing for healthcare interoperability initiatives, transforming HL7 and FHIR messages into an analyzable format for population health management and clinical research.",
+    "Collaborated extensively with cross-functional stakeholders including data scientists, product managers, and compliance officers to translate complex business needs into secure, governed, and actionable data solutions.",
+    "Authored comprehensive documentation for data models, pipeline designs, and operational runbooks, ensuring knowledge transfer and sustainable support for mission-critical data infrastructure across global teams.",
+    "Investigated and resolved intricate production data issues through methodical debugging of PySpark code and SQL queries, often during off-hours, to maintain SLAs for downstream consumer-facing applications.",
+    "Mastered the nuances of analytical and problem-solving skills within regulated industries, balancing innovation with rigorous adherence to HIPAA, GDPR, and financial regulatory frameworks across all data projects.",
+    "Evaluated and implemented proof-of-concepts for emerging agentic frameworks and the Model Context Protocol, assessing their potential to automate complex data preparation and quality assurance tasks."
+  ],
+  "technical_skills": {
+    "Cloud Data Platforms & Big Data": [
+      "AWS (S3, Glue, Lambda, Redshift, Bedrock)",
+      "Azure (Data Factory, AI Services, Cosmos DB)",
+      "Microsoft Fabric",
+      "Apache Spark",
+      "Apache Hadoop",
+      "Databricks",
+      "Big Data Platforms"
+    ],
+    "Data Engineering & Pipeline Tools": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "dbt",
+      "Apache Kafka",
+      "Spark Streaming",
+      "ETL/ELT Design",
+      "Data Pipeline Design"
+    ],
+    "Programming & Query Languages": [
+      "Python",
+      "PySpark",
+      "SQL (Advanced)",
+      "Java",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Modeling",
+      "Star/Snowflake Schema",
+      "Data Vault 2.0",
+      "Enterprise-Scale Architecture",
+      "Data Concepts",
+      "Scalable Pipeline Architecture"
+    ],
+    "AI/ML Integration & Services": [
+      "Azure AI Services",
+      "Scikit-Learn",
+      "TensorFlow",
+      "CrewAI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "AI/ML Integration"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "AWS ECS",
+      "AWS EKS"
+    ],
+    "Databases & Warehouses": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Amazon Redshift",
+      "Snowflake",
+      "SQL Server"
+    ],
+    "Data Governance & Quality": [
+      "Data Quality Frameworks",
+      "HIPAA Compliance",
+      "GDPR Compliance",
+      "PCI-DSS",
+      "Data Governance",
+      "Secure Data Handling"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "AWS CloudFormation"
+    ],
+    "Visualization & Analytics": [
+      "Tableau",
+      "Power BI",
+      "Amazon QuickSight",
+      "Analytics Pipelines"
+    ],
+    "Streaming & Real-time Processing": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis",
+      "Real-time Data Processing"
+    ],
+    "Development & Collaboration Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "Confluence",
+      "Jira"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Deployed PySpark on AWS Glue to redesign a legacy healthcare supply chain data pipeline, addressing performance bottlenecks that delayed critical inventory reports, by implementing dynamic partition pruning and broadcast joins, which slashed data processing time by 50%.",
+        "Utilized CrewAI and LangGraph to architect a proof-of-concept multi-agent system for automated clinical trial data validation, where specialized agents collaborated to check for protocol deviations and patient eligibility, significantly reducing manual review effort.",
+        "Engineered a scalable data pipeline architecture using Apache Airflow and AWS S3 to manage the end-to-end lifecycle of PHI data, incorporating encryption at rest and in transit to maintain strict HIPAA compliance across all data movements.",
+        "Integrated a pre-trained machine learning model for predictive equipment failure into the analytics pipeline by containerizing it with Docker and deploying it as an AWS SageMaker endpoint, enabling real-time inference on streaming IoT data.",
+        "Formulated advanced SQL queries and Python scripts to perform complex data quality and consistency checks on patient demographic datasets, identifying and reconciling duplicates that improved master data accuracy for billing systems.",
+        "Championed performance tuning and monitoring for enterprise-scale data engineering workloads by configuring detailed Amazon CloudWatch metrics and Spark UI reviews, proactively identifying and resolving memory spill issues before job failures.",
+        "Constructed a Fabric-like data mesh concept on AWS using Lake Formation and Glue Data Catalog to enable decentralized data ownership, allowing individual healthcare business units to manage their own datasets while adhering to global governance.",
+        "Orchestrated batch and large-scale data processing for merging electronic health records from recent acquisitions, developing custom PySpark UDFs to standardize disparate clinical coding formats like ICD-10 into a unified model.",
+        "Pioneered the use of agentic frameworks to automate the documentation of data models and pipeline lineage, where an AI agent parsed SQL DDL and PySpark code to generate and update Data Catalog entries, improving metadata coverage.",
+        "Investigated a critical production outage in the real-time patient monitoring pipeline by debugging a Kafka stream processing job, discovering a serialization error in the Avro schema evolution, and implementing a backward-compatible fix.",
+        "Mastered stakeholder collaboration by conducting weekly syncs with clinical analytics teams, translating their requirements for new sepsis prediction features into technical specifications for the data engineering squad.",
+        "Evaluated the Model Context Protocol for standardizing communication between our data quality agents and external master data services, running a small-scale POC that demonstrated potential for reducing integration code.",
+        "Spearheaded cost and performance optimization initiatives by analyzing AWS Cost Explorer reports and redesigning several Glue jobs to use fewer DPUs and leverage spot instances, lowering monthly spend by over 25%.",
+        "Authored detailed operational support runbooks and troubleshooting guides for the new AI-augmented pipelines, ensuring the on-call rotation could effectively handle incidents related to the multi-agent systems.",
+        "Directed the implementation of data masking and tokenization techniques within our PySpark jobs to de-identify PHI for non-production environments, facilitating secure data sharing with development and QA teams.",
+        "Leveraged Python and the AWS SDK (Boto3) to build a custom monitoring dashboard that tracked pipeline SLAs and data freshness, which became essential for weekly business reviews on data platform health."
+      ],
+      "environment": [
+        "AWS (S3, Glue, Lambda, SageMaker, Redshift, CloudWatch, Lake Formation)",
+        "PySpark",
+        "Python",
+        "SQL",
+        "Apache Airflow",
+        "Apache Kafka",
+        "Docker",
+        "CrewAI",
+        "LangGraph",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "HIPAA Compliant Data"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Architected a cloud-native data platform on AWS to consolidate member eligibility and claims data from multiple regional Blues plans, employing advanced data modeling techniques to create a unified, enterprise-scale source of truth.",
+        "Utilized AWS Glue and PySpark to develop and maintain high-volume batch data pipelines for insurance claims adjudication, implementing incremental loads that processed terabytes of daily data while meeting strict financial closing schedules.",
+        "Engineered a data quality framework with Python that executed over 200 validation rules on incoming claims data, flagging anomalies related to procedure codes and member coverage, which reduced claim rework by 15%.",
+        "Formulated performance tuning strategies for complex Redshift queries powering actuarial reports, using EXPLAIN plans and WLM queues to prioritize critical workloads during peak financial reporting periods.",
+        "Integrated a proof-of-concept LangGraph workflow to simulate and validate complex insurance policy rule changes, where sequential agent reasoning helped predict impacts on member benefits and provider reimbursements.",
+        "Championed secure data handling and governance by implementing column-level encryption in Redshift for sensitive member PII and PHI, ensuring alignment with state-specific insurance regulations and GDPR for international members.",
+        "Constructed a scalable and reliable pipeline architecture using Apache Airflow to orchestrate the daily ETL from on-premise mainframe systems (DB2) to AWS S3 data lake, improving data availability for analytics teams.",
+        "Orchestrated the migration of legacy SAS analytical datasets to a modern Parquet-based data lake on S3, writing Python scripts to convert metadata and preserve decades of historical trend analysis for underwriters.",
+        "Pioneered the documentation of all data models and pipeline dependencies in a centralized wiki, which became critical for onboarding new team members and conducting audits for insurance regulatory compliance.",
+        "Investigated discrepancies in premium billing reports by tracing data lineage from front-end applications back to source systems, discovering a misalignment in monthly membership effective dates that required a backfill.",
+        "Mastered analytical problem-solving during a critical incident where a pipeline failed to process a large batch of pharmacy claims, debugging a memory issue in a PySpark join and implementing a broadcast hint for resolution.",
+        "Evaluated AWS Step Functions as an alternative orchestrator for multi-step claims data enrichment workflows, building a POC that demonstrated improved visibility over complex, branching business logic.",
+        "Spearheaded stakeholder collaboration with actuarial and fraud detection departments, gathering requirements for new data feeds that supported predictive models identifying potentially fraudulent provider billing patterns.",
+        "Authored technical design documents for a new member 360-degree data product, outlining the data contracts, transformation logic, and delivery mechanisms to power personalized digital member portals."
+      ],
+      "environment": [
+        "AWS (S3, Glue, Redshift, Lambda, Step Functions)",
+        "PySpark",
+        "Python",
+        "SQL",
+        "Apache Airflow",
+        "DB2",
+        "Parquet",
+        "LangGraph",
+        "CrewAI POC",
+        "Insurance Data Models"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Utilized Azure Data Factory and SQL Server to build pipelines aggregating public health data from county-level sources during the COVID-19 pandemic, ensuring timely and accurate reporting for government dashboards.",
+        "Engineered data pipelines using Python and PySpark on Azure Databricks to process large-scale unemployment insurance claims data, implementing deduplication logic that cleaned noisy applicant submissions from overwhelmed web portals.",
+        "Formulated data models for a statewide voter registration system, designing star schemas in Azure Synapse that supported analytics on voter turnout and demographic trends while ensuring strict data security protocols.",
+        "Integrated Azure AI Services, specifically Text Analytics and Anomaly Detector, into pipelines processing citizen service request tickets, automatically categorizing issues and flagging unusual spikes for agency review.",
+        "Championed performance tuning for critical ETL jobs loading data into Azure Synapse, revising distribution keys and indexing strategies on large fact tables to accelerate dashboard refresh times for executive briefings.",
+        "Constructed batch processing pipelines to ingest and standardize heterogeneous K-12 education data from hundreds of school districts, creating a unified longitudinal data system for the state education department.",
+        "Orchestrated the secure transfer of sensitive child welfare case data between state agencies using Azure Blob Storage with managed identities and private endpoints, adhering to stringent government data sharing agreements.",
+        "Pioneered the implementation of data quality checks using Python within ADF pipelines, validating geographic and demographic data for accuracy before publication on open data portals for public consumption.",
+        "Investigated data latency issues in a pipeline feeding the Medicaid eligibility system, tracing the problem to network throttling between on-premise data centers and Azure, and collaborating with infrastructure teams on a fix.",
+        "Mastered stakeholder collaboration by participating in requirements gathering sessions with policy analysts, learning their data needs for evidence-based legislation, and translating those into technical data product specs.",
+        "Evaluated and proposed a change from full to incremental data loads for the motor vehicle registration database, significantly reducing Azure data transfer costs and compute hours for the nightly refresh cycle.",
+        "Authored detailed data dictionaries and entity-relationship diagrams for the public health data mart, which were essential for external researchers to properly use the published datasets for epidemiological studies."
+      ],
+      "environment": [
+        "Azure (Data Factory, Databricks, Synapse, Blob Storage, AI Services)",
+        "SQL Server",
+        "Python",
+        "PySpark",
+        "SQL",
+        "Government Datasets"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Utilized Azure HDInsight (Spark) to process terabytes of daily credit card transaction data, building pipelines that calculated customer spending patterns and aggregated metrics for risk assessment models.",
+        "Engineered scalable data pipelines with Azure Data Factory to ingest and transform raw transaction logs from on-premise systems into a curated data lake on Azure Data Lake Storage Gen2.",
+        "Formulated SQL-based data quality rules to validate the integrity of financial transaction data, ensuring accurate posting to customer statements and compliance with PCI-DSS data security standards.",
+        "Championed performance tuning for Spark jobs analyzing transaction fraud, by adjusting executor memory configurations and implementing predicate pushdown on partitioned data, reducing job runtime by 35%.",
+        "Constructed batch processing workflows to generate daily merchant settlement files, ensuring accurate and timely fund transfers by reconciling transaction totals with acquiring bank reports.",
+        "Orchestrated the migration of legacy SAS credit risk scorecards to Python-based models, containerizing them and deploying scoring logic within Azure Databricks notebooks for parallel execution.",
+        "Pioneered the documentation of the end-to-end data flow for the cardholder rewards program, mapping points accrual from transactions through to redemption, which was critical for financial auditing.",
+        "Investigated a data discrepancy in monthly financial reporting by tracing lineage through multiple pipeline stages, identifying a rounding logic error in a currency conversion UDF that required correction.",
+        "Mastered stakeholder requirements by working with fraud analysts to understand their feature needs, translating those into new derived data columns in the feature store for machine learning model retraining.",
+        "Authored operational checklists and monitoring alerts for the critical transaction ingestion pipeline, ensuring the team could quickly respond to any delays that impacted downstream fraud detection systems."
+      ],
+      "environment": [
+        "Azure (HDInsight, Data Factory, Data Lake Storage, Databricks)",
+        "Spark",
+        "Python",
+        "SQL",
+        "SAS",
+        "PCI-DSS Compliant Data"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Utilized Python and SQL to extract, clean, and analyze pathology lab test results from relational databases, building foundational datasets for AI models that assisted in digital diagnosis of medical conditions.",
+        "Engineered basic data pipelines using Python scripts to automate the transfer and normalization of medical image metadata from laboratory information systems into centralized analysis databases.",
+        "Formulated SQL queries to generate routine operational reports on test volumes and turnaround times for lab managers, helping optimize workflow and resource allocation in the diagnostic centers.",
+        "Championed data quality by manually reviewing and correcting inconsistencies in patient demographic data linked to test samples, understanding the critical impact of accurate data on diagnostic outcomes.",
+        "Constructed data visualizations using Power BI to present trends in lab test results to medical researchers, aiding in the identification of patterns relevant to public health studies.",
+        "Orchestrated the secure backup and archival of sensitive patient test data in compliance with data retention policies, learning the importance of data governance in a healthcare startup environment.",
+        "Pioneered the documentation of data dictionaries for key analytical tables, making the complex medical coding systems (like LOINC) more accessible to the data science and engineering teams.",
+        "Investigated ad-hoc data requests from the research team, such as extracting specific cohorts of patient data for clinical studies, while meticulously applying de-identification protocols to protect PHI."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Power BI",
+        "Healthcare Data (HIPAA)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

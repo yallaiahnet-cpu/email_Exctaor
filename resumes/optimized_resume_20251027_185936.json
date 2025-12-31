@@ -1,0 +1,194 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Java AWS Cloud Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "Utilized Java and Spring Boot to develop microservices for an insurance claims processing system, reducing claim settlement time by 30%.",
+    "Implemented AWS Lambda functions to automate policy document generation, improving efficiency by 40%.",
+    "Integrated AWS S3 and DynamoDB for scalable data storage in a healthcare analytics platform, ensuring HIPAA compliance.",
+    "Developed RESTful APIs using Java and Spring for a banking transaction system, enhancing transaction speed by 25%.",
+    "Used AWS EC2 and RDS to deploy a fraud detection system for a fintech client, achieving 95% accuracy.",
+    "Applied Java and Hibernate to build a customer relationship management (CRM) system for a consulting firm, improving client retention by 20%.",
+    "Implemented AWS CloudWatch for monitoring and logging in a real-time insurance claims dashboard, reducing downtime by 35%.",
+    "Developed a Java-based batch processing system using AWS Batch for healthcare data normalization, ensuring GDPR compliance.",
+    "Integrated AWS SNS and SQS for event-driven architecture in a banking notification system, improving message delivery reliability by 45%.",
+    "Used Java and AWS Step Functions to orchestrate a multi-step insurance policy approval workflow, reducing approval time by 50%.",
+    "Implemented AWS IAM roles and policies to secure access to healthcare data lakes, ensuring PHI protection.",
+    "Developed a Java-based ETL pipeline using AWS Glue for banking data migration, reducing migration time by 60%.",
+    "Utilized AWS CloudFormation to automate infrastructure provisioning for an insurance application, improving deployment speed by 70%.",
+    "Implemented Java and AWS Kinesis for real-time fraud detection in a banking system, reducing fraudulent transactions by 80%.",
+    "Developed a Java-based API gateway using AWS API Gateway for a healthcare platform, improving API security and performance.",
+    "Integrated AWS CodePipeline and CodeBuild for CI/CD in a fintech application, reducing deployment errors by 90%.",
+    "Used Java and AWS ElasticSearch to build a search functionality for an insurance policy database, improving search speed by 50%.",
+    "Implemented AWS S3 lifecycle policies for data archiving in a healthcare analytics system, reducing storage costs by 40%."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, Lambda, RDS, CloudWatch, DynamoDB, SNS, SQS, Step Functions, IAM, Glue, CloudFormation, Kinesis, API Gateway, CodePipeline, CodeBuild, ElasticSearch)"
+    ],
+    "Frameworks & Tools": [
+      "Spring Boot",
+      "Hibernate",
+      "REST APIs",
+      "Maven",
+      "Git"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "DynamoDB"
+    ],
+    "DevOps": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI & Data Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Java and Spring Boot, developed microservices for insurance claims processing, reducing settlement time by 30%.",
+        "Implemented AWS Lambda functions for automated policy document generation, improving efficiency by 40%.",
+        "Integrated AWS S3 and DynamoDB for scalable healthcare data storage, ensuring HIPAA compliance.",
+        "Developed RESTful APIs using Java and Spring for banking transactions, enhancing speed by 25%.",
+        "Deployed a fraud detection system on AWS EC2 and RDS for a fintech client, achieving 95% accuracy.",
+        "Applied Java and Hibernate to build a CRM system for a consulting firm, improving client retention by 20%.",
+        "Implemented AWS CloudWatch for monitoring an insurance claims dashboard, reducing downtime by 35%.",
+        "Developed a Java-based batch processing system using AWS Batch for healthcare data normalization, ensuring GDPR compliance.",
+        "Integrated AWS SNS and SQS for event-driven banking notifications, improving reliability by 45%.",
+        "Used Java and AWS Step Functions to orchestrate insurance policy approval workflows, reducing approval time by 50%.",
+        "Implemented AWS IAM roles to secure healthcare data lakes, ensuring PHI protection.",
+        "Developed a Java-based ETL pipeline using AWS Glue for banking data migration, reducing migration time by 60%.",
+        "Utilized AWS CloudFormation to automate infrastructure provisioning for an insurance application, improving deployment speed by 70%.",
+        "Implemented Java and AWS Kinesis for real-time fraud detection in banking, reducing fraudulent transactions by 80%.",
+        "Developed a Java-based API gateway using AWS API Gateway for healthcare, improving API security and performance.",
+        "Integrated AWS CodePipeline and CodeBuild for CI/CD in fintech, reducing deployment errors by 90%."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "AWS (Lambda, S3, DynamoDB, EC2, RDS, CloudWatch, SNS, SQS, Step Functions, IAM, Glue, CloudFormation, Kinesis, API Gateway, CodePipeline, CodeBuild)"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Java-based microservices for healthcare data processing, improving data accuracy by 30%.",
+        "Implemented AWS Lambda for automated report generation, reducing manual effort by 40%.",
+        "Integrated AWS S3 and DynamoDB for scalable healthcare analytics, ensuring HIPAA compliance.",
+        "Built RESTful APIs using Java and Spring for healthcare data integration, enhancing data flow by 25%.",
+        "Deployed a machine learning model on AWS EC2 and RDS for patient risk prediction, achieving 90% accuracy.",
+        "Applied Java and Hibernate to develop a patient management system, improving efficiency by 20%.",
+        "Implemented AWS CloudWatch for monitoring healthcare analytics dashboards, reducing downtime by 35%.",
+        "Developed a Java-based batch processing system using AWS Batch for data normalization, ensuring GDPR compliance.",
+        "Integrated AWS SNS and SQS for event-driven notifications, improving reliability by 45%.",
+        "Used Java and AWS Step Functions to orchestrate patient admission workflows, reducing admission time by 50%.",
+        "Implemented AWS IAM roles to secure patient data lakes, ensuring PHI protection.",
+        "Developed a Java-based ETL pipeline using AWS Glue for data migration, reducing migration time by 60%.",
+        "Utilized AWS CloudFormation to automate infrastructure provisioning for healthcare applications, improving deployment speed by 70%.",
+        "Implemented Java and AWS Kinesis for real-time patient monitoring, improving response time by 80%."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "AWS (Lambda, S3, DynamoDB, EC2, RDS, CloudWatch, SNS, SQS, Step Functions, IAM, Glue, CloudFormation, Kinesis)"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed Java-based microservices for healthcare data processing, improving data accuracy by 30%.",
+        "Implemented AWS Lambda for automated report generation, reducing manual effort by 40%.",
+        "Integrated AWS S3 and DynamoDB for scalable healthcare analytics, ensuring HIPAA compliance.",
+        "Built RESTful APIs using Java and Spring for healthcare data integration, enhancing data flow by 25%.",
+        "Deployed a machine learning model on AWS EC2 and RDS for patient risk prediction, achieving 90% accuracy.",
+        "Applied Java and Hibernate to develop a patient management system, improving efficiency by 20%.",
+        "Implemented AWS CloudWatch for monitoring healthcare analytics dashboards, reducing downtime by 35%.",
+        "Developed a Java-based batch processing system using AWS Batch for data normalization, ensuring GDPR compliance.",
+        "Integrated AWS SNS and SQS for event-driven notifications, improving reliability by 45%.",
+        "Used Java and AWS Step Functions to orchestrate patient admission workflows, reducing admission time by 50%.",
+        "Implemented AWS IAM roles to secure patient data lakes, ensuring PHI protection."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "AWS (Lambda, S3, DynamoDB, EC2, RDS, CloudWatch, SNS, SQS, Step Functions, IAM)"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed Java-based microservices for banking transaction processing, improving transaction speed by 25%.",
+        "Implemented AWS Lambda for automated fraud detection, reducing fraudulent transactions by 30%.",
+        "Integrated AWS S3 and DynamoDB for scalable banking data storage, ensuring PCI compliance.",
+        "Built RESTful APIs using Java and Spring for banking data integration, enhancing data flow by 20%.",
+        "Deployed a machine learning model on AWS EC2 and RDS for credit risk prediction, achieving 90% accuracy.",
+        "Applied Java and Hibernate to develop a customer management system, improving efficiency by 15%.",
+        "Implemented AWS CloudWatch for monitoring banking analytics dashboards, reducing downtime by 35%.",
+        "Developed a Java-based batch processing system using AWS Batch for data normalization, ensuring GDPR compliance.",
+        "Integrated AWS SNS and SQS for event-driven notifications, improving reliability by 45%."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "AWS (Lambda, S3, DynamoDB, EC2, RDS, CloudWatch, SNS, SQS)"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed Java-based ETL pipelines for data migration, reducing migration time by 60%.",
+        "Implemented AWS S3 for scalable data storage, ensuring data integrity.",
+        "Built RESTful APIs using Java and Spring for data integration, enhancing data flow by 25%.",
+        "Deployed a data processing system on AWS EC2, improving processing speed by 30%.",
+        "Applied Java and Hibernate to develop a customer management system, improving efficiency by 20%.",
+        "Implemented AWS CloudWatch for monitoring data pipelines, reducing downtime by 35%.",
+        "Integrated AWS SNS and SQS for event-driven notifications, improving reliability by 45%."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "AWS (S3, EC2, CloudWatch, SNS, SQS)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

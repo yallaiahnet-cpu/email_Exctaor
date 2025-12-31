@@ -1,0 +1,233 @@
+{
+  "name": "Aravind Datla",
+  "title": "GCP Data Migration Specialist",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered comprehensive data migration strategies using GCP BigQuery and Dataflow to transition healthcare data centers while maintaining HIPAA compliance throughout the entire process, ensuring patient data security.",
+    "Architected tenant engagement models for Google Cloud Platform migrations that provided structured education on platform capabilities and migration best practices, resulting in smoother transitions for healthcare organizations.",
+    "Developed custom Python scripts to automate data validation processes between legacy Teradata systems and GCP Cloud Storage, identifying and resolving data integrity issues before final migration completion.",
+    "Implemented CI/CD pipelines using GitHub Actions to deploy data migration workflows in GCP Cloud Composer, reducing manual deployment errors and improving overall migration efficiency.",
+    "Utilized GCP Dataflow to process and transform large-scale healthcare datasets from Hadoop ecosystems, optimizing data structures for BigQuery analytics while preserving all required metadata.",
+    "Created detailed documentation for migration procedures and troubleshooting guides, enabling cross-functional teams to collaborate effectively during complex healthcare data center transitions.",
+    "Designed data partitioning strategies in BigQuery that aligned with healthcare regulatory requirements, ensuring proper data isolation and access controls for different types of patient information.",
+    "Established monitoring frameworks using GCP Pub/Sub to track migration progress and alert teams to potential issues, reducing downtime and maintaining business continuity during transitions.",
+    "Integrated GCP Data Plex to implement data governance frameworks for healthcare organizations, ensuring data quality and compliance throughout the migration process and beyond.",
+    "Leveraged SQL expertise in both Teradata and BigQuery to optimize query performance during migration testing phases, identifying and resolving bottlenecks before production deployment.",
+    "Facilitated knowledge transfer sessions for client teams on GCP platform capabilities, focusing on BigQuery features that would enhance their healthcare analytics capabilities post-migration.",
+    "Resolved complex data transformation challenges using Python and GCP Dataproc when migrating structured and unstructured healthcare data from legacy systems to cloud-native formats.",
+    "Collaborated with Data Architects to design cloud-native data models that would improve healthcare analytics capabilities while maintaining all necessary compliance requirements.",
+    "Optimized data transfer processes between on-premise Hadoop clusters and GCP Cloud Storage, reducing migration timelines for large healthcare datasets through parallel processing techniques.",
+    "Implemented automated testing frameworks using Python to validate data integrity after migration, ensuring no healthcare data was lost or corrupted during the transition to GCP.",
+    "Managed stakeholder expectations throughout migration projects by providing regular progress updates and demonstrating working prototypes of GCP-based healthcare analytics solutions.",
+    "Developed custom data lineage tracking solutions using GCP services to maintain audit trails required for healthcare compliance, ensuring transparency throughout the migration process.",
+    "Evaluated and recommended appropriate GCP service configurations for different healthcare use cases, balancing performance requirements with cost optimization strategies for long-term cloud operations."
+  ],
+  "technical_skills": {
+    "Cloud Platforms": [
+      "Google Cloud Platform (GCP)",
+      "AWS",
+      "Azure"
+    ],
+    "GCP Services": [
+      "BigQuery",
+      "Dataproc",
+      "Dataflow",
+      "Cloud Storage",
+      "Pub/Sub",
+      "Cloud Composer",
+      "Data Plex"
+    ],
+    "Data Technologies": [
+      "Teradata",
+      "Hadoop",
+      "Hive",
+      "HDFS",
+      "MapReduce",
+      "Apache Kafka",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL (BTEQ, Teradata SQL, BigQuery SQL)",
+      "Java"
+    ],
+    "Data Processing & Workflow": [
+      "Apache Airflow",
+      "Apache Spark",
+      "Apache Beam",
+      "Talend"
+    ],
+    "CI/CD & DevOps": [
+      "GitHub Actions",
+      "Jenkins",
+      "Harness",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Google Data Studio"
+    ],
+    "Data Migration Tools": [
+      "GCP BigQuery Migration Services",
+      "AWS Database Migration Service",
+      "Azure Data Factory"
+    ],
+    "Data Governance & Compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GDPR",
+      "NIST"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior GCP Data Migration Architect",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected comprehensive GCP migration strategy for CVS Health's patient data systems using BigQuery and Dataflow, ensuring HIPAA compliance throughout the entire transition process while maintaining data integrity.",
+        "Designed and implemented automated data validation pipelines using Python and GCP Cloud Storage to verify healthcare data accuracy during migration from legacy Teradata systems to cloud-native BigQuery warehouses.",
+        "Developed custom CI/CD workflows with GitHub Actions to deploy data migration jobs in GCP Cloud Composer, reducing manual intervention by around 80% and eliminating configuration errors in healthcare data processing.",
+        "Engineered secure data transfer protocols between on-premise Hadoop clusters and GCP Cloud Storage, implementing encryption and access controls that satisfied healthcare regulatory requirements for patient information protection.",
+        "Led cross-functional teams including Data Architects and Cloud Engineers to create a structured tenant engagement model for CVS Health's data center exit, providing education on GCP platform capabilities specific to healthcare analytics.",
+        "Optimized BigQuery query performance for healthcare analytics by implementing proper partitioning strategies and clustering techniques, reducing report generation times from hours to minutes for critical patient data analysis.",
+        "Implemented GCP Dataflow pipelines to process and transform large-scale healthcare datasets from Hadoop ecosystems, resolving complex data structure challenges while preserving all required metadata for regulatory compliance.",
+        "Created comprehensive documentation for migration procedures and troubleshooting guides tailored to healthcare data requirements, enabling CVS Health teams to maintain operations during the transition period.",
+        "Established monitoring frameworks using GCP Pub/Sub to track migration progress and alert teams to potential issues with patient data transfers, reducing downtime and maintaining business continuity during critical healthcare operations.",
+        "Integrated GCP Data Plex to implement data governance frameworks for CVS Health, ensuring data quality and compliance throughout the migration process and establishing long-term data management practices.",
+        "Utilized extensive SQL expertise in both Teradata and BigQuery to optimize query performance during migration testing phases, identifying and resolving bottlenecks before production deployment of healthcare analytics systems.",
+        "Facilitated knowledge transfer sessions for CVS Health teams on GCP platform capabilities, focusing on BigQuery features that would enhance their healthcare analytics capabilities while maintaining strict HIPAA compliance.",
+        "Resolved complex data transformation challenges using Python and GCP Dataproc when migrating structured and unstructured healthcare data from legacy systems, ensuring no patient information was compromised during the process.",
+        "Collaborated with CVS Health Data Architects to design cloud-native data models that would improve healthcare analytics capabilities while maintaining all necessary compliance requirements for patient data privacy.",
+        "Optimized data transfer processes between on-premise Hadoop clusters and GCP Cloud Storage, reducing migration timelines for large healthcare datasets through parallel processing techniques that maintained data integrity.",
+        "Implemented automated testing frameworks using Python to validate data integrity after migration, ensuring no healthcare data was lost or corrupted during the transition to GCP BigQuery warehouses.",
+        "Managed stakeholder expectations throughout CVS Health migration projects by providing regular progress updates and demonstrating working prototypes of GCP-based healthcare analytics solutions that met their specific needs.",
+        "Evaluated and recommended appropriate GCP service configurations for different CVS Health use cases, balancing performance requirements with cost optimization strategies for long-term cloud operations in the healthcare sector."
+      ],
+      "environment": [
+        "Google Cloud Platform (GCP)",
+        "BigQuery",
+        "Dataproc",
+        "Dataflow",
+        "Cloud Storage",
+        "Pub/Sub",
+        "Cloud Composer",
+        "Data Plex",
+        "Python",
+        "SQL",
+        "GitHub Actions",
+        "Hadoop",
+        "Hive",
+        "HDFS",
+        "Teradata"
+      ]
+    },
+    {
+      "role": "GCP Data Migration Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Engineered GCP-based data migration solutions for Capital One's financial systems using BigQuery and Dataflow, ensuring PCI DSS compliance throughout the entire process while maintaining transaction data integrity.",
+        "Developed Python scripts to automate data validation processes between legacy Teradata systems and GCP Cloud Storage, identifying and resolving data discrepancies in financial records before final migration completion.",
+        "Implemented CI/CD pipelines using Jenkins to deploy data migration workflows in GCP Cloud Composer, reducing manual deployment errors and improving overall migration efficiency for banking data systems.",
+        "Utilized GCP Dataflow to process and transform large-scale financial datasets from Hadoop ecosystems, optimizing data structures for BigQuery analytics while preserving all required audit trails for regulatory compliance.",
+        "Created detailed documentation for banking data migration procedures and troubleshooting guides, enabling cross-functional teams to collaborate effectively during complex financial data center transitions.",
+        "Designed data partitioning strategies in BigQuery that aligned with banking regulatory requirements, ensuring proper data isolation and access controls for different types of financial information and customer data.",
+        "Established monitoring frameworks using GCP Pub/Sub to track migration progress and alert teams to potential issues with financial data transfers, reducing downtime and maintaining business continuity during critical banking operations.",
+        "Integrated GCP Data Plex to implement data governance frameworks for Capital One, ensuring data quality and compliance throughout the migration process and establishing long-term data management practices for financial data.",
+        "Leveraged SQL expertise in both Teradata and BigQuery to optimize query performance during migration testing phases for banking systems, identifying and resolving bottlenecks before production deployment.",
+        "Facilitated knowledge transfer sessions for Capital One teams on GCP platform capabilities, focusing on BigQuery features that would enhance their financial analytics capabilities while maintaining strict PCI DSS compliance.",
+        "Resolved complex data transformation challenges using Python and GCP Dataproc when migrating structured and unstructured banking data from legacy systems, ensuring no financial information was compromised during the process.",
+        "Collaborated with Capital One Data Architects to design cloud-native data models that would improve financial analytics capabilities while maintaining all necessary compliance requirements for banking data privacy.",
+        "Optimized data transfer processes between on-premise Hadoop clusters and GCP Cloud Storage, reducing migration timelines for large financial datasets through parallel processing techniques that maintained data integrity.",
+        "Implemented automated testing frameworks using Python to validate data integrity after migration, ensuring no banking data was lost or corrupted during the transition to GCP BigQuery warehouses.",
+        "Evaluated and recommended appropriate GCP service configurations for different Capital One use cases, balancing performance requirements with cost optimization strategies for long-term cloud operations in the banking sector."
+      ],
+      "environment": [
+        "Google Cloud Platform (GCP)",
+        "BigQuery",
+        "Dataproc",
+        "Dataflow",
+        "Cloud Storage",
+        "Pub/Sub",
+        "Cloud Composer",
+        "Data Plex",
+        "Python",
+        "SQL",
+        "Jenkins",
+        "Hadoop",
+        "Hive",
+        "HDFS",
+        "Teradata"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed data processing pipelines using Apache Kafka and Hadoop to collect and transform real-time vehicle telemetry data, initially struggling with the complex architecture but eventually creating a robust system.",
+        "Implemented Apache Airflow workflows to automate ETL processes for automotive manufacturing data, learning Python best practices along the way and reducing manual data processing time by around 60%.",
+        "Created interactive dashboards in Tableau to visualize production metrics and quality control data, working closely with manufacturing engineers to ensure the visualizations met their specific needs.",
+        "Utilized Hadoop Distributed File System (HDFS) to store and process large volumes of vehicle sensor data, figuring out optimal data partitioning strategies that improved query performance significantly.",
+        "Designed and implemented data validation scripts in Python to ensure the accuracy of vehicle performance metrics, catching data quality issues before they impacted production decisions.",
+        "Collaborated with cross-functional teams to integrate Apache Kafka with existing manufacturing systems, facilitating real-time data flow between production lines and analytics platforms.",
+        "Optimized Hadoop MapReduce jobs to process vehicle test data more efficiently, reducing processing time from hours to minutes and enabling faster feedback to engineering teams.",
+        "Developed custom connectors in Python to integrate Tableau with various automotive data sources, allowing stakeholders to access real-time production insights without manual data extraction.",
+        "Implemented data archiving strategies using Hadoop to maintain historical vehicle performance data while ensuring compliance with automotive industry regulations and data retention policies.",
+        "Created automated data quality monitoring using Apache Airflow and Python scripts, establishing alerts for anomalies in vehicle telemetry data that could indicate potential manufacturing issues.",
+        "Participated in code reviews and knowledge sharing sessions to improve team understanding of big data technologies, personally learning a lot about distributed computing from senior team members.",
+        "Troubleshot performance issues in the data processing pipeline, spending several days debugging a particularly frustrating memory leak in one of our Hadoop jobs but eventually resolving it."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "HDFS",
+        "MapReduce",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "Hive"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed ETL processes using Talend to extract data from MySQL and PostgreSQL databases, initially finding the interface challenging but eventually becoming comfortable with the drag-and-drop development approach.",
+        "Implemented Apache Airflow workflows to schedule and monitor data integration tasks for banking clients, learning Python on the job and creating custom operators for specific business requirements.",
+        "Created interactive dashboards in Tableau to visualize financial performance metrics, working closely with business analysts to ensure the visualizations provided meaningful insights for decision-makers.",
+        "Designed and optimized database schemas in MySQL and PostgreSQL for various consulting projects, learning about indexing strategies and query optimization through trial and error.",
+        "Developed Python scripts to automate data validation processes between source and target systems, identifying and resolving data quality issues before they impacted client reporting.",
+        "Collaborated with cross-functional teams to integrate Talend with various client systems, adapting to different data formats and business rules across multiple industries.",
+        "Implemented data archiving strategies using PostgreSQL to maintain historical financial data while ensuring compliance with banking regulations and data retention policies.",
+        "Created custom connectors in Python to integrate Tableau with various client data sources, allowing stakeholders to access real-time business insights without manual data extraction.",
+        "Participated in client meetings to gather requirements for data integration projects, learning to translate business needs into technical specifications and occasionally struggling with the technical jargon.",
+        "Documented data integration processes and troubleshooting guides, creating resources that helped new team members get up to speed faster and reduced the time spent on repetitive questions."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

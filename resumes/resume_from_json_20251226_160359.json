@@ -1,0 +1,277 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Systems Analyst & Enterprise Infrastructure Engineer",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Enterprise IT Operations and Senior System Analysis, specializing in designing and managing Windows ecosystems, O365 migrations, and ensuring healthcare system compliance with strict HIPAA regulations across enterprise-scale environments.",
+    "Leveraging PowerShell scripting to automate routine Active Directory administration tasks, including user provisioning and Group Policy updates, which reduced manual effort by approximately 40% and minimized human error in our HIPAA-sensitive healthcare data environment.",
+    "Architecting and leading the migration of legacy Microsoft Exchange Server mailboxes to Microsoft Office 365, meticulously planning the cutover to ensure zero data loss and uninterrupted email services for critical hospital staff and administrative personnel.",
+    "Administering and securing Microsoft Teams for enterprise-wide collaboration, configuring permissions and compliance policies to protect Protected Health Information (PHI) and facilitate secure communication between medical departments and external partners.",
+    "Orchestrating complex Active Directory Domain Services (AD DS) upgrades and forest migrations, developing detailed rollback plans and conducting extensive testing to maintain identity services for thousands of healthcare users and medical applications.",
+    "Implementing and managing Group Policy Objects (GPOs) across Windows Server and Windows Client estates to enforce security baselines, deploy software, and standardize configurations in alignment with healthcare industry security frameworks and internal audits.",
+    "Providing senior-level VPN and RDP support for remote clinicians and administrative staff, troubleshooting connectivity issues and access permissions to ensure secure remote access to Electronic Health Records (EHR) and other critical clinical systems.",
+    "Diagnosing and resolving multi-layer hardware, software, and network troubleshooting issues, performing root cause analysis on system failures affecting patient scheduling and laboratory systems to restore operations within stringent SLAs.",
+    "Coordinating with third-party vendors for infrastructure upgrades and support escalations, managing relationships and contracts to ensure vendor solutions meet our healthcare organization's reliability, security, and compliance requirements.",
+    "Owning the enterprise Windows and O365 environment stability, acting as the escalation point for complex system issues, leading incident bridge calls, and documenting resolution procedures for future problem management reference.",
+    "Developing comprehensive PowerShell scripts for automating user lifecycle management and reporting within Active Directory, integrating these scripts with existing ticketing systems to streamline IT service delivery in a fast-paced hospital setting.",
+    "Applying networking fundamentals including TCP/IP, DNS, and DHCP to design and troubleshoot network segments for medical imaging systems and IoT medical devices, ensuring reliable connectivity and adherence to network security policies.",
+    "Participating in ITIL-based change management processes for all production modifications, submitting detailed change requests for system patches and upgrades, and conducting post-implementation reviews to assess impact on clinical workflows.",
+    "Documenting intricate systems architecture and operational procedures for Active Directory, Exchange, and O365, creating knowledge base articles that empowered junior staff and improved the IT team's response time to common issues.",
+    "Executing security-aware system administration by hardening Windows Server configurations, reviewing access logs, and implementing least-privilege principles across all systems handling sensitive insurance claims and patient billing information.",
+    "Collaborating cross-functionally with security, networking, and application development teams to deploy new healthcare applications, ensuring infrastructure dependencies were met and systems were integrated seamlessly into the existing environment.",
+    "Leading Office 365 migration projects from initial assessment and planning through to execution and user training, focusing on minimizing disruption to healthcare professionals and maintaining compliance throughout the data transfer process.",
+    "Supporting hybrid Azure AD environments to enable secure cloud access for applications, configuring synchronization and conditional access policies that governed how medical research data could be accessed from on-premises and cloud resources."
+  ],
+  "technical_skills": {
+    "Enterprise Systems & Infrastructure": [
+      "Windows Server",
+      "Active Directory (AD DS)",
+      "Microsoft Exchange Server",
+      "Microsoft Office 365",
+      "Microsoft Teams",
+      "Group Policy",
+      "PowerShell",
+      "Windows Client"
+    ],
+    "Networking & Remote Access": [
+      "TCP/IP",
+      "DNS",
+      "DHCP",
+      "VPN",
+      "RDP",
+      "Network Troubleshooting"
+    ],
+    "Cloud Platforms & Integration": [
+      "AWS (EC2, IAM, Direct Connect)",
+      "Azure AD",
+      "Hybrid Environment Support"
+    ],
+    "System Administration & Operations": [
+      "Enterprise IT Operations",
+      "System Monitoring",
+      "Hardware Troubleshooting",
+      "Software Troubleshooting",
+      "Infrastructure Upgrades"
+    ],
+    "Scripting & Automation": [
+      "PowerShell Scripting",
+      "Automation",
+      "Bash/Shell"
+    ],
+    "IT Service Management": [
+      "Incident Management",
+      "Problem Management",
+      "Change Management",
+      "Root Cause Analysis",
+      "Vendor Coordination",
+      "Enterprise Ticketing Systems"
+    ],
+    "Security & Compliance": [
+      "Identity and Access Management (IAM)",
+      "Security-Aware Administration",
+      "Compliance Controls (HIPAA, PCI)"
+    ],
+    "Migration & Deployment": [
+      "Office 365 Migrations",
+      "Active Directory Migrations",
+      "System Upgrades",
+      "Deployment"
+    ],
+    "Collaboration & Support": [
+      "Enterprise User Support",
+      "Cross-Team Collaboration",
+      "Vendor Management",
+      "Documentation"
+    ],
+    "Analytical & Leadership": [
+      "Senior System Analysis",
+      "Troubleshooting Complex Issues",
+      "Ownership",
+      "Escalation Point"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Utilizing PowerShell to address sporadic authentication failures in our healthcare AI training environment by scripting diagnostic modules that interfaced with Active Directory, resolving latency issues that impacted data pipeline ingestion.",
+        "Orchestrating the administration of Microsoft Teams for secure multi-agent AI collaboration, configuring dedicated channels and access controls to ensure PHI data used by Crew AI and LangGraph agents remained compartmentalized and audit-ready.",
+        "Architecting a proof-of-concept for a multi-agent AI system that required seamless VPN and RDP support, engineering secure tunnels for agents to access on-premises SQL servers containing de-identified patient data for model training purposes.",
+        "Implementing Group Policy management to enforce security baselines on Windows Server instances hosting our ML models, applying stringent firewall and logging policies to meet HIPAA compliance for all patient data interactions.",
+        "Leading troubleshooting efforts for complex, multi-layer issues in our AWS-hosted AI platform where Windows Client VMs lost domain trust, performing root cause analysis that traced it to a misconfigured DHCP scope in the healthcare VPC.",
+        "Developing Python scripts integrated with PowerShell to automate the synchronization of user identities from Active Directory to our AWS IAM roles, ensuring AI engineers had appropriate access to S3 buckets containing medical supply data.",
+        "Coordinating with third-party vendors providing AI model services, managing the technical integration to ensure their APIs complied with our internal network security policies and Microsoft Office 365 data loss prevention rules.",
+        "Documenting the entire system architecture and operational procedures for our new Gen AI agents, creating runbooks that covered failure scenarios, escalation paths, and compliance checks specific to healthcare data handling.",
+        "Participating in change management reviews for deploying new versions of AI agents, submitting detailed plans that outlined impacts on Active Directory service accounts and dependencies on Microsoft Exchange Server for notification services.",
+        "Administering a hybrid environment where some AI workloads ran on-premises using Windows Server and others in AWS, ensuring consistent identity management via Azure AD Connect and secure communication channels.",
+        "Providing senior-level support and acting as the escalation point for system issues affecting the Model Context Protocol (MCP) servers, debugging permissions problems related to domain user accounts and service principals.",
+        "Designing a secure RDP jumpbox solution for external AI researchers to access non-PHI training datasets, hardening the Windows Server configuration and implementing granular Group Policy controls to monitor all sessions.",
+        "Conducting hardware troubleshooting for on-premises GPU servers that intermittently dropped off the network, collaborating with network teams to diagnose a faulty switch port that was delaying critical model training jobs.",
+        "Managing the Microsoft Office 365 tenant for the AI research division, configuring compliance labels and retention policies for all documentation and code related to patient data analytics to satisfy legal hold requirements.",
+        "Executing a minor Active Directory migration for a sub-domain containing service accounts used by our AI pipelines, planning the operation during a maintenance window to avoid disrupting real-time inventory prediction models.",
+        "Performing software troubleshooting on a custom agent built with LangGraph that failed to authenticate with Microsoft Teams APIs, tracing the issue to an outdated certificate chain in the Windows certificate store on the host server."
+      ],
+      "environment": [
+        "Windows Server",
+        "Active Directory",
+        "PowerShell",
+        "Microsoft Office 365",
+        "Microsoft Teams",
+        "AWS (EC2, IAM, S3)",
+        "Group Policy",
+        "VPN",
+        "RDP",
+        "Crew AI",
+        "LangGraph",
+        "Python",
+        "Hybrid Environment",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Employing PowerShell scripting to automate the extraction and transformation of insurance claims data from on-premises SQL Server, reducing the ETL window by several hours and ensuring timely data availability for analysts.",
+        "Administering Microsoft Office 365 groups and permissions for cross-functional teams working on actuarial data, ensuring secure collaboration on sensitive rate-setting documents within Microsoft Teams and SharePoint Online.",
+        "Supporting VPN connectivity for remote data scientists accessing our AWS Redshift clusters, troubleshooting client-side configuration issues and coordinating with network security to maintain compliance with insurance data regulations.",
+        "Managing Active Directory security groups that controlled access to various financial data marts, auditing membership regularly and implementing automated reports to demonstrate compliance during internal and external audits.",
+        "Upgrading Windows Server instances hosting our data integration services, meticulously testing the upgrade path and creating rollback procedures to prevent disruption to nightly claims processing batches.",
+        "Developing a monitoring solution using Python and PowerShell to track the health of our Windows-based data pipelines, alerting on service failures and performance degradation of key insurance adjudication processes.",
+        "Coordinating a third-party vendor implementing a new data quality tool, ensuring their software integrated with our existing Active Directory for authentication and complied with our Group Policy security settings.",
+        "Performing root cause analysis for a network troubleshooting issue where data transfer jobs between on-premises and AWS were failing, identifying a DNS resolution problem affecting the AWS Direct Connect link.",
+        "Documenting the support procedures for our enterprise data platform, focusing on the interaction between Windows services, scheduled tasks, and the enterprise ticketing system used for incident logging.",
+        "Participating in problem management reviews for recurring data pipeline failures, contributing insights on Windows Server performance counters and recommending configuration changes that improved stability.",
+        "Configuring and supporting RDP access for external actuaries requiring temporary access to specific data visualization servers, implementing time-bound access and full session recording for security review.",
+        "Assisting in the migration of legacy reporting servers to newer Windows Server versions, migrating associated service accounts in Active Directory and testing all dependent data extraction jobs post-migration.",
+        "Troubleshooting software issues with a legacy .NET application used for insurance policy management, debugging .NET Framework dependencies and permissions on Windows Server to restore functionality.",
+        "Implementing security-aware administration for our data lakes, ensuring Windows file servers and AWS S3 buckets followed the principle of least privilege, with access governed by Active Directory groups."
+      ],
+      "environment": [
+        "PowerShell",
+        "Active Directory",
+        "Windows Server",
+        "Microsoft Office 365",
+        "AWS (Redshift, S3, Direct Connect)",
+        "VPN",
+        "RDP",
+        "Group Policy",
+        "Python",
+        "DNS",
+        "Network Troubleshooting",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Leveraging Azure Active Directory to manage identities for a new public-facing data portal, synchronizing on-premises AD DS users and configuring conditional access policies to meet government security requirements.",
+        "Supporting the migration of several government department file shares to Microsoft Office 365 SharePoint, planning the network bandwidth requirements and troubleshooting file synchronization issues for large datasets.",
+        "Writing PowerShell scripts to automate the provisioning of Azure SQL Database access based on group membership in Active Directory, streamlining the process for onboarding new data analysts across agencies.",
+        "Providing RDP support for contractors accessing secure development environments, monitoring sessions and applying strict Group Policy controls to prevent unauthorized data exfiltration from government systems.",
+        "Administering Windows Server VMs in Azure that hosted ETL services, applying security patches, monitoring performance, and configuring backup jobs to ensure continuity of critical public service data pipelines.",
+        "Troubleshooting hardware-related performance issues on aging on-premises servers still running key data consolidation jobs, recommending hardware refresh plans that were integrated into the state's budget cycle.",
+        "Coordinating with the networking team to resolve DHCP conflicts affecting wireless devices used by field agents submitting data, reconfiguring scopes to ensure reliable connectivity for data uploads.",
+        "Documenting the architecture and data flows for the statewide unemployment claims data system, creating diagrams and operational manuals that covered both Azure and on-premises Windows Server components.",
+        "Participating in change advisory board meetings to approve deployments of new data integration packages, assessing risks to existing Windows services and Active Directory integration points.",
+        "Applying networking fundamentals to design a segmented network zone for sensitive citizen data processing, working with security teams to define firewall rules and DNS configurations for the new segment.",
+        "Managing Microsoft Teams administration for inter-agency data collaboration projects, setting up teams with appropriate guest access controls in line with government data sharing agreements.",
+        "Performing software troubleshooting on a legacy Visual Basic application that failed after a Windows Server update, rolling back the update and working with vendors on a compatible version."
+      ],
+      "environment": [
+        "Azure",
+        "Azure Active Directory",
+        "Active Directory",
+        "PowerShell",
+        "Windows Server",
+        "Microsoft Office 365",
+        "RDP",
+        "Group Policy",
+        "DHCP",
+        "DNS",
+        "Government Regulations"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Utilizing Active Directory groups to manage fine-grained access control to Hadoop clusters, scripting group membership synchronization from the corporate directory to ensure compliance with financial access policies.",
+        "Supporting the Windows Client builds for the data engineering team, ensuring they had the necessary local administrative rights and software installed to develop and test Spark jobs while adhering to PCI-DSS standards.",
+        "Assisting in troubleshooting network connectivity issues between on-premises Windows file shares and Azure Data Factory, analyzing TCP/IP packets to identify a misconfigured MTU size causing transfer failures.",
+        "Administering service accounts in Active Directory used by scheduled Big Data jobs, managing password rotation policies and auditing login events to detect any anomalous access patterns to financial data.",
+        "Documenting the support model for the enterprise data platform, outlining escalation paths from the helpdesk to the data engineering team for issues related to Windows services and authentication.",
+        "Participating in incident management calls for production data pipeline failures, often related to expired Kerberos tickets or domain trust issues affecting the Hadoop cluster's integration with Active Directory.",
+        "Applying security-aware administration principles to the Cloudera cluster, ensuring Windows-based edge nodes were hardened and all access was logged for audit trails required by financial regulators.",
+        "Coordinating with the Windows server team to perform an infrastructure upgrade on the jump hosts used for data ingestion, scheduling downtime and validating all connection strings post-upgrade.",
+        "Providing basic Microsoft Office 365 support for the data team, primarily focused on SharePoint permissions for documentation and OneDrive for Business sync issues with large dataset samples.",
+        "Performing root cause analysis on a recurring job failure, tracing it to a Group Policy setting that was resetting the PowerShell execution policy on the scheduling server, preventing script execution."
+      ],
+      "environment": [
+        "Active Directory",
+        "Windows Client",
+        "Azure",
+        "PowerShell",
+        "TCP/IP",
+        "Network Troubleshooting",
+        "PCI-DSS",
+        "Financial Regulations",
+        "Microsoft Office 365",
+        "Infrastructure Upgrades"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Employing PowerShell to automate the collation of diagnostic data from various medical imaging instruments, scripting data pulls from Windows-based instrument PCs into a central SQL Server database for analysis.",
+        "Supporting the IT team with basic Active Directory tasks for the research lab, such as resetting passwords and unlocking accounts for clinicians accessing the image analysis software on Windows Client machines.",
+        "Assisting in troubleshooting software issues with the proprietary image viewing application, working with developers to replicate bugs related to user profile corruption and Windows permission errors.",
+        "Learning and applying networking fundamentals to diagnose why an instrument PC could not reach the central database server, checking IP configurations and basic connectivity using ping and traceroute utilities.",
+        "Documenting data extraction procedures from lab instruments, creating step-by-step guides that included screenshots of the Windows application interfaces and troubleshooting common error messages.",
+        "Coordinating with the hardware vendor for a malfunctioning slide scanner, providing them with remote access via RDP to diagnose a driver issue and apply a patch to the Windows 7 system.",
+        "Participating in user support for the internal team, helping clinicians with Microsoft Office issues, primarily Excel, which they used for preliminary data tabulation before deeper analysis.",
+        "Applying security awareness by ensuring all patient image data extracted from instruments was stored on encrypted drives and access was restricted per HIPAA guidelines, verified through Windows file permissions."
+      ],
+      "environment": [
+        "PowerShell",
+        "Windows Client",
+        "Active Directory",
+        "SQL Server",
+        "RDP",
+        "Software Troubleshooting",
+        "TCP/IP",
+        "Microsoft Office",
+        "HIPAA",
+        "Healthcare"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

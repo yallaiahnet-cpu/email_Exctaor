@@ -1,0 +1,48 @@
+{
+    "questions": [
+      {
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "answer": "Yeah, so supervised learning is when you have labeled data—like, you know the answer you're trying to predict. For example, at State Farm, we'd use fraud labels (fraud or not fraud) to train a model. The model learns from those examples. Unsupervised learning is when you don't have labels—you're just trying to find patterns in the data. Like, if I'm clustering customers by behavior without knowing their segments upfront, that's unsupervised. I've used K-means for customer segmentation before. Honestly, supervised is way more common in production because you need labels to measure performance. Unsupervised is great for exploration, but harder to validate."
+      },
+      {
+        "question": "Can you explain the concept of overfitting and underfitting in machine learning models?",
+        "answer": "Yeah, so overfitting is when your model memorizes the training data instead of learning general patterns. It performs great on training data but terrible on new data. I've seen this happen when using super complex models like deep neural nets on small datasets. Underfitting is the opposite—the model is too simple and can't capture the patterns at all. Like using linear regression for a clearly non-linear problem. One trick I use to avoid overfitting is regularization—like L1 or L2—and always splitting data into train, validation, and test sets. Also, cross-validation helps catch overfitting early. Honestly, finding the right balance is more art than science, but monitoring validation performance is key."
+      },
+      {
+        "question": "What is cross-validation? Why is it important?",
+        "answer": "Yeah, so cross-validation is when you split your data into multiple folds—like 5 or 10—and train the model on some folds while testing on the others. You rotate through all the folds so every data point gets tested once. It's important because it gives you a more reliable estimate of how your model will perform on unseen data. I always use it during hyperparameter tuning to avoid picking settings that only work on one train-test split. One thing I learned—don't use cross-validation on time-series data unless you do it carefully, because shuffling breaks the temporal order. Honestly, cross-validation is a must-have for model evaluation. It's way better than a single train-test split."
+      },
+      {
+        "question": "What is the bias-variance tradeoff?",
+        "answer": "Yeah, so bias is when your model is too simple and consistently misses the target—like using a straight line to fit curved data. High bias means underfitting. Variance is when your model is too sensitive to the training data and changes a lot with small data changes—like a super complex model that overfits. The tradeoff is that reducing bias usually increases variance, and vice versa. The goal is to find the sweet spot where both are low enough. I've used this thinking when choosing model complexity—like, XGBoost with too many trees has high variance, but too few trees has high bias. Honestly, this is why we test on validation data—to see where we land on the tradeoff."
+      },
+      {
+        "question": "How would you validate a model you created to generate a predictive analysis?",
+        "answer": "Yeah, so validation is super important to make sure the model actually works. First, I'd split the data into train, validation, and test sets—never touch the test set until the very end. I'd use the validation set to tune hyperparameters and pick the best model. Then I'd evaluate on the test set using metrics like accuracy, precision, recall, or AUC depending on the problem. One thing I always do—check for data leakage, because if you accidentally use future info in training, your metrics will look amazing but the model will fail in production. I'd also do cross-validation to make sure performance is consistent. Honestly, I'd also test on recent production-like data before deploying, because real-world data is messy."
+      },
+      {
+        "question": "What is the role of the cost function in machine learning algorithms?",
+        "answer": "Yeah, so the cost function (or loss function) measures how wrong your model's predictions are. It's what you're trying to minimize during training. For example, in regression, we use mean squared error—it penalizes big errors more. In classification, we use cross-entropy loss. The optimizer—like gradient descent—adjusts the model's weights to reduce the cost function. One thing I learned—choosing the right cost function matters a lot. Like, if you have imbalanced classes, you might use weighted cross-entropy or focal loss instead of standard loss. Honestly, the cost function is the guide that tells the model how to improve. Without it, there's no way to learn."
+      },
+      {
+        "question": "What is the curse of dimensionality? How do you avoid this?",
+        "answer": "Yeah, so the curse of dimensionality is when you have too many features, and your data becomes super sparse in high-dimensional space. Models struggle because there's not enough data to cover all the feature combinations. I've seen this happen with datasets that have hundreds or thousands of features. To avoid it, I'd use dimensionality reduction—like PCA to compress features, or feature selection to keep only the important ones. I'd also use regularization like L1 (Lasso) to push unimportant feature weights to zero. One thing I learned—more features doesn't always help. Sometimes dropping irrelevant features actually improves performance. Honestly, keeping the feature set clean and focused is key."
+      },
+      {
+        "question": "What is 'Naive' about the naive bayes?",
+        "answer": "Yeah, so it's called 'naive' because it assumes all features are independent given the class label—which is almost never true in real life. Like, if you're predicting email spam, Naive Bayes assumes the words 'free' and 'money' are independent, but they often appear together. Despite this unrealistic assumption, Naive Bayes works surprisingly well in practice, especially for text classification. I've used it for quick baseline models because it's fast and simple. One thing I like—it handles high-dimensional data well and doesn't need much training data. Honestly, the 'naive' assumption is a weakness in theory, but in practice, it's often good enough."
+      },
+      {
+        "question": "What is semi-supervised learning? Give examples of when it's useful.",
+        "answer": "Yeah, so semi-supervised learning is when you have a small amount of labeled data and a large amount of unlabeled data. The model learns from both—using the labeled data to guide learning and the unlabeled data to improve generalization. It's super useful when labeling is expensive. Like, at State Farm, if I only had 1,000 labeled fraud cases but millions of unlabeled transactions, I could use semi-supervised learning to leverage the unlabeled data. Techniques include pseudo-labeling—where you label the unlabeled data with a trained model—or self-training. Honestly, it's a great middle ground when you can't afford to label everything but have tons of data."
+      },
+      {
+        "question": "What is self-supervised learning? How is it different from unsupervised learning?",
+        "answer": "Yeah, so self-supervised learning is when you create labels automatically from the data itself, instead of relying on human labels. Like, in NLP, you mask words in a sentence and train the model to predict them—that's how BERT works. It's different from unsupervised learning because unsupervised just finds patterns (like clustering), while self-supervised learns representations that can be used for downstream tasks. I've used self-supervised pretraining for embeddings—train on a big unlabeled dataset, then fine-tune on a small labeled one. One thing I like—it's way more scalable than supervised learning because you don't need human labelers. Honestly, self-supervised learning is huge in modern NLP and computer vision."
+      },
+      {
+        "question": "What is curriculum learning? When might it be beneficial?",
+        "answer": "Yeah, so curriculum learning is when you train a model by showing it easier examples first, then gradually increasing difficulty—kind of like how humans learn. Instead of throwing all the data at the model at once, you organize it by difficulty. It's beneficial when you have a complex task where the model struggles to learn from hard examples early on. Like, in image classification, you might start with clear, well-lit images, then add blurry or occluded ones later. I haven't used it a ton in production, but I've seen it help with deep learning tasks where the loss landscape is tricky. Honestly, it's more of an advanced technique—most of the time, random sampling works fine."
+      }
+    ]
+  }

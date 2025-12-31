@@ -1,0 +1,349 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineering Lead",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in AI/ML engineering and data pipeline development across insurance, healthcare, banking, and consulting domains with deep expertise in scalable machine learning solutions.",
+    "Using AWS SageMaker to address complex model deployment challenges by implementing automated MLOps pipelines that reduced deployment time from weeks to days while ensuring compliance with insurance regulatory requirements.",
+    "Leveraging Python and ML frameworks to solve business problems through custom machine learning solutions that transformed raw data into actionable insights for enterprise-level decision making across multiple industries.",
+    "Implementing end-to-end data pipelines with AWS services including S3, Lambda, and Redshift to handle large-scale data processing while maintaining data quality and lineage tracking for audit compliance.",
+    "Designing scalable ML infrastructure using Docker containerization to ensure model reproducibility and seamless deployment across development, staging, and production environments in cloud ecosystems.",
+    "Developing comprehensive MLOps processes for model monitoring and lifecycle management that proactively detected model drift and triggered retraining workflows to maintain prediction accuracy over time.",
+    "Building ETL pipelines with AWS Glue and Step Functions to automate data preprocessing workflows that handled terabyte-scale datasets while ensuring data quality validation at each processing stage.",
+    "Creating feature engineering frameworks using Pandas and Scikit-learn that transformed raw insurance claim data into meaningful features for risk prediction models with improved accuracy metrics.",
+    "Architecting real-time data processing systems with AWS Kinesis and Lambda functions that enabled streaming analytics for immediate business insights while maintaining low latency requirements.",
+    "Implementing model validation frameworks using MLflow that tracked experiment metrics and model versions across multiple iterations, ensuring reproducibility and facilitating model comparisons.",
+    "Designing data exploration tools with Python visualization libraries that enabled business stakeholders to understand data patterns and model behaviors through interactive dashboards and reports.",
+    "Building monitoring systems with CloudWatch and custom metrics to track model performance in production, alerting teams to potential issues before they impacted business operations.",
+    "Developing data lineage tracking solutions that mapped data flow from source systems through transformation pipelines to final model inputs, ensuring transparency and compliance with data governance policies.",
+    "Creating automated testing frameworks for ML models that validated data quality, feature consistency, and prediction accuracy before deployment to production environments.",
+    "Implementing root cause analysis procedures for production ML systems that quickly identified issues in data pipelines, model performance, or infrastructure problems affecting predictions.",
+    "Designing scalable data storage solutions with AWS S3 and Redshift that optimized query performance for large datasets while maintaining cost efficiency through proper partitioning strategies.",
+    "Building collaborative workflows with data scientists using Git version control and code review processes that ensured code quality and knowledge sharing across technical teams.",
+    "Developing documentation standards for ML projects that captured business requirements, technical implementations, and operational procedures to facilitate maintenance and future enhancements."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using AWS SageMaker to address the challenge of deploying ML models at scale by implementing automated MLOps pipelines that handled model versioning and canary deployments across multiple regions for insurance applications.",
+        "Leveraging Python and TensorFlow to solve complex risk prediction problems by developing custom neural network architectures that processed heterogeneous insurance data while complying with state regulatory requirements.",
+        "Implementing data pipelines with AWS Glue and Step Functions to automate the ETL processes for claims data, ensuring data quality validation and lineage tracking for audit compliance in the insurance domain.",
+        "Designing scalable ML infrastructure using Docker containers to package models and dependencies, enabling consistent deployment across environments while meeting insurance industry security standards.",
+        "Developing MLOps processes with MLflow for experiment tracking and model registry management, creating a centralized repository that facilitated collaboration between data scientists and engineers.",
+        "Building feature engineering frameworks with Pandas and Scikit-learn that transformed raw insurance policy data into meaningful features for fraud detection models with improved precision metrics.",
+        "Architecting real-time data processing systems using AWS Kinesis and Lambda functions that enabled streaming analytics for immediate risk assessment while maintaining sub-second latency requirements.",
+        "Creating model monitoring solutions with CloudWatch custom metrics to track prediction drift and data quality issues, implementing alerting mechanisms that notified teams of potential problems before business impact.",
+        "Implementing data exploration tools with Plotly and Seaborn that enabled business stakeholders to visualize data patterns and model behaviors through interactive dashboards for insurance analytics.",
+        "Designing automated testing frameworks for ML models that validated data schemas, feature distributions, and prediction consistency before deployment to production insurance systems.",
+        "Developing root cause analysis procedures for production ML systems that systematically investigated issues in data pipelines or model performance, reducing mean time to resolution significantly.",
+        "Building collaborative workflows with Git version control and code review processes that ensured code quality and knowledge sharing across distributed teams working on insurance ML projects.",
+        "Creating documentation standards for ML projects that captured business requirements, technical implementations, and compliance considerations specific to insurance regulations and data privacy.",
+        "Implementing data lineage tracking with AWS Glue Data Catalog that mapped data flow from source systems through transformation pipelines, ensuring transparency for regulatory compliance audits.",
+        "Designing scalable data storage solutions with AWS S3 and Redshift that optimized query performance for large insurance datasets while implementing cost controls through lifecycle policies.",
+        "Developing model deployment strategies with AWS SageMaker endpoints that enabled A/B testing of new models against existing versions, facilitating safe rollout of improved prediction systems."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Python",
+        "TensorFlow",
+        "AWS Glue",
+        "Docker",
+        "MLflow",
+        "Pandas",
+        "Scikit-learn",
+        "AWS Kinesis",
+        "AWS Lambda",
+        "CloudWatch",
+        "Plotly",
+        "Seaborn",
+        "Git",
+        "AWS S3",
+        "Redshift",
+        "Step Functions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using GCP Vertex AI to address healthcare prediction challenges by implementing ML pipelines that processed sensitive patient data while maintaining strict HIPAA compliance through proper data anonymization techniques.",
+        "Leveraging Python and Scikit-learn to develop predictive models for public health outcomes, creating ensemble methods that combined multiple algorithms for improved accuracy in disease outbreak prediction.",
+        "Implementing data pipelines with Google Cloud Dataflow and BigQuery that handled healthcare data processing at scale while ensuring data quality validation and proper access controls for sensitive information.",
+        "Designing ML infrastructure using Docker containers on Google Kubernetes Engine to deploy healthcare prediction models, ensuring consistent performance across different environments while meeting regulatory requirements.",
+        "Developing MLOps processes with Kubeflow for experiment tracking and model management, creating reproducible workflows that facilitated collaboration between healthcare data scientists and IT teams.",
+        "Building feature engineering frameworks with Pandas that transformed electronic health records into meaningful features for patient risk stratification models while preserving data privacy.",
+        "Architecting batch processing systems with Google Cloud Functions and Pub/Sub that enabled automated data ingestion from multiple healthcare sources while maintaining data integrity and audit trails.",
+        "Creating model monitoring solutions with Google Cloud Monitoring to track prediction accuracy and data drift in healthcare models, implementing alerts for when retraining was necessary.",
+        "Implementing data exploration tools with Matplotlib and Seaborn that enabled healthcare administrators to understand data patterns and model predictions through visual analytics dashboards.",
+        "Designing automated testing frameworks for healthcare ML models that validated data quality, feature consistency, and prediction reliability before deployment to production systems.",
+        "Developing documentation standards for healthcare ML projects that captured business requirements, technical implementations, and HIPAA compliance considerations for regulatory audits.",
+        "Building data lineage tracking with Google Data Catalog that mapped healthcare data flow from source systems through transformation pipelines, ensuring transparency for compliance reporting."
+      ],
+      "environment": [
+        "GCP Vertex AI",
+        "Python",
+        "Scikit-learn",
+        "Google Cloud Dataflow",
+        "BigQuery",
+        "Docker",
+        "Google Kubernetes Engine",
+        "Kubeflow",
+        "Pandas",
+        "Google Cloud Functions",
+        "Pub/Sub",
+        "Google Cloud Monitoring",
+        "Matplotlib",
+        "Seaborn",
+        "Google Data Catalog"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Azure Machine Learning to address financial fraud detection challenges by implementing ML models that analyzed transaction patterns while ensuring compliance with banking regulations and PCI standards.",
+        "Leveraging Python and XGBoost to develop credit risk assessment models that processed customer financial data, creating ensemble methods that improved prediction accuracy for loan approval decisions.",
+        "Implementing data pipelines with Azure Data Factory that handled financial data ingestion from multiple sources while ensuring data quality validation and proper encryption for sensitive information.",
+        "Designing ML solutions using Azure ML Studio that enabled model deployment for real-time fraud detection, creating REST APIs that integrated with existing banking systems and applications.",
+        "Developing feature engineering frameworks with Pandas that transformed transaction data into meaningful features for anomaly detection models while maintaining data security and privacy.",
+        "Building monitoring solutions with Azure Application Insights to track model performance in production banking systems, implementing alerts for when models needed retraining or adjustment.",
+        "Creating data exploration tools with Power BI that enabled business stakeholders to understand customer behavior patterns and model predictions through interactive financial dashboards.",
+        "Designing automated testing frameworks for financial ML models that validated data quality, feature consistency, and prediction reliability before deployment to production systems.",
+        "Developing documentation standards for banking ML projects that captured business requirements, technical implementations, and regulatory compliance considerations for audit purposes.",
+        "Implementing model interpretation tools with SHAP and LIME that explained prediction outcomes to business users, building trust in ML systems for critical financial decisions."
+      ],
+      "environment": [
+        "Azure Machine Learning",
+        "Python",
+        "XGBoost",
+        "Azure Data Factory",
+        "Azure ML Studio",
+        "Pandas",
+        "Azure Application Insights",
+        "Power BI",
+        "SHAP",
+        "LIME",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Azure Data Factory to address client data integration challenges by implementing ETL pipelines that consolidated data from multiple sources while ensuring data quality and consistency for consulting projects.",
+        "Leveraging Python and Pandas to develop data processing scripts that transformed client data into analysis-ready formats, creating reusable functions that accelerated project delivery timelines.",
+        "Implementing data storage solutions with Azure SQL Database that optimized query performance for client datasets while implementing proper security controls and access management.",
+        "Designing data validation frameworks with custom Python scripts that automatically checked data quality and integrity, reducing manual validation efforts and improving data reliability.",
+        "Building data integration pipelines that combined client data from various sources, creating unified datasets that enabled comprehensive analysis and reporting for consulting engagements.",
+        "Developing documentation standards for data engineering projects that captured source system details, transformation logic, and data quality rules for client knowledge transfer.",
+        "Creating data profiling tools with SQL and Python that analyzed client data characteristics, identifying data quality issues and patterns that informed subsequent analysis approaches.",
+        "Implementing basic monitoring solutions with Azure Monitor that tracked pipeline performance and data quality metrics, providing visibility into data processing operations for project teams."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Python",
+        "Pandas",
+        "Azure SQL Database",
+        "SQL",
+        "Azure Monitor"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

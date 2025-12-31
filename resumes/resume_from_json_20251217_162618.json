@@ -1,0 +1,278 @@
+{
+  "name": "Preethi Reddy",
+  "title": "Senior Frontend Developer - Web Components & AI Integration Specialist",
+  "contact": {
+    "email": "rpreethi1104@gmail.com",
+    "phone": "+1(314 ) 312-3188",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Architected Web Components migration strategy using Stencil.js for healthcare applications, establishing Custom Elements API standards and Shadow DOM encapsulation patterns that enabled framework-agnostic component reusability across ReactJS and Vue.js implementations",
+    "Built Model Context Protocol servers using TypeScript and Node.js to connect AI agents with frontend applications, creating standardized communication interfaces that allowed LLM-powered tools to interact directly with Web Components through defined API contracts",
+    "Delivered responsive component libraries using HTML, CSS, and JavaScript with ES Modules packaging, implementing browser compatibility strategies and polyfills that ensured consistent rendering across legacy and modern browsers while maintaining WCAG accessibility standards",
+    "Configured build tooling pipelines with Vite and Webpack to bundle Stencil.js components, establishing versioning strategies and backward compatibility protocols that prevented breaking changes during incremental migration from monolithic frontend architectures to modular Web Components",
+    "Developed MCP client integrations within healthcare UI using TypeScript, connecting frontend Web Components to AI agent services through standardized protocol implementations that enabled real-time patient data analysis while maintaining HIPAA compliance requirements",
+    "Transformed legacy ReactJS applications into Web Components using Custom Elements API and Shadow DOM, documenting migration risks, effort estimations, and technical dependencies in comprehensive guides that accelerated team adoption and reduced implementation errors",
+    "Implemented design system foundations using Stencil.js component library architecture, creating reusable UI patterns with documented API contracts, Storybook integration, and MDX-based technical documentation that standardized frontend development across government portal applications",
+    "Collaborated with AI platform teams to expand Web Components functionality for agent interoperability, designing component interfaces that exposed healthcare data through Model Context Protocol servers, enabling AI-powered clinical decision support tools integration",
+    "Optimized frontend performance in banking applications using JavaScript and TypeScript refactoring, applying code-splitting techniques with Rollup bundler and lazy-loading strategies that reduced initial page load times and improved user experience metrics",
+    "Integrated Web Test Runner and Jest testing frameworks for component library validation, establishing automated quality assurance workflows that verified Custom Elements behavior, Shadow DOM isolation, and cross-framework compatibility before production deployments",
+    "Modernized government service portals using responsive design principles with HTML and CSS Grid, implementing mobile-first component architectures that adapted seamlessly across device viewports while preserving accessibility features for assistive technology users",
+    "Assembled MCP server infrastructure using Node.js runtime environments, configuring protocol handlers that translated frontend component events into AI agent commands, creating bidirectional communication channels between Web Components and LLM-based analysis services",
+    "Refactored consulting platform interfaces using Vue.js and AngularJS interoperability patterns, migrating monolithic views into discrete Web Components that maintained backward compatibility with existing framework dependencies while enabling incremental modernization",
+    "Coordinated cross-team migration initiatives by documenting Web Component adoption strategies, risk assessments, and breaking change protocols, facilitating knowledge transfer sessions that aligned frontend engineers, architects, and platform teams on standardized component development practices"
+  ],
+  "technical_skills": {
+    "Web Components Technologies": [
+      "Web Components",
+      "Stencil.js",
+      "Custom Elements API",
+      "Shadow DOM",
+      "HTML Templates",
+      "ES Modules"
+    ],
+    "AI Integration & Protocols": [
+      "Model Context Protocol (MCP)",
+      "MCP Server Development",
+      "MCP Client Integration",
+      "AI Agents",
+      "LLM Architecture",
+      "Agent Interoperability"
+    ],
+    "Programming Languages": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "ES6+"
+    ],
+    "Frontend Frameworks": [
+      "ReactJS",
+      "Vue.js",
+      "AngularJS",
+      "Stencil.js",
+      "Framework Migration"
+    ],
+    "Build Tools & Module Bundlers": [
+      "Vite",
+      "Webpack",
+      "Rollup",
+      "ES Modules",
+      "Babel",
+      "npm"
+    ],
+    "Component Architecture": [
+      "Component Library Design",
+      "Design Systems",
+      "API Contract Design",
+      "Versioning Strategy",
+      "Backward Compatibility"
+    ],
+    "Testing & Quality Assurance": [
+      "Jest",
+      "Web Test Runner",
+      "Playwright",
+      "Component Testing",
+      "Integration Testing",
+      "Cross-browser Testing"
+    ],
+    "Documentation & Collaboration": [
+      "Storybook",
+      "MDX",
+      "Technical Documentation",
+      "Migration Guides",
+      "API Documentation"
+    ],
+    "Responsive & Accessible Design": [
+      "Responsive Design",
+      "Mobile-First Development",
+      "CSS Grid",
+      "Flexbox",
+      "WCAG",
+      "ARIA"
+    ],
+    "Browser Technologies": [
+      "Browser Compatibility",
+      "Polyfills",
+      "Service Workers",
+      "Web APIs",
+      "DOM Manipulation"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Google Cloud",
+      "Cloud Deployment",
+      "CDN Integration"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Code Review",
+      "Branch Strategy"
+    ],
+    "Healthcare Compliance": [
+      "HIPAA",
+      "GDPR",
+      "FDA Regulations",
+      "Data Security",
+      "Patient Privacy"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Frontend Developer - Web Components",
+      "client": "Molina Healthcare",
+      "duration": "2023-Jun - Present",
+      "location": "",
+      "responsibilities": [
+        "Migrated healthcare patient portal from ReactJS to Web Components using Stencil.js, applying Custom Elements API to create framework-agnostic UI modules that integrate with existing React views while maintaining HIPAA compliance for protected health information display",
+        "Built Model Context Protocol server using TypeScript and Node.js to connect clinical AI agents with frontend components, implementing standardized API contracts that allow LLM-powered diagnostic tools to query patient records through secure MCP communication channels",
+        "Created MCP client integration within Web Components using TypeScript, establishing protocol handlers that translate user interactions into AI agent requests, enabling real-time clinical decision support features while preserving Shadow DOM style isolation for component encapsulation",
+        "Developed reusable component library with Stencil.js for healthcare forms and data tables, implementing Custom Elements that render consistently across multiple application contexts, reducing code duplication and standardizing UI patterns for medical record entry workflows",
+        "Configured Vite build pipeline for Web Components bundling, establishing ES Modules packaging strategy with versioning controls that prevent breaking changes during incremental migration, allowing teams to adopt components at their own pace without disrupting production systems",
+        "Implemented responsive design patterns using CSS Grid and Flexbox within Shadow DOM, creating mobile-first healthcare interfaces that adapt seamlessly to tablet and phone viewports while maintaining accessibility features for screen reader compatibility per WCAG standards",
+        "Assembled comprehensive migration guide documenting Web Components adoption strategy, technical dependencies, effort estimations, and risk assessments, providing frontend teams with step-by-step instructions for converting legacy React components into Stencil-based Custom Elements",
+        "Integrated Jest and Web Test Runner for component validation, establishing automated testing workflows that verify Custom Elements behavior, Shadow DOM isolation, and cross-browser compatibility before deploying to production healthcare environments",
+        "Designed API contract interfaces for Web Components that expose healthcare data to Model Context Protocol servers, creating standardized component properties and events that AI agents consume for patient data analysis while maintaining regulatory compliance boundaries",
+        "Collaborated with AI platform teams to expand component interoperability, connecting Web Components to LLM services through MCP protocol implementations that enable AI-powered medication interaction checking and treatment recommendation features within patient care workflows",
+        "Optimized component rendering performance using lazy-loading strategies and code-splitting techniques with Rollup, reducing initial page load times for healthcare dashboards and improving user experience metrics for clinical staff accessing patient information systems",
+        "Documented component library APIs using Storybook and MDX, creating interactive examples and usage guidelines that help frontend engineers understand Web Component properties, methods, and events, accelerating team adoption and reducing implementation errors during migration",
+        "Applied browser compatibility strategies including polyfills for older environments, ensuring Web Components render correctly across hospital workstation browsers while maintaining Shadow DOM encapsulation and Custom Elements functionality in legacy Internet Explorer contexts",
+        "Facilitated code review sessions and debugging meetings with frontend teams, troubleshooting Shadow DOM styling issues, Custom Elements lifecycle problems, and MCP server connection errors, building team expertise in Web Components architecture and AI agent integration patterns"
+      ],
+      "environment": [
+        "Web Components",
+        "Stencil.js",
+        "Model Context Protocol",
+        "TypeScript",
+        "Node.js",
+        "ReactJS",
+        "Custom Elements API",
+        "Shadow DOM",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vite",
+        "Rollup",
+        "ES Modules",
+        "Jest",
+        "Web Test Runner",
+        "Storybook",
+        "MDX",
+        "CSS Grid",
+        "Flexbox",
+        "WCAG",
+        "ARIA",
+        "AWS",
+        "HIPAA",
+        "GDPR",
+        "FDA",
+        "Git",
+        "npm"
+      ]
+    },
+    {
+      "role": "UI Developer - Component Architecture",
+      "client": "State of Washington",
+      "duration": "2021-Sep - 2023-May",
+      "location": "",
+      "responsibilities": [
+        "Constructed government service portal using Vue.js component architecture, applying responsive design principles with HTML and CSS to create accessible citizen-facing interfaces that adapted across desktop, tablet, and mobile viewports while meeting state accessibility requirements",
+        "Refactored legacy AngularJS views into modular Vue.js components, establishing component library patterns that standardized UI elements across government applications, reducing maintenance overhead and improving code reusability for public service delivery systems",
+        "Established Webpack build configuration for component bundling, implementing ES Modules packaging strategy that enabled tree-shaking optimizations and reduced bundle sizes for government portal applications, improving page load performance for citizens accessing services online",
+        "Developed custom JavaScript form validation components for government permit applications, integrating real-time error checking and accessibility features that guided users through complex multi-step processes while maintaining WCAG compliance for assistive technology users",
+        "Integrated Playwright testing framework for end-to-end component validation, creating automated test suites that verified form submissions, data persistence, and cross-browser behavior across government portal features before production releases",
+        "Documented component APIs and usage patterns using MDX-based technical guides, providing government IT teams with implementation examples and integration instructions that accelerated adoption of standardized UI components across state agency applications",
+        "Configured Google Cloud deployment pipelines for frontend applications, establishing continuous integration workflows that automated component library builds, testing, and deployment to government cloud infrastructure while maintaining security compliance standards",
+        "Transformed monolithic government dashboards into modular TypeScript components, applying Shadow DOM encapsulation techniques that isolated styling and prevented CSS conflicts between independently developed agency modules within shared portal frameworks",
+        "Coordinated with state agency stakeholders during requirements gathering meetings, translating business needs into technical component specifications and creating prototypes that demonstrated proposed UI functionality for citizen service features",
+        "Troubleshot browser compatibility issues in government employee workstations, applying polyfills and CSS fallbacks that ensured consistent component rendering across diverse internal IT environments with varying browser versions and operating systems"
+      ],
+      "environment": [
+        "Vue.js",
+        "AngularJS",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Shadow DOM",
+        "Webpack",
+        "ES Modules",
+        "Playwright",
+        "MDX",
+        "Google Cloud",
+        "WCAG",
+        "ARIA",
+        "Responsive Design",
+        "CSS Grid",
+        "Flexbox",
+        "npm",
+        "Git",
+        "Storybook"
+      ]
+    },
+    {
+      "role": "Frontend Engineer",
+      "client": "Comerica Bank",
+      "duration": "2019-Nov - 2021-Aug",
+      "location": "",
+      "responsibilities": [
+        "Developed online banking interface components using ReactJS and TypeScript, implementing secure authentication flows and transaction display features that complied with financial industry regulations while providing intuitive user experiences for account management",
+        "Enhanced mobile banking application using responsive HTML and CSS techniques, creating touch-optimized UI elements that adapted seamlessly to various smartphone screen sizes and improved customer satisfaction scores for mobile banking services",
+        "Integrated RESTful APIs with frontend ReactJS components for real-time account balance updates, implementing error handling and retry logic that ensured reliable data synchronization between banking backend systems and customer-facing interfaces",
+        "Automated frontend testing workflows using Jest framework, creating unit tests for banking components that verified transaction calculations, form validations, and data transformations, reducing production defects and improving code quality metrics",
+        "Collaborated with UX designers during sprint planning meetings to translate wireframes into functional banking components, providing technical feedback on feasibility and suggesting alternative approaches that balanced design vision with implementation complexity",
+        "Debugged cross-browser rendering issues in banking dashboards, applying CSS fixes and JavaScript polyfills that ensured consistent display across customer environments including older browsers used by enterprise banking clients",
+        "Updated legacy jQuery components to modern ReactJS implementations, refactoring monolithic scripts into modular components with improved maintainability and performance characteristics while preserving existing banking functionality",
+        "Participated in code review sessions with banking development team, providing feedback on component structure, TypeScript type safety, and React best practices that elevated team code quality and established consistent development patterns across projects"
+      ],
+      "environment": [
+        "ReactJS",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Jest",
+        "Responsive Design",
+        "RESTful APIs",
+        "jQuery",
+        "Webpack",
+        "npm",
+        "Git",
+        "Mobile-First Development",
+        "Cross-browser Testing"
+      ]
+    },
+    {
+      "role": "Junior JavaScript Developer",
+      "client": "Tech Mahindra",
+      "duration": "2017-Apr - 2019-May",
+      "location": "",
+      "responsibilities": [
+        "Created client portal interfaces using JavaScript and HTML, building interactive dashboards that displayed consulting project metrics and client engagement data with responsive layouts that adapted to different screen resolutions",
+        "Assisted senior developers in ReactJS component development for consulting management applications, learning component lifecycle patterns and state management techniques while contributing bug fixes and minor feature enhancements to production code",
+        "Fixed CSS styling inconsistencies across consulting portal pages, applying Flexbox layouts and media queries that improved visual consistency and mobile device compatibility for client-facing applications",
+        "Participated in daily standup meetings and sprint retrospectives, learning agile development practices and collaborating with consulting team members to deliver frontend features within project timelines",
+        "Tested JavaScript functionality across multiple browsers, identifying and documenting compatibility issues that senior developers addressed, gaining experience with cross-browser debugging techniques and frontend quality assurance processes",
+        "Updated project documentation for frontend components, creating usage examples and integration notes that helped consulting team members understand component APIs and implementation patterns for reuse in client projects"
+      ],
+      "environment": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "ReactJS",
+        "Flexbox",
+        "Responsive Design",
+        "Git",
+        "npm",
+        "Chrome DevTools"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

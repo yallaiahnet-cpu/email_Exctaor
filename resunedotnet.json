@@ -1,0 +1,207 @@
+{
+    "personal_info": {
+      "name": "Onteru Yallaiah",
+      "title": ".NET Developer - Agile/Scrum Specialist",
+      "email": "onteru.net@gmail.com",
+      "phone": "737-231-0791",
+      "location": "Dallas, TX",
+      "linkedin": "linkedin.com/in/onteru-yallaiah"
+    },
+    "professional_summary": [
+      "I am having 10 years of experience in .NET development with focus on government healthcare systems, banking finance applications, and telecommunications platforms using Agile methodologies and Scrum frameworks.",
+      "Built C#.NET enterprise applications for State Government healthcare compliance where Angular front-ends connected to SQL Server databases through ASP.NET MVC APIs, reducing patient record processing time and improving data accuracy.",
+      "Converted complex business specifications into VB.NET and ASP.NET solutions for banking finance systems where T-SQL stored procedures handled transaction validations, ensuring PCI-DSS compliance while maintaining system performance under high transaction volumes.",
+      "Developed AngularJS modules with TypeScript for telecommunications billing platforms where JavaScript AJAX calls retrieved customer data from Microsoft Azure SQL databases, enabling real-time service updates and improving customer satisfaction scores.",
+      "Created MVC architecture applications using Bootstrap and CSS3 for healthcare workforce portals where jQuery components displayed clinical scheduling data, helping medical staff coordinate patient care activities across multiple facilities efficiently.",
+      "Analyzed user requirements in Agile sprint planning sessions where business analysts explained healthcare regulations, then produced technical design documents with data flow diagrams and database schemas for development teams to implement solutions.",
+      "Prepared detailed system documentation and technical reports using MS Office Suite where graphs and charts visualized application performance metrics, helping stakeholders understand system health and make informed decisions about infrastructure investments.",
+      "Troubleshot production issues in government applications where debugging Visual Studio code revealed memory leaks in data processing modules, implemented fixes that stabilized systems and restored normal operations without extended downtime periods.",
+      "Participated in daily Scrum standups and sprint retrospectives where team members discussed blockers and progress, contributed ideas for process improvements that shortened development cycles and increased team productivity throughout project lifecycles.",
+      "Collaborated with system users during requirements gathering sessions where non-technical stakeholders described workflow challenges, translated their needs into technical specifications that development teams understood and implemented successfully within timeline constraints.",
+      "Maintained Git repositories in Azure DevOps where code reviews ensured quality standards, resolved merge conflicts when multiple developers worked on shared modules, kept project documentation current for team reference and knowledge transfer purposes.",
+      "Designed database schemas with normalized tables where foreign key relationships maintained data integrity, wrote T-SQL queries that joined multiple tables efficiently, optimized indexes to improve query performance for reports retrieving large datasets.",
+      "Implemented HTML5 responsive layouts where CSS3 media queries adapted interfaces for different screen sizes, tested applications across browsers to ensure consistent user experiences, fixed rendering issues that appeared in specific browser versions.",
+      "Coordinated with QA teams during testing phases where bug reports identified issues in form validations and error handling, debugged JavaScript code to fix client-side problems, resubmitted builds after verification that defects were properly resolved.",
+      "Structured application layers following object-oriented programming principles where inheritance and polymorphism reduced code duplication, encapsulated business logic in service classes that multiple controllers could reuse, improving maintainability and reducing technical debt.",
+      "Communicated technical concepts to business stakeholders using plain language where complex database relationships were explained through simple analogies, ensured everyone understood system capabilities and limitations before making commitment decisions about feature scope.",
+      "Handled customer service requests from end users experiencing system difficulties where calm rational troubleshooting identified root causes, provided clear step-by-step instructions to resolve issues, built trust through consistent quality work and reliable support responses.",
+      "Integrated XML data exchanges between external systems where AJAX calls sent requests to REST APIs, parsed responses to update application state, handled error conditions gracefully to prevent data corruption and maintain system stability during network failures."
+    ],
+    "technical_skills": {
+      "programming_languages": ["C#.NET", "VB.NET", "JavaScript", "TypeScript", "T-SQL"],
+      "frameworks": ["ASP.NET", "ASP.NET MVC", "Angular", "AngularJS", "jQuery", "Bootstrap"],
+      "databases": ["SQL Server", "Transact-SQL", "Database Design", "Stored Procedures"],
+      "cloud_technologies": ["Microsoft Azure", "Azure SQL Database", "Azure DevOps", "Azure App Services"],
+      "ui_technologies": ["HTML5", "CSS3", "Bootstrap", "Responsive Design", "AJAX"],
+      "tools": ["Microsoft Visual Studio", "MS Office Suite", "Azure DevOps", "Git"],
+      "version_control": ["Git", "Azure DevOps", "Source Control Management"],
+      "testing_tools": ["Unit Testing", "Integration Testing", "Debugging Tools"],
+      "methodologies": ["Agile", "Scrum", "Sprint Planning", "Daily Standups", "Retrospectives"],
+      "other_skills": ["Object-Oriented Programming", "Data Modeling", "Technical Documentation", "XML", "REST APIs", "Project Management Methodology"]
+    },
+    "experience": [
+      {
+        "company": "State of TX",
+        "location": "Dallas, TX",
+        "role": "Lead .NET Developer",
+        "start_date": "Dec 2023",
+        "end_date": "Present",
+        "project": [
+          {
+            "name": "MedConnect Patient Records System",
+            "project_summary": "MedConnect Patient Records System serves as the central healthcare data repository for State Government agencies managing patient information across multiple facilities. The system consolidates medical records, prescription histories, and clinical documentation while ensuring HIPAA compliance and regulatory adherence. Built using ASP.NET MVC and Angular front-ends connected to SQL Server databases hosted on AWS cloud infrastructure, the application handles sensitive patient data with encryption and audit trails. The platform enables healthcare providers to access complete patient histories during treatment decisions, supports care coordination between facilities, and generates compliance reports for state auditors reviewing healthcare program effectiveness.",
+            "responsibilities": [
+              "Analyze business requirements from healthcare administrators in Agile sprint planning meetings where C#.NET application features align with HIPAA regulations, produce technical specifications with data flow diagrams showing patient information movement through system components.",
+              "Convert healthcare compliance specifications into ASP.NET MVC controllers where Angular components display patient records retrieved from SQL Server databases on AWS, implement role-based access controls that restrict sensitive medical data viewing to authorized personnel only.",
+              "Develop front-end modules using Angular and TypeScript where Bootstrap grids organize patient information cards, write JavaScript event handlers that respond to user interactions, style interfaces with CSS3 transitions that provide visual feedback during data loading operations.",
+              "Build T-SQL stored procedures that validate patient demographic updates where foreign key constraints maintain referential integrity across tables, optimize query execution plans to retrieve medical histories faster, add indexes on frequently searched columns reducing report generation time.",
+              "Prepare technical documentation in MS Office Word where system architecture diagrams illustrate component interactions, create flowcharts showing data validation logic, write deployment instructions that infrastructure teams follow when promoting code releases to production environments safely.",
+              "Collaborate with business analysts during requirements workshops where non-technical stakeholders describe workflow challenges, translate healthcare terminology into database field specifications, ensure development team understands compliance rules before coding features that handle protected health information.",
+              "Participate in daily Scrum standups where team members discuss progress on user stories, share blockers encountered during development, contribute ideas for resolving integration issues between Angular front-end and ASP.NET Web API endpoints serving patient data securely.",
+              "Troubleshoot production incidents where debugging Visual Studio code reveals null reference exceptions in data access layers, trace error logs to identify root causes, apply fixes that prevent application crashes when handling unexpected patient record formats from legacy system imports.",
+              "Maintain Git repositories in Azure DevOps where code reviews verify adherence to coding standards, resolve merge conflicts when multiple developers modify shared service classes, update pull request documentation explaining changes made to database schema and API contracts.",
+              "Construct responsive HTML5 layouts where CSS3 media queries adapt patient search forms for tablet devices used by nurses, test cross-browser compatibility to ensure consistent rendering, fix JavaScript issues that appeared in specific browser versions during quality assurance testing cycles.",
+              "Write unit tests for C#.NET business logic classes where mock objects simulate database interactions, validate edge cases in patient eligibility calculations, ensure code coverage meets project quality gates before merging feature branches into main development line for integration testing.",
+              "Handle customer service requests from clinic staff experiencing login difficulties where calm troubleshooting identifies authentication token expiration issues, provide step-by-step instructions for password resets, document recurring problems in knowledge base articles for future reference by support team members.",
+              "Integrate XML data feeds from external pharmacy systems where AJAX calls retrieve prescription histories, parse responses to populate medication lists in patient profiles, implement error handling that prevents data corruption when external services return malformed responses during network timeouts.",
+              "Communicate technical concepts to healthcare administrators using simple analogies where database normalization principles are explained through file cabinet comparisons, present system capabilities in stakeholder meetings without overwhelming non-technical audiences with unnecessary implementation details that might cause confusion.",
+              "Structure application architecture following object-oriented programming principles where inheritance hierarchies reduce code duplication across patient and provider entity classes, encapsulate business rules in service layers that controllers consume, improve maintainability for future enhancement requests from state agencies.",
+              "Coordinate with QA engineers during sprint testing phases where bug reports identify form validation failures, debug TypeScript code in Angular components to fix client-side issues, verify defect resolutions before sprint demonstrations to stakeholders ensuring quality standards are met consistently throughout release cycles."
+            ],
+            "environment": [
+              "C#.NET", "VB.NET", "ASP.NET", "ASP.NET MVC", "Angular", "TypeScript", "JavaScript", "jQuery", "HTML5", "CSS3", "Bootstrap", "T-SQL", "SQL Server", "AWS", "Git", "Azure DevOps", "Visual Studio", "Agile", "Scrum", "HIPAA", "XML", "AJAX"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Maxim Healthcare",
+        "location": "Seattle, WA",
+        "role": "Senior React / .NET Full Stack Developer",
+        "start_date": "Jul 2021",
+        "end_date": "Nov 2023",
+        "project": [
+          {
+            "name": "CareBridge Clinical Workforce Portal",
+            "project_summary": "CareBridge Clinical Workforce Portal managed healthcare staffing operations across hospital networks where nurses, therapists, and clinical specialists were scheduled for patient care assignments. The ASP.NET MVC application with Angular front-end connected to SQL Server databases on AWS cloud infrastructure, handling credential verifications, shift scheduling, and timesheet approvals while maintaining HIPAA compliance for staff accessing patient areas. The system automated manual scheduling processes that previously required phone calls and spreadsheets, reduced administrative overhead for workforce coordinators, and ensured qualified staff with proper certifications were assigned to appropriate clinical roles. Real-time availability tracking and automated shift reminders improved schedule adherence and reduced last-minute staffing gaps.",
+            "responsibilities": [
+              "Examined healthcare workforce requirements from staffing coordinators where C#.NET APIs needed to match clinician credentials with facility needs, generated technical design documents outlining database tables for shift assignments, certifications, and availability tracking with relationships mapped clearly for development implementation.",
+              "Transformed business logic into ASP.NET MVC services where AngularJS directives rendered scheduling calendars, connected front-end components to T-SQL stored procedures retrieving staff availability data, ensured HIPAA compliance rules restricted unauthorized access to employee personal information stored in SQL Server databases.",
+              "Composed Angular modules with JavaScript controllers where Bootstrap modal dialogs collected shift assignment details, implemented jQuery date pickers for scheduling interfaces, applied CSS3 styling to color-code different shift types making visual differentiation easier for workforce coordinators managing multiple facilities simultaneously.",
+              "Assembled T-SQL queries joining staff credentials tables with facility requirements where complex business rules validated certification matches, created indexed views that improved reporting performance for monthly staffing summaries, debugged slow-running queries by analyzing execution plans and adding appropriate indexes on filter columns.",
+              "Drafted system operation manuals using MS Office tools where screenshots illustrated navigation workflows, produced data flow diagrams showing credential verification processes, documented API endpoints with request and response examples that integration teams referenced when connecting external payroll systems to workforce portal.",
+              "Worked alongside UX designers during wireframe reviews where healthcare administrators provided feedback on scheduling screen layouts, adjusted Angular component structures based on usability testing results, ensured non-technical users could navigate shift assignment workflows without extensive training reducing onboarding time for new coordinators.",
+              "Attended sprint retrospectives where team discussed what went well and areas for improvement, shared lessons learned from production deployment issues, suggested process changes that shortened code review turnaround time improving team velocity in subsequent sprints when delivering new scheduling features.",
+              "Diagnosed JavaScript errors in production where browser console logs revealed undefined variable references in AngularJS controllers, traced issues to API responses missing expected data fields, patched defensive coding checks that prevented application crashes when external services returned incomplete responses during peak usage hours.",
+              "Managed source code in Git repositories where branching strategies isolated feature development from stable release code, performed code reviews checking for security vulnerabilities in data access layers, documented database schema changes in migration scripts that deployment teams executed during release windows to production environments.",
+              "Fashioned responsive web pages with HTML5 semantic elements where CSS3 flexbox layouts adapted to different screen resolutions, validated cross-browser functionality across Chrome and Edge browsers, corrected rendering inconsistencies in Internet Explorer that affected calendar widget displays on older workstations still used by some facilities.",
+              "Executed unit testing for business logic components where NUnit test fixtures validated shift overlap detection algorithms, simulated edge cases like overnight shifts spanning multiple days, maintained test coverage above project thresholds ensuring code quality standards were met before merging feature branches to main development line.",
+              "Responded to support tickets from facility managers reporting scheduling conflicts where methodical troubleshooting isolated data integrity issues in shift assignment tables, walked users through corrective steps to resolve double-booking scenarios, documented findings in runbooks for help desk teams handling similar incidents in future.",
+              "Connected healthcare credential verification APIs where XML payloads transmitted certification data to external validation services, parsed responses to update staff qualification statuses in databases, incorporated retry logic that handled temporary network failures gracefully preventing credential verification processes from stalling during system integrations.",
+              "Presented technical architecture decisions to project stakeholders using straightforward language where microservices concepts were explained without jargon, discussed trade-offs between different implementation approaches, gathered feedback that influenced final design choices balancing complexity against maintainability for long-term system sustainability beyond initial delivery.",
+              "Organized code into reusable class libraries following object-oriented design patterns where factory classes instantiated appropriate service implementations based on facility type, reduced duplicate logic across multiple controller actions, simplified future maintenance when business rules changed requiring updates in centralized locations rather than scattered throughout application."
+            ],
+            "environment": [
+              "C#.NET", "ASP.NET", "ASP.NET MVC", "AngularJS", "JavaScript", "jQuery", "HTML5", "CSS3", "Bootstrap", "T-SQL", "SQL Server", "AWS", "Git", "Azure DevOps", "Visual Studio", "Agile", "Scrum", "HIPAA", "XML"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Wells Fargo",
+        "location": "San Francisco, CA",
+        "role": "Senior .NET Full Stack Developer",
+        "start_date": "Feb 2019",
+        "end_date": "Jun 2021",
+        "project": [
+          {
+            "name": "SecureLoan Mortgage Processing System",
+            "project_summary": "SecureLoan Mortgage Processing System automated residential loan application workflows from initial customer submission through final approval and funding stages for banking finance operations. The ASP.NET MVC application built with C#.NET back-end services and Angular front-end interfaces connected to SQL Server databases hosted on Microsoft Azure, processing sensitive financial documents while maintaining PCI-DSS compliance and banking regulatory requirements. The system replaced manual paper-based processes where loan officers tracked applications in spreadsheets, introduced automated credit checks and income verification integrations, reduced processing time from weeks to days, and provided real-time status visibility to customers and bank staff. Document management capabilities with secure storage and audit trails ensured regulatory compliance during examinations.",
+            "responsibilities": [
+              "Reviewed mortgage processing requirements from loan officers where VB.NET legacy components needed modernization to C#.NET services, outlined technical approaches for migrating business logic to ASP.NET MVC architecture while preserving existing data structures, documented API specifications that front-end teams consumed when building Angular customer-facing portals.",
+              "Translated underwriting rules into ASP.NET Web API controllers where Angular services called endpoints to retrieve loan application data from SQL Server, implemented PCI-DSS security controls restricting access to customer financial information, encrypted sensitive fields in database tables protecting data at rest on Microsoft Azure infrastructure.",
+              "Formulated Angular components using TypeScript where reactive forms validated customer income entries against business rules, incorporated Bootstrap grid layouts organizing multi-step application workflows, styled interfaces with CSS3 gradients and shadows creating professional appearance that matched banking brand guidelines for customer-facing applications.",
+              "Produced T-SQL stored procedures calculating debt-to-income ratios where complex formulas evaluated loan eligibility, optimized database queries by adding filtered indexes on application status columns, refactored nested subqueries improving execution performance for underwriter dashboard reports retrieving pending application counts across loan types and regional branches.",
+              "Generated technical specifications using MS Office Excel where data mapping tables showed legacy system field conversions, created Visio diagrams illustrating loan processing workflows with decision points, wrote deployment guides documenting configuration settings for Azure App Services hosting mortgage application components in production banking environments.",
+              "Partnered with compliance officers during security reviews where PCI-DSS requirements dictated encryption standards for cardholder data, adjusted database design to separate sensitive fields into isolated tables with restricted access, ensured technical implementations met audit criteria before production deployments that external examiners would scrutinize during annual reviews.",
+              "Joined sprint planning sessions where product owners prioritized mortgage features based on regulatory deadlines, estimated story point complexity for underwriting calculation changes, committed to deliverables that development team could realistically complete within two-week sprint timeboxes maintaining sustainable pace without incurring technical debt from rushed implementations.",
+              "Investigated application slowdowns where SQL Server profiler traces revealed missing indexes on frequently queried tables, analyzed execution plans identifying table scan operations, added covering indexes that reduced query duration from minutes to seconds improving user experience when loan officers searched historical application records during customer calls.",
+              "Supervised Git workflows in Azure DevOps where feature branches merged to development after peer review approvals, enforced commit message standards describing changes clearly, resolved conflicts when parallel development efforts modified overlapping code sections, maintained clean repository history supporting rollback scenarios if production issues required reverting recent deployments.",
+              "Established HTML5 form structures where input validation attributes provided client-side checks before server submission, implemented CSS3 animations highlighting required fields when users attempted form submission with incomplete data, verified consistent rendering across browsers that bank customers used preventing accessibility issues for users on different platforms.",
+              "Validated business logic in unit tests where MSTest framework assertions checked loan calculation accuracy, created test data representing edge cases like high-value mortgages exceeding standard limits, maintained automated test suites that ran during continuous integration builds catching regressions before code reached QA testing environments reducing defect escape rates.",
+              "Assisted branch staff reporting authentication problems where troubleshooting revealed expired security certificates on Azure services, coordinated with infrastructure teams to renew certificates, provided temporary workarounds allowing critical loan processing operations to continue while permanent fixes were deployed preventing customer impact and processing delays during high-volume periods."
+            ],
+            "environment": [
+              "C#.NET", "VB.NET", "ASP.NET", "ASP.NET MVC", "Angular", "TypeScript", "JavaScript", "jQuery", "HTML5", "CSS3", "Bootstrap", "T-SQL", "SQL Server", "Microsoft Azure", "Git", "Azure DevOps", "Visual Studio", "Agile", "Scrum", "PCI-DSS"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "AT&T",
+        "location": "Dallas, TX",
+        "role": ".NET / Angular Developer",
+        "start_date": "Mar 2017",
+        "end_date": "Jan 2019",
+        "project": [
+          {
+            "name": "NetFlow Customer Service & Billing Platform",
+            "project_summary": "NetFlow Customer Service & Billing Platform provided telecommunications customer service representatives with unified interface for managing subscriber accounts, service activations, billing inquiries, and technical support requests. Built on ASP.NET MVC framework with AngularJS front-end and SQL Server backend hosted on Microsoft Azure cloud infrastructure, the system integrated with network provisioning systems and billing engines processing millions of transactions monthly. The application consolidated multiple legacy tools that customer service agents previously toggled between during calls, reduced average handling time through streamlined workflows, improved first-call resolution rates with complete customer history visibility, and ensured telecommunications regulatory compliance for service records and billing accuracy required by state utility commissions.",
+            "responsibilities": [
+              "Studied customer service workflows from call center supervisors where AngularJS dashboards needed to display account information quickly during calls, mapped out technical requirements for integrating billing data with service provisioning systems, created database schemas storing customer interaction history for telecommunications compliance reporting to regulatory agencies monitoring service quality metrics.",
+              "Rendered ASP.NET MVC views where AngularJS controllers bound customer account data to HTML templates, connected JavaScript AJAX calls to Web API endpoints querying SQL Server for billing records, applied authentication filters ensuring customer service representatives could only access accounts within their assigned territories maintaining data privacy and access control policies.",
+              "Configured AngularJS modules where Bootstrap navigation components organized service activation forms into logical sections, programmed jQuery plugins for phone number formatting in data entry fields, customized CSS3 themes matching AT&T brand colors creating consistent look and feel across customer service tools that agents used daily.",
+              "Scripted T-SQL triggers that audited billing adjustments where database logs captured user actions for compliance reviews, wrote stored procedures aggregating monthly usage statistics for customer billing statements, tuned query performance by partitioning large transaction tables improving report generation speed when finance teams extracted revenue data for month-end closings.",
+              "Compiled operation guides in MS Office Word where step-by-step instructions explained service activation procedures, designed PowerPoint presentations for training new customer service representatives on system features, documented troubleshooting steps in knowledge base articles that help desk teams referenced when assisting agents encountering technical difficulties during customer calls.",
+              "Consulted with call center managers during requirement gathering where business needs were explained in non-technical terms, clarified technical feasibility of requested features, ensured development priorities aligned with operational goals improving customer satisfaction scores measured by telecommunications service quality benchmarks and reducing call handling times through interface optimizations.",
+            "Participated in daily standups where blockers were discussed openly, updated sprint board with task progress, contributed to retrospective discussions identifying process bottlenecks that slowed development velocity, implemented team suggestions streamlining code review procedures reducing time from pull request submission to approval enabling faster feature delivery to production.",
+              "Debugged ASP.NET application errors where stack traces pointed to null reference exceptions in service layer classes, replicated issues in local development environment, applied defensive coding practices checking for null values before object access preventing crashes when external billing APIs returned unexpected data formats during integration testing with downstream systems.",
+              "Administered Git repository branches where hotfix procedures addressed critical production defects outside regular sprint cycles, cherry-picked commits to release branches, tagged versions corresponding to production deployments enabling quick identification of code state when investigating issues reported by customer service managers observing unusual system behavior during business operations.",
+              "Prototyped responsive interfaces using HTML5 canvas elements where CSS3 transforms created smooth page transitions, tested mobile layouts on tablets issued to field technicians accessing service activation tools, fixed JavaScript compatibility issues in older Android browsers still deployed on some company devices ensuring all users had functional access regardless of hardware."
+            ],
+            "environment": [
+              "ASP.NET", "ASP.NET MVC", "AngularJS", "JavaScript", "jQuery", "HTML5", "CSS3", "Bootstrap", "T-SQL", "SQL Server", "Microsoft Azure", "Git", "Azure DevOps", "Visual Studio", "Agile", "Scrum", "AJAX"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "IndiGo Airlines",
+        "location": "Bengaluru, India",
+        "role": ".NET Developer",
+        "start_date": "Mar 2015",
+        "end_date": "Feb 2017",
+        "project": [
+          {
+            "name": "AeroOps Flight & Crew Management System",
+            "project_summary": "AeroOps Flight & Crew Management System coordinated flight scheduling, crew assignments, and operational planning for airline operations teams managing domestic flight networks. The ASP.NET application with VB.NET business logic and SQL Server database hosted on Microsoft Azure infrastructure tracked pilot certifications, flight attendant qualifications, aircraft maintenance schedules, and regulatory compliance requirements mandated by aviation authorities. The system replaced spreadsheet-based crew scheduling processes where operations managers manually matched crew qualifications with flight requirements, introduced automated conflict detection preventing assignment of crew members to overlapping flights, ensured compliance with mandatory rest periods between duty assignments, and generated reports for regulatory audits demonstrating adherence to aviation safety standards.",
+            "responsibilities": [
+              "Observed flight operations procedures from scheduling coordinators where VB.NET forms displayed crew availability calendars, learned airline-specific terminology for duty regulations and rest requirements, absorbed technical knowledge about aviation compliance rules that constrained crew assignment logic implemented in application business layers ensuring regulatory adherence throughout development process.",
+              "Modified ASP.NET web forms where JavaScript functions validated crew assignment conflicts, connected data entry screens to SQL Server tables storing pilot licenses and flight attendant certifications, implemented basic security checks confirming users had appropriate permissions before allowing schedule modifications that impacted flight operations and crew duty hours.",
+              "Arranged HTML form elements where CSS styling organized crew qualification displays into readable sections, added jQuery date picker controls for flight departure time selections, applied basic Bootstrap grid classes creating consistent spacing across scheduling input forms that operations staff used when planning weekly crew rotations and managing last-minute schedule changes.",
+              "Tested T-SQL queries retrieving available crew members where join conditions matched flight routes with pilot type ratings, practiced writing stored procedures under senior developer guidance, learned query optimization techniques by observing execution plan analysis sessions where experienced team members explained index usage patterns and performance tuning strategies for database operations.",
+              "Updated help documentation where instructions explained how to assign backup crew for irregular operations, prepared basic reports using MS Office Excel showing crew utilization rates, contributed to user guide sections describing new features added during sprint releases providing reference materials for training sessions conducted by operations managers.",
+              "Absorbed feedback from operations users during system demonstrations where practical suggestions improved screen layouts, incorporated requested changes to crew search filters, gradually understood how technical implementations impacted daily work of schedulers managing hundreds of crew members across multiple aircraft types and flight routes with complex regulatory constraints.",
+              "Attended Agile ceremonies learning sprint processes from experienced team members, observed how user stories were broken down into development tasks, started taking on small feature assignments building confidence in coding abilities while receiving mentorship from senior developers who reviewed code submissions and provided constructive guidance improving technical skills.",
+              "Shadowed senior developers during production issue investigations where debugging techniques were demonstrated step-by-step, assisted with log file analysis identifying error patterns, applied learned troubleshooting methods to resolve simpler issues independently gaining practical experience in support activities and understanding how application behaved under real operational load conditions."
+            ],
+            "environment": [
+              "VB.NET", "ASP.NET", "JavaScript", "jQuery", "HTML5", "CSS3", "Bootstrap", "T-SQL", "SQL Server", "Microsoft Azure", "Git", "Visual Studio", "Agile", "Scrum"
+            ]
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "institution": "Vignan University",
+        "location": "Hyderabad, India",
+        "year": "2015"
+      }
+    ],
+    "certifications": [
+      "Microsoft Certified: Azure Developer Associate",
+      "Microsoft Certified: Azure Fundamentals"
+    ]
+  }

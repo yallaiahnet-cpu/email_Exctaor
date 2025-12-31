@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Time Resume Optimizer - ATS 100% Score</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #00c9ff;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .top-toolbar {
+            position: sticky;
+            top: 0;
+            z-index: 20;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(6px);
+            display: flex;
+            justify-content: flex-end;
+            gap: 8px;
+            padding: 8px 0 12px 0;
+            margin-bottom: 12px;
+            border-bottom: 1px solid #e5f7ff;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 12px;
+            border: 2px solid #e5f7ff;
+        }
+
+        .input-section label {
+            display: block;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 200px;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            font-size: 14px;
+            font-family: 'Courier New', monospace;
+            resize: vertical;
+            transition: border-color 0.3s ease;
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #00c9ff;
+            box-shadow: 0 0 0 3px rgba(0, 201, 255, 0.1);
+        }
+
+        .generate-btn {
+            display: block;
+            width: 100%;
+            max-width: 400px;
+            margin: 30px auto;
+            padding: 18px;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.2em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 201, 255, 0.4);
+        }
+        
+        .generate-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 201, 255, 0.6);
+        }
+        
+        .generate-btn:active {
+            transform: translateY(0);
+        }
+
+        .copy-btn {
+            padding: 12px 30px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .copy-btn:hover {
+            background: #218838;
+            transform: scale(1.05);
+        }
+        
+        .output-section {
+            margin-top: 40px;
+            display: none;
+        }
+        
+        .output-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .output-title {
+            font-size: 1.8em;
+            color: #00c9ff;
+        }
+        
+        .prompt-output {
+            background: #f8f9fa;
+            border: 2px solid #00c9ff;
+            border-radius: 12px;
+            padding: 30px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95em;
+            line-height: 1.8;
+            white-space: pre-wrap;
+            max-height: 600px;
+            overflow-y: auto;
+            width: 100%;
+            resize: vertical;
+            min-height: 400px;
+        }
+        
+        .prompt-output:focus {
+            outline: none;
+            border-color: #00c9ff;
+            box-shadow: 0 0 10px rgba(0, 201, 255, 0.3);
+        }
+        
+        .success-message {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            display: none;
+            z-index: 1000;
+            animation: slideIn 0.3s ease;
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateX(400px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .warning {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            color: #856404;
+        }
+
+        /* Grid layout for clients to reduce vertical scroll */
+        .clients-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .client-section {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 10px 12px;
+            margin-bottom: 0;
+            border-left: 3px solid #00c9ff;
+            transition: all 0.3s ease;
+        }
+        
+        .client-section:hover {
+            box-shadow: 0 3px 10px rgba(0, 201, 255, 0.15);
+            transform: translateX(2px);
+        }
+        
+        .client-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .client-name {
+            font-size: 0.95em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .client-details {
+            font-size: 0.7em;
+            color: #666;
+            margin-bottom: 6px;
+        }
+        
+        .cloud-selector {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .cloud-option {
+            flex: 1;
+            min-width: 100px;
+        }
+        
+        .cloud-option input[type="radio"] {
+            display: none;
+        }
+        
+        .cloud-option label {
+            display: block;
+            padding: 8px 12px;
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            cursor: pointer;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+        }
+        
+        .cloud-option input[type="radio"]:checked + label {
+            background: #00c9ff;
+            color: white;
+            border-color: #00c9ff;
+            transform: scale(1.05);
+        }
+        
+        .cloud-option label:hover {
+            border-color: #00c9ff;
+            transform: translateY(-2px);
+        }
+
+        .role-selector {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #ddd;
+        }
+
+        .role-option {
+            margin-bottom: 6px;
+        }
+
+        .role-option input[type="radio"] {
+            display: none;
+        }
+
+        .role-option label {
+            display: block;
+            padding: 6px 10px;
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85em;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .role-option input[type="radio"]:checked + label {
+            background: #92fe9d;
+            color: #333;
+            border-color: #92fe9d;
+            font-weight: 600;
+        }
+
+        .role-option label:hover {
+            border-color: #92fe9d;
+            transform: translateX(2px);
+        }
+        
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -30px -30px 20px -30px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <h1>🚀 Full-Time Resume Optimizer</h1>
+        <p class="subtitle">ATS 100% Score Optimized Resume Generator</p>
+        
+        <div class="top-toolbar">
+            <button class="generate-btn" style="max-width: 220px; margin: 0; padding: 12px 16px;" onclick="generatePrompt()">✨ Generate Optimized Resume</button>
+            <button class="copy-btn" style="padding: 12px 16px;" onclick="copyPrompt()">📄 Copy</button>
+        </div>
+
+        <div class="warning">
+            ℹ️ <strong>Instructions:</strong> Select cloud platforms for each client (optional) and role change option. Click Generate to create the prompt, then you can edit it in the output section.
+        </div>
+
+        <div class="input-section" style="margin-bottom: 20px;">
+            <label style="margin-bottom: 10px; display: block; font-weight: 600; color: #333;">🔄 Role Change Option (Applies to All Clients):</label>
+            <div style="display: flex; gap: 15px;">
+                <div class="role-option" style="flex: 1; max-width: 300px;">
+                    <input type="radio" name="global-role" id="global-role-keep" value="keep" checked>
+                    <label for="global-role-keep">📌 Keep role same as JSON</label>
+                </div>
+                <div class="role-option" style="flex: 1; max-width: 300px;">
+                    <input type="radio" name="global-role" id="global-role-change" value="change">
+                    <label for="global-role-change">🔄 Change role according to JD</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="clients-grid">
+            <div class="client-section">
+                <div class="client-name" style="margin-bottom: 8px;">Client 1: Northwestern Mutual</div>
+                <div class="client-details" style="margin-bottom: 10px;">Role: AI Developer | Domain: Insurance | Duration: 2025-Feb - Present</div>
+                <div class="cloud-selector">
+                    <div class="cloud-option">
+                        <input type="radio" name="client1" id="client1-aws" value="AWS">
+                        <label for="client1-aws">☁️ AWS</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client1" id="client1-azure" value="Azure">
+                        <label for="client1-azure">☁️ Azure</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client1" id="client1-gcp" value="GCP">
+                        <label for="client1-gcp">☁️ GCP</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="client-section">
+                <div class="client-name" style="margin-bottom: 8px;">Client 2: Spartex AI</div>
+                <div class="client-details" style="margin-bottom: 10px;">Role: LLM Developer | Domain: Technology | Duration: 2024-Jun - 2025-Feb</div>
+                <div class="cloud-selector">
+                    <div class="cloud-option">
+                        <input type="radio" name="client2" id="client2-aws" value="AWS">
+                        <label for="client2-aws">☁️ AWS</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client2" id="client2-azure" value="Azure">
+                        <label for="client2-azure">☁️ Azure</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client2" id="client2-gcp" value="GCP">
+                        <label for="client2-gcp">☁️ GCP</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="client-section">
+                <div class="client-name" style="margin-bottom: 8px;">Client 3: Ola</div>
+                <div class="client-details" style="margin-bottom: 10px;">Role: Machine Learning Engineer | Domain: Transportation | Duration: 2020-Oct - 2023-Sep</div>
+                <div class="cloud-selector">
+                    <div class="cloud-option">
+                        <input type="radio" name="client3" id="client3-aws" value="AWS">
+                        <label for="client3-aws">☁️ AWS</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client3" id="client3-azure" value="Azure">
+                        <label for="client3-azure">☁️ Azure</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client3" id="client3-gcp" value="GCP">
+                        <label for="client3-gcp">☁️ GCP</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="client-section">
+                <div class="client-name" style="margin-bottom: 8px;">Client 4: ICICI Bank</div>
+                <div class="client-details" style="margin-bottom: 10px;">Role: Azure Data Engineer | Domain: Banking | Duration: 2019-Feb - 2020-Sep</div>
+                <div class="cloud-selector">
+                    <div class="cloud-option">
+                        <input type="radio" name="client4" id="client4-aws" value="AWS">
+                        <label for="client4-aws">☁️ AWS</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client4" id="client4-azure" value="Azure" checked>
+                        <label for="client4-azure">☁️ Azure</label>
+                    </div>
+                    <div class="cloud-option">
+                        <input type="radio" name="client4" id="client4-gcp" value="GCP">
+                        <label for="client4-gcp">☁️ GCP</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button class="generate-btn" onclick="generatePrompt()">✨ Generate Optimized Resume Prompt</button>
+        
+        <div class="output-section" id="outputSection">
+            <div class="output-header">
+                <h2 class="output-title">📋 Generated Optimization Prompt</h2>
+                <button class="copy-btn" onclick="copyPrompt()">📄 Copy to Clipboard</button>
+            </div>
+            <textarea class="prompt-output" id="promptOutput"></textarea>
+        </div>
+    </div>
+    
+    <div class="success-message" id="successMessage">✅ Copied to clipboard!</div>
+    
+    <script>
+        function generatePrompt() {
+            // Get selected cloud platforms for each client
+            const client1 = document.querySelector('input[name="client1"]:checked');
+            const client2 = document.querySelector('input[name="client2"]:checked');
+            const client3 = document.querySelector('input[name="client3"]:checked');
+            const client4 = document.querySelector('input[name="client4"]:checked');
+            
+            const client1Cloud = client1 ? client1.value : '';
+            const client2Cloud = client2 ? client2.value : '';
+            const client3Cloud = client3 ? client3.value : '';
+            const client4Cloud = client4 ? client4.value : '';
+            
+            // Get selected global role change option (applies to all clients)
+            const globalRole = document.querySelector('input[name="global-role"]:checked');
+            const globalRoleChange = globalRole ? globalRole.value === 'change' : false;
+            
+            // Use the same role change setting for all clients
+            const client1RoleChange = globalRoleChange;
+            const client2RoleChange = globalRoleChange;
+            const client3RoleChange = globalRoleChange;
+            const client4RoleChange = globalRoleChange;
+            
+            const prompt = `You are an ATS resume optimizer trained to generate resumes that score 100% on applicant tracking systems. Your task is to return ONLY optimized JSON output — no comments, no explanations, and no extra text.
+
+INSTRUCTIONS:
+- Output must be a valid JSON resume ONLY. Do not include markdown, formatting hints, or explanations.
+- Optimize for keyword density, ATS scoring, and semantic alignment.
+
+⚠️ CRITICAL: MANDATORY SKILL REPETITION RULE - HIGHEST PRIORITY ⚠️
+You are an expert ATS resume optimizer. For every JD, skills are extracted in YAML format with:
+- mandatory_skills_tools_services
+- mandatory_skills_tools_services_that_are_not_explicitly_mentioned
+
+STRICT REQUIREMENT - NO EXCEPTIONS:
+1. Every skill listed in BOTH sections above MUST appear **5-8 times** throughout the resume (EXCEPT in Technical Skills and Environment sections where they appear once)
+2. Embed these skills across ALL sections:
+   - Professional Summary (integrate naturally in bullet points - repeat 5-8 times)
+   - Technical Skills section (list explicitly ONCE - do not repeat here)
+   - Experience/Projects (mention in responsibilities - repeat 5-8 times)
+   - Responsibilities (use skills contextually in bullet points - repeat 5-8 times)
+   - Environment/Tools (list all relevant skills ONCE - do not repeat here)
+3. Do NOT remove or weaken skills — rephrase and reuse them contextually
+4. Sync skills with existing project role and company domain to ensure authenticity
+5. Make sure if client/recruiter sees the resume, they can easily pick out these mandatory skills
+6. Each mandatory skill must appear in multiple contexts (not just listed once)
+
+EXECUTION CHECKLIST:
+✓ Every mandatory skill appears 5-8 times minimum (excluding Technical Skills and Environment)
+✓ Skills integrated in Professional Summary bullets (5-8 times)
+✓ Skills listed in Technical Skills section (once only)
+✓ Skills mentioned in Experience responsibilities (5-8 times)
+✓ Skills included in Environment/Tools sections (once only)
+✓ Skills used contextually, not just listed
+
+REQUIREMENTS: You are a Professional Resume writer in their specific domain. For example, if the JD belongs to IT - YOU ARE IT/SOFTWARE architect. If that is not technical, you are an expert in that based on experience and skills mentioned in the job description.
+
+- You need to prepare the resume to match the action verbs and tech stack. You need to know which technology came in which year according to that you need to add the skills and tools and server based on their matured timeline - COLORFUL METADATA JSON
+- You are an ATS resume optimizer trained to generate resumes that score 100% on applicant tracking systems.
+- Your task is to return ONLY optimized JSON output — no comments, no explanations, and no extra text.
+- Respond with visual JSON metadata. Generate a JSON artifact preserving the original schema exactly.
+
+INSTRUCTIONS:
+• Output must be a valid JSON resume ONLY. Do not include markdown, formatting hints, or explanations.
+• Optimize for keyword density, ATS scoring, and semantic alignment.
+• Use simple English words - since I am an Indian engineer, avoid complex vocabulary.
+
+CRITICAL: GLOBAL VERB UNIQUENESS RULE - HIGHEST PRIORITY
+⚠️ ABSOLUTE REQUIREMENT: NO VERB REPETITION ACROSS ENTIRE RESUME ⚠️
+• Each action verb MUST be used only ONCE across ALL client experiences and summary sections
+• Use different action verbs across all bullet points
+• Track used verbs and ensure no duplicates across entire document
+
+STRICT VERB-TENSE RULES:
+1. Current Project (latest/ongoing role):
+   • Use mix of present tense and past tense verbs
+   • DO NOT use present-continuous (-ing) verbs
+
+2. Completed Projects (all previous roles):
+   • Use ONLY past tense verbs
+   • DO NOT use present tense or -ing verbs
+
+3. GLOBAL FORBIDDEN RULE:
+   • Absolutely NO "-ing" verbs anywhere in the resume
+   • NO: designing, developing, building, managing, implementing, creating
+   • YES: designed, developed, built, managed, implemented, created
+
+FORBIDDEN WORDS (DO NOT USE UNDER ANY CIRCUMSTANCES):
+"Adept", "Self-starter", "Championed", "Specialized", "Spearheaded", "Proven track record", 
+"learned", "wrote", "Cutting-edge", "Robust", "Key player", "Instrumental", 
+"Mastery", "Well-versed", "Results-driven", "Team player", "Strategic", 
+"Exceptional", "Outstanding", "Value-added", "Game-changer", "World-class", "Industry-leading", 
+"Mission-critical", "Holistic", "Engineered", "Led", "Investigated"
+"Engineered", "Championed", "Led", "Investigated", "Spearheaded", 
+"Revolutionized", "Pioneered", "Masterminded"
+
+USE BELOW SIMPLE WORDS AS PER REQUIREMENTS:
+Built, Engineered, Deployed, Assembled
+Used, Utilized, Leveraged, Applied, Integrated
+Operationalized, Work closely, Collaborated, Aligned with, Partnered with
+Contributed, Delivered, Created, Developed, Produced
+Helped, Assisted, Supported, Facilitated
+Got, Achieved, Obtained, Secured
+Worked with, Collaborated, Partnered, Facilitated, Coordinated
+Led, Mentored, Guided, Orchestrated
+Developed, Architected, Engineered, Implemented, Executed
+Set up, Deployed, Configured, Integrated, Automated
+Updated, Modernized, Scaled, Transformed, Enhanced
+Improved, Optimized, Streamlined, Enhanced
+
+SECTION RULES
+
+PERSONAL INFO:
+• Change the title according to JD best suitable title that is perfectly aligned with JD
+
+SUMMARY:
+• Create exactly 14 bullet points with character length between 230-280 characters per bullet
+• First bullet point: "Having 6 years of experience in [specialization]" in a human way
+• Based on my experience in the Insurance, Technology, Transportation, Banking domains, integrate JD mentioned keywords with my existing project domains
+• Use 14 completely unique verbs that are NOT used in any client experience section
+• Start bullet points with humanized action verbs
+• Vary bullet structures: 60% bullet points use format [Technology/Tool] + [Problem] + [Solution] + [Impact], 40% use alternative narrative structures
+. do not use the archtected verb for any bullt points in any client experience section.
+
+TECHNICAL SKILLS SECTION:
+• Generate exactly 10-16 skill categories
+• Categories should include: Programming Languages, Frameworks, Frontend, Backend, Databases, Cloud Platforms, DevOps Tools, Testing Tools, Monitoring, Version Control, Security, AI/ML
+• Each category should have 4-15 relevant skills from JD
+• All mandatory JD skills must appear in technical skills section
+• Format as JSON object with category names as keys and skill arrays as values
+
+PROFESSIONAL EXPERIENCE - GLOBAL RULES (APPLY TO ALL CLIENTS):
+• You should follow the bullet point structure under below client experience like:
+  Organize your bullets by these 6 phases:
+  => Planning / Analysis / Design
+  => Development (Building features)
+  => Testing (Quality / Automation)
+  => Deployment (CI/CD + Cloud)
+  => Monitoring / Maintenance (Fixing, improving)
+  => Every bullet point should be meaningful
+• Ensure time compatibility - only include skills/JD keywords used during actual project timeline
+• Vary sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+• Avoid generic corporate buzzwords, filler phrases, and AI-like statements
+• Focus on concrete, human-readable actions and outcomes
+• Add personal perspective, trial-and-error moments, small emotions to make bullets relatable
+• Include mundane but authentic developer tasks and real project challenges
+• DO NOT mention multi-cloud - integrate JD tools with existing single cloud only
+• ABSOLUTELY NO "-ing" verbs anywhere
+
+PROFESSIONAL EXPERIENCE - CLIENT SPECIFIC RULES
+. do not use the archtected verb for any bullt points in any client experience section.
+CLIENT 1 (Senior-most role - most recent) - NORTHWESTERN MUTUAL:
+${client1RoleChange ? '• Change the role according to JD best suitable role that is perfectly aligned with JD' : '• Do not change the role, keep it same as the JSON'}
+• Write exactly 14 bullet points per role, each between 230-280 characters long
+• Use mix of present and past tense verbs (current project)
+• Integrate JD skills and tools in 75% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+• My project is related to Insurance — write the bullet points by integrating JD keywords with project Insurance regulations
+• Use varied action verbs appropriate to enterprise-level, real-time projects with latest technologies (Senior-most role) level, avoiding repetition across bullets
+• Each verb MUST be unique - NO verb repetition across entire resume
+${client1Cloud ? `• Cloud: Use only ${client1Cloud} - integrate JD keywords with existing cloud services only. If no cloud in JD, use ${client1Cloud}` : '• Whatever cloud mentioned in the job description, use that cloud strictly with no multi-cloud approach. If no cloud in JD, use existing: Azure'}
+• CRITICAL: Always include these skills in the environment section:
+  - Programming Languages: Python, TypeScript
+  - LLM Frameworks & Tooling: LangChain, LlamaIndex, Guardrails AI, Model Context Protocol (MCP), Agents SDK, Tool calling
+  - LLM Application Patterns: LLM-powered AI agents, Agentic workflows, Prompt orchestration, RAG (Retrieval-Augmented Generation), Long-horizon task execution, Agent design patterns, Multi-agent systems
+
+CLIENT 2 (Client 2 level) - SPARTEX AI:
+${client2RoleChange ? '• Change the role according to JD best suitable role that is perfectly aligned with JD' : '• Do not change the role, keep it same as the JSON'}
+• Write exactly 10 bullet points per role, each between 230-280 characters long
+• Use ONLY past tense verbs (completed project)
+• Integrate JD skills and tools in 70% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+• My project is related to Technology — write the bullet points by integrating JD keywords with project Technology regulations
+• Use varied action verbs appropriate to mid-senior level with progression from Client 1 level, avoiding repetition across bullets
+• Each verb MUST be unique - NO verb repetition across entire resume
+${client2Cloud ? `• Cloud: Use only ${client2Cloud} - integrate JD keywords with existing cloud services only. If no cloud in JD, use ${client2Cloud}` : '• Integrate JD keywords with cloud services as appropriate'}
+• CRITICAL: Always include these skills in the environment section:
+  - Programming Languages: Python, TypeScript
+  - LLM Frameworks & Tooling: LangChain, LlamaIndex, Guardrails AI, Model Context Protocol (MCP), Agents SDK, Tool calling
+  - LLM Application Patterns: LLM-powered AI agents, Agentic workflows, Prompt orchestration, RAG (Retrieval-Augmented Generation), Long-horizon task execution, Agent design patterns, Multi-agent systems
+
+CLIENT 3 (Client 3 level) - OLA:
+${client3RoleChange ? '• Change the role according to JD best suitable role that is perfectly aligned with JD' : '• Do not change the role, keep it same as the JSON'}
+• Write exactly 8 bullet points per role, each between 230-280 characters long
+• Use ONLY past tense verbs (completed project)
+• Integrate JD skills and tools in 65% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+• My project is related to Transportation — write the bullet points by integrating JD keywords with project Transportation regulations
+• Use varied action verbs appropriate to moderate responsibility level, avoiding repetition across bullets
+• Each verb MUST be unique - NO verb repetition across entire resume
+${client3Cloud ? `• Cloud: Use only ${client3Cloud} - integrate JD keywords with existing cloud services only. If no cloud in JD, use ${client3Cloud}` : '• Whatever cloud mentioned in the job description, use that cloud strictly with no multi-cloud approach. If no cloud in JD, use existing: GCP'}
+
+CLIENT 4 (Client 4 level) - ICICI BANK:
+${client4RoleChange ? '• Change the role according to JD best suitable role that is perfectly aligned with JD' : '• Do not change the role, keep it same as the JSON'}
+• Write exactly 6 bullet points per role, each between 230-280 characters long
+• Use ONLY past tense verbs (completed project)
+• Integrate JD skills and tools in 60% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+• My project is related to Banking — write the bullet points by integrating JD keywords with project Banking regulations
+• Use varied action verbs appropriate to entry-to-mid level responsibilities, avoiding repetition across bullets
+• Each verb MUST be unique - NO verb repetition across entire resume
+${client4Cloud ? `• Cloud: Use only ${client4Cloud} - integrate JD keywords with existing cloud services only. If no cloud in JD, use ${client4Cloud}` : '• I already have Azure, use only this cloud. Integrate JD keywords with Azure cloud services only'}
+
+CERTIFICATIONS:
+• Keep existing certifications from AI analysis unchanged - do not add new certifications
+
+SKILL REPETITION REQUIREMENTS (ENHANCED - REFER TO CRITICAL RULE ABOVE):
+I will extract the skills from job description in section wise in YAML file in section wise:
+
+1. mandatory_skills_tools_services:
+   The skills which are mentioned in the above section MUST appear **5-8 times** each skill (EXCEPT in Technical Skills and Environment sections where they appear once)
+
+2. mandatory_skills_tools_services_that_are_not_explicitly_mentioned:
+   These are also mandatory skills so MUST appear **5-8 times** each skill (EXCEPT in Technical Skills and Environment sections where they appear once)
+   -> across Professional Summary (5-8 times), Experience/Projects (5-8 times), Responsibilities (5-8 times)
+   -> Technical Skills section (once only), Environment/Tools sections (once only)
+   -> Each skill must be used contextually, not just listed once
+   -> Sync with existing project role and company domain for authenticity
+
+• Non-mandatory but relevant skills: appear 2-4 times throughout resume
+• Integrate JD keywords naturally into bullet points without forced repetition
+• Environment section for each client MUST list all technologies used in that project
+
+TOOL & TECHNOLOGY MAPPING RULES
+
+Timeline Compatibility:
+• DO NOT use technologies before their actual release/adoption dates
+• Research and verify technology timelines before assignment
+• Match tools to project years realistically
+• Avoid futuristic technology mentions for historical projects
+• Consider mainstream adoption dates, not just initial release
+
+Technology Evolution Guidelines:
+• Early Career (2010-2015): Traditional enterprise tools, on-premise solutions, monolithic architectures
+• Mid Career (2015-2020): Cloud migration, containerization, microservices adoption, DevOps emergence
+• Recent Projects (2020+): Cloud-native, serverless, modern data stack, advanced orchestration
+• Always ensure HIPAA compliance for healthcare projects: HIPAA, GDPR, Regulatory: FDA, HIPAA, GDPR, CHIP
+
+Enterprise Focus:
+• Real-time processing systems
+• Large-scale data pipelines
+• High-availability architectures
+• Performance optimization
+• Scalability solutions
+• Enterprise integrations
+
+HUMAN-TONE & AUTHENTICITY RULES:
+• Include authentic developer experiences: debugging sessions, code reviews, team meetings, troubleshooting
+• Show realistic progression and mundane but authentic tasks
+• Vary sentence lengths naturally and avoid corporate buzzwords
+• Focus on concrete, human-readable actions rather than generic achievements
+• Include small emotions and relatable experiences to make bullets authentic
+
+EXECUTION CHECKLIST:
+• Exact bullet count per section as specified (Summary: 14, then per client as defined)
+• Character count between 230-280 for EVERY bullet point
+• ZERO verb repetition across all sections - each verb used only once in entire resume
+• Varying bullet structures by client level (75%→55% format ratio, decreasing with seniority)
+• Don't add fake certificates unless specifically requested
+• Technology timeline compatibility verified
+• JD keywords incorporated throughout
+• Career progression shown through verb choice and responsibility level
+• Enterprise-level project focus maintained
+• Strictly do not include any numeric percentages (%) in the output like 40%, 35%, 25%, 70%, 80%, 90%, 100% etc.
+• All forbidden words avoided
+
+CRITICAL: Follow these rules exactly. No deviations, no additional formatting, no comments in output.
+
+FINAL OUTPUT FORMAT:
+Generate a JSON artifact or structured JSON code block preserving the original schema exactly, with no metadata changes.
+The resume should be ATS-friendly, human-readable, and perfectly aligned with the provided job description while maintaining authenticity and avoiding AI-generated language patterns.
+Visual JSON format please - Respond with COLORFUL METADATA JSON output only.
+
+
+
+  {
+  "name": "Yallaiah Onteru",
+  "title": "Gen AI Developer | LLM & RAG Systems Engineer",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "Linked In",
+    "github": ""
+  },
+  "professional_summary": [
+    "[Bullet Point 1]",
+    "[Bullet Point 2]",
+    "[Bullet Point 3]",
+    "[Bullet Point 4]",
+    "[Bullet Point 5]",
+    "[Bullet Point 6]",
+    "[Bullet Point 7]",
+    "[Bullet Point 8]",
+    "[Bullet Point 9]",
+    "[Bullet Point 10]",
+    "[Bullet Point 11]",
+    "[Bullet Point 12]",
+    "[Bullet Point 13]",
+    "[Bullet Point 14]"
+  ],
+  "technical_skills": {
+    "[Category 1]": [
+      "Skill1",
+      "Skill2"
+    ],
+    "[Category 2]": [
+      "Skill3",
+      "Skill4"
+    ]
+  },
+  "experience": [
+    {
+      "client": "Northwestern Mutual",
+      "role": "AI Developer",
+      "duration": "2025-Feb - Present",
+      "location": "Irving , Texas.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]",
+        "[Bullet Point 9]",
+        "[Bullet Point 10]",
+        "[Bullet Point 11]",
+        "[Bullet Point 12]",
+        "[Bullet Point 13]",
+        "[Bullet Point 14]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "client": "Spartex AI",
+      "role": "LLM Developer",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]",
+        "[Bullet Point 9]",
+        "[Bullet Point 10]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "client": "Ola",
+      "role": "Machine Learning Engineer",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "client": "ICICI Bank",
+      "role": "Azure Data Engineer",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}
+                
+
+By following the above instructions and rules, you need to optimize the resume and return the ATS 100% optimized resume in the same format as the input resume.
+- Don't ask questions anything you have everything just return JSON format resume.
+- No single comment other than below JSON format resume.
+
+Output ONLY this JSON format and STOP:`;
+            
+            const outputElement = document.getElementById('promptOutput');
+            const outputSection = document.getElementById('outputSection');
+            
+            if (!outputElement || !outputSection) {
+                alert('⚠️ Error: Output elements not found. Please refresh the page.');
+                return;
+            }
+            
+            outputElement.value = prompt;
+            outputSection.style.display = 'block';
+            outputSection.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function copyPrompt() {
+            const promptText = document.getElementById('promptOutput').value;
+            if (!promptText) {
+                alert('⚠️ No prompt to copy. Please generate a prompt first.');
+                return;
+            }
+            navigator.clipboard.writeText(promptText).then(() => {
+                const successMsg = document.getElementById('successMessage');
+                successMsg.style.display = 'block';
+                setTimeout(() => {
+                    successMsg.style.display = 'none';
+                }, 3000);
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+                alert('⚠️ Failed to copy to clipboard. Please select and copy manually.');
+            });
+        }
+    </script>
+</body>
+</html>

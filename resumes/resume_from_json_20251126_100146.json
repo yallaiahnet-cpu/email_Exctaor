@@ -1,0 +1,337 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Developer & MDM Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Data Governance, Master Data Management, and Enterprise Metadata Architecture across Insurance, Healthcare, Banking, and Consulting domains working with Azure, AWS, and Snowflake environments.",
+    "Collibra provides centralized metadata management while Azure Purview helps track data lineage across our insurance claims system, allowing compliance teams to trace PHI data flows and meet regulatory audit requirements with automated documentation.",
+    "Informatica MDM integration with Snowflake required careful planning because customer golden records needed real-time sync, so I worked with API teams to build REST endpoints that pushed updates every 15 minutes instead of batch overnight loads.",
+    "Azure Data Factory orchestrates our ETL workflows where healthcare patient data moves from ADLS Gen2 to Azure SQL Database, and I configured retry logic because network timeouts happened during large file transfers from hospital systems feeding our data lake.",
+    "Data Quality profiling tools revealed that 30,000 member records had missing ZIP codes in our payer database, so I created validation rules in Collibra that flagged incomplete addresses before they entered Snowflake production tables used for provider network assignments.",
+    "Alation catalog helped business users discover datasets faster because I tagged all HIPAA-regulated tables with compliance labels, and analysts could search for patient encounter data without asking IT teams which schemas contained protected health information every time.",
+    "dbt models transformed raw claims data in Snowflake where I built incremental materializations that processed only new records instead of full refreshes, cutting our nightly batch window from 4 hours to 45 minutes for insurance adjudication reporting pipelines.",
+    "Matillion ETL workflows moved pharmacy benefit data from legacy Oracle systems into Azure cloud storage, and I had to troubleshoot connection failures because firewall rules blocked outbound traffic until networking teams opened ports for secure data transfers.",
+    "Data governance frameworks needed clear ownership definitions, so I facilitated workshops with business stakeholders where we documented data steward roles for clinical, claims, and member domains ensuring accountability for data quality issues across healthcare operations.",
+    "Azure Purview scans automated metadata discovery across 200+ data sources in our insurance environment, but I manually curated business glossary terms because automated classification misidentified policy numbers as social security numbers requiring human review and corrections.",
+    "Informatica Axon installation took three weeks because I coordinated with infrastructure teams to provision servers, configure database connections, and set up LDAP authentication integrating with our corporate Active Directory for healthcare user access management.",
+    "Data lineage visualization in Collibra showed downstream impacts when pharmacy data structure changed, helping me communicate to 12 different teams which reports and dashboards would break unless they updated their SQL queries before the migration went live.",
+    "Azure SQL Database housed our master patient index where I implemented row-level security policies that restricted access based on user roles, ensuring nurses only viewed patients in their assigned care units complying with hospital privacy regulations and HIPAA requirements.",
+    "Snowflake role-based access controls prevented unauthorized queries on sensitive payer financial data, and I created custom roles for auditors, analysts, and executives because default permissions were too broad for our compliance team's security requirements.",
+    "Data Quality scorecards tracked completeness and accuracy metrics across member enrollment files, and I presented monthly results to governance committees showing improvement trends after implementing validation rules that caught errors before data loaded into production systems.",
+    "Azure Data Lake storage organized raw, curated, and consumption layers where I defined folder structures and naming conventions because inconsistent file paths caused confusion when data engineers searched for source files during troubleshooting and impact analysis sessions.",
+    "Metadata automation scripts using Python and REST APIs reduced manual data catalog updates from 40 hours per month to 5 hours by automatically ingesting schema changes from Snowflake information_schema tables into Collibra through scheduled Azure Functions.",
+    "Healthcare interoperability standards like HL7 and FHIR guided our data exchange designs when integrating with external lab systems, and I mapped standard code sets ensuring clinical observations translated correctly between different EMR vendors serving our payer network."
+  ],
+  "technical_skills": {
+    "Data Governance & Metadata Management": [
+      "Collibra Data Intelligence Platform",
+      "Azure Purview",
+      "Alation Data Catalog",
+      "Informatica Axon",
+      "Data Governance Frameworks",
+      "Metadata Automation",
+      "Business Glossary Management",
+      "Data Stewardship Models"
+    ],
+    "Master Data Management": [
+      "Informatica MDM",
+      "MDM Architecture",
+      "Golden Record Management",
+      "Master Data Integration",
+      "Customer MDM",
+      "Product MDM",
+      "Data Matching & Survivorship"
+    ],
+    "Data Quality & Profiling": [
+      "Data Quality Frameworks",
+      "Informatica Data Quality",
+      "Data Profiling Tools",
+      "Quality Rule Definition",
+      "Data Validation",
+      "Quality Scorecards",
+      "Anomaly Detection"
+    ],
+    "Azure Cloud Services": [
+      "Azure Data Lake Storage (ADLS Gen2)",
+      "Azure Data Factory",
+      "Azure SQL Database",
+      "Azure Purview",
+      "Azure Functions",
+      "Azure Key Vault",
+      "Azure RBAC"
+    ],
+    "Data Warehousing & Analytics": [
+      "Snowflake Data Cloud",
+      "Snowflake Data Sharing",
+      "Snowflake RBAC",
+      "Data Modeling",
+      "Dimensional Modeling",
+      "Star Schema Design"
+    ],
+    "ETL & Data Integration": [
+      "Matillion ETL",
+      "Azure Data Factory",
+      "Informatica PowerCenter",
+      "dbt (Data Build Tool)",
+      "SSIS",
+      "Data Pipeline Orchestration"
+    ],
+    "Data Lineage & Cataloging": [
+      "Collibra Lineage",
+      "Azure Purview Lineage",
+      "End-to-End Data Lineage",
+      "Impact Analysis",
+      "Lineage Automation"
+    ],
+    "Programming & Scripting": [
+      "SQL",
+      "Python",
+      "REST APIs",
+      "PowerShell",
+      "Bash Scripting"
+    ],
+    "Healthcare & Compliance": [
+      "HIPAA Compliance",
+      "Healthcare Payer Domain",
+      "HL7 Standards",
+      "FHIR",
+      "PHI Data Protection",
+      "Healthcare Regulations",
+      "PCI-DSS"
+    ],
+    "DevOps & Version Control": [
+      "Git",
+      "GitHub",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "Infrastructure as Code"
+    ],
+    "Databases": [
+      "Azure SQL Database",
+      "Snowflake",
+      "Oracle",
+      "PostgreSQL",
+      "SQL Server"
+    ],
+    "Cloud Security & IAM": [
+      "Azure RBAC",
+      "Azure Key Vault",
+      "Snowflake Security",
+      "IAM Policies",
+      "Data Encryption",
+      "Access Control Management"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Configure Collibra workflows that route data quality issues to business stewards when insurance policy data fails validation rules, and I set up email notifications because manual follow-ups were causing delays in resolving data errors.",
+        "Integrate Azure Purview with Snowflake to scan metadata across claims processing tables, establishing automated lineage tracking that shows how policyholder information flows from agent submission systems through underwriting approval into billing databases.",
+        "Migrate master data management logic from legacy Oracle systems to Informatica MDM on Azure cloud, coordinating with infrastructure teams to provision virtual machines and configure network security groups that allow secure connections between on-premise and cloud environments.",
+        "Build dbt incremental models in Snowflake that transform raw insurance claims into analytical datasets, writing SQL logic that processes only new transactions instead of scanning entire tables which reduced our nightly batch processing time significantly.",
+        "Establish data governance policies for insurance domain entities like policies, claims, and agents working with compliance officers to define data classification levels and retention schedules that meet state insurance regulatory requirements across multiple jurisdictions.",
+        "Develop Azure Data Factory pipelines that extract policy renewal data from mainframe systems into Azure Data Lake, handling file format conversions because legacy COBOL outputs required custom parsing logic before loading into modern cloud storage layers.",
+        "Implement data quality profiling using Collibra DQ tools to identify completeness and accuracy issues in agent commission data, presenting findings to business stakeholders who decided which errors warranted immediate fixes versus long-term remediation efforts.",
+        "Coordinate with MDM teams to define golden record survivorship rules for customer master data where duplicate records from multiple source systems need consolidation, and I documented matching algorithms that prioritize newer records from CRM over older policy administration data.",
+        "Automate metadata ingestion from Azure SQL Database into Alation catalog using Python scripts that call REST APIs, scheduling jobs to run weekly so technical documentation stays synchronized with actual database schema changes without manual updates.",
+        "Configure row-level security in Snowflake that restricts access to claims data based on user geographic region, working with information security teams to map Active Directory groups to Snowflake roles ensuring agents only view policies within their licensed territories.",
+        "Troubleshoot Matillion ETL jobs that timeout when processing large insurance claim files, optimizing SQL queries and increasing warehouse sizes in Snowflake because initial configurations underestimated data volumes from high-claim-frequency periods.",
+        "Facilitate data stewardship meetings with business users to review data quality scorecards showing error rates across policy, claims, and billing domains, and I track action items to closure ensuring accountability for fixing root causes of recurring data issues.",
+        "Design Azure Purview custom classifications for insurance-specific data elements like policy numbers and claim identifiers, training the classifier with sample data because default patterns failed to recognize proprietary numbering schemes used in legacy systems.",
+        "Maintain Informatica Axon data governance portal where business glossary terms define insurance terminology, and I coordinate with subject matter experts to review definitions quarterly ensuring consistency across different business units using shared data assets.",
+        "Monitor Azure Data Factory pipeline execution logs to identify failures in claims data loads, analyzing error messages to determine whether issues stem from source system connectivity problems, data format mismatches, or insufficient permissions in target databases.",
+        "Validate HIPAA compliance requirements for health insurance claims data by implementing encryption at rest in Azure Data Lake and encryption in transit using TLS protocols, documenting security controls for annual audits conducted by external compliance assessors."
+      ],
+      "environment": [
+        "Collibra",
+        "Azure Purview",
+        "Informatica MDM",
+        "Snowflake",
+        "Azure Data Factory",
+        "Azure Data Lake Gen2",
+        "Azure SQL Database",
+        "dbt",
+        "Matillion ETL",
+        "Alation",
+        "Python",
+        "REST APIs",
+        "PySpark",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "SQL",
+        "Azure RBAC",
+        "Azure Key Vault",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Deployed Collibra data catalog across healthcare research divisions to centralize metadata for clinical trial datasets, patient registries, and drug safety databases, allowing scientists to discover relevant data sources without submitting IT help desk tickets for every search request.",
+        "Configured Azure Purview to scan ADLS Gen2 storage accounts containing patient health records, automating discovery of PHI data elements and applying sensitivity labels that triggered access control policies enforcing HIPAA compliance for protected health information.",
+        "Collaborated with MDM team to implement Informatica MDM hub that consolidated physician and facility master data from 15 different source systems, resolving duplicate records where hospitals appeared multiple times with inconsistent names and addresses.",
+        "Created dbt transformation models in Snowflake that aggregated clinical trial enrollment metrics, building dimension tables for study protocols and fact tables for patient screening data used by pharmaceutical development teams tracking recruitment progress.",
+        "Authored data governance standards for healthcare domain defining data quality rules for patient demographics, lab results, and medication orders, working with clinical informatics teams to validate business rules matched real-world healthcare workflows.",
+        "Architected Azure Data Factory workflows that extracted electronic health records from Epic and Cerner EMR systems into Azure SQL Database, handling HL7 message parsing because clinical data arrived in non-standard formats requiring custom transformation logic.",
+        "Performed data quality assessments using Informatica Data Quality tools that profiled patient allergy records, discovering 18,000 entries with free-text values instead of standardized drug codes which caused medication interaction alerts to fail in clinical decision support systems.",
+        "Integrated Alation data catalog with Snowflake to enable business users to understand available healthcare datasets, tagging tables with business-friendly descriptions because technical schema names like ENCNTR_FACT confused non-IT staff searching for patient encounter data.",
+        "Resolved Matillion ETL performance issues when loading pharmacy claims data by optimizing join operations and implementing incremental load patterns that processed only changed records instead of full daily extracts from source systems.",
+        "Participated in data stewardship council meetings where clinical, operational, and IT stakeholders reviewed data quality metrics for patient safety reporting, escalating critical issues like missing medication administration times that impacted regulatory submissions.",
+        "Established metadata lineage documentation in Collibra showing data flows from lab instrument interfaces through data lake storage to analytics reporting tables, helping audit teams trace specific test results back to original lab orders during compliance reviews.",
+        "Configured Snowflake secure data sharing to provide de-identified patient datasets to external research partners, implementing row masking functions that hid PHI columns while preserving clinical attributes needed for observational studies and epidemiological research.",
+        "Maintained Informatica Axon governance repository documenting healthcare data policies including retention schedules for clinical trial records, adverse event reports, and regulatory submissions aligning with FDA requirements and company standard operating procedures.",
+        "Investigated Azure SQL Database query performance problems affecting real-time patient lookup screens, adding indexes on frequently searched columns like medical record numbers and date-of-birth combinations to reduce response times from 8 seconds to under 2 seconds."
+      ],
+      "environment": [
+        "Collibra",
+        "Azure Purview",
+        "Informatica MDM",
+        "Informatica Data Quality",
+        "Snowflake",
+        "Azure Data Factory",
+        "Azure Data Lake Gen2",
+        "Azure SQL Database",
+        "dbt",
+        "Matillion ETL",
+        "Alation",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "HL7",
+        "FHIR",
+        "HIPAA",
+        "Azure RBAC",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented Collibra data governance framework for state Medicaid program establishing business glossary terms for enrollment, claims, and provider entities used across different health and human services agencies sharing beneficiary data.",
+        "Set up AWS Glue crawlers to discover metadata in S3 buckets containing healthcare eligibility files, automatically updating data catalog entries when new Medicaid application batches arrived from county caseworker systems uploading daily enrollment records.",
+        "Coordinated with master data management consultants to design golden record logic for Medicaid member identities, addressing duplicate enrollments where individuals applied through multiple channels like online portals, paper applications, and community health centers.",
+        "Built data quality validation checks in Python that scanned incoming claims files for missing required fields like diagnosis codes and service dates, rejecting records before they loaded into AWS RDS PostgreSQL databases used for payment adjudication.",
+        "Documented data lineage paths showing how Medicaid claims traveled from provider submission systems through claims processing engines into data warehouse star schema tables supporting state budget forecasting and federal reporting requirements.",
+        "Configured AWS Data Pipeline jobs that orchestrated ETL workflows extracting pharmacy utilization data from legacy systems, transforming drug codes to standard RxNorm identifiers required for CMS reporting and opioid prescription monitoring programs.",
+        "Conducted data profiling exercises using open-source tools to analyze Medicaid provider directories, finding 5,000 records with outdated addresses and phone numbers that prevented members from locating in-network clinics for primary care appointments.",
+        "Collaborated with HIPAA compliance officer to define data classification standards for protected health information, implementing S3 bucket encryption and IAM policies that restricted access to authorized state employees with legitimate business needs.",
+        "Troubleshot SQL performance issues in PostgreSQL database hosting Medicaid claims history, rewriting inefficient queries that scanned full tables instead of using indexes on commonly filtered columns like service dates and provider identifiers.",
+        "Facilitated workshops with program administrators to define key data elements for managed care organization reporting, documenting business definitions in Confluence because technical teams and policy analysts used different terminology for same healthcare concepts.",
+        "Maintained AWS CloudWatch monitoring dashboards tracking data pipeline execution success rates, investigating failures when eligibility files from federal data hub contained unexpected record layouts after CMS released updated file specifications.",
+        "Verified state healthcare regulations compliance by implementing data retention policies in S3 lifecycle rules that automatically archived historical claims to Glacier storage after seven years per Maine statute requirements for Medicaid financial records."
+      ],
+      "environment": [
+        "Collibra",
+        "AWS Glue",
+        "AWS Data Pipeline",
+        "AWS S3",
+        "AWS RDS PostgreSQL",
+        "Python",
+        "SQL",
+        "Informatica PowerCenter",
+        "HIPAA",
+        "Data Quality Tools",
+        "Data Governance Frameworks",
+        "AWS IAM",
+        "AWS CloudWatch",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Established data catalog using Alation to document banking transaction datasets stored in AWS Redshift, enabling risk analysts to discover customer account data, transaction history, and fraud detection model outputs without asking data engineering teams.",
+        "Applied data quality rules to credit card transaction feeds checking for mandatory fields like merchant category codes and authorization amounts, preventing incomplete records from entering downstream fraud monitoring systems that required complete transaction attributes.",
+        "Defined master data standards for customer identification across retail banking, wealth management, and credit card divisions working with business analysts to resolve conflicting data definitions where different business units used different customer identifiers.",
+        "Extracted transaction data from mainframe systems using AWS Database Migration Service, transforming fixed-width text files into relational tables in AWS RDS Oracle because modern reporting tools required SQL access to historical account activity.",
+        "Validated PCI-DSS compliance requirements by implementing field-level encryption for credit card numbers in S3 data lake, coordinating with information security teams to manage encryption keys using AWS KMS and audit access logs quarterly.",
+        "Analyzed data lineage for regulatory reporting pipelines to understand how customer account balances flowed from core banking systems through nightly batch processes into reports submitted to federal banking regulators like OCC and FDIC.",
+        "Configured AWS Glue ETL jobs that cleaned merchant name variations in transaction data, standardizing values like Walmart vs Wal-Mart vs Walmart Inc because inconsistent merchant names prevented accurate spending category analysis.",
+        "Participated in data governance committee meetings reviewing data access requests from business units, approving or rejecting requests based on documented need-to-know principles and separation of duties requirements for financial institution data security.",
+        "Optimized SQL queries in Redshift that aggregated daily transaction volumes, adding distribution keys and sort keys to improve query performance from 15 minutes to 90 seconds for executive dashboards refreshing hourly.",
+        "Documented banking data policies in Confluence wiki covering retention periods for checking account statements, loan application documents, and credit bureau inquiries aligning with federal regulations like Truth in Lending Act and Fair Credit Reporting Act."
+      ],
+      "environment": [
+        "Alation",
+        "AWS Redshift",
+        "AWS S3",
+        "AWS Glue",
+        "AWS Database Migration Service",
+        "AWS RDS Oracle",
+        "AWS KMS",
+        "Python",
+        "SQL",
+        "PCI-DSS",
+        "Data Governance Frameworks",
+        "Data Quality Tools",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned Informatica PowerCenter by building ETL workflows that extracted customer data from Oracle databases into Hadoop HDFS storage, struggling initially with mapping transformations until senior developers showed me how expression logic worked.",
+        "Supported data quality initiatives by writing Hive queries that identified duplicate customer records in HDFS, discovering 12,000 duplicates where email addresses appeared multiple times because source systems lacked primary key constraints.",
+        "Assisted with Sqoop imports that transferred transaction data from MySQL databases into Hadoop clusters, troubleshooting connection timeouts by adjusting batch sizes when initial configurations tried to move too many records in single transfers.",
+        "Gained experience with data governance concepts attending training sessions about metadata management and data lineage, taking notes on how enterprise organizations documented data flows and maintained business glossaries.",
+        "Participated in code reviews where team members explained best practices for Informatica session configurations, slowly understanding how to tune performance parameters like commit intervals and buffer sizes that affected load job completion times.",
+        "Helped document ETL processes in Confluence describing source-to-target mappings for weekly data loads, asking questions when transformation business rules were unclear because documentation needed to explain logic for future maintenance.",
+        "Shadowed senior engineers during production support calls when scheduled batch jobs failed, observing how they analyzed session logs to determine whether failures resulted from source data issues versus Informatica workflow configuration problems.",
+        "Contributed to Hadoop cluster administration tasks like monitoring HDFS disk usage and restarting failed DataNodes, gradually becoming comfortable with Linux command line operations after initially relying heavily on graphical administration tools."
+      ],
+      "environment": [
+        "Informatica PowerCenter",
+        "Hadoop HDFS",
+        "Apache Hive",
+        "Apache Sqoop",
+        "Oracle Database",
+        "MySQL",
+        "SQL",
+        "Linux",
+        "Confluence",
+        "Data Governance Frameworks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

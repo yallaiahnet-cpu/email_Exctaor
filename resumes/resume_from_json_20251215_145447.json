@@ -1,0 +1,298 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Developer | LLM & RAG Systems Engineer",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Delivered 6 years of experience building production grade AI systems across Insurance, Technology, Transportation, and Banking domains, specializing in Large Language Models, Retrieval Augmented Generation, and graph based intelligence solutions",
+    "Architected scalable RAG pipelines using AWS Bedrock, Amazon SageMaker, and vector databases like FAISS, Pinecone, OpenSearch, and Weaviate to enable hybrid search and re ranking models for enterprise LLM deployments with real time inference capabilities",
+    "Designed Agent to Agent architectures implementing Model Context Protocol standards with tool calling, function calling, and structured outputs to orchestrate complex multi agent workflows across distributed systems for insurance regulatory compliance",
+    "Built Neo4j powered Knowledge Graphs with Cypher query optimization and graph traversal algorithms to extract entity relationships, enabling Graph RAG solutions that reduced retrieval latency and improved context accuracy for domain specific questions",
+    "Implemented LLM guardrails using Bedrock Guardrails, PII detection, prompt injection prevention, toxicity detection, output validation, and schema enforcement to ensure secure, compliant AI applications meeting HIPAA and GDPR standards across healthcare and finance",
+    "Optimized transformer based models with custom embeddings, chunking strategies, caching mechanisms, and streaming responses to handle token usage optimization, reducing inference costs while maintaining sub second latency for production grade AI workloads",
+    "Configured CI/CD pipelines using Docker, AWS Lambda, API Gateway, S3, IAM, and CloudWatch to automate model deployment, enable asynchronous processing, and monitor cost, latency, and performance metrics across cloud native architectures",
+    "Integrated Python and TypeScript based inference pipelines with load testing frameworks to validate scalability of hybrid RAG systems, achieving high availability through distributed systems architecture patterns and observability frameworks for real time monitoring",
+    "Collaborated with MLOps, cloud security, and data engineering teams to establish model versioning strategies, ensuring production model governance and compliance with enterprise security best practices for AI workloads deployed on AWS infrastructure",
+    "Automated prompt engineering workflows with structured validation logic, incorporating re ranking models and semantic search techniques to refine retrieval accuracy and reduce hallucinations in LLM responses for customer facing applications",
+    "Resolved complex debugging challenges in RAG pipelines by analyzing embedding drift, vector database indexing issues, and API Gateway throttling errors during peak traffic scenarios, coordinating with platform teams to implement fixes rapidly",
+    "Participated in code reviews and knowledge sharing sessions focused on Graph RAG architectures, teaching teams Cypher syntax, graph traversal optimization, and best practices for integrating Neo4j with AWS AI services and vector databases",
+    "Migrated legacy on premise ML models to AWS SageMaker endpoints, configuring auto scaling policies and CloudWatch alarms to ensure high performance, cost efficient inference serving with minimal downtime during production cutover events",
+    "Explored emerging AI frameworks like LangChain and LlamaIndex for LLM orchestration, evaluating their fit for insurance domain use cases requiring agent collaboration, tool integration, and compliance with strict data governance policies"
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "Cypher"
+    ],
+    "LLM & AI Frameworks": [
+      "Large Language Models",
+      "Retrieval Augmented Generation",
+      "Hybrid RAG",
+      "Graph RAG",
+      "Transformer based models",
+      "Prompt engineering",
+      "Agent to Agent architectures",
+      "Model Context Protocol"
+    ],
+    "AWS AI/ML Services": [
+      "AWS Bedrock",
+      "Amazon SageMaker",
+      "AWS Lambda",
+      "S3",
+      "IAM",
+      "API Gateway",
+      "CloudWatch"
+    ],
+    "Vector Databases": [
+      "FAISS",
+      "Pinecone",
+      "OpenSearch",
+      "Weaviate",
+      "Embeddings",
+      "Hybrid search",
+      "Re ranking models"
+    ],
+    "Graph Technologies": [
+      "Neo4j",
+      "Knowledge Graphs",
+      "Graph based intelligence",
+      "Graph traversal",
+      "Cypher"
+    ],
+    "ML/DL Frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "PySpark",
+      "Databricks"
+    ],
+    "LLM Operations": [
+      "Structured outputs",
+      "Function calling",
+      "Tool calling",
+      "Chunking strategies",
+      "Inference pipelines",
+      "Caching",
+      "Streaming responses"
+    ],
+    "Security & Compliance": [
+      "LLM guardrails",
+      "Bedrock Guardrails",
+      "PII detection",
+      "Prompt injection prevention",
+      "Toxicity detection",
+      "Output validation",
+      "Schema enforcement",
+      "HIPAA",
+      "GDPR"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "CI/CD pipelines",
+      "Load testing",
+      "Model versioning",
+      "Asynchronous processing"
+    ],
+    "Monitoring & Optimization": [
+      "Latency monitoring",
+      "Cost monitoring",
+      "Token usage optimization",
+      "Observability frameworks",
+      "CloudWatch"
+    ],
+    "Cloud Architecture": [
+      "Distributed systems architecture",
+      "Cloud native architecture",
+      "High availability systems",
+      "Scalable AI applications"
+    ],
+    "Collaboration Tools": [
+      "Git",
+      "Jira",
+      "Confluence",
+      "Slack"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Developer",
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Analyzed insurance policy documents to extract regulatory requirements, then built Retrieval Augmented Generation pipelines using AWS Bedrock with hybrid search combining FAISS vector embeddings and OpenSearch keyword matching to retrieve relevant policy clauses",
+        "Developed Graph RAG architecture integrating Neo4j Knowledge Graphs with Large Language Models, writing Cypher queries for graph traversal to map entity relationships across insurance products, enabling Agent to Agent communication following Model Context Protocol standards",
+        "Configured Amazon SageMaker endpoints for transformer based models with custom embeddings, implementing chunking strategies to process lengthy insurance documents, and set up caching to reduce token usage while maintaining real time inference latency under 200ms",
+        "Deployed LLM guardrails using Bedrock Guardrails to enforce PII detection, prompt injection prevention, toxicity detection, output validation, and schema enforcement, ensuring HIPAA compliance for customer data processed through AI workflows",
+        "Automated CI/CD pipelines with Docker containers, AWS Lambda functions, and API Gateway to deploy prompt engineering workflows, integrating S3 for document storage and IAM roles for secure access control across microservices architecture",
+        "Implemented structured outputs and function calling capabilities in LLM responses to standardize insurance claim data extraction, enabling downstream systems to consume AI generated outputs without manual validation or post processing overhead",
+        "Monitored production AI systems using CloudWatch dashboards tracking cost metrics, latency percentiles, and token consumption patterns, identifying bottlenecks in vector database queries and optimizing Pinecone index configurations to improve retrieval speed",
+        "Collaborated with compliance teams to define schema validation rules for LLM outputs, ensuring tool calling results adhered to insurance industry standards and regulatory frameworks, conducting weekly reviews to audit AI decision making processes",
+        "Integrated re ranking models in RAG pipelines to prioritize contextually relevant insurance policy sections, reducing false positive retrievals and improving answer accuracy for customer service agents querying policy interpretation questions",
+        "Tested hybrid RAG configurations by comparing FAISS, Pinecone, and Weaviate vector databases for embedding storage, evaluating trade offs between retrieval latency and accuracy, and selected Weaviate for production based on hybrid search performance benchmarks",
+        "Debugged inference pipeline failures caused by Lambda timeout issues during peak load periods, coordinating with DevOps to increase function memory allocation and implement asynchronous processing queues using SQS for batch document processing",
+        "Participated in architecture discussions around Agent to Agent workflows, proposing MCP based designs where specialized LLM agents handle distinct tasks like policy lookup, risk assessment, and claim validation, sharing findings in team code reviews",
+        "Scaled Knowledge Graph ingestion process to handle millions of insurance policy nodes using PySpark on Databricks, writing ETL jobs to extract entities and relationships, then bulk loading into Neo4j with optimized Cypher batch import queries",
+        "Evaluated streaming response implementations for customer facing chatbot interfaces, benchmarking AWS Bedrock streaming APIs against batch inference to balance user experience with infrastructure costs, documenting trade offs for product stakeholders"
+      ],
+      "environment": [
+        "AWS Bedrock",
+        "Amazon SageMaker",
+        "Neo4j",
+        "FAISS",
+        "Pinecone",
+        "OpenSearch",
+        "Weaviate",
+        "PyTorch",
+        "TensorFlow",
+        "PySpark",
+        "Databricks",
+        "Python",
+        "TypeScript",
+        "Docker",
+        "AWS Lambda",
+        "S3",
+        "IAM",
+        "API Gateway",
+        "CloudWatch",
+        "Large Language Models",
+        "Retrieval Augmented Generation",
+        "Hybrid RAG",
+        "Graph RAG",
+        "Knowledge Graphs",
+        "Agent to Agent architectures",
+        "Model Context Protocol",
+        "Embeddings",
+        "Cypher",
+        "Prompt engineering",
+        "LLM guardrails",
+        "Bedrock Guardrails",
+        "CI/CD pipelines"
+      ]
+    },
+    {
+      "role": "LLM Developer",
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Constructed production ready RAG systems using AWS Bedrock and vector databases including FAISS and Pinecone, implementing hybrid search strategies to combine semantic embeddings with keyword filtering for technology domain question answering applications",
+        "Established prompt engineering standards defining structured outputs for LLM responses, creating validation schemas to enforce function calling and tool calling formats, reducing downstream parsing errors in API integrations with external systems",
+        "Trained transformer based models for domain specific text classification tasks using PyTorch, fine tuning embeddings on proprietary datasets, and deployed models to Amazon SageMaker endpoints with auto scaling policies for variable workload patterns",
+        "Applied chunking strategies to segment technical documentation exceeding context window limits, experimenting with sliding window and semantic boundary approaches to preserve meaning, then indexed chunks in OpenSearch for efficient retrieval during inference",
+        "Configured AWS Lambda functions to handle asynchronous LLM inference requests, integrating S3 for input document storage and IAM policies for cross service permissions, while CloudWatch metrics tracked execution duration and error rates across distributed queues",
+        "Validated LLM outputs against business logic using schema enforcement rules, catching hallucinations and factual inconsistencies before responses reached end users, iterating on prompt templates based on failure patterns observed in quality assurance testing",
+        "Collaborated with platform engineers to optimize vector database indexing performance, tuning Weaviate cluster configurations and FAISS hyperparameters to reduce query latency below 50ms for real time search use cases requiring sub second responsiveness",
+        "Troubleshot embedding model drift issues by analyzing cosine similarity distributions across production queries, discovering semantic shifts in user language patterns, then retrained models on recent data to restore retrieval accuracy to acceptable thresholds",
+        "Participated in load testing exercises simulating concurrent LLM inference requests, identifying API Gateway throttling limits and Lambda concurrency bottlenecks, then proposed caching layer using ElastiCache to offload repetitive queries from backend services",
+        "Documented best practices for integrating Knowledge Graphs with RAG pipelines, outlining Graph RAG patterns where Neo4j Cypher queries enriched vector search results with structured relationship data, presenting findings in team knowledge sharing sessions"
+      ],
+      "environment": [
+        "AWS Bedrock",
+        "Amazon SageMaker",
+        "FAISS",
+        "Pinecone",
+        "OpenSearch",
+        "Weaviate",
+        "PyTorch",
+        "Python",
+        "TypeScript",
+        "AWS Lambda",
+        "S3",
+        "IAM",
+        "CloudWatch",
+        "API Gateway",
+        "Large Language Models",
+        "Retrieval Augmented Generation",
+        "Hybrid RAG",
+        "Embeddings",
+        "Prompt engineering",
+        "Structured outputs",
+        "Function calling",
+        "Tool calling",
+        "Chunking strategies",
+        "Transformer based models",
+        "Schema enforcement"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "Preprocessed transportation telemetry data using PySpark on Databricks, cleaning sensor readings and GPS coordinates, then trained PyTorch neural networks to predict driver behavior patterns, deploying models to GCP AI Platform for real time scoring",
+        "Designed asynchronous inference pipelines processing ride request streams, integrating Pub/Sub messaging with Cloud Functions to handle variable traffic loads, and monitored latency metrics using Stackdriver to maintain prediction response times under 100ms",
+        "Experimented with embeddings for route optimization tasks, vectorizing geographic and temporal features to capture similarity between trip patterns, then indexed vectors in custom FAISS implementation for rapid nearest neighbor search during ride matching",
+        "Debugged model accuracy degradation by analyzing feature distributions across different geographic regions, uncovering data quality issues in sensor calibration, coordinated with IoT teams to fix upstream ingestion bugs affecting training dataset integrity",
+        "Collaborated with data engineers to build ETL workflows extracting ride history from BigQuery, applying chunking strategies to partition large datasets for distributed training jobs, enabling faster experimentation cycles during model development sprints",
+        "Attended cross functional meetings discussing transportation safety regulations, incorporating compliance requirements into model validation checks, ensuring predictions met local government standards for rider protection and service quality metrics",
+        "Refactored legacy scoring code from TensorFlow to PyTorch for better debugging visibility, migrating serialized model artifacts to Cloud Storage, and updated serving infrastructure to support new model format with backward compatibility for gradual rollout",
+        "Assisted junior engineers in understanding transformer architectures by conducting internal workshops, explaining attention mechanisms and positional encodings with transportation use case examples, fostering knowledge transfer within machine learning team"
+      ],
+      "environment": [
+        "PyTorch",
+        "TensorFlow",
+        "PySpark",
+        "Databricks",
+        "GCP AI Platform",
+        "BigQuery",
+        "Cloud Functions",
+        "Pub/Sub",
+        "Cloud Storage",
+        "Stackdriver",
+        "FAISS",
+        "Python",
+        "Embeddings",
+        "Asynchronous processing",
+        "Distributed systems"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Extracted customer transaction data from on premise SQL Server databases using Python scripts, transforming records with Pandas dataframes to normalize schemas, then loaded outputs into Azure SQL Database for downstream analytics pipelines",
+        "Configured Azure Data Factory pipelines orchestrating daily ETL jobs, scheduling PySpark transformations on Databricks clusters to aggregate banking metrics, monitoring execution logs through Azure Monitor for job failure alerts and retry logic",
+        "Secured data access implementing Azure IAM role based permissions, encrypting sensitive customer information at rest and in transit to comply with banking regulations, participating in quarterly security audits validating GDPR adherence",
+        "Troubleshot pipeline performance bottlenecks by profiling Databricks job execution plans, identified inefficient joins causing memory spills, rewrote transformations using broadcast joins to reduce shuffle operations and improve processing speed",
+        "Attended stakeholder meetings presenting data quality reports, explaining discrepancies found in transaction reconciliation processes, recommended schema changes to upstream systems preventing future data integrity issues",
+        "Assisted in migrating legacy batch jobs from on premise Hadoop clusters to Azure cloud infrastructure, containerizing applications with Docker for consistent deployment environments, reducing operational maintenance overhead for IT teams"
+      ],
+      "environment": [
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "PySpark",
+        "Python",
+        "Pandas",
+        "Azure Monitor",
+        "Azure IAM",
+        "Docker",
+        "SQL Server"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

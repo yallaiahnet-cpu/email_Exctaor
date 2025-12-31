@@ -1,0 +1,228 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Full Stack Web Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized C# and .NET to build scalable web applications, ensuring seamless integration with React front-end components for enhanced user experience.",
+    "Developed RESTful APIs using .NET Core to facilitate communication between React front-end and SQL/MongoDB back-end systems.",
+    "Implemented React components with state management using Redux, improving application performance and user interaction.",
+    "Optimized database queries in SQL and MongoDB to enhance data retrieval speed and application efficiency.",
+    "Collaborated with cross-functional teams to design and implement full-stack solutions, ensuring alignment with project requirements.",
+    "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+    "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+    "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+    "Deployed applications to AWS cloud environments, ensuring scalability and reliability using AWS services like EC2 and RDS.",
+    "Implemented authentication and authorization mechanisms in .NET applications to ensure secure user access.",
+    "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding.",
+    "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+    "Refactored legacy codebases to improve maintainability and performance, reducing technical debt.",
+    "Implemented unit and integration tests for .NET and React components, ensuring code quality and reliability.",
+    "Worked with Docker to containerize applications, streamlining deployment processes and ensuring consistency across environments.",
+    "Utilized Git for version control, managing branches and pull requests to maintain a clean and organized codebase.",
+    "Engaged in continuous learning, staying updated with the latest trends and technologies in full-stack development.",
+    "Mentored junior developers, providing guidance and support to enhance their skills and contribute effectively to projects."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL"
+    ],
+    "Frameworks & Libraries": [
+      ".NET Core",
+      "React",
+      "Redux",
+      "Node.js",
+      "Express.js"
+    ],
+    "Databases": [
+      "SQL Server",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, RDS, S3)",
+      "Azure (App Service, SQL Database)"
+    ],
+    "DevOps & Tools": [
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Web Technologies": [
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "Testing": [
+      "Jest",
+      "Mocha",
+      "Chai",
+      "Selenium"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab"
+    ],
+    "CI/CD": [
+      "Jenkins",
+      "GitHub Actions",
+      "Azure DevOps"
+    ],
+    "Other Tools": [
+      "VS Code",
+      "Postman",
+      "Jira",
+      "Confluence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Minneapolis, MN",
+      "responsibilities": [
+        "Built a customer portal using React and .NET Core, integrating RESTful APIs for data management, which improved user engagement.",
+        "Utilized AWS EC2 and RDS to deploy and manage scalable web applications, ensuring high availability and performance.",
+        "Developed a claims processing system with C# and SQL, reducing processing time and enhancing accuracy.",
+        "Implemented Redux for state management in React applications, improving performance and user experience.",
+        "Collaborated with UI/UX designers to implement responsive and accessible web designs using HTML5 and CSS3.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+        "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+        "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding.",
+        "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+        "Refactored legacy codebases to improve maintainability and performance, reducing technical debt.",
+        "Implemented unit and integration tests for .NET and React components, ensuring code quality and reliability.",
+        "Worked with Docker to containerize applications, streamlining deployment processes and ensuring consistency across environments.",
+        "Utilized Git for version control, managing branches and pull requests to maintain a clean and organized codebase.",
+        "Engaged in continuous learning, staying updated with the latest trends and technologies in full-stack development.",
+        "Mentored junior developers, providing guidance and support to enhance their skills and contribute effectively to projects."
+      ],
+      "environment": [
+        "C#, .NET Core, React, SQL, MongoDB, AWS, Docker, Git"
+      ]
+    },
+    {
+      "role": "Full Stack Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "Minneapolis, MN",
+      "responsibilities": [
+        "Developed a healthcare management system using React and .NET Core, ensuring HIPAA compliance and data security.",
+        "Optimized database queries in SQL and MongoDB to enhance data retrieval speed and application efficiency.",
+        "Implemented authentication and authorization mechanisms in .NET applications to ensure secure user access.",
+        "Collaborated with cross-functional teams to design and implement full-stack solutions, ensuring alignment with project requirements.",
+        "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+        "Deployed applications to AWS cloud environments, ensuring scalability and reliability using AWS services like EC2 and RDS.",
+        "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding.",
+        "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+        "Refactored legacy codebases to improve maintainability and performance, reducing technical debt.",
+        "Implemented unit and integration tests for .NET and React components, ensuring code quality and reliability.",
+        "Worked with Docker to containerize applications, streamlining deployment processes and ensuring consistency across environments.",
+        "Utilized Git for version control, managing branches and pull requests to maintain a clean and organized codebase.",
+        "Engaged in continuous learning, staying updated with the latest trends and technologies in full-stack development."
+      ],
+      "environment": [
+        "C#, .NET Core, React, SQL, MongoDB, AWS, Docker, Git"
+      ]
+    },
+    {
+      "role": "Full Stack Developer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Minneapolis, MN",
+      "responsibilities": [
+        "Built a government portal using React and .NET Core, integrating RESTful APIs for data management, which improved user engagement.",
+        "Utilized AWS EC2 and RDS to deploy and manage scalable web applications, ensuring high availability and performance.",
+        "Developed a document management system with C# and SQL, reducing processing time and enhancing accuracy.",
+        "Implemented Redux for state management in React applications, improving performance and user experience.",
+        "Collaborated with UI/UX designers to implement responsive and accessible web designs using HTML5 and CSS3.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+        "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+        "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding.",
+        "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+        "Refactored legacy codebases to improve maintainability and performance, reducing technical debt.",
+        "Implemented unit and integration tests for .NET and React components, ensuring code quality and reliability.",
+        "Worked with Docker to containerize applications, streamlining deployment processes and ensuring consistency across environments.",
+        "Utilized Git for version control, managing branches and pull requests to maintain a clean and organized codebase.",
+        "Engaged in continuous learning, staying updated with the latest trends and technologies in full-stack development."
+      ],
+      "environment": [
+        "C#, .NET Core, React, SQL, MongoDB, AWS, Docker, Git"
+      ]
+    },
+    {
+      "role": "Full Stack Developer",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Minneapolis, MN",
+      "responsibilities": [
+        "Developed a banking portal using React and .NET Core, integrating RESTful APIs for data management, which improved user engagement.",
+        "Utilized AWS EC2 and RDS to deploy and manage scalable web applications, ensuring high availability and performance.",
+        "Developed a transaction processing system with C# and SQL, reducing processing time and enhancing accuracy.",
+        "Implemented Redux for state management in React applications, improving performance and user experience.",
+        "Collaborated with UI/UX designers to implement responsive and accessible web designs using HTML5 and CSS3.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+        "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+        "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding.",
+        "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives."
+      ],
+      "environment": [
+        "C#, .NET Core, React, SQL, MongoDB, AWS, Docker, Git"
+      ]
+    },
+    {
+      "role": "Full Stack Developer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Minneapolis, MN",
+      "responsibilities": [
+        "Built a client portal using React and .NET Core, integrating RESTful APIs for data management, which improved user engagement.",
+        "Utilized AWS EC2 and RDS to deploy and manage scalable web applications, ensuring high availability and performance.",
+        "Developed a reporting system with C# and SQL, reducing processing time and enhancing accuracy.",
+        "Implemented Redux for state management in React applications, improving performance and user experience.",
+        "Collaborated with UI/UX designers to implement responsive and accessible web designs using HTML5 and CSS3.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Troubleshot and resolved front-end and back-end issues, ensuring minimal downtime and maintaining application stability.",
+        "Integrated third-party APIs into React applications to extend functionality and improve user engagement.",
+        "Developed and maintained documentation for full-stack applications, facilitating knowledge sharing and onboarding."
+      ],
+      "environment": [
+        "C#, .NET Core, React, SQL, MongoDB, AWS, Docker, Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

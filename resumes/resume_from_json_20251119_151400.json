@@ -1,0 +1,368 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Java Backend Engineer - Agentic AI & Microservices Architecture",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm having 10 years of experience in Java backend development, specializing in Spring Boot microservices and agentic AI system integration, building scalable enterprise solutions across Insurance, Healthcare, and Banking domains.",
+    "Using Spring Boot with REST APIs to address latency in claims processing systems, architected microservices handling 50K requests/minute while integrating LangChain for multi-agent orchestration reducing manual review time significantly.",
+    "Leveraging Java microservices architecture on GCP with Docker and Kubernetes, designed agentic AI frameworks using Crew AI and LangGraph enabling autonomous policy underwriting workflows for insurance compliance validation and approval routing.",
+    "Implemented RAG pipelines with vector databases like Pinecone integrating LLM reasoning into Spring Boot services, building context-aware customer service agents that dynamically retrieve policy documents and regulatory guidelines for real-time responses.",
+    "Built multi-agent collaboration systems using Model Context Protocol and agent-to-agent communication frameworks, orchestrating distributed AI workflows across microservices where autonomous agents negotiate claim approvals based on risk assessment models.",
+    "Designed RESTful microservices with Spring Boot on GCP Cloud Run, integrating OpenAI APIs and Claude AI for intelligent document extraction from insurance forms, automating 80% of data entry tasks while maintaining HIPAA compliance for healthcare projects.",
+    "Developed LLM integration layers in Java using LangChain and Llama Index, creating adaptive reasoning systems that learn from historical claim patterns to suggest policy modifications, though initially struggled with prompt engineering for domain-specific insurance terminology.",
+    "Architected Docker containerized microservices deployed on Kubernetes clusters in GCP, implementing CI/CD pipelines with Jenkins and GitHub Actions enabling rapid iteration of agentic AI prototypes for proof-of-concept demonstrations to stakeholders and business teams.",
+    "Created autonomous agent workflows using Java Spring Boot with Kafka message queues, coordinating multi-step insurance claim validation where agents communicate findings, escalate exceptions, and trigger human review only for edge cases requiring specialized attention.",
+    "Built Spring Boot backend services integrating with PostgreSQL and MongoDB for storing agent conversation histories and RAG context, enabling agentic systems to maintain memory across sessions and learn from past interactions to improve decision accuracy over time.",
+    "Leveraged GCP Vertex AI and Cloud SQL with Java microservices to deploy LLM-powered chatbots, implementing OAuth2 security and JWT authentication for enterprise REST APIs serving insurance agents with real-time policy recommendations based on customer risk profiles.",
+    "Designed agentic AI frameworks with Spring Boot handling API gateway routing, where autonomous agents built with Crew AI perform parallel research on regulatory changes, synthesize findings, and automatically update compliance rules without manual intervention from legal teams.",
+    "Integrated vector databases like FAISS with Java services for semantic search in RAG pipelines, enabling agents to retrieve relevant insurance clauses from thousands of policy documents in milliseconds, though debugging embedding quality took several iterations with data scientists.",
+    "Developed multi-agent reasoning systems in Spring Boot microservices on GCP, implementing observability with Prometheus and Grafana for monitoring agent decision paths, debugging failures in autonomous workflows, and optimizing LLM token usage to reduce API costs significantly.",
+    "Built proof-of-concept prototypes using Java with LangGraph for adaptive reasoning, where agentic systems dynamically adjust claim processing logic based on fraud detection signals, collaborating with AI engineers to fine-tune agent behaviors through extensive testing and refinement.",
+    "Architected REST microservices with Spring Boot and Docker deployed via Terraform on GCP infrastructure, integrating Hugging Face Transformers for custom NLP models that extract entities from unstructured insurance documents feeding into downstream agentic validation workflows.",
+    "Created Java-based orchestration layers for multi-agent systems using RabbitMQ, coordinating autonomous agents that handle policy renewal workflows from customer notification through payment processing with intelligent fallback handling when agents encounter unexpected scenarios during execution.",
+    "Implemented CI/CD pipelines with GitHub Actions deploying Spring Boot microservices to Kubernetes, enabling continuous experimentation with agentic AI frameworks like LangChain and Model Context Protocol, iterating quickly on multi-agent collaboration patterns for enterprise automation."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "TypeScript",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Backend Frameworks": [
+      "Spring Boot",
+      "Spring Cloud",
+      "Spring Security",
+      "Hibernate",
+      "JPA",
+      "JAX-RS",
+      "Microservices Architecture"
+    ],
+    "Agentic AI Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "Crew AI",
+      "Llama Index",
+      "Model Context Protocol",
+      "AutoGen",
+      "Agent-to-Agent Communication",
+      "Multi-Agent Systems"
+    ],
+    "LLM Integration & RAG": [
+      "OpenAI APIs",
+      "Claude AI",
+      "Hugging Face Transformers",
+      "RAG Pipelines",
+      "Vector Databases",
+      "FAISS",
+      "Pinecone",
+      "Chroma",
+      "Prompt Orchestration",
+      "Semantic Search"
+    ],
+    "Cloud Platforms": [
+      "GCP (Cloud Run, Vertex AI, BigQuery, Cloud SQL, GKE, Cloud Functions)",
+      "AWS (EC2, Lambda, S3, RDS, ECS, SageMaker)",
+      "Azure (App Service, Functions, Cosmos DB)"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Docker Compose",
+      "Container Registries (GCR, ECR)"
+    ],
+    "API Development": [
+      "REST APIs",
+      "GraphQL",
+      "API Gateway",
+      "OAuth2",
+      "JWT",
+      "OpenAPI/Swagger",
+      "gRPC"
+    ],
+    "Message Queues & Streaming": [
+      "Apache Kafka",
+      "RabbitMQ",
+      "Google Pub/Sub",
+      "Apache Flink",
+      "Event-Driven Architecture"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Cassandra",
+      "Cloud SQL",
+      "BigQuery",
+      "Elasticsearch"
+    ],
+    "DevOps & CI/CD": [
+      "Jenkins",
+      "GitHub Actions",
+      "GitLab CI",
+      "Terraform",
+      "Ansible",
+      "ArgoCD",
+      "Git",
+      "Maven",
+      "Gradle"
+    ],
+    "Observability & Monitoring": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "OpenTelemetry",
+      "Jaeger",
+      "Datadog",
+      "New Relic",
+      "Application Performance Monitoring"
+    ],
+    "Testing Frameworks": [
+      "JUnit",
+      "Mockito",
+      "TestNG",
+      "REST Assured",
+      "Integration Testing",
+      "Load Testing (JMeter)"
+    ],
+    "Big Data & ETL": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Airflow",
+      "Informatica",
+      "Sqoop",
+      "Hive"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architected Spring Boot microservices with LangGraph for autonomous claim routing agents on GCP, implementing multi-agent collaboration where AI systems evaluate damage photos, cross-reference policy terms, reducing manual adjuster workload.",
+        "Built Java REST APIs integrating Crew AI framework for proof-of-concept multi-agent insurance workflows, where autonomous agents negotiate claim settlements based on historical patterns, though debugging agent decision logic took several code reviews with team.",
+        "Designed RAG pipelines using Java with Pinecone vector database on GCP Cloud SQL, enabling LLM-powered agents to retrieve relevant insurance regulations from 10K+ policy documents for real-time compliance validation during underwriting processes.",
+        "Implemented Model Context Protocol in Spring Boot microservices deployed on Kubernetes, orchestrating agent-to-agent communication for fraud detection workflows where multiple AI agents share findings and collaboratively flag suspicious claims for investigation.",
+        "Developed Docker containerized services with Spring Boot integrating OpenAI APIs and LangChain, building adaptive reasoning systems that learn from underwriter feedback to improve policy recommendation accuracy, iterating through multiple prompt engineering sessions.",
+        "Created multi-agent orchestration layer using Java with Kafka on GCP Pub/Sub, coordinating autonomous agents handling policy renewal notifications, payment processing, and customer communication, establishing fallback mechanisms when agents encounter edge cases.",
+        "Leveraged GCP Vertex AI with Spring Boot REST services for LLM integration, deploying agentic chatbots that assist insurance agents with real-time policy lookups and risk assessment, implementing OAuth2 security for enterprise API authentication.",
+        "Built proof-of-concept prototypes using Java microservices with LangGraph and Crew AI on Docker, experimenting with multi-agent collaboration patterns for automated claims processing, presenting findings to stakeholders during weekly sprint demos.",
+        "Integrated vector databases FAISS with Spring Boot services for semantic search in RAG workflows, enabling agents to find similar historical claims and suggest resolution strategies, though tuning embedding models required close collaboration with data scientists.",
+        "Architected CI/CD pipelines with GitHub Actions deploying Spring Boot microservices to GCP Kubernetes Engine, enabling rapid iteration of agentic AI experiments with automated testing using JUnit and Mockito for validating agent behaviors.",
+        "Designed observability infrastructure with Prometheus and Grafana monitoring Java microservices, tracking agentic AI decision paths and LLM token usage, debugging autonomous workflow failures, and optimizing system performance during peak claim submission periods.",
+        "Implemented RESTful microservices with Spring Security and JWT on GCP Cloud Run, integrating Hugging Face Transformers for custom NLP entity extraction from insurance documents feeding downstream agentic validation workflows compliant with state insurance regulations.",
+        "Developed autonomous agent systems using Java with RabbitMQ message queues, coordinating multi-step underwriting workflows where agents evaluate risk factors, calculate premiums, and trigger human review only for high-value policies requiring specialized approval.",
+        "Created LLM orchestration layers in Spring Boot with LangChain and Llama Index, building context-aware agents that maintain conversation memory across sessions using PostgreSQL, improving customer service response quality through learning from past interactions.",
+        "Leveraged Terraform for infrastructure as code deploying Java microservices on GCP, implementing auto-scaling Kubernetes configurations for agentic AI workloads handling variable claim volumes, participating in on-call rotation for production incident troubleshooting.",
+        "Built multi-agent reasoning frameworks with Spring Boot integrating Model Context Protocol, enabling autonomous agents to dynamically adjust claim validation rules based on regulatory updates, collaborating with legal team to ensure compliance with insurance laws."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "Model Context Protocol",
+        "RAG",
+        "OpenAI APIs",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Kafka",
+        "PostgreSQL",
+        "MongoDB",
+        "Pinecone",
+        "FAISS",
+        "GitHub Actions",
+        "Terraform",
+        "Prometheus",
+        "Grafana",
+        "OAuth2",
+        "JWT",
+        "JUnit",
+        "Mockito"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Engineered Spring Boot microservices with LangChain on GCP for drug interaction detection agents, implementing RAG pipelines retrieving medical literature from vector databases ensuring HIPAA compliance for patient data handling and regulatory documentation.",
+        "Constructed Java REST APIs integrating Crew AI framework for multi-agent clinical trial workflow automation, where autonomous agents coordinate patient screening, adverse event monitoring, and regulatory reporting, reducing manual data entry tasks significantly.",
+        "Deployed Docker containerized services on GCP Kubernetes Engine using Spring Boot with LLM integration, building intelligent medical record parsing systems that extract structured data from physician notes, though struggled initially with medical terminology accuracy.",
+        "Established proof-of-concept agentic systems using Java with LangGraph for adaptive drug dosage recommendations, where AI agents analyze patient history and lab results to suggest personalized treatment plans, collaborating with healthcare data scientists.",
+        "Formulated multi-agent orchestration using Spring Boot with Kafka on GCP Pub/Sub, coordinating autonomous agents managing clinical trial enrollment workflows from eligibility screening through informed consent documentation compliant with FDA regulations and HIPAA.",
+        "Integrated Pinecone vector database with Java microservices for semantic search in pharmaceutical knowledge bases, enabling RAG-powered agents to retrieve relevant research papers and drug information for real-time clinical decision support applications.",
+        "Configured CI/CD pipelines with Jenkins deploying Spring Boot services to GCP Cloud Run, implementing automated testing with JUnit for agentic AI behaviors, participating in code reviews to ensure healthcare compliance standards across the development team.",
+        "Programmed LLM integration layers in Java using OpenAI APIs and LangChain, creating context-aware chatbots for patient engagement that maintain conversation history in PostgreSQL while adhering to strict HIPAA privacy requirements for protected health information.",
+        "Assembled REST microservices with Spring Security implementing OAuth2 authentication for healthcare APIs, integrating agentic AI systems that autonomously triage patient inquiries and route to appropriate medical departments based on symptom analysis.",
+        "Developed multi-agent collaboration frameworks using Java with RabbitMQ message queues, orchestrating AI agents handling medication refill requests, insurance verification, and pharmacy coordination, establishing error handling for failed agent communications.",
+        "Utilized GCP Vertex AI with Spring Boot for deploying fine-tuned medical NLP models, building agents that extract clinical entities from unstructured EHR data feeding downstream analytics pipelines, debugging model performance issues with healthcare domain experts.",
+        "Organized observability stack with Prometheus and Grafana monitoring Java microservices, tracking agentic workflow execution times and LLM API latencies, troubleshooting production issues during on-call rotations while maintaining 99.9% system uptime targets.",
+        "Crafted proof-of-concept demonstrations using Spring Boot with Model Context Protocol, experimenting with agent-to-agent communication patterns for coordinating complex clinical workflows, presenting technical findings to product managers and stakeholders.",
+        "Initiated RAG pipeline implementations using Java with FAISS vector database on GCP Cloud SQL, enabling medical knowledge agents to retrieve relevant clinical guidelines and treatment protocols ensuring compliance with GDPR and CHIP healthcare regulations."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "RAG",
+        "OpenAI APIs",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Kafka",
+        "PostgreSQL",
+        "Pinecone",
+        "FAISS",
+        "Jenkins",
+        "OAuth2",
+        "JWT",
+        "JUnit",
+        "Prometheus",
+        "Grafana",
+        "HIPAA",
+        "FDA",
+        "GDPR"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Constructed Spring Boot microservices on AWS integrating LLM APIs for healthcare eligibility verification agents, implementing REST endpoints processing Medicaid applications while ensuring HIPAA compliance for patient information handling and secure data transmission.",
+        "Designed Java-based RAG systems using vector databases on AWS RDS, building knowledge retrieval pipelines for healthcare agents that access medical policy documents and regulatory guidelines enabling automated benefit determination workflows.",
+        "Deployed Docker containerized Spring Boot services on AWS ECS with Kubernetes orchestration, integrating LangChain for multi-step healthcare enrollment workflows where agents validate documents, verify identity, and coordinate with state healthcare databases.",
+        "Facilitated proof-of-concept development using Java microservices with LLM integration on AWS Lambda, experimenting with autonomous agents for patient outreach and appointment scheduling, presenting technical demos to state healthcare administrators during monthly reviews.",
+        "Configured CI/CD pipelines with GitHub Actions deploying Spring Boot APIs to AWS cloud infrastructure, implementing automated testing frameworks using JUnit and Mockito for validating healthcare agent behaviors against regulatory compliance requirements.",
+        "Integrated PostgreSQL databases with Java REST services on AWS, storing agent conversation histories and healthcare case data enabling agentic systems to maintain context across multiple patient interactions while adhering to strict data retention policies.",
+        "Established message queue infrastructure using RabbitMQ with Spring Boot microservices, coordinating multi-agent healthcare workflows from initial application intake through final eligibility determination, handling edge cases requiring manual case worker intervention.",
+        "Implemented Spring Security with OAuth2 authentication for healthcare REST APIs on AWS, building secure endpoints for agentic AI systems accessing sensitive patient records and coordinating with external healthcare providers through standardized HL7 interfaces.",
+        "Programmed LLM orchestration layers in Java using LangChain and OpenAI APIs, creating intelligent document processing agents that extract structured data from healthcare forms, though debugging extraction accuracy required multiple iterations with domain experts.",
+        "Utilized AWS CloudWatch with Spring Boot for monitoring microservices performance, tracking agent workflow execution times and identifying bottlenecks in healthcare processing pipelines, participating in troubleshooting sessions during production incidents.",
+        "Assembled Docker-based development environments for Spring Boot microservices, enabling rapid prototyping of agentic AI healthcare solutions with standardized configurations ensuring consistency across development, testing, and production environments on AWS infrastructure.",
+        "Organized technical documentation for Java microservices architecture and agentic AI integration patterns, collaborating with healthcare analysts to define agent behaviors for complex eligibility scenarios involving multiple benefit programs and regulatory requirements."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "LangChain",
+        "LLM Integration",
+        "RAG",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "RabbitMQ",
+        "PostgreSQL",
+        "GitHub Actions",
+        "OAuth2",
+        "JWT",
+        "JUnit",
+        "Mockito",
+        "HIPAA",
+        "HL7"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Contributed to Spring Boot microservices development on AWS integrating LLM APIs for fraud detection agents, implementing REST endpoints analyzing transaction patterns while maintaining PCI DSS compliance for secure payment processing and customer data protection.",
+        "Assisted in building Java-based RAG pipelines using vector databases on AWS RDS, creating knowledge retrieval systems for financial compliance agents accessing regulatory documents and banking policies enabling automated risk assessment workflows.",
+        "Supported Docker deployment of Spring Boot services on AWS ECS, integrating LangChain for multi-step loan approval workflows where agents evaluate credit history, verify income, and calculate risk scores coordinating with external credit bureaus.",
+        "Collaborated on Java microservices with LLM integration using OpenAI APIs, developing customer service chatbots for banking inquiries that retrieve account information and transaction history from PostgreSQL databases ensuring secure authentication mechanisms.",
+        "Participated in CI/CD pipeline configuration with Jenkins deploying Spring Boot APIs to AWS, implementing unit testing using JUnit for financial calculation logic and agent behaviors validating compliance with banking regulations during code reviews.",
+        "Helped implement message queues using Kafka with Spring Boot microservices, coordinating financial transaction workflows from initiation through settlement processing, learning to handle distributed system failures and implementing retry mechanisms for reliability.",
+        "Worked on Spring Security implementations with JWT authentication for banking REST APIs on AWS, building secure endpoints for financial agents accessing sensitive customer account data while adhering to strict access control policies and audit logging.",
+        "Contributed to monitoring setup using AWS CloudWatch for Spring Boot services, tracking API response times and transaction processing latencies, participating in troubleshooting sessions when production issues impacted customer banking operations.",
+        "Assisted in developing Java-based document processing systems integrating NLP models, extracting structured data from loan applications and financial statements feeding downstream underwriting agents, debugging extraction errors with senior engineers.",
+        "Supported database integration efforts connecting Spring Boot microservices with PostgreSQL and MongoDB on AWS, storing financial transaction records and agent conversation histories enabling audit trails for regulatory compliance and fraud investigation purposes."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "LangChain",
+        "LLM Integration",
+        "RAG",
+        "AWS",
+        "Docker",
+        "Kafka",
+        "PostgreSQL",
+        "MongoDB",
+        "Jenkins",
+        "JWT",
+        "JUnit",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to build data pipelines using Hadoop and Sqoop for ETL workflows, extracting customer data from Oracle databases and loading into HDFS, collaborating with senior engineers to understand distributed processing concepts and MapReduce programming patterns.",
+        "Assisted in developing Informatica PowerCenter workflows for data transformation, processing insurance policy records and claims data from multiple sources, debugging mapping errors and attending team meetings to understand business requirements and data quality.",
+        "Supported Hadoop cluster operations using basic shell scripts for job scheduling and monitoring, learning HDFS commands and troubleshooting failed MapReduce jobs under guidance from experienced team members during daily standup discussions.",
+        "Contributed to Sqoop import jobs transferring banking transaction data from SQL databases to Hadoop, writing simple SQL queries for data validation and participating in code reviews to improve extraction logic and performance optimization techniques.",
+        "Worked on Informatica transformations for cleansing customer demographics data, applying basic filtering and aggregation logic, gradually learning complex mapping patterns through trial-and-error and mentorship from lead data engineers on the team.",
+        "Helped maintain Hadoop job logs and documentation for ETL processes, tracking data lineage and pipeline dependencies, slowly understanding distributed system concepts while supporting production data loads and responding to incidents during on-call rotations.",
+        "Participated in data quality testing for Informatica workflows, validating record counts and field mappings between source and target systems, learning SQL optimization techniques and database performance tuning through hands-on experience and training sessions.",
+        "Assisted with basic shell scripting for automating Hadoop maintenance tasks like log cleanup and disk space monitoring, figuring out Linux commands and gradually building confidence in command-line operations through repeated practice and senior guidance."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "MapReduce",
+        "HDFS",
+        "Oracle",
+        "SQL",
+        "Shell Scripting",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior MLOps Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Accumulated ten years of experience applying machine learning concepts and MLOps pipelines within Insurance, Healthcare, Banking, and Consulting domains, focusing on operationalizing AI-driven products for enterprise platforms.",
+    "Formulated comprehensive MLOps pipelines on AWS cloud platforms using TensorFlow, Docker, and Kubernetes to automate model deployment, directly addressing scale challenges in insurance and healthcare predictive analytics.",
+    "Assembled containerized microservices with Docker and orchestrated them via Kubernetes to support scalable, portable machine learning workloads across diverse regulatory environments like HIPAA and PCI-DSS.",
+    "Translated complex machine learning concepts and algorithms into production-grade services, ensuring models met performance SLAs and business objectives in high-stakes sectors like banking and healthcare.",
+    "Coalesced cross-functional teams of data scientists and software engineers to establish model governance frameworks and version control practices using Git, enhancing reproducibility and audit trails.",
+    "Integrated AWS Bedrock and SageMaker into CI/CD practices, creating automated pipelines that reduced manual intervention and accelerated time-to-market for new model versions in consumer platforms.",
+    "Structured AWS cloud infrastructure with Infrastructure as Code principles to provision repeatable environments for training and hosting models, ensuring consistency from development to production.",
+    "Cultivated a model monitoring strategy using cloud-native tools to detect performance drift and data skew, initiating retraining pipelines to maintain model accuracy in dynamic production environments.",
+    "Defined REST APIs for model serving, enabling seamless integration with existing enterprise applications and allowing business units in banking and insurance to consume model predictions reliably.",
+    "Consolidated experiment tracking with model versioning in a unified system, providing data scientists with clear lineage from initial hypothesis to deployed model, improving collaboration and iteration speed.",
+    "Deployed feature engineering pipelines as part of end-to-end ML workflows, ensuring consistent data transformation between training and inference stages for models in regulated industries.",
+    "Negotiated technical requirements with platform engineering and DevOps teams to align MLOps practices with organizational CI/CD standards, fostering a culture of shared ownership for production systems.",
+    "Programmed automation scripts in Python to manage the lifecycle of TensorFlow models, including validation, packaging, and registration, which minimized human error in deployment processes.",
+    "Oversaw the entire machine learning workflow from data ingestion to model serving, taking accountability for system reliability and performance optimization in 24/7 production settings.",
+    "Steered the adoption of model governance protocols, implementing checks for fairness, bias, and regulatory compliance before models were promoted to live environments in sensitive domains.",
+    "Documented troubleshooting procedures and runbooks for common production issues, empowering support teams to resolve incidents quickly and maintain high service availability for internal users.",
+    "Explored the latest trends in AI/ML engineering during weekly research sessions, piloting proof of concepts with new orchestration tools to assess their fit for our existing technology stack.",
+    "Verified the security and compliance of all MLOps components, particularly for healthcare projects requiring HIPAA adherence, through regular audits and collaboration with security specialists."
+  ],
+  "technical_skills": {
+    "Programming Languages & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "Scala"
+    ],
+    "Machine Learning & Deep Learning Frameworks": [
+      "TensorFlow",
+      "Scikit-Learn",
+      "PyTorch",
+      "XGBoost"
+    ],
+    "MLOps & Model Lifecycle Tools": [
+      "MLflow",
+      "Kubeflow",
+      "DVC",
+      "TFX",
+      "AWS SageMaker"
+    ],
+    "Cloud Platforms (AWS) & AI Services": [
+      "AWS SageMaker",
+      "AWS Bedrock",
+      "EC2",
+      "S3",
+      "Lambda",
+      "IAM",
+      "CloudWatch"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Helm"
+    ],
+    "CI/CD & DevOps Practices": [
+      "Git",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Infrastructure as Code"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "Databricks",
+      "Apache Airflow"
+    ],
+    "Model Serving & APIs": [
+      "REST APIs",
+      "FastAPI",
+      "Flask"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "AWS CloudWatch",
+      "Model Monitoring Concepts"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "MySQL",
+      "Amazon RDS",
+      "Amazon Redshift"
+    ],
+    "Operating Systems": [
+      "Linux"
+    ],
+    "Agile & Project Management": [
+      "Agile Methodologies",
+      "Jira",
+      "Confluence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Plan MLOps architecture for insurance claim prediction models using TensorFlow and Databricks, focusing on automated pipelines that comply with stringent state insurance regulations and risk management frameworks.",
+        "Implement a proof of concept for a multi-agent system using LangGraph and Model Context Protocol, where agents handle distinct tasks like fraud detection and customer communication, all orchestrated on AWS EKS.",
+        "Deploy the scalable model serving layer with Docker containers on a Kubernetes cluster, integrating AWS SageMaker for batch transforms and real-time endpoints to support high-volume claim processing periods.",
+        "Monitor model performance and data drift using CloudWatch custom metrics and SageMaker Model Monitor, setting up alerts for when prediction patterns deviate from expected baselines in the production environment.",
+        "Optimize inference latency by refining the TensorFlow model graph and adjusting Kubernetes resource requests/limits, achieving a consistent response time under demanding traffic loads.",
+        "Troubleshoot a pipeline failure where feature mismatches occurred between training and inference; diagnosed the issue in the Databricks feature store and corrected the schema alignment script.",
+        "Establish model governance by enforcing version control for all artifacts in AWS S3 and maintaining a centralized registry in MLflow, ensuring full auditability for compliance reviews.",
+        "Construct a CI/CD pipeline with Jenkins and Terraform to automate the testing and promotion of new model versions, reducing manual deployment steps from fifteen to three.",
+        "Participate in daily standups with data scientists to review experiment results, providing guidance on operationalizing their prototypes into robust, containerized services.",
+        "Research and document the feasibility of Agent-to-Agent communication frameworks for complex insurance workflows, presenting findings to the architecture review board.",
+        "Validate all data inputs for privacy compliance, ensuring that customer PII is handled according to policy before being used in model training pipelines on secured cloud instances.",
+        "Update deployment playbooks and runbooks to include rollback procedures for the multi-agent system, conducting a team walkthrough to ensure everyone understood the recovery steps.",
+        "Refactor a legacy monolithic prediction service into microservices, containerizing each component with Docker to improve scalability and independent deployment cycles.",
+        "Mentor two junior ML engineers on Kubernetes concepts and AWS Bedrock basics, sharing practical tips from debugging service mesh connectivity issues in our test cluster.",
+        "Approve pull requests for pipeline code after thorough review, checking for security best practices, proper error handling, and alignment with our internal MLOps standards.",
+        "Coordinate with the security team to perform vulnerability scans on our Docker images and Kubernetes deployments, addressing identified issues before the next release cycle."
+      ],
+      "environment": [
+        "TensorFlow",
+        "Docker",
+        "Kubernetes",
+        "AWS (SageMaker, Bedrock, S3, EKS, CloudWatch)",
+        "Databricks",
+        "Apache Spark",
+        "MLflow",
+        "Git",
+        "Jenkins",
+        "Terraform",
+        "Python",
+        "Linux",
+        "REST APIs",
+        "LangGraph",
+        "Model Context Protocol"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned the development of an MLOps pipeline for clinical trial analytics, ensuring all components from data ingestion to model serving adhered to HIPAA compliance and patient data security protocols.",
+        "Implemented a LangChain-based application to structure unstructured medical literature, deploying it as a containerized service on AWS ECS to assist research teams in drug discovery.",
+        "Deployed TensorFlow models for patient outcome prediction using AWS SageMaker endpoints, wrapping them in Docker images with custom inference code for specific healthcare data formats.",
+        "Monitored production models for concept drift and performance decay, using SageMaker's built-in capabilities to trigger retraining pipelines when accuracy metrics fell below defined thresholds.",
+        "Optimized a feature engineering pipeline built with Apache Spark on Databricks, reducing its runtime by restructuring costly joins and applying predicate pushdown techniques.",
+        "Troubleshot a persistent GPU memory leak in a deep learning training job on SageMaker; profiled the TensorFlow code and fixed it by adjusting data loading and batch size parameters.",
+        "Established a model versioning and experiment tracking system using MLflow, integrating it with our Git workflow to link code commits directly to model performance artifacts.",
+        "Built a proof of concept using the Crew AI framework to simulate a multi-agent system where different agents managed data validation, model training, and report generation tasks.",
+        "Participated in weekly architecture meetings to align our MLOps tooling with the broader platform engineering team's Kubernetes and Docker standards across the organization.",
+        "Researched alternative orchestration tools like Kubeflow Pipelines, evaluating them against our existing Airflow setup for managing complex, healthcare-compliant ML workflows.",
+        "Validated all data access patterns against HIPAA requirements, implementing encryption at rest and in transit for all sensitive health information used in model development.",
+        "Updated CI/CD pipelines to include automated security scanning for Docker images and model dependencies, blocking deployments that contained known vulnerabilities.",
+        "Refactored several monolithic Jupyter notebooks into modular Python packages, making the code testable and suitable for integration into automated training pipelines.",
+        "Guided a data scientist through the process of packaging her PyTorch model into a Docker container, explaining Kubernetes service definitions and health check configurations."
+      ],
+      "environment": [
+        "TensorFlow",
+        "Docker",
+        "AWS (SageMaker, ECS, S3, IAM)",
+        "Kubernetes",
+        "MLflow",
+        "Git",
+        "Python",
+        "Apache Spark",
+        "Databricks",
+        "LangChain",
+        "REST APIs",
+        "Linux",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planned the migration of on-premise healthcare prediction models to Azure cloud, designing MLOps pipelines that satisfied state healthcare regulations and public sector security mandates.",
+        "Implemented a model training pipeline using Azure Machine Learning service and TensorFlow, automating the retraining cycle for models predicting public health resource utilization.",
+        "Deployed models as web services using Azure Kubernetes Service (AKS), containerizing the scoring code with Docker to ensure consistent execution across development and production.",
+        "Monitored service health and model performance using Azure Monitor and Application Insights, creating dashboards to track latency, error rates, and prediction volumes.",
+        "Optimized the cost of the AKS cluster by right-sizing nodes and implementing auto-scaling policies based on prediction request traffic patterns observed throughout the week.",
+        "Troubleshot a data mismatch issue where the training pipeline in Azure Data Factory produced slightly different aggregations than the batch scoring job, requiring alignment of SQL queries.",
+        "Established Git-based version control for all pipeline code and model definitions, using pull requests and code reviews to maintain quality and knowledge sharing within the team.",
+        "Built a CI/CD pipeline using Azure DevOps to automate the testing and deployment of updated pipeline components, integrating security checks for HIPAA compliance.",
+        "Participated in daily scrums with the data science and IT operations teams to synchronize on deployment schedules and address any environmental discrepancies.",
+        "Researched and proposed the adoption of MLflow for experiment tracking to bring more structure to the model development process, which was initially quite ad-hoc.",
+        "Validated all data handling procedures with the state's compliance officer, ensuring patient confidentiality was preserved in line with HIPAA throughout the ML lifecycle.",
+        "Updated operational documentation and runbooks to reflect the new Azure-based deployment procedures, facilitating smoother handovers to the support team."
+      ],
+      "environment": [
+        "TensorFlow",
+        "Docker",
+        "Azure (Machine Learning, AKS, Data Factory, Monitor)",
+        "Kubernetes",
+        "Git",
+        "Python",
+        "SQL",
+        "CI/CD",
+        "MLflow",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planned the development of fraud detection models, ensuring the machine learning pipeline design incorporated controls for PCI-DSS compliance and financial transaction security.",
+        "Implemented Scikit-Learn and XGBoost models for transaction risk scoring, packaging the preprocessing and prediction logic into Python classes for consistent execution.",
+        "Deployed the initial model as a REST API using Flask on Azure App Services, working with the engineering team to define the service-level agreement for response times.",
+        "Monitored the model's performance in a pilot environment, tracking false positive rates and working with fraud analysts to calibrate the decision threshold based on business impact.",
+        "Optimized feature calculation scripts to reduce latency, moving some aggregations from pure Python to optimized SQL queries executed in Azure SQL Database.",
+        "Troubleshot an issue where model predictions became unstable; traced it to a change in the raw data source format and updated the feature engineering code accordingly.",
+        "Established a basic versioning practice for models by saving each iteration with metadata to Azure Blob Storage, creating a simple lineage tracking system.",
+        "Built automated data validation checks to run before model training, ensuring incoming data met expected schemas and value ranges to prevent garbage-in-garbage-out scenarios.",
+        "Participated in model governance meetings to present performance reports and justify the logic behind model decisions for regulatory transparency.",
+        "Researched containerization with Docker as a potential solution for environment consistency, creating a prototype to demonstrate its benefits to the platform team."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "XGBoost",
+        "Azure (App Services, SQL Database, Blob Storage)",
+        "Flask",
+        "Docker",
+        "Git",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planned and developed Sqoop jobs to migrate client data from legacy Oracle systems into the Hadoop Distributed File System (HDFS) for a large-scale consulting analytics project.",
+        "Implemented ETL workflows using Informatica PowerCenter to transform raw operational data into cleansed, business-ready datasets for downstream reporting and analysis.",
+        "Deployed and scheduled Apache Oozie workflows to coordinate daily batch data processing jobs on the Hadoop cluster, ensuring timely data availability for business users.",
+        "Monitored data pipeline execution, checking job logs in Hadoop YARN to identify failures or performance bottlenecks in the MapReduce jobs and taking corrective action.",
+        "Optimized Hive queries by revising join strategies and implementing partitioning on date columns, significantly reducing the runtime of critical daily aggregation reports.",
+        "Troubleshot recurring data quality issues in a client feed by writing validation scripts in Python that identified and flagged records missing required fields before processing.",
+        "Established basic version control for ETL mapping documents and SQL scripts using a shared network drive, improving collaboration among the small data engineering team.",
+        "Built simple shell scripts to automate the cleanup of temporary files in HDFS and manage the lifecycle of older data partitions according to client retention policies."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "MapReduce",
+        "Hive",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "Oracle",
+        "Python",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

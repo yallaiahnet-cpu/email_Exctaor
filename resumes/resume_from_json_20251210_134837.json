@@ -1,0 +1,268 @@
+{
+  "name": "Aravind Datla",
+  "title": "Azure Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possessing 9 years of experience in Azure data engineering, I architected comprehensive data solutions using Azure Data Factory to transform healthcare data pipelines, reducing processing time by 40% while maintaining HIPAA compliance and ensuring data integrity across enterprise systems.",
+    "Demonstrated expertise in implementing Lakehouse architecture with Azure Databricks and ADLS Gen2, enabling banking institutions to consolidate disparate data sources into a unified analytics platform that supported real-time fraud detection and regulatory reporting requirements.",
+    "Applied Medallion architecture principles (Bronze/Silver/Gold) to design scalable data models for automotive analytics, allowing Ford to process sensor data from connected vehicles and derive actionable insights for predictive maintenance and performance optimization.",
+    "Integrated Azure Synapse Analytics with existing on-premise data warehouses, facilitating seamless cloud migration for consulting clients while preserving data lineage and ensuring zero downtime during transition periods.",
+    "Developed secure API integrations using Azure API Management that exposed curated data products to downstream applications, implementing proper authentication mechanisms and rate limiting to protect sensitive healthcare information.",
+    "Constructed serverless data processing workflows with Azure Functions that triggered automated data quality checks and validation routines, helping banking clients identify and rectify data anomalies before they impacted critical reporting systems.",
+    "Implemented robust CI/CD pipelines using Azure DevOps to automate deployment of data solutions across multiple environments, establishing consistent release processes that reduced manual intervention by 75% and eliminated configuration drift.",
+    "Utilized Terraform for infrastructure as code to provision and manage Azure resources, creating reusable modules that accelerated environment setup by 60% and ensured compliance with organizational governance policies.",
+    "Established comprehensive security frameworks using Azure Key Vault, RBAC, and private endpoints to protect sensitive data assets, conducting regular security assessments to maintain compliance with GDPR, HIPAA, and industry-specific regulations.",
+    "Designed and implemented Azure Purview solutions for automated data classification and lineage tracking, enabling organizations to maintain data governance standards while facilitating self-service analytics for business users.",
+    "Created monitoring and alerting systems using Azure Monitor and Log Analytics to track pipeline performance, identify bottlenecks, and proactively address issues before they impacted downstream consumers.",
+    "Architected streaming data processing solutions using Structured Streaming in Databricks to handle real-time data ingestion from IoT devices in automotive applications, processing millions of events per day with minimal latency.",
+    "Optimized query performance in Azure Synapse and Azure SQL through strategic indexing, partitioning, and query rewriting techniques, reducing execution times for complex analytical queries by an average of 65%.",
+    "Implemented Data Vault modeling methodologies to ensure auditability and traceability of critical data elements, supporting regulatory compliance requirements in banking and healthcare domains.",
+    "Applied Data Quality frameworks using Great Expectations to establish data validation rules and automated testing, significantly reducing data-related incidents and improving stakeholder confidence in reporting systems.",
+    "Facilitated cross-functional collaboration between data scientists, analysts, and business stakeholders to translate requirements into technical specifications, ensuring alignment between data solutions and organizational objectives.",
+    "Mentored junior Azure data engineers in best practices for data modeling, pipeline development, and cloud architecture, fostering team growth and establishing consistent coding standards across projects.",
+    "Evaluated emerging Azure services and industry trends to recommend technology upgrades and architectural improvements, helping organizations maintain competitive advantage through innovative data solutions."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "T-SQL",
+      "JSON",
+      "XML"
+    ],
+    "Frameworks": [
+      "Apache Spark",
+      ".NET",
+      "Pandas",
+      "NumPy",
+      "TensorFlow"
+    ],
+    "Azure Data Services": [
+      "Azure Data Factory",
+      "Azure Synapse Analytics",
+      "Azure Databricks",
+      "Azure Data Lake Storage Gen2",
+      "Azure SQL Database",
+      "Azure Stream Analytics"
+    ],
+    "Data Architecture": [
+      "Lakehouse Architecture",
+      "Medallion Architecture",
+      "Data Vault",
+      "Star Schema",
+      "Snowflake Schema",
+      "3NF"
+    ],
+    "API & Integration": [
+      "Azure API Management",
+      "Azure Functions",
+      "Azure Logic Apps",
+      "REST APIs",
+      "SOAP"
+    ],
+    "DevOps & IaC": [
+      "Azure DevOps",
+      "Terraform",
+      "Bicep",
+      "CI/CD",
+      "Git",
+      "GitHub Actions"
+    ],
+    "Security & Governance": [
+      "Azure Key Vault",
+      "Azure AD",
+      "Azure MFA",
+      "RBAC",
+      "Azure Purview",
+      "Azure Firewall",
+      "Private Endpoints"
+    ],
+    "Monitoring & Analytics": [
+      "Azure Monitor",
+      "Log Analytics",
+      "Azure Data Explorer",
+      "Power BI",
+      "Azure Data Catalog"
+    ],
+    "Data Quality": [
+      "Great Expectations",
+      "Azure Data Factory Data Quality",
+      "Data Validation",
+      "Data Lineage"
+    ],
+    "Database Technologies": [
+      "Azure SQL Database",
+      "Azure Cosmos DB",
+      "Azure Database for PostgreSQL",
+      "Azure Database for MySQL",
+      "Synapse SQL Pool"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Azure Data Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "Architected comprehensive healthcare data platform using Azure Data Factory and ADLS Gen2, implementing Medallion architecture to process patient records, prescription data, and clinical information while maintaining strict HIPAA compliance.",
+        "Developed real-time analytics pipeline with Azure Databricks and Structured Streaming to monitor medication adherence across pharmacy networks, enabling timely interventions that improved patient outcomes by 23%.",
+        "Implemented Azure Synapse Analytics to consolidate disparate healthcare data sources, creating a unified data model that supported advanced analytics for population health management and personalized treatment recommendations.",
+        "Designed secure data exchange framework using Azure API Management to share curated healthcare data with external partners, implementing OAuth 2.0 authentication and encrypted data transmission to protect patient privacy.",
+        "Created automated data quality validation using Great Expectations integrated within Azure Data Factory pipelines, establishing comprehensive checks that identified and corrected data anomalies before they impacted clinical reporting.",
+        "Built serverless data processing workflows with Azure Functions to handle periodic data transformations and enrichment tasks, reducing infrastructure costs by 40% compared to traditional always-on processing solutions.",
+        "Established CI/CD pipeline using Azure DevOps to automate deployment of data solutions across development, testing, and production environments, implementing approval gates and automated testing to ensure code quality.",
+        "Implemented infrastructure as code with Terraform to provision and manage Azure resources, creating reusable modules for healthcare data platforms that accelerated environment setup by 65%.",
+        "Configured comprehensive monitoring and alerting using Azure Monitor and Log Analytics to track pipeline performance, setting up automated notifications for data processing failures and performance degradation.",
+        "Designed data governance framework using Azure Purview to classify sensitive healthcare information, implement data access policies, and maintain complete data lineage for regulatory compliance and audit purposes.",
+        "Optimized query performance in Azure Synapse through strategic partitioning, materialized views, and proper indexing techniques, reducing average query execution time from 45 minutes to under 12 minutes for complex analytical queries.",
+        "Implemented Azure Key Vault integration to securely store and manage encryption keys, connection strings, and other sensitive credentials used by data pipelines, ensuring proper access controls and audit trails.",
+        "Created automated backup and disaster recovery procedures for Azure SQL databases and Data Lake Storage, establishing point-in-time restore capabilities that met healthcare industry requirements for data availability.",
+        "Developed custom Azure Functions to integrate with legacy healthcare systems using HL7 FHIR standards, enabling seamless data exchange between modern cloud platform and traditional clinical applications.",
+        "Conducted regular security assessments of the Azure data platform, implementing network security groups, private endpoints, and Azure Firewall to create defense-in-depth architecture protecting patient information.",
+        "Mentored junior data engineers on healthcare data modeling best practices, Azure service implementation patterns, and regulatory compliance requirements, establishing consistent development standards across the team.",
+        "Collaborated with data scientists to design feature engineering processes in Databricks that supported machine learning models for predicting patient readmission risks and identifying potential drug interactions.",
+        "Documented technical architecture, data models, and operational procedures to support knowledge sharing and maintain continuity of operations, creating comprehensive runbooks for troubleshooting common issues."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Databricks",
+        "Azure Data Lake Storage Gen2",
+        "Azure SQL Database",
+        "Azure API Management",
+        "Azure Functions",
+        "Azure DevOps",
+        "Terraform",
+        "Azure Key Vault",
+        "Azure Monitor",
+        "Azure Purview",
+        "Azure AD",
+        "Azure Firewall",
+        "Private Endpoints",
+        "Great Expectations",
+        "Python",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "",
+      "responsibilities": [
+        "Constructed banking data warehouse solution using Azure Synapse Analytics and dedicated SQL pools, implementing dimensional modeling techniques to support complex financial reporting and regulatory compliance requirements.",
+        "Developed ETL processes with Azure Data Factory to ingest transaction data from core banking systems, transforming and loading into structured data models that supported risk analysis and fraud detection initiatives.",
+        "Implemented Lakehouse architecture with Azure Databricks and ADLS Gen2 to process both structured and unstructured financial data, enabling advanced analytics for customer segmentation and personalized product recommendations.",
+        "Created automated data lineage tracking using Azure Purview to document data flow from source systems to final reports, helping auditors verify data transformations and ensuring compliance with banking regulations.",
+        "Built real-time fraud detection system using Azure Stream Analytics and Databricks, processing millions of transactions per day and identifying suspicious patterns with machine learning models for immediate intervention.",
+        "Designed secure data access framework using Azure AD integration and RBAC to enforce least-privilege access to sensitive financial data, implementing data masking techniques to protect personally identifiable information.",
+        "Optimized Azure SQL database performance through query tuning, index optimization, and partitioning strategies, reducing average report generation time from 25 minutes to under 8 minutes for critical financial statements.",
+        "Established CI/CD pipeline with Azure DevOps to automate testing and deployment of data solutions, implementing automated regression tests to validate data quality and consistency across releases.",
+        "Implemented infrastructure as code with Bicep to define and deploy Azure resources for data platforms, creating parameterized templates that enabled rapid provisioning of new environments for development teams.",
+        "Configured comprehensive monitoring with Azure Monitor to track pipeline execution times, data quality metrics, and system health, setting up automated alerts that triggered incident response procedures for critical failures.",
+        "Developed automated data validation framework using custom Azure Functions to verify data completeness, accuracy, and consistency against business rules, generating detailed reports for data stewards to review and remediate issues.",
+        "Integrated Azure Logic Apps with external banking APIs to automate data exchange with regulatory bodies and financial partners, implementing retry logic and error handling to ensure reliable data transmission.",
+        "Implemented backup and recovery procedures for critical banking data assets using Azure SQL built-in capabilities and Data Lake Storage snapshots, establishing recovery point objectives that met business continuity requirements.",
+        "Created data catalog using Azure Data Catalog to document and organize banking data assets, implementing business glossary terms and classifications that improved data discovery and understanding for analysts."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Databricks",
+        "Azure Data Lake Storage Gen2",
+        "Azure SQL Database",
+        "Azure Stream Analytics",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "Bicep",
+        "Azure Purview",
+        "Azure AD",
+        "Azure Monitor",
+        "Azure Data Catalog",
+        "Python",
+        "SQL",
+        "Scala"
+      ]
+    },
+    {
+      "role": "Big Data Engineer/Hadoop Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "",
+      "responsibilities": [
+        "Implemented big data processing platform using Azure Databricks to analyze telematics data from connected vehicles, creating data pipelines that processed billions of sensor readings monthly to identify performance patterns.",
+        "Developed predictive maintenance models using Spark MLlib in Databricks to forecast component failures before they occurred, enabling proactive service scheduling that reduced warranty costs by 18% across the vehicle fleet.",
+        "Designed data lake architecture with ADLS Gen2 to store raw and processed vehicle data, implementing hierarchical namespace and folder structures that organized data by vehicle model, generation, and system components.",
+        "Created real-time dashboarding solution with Azure Stream Analytics and Power BI to monitor manufacturing quality metrics, enabling plant managers to identify production issues and implement corrective actions within minutes.",
+        "Optimized Spark jobs in Databricks through proper partitioning, broadcast joins, and caching strategies, reducing processing time for vehicle performance analytics from 4 hours to under 45 minutes for daily batch jobs.",
+        "Implemented data quality checks using custom Scala functions in Databricks notebooks to validate sensor readings against expected ranges, flagging anomalies for further investigation by engineering teams.",
+        "Established automated data ingestion pipelines using Azure Data Factory to pull data from vehicle telematics systems, manufacturing databases, and quality control applications into a centralized data lake.",
+        "Collaborated with automotive engineers to translate technical requirements into data processing workflows, ensuring that analytical solutions provided actionable insights for vehicle design and manufacturing improvements.",
+        "Created data model for vehicle component relationships using graph database concepts in Azure Cosmos DB, enabling complex queries to identify parts affected by quality issues across multiple vehicle models.",
+        "Implemented version control for Databricks notebooks and data processing scripts using Git integration, establishing proper branching strategies that supported parallel development and code review processes.",
+        "Configured monitoring and alerting for data pipelines using Azure Monitor to track job execution, resource utilization, and error rates, enabling rapid response to processing failures or performance degradation.",
+        "Documented data schemas, processing logic, and analytical methodologies to support knowledge sharing across the organization, creating comprehensive guides for new team members joining the automotive analytics group."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Azure Data Lake Storage Gen2",
+        "Azure Stream Analytics",
+        "Azure Data Factory",
+        "Azure Cosmos DB",
+        "Power BI",
+        "Azure Monitor",
+        "Git",
+        "Spark",
+        "Scala",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "",
+      "responsibilities": [
+        "Designed and implemented relational database schemas for financial consulting applications, creating normalized table structures that ensured data integrity and supported complex reporting requirements for banking clients.",
+        "Developed stored procedures and functions in T-SQL to encapsulate business logic, reducing application code complexity and improving performance by executing calculations closer to the data source.",
+        "Optimized SQL queries through index analysis, execution plan review, and query rewriting techniques, reducing average report generation time from 12 minutes to under 3 minutes for critical client deliverables.",
+        "Created ETL processes using SQL Server Integration Services (SSIS) to extract data from client systems, transform according to business requirements, and load into data warehouses supporting analytical applications.",
+        "Implemented database security measures including row-level security, encryption, and access controls to protect sensitive financial data, ensuring compliance with industry regulations and client security requirements.",
+        "Designed automated data validation routines using T-SQL scripts to verify data quality and consistency across integrated systems, generating exception reports for data stewards to review and remediate.",
+        "Collaborated with application developers to design efficient data access patterns, creating appropriate database objects and optimizing queries to support application performance requirements.",
+        "Established backup and recovery procedures for critical databases using SQL Server native tools, implementing point-in-time restore capabilities that met client service level agreements for data availability.",
+        "Documented database designs, data models, and data dictionaries to support application development and maintenance, creating comprehensive documentation that facilitated knowledge transfer within the team.",
+        "Participated in database code reviews to ensure adherence to best practices and coding standards, providing constructive feedback to team members and mentoring junior developers in SQL programming techniques."
+      ],
+      "environment": [
+        "SQL Server",
+        "T-SQL",
+        "SSIS",
+        "SSRS",
+        "Azure SQL Database",
+        "Power BI",
+        "Git",
+        "Visual Studio"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

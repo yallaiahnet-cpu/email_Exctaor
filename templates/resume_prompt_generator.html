@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.NET Resume Prompt Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 24px;
+        }
+        
+        h1 {
+            color: #00c9ff;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 16px;
+            font-size: 1.1em;
+        }
+
+        /* Sticky top toolbar for quick access buttons */
+        .top-toolbar {
+            position: sticky;
+            top: 0;
+            z-index: 20;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(6px);
+            display: flex;
+            justify-content: flex-end;
+            gap: 8px;
+            padding: 8px 0 12px 0;
+            margin-bottom: 12px;
+            border-bottom: 1px solid #e5f7ff;
+        }
+
+        /* Grid layout for clients to reduce vertical scroll */
+        .clients-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+        
+        .client-section {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 10px 12px;
+            margin-bottom: 0;
+            border-left: 3px solid #00c9ff;
+            transition: all 0.3s ease;
+        }
+        
+        .client-section:hover {
+            box-shadow: 0 3px 10px rgba(0, 201, 255, 0.15);
+            transform: translateX(2px);
+        }
+        
+        .client-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .client-name {
+            font-size: 0.95em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .client-details {
+            font-size: 0.7em;
+            color: #666;
+            margin-bottom: 6px;
+        }
+        
+        .cloud-selector {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .cloud-option {
+            flex: 1;
+            min-width: 100px;
+        }
+        
+        .cloud-option input[type="radio"] {
+            display: none;
+        }
+        
+        .cloud-option label {
+            display: block;
+            padding: 8px 12px;
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            cursor: pointer;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+        }
+        
+        .cloud-option input[type="radio"]:checked + label {
+            background: #00c9ff;
+            color: white;
+            border-color: #00c9ff;
+            transform: scale(1.05);
+        }
+        
+        .cloud-option label:hover {
+            border-color: #00c9ff;
+            transform: translateY(-2px);
+        }
+        
+        .tech-stack-suggestions {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .tech-suggestion-btn {
+            padding: 6px 14px;
+            background: #f0f8ff;
+            border: 2px solid #00c9ff;
+            border-radius: 6px;
+            cursor: pointer;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.85em;
+            color: #00c9ff;
+            transition: all 0.3s ease;
+            flex: 1;
+            min-width: 100px;
+        }
+        
+        .tech-suggestion-btn:hover {
+            background: #00c9ff;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 3px 8px rgba(0, 201, 255, 0.3);
+        }
+        
+        .tech-suggestion-btn:active {
+            transform: translateY(0);
+        }
+        
+        .generate-btn {
+            display: block;
+            width: 100%;
+            max-width: 400px;
+            margin: 40px auto;
+            padding: 18px;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.2em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 201, 255, 0.4);
+        }
+        
+        .generate-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 201, 255, 0.6);
+        }
+        
+        .generate-btn:active {
+            transform: translateY(0);
+        }
+        
+        .output-section {
+            margin-top: 40px;
+            display: none;
+        }
+        
+        .output-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .output-title {
+            font-size: 1.8em;
+            color: #00c9ff;
+        }
+        
+        .copy-btn {
+            padding: 12px 30px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .copy-btn:hover {
+            background: #218838;
+            transform: scale(1.05);
+        }
+        
+        .prompt-output {
+            background: #f8f9fa;
+            border: 2px solid #00c9ff;
+            border-radius: 12px;
+            padding: 30px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95em;
+            line-height: 1.8;
+            white-space: pre-wrap;
+            max-height: 600px;
+            overflow-y: auto;
+            width: 100%;
+            resize: vertical;
+            min-height: 400px;
+        }
+        
+        .prompt-output:focus {
+            outline: none;
+            border-color: #00c9ff;
+            box-shadow: 0 0 10px rgba(0, 201, 255, 0.3);
+        }
+        
+        .success-message {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            display: none;
+            z-index: 1000;
+            animation: slideIn 0.3s ease;
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateX(400px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+        
+        .warning {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            color: #856404;
+        }
+        
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -24px -24px 20px -24px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <h1>🚀 .NET Resume Prompt Generator</h1>
+        <p class="subtitle">Select cloud platform for each client to generate your customized .NET resume prompt</p>
+        <div class="top-toolbar">
+            <button class="generate-btn" style="max-width: 220px; margin: 0; padding: 12px 16px;" onclick="generatePrompt()">✨ Generate Prompt</button>
+            <button class="copy-btn" style="padding: 12px 16px;" onclick="copyPrompt()">📄 Copy</button>
+        </div>
+        
+        <div class="warning">
+            ℹ️ <strong>Note:</strong> Cloud platform selection is optional. You can generate the prompt with or without selecting cloud platforms.
+        </div>
+        
+        <div class="clients-grid">
+        <div class="client-section">
+            <div class="client-name" style="margin-bottom: 8px;">Client 1: State of TX</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: | Domain: State Government, Healthcare | Duration: Dec 2023 - Present</div>
+            <div class="cloud-selector">
+                <div class="cloud-option">
+                    <input type="radio" name="client1" id="client1-aws" value="AWS">
+                    <label for="client1-aws">☁️ AWS</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client1" id="client1-azure" value="Azure">
+                    <label for="client1-azure">☁️ Azure</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client1" id="client1-gcp" value="GCP">
+                    <label for="client1-gcp">☁️ GCP</label>
+                </div>
+            </div>
+            <div style="margin-top: 10px;">
+                <div class="tech-stack-suggestions">
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client1-tech-stack', 'React.js')">1. React.js</button>
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client1-tech-stack', 'Angular')">2. Angular</button>
+                </div>
+                <input type="text" id="client1-tech-stack" placeholder="Enter custom tech stack (e.g., React.js, Angular)" style="width: 100%; padding: 8px; border: 2px solid #00c9ff; border-radius: 6px; font-size: 0.9em;">
+            </div>
+        </div>
+        
+        <div class="client-section">
+            <div class="client-name" style="margin-bottom: 8px;">Client 2: Maxim Healthcare</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: | Domain: Healthcare | Duration: Jul 2021 - Nov 2023</div>
+            <div class="cloud-selector">
+                <div class="cloud-option">
+                    <input type="radio" name="client2" id="client2-aws" value="AWS">
+                    <label for="client2-aws">☁️ AWS</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client2" id="client2-azure" value="Azure">
+                    <label for="client2-azure">☁️ Azure</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client2" id="client2-gcp" value="GCP">
+                    <label for="client2-gcp">☁️ GCP</label>
+                </div>
+            </div>
+            <div style="margin-top: 10px;">
+                <div class="tech-stack-suggestions">
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client2-tech-stack', 'React.js')">1. React.js</button>
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client2-tech-stack', 'Angular')">2. Angular</button>
+                </div>
+                <input type="text" id="client2-tech-stack" placeholder="Enter custom tech stack (e.g., React.js, Angular)" style="width: 100%; padding: 8px; border: 2px solid #00c9ff; border-radius: 6px; font-size: 0.9em;">
+            </div>
+        </div>
+        
+        <div class="client-section">
+            <div class="client-name" style="margin-bottom: 8px;">Client 3: Wells Fargo</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: | Domain: Banking Finance | Duration: Feb 2019 - Jun 2021</div>
+            <div class="cloud-selector">
+                <div class="cloud-option">
+                    <input type="radio" name="client3" id="client3-aws" value="AWS">
+                    <label for="client3-aws">☁️ AWS</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client3" id="client3-azure" value="Azure">
+                    <label for="client3-azure">☁️ Azure</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client3" id="client3-gcp" value="GCP">
+                    <label for="client3-gcp">☁️ GCP</label>
+                </div>
+            </div>
+            <div style="margin-top: 10px;">
+                <div class="tech-stack-suggestions">
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client3-tech-stack', 'React.js')">1. React.js</button>
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client3-tech-stack', 'Angular')">2. Angular</button>
+                </div>
+                <input type="text" id="client3-tech-stack" placeholder="Enter custom tech stack (e.g., React.js, Angular)" style="width: 100%; padding: 8px; border: 2px solid #00c9ff; border-radius: 6px; font-size: 0.9em;">
+            </div>
+        </div>
+        
+        <div class="client-section">
+            <div class="client-name" style="margin-bottom: 8px;">Client 4: AT&T</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: | Domain: Telecommunications | Duration: Mar 2017 - Jan 2019</div>
+            <div class="cloud-selector">
+                <div class="cloud-option">
+                    <input type="radio" name="client4" id="client4-aws" value="AWS">
+                    <label for="client4-aws">☁️ AWS</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client4" id="client4-azure" value="Azure">
+                    <label for="client4-azure">☁️ Azure</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client4" id="client4-gcp" value="GCP">
+                    <label for="client4-gcp">☁️ GCP</label>
+                </div>
+            </div>
+            <div style="margin-top: 10px;">
+                <div class="tech-stack-suggestions">
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client4-tech-stack', 'React.js')">1. React.js</button>
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client4-tech-stack', 'Angular')">2. Angular</button>
+                </div>
+                <input type="text" id="client4-tech-stack" placeholder="Enter custom tech stack (e.g., React.js, Angular)" style="width: 100%; padding: 8px; border: 2px solid #00c9ff; border-radius: 6px; font-size: 0.9em;">
+            </div>
+        </div>
+        
+        <div class="client-section">
+            <div class="client-name" style="margin-bottom: 8px;">Client 5: IndiGo Airlines</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: | Domain: Airlines | Duration: Mar 2015 - Feb 2017</div>
+            <div class="cloud-selector">
+                <div class="cloud-option">
+                    <input type="radio" name="client5" id="client5-aws" value="AWS">
+                    <label for="client5-aws">☁️ AWS</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client5" id="client5-azure" value="Azure">
+                    <label for="client5-azure">☁️ Azure</label>
+                </div>
+                <div class="cloud-option">
+                    <input type="radio" name="client5" id="client5-gcp" value="GCP">
+                    <label for="client5-gcp">☁️ GCP</label>
+                </div>
+            </div>
+            <div style="margin-top: 10px;">
+                <div class="tech-stack-suggestions">
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client5-tech-stack', 'React.js')">1. React.js</button>
+                    <button type="button" class="tech-suggestion-btn" onclick="setTechStack('client5-tech-stack', 'Angular')">2. Angular</button>
+                </div>
+                <input type="text" id="client5-tech-stack" placeholder="Enter custom tech stack (e.g., React.js, Angular)" style="width: 100%; padding: 8px; border: 2px solid #00c9ff; border-radius: 6px; font-size: 0.9em;">
+            </div>
+        </div>
+        </div>
+        
+        <div class="output-section" id="outputSection">
+            <div class="output-header">
+                <h2 class="output-title">📋 Generated Prompt</h2>
+                <button class="copy-btn" onclick="copyPrompt()">📄 Copy to Clipboard</button>
+            </div>
+            <textarea class="prompt-output" id="promptOutput"></textarea>
+        </div>
+    </div>
+    
+    <div class="success-message" id="successMessage">✅ Copied to clipboard!</div>
+    
+    <script>
+        function generatePrompt() {
+            const client1 = document.querySelector('input[name="client1"]:checked');
+            const client2 = document.querySelector('input[name="client2"]:checked');
+            const client3 = document.querySelector('input[name="client3"]:checked');
+            const client4 = document.querySelector('input[name="client4"]:checked');
+            const client5 = document.querySelector('input[name="client5"]:checked');
+            
+            // Get tech stack inputs
+            const client1TechStack = document.getElementById('client1-tech-stack')?.value.trim() || '';
+            const client2TechStack = document.getElementById('client2-tech-stack')?.value.trim() || '';
+            const client3TechStack = document.getElementById('client3-tech-stack')?.value.trim() || '';
+            const client4TechStack = document.getElementById('client4-tech-stack')?.value.trim() || '';
+            const client5TechStack = document.getElementById('client5-tech-stack')?.value.trim() || '';
+            
+            // Get cloud platform values (optional - use empty string if not selected)
+            const client1Cloud = client1 ? client1.value : '';
+            const client2Cloud = client2 ? client2.value : '';
+            const client3Cloud = client3 ? client3.value : '';
+            const client4Cloud = client4 ? client4.value : '';
+            const client5Cloud = client5 ? client5.value : '';
+            
+            const prompt = `
+
+ stricly genarte the json artifact "COLORFUL METADATA JSON "" Respond with visual JSON metadata" "Visual JSON format please'"
+
+            1
+
+            above is extracted skills list from JD, so genarte below json  format by follwing all rules and instructions.
+
+            You are an ATS resume optimizer trained to generate resumes that score 100% on applicant tracking systems. Your task is to return ONLY optimized JSON output — no comments, no explanations, and no extra text.
+
+INSTRUCTIONS:
+
+- Output must be a valid JSON resume ONLY. Do not include markdown, formatting hints, or explanations.
+
+- Optimize for keyword density, ATS scoring, and semantic alignment.
+
+⚠️ CRITICAL: MANDATORY SKILL REPETITION RULE - HIGHEST PRIORITY ⚠️
+You are an expert ATS resume optimizer. For every JD, skills are extracted in YAML format with:
+- mandatory_skills_tools_services
+- mandatory_skills_tools_services_that_are_not_explicitly_mentioned
+
+STRICT REQUIREMENT - NO EXCEPTIONS:
+1. Every skill listed in BOTH sections above MUST appear **5-8 times** throughout the resume (EXCEPT in Technical Skills and Environment sections where they appear once)
+2. Embed these skills across ALL sections:
+   - Professional Summary (integrate naturally in bullet points - repeat 5-8 times)
+   - Technical Skills section (list explicitly ONCE - do not repeat here)
+   - Experience/Projects (mention in responsibilities - repeat 5-8 times)
+   - Responsibilities (use skills contextually in bullet points - repeat 5-8 times)
+   - Environment/Tools (list all relevant skills ONCE - do not repeat here)
+3. Do NOT remove or weaken skills — rephrase and reuse them contextually
+4. Sync skills with existing project role and company domain to ensure authenticity
+5. Make sure if client/recruiter sees the resume, they can easily pick out these mandatory skills
+6. Each mandatory skill must appear in multiple contexts (not just listed once)
+
+EXECUTION CHECKLIST:
+✓ Every mandatory skill appears 5-8 times minimum (excluding Technical Skills and Environment)
+✓ Skills integrated in Professional Summary bullets (5-8 times)
+✓ Skills listed in Technical Skills section (once only)
+✓ Skills mentioned in Experience responsibilities (5-8 times)
+✓ Skills included in Environment/Tools sections (once only)
+✓ Skills used contextually, not just listed
+
+REQUIREMENTS: Professional Resume Builder System
+
+You are a professional resume builder. Create a fully customized, job-description-specific, ATS-optimized resume following these exact rules.
+
+CRITICAL: GLOBAL VERB UNIQUENESS RULE - HIGHEST PRIORITY
+
+    ⚠️ ABSOLUTE REQUIREMENT: NO VERB REPETITION ACROSS ENTIRE RESUME ⚠️
+
+    • Each action verb MUST be used only ONCE across ALL client experiences and summary sections
+
+    • use the defferent action verbs accorss the the bullet points .
+
+    . since i am indian engineer so USE very simple english words  not use any complex words like story telling .
+
+    SUMMARY
+
+SECTION RULES
+
+PERSONAL INFO
+
+  • Change the title according to JD best suitable title that is perfectly aligned with JD
+  . do not fill the the location of the candidate in the personal info section.
+  .DO NOT KEEP THE ROLE NAME AS Arc
+
+SUMMARY
+
+  • Create exactly 18 bullet points with character length between 230-280 characters per bullet
+
+  • Start with first bullet point: "I am having 10 years of experience in [specialization]" in a human way
+
+  • Based on my experience in the State Government, Healthcare, Banking Finance, Telecommunications, Airlines domains, integrate JD mentioned keywords with my existing project domains
+
+  • Use 18 completely unique verbs that are NOT used in any client experience section, start the bullt point with humanized action verbs.
+
+  • Vary bullet structures: 60% use format [Technology/Tool] + [Problem] + [Solution] + [Impact], 40% use alternative narrative structures
+
+TECHNICAL SKILLS
+
+  • Give technical skills section with 10 to 12 sections as mentioned in JSON way
+
+PROFESSIONAL EXPERIENCE - GLOBAL RULES (APPLY TO ALL CLIENTS)
+
+  • Do not change roles, keep original roles
+
+  • Each bullet point MUST be between 230-280 characters (includes spaces and punctuation)
+
+  • Ensure time compatibility - only include skills/JD keywords used during actual project timeline
+
+  • Vary sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+  • Avoid generic corporate buzzwords, filler phrases, and AI-like statements
+
+  • Focus on concrete, human-readable actions and outcomes
+
+  • Add personal perspective, trial-and-error moments, small emotions to make bullets relatable
+
+  • Include mundane but authentic developer tasks and real project challenges
+
+  • DO NOT mention multi-cloud - integrate JD tools with existing single cloud only
+  strict rule is i want the bullet points under the every client like 
+  ====================================================================
+  ==> bulletpoint structure should be like this: planning phase, implementation phase, deployment phase, monitoring phase, optimization phase, troubleshooting phase, etc.
+
+CLIENT 1 (Senior-most role - most recent) - State of TX
+. change the role according to the jd best suitable role that is perfectly aligned with JD
+• Write exactly 16 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+• Domain: State Government, Healthcare - integrate JD keywords with Healthcare regulations
+. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
+${client1Cloud ? `• Cloud: Use only ${client1Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
+${client1TechStack ? `• Tech stack: ${client1TechStack}. Integrate JD keywords with this tech stack only` : ''}
+
+• Bullet structure: 75% use format [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact], 25% use varied narrative structures
+
+• Show domain-specific challenges: [Domain] regulations, compliance, risk management
+
+CLIENT 2 (Mid-senior level) - Maxim Healthcare
+.change the role according to the jd best suitable role that is perfectly aligned with JD
+• Write exactly 14 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+• Domain: Healthcare - integrate JD keywords with Healthcare regulations (HIPAA)
+.. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
+${client2Cloud ? `• Cloud: Use only ${client2Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
+${client2TechStack ? `• Tech stack: ${client2TechStack}. Integrate JD keywords with this tech stack only` : ''}
+
+• Bullet structure: 70% use format [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact], 30% use varied narrative structures
+
+• Show domain-specific challenges: [Domain] compliance, data security, regulations
+
+CLIENT 3 (Moderate responsibility level) - Wells Fargo
+.change the role according to the jd best suitable role that is perfectly aligned with JD
+• Write exactly 12 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+.. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
+
+• Domain: Banking Finance - integrate JD keywords with Banking regulations (PCI-DSS)
+${client3Cloud ? `• Cloud: Use only ${client3Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
+${client3TechStack ? `• Tech stack: ${client3TechStack}. Integrate JD keywords with this tech stack only` : ''}
+
+• Bullet structure: 65% use format [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact], 35% use varied narrative structures
+
+• Show domain-specific challenges: [Domain] compliance, regulations, security
+
+CLIENT 4 (Entry-to-mid level) - AT&T
+.change the role according to the jd best suitable role that is perfectly aligned with JD
+• Write exactly 10 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+• Domain: Telecommunications - integrate JD keywords with Telecommunications regulations
+.. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
+
+${client4Cloud ? `• Cloud: Use only ${client4Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
+${client4TechStack ? `• Tech stack: ${client4TechStack}. Integrate JD keywords with this tech stack only` : ''}
+
+• Bullet structure: 60% use format [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact], 40% use varied narrative structures
+
+• Show domain-specific challenges: [Domain] compliance, security, regulations
+
+CLIENT 5 (Entry-level) - IndiGo Airlines
+.change the role according to the jd best suitable role that is perfectly aligned with JD
+• Write exactly 8 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+
+• Domain: Airlines - integrate JD keywords with Airlines domain requirements
+. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
+
+${client5Cloud ? `• Cloud: Use only ${client5Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
+${client5TechStack ? `• Tech stack: ${client5TechStack}. Integrate JD keywords with this tech stack only` : ''}
+
+• Bullet structure: 55% use format [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact], 45% use varied narrative structures with learning-focused language
+
+• Show learning-focused progression and entry-level contributions
+
+CERTIFICATIONS
+
+  • Keep existing certifications from AI analysis unchanged - do not add new certifications
+
+TOOL & TECHNOLOGY MAPPING RULES
+
+Timeline Compatibility:
+
+    • DO NOT use technologies before their actual release/adoption dates
+
+    • Research and verify technology timelines before assignment
+
+    • Match tools to project years realistically
+
+    • Avoid futuristic technology mentions for historical projects
+
+    • Consider mainstream adoption dates, not just initial release
+
+Technology Evolution Guidelines:
+
+    • Early Career (2010-2015): Traditional enterprise tools, on-premise solutions, monolithic architectures
+
+    • Mid Career (2015-2020): Cloud migration, containerization, microservices adoption, DevOps emergence
+
+    • Recent Projects (2020+): Cloud-native, serverless, modern data stack, advanced orchestration
+
+    • Always ensure compliance for relevant projects: HIPAA, GDPR, Regulatory: FDA, HIPAA, GDPR, CHIP
+
+Prohibited Terms:
+
+    • NO generic buzzwords without context
+
+  
+
+Enterprise Focus:
+
+    • Real-time processing systems
+
+    • Large-scale data pipelines
+
+    • High-availability architectures
+
+    • Performance optimization
+
+    • Scalability solutions
+
+    • Enterprise integrations
+
+HUMAN-TONE & AUTHENTICITY RULES:
+
+    • Include authentic developer experiences: debugging sessions, code reviews, team meetings, troubleshooting
+
+    • Add personal perspective and trial-and-error moments: "Initially struggled with", "Had to learn", "Worked closely with team"
+
+    • Show realistic progression and mundane but authentic tasks
+
+    • Focus on concrete, human-readable actions rather than generic achievements
+
+    • Include small emotions and relatable experiences to make bullets authentic
+
+strictly do not use below robotic verbs in the output:
+
+    "Engineered","Championed ","led","Investigated",proven track record,expert,advanced,cutting-edge,robust,key player,instrumental,mastery,well-versed,results-driven,detail-oriented,team player,strategic,exceptional,outstanding,value-added,game-changer,world-class,industry-leading,mission-critical,holistiC,RBIDDEN WORDS (DO NOT USE UNDER ANY CIRCUMSTANCES):
+
+                    "Adept", "Self-starter", "Championed", "Specialized",'spearheaded', "Proven track record", "Expert", "Advanced", 
+
+                    "Cutting-edge", "Leveraged", "Robust", "Key player", "Instrumental", "Mastery", "Well-versed",
+
+                     "Results-driven", "Detail-oriented", "Team player", "Strategic", "Exceptional", "Outstanding", 
+
+                     "Value-added", "Game-changer", "World-class", "Industry-leading", "Mission-critical", "Holistic"..........ETC  USE HUMAN TONE VERBS.
+
+EXECUTION CHECKLIST:
+
+    • Exact bullet count per section as specified (Summary: 18, Client 1: 16, Client 2: 14, Client 3: 12, Client 4: 10, Client 5: 8)
+
+    • Character count between 230-280 for EVERY bullet point
+
+    • ZERO verb repetition across all sections - each verb used only once in entire resume
+
+    • Varying bullet structures by client level (75%→55% format ratio, decreasing with seniority)
+
+    • Don't add fake certificates unless specifically requested
+
+    • Technology timeline compatibility verified
+
+    • JD keywords incorporated throughout
+
+    • Career progression shown through verb choice and responsibility level
+
+    • Enterprise-level project focus maintained
+
+    • Strictly do not include any numeric percentages (%) in the output  like 40% ,35% ,25% ,70% ,80% ,90% ,100% etc.
+
+{
+"personal_info": {
+"name": "Onteru",
+"title": "",
+"email": "onteru.sfdc@gmail.com",
+"phone": "7372310791",
+"location": "",
+"linkedin": ""
+},
+"professional_summary": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]",
+"[Bullet Point 9]",
+"[Bullet Point 10]",
+"[Bullet Point 11]",
+"[Bullet Point 12]",
+"[Bullet Point 13]",
+"[Bullet Point 14]",
+"[Bullet Point 15]",
+"[Bullet Point 16]",
+"[Bullet Point 17]",
+"[Bullet Point 18]"
+],
+"technical_skills": {
+"programming_languages": [],
+"frameworks": [],
+"databases": [],
+"cloud_technologies": [],
+"ui_technologies": [],
+"tools": [],
+"version_control": [],
+"testing_tools": [],
+"other_skills": []
+},
+"experience": [
+{
+"company": "State of TX",
+"location": "Dallas, TX",
+"role": "",
+"start_date": "Dec 2023",
+"end_date": "Present",
+"project": [
+{
+"name": "MedConnect Patient Records System",
+"project_summary": "",
+"responsibilities": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]",
+"[Bullet Point 9]",
+"[Bullet Point 10]",
+"[Bullet Point 11]",
+"[Bullet Point 12]",
+"[Bullet Point 13]",
+"[Bullet Point 14]",
+"[Bullet Point 15]",
+"[Bullet Point 16]"
+],
+"environment": [
+"[Technology stack will be populated from JD]"
+]
+}
+]
+},
+{
+"company": "Maxim Healthcare",
+"location": "Seattle, WA",
+"role": "",
+"start_date": "Jul 2021",
+"end_date": "Nov 2023",
+"project": [
+{
+"name": "CareBridge Clinical Workforce Portal",
+"project_summary": "",
+"responsibilities": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]",
+"[Bullet Point 9]",
+"[Bullet Point 10]",
+"[Bullet Point 11]",
+"[Bullet Point 12]",
+"[Bullet Point 13]",
+"[Bullet Point 14]"
+],
+"environment": [
+"[Technology stack will be populated from JD]"
+]
+}
+]
+},
+{
+"company": "Wells Fargo",
+"location": "San Francisco, CA",
+"role": "",
+"start_date": "Feb 2019",
+"end_date": "Jun 2021",
+"project": [
+{
+"name": "SecureLoan Mortgage Processing System",
+"project_summary": "",
+"responsibilities": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]",
+"[Bullet Point 9]",
+"[Bullet Point 10]",
+"[Bullet Point 11]",
+"[Bullet Point 12]"
+],
+"environment": [
+"[Technology stack will be populated from JD]"
+]
+}
+]
+},
+{
+"company": "AT&T",
+"location": "Dallas, TX",
+"role": "",
+"start_date": "Mar 2017",
+"end_date": "Jan 2019",
+"project": [
+{
+"name": "NetFlow Customer Service & Billing Platform",
+"project_summary": "",
+"responsibilities": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]",
+"[Bullet Point 9]",
+"[Bullet Point 10]"
+],
+"environment": [
+"[Technology stack will be populated from JD]"
+]
+}
+]
+},
+{
+"company": "IndiGo Airlines",
+"location": "Bengaluru, India",
+"role": "",
+"start_date": "Mar 2015",
+"end_date": "Feb 2017",
+"project": [
+{
+"name": "AeroOps Flight & Crew Management System",
+"project_summary": "",
+"responsibilities": [
+"[Bullet Point 1]",
+"[Bullet Point 2]",
+"[Bullet Point 3]",
+"[Bullet Point 4]",
+"[Bullet Point 5]",
+"[Bullet Point 6]",
+"[Bullet Point 7]",
+"[Bullet Point 8]"
+],
+"environment": [
+"[Technology stack will be populated from JD]"
+]
+}
+]
+}
+],
+"education": [
+{
+"degree": "Bachelor of Computer Science",
+"institution": "Vignan University",
+"location": "Hyderabad, India",
+"year": "2015"
+}
+],
+"certifications": [
+""
+]
+}
+
+STRICT VERB-TENSE RULE PROMPT
+
+Use these rules when generating resume bullet points:
+
+1. Current Project (latest role)
+Use a mix of present tense and past tense verbs
+Do NOT use present-continuous (-ing) verbs.
+
+2. Completed Projects (previous roles)
+Use only past tense verbs
+(e.g., designed, built, optimized, implemented).
+Do NOT use present tense or -ing verbs.
+
+3. Global Forbidden Rule
+Absolutely NO "-ing" verbs anywhere.
+(No designing, developing, building, managing, etc.)
+
+strict rule : use defferent action verbs accorss the the bullet points for the each section of the resume do not reapeat the same verb accorss the the bullet points.
+
+strict rule: use past tense verbs for complteted projects and use the present continous verbs for the curreent project defferent verbs accorss tha ll the resumne 
+
+   in reaqired skills mention offently in bullt points  ,RESUME JSON TEMPLATE MAKE TECHNCAL SKILLS CATAGORY WITH 10 TO 12 SECTIONS LIKE ABOVE MENTIONED : All skills in "mandatory","commonly_expected","commonly_expected_inferred": must be each invdividual skill repeated 10–12 times across Professional Summary, Responsibilities, and Environment sections.
+
+Non-mandatory but relevant skills appear 2–4 times. 
+
+  `;
+            
+            document.getElementById('promptOutput').value = prompt;
+            document.getElementById('outputSection').style.display = 'block';
+            document.getElementById('outputSection').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function copyPrompt() {
+            const promptText = document.getElementById('promptOutput').value;
+            navigator.clipboard.writeText(promptText).then(() => {
+                const successMsg = document.getElementById('successMessage');
+                successMsg.style.display = 'block';
+                setTimeout(() => {
+                    successMsg.style.display = 'none';
+                }, 3000);
+            });
+        }
+        
+        function setTechStack(inputId, techStack) {
+            document.getElementById(inputId).value = techStack;
+        }
+        
+    </script>
+</body>
+</html>
+

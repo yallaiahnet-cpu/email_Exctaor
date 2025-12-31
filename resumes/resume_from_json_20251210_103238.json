@@ -1,0 +1,286 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Power Platform & Automation Architect",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "Forged a ten-year career path building enterprise software that streamlines operations across Hospitality, Healthcare, and Government, now focused on legal process automation.",
+    "Orchestrated the integration of Microsoft Power Automate and Azure Cognitive Services to modernize legacy legal workflows, which increased process speed and reduced manual entry errors.",
+    "Constructed interactive Power BI dashboards with complex DAX measures that visualized key legal performance indicators, enabling data-driven strategy decisions by leadership teams.",
+    "Pioneered the use of Microsoft Copilot within a legal technology context to assist teams in document summarization and contract analysis, integrating these insights into automated flows.",
+    "Devised custom Power Apps canvas applications that replaced cumbersome paper-based legal intake forms, creating a central digital hub for all case initiation and tracking.",
+    "Guided the technical design of Power Virtual Agents to handle common internal legal inquiries, reducing routine request tickets and freeing specialist time for complex cases.",
+    "Framed a comprehensive architecture for secure data flow between SharePoint Online and Power Platform Dataverse, ensuring sensitive legal documents adhered to strict access controls.",
+    "Assembled a library of reusable Power Automate templates for common legal operations tasks, standardizing automation practices and accelerating new project kick-offs across departments.",
+    "Operationalized a suite of automated legal compliance checks using Power Automate Desktop, which systematically scanned documentation against GDPR and internal policy requirements.",
+    "Established a governance model for managing custom connectors in Power Automate, which improved deployment reliability and simplified maintenance for integrations with external legal databases.",
+    "Charted a multi-phase digital transformation roadmap for the legal operations team, prioritizing automation initiatives based on potential impact and implementation complexity.",
+    "Validated all automated workflows through rigorous User Acceptance Testing with legal staff, iterating on feedback to ensure the tools matched their real-world daily processes.",
+    "Synthesized data from disparate sources including Microsoft Teams, SharePoint, and SQL databases into unified Power BI reports that gave a holistic view of legal department metrics.",
+    "Mastered the integration of AI Builder models into Power Automate flows to extract and classify data from scanned legal documents, cutting down manual data extraction time.",
+    "Facilitated regular knowledge-sharing sessions to empower legal operations staff with self-service Power BI skills, fostering a culture of analytics and continuous improvement.",
+    "Cultivated strong collaborative relationships with legal subject matter experts to translate complex regulatory requirements into clear, actionable technical specifications for flows.",
+    "Authored detailed technical documentation for all deployed automations and dashboards, creating a sustainable knowledge base for ongoing support and future enhancements.",
+    "Reviewed existing manual legal processes to identify prime candidates for automation, presenting cost-benefit analyses that secured stakeholder buy-in for digital transformation projects."
+  ],
+  "technical_skills": {
+    "Power Platform & Automation": [
+      "Microsoft Power Automate",
+      "Power Automate Desktop",
+      "Microsoft Power Apps (Canvas Apps)",
+      "Power Virtual Agents",
+      "Power Platform Dataverse",
+      "Custom Connectors",
+      "Power Automate Expressions"
+    ],
+    "Business Intelligence & Analytics": [
+      "Power BI",
+      "Power BI DAX",
+      "Power Query",
+      "Data Visualization Best Practices",
+      "Interactive Dashboards"
+    ],
+    "Microsoft 365 Integration": [
+      "Microsoft Teams Integration",
+      "SharePoint Online Integration",
+      "Microsoft Graph API",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "AI & Cognitive Services": [
+      "Microsoft Copilot",
+      "Azure Cognitive Services",
+      "AI Builder",
+      "Text Analytics",
+      "Vision"
+    ],
+    "Programming & Scripting": [
+      "JavaScript (Custom Connectors/UI)",
+      "REST APIs",
+      "Basic SQL",
+      "PowerShell",
+      "Azure CLI"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure"
+    ],
+    "DevOps & Collaboration": [
+      "Git & Source Control",
+      "Agile Project Management (JIRA/Azure Boards)",
+      "Version Control"
+    ],
+    "UI/UX Design": [
+      "Figma",
+      "Adobe XD",
+      "UX Prototyping"
+    ],
+    "Security & Compliance": [
+      "Compliance Knowledge",
+      "GDPR",
+      "Data Security",
+      "Authentication"
+    ],
+    "Database Technologies": [
+      "Dataverse",
+      "SQL",
+      "SharePoint Lists"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "Architect a new legal operations portal for a hospitality client using Microsoft Power Apps, which centralizes contract management and vendor compliance tracking on a single platform.",
+        "Utilize Microsoft Power Automate to construct automated approval workflows for guest incident legal reviews, integrating directly with the existing property management system.",
+        "Configure Azure Cognitive Services Text Analytics within flows to scan and flag non-standard clauses in thousands of hotel vendor contracts, identifying potential risk areas.",
+        "Design a real-time Power BI dashboard that aggregates legal request volumes and resolution times, enabling the legal team to manage seasonal hospitality demand fluctuations.",
+        "Establish a secure data pipeline from SharePoint Online to Power BI using Power Query, ensuring guest privacy data from legal cases is anonymized before analysis.",
+        "Debug complex Power Automate expressions that handle multi-language contract parsing, spending several hours testing edge cases to ensure accuracy across different document formats.",
+        "Present bi-weekly sprint demos to legal operations stakeholders, gathering feedback on prototype automations and adjusting the development backlog based on their priorities.",
+        "Built a custom connector with JavaScript to interface with a legacy hospitality compliance database, enabling automated checks against local accommodation regulations.",
+        "Participate in daily stand-up meetings with the product team to coordinate dependencies between the new legal automation features and core booking system updates.",
+        "Apply a strong UX mindset, using Figma to prototype the interface for a Power App that lets hotel managers submit legal requests, focusing on intuitive design for non-technical users.",
+        "Test all deployed Power Automate flows for failure scenarios, creating detailed runbooks that the support team uses to troubleshoot issues without developer intervention.",
+        "Deploy the finalized Power Apps and automation solutions to the production Azure environment, following a staged rollout plan to minimize disruption to ongoing legal operations.",
+        "Monitor the performance of live Power BI reports, noticing a slow-loading dashboard and optimizing the underlying DAX calculations to improve the end-user experience.",
+        "Maintain comprehensive documentation for the legal automation architecture, including data flow diagrams and security permission matrices for internal auditing purposes.",
+        "Execute code reviews for custom JavaScript logic used in Power Apps, suggesting improvements that enhance code readability and maintainability for the team.",
+        "Coordinated a training workshop for legal staff on using the new Copilot-assisted contract review tool, answering detailed questions about its capabilities and limitations."
+      ],
+      "environment": [
+        "Microsoft Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Microsoft Copilot",
+        "Azure Cognitive Services",
+        "SharePoint Online",
+        "Microsoft Teams",
+        "JavaScript",
+        "Figma",
+        "Azure",
+        "Git",
+        "Power Platform Dataverse",
+        "Microsoft Graph API",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "Engineered a HIPAA-compliant patient data anonymization workflow using Power Automate Desktop, which processed sensitive records for legal research purposes without exposing PHI.",
+        "Developed a series of Power BI dashboards for the legal department to track research agreement turnaround times and compliance audit findings across different clinical divisions.",
+        "Integrated Power Virtual Agents with the internal healthcare ticketing system to automate responses to common legal questions about patient data release policies.",
+        "Employed AI Builder to create a model that classified incoming legal correspondence, automatically routing documents to the appropriate attorney based on content and urgency.",
+        "Implemented custom DAX measures in Power BI to calculate and visualize trends in legal request volumes, helping the department forecast staffing needs for peak periods.",
+        "Produced detailed technical specifications for a Power Apps solution that managed Investigator-Initiated Trial agreements, replacing a fragmented email and spreadsheet process.",
+        "Assessed the performance of several high-volume Power Automate flows handling IRB submission status updates, tuning expressions and API calls to reduce execution time.",
+        "Transformed a manual legal hold notification process into an automated system using Power Automate and SharePoint, ensuring consistent and timely communication with clinical staff.",
+        "Verified that all automated workflows adhered to strict FDA and HIPAA regulatory requirements by conducting thorough security reviews and access control audits before deployment.",
+        "Troubleshot a recurring failure in a flow that pulled data from an on-premise SQL Server, collaborating with infrastructure teams to adjust firewall rules and connection timeouts.",
+        "Compiled a monthly report on automation adoption and error rates for legal department leadership, using the data to advocate for additional training and support resources.",
+        "Adapted a legacy .NET application's data export feature into a Power Automate custom connector, allowing legal staff to incorporate the data directly into new automated reports.",
+        "Administered the Power Platform environments for development, testing, and production, ensuring proper data loss prevention policies were configured for healthcare information.",
+        "Mentored two junior analysts on Power Query best practices, helping them build their own reports and fostering a self-service analytics culture within the legal operations team."
+      ],
+      "environment": [
+        "Microsoft Power Automate",
+        "Power Automate Desktop",
+        "Power BI",
+        "Power Apps",
+        "AI Builder",
+        "SharePoint Online",
+        "SQL Server",
+        "Azure",
+        "HIPAA Compliance",
+        "Power Platform Dataverse",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "Created automated workflows with Power Automate to manage the legal review and approval cycle for international aviation contracts, reducing processing time from days to hours.",
+        "Designed a Power Apps portal for flight crew to report legal and safety incidents, which streamlined data collection and ensured immediate routing to the correct legal team.",
+        "Fabricated interactive Power BI reports that visualized legal spend and outside counsel performance metrics, providing transparency for financial planning and vendor management.",
+        "Installed a Power Virtual Agent to answer frequent employee questions about travel policy exceptions and liability, integrated directly into the company's Microsoft Teams environment.",
+        "Programmed a series of Power Automate flows that synchronized legal matter data between a legacy tracking system and a new SharePoint-based matter management hub.",
+        "Audited existing manual processes for regulatory filing submissions, identifying three high-volume tasks that were prime candidates for automation with Power Automate Desktop.",
+        "Launched a pilot program using Microsoft Copilot to assist legal teams in summarizing lengthy regulatory documents from aviation authorities across different regions.",
+        "Examined data from multiple airline operational systems to define key metrics for a new legal operations dashboard, working closely with legal analysts to ensure relevance.",
+        "Taught basic Power BI skills to legal operations staff, enabling them to create simple ad-hoc reports without waiting for IT support.",
+        "Consolidated data from disparate sources into a single Dataverse table, forming a reliable foundation for all legal department Power Apps and automated reports.",
+        "Reconciled access permissions across SharePoint, Power BI, and Power Apps to ensure only authorized personnel could view sensitive legal strategy and litigation data.",
+        "Navigated complex airline union agreement requirements while automating crew scheduling grievance processes, ensuring the workflow respected all collective bargaining terms."
+      ],
+      "environment": [
+        "Microsoft Power Automate",
+        "Power Apps",
+        "Power BI",
+        "SharePoint Online",
+        "Microsoft Teams",
+        "Microsoft Copilot",
+        "Power Platform Dataverse",
+        "Azure"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "Assembled a Power BI reporting suite for tracking legislation bill analysis requests, showing workload distribution and bottlenecks across the state's attorney teams.",
+        "Automated the citizen FOIA (Freedom of Information Act) request acknowledgment and routing process using Power Automate, improving responsiveness and creating an audit trail.",
+        "Formulated a data model in Dataverse to store structured information on state contracts, which became the single source of truth for multiple Power Apps and flows.",
+        "Surveyed various government departments to document their manual legal coordination processes, compiling a list of potential automation opportunities for a multi-year roadmap.",
+        "Protected sensitive citizen data within all Power Platform solutions by implementing row-level security in Power BI and strict Azure AD group-based permissions in Power Apps.",
+        "Connected Power Automate to an on-premise document management system via a custom connector, enabling automated filing of finalized legal opinions and briefs.",
+        "Trained a small group of legal analysts to maintain and modify simple Power Automate flows, building internal capability and reducing long-term dependency on IT.",
+        "Standardized naming conventions and documentation practices for all new Power Platform components, improving clarity and maintainability for the entire development team.",
+        "Evaluated different visualization options in Power BI to present complex legal data to non-technical policymakers, focusing on clarity and actionable insights.",
+        "Conducted User Acceptance Testing sessions with paralegals and attorneys, using their feedback to refine the UI of a Power App for tracking administrative law cases."
+      ],
+      "environment": [
+        "Power BI",
+        "Power Automate",
+        "Power Apps",
+        "Dataverse",
+        "SharePoint",
+        "Azure AD",
+        "On-premise Data Gateway",
+        "SQL Server"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "Extended an existing .NET application by adding a module that exported data directly to Power BI datasets for the legal and compliance reporting team.",
+        "Assisted in the migration of legal department reports from static Excel files to interactive Power BI dashboards, focusing on data refresh automation and security.",
+        "Learned the basics of Power Automate to create simple notification flows that alerted legal teams when new regulatory documents were published on internal sites.",
+        "Supported the main development team by writing SQL queries to shape data from banking systems for consumption in new legal and compliance Power BI reports.",
+        "Studied bank regulatory requirements (like Dodd-Frank) to understand the data needed for legal reporting, translating these needs into technical report specifications.",
+        "Helped configure a SharePoint Online site as a centralized repository for legal department documents, setting up basic metadata and permission structures.",
+        "Attended workshops on Power Platform capabilities, recognizing its potential to automate many manual data aggregation tasks performed by the legal operations team.",
+        "Contributed to the codebase of a legacy .NET system that fed data into the new analytics platform, fixing bugs related to data formatting for the Power BI ingestion layer."
+      ],
+      "environment": [
+        ".NET",
+        "SQL Server",
+        "Power BI",
+        "SharePoint Online",
+        "Excel"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "Assisted senior developers in building ASP.NET web forms for internal telecom contract management, gaining foundational experience in business application development.",
+        "Wrote T-SQL scripts to generate basic operational reports for the legal team, which were manually exported and emailed each week before dashboard automation was introduced.",
+        "Observed the challenges of manual process management within the telecom legal department, which sparked a personal interest in workflow automation solutions.",
+        "Participated in requirements gathering meetings for a new matter management system, learning how legal professionals described their workflows and pain points.",
+        "Fixed minor bugs and performed data cleanup in the existing contract database, improving data quality for the reports used by legal and compliance teams.",
+        "Documented technical procedures for the applications supporting the legal department, creating a knowledge base for troubleshooting common user issues."
+      ],
+      "environment": [
+        "ASP.NET",
+        "SQL Server",
+        "T-SQL",
+        "Windows Server"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "Microsoft Azure Fundamentals (AZ-900)",
+    "Microsoft Azure Data Fundamentals (DP-900)",
+    "Microsoft Azure AI Fundamentals (AI-900)",
+    "Microsoft Azure Database Administrator Associate (DP-300)",
+    "Microsoft Azure Data Engineer Associate (DP-203)"
+  ]
+}

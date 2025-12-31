@@ -1,0 +1,196 @@
+{
+  "name": "Singam Sanjana",
+  "title": "Healthcare Business Systems Analyst - Facets & EDI Integration",
+  "contact": {
+    "email": "sanjanar2704@gmail.com",
+    "phone": "+1 (314)-380-4211",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 5 years of experience in healthcare payer domain working with Facets, claims processing, member eligibility, provider management, benefits administration, billing operations, and EDI transactions including 834, 837, 835, and 270/271 standards.",
+    "I work on Facets system configurations and integrations where I write detailed requirements and user stories for claims, member eligibility, provider networks, and benefits modules while collaborating with business teams and IT stakeholders in Agile environments.",
+    "Built comprehensive data mapping documents for EDI 834 enrollment transactions and EDI 837 claims submissions that helped business teams understand data flows between Facets and external trading partners while maintaining HIPAA compliance throughout the integration process.",
+    "Created functional specifications for member eligibility verifications using EDI 270/271 transactions where I documented business rules, system workflows, and validation logic that made UAT testing smoother for the QA team and reduced production issues significantly.",
+    "Fixed multiple production issues in Facets billing module where I analyzed root causes of payment discrepancies, worked closely with development teams to implement solutions, and documented workarounds that prevented similar problems from happening again in future releases.",
+    "Gathered business requirements for provider credentialing workflows in Facets where I conducted stakeholder interviews, documented current state processes, identified gaps in system functionality, and proposed enhancements that aligned with healthcare payer domain regulations and compliance needs.",
+    "Supported UAT sessions for EDI 835 remittance processing where I prepared test scenarios, coordinated with business users to execute test cases, tracked defects in Jira, and verified fixes before promoting changes to production environments during sprint releases.",
+    "Updated technical documentation for claims adjudication rules in Facets where I worked with clinical teams to understand policy requirements, translated business logic into system specifications, and maintained version control of requirement documents throughout multiple enhancement initiatives.",
+    "Analyzed production incidents related to member enrollment issues where I used SQL queries to investigate data anomalies in Facets databases, collaborated with database administrators to identify data integrity problems, and recommended preventive measures for future data loads.",
+    "Participated in Agile ceremonies including daily standups, sprint planning, and retrospectives where I presented requirement updates, discussed blockers with cross-functional teams, tracked user story progress in Jira, and contributed to continuous improvement initiatives for better delivery outcomes."
+  ],
+  "technical_skills": {
+    "Healthcare Systems": [
+      "Facets Core",
+      "Claims Processing",
+      "Member Eligibility",
+      "Provider Management",
+      "Benefits Administration",
+      "Billing Operations"
+    ],
+    "EDI Standards": [
+      "EDI 834 Enrollment",
+      "EDI 837 Claims",
+      "EDI 835 Remittance",
+      "EDI 270/271 Eligibility",
+      "X12 Transactions",
+      "HIPAA 5010"
+    ],
+    "Business Analysis": [
+      "Requirements Gathering",
+      "User Story Writing",
+      "Process Mapping",
+      "Data Mapping",
+      "Gap Analysis",
+      "Stakeholder Management"
+    ],
+    "Documentation": [
+      "Business Requirements Documents",
+      "Functional Specifications",
+      "Technical Documentation",
+      "Test Cases",
+      "Process Flows",
+      "System Diagrams"
+    ],
+    "Database & Querying": [
+      "SQL",
+      "Data Analysis",
+      "Database Design",
+      "Data Quality",
+      "Data Warehousing"
+    ],
+    "Agile Methodologies": [
+      "Scrum",
+      "Sprint Planning",
+      "User Stories",
+      "UAT Coordination",
+      "Defect Tracking"
+    ],
+    "Project Management Tools": [
+      "Jira",
+      "Confluence",
+      "MS Visio",
+      "MS Excel",
+      "SharePoint"
+    ],
+    "Healthcare Compliance": [
+      "HIPAA Regulations",
+      "Healthcare Privacy",
+      "Data Governance",
+      "Regulatory Compliance",
+      "CHIP Standards"
+    ],
+    "Testing & Quality": [
+      "UAT Support",
+      "Test Case Design",
+      "Defect Management",
+      "Production Support",
+      "Root Cause Analysis"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Cloud-based Solutions",
+      "Cloud Migration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Finance Business Process Analyst",
+      "client": "Charles Schwab",
+      "duration": "2024-Sep - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on Facets system where I write detailed user stories for claims processing enhancements and coordinate with development teams to clarify acceptance criteria, plus I document business rules for member eligibility verifications that comply with financial regulations.",
+        "Collaborate with business stakeholders to gather requirements for EDI 834 enrollment feeds where I map data elements between source systems and Facets tables, then I validate mapping accuracy through SQL queries before moving specifications to the development team for implementation.",
+        "Help QA teams during UAT cycles for EDI 837 claims submissions where I prepare test scenarios covering various claim types including professional, institutional, and dental claims, and I track defects in Jira while verifying fixes meet business expectations before production releases.",
+        "I maintain functional specification documents for provider network configurations in Facets where I detail credentialing workflows, contract setup procedures, and reimbursement rules that align with finance operations and regulatory requirements including SOX and PCI compliance standards.",
+        "Troubleshoot production issues in billing module where I use SQL to investigate payment discrepancies, analyze remittance data from EDI 835 transactions, identify root causes of claim denials, and recommend system configuration changes to prevent similar issues from recurring in future processing cycles.",
+        "Conduct stakeholder meetings using MS Visio to present process flow diagrams for benefits administration changes where I explain current state workflows, propose future state improvements, and incorporate feedback into updated requirement documents stored in SharePoint for team collaboration and version control.",
+        "I prepare data mapping spreadsheets in MS Excel for EDI 270/271 eligibility inquiries where I document field-level mappings between trading partner formats and Facets data structures, then validate mappings with IT teams to ensure accurate real-time eligibility responses during member verification requests.",
+        "Facilitate gap analysis sessions where I compare existing Facets functionality against new business requirements for claims adjudication rules, identify system limitations, propose workaround solutions or enhancement requests, and document findings in Confluence for cross-functional team review and prioritization discussions.",
+        "Support enhancement initiatives where I translate business needs into technical specifications for member enrollment processing, work with database administrators to understand Facets table structures, and ensure data integrity rules are properly documented before development teams begin coding new features or modifications.",
+        "I coordinate with clinical teams to understand policy guidelines for benefits determination where I document complex business logic for coverage rules, translate requirements into system-readable specifications, and verify implementations during UAT to confirm accurate benefit calculations in Facets processing engine.",
+        "Monitor production incidents reported through Jira where I triage issues based on severity, perform initial analysis using SQL queries against Facets databases, escalate critical problems to appropriate technical teams, and update ticket documentation with detailed findings and recommended resolution approaches.",
+        "Organize sprint planning sessions where I present refined user stories for provider management enhancements, discuss story points with development teams, clarify business acceptance criteria, address questions about EDI transaction requirements, and ensure backlog items are properly prioritized for upcoming sprint execution."
+      ],
+      "environment": [
+        "Facets",
+        "EDI 834",
+        "EDI 837",
+        "EDI 835",
+        "EDI 270/271",
+        "SQL",
+        "Jira",
+        "Confluence",
+        "MS Visio",
+        "MS Excel",
+        "SharePoint",
+        "Azure",
+        "Agile Scrum"
+      ]
+    },
+    {
+      "role": "Business Process Analyst \u2013 Finance Operations",
+      "client": "United Health Care",
+      "duration": "2022-Nov - 2024-Aug",
+      "location": "",
+      "responsibilities": [
+        "Gathered business requirements for healthcare claims processing workflows where I interviewed stakeholders from finance operations, documented current state processes using MS Visio flowcharts, identified bottlenecks in claims adjudication, and proposed system improvements that reduced manual intervention time.",
+        "Created detailed functional specifications for member eligibility system enhancements where I mapped data flows between enrollment systems and internal databases, defined validation rules for HIPAA compliance, documented error handling procedures, and worked with developers to clarify technical implementation approaches.",
+        "Analyzed EDI transaction failures where I used SQL queries to investigate data issues in 834 enrollment files, identified missing or invalid data elements causing rejections, collaborated with trading partners to resolve formatting problems, and documented corrective actions in SharePoint for future reference.",
+        "Participated in UAT activities for provider credentialing module where I designed test cases covering various provider types, executed testing scenarios with business users, logged defects in tracking systems, verified bug fixes met acceptance criteria, and signed off on functionality before production deployment.",
+        "Documented business rules for benefits determination logic where I reviewed policy documents with clinical teams, translated coverage guidelines into system specifications, ensured alignment with regulatory requirements including GDPR and CHIP standards, and maintained requirements traceability throughout development lifecycle.",
+        "Supported production issue resolution where I investigated claim denial patterns using database queries, performed root cause analysis on payment discrepancies, recommended configuration changes to billing module, and tracked resolution progress until issues were completely resolved in live environment.",
+        "Facilitated requirement workshops where I presented gap analysis findings to business stakeholders, discussed system limitations for provider network management, proposed enhancement options with cost-benefit considerations, and documented agreed-upon solutions in business requirements documents for approval and implementation planning.",
+        "Maintained technical documentation for EDI integration processes where I updated specification documents with new transaction requirements, tracked changes across multiple releases, ensured version control in SharePoint repository, and provided reference materials to support teams for troubleshooting production incidents.",
+        "Collaborated with QA teams during system testing where I reviewed test plans for claims submission functionality, provided business context for test scenario development, validated test results against expected outcomes, and ensured all critical user journeys were adequately covered before release to production.",
+        "Performed data analysis on member enrollment trends where I extracted data using SQL queries, generated reports in MS Excel with visualizations, identified patterns in eligibility processing delays, and presented findings to management with recommendations for process optimization and system configuration adjustments."
+      ],
+      "environment": [
+        "EDI Standards",
+        "Claims Processing",
+        "Member Eligibility",
+        "SQL",
+        "MS Visio",
+        "SharePoint",
+        "HIPAA",
+        "GDPR",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Business Analyst",
+      "client": "Mphasis",
+      "duration": "2020-Apr - 2022-Oct",
+      "location": "",
+      "responsibilities": [
+        "Collected business requirements for banking application enhancements where I met with stakeholders to understand their needs, documented functional specifications in detailed requirement documents, and ensured alignment with compliance standards including SOX regulations and PCI security requirements.",
+        "Assisted in data mapping activities for system integrations where I worked with technical teams to understand data structures, created mapping spreadsheets in MS Excel showing source-to-target field relationships, validated mappings through sample data testing, and maintained documentation in SharePoint for team access.",
+        "Executed test cases during UAT phase where I followed test scripts provided by QA team, recorded test results in tracking systems, identified defects in application functionality, communicated issues to developers with detailed steps to reproduce problems, and verified fixes before final approval.",
+        "Contributed to process documentation where I created MS Visio diagrams showing current state workflows for transaction processing, interviewed subject matter experts to capture process details, identified improvement opportunities, and maintained updated documentation reflecting system changes over time.",
+        "Learned SQL on the job to query banking databases where I wrote basic select statements to extract transaction data, analyzed query results to understand data patterns, and used findings to validate business requirements and support testing activities during development sprints.",
+        "Attended daily standup meetings where I updated team on requirement clarification progress, discussed blockers preventing user story completion, coordinated with developers to resolve specification ambiguities, and tracked action items in meeting notes stored in shared collaboration tools."
+      ],
+      "environment": [
+        "MS Visio",
+        "SharePoint",
+        "Python",
+        "SQL",
+        "MS Excel",
+        "Banking Systems",
+        "SOX Compliance",
+        "PCI Standards"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, Bakersfield",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2022"
+    }
+  ],
+  "certifications": []
+}

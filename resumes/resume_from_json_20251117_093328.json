@@ -1,0 +1,293 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Observability & Log Analytics Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm bringing 10 years of specialized experience in enterprise log analytics, real-time data processing, and observability pipeline engineering across insurance, healthcare, and financial domains.",
+    "Using Splunk for comprehensive log ingestion and dashboard creation to monitor real-time insurance claim processing systems while ensuring data compliance with state insurance regulations and audit requirements.",
+    "Implementing Cribl log routing pipelines with complex transformations to handle healthcare data streams while maintaining HIPAA compliance through automated PII scrubbing and log masking workflows.",
+    "Developing Python automation scripts for log pipeline integration that parse JSON data structures and transform syslog streams into actionable monitoring insights for banking transaction systems.",
+    "Designing Linux-based log agent deployments that collect filesystem and syslog data from distributed insurance applications while troubleshooting performance issues in real-time streaming environments.",
+    "Building REST API integrations with monitoring systems using Python requests library to authenticate via OAuth tokens and stream JSON-formatted log data to centralized observability platforms.",
+    "Creating data transformation pipelines using regex patterns and JSON manipulation techniques to normalize heterogeneous log formats from multiple insurance policy administration systems.",
+    "Deploying shell scripting automation for log pipeline management that coordinates syslog collectors and ensures reliable TCP/UDP data transmission across distributed insurance infrastructure.",
+    "Implementing version control with Git for managing log configuration deployments through CI/CD pipelines that validate parsing rules and transformation logic before production release.",
+    "Configuring HTTP event collectors (HEC) for Splunk ingestion while troubleshooting authentication issues and optimizing batch sizes for high-volume insurance claim processing events.",
+    "Developing Python-based ETL workflows that extract log data from multiple sources, transform using custom parsing logic, and load into monitoring systems with proper severity level classification.",
+    "Designing security-compliant log filtering pipelines that automatically scrub PII data from healthcare logs while maintaining audit trails and compliance with insurance regulatory requirements.",
+    "Building real-time streaming log processing systems using Python and shell scripts that monitor insurance application health and trigger alerts for critical business process failures.",
+    "Creating monitoring dashboards in Splunk that visualize metrics, logs, and traces from distributed microservices while correlating events across insurance policy lifecycle management systems.",
+    "Implementing API authentication mechanisms using tokens and OAuth to securely integrate external monitoring systems with internal insurance data platforms while maintaining access controls.",
+    "Developing log masking filters for compliance requirements that automatically redact sensitive banking information while preserving analytical value for fraud detection and monitoring purposes.",
+    "Configuring syslog pipelines on Linux servers to collect application logs from insurance claim processing systems while ensuring reliable delivery and proper timestamp correlation.",
+    "Building observability workflows with Cribl that route log data to appropriate destinations based on content patterns and business rules for insurance compliance reporting."
+  ],
+  "technical_skills": {
+    "Log Management & Analytics": [
+      "Splunk",
+      "Cribl",
+      "Syslog",
+      "HTTP Event Collectors",
+      "Log Ingestion",
+      "Dashboard Creation",
+      "Pipeline Configuration"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "Bash/Shell Scripting",
+      "JSON Manipulation",
+      "Regex Patterns",
+      "Data Parsing",
+      "Automation Scripts"
+    ],
+    "Data Processing & ETL": [
+      "Python ETL Workflows",
+      "Data Transformation",
+      "Real-time Streaming",
+      "Pipeline Integration",
+      "JSON Parsing",
+      "Data Normalization"
+    ],
+    "API Integration & Development": [
+      "REST APIs",
+      "API Authentication",
+      "OAuth Tokens",
+      "Monitoring System Integration",
+      "JSON Data Exchange"
+    ],
+    "Operating Systems & Infrastructure": [
+      "Linux Administration",
+      "Log Agents",
+      "Filesystem Management",
+      "Syslog Pipelines",
+      "TCP/UDP Protocols"
+    ],
+    "Monitoring & Observability": [
+      "Metrics Collection",
+      "Log Analysis",
+      "Trace Correlation",
+      "Severity Levels",
+      "Observability Workflows",
+      "Alert Management"
+    ],
+    "Security & Compliance": [
+      "PII Scrubbing",
+      "Log Masking",
+      "Compliance Filters",
+      "HIPAA Compliance",
+      "Data Security",
+      "Audit Requirements"
+    ],
+    "DevOps & Automation": [
+      "Git Version Control",
+      "CI/CD Pipelines",
+      "Shell Automation",
+      "Pipeline Deployment",
+      "Configuration Management"
+    ],
+    "Data Formats & Protocols": [
+      "JSON Data Structures",
+      "Syslog Standards",
+      "TCP/UDP Protocols",
+      "HTTP/HTTPS",
+      "Data Serialization"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, Lambda)",
+      "Azure Services",
+      "Cloud Monitoring",
+      "Infrastructure Logging"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Splunk for real-time log ingestion from insurance claim processing systems to address delayed fraud detection by implementing custom dashboards that monitor transaction patterns and reduced investigation time by 40% through immediate alerting.",
+        "Implementing Cribl log routing pipelines to transform heterogeneous insurance application logs into standardized JSON formats that improved parsing efficiency and enabled faster correlation of claim events across distributed microservices architecture.",
+        "Developing Python automation scripts that parse JSON-structured policy data and integrate with existing claim processing pipelines while handling real-time streaming logs from multiple state insurance regulatory systems.",
+        "Designing Linux-based log agent deployments across AWS EC2 instances that collect filesystem and syslog data from insurance applications while troubleshooting performance bottlenecks in high-volume claim processing environments.",
+        "Building REST API integrations with internal monitoring systems using Python requests library to authenticate via OAuth tokens and stream JSON-formatted insurance transaction logs to centralized observability platforms.",
+        "Creating data transformation pipelines using advanced regex patterns and JSON manipulation techniques to normalize insurance policy administration logs from legacy mainframe systems into modern analytics formats.",
+        "Deploying shell scripting automation for log pipeline management that coordinates multiple syslog collectors and ensures reliable TCP/UDP data transmission across State Farm's distributed insurance infrastructure.",
+        "Implementing version control with Git for managing Splunk configuration deployments through CI/CD pipelines that validate parsing rules and transformation logic before production release to insurance systems.",
+        "Configuring HTTP event collectors (HEC) for Splunk ingestion while troubleshooting authentication issues and optimizing batch sizes for high-volume insurance claim processing events across multiple state jurisdictions.",
+        "Developing Python-based ETL workflows that extract log data from multiple insurance sources, transform using custom parsing logic for regulatory compliance, and load into monitoring systems with proper severity level classification.",
+        "Designing security-compliant log filtering pipelines that automatically scrub PII data from insurance customer records while maintaining audit trails and compliance with state insurance regulatory requirements.",
+        "Building real-time streaming log processing systems using Python and shell scripts that monitor insurance application health and trigger alerts for critical business process failures in claim adjudication systems.",
+        "Creating monitoring dashboards in Splunk that visualize metrics, logs, and traces from distributed insurance microservices while correlating events across the complete policy lifecycle management system.",
+        "Implementing API authentication mechanisms using tokens and OAuth to securely integrate external monitoring systems with internal insurance data platforms while maintaining strict access controls for sensitive customer information.",
+        "Developing log masking filters for compliance requirements that automatically redact sensitive insurance information while preserving analytical value for fraud detection and regulatory monitoring purposes.",
+        "Configuring syslog pipelines on Linux servers within AWS environment to collect application logs from insurance claim processing systems while ensuring reliable delivery and proper timestamp correlation for audit purposes."
+      ],
+      "environment": [
+        "Splunk",
+        "Cribl",
+        "Python",
+        "JSON",
+        "REST APIs",
+        "Linux",
+        "AWS EC2",
+        "Syslog",
+        "Git",
+        "Shell Scripting",
+        "Regex",
+        "OAuth",
+        "TCP/UDP",
+        "HTTP Event Collectors"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Splunk for healthcare application log ingestion to monitor real-time patient data processing while addressing HIPAA compliance requirements through automated PII scrubbing and audit trail maintenance.",
+        "Implementing Cribl transformation pipelines that route medical device logs through compliance filters to remove sensitive health information before analytics processing while maintaining data utility for operational monitoring.",
+        "Developing Python scripts for healthcare data parsing that integrate with clinical trial monitoring systems and handle real-time streaming logs from distributed research facilities across multiple geographic regions.",
+        "Designing Linux log agent configurations that collect filesystem data from healthcare applications while ensuring proper syslog pipeline management for FDA-regulated medical software systems.",
+        "Building REST API integrations with healthcare monitoring platforms using Python requests library to authenticate via OAuth and stream JSON-formatted clinical trial data to observability dashboards.",
+        "Creating data transformation workflows using regex and JSON manipulation to normalize heterogeneous healthcare logs from electronic medical record systems into standardized formats for compliance reporting.",
+        "Deploying shell scripting automation for healthcare log pipeline management that coordinates data collection from clinical applications and ensures reliable transmission across hospital network infrastructure.",
+        "Implementing Git version control for healthcare log configuration management through CI/CD pipelines that validate HIPAA compliance rules before deployment to production medical systems.",
+        "Configuring HTTP event collectors for Splunk ingestion of healthcare application logs while optimizing for high-volume clinical data streams and maintaining strict authentication protocols.",
+        "Developing Python-based ETL workflows that process healthcare logs through compliance filters, transform sensitive data elements, and load into monitoring systems with proper audit trail creation.",
+        "Designing security-focused log masking pipelines that automatically redact patient health information from healthcare application logs while preserving operational metrics for system performance monitoring.",
+        "Building real-time streaming log processing for clinical trial systems using Python scripts that monitor data integrity and trigger alerts for protocol deviations or data quality issues.",
+        "Creating healthcare compliance dashboards in Splunk that visualize metrics from clinical applications while maintaining HIPAA requirements through automated PII protection and access logging.",
+        "Implementing API authentication for healthcare monitoring integrations using secure token exchange to protect patient data while enabling necessary operational visibility across clinical systems."
+      ],
+      "environment": [
+        "Splunk",
+        "Cribl",
+        "Python",
+        "JSON",
+        "REST APIs",
+        "Linux",
+        "AWS",
+        "Syslog",
+        "Git",
+        "Shell Scripting",
+        "Regex",
+        "OAuth",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Splunk for public health data log ingestion to monitor healthcare service delivery across state facilities while addressing HIPAA compliance through automated data protection workflows.",
+        "Implementing Cribl routing pipelines for healthcare application logs that transform sensitive patient information into anonymized formats suitable for public health reporting and operational analysis.",
+        "Developing Python parsing scripts for healthcare data integration that process real-time streaming logs from state medical facilities and transform JSON data for compliance monitoring.",
+        "Designing Linux log agent deployments that collect healthcare application data from state systems while managing syslog pipelines for reliable data transmission across distributed locations.",
+        "Building REST API integrations with state healthcare monitoring systems using Python requests to authenticate and stream JSON-formatted public health data to centralized dashboards.",
+        "Creating data transformation workflows using regex patterns and JSON manipulation to normalize healthcare logs from multiple state systems into standardized formats for compliance reporting.",
+        "Deploying shell scripting automation for healthcare log pipeline management that coordinates data collection from clinical applications across state facilities and ensures reliable operations.",
+        "Implementing Git version control for healthcare log configuration management through deployment pipelines that validate HIPAA compliance requirements before production release.",
+        "Configuring HTTP event collectors for Splunk ingestion of public health data while maintaining strict authentication and optimizing for healthcare compliance monitoring requirements.",
+        "Developing Python-based ETL workflows that process healthcare logs through compliance filters and transform sensitive data elements for public health reporting purposes.",
+        "Designing log masking pipelines for healthcare compliance that automatically protect patient information while preserving data utility for public health monitoring and resource allocation.",
+        "Building real-time streaming log processing for state healthcare applications using Python scripts that monitor service delivery and trigger alerts for critical system issues."
+      ],
+      "environment": [
+        "Splunk",
+        "Cribl",
+        "Python",
+        "JSON",
+        "REST APIs",
+        "Linux",
+        "Azure",
+        "Syslog",
+        "Git",
+        "Shell Scripting",
+        "Regex",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Splunk for financial transaction log ingestion to monitor real-time banking operations while addressing PCI compliance requirements through automated data protection mechanisms.",
+        "Implementing Cribl transformation pipelines for banking application logs that route sensitive financial data through compliance filters before analytics processing and reporting.",
+        "Developing Python scripts for financial data parsing that integrate with transaction monitoring systems and handle real-time streaming logs from digital banking platforms.",
+        "Designing Linux log agent configurations that collect banking application data while ensuring proper syslog pipeline management for financial regulatory compliance.",
+        "Building REST API integrations with financial monitoring systems using Python requests library to authenticate and stream JSON-formatted transaction data to security dashboards.",
+        "Creating data transformation workflows using regex and JSON manipulation to normalize banking logs from multiple transaction systems into standardized formats for compliance reporting.",
+        "Deploying shell scripting automation for financial log pipeline management that coordinates data collection from banking applications and ensures reliable security monitoring.",
+        "Implementing Git version control for financial log configuration management through deployment pipelines that validate PCI compliance rules before production release.",
+        "Configuring HTTP event collectors for Splunk ingestion of banking transaction logs while maintaining financial data protection standards and authentication requirements.",
+        "Developing Python-based ETL workflows that process financial logs through compliance filters and transform sensitive data elements for regulatory reporting and fraud detection."
+      ],
+      "environment": [
+        "Splunk",
+        "Cribl",
+        "Python",
+        "JSON",
+        "REST APIs",
+        "Linux",
+        "Azure",
+        "Syslog",
+        "Git",
+        "Shell Scripting",
+        "Regex",
+        "PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop for log data processing in consulting projects that involved transforming client application logs into structured formats for business intelligence and operational reporting.",
+        "Implementing Informatica workflows for log data integration that routed information from multiple client systems through transformation pipelines to create unified analytics datasets.",
+        "Developing Sqoop scripts for log data transfer between relational databases and Hadoop distributed file system while learning enterprise data integration patterns in consulting engagements.",
+        "Designing data transformation pipelines using basic regex patterns and file parsing techniques to normalize client application logs from heterogeneous systems into standardized formats.",
+        "Building shell scripting automation for data pipeline management that coordinated log collection from client applications and ensured reliable processing across distributed environments.",
+        "Creating basic ETL workflows using Informatica that processed client application logs through transformation rules and loaded into analytics platforms for business reporting.",
+        "Implementing version control with Git for data pipeline configurations while learning best practices for deployment and management in enterprise consulting environments.",
+        "Developing data parsing scripts using Python that extracted information from client application logs and prepared datasets for analytics and business intelligence purposes."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "Shell Scripting",
+        "Git",
+        "Regex",
+        "ETL Workflows"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

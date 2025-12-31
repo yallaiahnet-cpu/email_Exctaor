@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Engineer - GCP & Databricks Lakehouse Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building scalable data pipelines, lakehouse architecture, and analytics platforms across Insurance, Healthcare, Banking, and Consulting domains using GCP and Databricks technologies.",
+    "Designed end-to-end ETL pipelines using GCP BigQuery and Dataflow to process transportation datasets, ensuring data quality and governance for DOT compliance requirements while reducing processing time through query optimization techniques.",
+    "Built real-time streaming ingestion frameworks with GCP Pub/Sub and Databricks Delta Lake to handle high-volume event data from multiple sources, implementing monitoring and alerting using Cloud Monitoring for pipeline observability.",
+    "Implemented lakehouse architecture on GCP using Databricks Lakeflow and Delta Lake, establishing data modeling standards and catalog management to support ML/AI workloads while maintaining cost efficiency through storage optimization strategies.",
+    "Automated infrastructure provisioning using Terraform for GCP resources including Cloud Storage buckets, BigQuery datasets, and Dataflow jobs, integrating CI/CD workflows with GitHub Actions for deployment automation across environments.",
+    "Configured IAM policies and security controls in GCP to enforce data access governance, implementing row-level security in BigQuery and encryption standards for sensitive transportation data to meet regulatory compliance requirements.",
+    "Developed batch and streaming data ingestion processes using Python and SQL on GCP Dataflow, handling JSON, Avro, and Parquet formats from REST APIs and cloud storage to populate data lakehouse with structured datasets.",
+    "Optimized Spark queries in Databricks by tuning partition strategies and caching mechanisms, collaborating with platform teams to resolve performance bottlenecks and reduce compute costs through efficient resource allocation.",
+    "Created data lineage documentation and metadata management frameworks using Databricks Unity Catalog, enabling DOT teams to trace data origins and transformations for audit purposes and regulatory reporting needs.",
+    "Integrated ML pipeline support by preparing feature stores in Delta Lake, coordinating with analytics teams to structure data for model training while ensuring data freshness through incremental processing workflows.",
+    "Established monitoring dashboards in Stackdriver to track pipeline health metrics, setting up alerts for job failures and data quality issues to maintain SLA commitments for critical transportation analytics use cases.",
+    "Migrated legacy batch processes to cloud-native architectures using GCP services, working closely with data architects to redesign ETL logic and improve scalability for growing dataset volumes in DOT projects.",
+    "Participated in code reviews and debugging sessions to troubleshoot pipeline failures, analyzing logs and error traces to identify root causes and implement fixes that improved overall system reliability.",
+    "Conducted performance tuning exercises on BigQuery tables by optimizing table designs, clustering keys, and partitioning schemes to accelerate analytical queries for transportation reporting dashboards used by stakeholders.",
+    "Facilitated knowledge sharing sessions with DOT teams on best practices for data engineering, governance standards, and cost management strategies to build internal capabilities for maintaining lakehouse systems.",
+    "Managed Docker containers for custom processing logic in GCP environments, deploying containerized applications to Cloud Run for event-driven data transformations that complemented batch pipeline workflows.",
+    "Collaborated with governance teams to define data quality rules and validation checks in pipelines, implementing automated testing frameworks that caught schema drift and anomalies before impacting downstream consumers.",
+    "Maintained documentation for architecture decisions, pipeline configurations, and operational runbooks to support team members during on-call rotations and troubleshooting incidents in production GCP environments."
+  ],
+  "technical_skills": {
+    "Cloud Platforms & Services": [
+      "GCP BigQuery",
+      "GCP Dataflow",
+      "GCP Pub/Sub",
+      "GCP Cloud Storage",
+      "GCP Cloud Monitoring",
+      "GCP IAM",
+      "AWS S3",
+      "AWS Glue",
+      "AWS Lambda"
+    ],
+    "Data Engineering Frameworks": [
+      "Databricks",
+      "Apache Spark",
+      "Delta Lake",
+      "Databricks Lakeflow",
+      "Apache Airflow",
+      "Apache Kafka",
+      "Spark Streaming",
+      "Apache Beam"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Scala",
+      "PySpark",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "ETL & Data Pipeline Tools": [
+      "GCP Dataflow",
+      "Apache Airflow",
+      "Informatica",
+      "Apache NiFi",
+      "Sqoop",
+      "dbt"
+    ],
+    "Data Formats & Protocols": [
+      "JSON",
+      "Avro",
+      "Parquet",
+      "REST APIs",
+      "CSV"
+    ],
+    "Infrastructure & DevOps": [
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Jenkins",
+      "CI/CD Pipelines"
+    ],
+    "Data Modeling & Architecture": [
+      "Lakehouse Architecture",
+      "Data Modeling",
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Warehousing",
+      "Dimensional Modeling"
+    ],
+    "Monitoring & Observability": [
+      "GCP Stackdriver",
+      "GCP Cloud Monitoring",
+      "Logging Frameworks",
+      "Alerting Systems"
+    ],
+    "Databases": [
+      "BigQuery",
+      "PostgreSQL",
+      "MySQL",
+      "Snowflake",
+      "MongoDB",
+      "AWS RDS"
+    ],
+    "AI/ML Support Tools": [
+      "LangChain",
+      "LangGraph",
+      "Crew AI",
+      "Model Context Protocol",
+      "Multi-Agent Systems",
+      "OpenAI APIs"
+    ],
+    "Data Quality & Governance": [
+      "Data Lineage",
+      "Databricks Unity Catalog",
+      "Data Validation",
+      "Metadata Management"
+    ],
+    "Compliance & Security": [
+      "HIPAA",
+      "PCI-DSS",
+      "GDPR",
+      "Data Encryption",
+      "Access Controls"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect lakehouse solutions using GCP BigQuery and Databricks Delta Lake to centralize insurance policy data, enabling real-time analytics for risk assessment while maintaining compliance with insurance regulatory standards.",
+        "Build streaming pipelines with GCP Pub/Sub to ingest claims data, processing events through Dataflow jobs that transform and load records into Delta tables, reducing latency for fraud detection ML models used by underwriting teams.",
+        "Deploy multi-agent systems using LangGraph and Model Context Protocol to automate insurance document analysis, coordinating between PySpark jobs in Databricks and GCP Cloud Functions for proof-of-concept demonstrations to leadership.",
+        "Configure Terraform scripts to provision GCP infrastructure including Cloud Storage buckets, BigQuery datasets, and Databricks workspaces, integrating GitHub Actions workflows for automated deployments across development and production environments.",
+        "Tune SQL queries in BigQuery by analyzing execution plans and adjusting partition strategies, collaborating with data architects to optimize storage costs while maintaining query performance for insurance reporting dashboards.",
+        "Establish data governance frameworks using Databricks Unity Catalog to manage metadata and lineage for policy datasets, documenting data flows to support audit requirements and regulatory reporting for State Farm compliance teams.",
+        "Integrate IAM security policies in GCP to enforce role-based access controls on BigQuery tables and Cloud Storage objects, implementing encryption standards to protect sensitive customer information in accordance with insurance data protection laws.",
+        "Support ML/AI workloads by preparing feature datasets in Delta Lake, working with analytics teams to structure policy and claims data for model training while ensuring data freshness through incremental batch processing workflows.",
+        "Monitor pipeline health using GCP Cloud Monitoring dashboards, setting up alerts for job failures and data quality anomalies to maintain SLA commitments for critical insurance analytics use cases during on-call rotations.",
+        "Troubleshoot Dataflow job failures by examining logs in Stackdriver, identifying root causes such as schema mismatches or resource constraints, and implementing fixes that improved pipeline reliability for claims processing systems.",
+        "Attend code review sessions with platform teams to discuss Python and SQL logic in ETL scripts, incorporating feedback to enhance code quality and maintain consistency with engineering standards across the data platform.",
+        "Experiment with agent-to-agent communication patterns using Google's multi-agent frameworks, building proof-of-concept workflows that demonstrate how AI agents can collaborate to extract insights from insurance policy documents.",
+        "Participate in meetings with DOT teams to understand transportation data requirements, mapping insurance telematics datasets to GCP storage formats and designing ingestion pipelines that align with lakehouse architecture principles.",
+        "Manage Docker containers for custom PySpark applications, deploying containerized jobs to Databricks clusters and GCP Cloud Run to handle specialized data transformations that complement standard ETL pipeline workflows.",
+        "Document architecture decisions and pipeline configurations in internal wikis, creating runbooks for operational procedures that help team members respond to incidents and maintain data engineering systems during off-hours.",
+        "Optimize cost management strategies by analyzing GCP billing reports, identifying opportunities to reduce BigQuery query costs through query caching and storage optimization techniques that balance performance with budget constraints."
+      ],
+      "environment": [
+        "GCP BigQuery",
+        "GCP Dataflow",
+        "GCP Pub/Sub",
+        "GCP Cloud Storage",
+        "Databricks",
+        "Delta Lake",
+        "Databricks Lakeflow",
+        "PySpark",
+        "LangGraph",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "Python",
+        "SQL",
+        "Terraform",
+        "GitHub Actions",
+        "GCP Cloud Monitoring",
+        "GCP IAM",
+        "Docker",
+        "REST APIs",
+        "JSON",
+        "Avro",
+        "Parquet"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Constructed ETL pipelines using GCP Dataflow and BigQuery to process healthcare datasets, implementing HIPAA-compliant encryption and access controls to protect patient information while enabling analytics for pharmaceutical research teams.",
+        "Developed streaming data ingestion workflows with GCP Pub/Sub to capture clinical trial events, transforming records through Databricks Spark jobs that populated Delta Lake tables for regulatory reporting and compliance audits.",
+        "Applied LangChain frameworks to extract medical entities from unstructured documents, coordinating Python scripts with GCP Cloud Functions to parse research papers and clinical notes for proof-of-concept AI initiatives.",
+        "Automated infrastructure deployment using Terraform for GCP resources, defining CI/CD pipelines in GitHub Actions that validated code changes and deployed BigQuery schemas and Dataflow templates across healthcare project environments.",
+        "Refined query performance in BigQuery by restructuring partitioning schemes and clustering keys, working with data architects to reduce costs for complex analytical queries that supported drug development reporting dashboards.",
+        "Formulated data lineage tracking using Databricks Unity Catalog, documenting transformations and data sources to satisfy FDA audit requirements and maintain compliance with healthcare data governance policies.",
+        "Secured GCP environments by configuring IAM roles and policies, implementing row-level security in BigQuery to restrict access to sensitive patient data based on user roles and departmental responsibilities.",
+        "Prepared ML-ready datasets in Delta Lake by structuring clinical trial data, collaborating with analytics teams to define feature schemas that supported predictive models for patient outcome analysis.",
+        "Tracked pipeline metrics using GCP Cloud Monitoring, creating alerting rules for job failures and data quality issues to ensure timely resolution of incidents that impacted healthcare analytics workflows.",
+        "Diagnosed Dataflow pipeline errors by reviewing Stackdriver logs, resolving issues related to data parsing and schema validation that caused processing delays for clinical trial data ingestion workflows.",
+        "Reviewed Python and SQL code with platform teams during sprint planning sessions, discussing implementation approaches for ETL logic and incorporating suggestions to improve pipeline efficiency and maintainability.",
+        "Tested multi-agent systems using Crew AI and Autogen frameworks, building proof-of-concept applications that demonstrated how AI agents could automate literature review processes for pharmaceutical research projects.",
+        "Coordinated with DOT teams to understand transportation safety data requirements for medical supply chain analytics, designing GCP-based pipelines that integrated logistics datasets with healthcare operational data.",
+        "Packaged custom Spark transformations in Docker containers, deploying them to Databricks clusters and GCP Cloud Run to handle specialized healthcare data processing tasks that required isolated execution environments.",
+        "Compiled operational documentation for pipeline architectures and troubleshooting procedures, maintaining knowledge base articles that supported team members during incident response and system maintenance activities."
+      ],
+      "environment": [
+        "GCP BigQuery",
+        "GCP Dataflow",
+        "GCP Pub/Sub",
+        "GCP Cloud Storage",
+        "Databricks",
+        "Delta Lake",
+        "PySpark",
+        "LangChain",
+        "Crew AI",
+        "Autogen",
+        "Python",
+        "SQL",
+        "Terraform",
+        "GitHub Actions",
+        "GCP Cloud Monitoring",
+        "GCP IAM",
+        "Docker",
+        "REST APIs",
+        "JSON",
+        "Avro",
+        "Parquet",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Assembled ETL pipelines using AWS Glue and S3 to process state healthcare datasets, ensuring HIPAA compliance through encryption and access controls that protected citizen health records for public health reporting initiatives.",
+        "Generated batch data ingestion workflows using Python and SQL on AWS Glue, transforming healthcare claims data from CSV and JSON formats into structured tables stored in AWS RDS for state regulatory analytics.",
+        "Instituted data quality validation checks in AWS Glue jobs, implementing automated testing that detected schema changes and data anomalies before they impacted downstream healthcare reporting systems used by state agencies.",
+        "Provisioned AWS infrastructure using Terraform scripts, defining S3 buckets, Glue crawlers, and RDS instances in infrastructure-as-code templates that supported consistent deployments across state healthcare project environments.",
+        "Enhanced query performance on AWS RDS by creating indexes and optimizing table structures, working with database administrators to reduce execution times for complex analytical queries supporting public health dashboards.",
+        "Captured data lineage information by documenting ETL workflows and transformation logic, creating reference materials that helped state compliance teams understand data origins for HIPAA audit and regulatory reporting purposes.",
+        "Protected healthcare data by configuring AWS IAM policies that restricted access to S3 buckets and RDS databases, implementing encryption at rest and in transit to meet state data security and HIPAA compliance requirements.",
+        "Structured datasets in AWS RDS to support ML model training, coordinating with data scientists to define table schemas that enabled predictive analytics for patient readmission risk assessment projects.",
+        "Observed pipeline execution using AWS CloudWatch, setting up log groups and alarm notifications that alerted team members to job failures and data processing issues requiring immediate attention during business hours.",
+        "Resolved AWS Glue job errors by analyzing CloudWatch logs, identifying problems with data parsing and resource allocation that caused processing delays for state healthcare data ingestion workflows.",
+        "Consulted with DOT teams to understand transportation data requirements for medical supply logistics, mapping healthcare delivery datasets to AWS storage formats and designing ingestion pipelines for state healthcare operations.",
+        "Maintained documentation for ETL pipeline architectures and operational procedures, creating runbooks that guided team members through troubleshooting steps and system maintenance tasks during on-call rotations."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "AWS IAM",
+        "Python",
+        "SQL",
+        "Terraform",
+        "CSV",
+        "JSON",
+        "Parquet",
+        "HIPAA Compliance",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Produced ETL pipelines using AWS Glue and S3 to process banking transaction data, implementing PCI-DSS compliant encryption and access controls that protected customer financial information for fraud detection analytics.",
+        "Extracted transaction records from AWS S3 buckets using Python scripts, transforming CSV and JSON data into structured formats loaded into AWS RDS tables that supported regulatory reporting for banking compliance teams.",
+        "Validated data quality in AWS Glue jobs by implementing automated checks that identified missing values and schema inconsistencies, preventing corrupt data from entering downstream financial analytics systems.",
+        "Scripted AWS infrastructure provisioning using Terraform, defining S3 storage, Glue ETL jobs, and RDS databases in infrastructure-as-code templates that ensured consistent deployments across banking project environments.",
+        "Accelerated query performance on AWS RDS by analyzing execution plans and adding indexes, collaborating with database teams to optimize table designs for complex analytical queries supporting financial risk dashboards.",
+        "Recorded data transformation logic in documentation that traced data flows from source systems to analytics tables, supporting PCI-DSS audit requirements and helping compliance teams verify data handling procedures.",
+        "Enforced security policies by configuring AWS IAM roles that restricted access to sensitive banking data, implementing encryption standards that protected customer information in accordance with financial industry regulations.",
+        "Arranged datasets in AWS RDS to support predictive modeling, working with data scientists to structure transaction history tables that enabled credit risk assessment and customer behavior analysis projects.",
+        "Monitored pipeline execution using AWS CloudWatch dashboards, creating alerts for job failures and data processing anomalies that required investigation to maintain SLA commitments for banking analytics use cases.",
+        "Debugged AWS Glue job failures by examining CloudWatch logs, fixing issues related to data type mismatches and resource constraints that caused transaction data processing delays during peak business periods."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "AWS IAM",
+        "Python",
+        "SQL",
+        "Terraform",
+        "CSV",
+        "JSON",
+        "PCI-DSS Compliance",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Transferred data from relational databases to Hadoop clusters using Sqoop, scheduling incremental imports that populated HDFS with client datasets for big data processing workflows in consulting projects.",
+        "Converted raw data files into structured formats using Informatica transformations, loading cleansed records into Hadoop Hive tables that supported analytical reporting for client consulting engagements.",
+        "Inspected data quality by implementing validation rules in Informatica workflows, catching format errors and missing values before data entered Hadoop storage to ensure accuracy for client analytics deliverables.",
+        "Learned Hadoop ecosystem tools by working through tutorials and debugging MapReduce jobs, gradually taking on more responsibility for pipeline maintenance as technical skills improved during the entry-level role.",
+        "Contributed to team code reviews by studying SQL and Informatica workflow designs, asking questions to understand best practices and incorporating feedback from senior engineers into personal development goals.",
+        "Attended daily standup meetings to discuss progress on data ingestion tasks, reporting blockers and coordinating with team members to resolve issues that impacted pipeline delivery timelines for client projects.",
+        "Supported senior engineers during troubleshooting sessions by gathering log files and testing fixes, gaining hands-on experience with debugging techniques that improved problem-solving skills for data engineering tasks.",
+        "Documented data pipeline configurations and operational procedures in team wikis, creating reference materials that helped onboard new team members and standardized workflow execution across consulting projects."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "Sqoop",
+        "Informatica",
+        "MapReduce",
+        "SQL",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

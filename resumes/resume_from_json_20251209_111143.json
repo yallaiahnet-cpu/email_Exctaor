@@ -1,0 +1,315 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI Developer - Enterprise Agentic Systems & Databricks",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Architected an agentic AI system for insurance using Databricks and LangGraph, where I built a multi-agent orchestrator to handle claims processing, reducing manual review time by integrating with AWS Step Functions and Pinecone for hierarchical RAG.",
+    "Formulated a HIPAA-compliant healthcare RAG pipeline on AWS, utilizing Bedrock Agents and Knowledge Bases with Claude models; encrypted PHI data in transit and at rest using KMS and VPC isolation to meet strict regulatory audits.",
+    "Assembled a banking fraud detection framework with Azure services, deploying Llama models via SageMaker and securing API endpoints with OAuth2; used Redis for caching to lower inference latency for real-time transaction monitoring.",
+    "Configured a scalable document retrieval system for insurance underwriting using PySpark on Databricks to process millions of PDFs, implementing E5 embeddings in Weaviate and optimizing Spark jobs to cut data preparation time.",
+    "Developed a Model Context Protocol server with FastAPI to standardize tool calls across different AI agents, enabling seamless integration between OpenAI GPT-4 and internal policy databases for consistent enterprise responses.",
+    "Established a full LLM evaluation suite using RAGAS and TruLens on a healthcare project, defining metrics for retrieval accuracy and answer relevance; presented findings to compliance teams to gain approval for pilot deployment.",
+    "Operated a cloud-native AI infrastructure on AWS, containerizing agents with Docker on ECS, setting up observability with CloudWatch and OpenTelemetry, and using Terraform to manage all infrastructure as code for reliability.",
+    "Programmed an Agentic RAG solution for financial document analysis, combining AWS Bedrock Guardrails for content safety and Qdrant vector search with metadata filtering to ensure precise, regulation-compliant information retrieval.",
+    "Constructed a multi-agent proof of concept for customer service using CrewAI and AutoGen frameworks, where specialist agents collaborated via shared memory in DynamoDB to resolve complex insurance inquiries end-to-end.",
+    "Integrated Databricks workflows with LangChain for enterprise data grounding, writing PySpark UDFs to chunk and embed documents at scale, then loading them into OpenSearch for low-latency semantic search across departments.",
+    "Administered fine-tuning pipelines for domain-specific models using LoRA and QLoRA techniques on SageMaker, preparing SFT datasets from historical insurance correspondence to improve response accuracy for niche topics.",
+    "Deployed a hierarchical RAG system with fallback strategies, routing simple queries to ChromaDB and complex ones to a Milvus cluster; used LangSmith for tracing and debugging agent reasoning paths in production.",
+    "Enhanced LLM cost optimization through prompt engineering and model distillation experiments, comparing outputs from GPT-4, Titan, and Llama to select the most cost-effective model for each banking use case.",
+    "Implemented a secure agent permission layer using AWS IAM roles and policies, ensuring each AI agent only accessed approved S3 buckets and Lambda functions, aligning with financial PCI-DSS compliance requirements.",
+    "Built CI/CD pipelines with GitHub Actions to automate testing and deployment of LangGraph agent assemblies, incorporating unit tests with PyTest and integration tests for API stability before production promotion.",
+    "Designed a real-time alerting dashboard with Prometheus and Grafana to monitor agent health and RAG pipeline performance, setting up SQS queues for decoupled communication between orchestration components.",
+    "Collaborated with data engineers to optimize PySpark joins and aggregations for feature engineering on large insurance datasets in Databricks, improving data freshness for AI models from daily to near real-time.",
+    "Authored comprehensive technical documentation for multi-agent system architecture and operational runbooks, facilitating knowledge transfer to ML engineers and ensuring sustainable system maintenance by the team."
+  ],
+  "technical_skills": {
+    "AI Orchestration & Agent Frameworks": [
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "AWS Step Functions",
+      "AWS Bedrock Agents",
+      "Model Context Protocol (MCP)",
+      "Multi-Agent Systems"
+    ],
+    "Large Language Models & Optimization": [
+      "OpenAI GPT-4",
+      "Anthropic Claude",
+      "Meta Llama",
+      "Amazon Titan",
+      "LoRA",
+      "QLoRA",
+      "RLHF",
+      "DPO",
+      "Supervised Fine-Tuning",
+      "Model Distillation"
+    ],
+    "Vector Databases & Retrieval Systems": [
+      "Pinecone",
+      "Weaviate",
+      "OpenSearch",
+      "ChromaDB",
+      "Milvus",
+      "Qdrant",
+      "Hierarchical RAG",
+      "Agentic RAG",
+      "Embedding Models (E5, bge-large, Cohere)"
+    ],
+    "Cloud AI & Serverless (AWS)": [
+      "AWS Bedrock Knowledge Bases",
+      "AWS Bedrock Guardrails",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "Amazon S3",
+      "Amazon DynamoDB",
+      "Amazon RDS",
+      "Amazon ECS",
+      "Amazon KMS",
+      "Amazon VPC",
+      "Amazon API Gateway"
+    ],
+    "Big Data & Distributed Processing": [
+      "Databricks",
+      "PySpark",
+      "Apache Spark",
+      "SQL",
+      "Data Pipelines",
+      "ETL Optimization"
+    ],
+    "Application Development & APIs": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "REST APIs",
+      "Node.js",
+      "TypeScript",
+      "API Security (OAuth2, JWT)",
+      "OpenTelemetry"
+    ],
+    "MLOps & Observability": [
+      "LangSmith",
+      "RAGAS",
+      "TruLens",
+      "DeepEval",
+      "CloudWatch",
+      "Prometheus",
+      "Grafana",
+      "MLflow"
+    ],
+    "DevOps & Infrastructure as Code": [
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "GitHub Actions",
+      "AWS CodePipeline",
+      "CI/CD",
+      "Git"
+    ],
+    "Messaging & Caching": [
+      "Amazon SQS",
+      "Redis"
+    ],
+    "Security & Compliance": [
+      "IAM & Access Control",
+      "VPC Isolation",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "Data Encryption"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Devise a new agentic orchestration layer with LangGraph to manage specialized AI agents for property claims, defining stateful workflows that coordinate damage assessment, fraud checks, and customer communication seamlessly.",
+        "Execute the migration of a legacy document processing system to a Databricks-powered pipeline, writing PySpark scripts to parse and clean millions of claim forms, then indexing them into Pinecone for adjuster agent retrieval.",
+        "Prepare a proof of concept for a Model Context Protocol server that allows agents to safely call internal policy lookup tools, integrating it with AWS Lambda and API Gateway to maintain a secure, auditable access pattern.",
+        "Construct a hierarchical RAG strategy where initial searches use a broad Weaviate index, and complex queries trigger a secondary, fine-tuned search in a dedicated Milvus cluster, improving answer precision for nuanced insurance clauses.",
+        "Install a comprehensive monitoring stack using CloudWatch and custom LangSmith traces to track agent decision paths, spending extra hours debugging a persistent issue where one agent would occasionally time out on external API calls.",
+        "Coordinate weekly meetings with compliance officers to review AI outputs, adjusting Bedrock Guardrail configurations to filter out any non-compliant language and documenting all changes for regulatory audits.",
+        "Guide a team of two ML engineers in implementing QLoRA fine-tuning for a Llama model on SageMaker, using SFT datasets from historical claims correspondence to make the model proficient in insurance jargon.",
+        "Test different embedding models like E5 and bge-large on our document corpus, running evaluation scripts with RAGAS to select the best performer for matching claimant questions to relevant policy sections.",
+        "Review all infrastructure Terraform code for the AI system, adding new modules for VPC endpoints and KMS encryption to ensure data never leaves our secure network during agent processing.",
+        "Discuss performance trade-offs with cloud architects, deciding to use ECS Fargate for most agents but Lambda for simple tools, optimizing the infrastructure bill while meeting scalability targets.",
+        "Fix a recurring error in the multi-agent handoff logic where session context was sometimes lost, adding a checkpointing mechanism in DynamoDB and improving the error logging to capture full state on failures.",
+        "Assist the product team in designing a user feedback loop, creating a simple FastAPI endpoint for adjusters to flag incorrect agent answers, which we then use to curate new training examples for model retraining.",
+        "Validate the security posture of the entire agentic system with the internal security team, mapping all IAM permissions, tightening S3 bucket policies, and ensuring all data flows are encrypted end-to-end.",
+        "Document the architecture decision records for choosing LangGraph over other orchestrators, detailing our need for cyclic workflows and human-in-the-loop nodes specific to complex insurance claim adjudication.",
+        "Participate in code reviews for the PySpark data preparation jobs, suggesting optimizations like predicate pushdown and broadcast joins to speed up the daily embedding generation pipeline by several hours.",
+        "Operate the production deployment of the new multi-agent system using a blue-green strategy on ECS, closely watching the Grafana dashboards for any latency spikes or error rate increases during the cutover."
+      ],
+      "environment": [
+        "LangGraph",
+        "Databricks",
+        "PySpark",
+        "AWS Bedrock Agents",
+        "Model Context Protocol",
+        "Pinecone",
+        "Weaviate",
+        "OpenAI GPT-4",
+        "Anthropic Claude",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "AWS Step Functions",
+        "Amazon DynamoDB",
+        "Amazon S3",
+        "Amazon KMS",
+        "FastAPI",
+        "LangSmith",
+        "Terraform",
+        "Docker",
+        "RAGAS"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Built a healthcare research assistant using LangChain and LangGraph, where a planner agent decomposed complex medical questions and a retrieval agent fetched data from a HIPAA-secure vector store built on OpenSearch.",
+        "Led the integration of AWS Bedrock Knowledge Bases with existing clinical trial databases, writing custom connectors to ingest and chunk PDF documents while preserving metadata crucial for accurate source attribution.",
+        "Trained a BERT-based model for de-identification of patient notes, fine-tuning it with DPO on a labeled dataset to achieve the high precision required for HIPAA compliance before any data entered the RAG pipeline.",
+        "Managed the deployment of a CrewAI-based multi-agent system for medical literature review, containerizing each agent with Docker and orchestrating them on ECS, with inter-agent communication via SQS queues.",
+        "Optimized the retrieval performance of the RAG system by experimenting with chunking strategies and re-ranking, ultimately implementing a hybrid search with keyword matching from OpenSearch and semantic search from embeddings.",
+        "Supported the migration of an older Flask-based model API to FastAPI, improving documentation with Swagger and adding middleware for OAuth2 token validation to secure access to the AI tools.",
+        "Partnered with cloud architects to design the network topology, placing all AI services in a private VPC with NAT gateways and ensuring that all traffic to Bedrock and SageMaker used VPC endpoints for enhanced security.",
+        "Evaluated different LLMs including Claude and GPT-4 for generating patient-facing educational content, establishing a human review workflow and using Bedrock Guardrails to block any medically unverified information.",
+        "Created a set of PyTest suites for the LangChain chains and agents, focusing on testing tool calling reliability and handling edge cases like null responses from underlying databases.",
+        "Presented the technical architecture of the AI system to healthcare compliance auditors, explaining the data encryption with KMS, access logging with CloudTrail, and data retention policies aligned with HIPAA rules.",
+        "Troubleshot a performance bottleneck where the RAG system was slow during peak hours, profiling the code and adding Redis caching for frequent queries, which brought the average response time under the required threshold.",
+        "Mentored a junior ML engineer on best practices for prompt engineering and evaluation, pair-programming on a script to use TruLens for generating faithfulness and context relevance scores on agent outputs.",
+        "Configured CI/CD pipelines in GitHub Actions to run the test suite and security scans on every pull request, automating the deployment to a staging environment for final validation before production.",
+        "Attended daily stand-ups with the product and data engineering teams, providing updates on AI development progress and clarifying requirements for new data sources needed to improve agent knowledge."
+      ],
+      "environment": [
+        "LangChain",
+        "LangGraph",
+        "AWS Bedrock Knowledge Bases",
+        "AWS Bedrock Guardrails",
+        "OpenSearch",
+        "HIPAA Compliance",
+        "Docker",
+        "Amazon ECS",
+        "Amazon SQS",
+        "FastAPI",
+        "OAuth2",
+        "Amazon VPC",
+        "Amazon KMS",
+        "Claude",
+        "Redis",
+        "PyTest",
+        "TruLens",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed a machine learning model on Azure Databricks to predict public health program eligibility, using PySpark for feature engineering from SQL databases and Scikit-Learn for model training within the secure state cloud.",
+        "Implemented a batch inference pipeline with Azure Data Factory, scheduling nightly jobs to score new applicants and writing results to a dedicated Azure SQL Database for caseworkers to access the next morning.",
+        "Secured all health data according to HIPAA standards, using Azure Key Vault for secret management and ensuring all PII was encrypted both in Azure Blob Storage and during processing in the Databricks notebooks.",
+        "Worked with the compliance team to document the data lineage and model decision logic, creating detailed reports to satisfy state regulatory requirements for transparency in automated government decision-making.",
+        "Debugged a persistent data skew issue in one of the PySpark jobs that caused some executors to run out of memory, applying salting techniques to redistribute the keys and balance the workload across the cluster.",
+        "Containerized the model serving application using Docker and deployed it on Azure Container Instances, setting up authentication with Azure Active Directory to control access to the prediction API.",
+        "Established model monitoring with Azure Application Insights, tracking prediction drift and data quality metrics, and setting up email alerts for the data science team when significant deviations occurred.",
+        "Participated in requirements gathering sessions with public health department stakeholders, translating their complex policy rules into actionable features and validation checks for the ML pipeline.",
+        "Reviewed pull requests from other engineers on the team, focusing on code quality, SQL query optimization, and adherence to the state's strict data security standards for all new integrations.",
+        "Optimized the cost of the Azure infrastructure by right-sizing Databricks clusters and implementing auto-termination policies for idle clusters, presenting the savings analysis in a monthly FinOps review meeting.",
+        "Created a set of reusable Python modules for common data validation and cleaning tasks, reducing code duplication across different notebooks and making the project easier for new team members to understand.",
+        "Assisted in the handover of the system to the state's operational IT team, creating runbooks for common support scenarios and conducting training sessions on how to monitor and restart the pipelines if needed."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "PySpark",
+        "SQL",
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure Blob Storage",
+        "Azure Key Vault",
+        "Scikit-Learn",
+        "Docker",
+        "Azure Container Instances",
+        "Azure Active Directory",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Analyzed large volumes of transaction data using SQL and Python on Azure Synapse, building features to detect potential fraud patterns and testing various classification models like XGBoost for accuracy and explainability.",
+        "Deployed a trained fraud detection model as a REST API using Flask on Azure App Service, integrating it with the core banking transaction processing system to provide real-time risk scores for authorization decisions.",
+        "Ensured the entire solution complied with PCI-DSS regulations by working with the security team to implement data masking in logs, secure credential storage in Azure Key Vault, and comprehensive audit trails.",
+        "Collaborated with data engineers to design and implement a new data pipeline in Azure Data Factory that refreshed the model's features hourly, improving the timeliness of fraud alerts for the monitoring team.",
+        "Spent considerable time cleaning and validating the training datasets, dealing with missing values and class imbalance, and documenting all preprocessing steps for model governance and regulatory reviews.",
+        "Evaluated model performance using precision-recall curves and confusion matrices, presenting the results to business stakeholders to help them understand the trade-off between catching fraud and false positive rates.",
+        "Wrote unit tests for the feature engineering code using pytest, ensuring that calculations for derived features like transaction velocity were correct and consistent across different data slices.",
+        "Participated in daily scrums with the fraud analytics team, discussing progress, blockers, and coordinating with other teams who owned upstream data sources needed for the project.",
+        "Researched and proposed the use of anomaly detection algorithms for identifying new, unknown fraud patterns, implementing a proof of concept with Isolation Forest that was later integrated into the monitoring dashboard.",
+        "Provided on-call support for the production model during the first month post-deployment, troubleshooting a few issues related to data format changes from an upstream system and updating the API to handle them gracefully."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "Azure Synapse",
+        "XGBoost",
+        "Flask",
+        "Azure App Service",
+        "Azure Data Factory",
+        "Azure Key Vault",
+        "PCI-DSS Compliance",
+        "pytest"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to build and maintain ETL pipelines using Informatica to extract data from various source systems, transform it according to business rules, and load it into a centralized Hadoop data lake for client reporting.",
+        "Wrote Sqoop scripts to move data between relational databases like Oracle and the Hadoop cluster, scheduling these jobs with cron and monitoring their execution to ensure daily data loads completed on time.",
+        "Supported senior engineers in optimizing Hive queries for better performance, learning how to partition tables and use appropriate file formats to speed up analytical queries run by the business intelligence team.",
+        "Assisted in troubleshooting failed data loads, checking log files, verifying source system connectivity, and re-running jobs after fixing issues like missing source files or disk space problems on the cluster.",
+        "Documented the data lineage and transformation logic for several key ETL mappings, creating diagrams and descriptions that helped new team members understand the flow of data through the system.",
+        "Attended training sessions on Hadoop ecosystem tools like Hive and HDFS, gradually taking on more responsibility for writing and maintaining Hive scripts for data quality checks and aggregation.",
+        "Participated in code review meetings, initially observing and later providing feedback on the clarity and efficiency of SQL and HiveQL written by peers for various data transformation tasks.",
+        "Gained experience with basic Linux system administration tasks on the Hadoop cluster nodes, such as checking disk usage, managing file permissions, and restarting services under the guidance of the infrastructure team."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Oracle",
+        "SQL",
+        "Linux",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

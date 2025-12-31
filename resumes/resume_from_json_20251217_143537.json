@@ -1,0 +1,312 @@
+{
+  "COLORFUL METADATA JSON": {
+    "name": "Shivaleela Uppula",
+    "title": "Senior Machine Learning Engineer - Distributed AI Systems & Gen AI",
+    "contact": {
+      "email": "shivaleelauppula@gmail.com",
+      "phone": "+12244420531",
+      "portfolio": "",
+      "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+      "github": ""
+    },
+    "professional_summary": [
+      "I am having 10 years of experience in building end-to-end machine learning systems, with deep expertise in distributed computing, scalable model deployment, and designing reliable AI pipelines for regulated industries like healthcare and finance.",
+      "Architected and implemented a multi-agent framework using LangGraph and Crew AI to automate complex healthcare supply chain predictions, orchestrating specialized agents for data validation, model inference, and HIPAA-complaint result aggregation.",
+      "Engineered a distributed training pipeline with Ray and PyTorch to process terabyte-scale medical imaging datasets, implementing parallel data loading and gradient synchronization that slashed model iteration time by forty percent.",
+      "Deployed a Retrieval-Augmented Generation system on AWS SageMaker, integrating fine-tuned LLMs with a Pinecone vector database to provide clinicians with accurate, context-aware insights from fragmented patient history documentation.",
+      "Established a comprehensive MLOps framework using Docker, Kubernetes, and MLflow, enabling reproducible experiments, automated model registry, and one-click deployments that strictly adhered to FDA software validation guidelines.",
+      "Led the development of a real-time fraud detection system for financial transactions, utilizing TensorFlow and online learning techniques to adapt to emerging patterns while ensuring full PCI DSS compliance in all data handling processes.",
+      "Optimized large-scale feature engineering pipelines using Pandas, NumPy, and Dask, transforming raw insurance claims data into millions of predictive features with efficient memory management and incremental processing strategies.",
+      "Built a containerized CI/CD pipeline with GitHub Actions and Terraform to provision scalable AWS infrastructure, automating the testing and promotion of machine learning models from development to production environments.",
+      "Designed and maintained a model monitoring dashboard that tracked performance drift, data quality metrics, and inference latency, triggering automatic retraining workflows when key business KPIs deviated from established baselines.",
+      "Spearheaded the migration of monolithic batch inference systems to a microservices-based architecture on Kubernetes, improving system reliability and enabling A/B testing of new model versions with zero downtime.",
+      "Collaborated with data scientists and software engineers to refactor research notebooks into modular, production-grade Python packages, enforcing code quality standards, unit testing, and comprehensive technical documentation.",
+      "Solved critical performance bottlenecks in deep learning inference by implementing model quantization with TensorRT and designing efficient batch processing logic, achieving a threefold increase in throughput for computer vision models.",
+      "Integrated diverse data sources including SQL databases, NoSQL document stores, and real-time Kafka streams to construct unified feature stores, ensuring consistency and low-latency access for various machine learning applications.",
+      "Championed the adoption of infrastructure as code practices using Terraform, defining repeatable configurations for AWS SageMaker endpoints, S3 data lakes, and VPC networking that accelerated project onboarding and ensured security.",
+      "Mentored junior engineers on software engineering best practices, distributed systems concepts, and the practical challenges of deploying and maintaining machine learning models in highly regulated enterprise environments.",
+      "Conducted thorough debugging sessions to diagnose and resolve sporadic failures in distributed training jobs, tracing issues to network timeouts and implementing robust retry logic with exponential backoff strategies.",
+      "Partnered with compliance and legal teams to design secure ML deployment patterns that encrypted data in transit and at rest, implemented detailed audit logs, and managed PII in accordance with GDPR and CCPA regulations.",
+      "Explored emerging technologies through proof-of-concept projects, evaluating vector databases like FAISS for similarity search and implementing the Model Context Protocol for standardizing communication between AI agents and tools."
+    ],
+    "technical_skills": {
+      "Programming Languages & Distributed Computing": [
+        "Python",
+        "Ray",
+        "Java",
+        "SQL",
+        "Scala",
+        "Bash/Shell"
+      ],
+      "Machine Learning & Deep Learning Frameworks": [
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Keras",
+        "XGBoost",
+        "Transformers",
+        "Hugging Face"
+      ],
+      "MLOps, CI/CD & Orchestration": [
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "Apache Airflow",
+        "Terraform",
+        "GitHub Actions",
+        "Kubeflow"
+      ],
+      "Cloud AI & Managed Services": [
+        "AWS SageMaker",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS EC2",
+        "AWS RDS",
+        "AWS Bedrock"
+      ],
+      "Data Processing & Feature Engineering": [
+        "Pandas",
+        "NumPy",
+        "Dask",
+        "Apache Spark",
+        "Feature Store",
+        "Apache Arrow"
+      ],
+      "Generative AI & LLM Systems": [
+        "Large Language Models",
+        "Prompt Engineering",
+        "Retrieval-Augmented Generation",
+        "LangGraph",
+        "Crew AI",
+        "Model Context Protocol"
+      ],
+      "Databases & Storage": [
+        "SQL Databases",
+        "PostgreSQL",
+        "NoSQL Databases",
+        "MongoDB",
+        "Vector Databases",
+        "Pinecone",
+        "FAISS",
+        "Redis"
+      ],
+      "Big Data & Real-time Processing": [
+        "Apache Kafka",
+        "Spark Streaming",
+        "Distributed Training",
+        "Large-scale Datasets"
+      ],
+      "Model Development & Deployment": [
+        "End-to-end ML Pipelines",
+        "Model Training",
+        "Model Deployment",
+        "Scalable System Design",
+        "Containerization"
+      ],
+      "Monitoring, Reliability & Compliance": [
+        "ML Pipeline Monitoring",
+        "Model Lifecycle Management",
+        "HIPAA",
+        "GDPR",
+        "PCI DSS",
+        "Technical Documentation"
+      ]
+    },
+    "experience": [
+      {
+        "role": "Senior Data Engineer-AI/ML with Gen AI",
+        "client": "Medline Industries",
+        "duration": "2023-Dec - Present",
+        "location": "Illinois",
+        "responsibilities": [
+          "Leveraged LangGraph to orchestrate a multi-agent AI system for healthcare supply chain optimization, designing specialized agents for demand forecasting and inventory management that improved stock availability by twenty-five percent.",
+          "Utilized PyTorch and distributed computing with Ray to train a deep learning model on massive medical device datasets, implementing custom data loaders and parallel processing to reduce training duration from weeks to mere days.",
+          "Employed AWS SageMaker to deploy a suite of machine learning models for predictive maintenance, building automated pipelines for data preprocessing, batch inference, and results dissemination to ERP systems.",
+          "Implemented Docker and Kubernetes to containerize generative AI proof-of-concepts, creating scalable deployments for RAG systems that provided instant access to updated clinical procedure documentation for hospital staff.",
+          "Applied Terraform to codify the infrastructure for a real-time analytics platform, provisioning SageMaker endpoints, S3 buckets, and VPC security groups in a repeatable, version-controlled manner compliant with HIPAA.",
+          "Integrated Pinecone as a vector database within a Crew AI multi-agent framework, enabling semantic search across millions of biomedical research abstracts to support evidence-based procurement decisions.",
+          "Architected an end-to-end ML pipeline using Apache Airflow for workflow orchestration, coordinating feature engineering with Pandas, model training with scikit-learn, and validation against stringent healthcare benchmarks.",
+          "Developed comprehensive monitoring for deployed ML systems using custom Python scripts and CloudWatch, tracking model drift on patient readmission predictions and triggering alerts for manual review.",
+          "Engineered a feature engineering framework with NumPy and Pandas that transformed raw EHR data into structured features, implementing rigorous validation checks to ensure data quality for sensitive diagnostic models.",
+          "Championed MLOps best practices by establishing a model registry with MLflow, enabling lineage tracking, experiment comparison, and seamless promotion of candidate models through staged development environments.",
+          "Constructed reliable and scalable data pipelines to feed machine learning workloads, sourcing from SQL databases and streaming sources while enforcing data anonymization protocols for PHI protection.",
+          "Debugged complex performance issues in distributed inference jobs, profiling memory usage and optimizing batch sizes to achieve consistent sub-second latency for real-time API endpoints serving clinical decision support.",
+          "Documented the entire system architecture, data flows, and operational runbooks, creating clear guides for on-call engineers to troubleshoot pipeline failures and perform routine model updates.",
+          "Collaborated with cross-functional teams of clinicians and supply chain analysts to translate business requirements into technical specifications for AI agents, iterating on prototypes based on user feedback sessions.",
+          "Designed and executed a proof-of-concept using the Model Context Protocol to standardize tool-calling capabilities for AI agents, simplifying the integration of internal healthcare APIs into the LangGraph workflow.",
+          "Maintained high code quality through rigorous peer reviews, writing unit tests for data processing utilities and integration tests for multi-agent interactions to ensure system reliability before production deployment."
+        ],
+        "environment": [
+          "Python",
+          "Ray",
+          "PyTorch",
+          "TensorFlow",
+          "scikit-learn",
+          "Pandas",
+          "NumPy",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "SQL",
+          "NoSQL",
+          "LangGraph",
+          "Crew AI",
+          "Pinecone",
+          "MLflow",
+          "Apache Airflow",
+          "End-to-end ML Pipeline",
+          "Model Deployment",
+          "Generative AI",
+          "RAG",
+          "HIPAA Compliance"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "client": "Blue Cross Blue Shield Association",
+        "duration": "2022-Sep - 2023-Nov",
+        "location": "St. Louis",
+        "responsibilities": [
+          "Harnessed TensorFlow and distributed computing principles to develop a claims fraud detection model, engineering features from historical transaction data and achieving a significant increase in early fraudulent pattern identification.",
+          "Orchestrated machine learning model development pipelines with Apache Airflow, automating the retraining of risk-adjustment models on fresh batches of member eligibility data every quarter to maintain predictive accuracy.",
+          "Deployed scalable ML systems on AWS using SageMaker Pipelines, containerizing pre-processing logic and inference code to ensure consistent execution across development, testing, and production environments.",
+          "Formulated a strategy for large-scale dataset handling using PySpark and Dask, efficiently processing years of insurance claims stored in S3 to create aggregated features for population health management models.",
+          "Constructed a robust feature engineering layer with Pandas and NumPy, transforming raw procedural codes and diagnostic information into standardized inputs for a suite of clinical prediction models.",
+          "Pioneered the adoption of MLOps best practices by implementing a CI/CD pipeline with GitHub Actions, automating unit tests, integration checks, and container builds for machine learning microservices.",
+          "Guided the design of a reliable ML system architecture on AWS, incorporating SageMaker for training, S3 for data versioning, and Lambda functions for triggering batch inference jobs on a scheduled basis.",
+          "Integrated model training and deployment processes with existing enterprise data warehouses, writing complex SQL queries to extract training datasets and logging predictions back to operational reporting databases.",
+          "Investigated and resolved performance optimization challenges in ML workloads, refactoring data ingestion code to use parquet formats and implementing caching with Redis for frequently accessed reference data.",
+          "Led a proof-of-concept for a multi-agent system using Crew AI to automate routine data quality reporting, where specialized agents performed validation, generated summaries, and distributed findings to stakeholder teams.",
+          "Established monitoring for model lifecycle management, tracking key metrics like feature drift and prediction distributions for a readmission risk model to ensure its ongoing relevance and regulatory compliance.",
+          "Coordinated with actuarial and compliance teams to document model assumptions, validation results, and deployment procedures, ensuring all AI systems met internal governance and external regulatory standards.",
+          "Troubleshot a critical issue where batch inference jobs timed out, tracing the problem to memory leaks in a custom feature transformer and implementing a fix that restored pipeline stability.",
+          "Facilitated knowledge-sharing sessions on containerization and Kubernetes fundamentals, upskilling the data science team to package their own models as Docker images for easier deployment and scalability."
+        ],
+        "environment": [
+          "Python",
+          "TensorFlow",
+          "Distributed Computing",
+          "Machine Learning Model Development",
+          "Pandas",
+          "NumPy",
+          "Feature Engineering",
+          "AWS SageMaker",
+          "Model Deployment",
+          "MLOps",
+          "CI/CD",
+          "Docker",
+          "SQL Databases",
+          "Apache Airflow",
+          "Scalable System Design",
+          "Large-scale Datasets",
+          "Model Lifecycle Management"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "client": "State of Arizona",
+        "duration": "2020-Apr - 2022-Aug",
+        "location": "Arizona",
+        "responsibilities": [
+          "Operated Azure Machine Learning to build and deploy predictive models for public service resource allocation, utilizing scikit-learn for algorithm selection and hyperparameter tuning to optimize for equitable outcomes.",
+          "Assembled data processing libraries like Pandas and NumPy to clean and standardize heterogeneous datasets from various state agencies, creating unified views for analysis while adhering to data governance policies.",
+          "Configured Azure DevOps CI/CD pipelines to automate the testing and deployment of machine learning components, reducing manual effort and introducing consistency across multiple development teams.",
+          "Engineered a feature engineering framework to transform raw census and unemployment data, creating derived indicators that improved the accuracy of economic forecasting models used for policy planning.",
+          "Managed the end-to-end development of an ML pipeline for predicting program enrollment trends, from data extraction with SQL to model training and finally generating reports for department heads.",
+          "Participated in the design of a scalable data architecture on Azure, utilizing Data Factory for orchestration and Databricks for large-scale data transformation preceding model training cycles.",
+          "Supported the deployment of machine learning models as containerized services on Azure Kubernetes Service, collaborating with infrastructure teams to configure networking, scaling, and monitoring.",
+          "Executed debugging sessions to troubleshoot failures in scheduled training pipelines, often spending hours reviewing logs to identify issues related to data schema changes or expired credentials.",
+          "Authored detailed technical documentation for newly developed data pipelines and model APIs, ensuring that ongoing maintenance and future enhancements could be performed by other team members.",
+          "Applied MLOps principles to establish a basic model registry, tracking experiment parameters and performance metrics to facilitate the selection of the best-performing model for production use.",
+          "Engaged in cross-functional collaboration with policy analysts, translating their qualitative insights into quantifiable features that could be incorporated into statistical models for more nuanced predictions.",
+          "Ensured the reliability of ML pipelines by implementing comprehensive data validation checks at each processing stage, catching anomalies in incoming public datasets before they could affect model outputs."
+        ],
+        "environment": [
+          "Python",
+          "scikit-learn",
+          "Machine Learning Model Development",
+          "Pandas",
+          "NumPy",
+          "Azure Machine Learning",
+          "Model Training",
+          "End-to-end ML Pipeline",
+          "CI/CD",
+          "SQL Databases",
+          "Data Processing",
+          "Feature Engineering",
+          "Model Deployment",
+          "Government Regulations"
+        ]
+      },
+      {
+        "role": "Big Data Engineer",
+        "client": "Discover Financial Services",
+        "duration": "2018-Jan - 2020-Mar",
+        "location": "Houston, Texas",
+        "responsibilities": [
+          "Utilized Python and PySpark to develop machine learning features from massive transaction datasets, constructing aggregates and behavioral indicators for models predicting credit card churn and spending patterns.",
+          "Applied data processing libraries such as Pandas for exploratory analysis on sample datasets, identifying data quality issues and designing transformation rules to be implemented at scale in Spark jobs.",
+          "Built components of a model training pipeline on Azure, preparing labeled datasets and integrating with Data Science workspaces for iterative algorithm development and evaluation by the modeling team.",
+          "Engineered scalable data pipelines to feed machine learning experiments, sourcing from SQL Server and Hadoop systems while ensuring all Personally Identifiable Information was appropriately tokenized.",
+          "Assisted in the deployment of a fraud detection model by containerizing its scoring function with Docker and assisting with its integration into a real-time API framework for transaction evaluation.",
+          "Contributed to the design of reliable data infrastructure, building idempotent Spark jobs that could reprocess data in case of failures without violating data integrity or business logic constraints.",
+          "Supported senior engineers in debugging complex data transformation issues, learning to trace discrepancies through multiple stages of a pipeline to pinpoint the exact source of an error.",
+          "Participated in code reviews for feature engineering scripts, providing feedback on code clarity, efficiency, and adherence to the team's coding standards and PCI DSS compliance requirements.",
+          "Documented the data lineage and schema definitions for key feature sets used in machine learning, creating a reference guide that accelerated onboarding for new data scientists joining the project.",
+          "Learned foundational MLOps concepts by observing the establishment of a model versioning system, understanding the importance of tracking which model version generated specific batches of predictions."
+        ],
+        "environment": [
+          "Python",
+          "Machine Learning Model Development",
+          "Pandas",
+          "PySpark",
+          "Azure",
+          "Data Processing",
+          "Feature Engineering",
+          "Model Training",
+          "SQL Databases",
+          "Docker",
+          "PCI DSS Compliance"
+        ]
+      },
+      {
+        "role": "Data Analyst",
+        "client": "Sig Tuple",
+        "duration": "2015-May - 2017-Nov",
+        "location": "Bengaluru, India",
+        "responsibilities": [
+          "Leveraged Python and SQL to extract and analyze healthcare data from Oracle and MySQL databases, creating summarized reports on diagnostic test patterns and operational efficiency for laboratory management.",
+          "Applied basic data processing with Pandas to clean and structure pathology reports, preparing standardized datasets that were later used as foundational inputs for early machine learning research projects.",
+          "Supported the development of initial feature engineering efforts, working under guidance to convert raw medical data into numerical representations suitable for statistical analysis and prototype models.",
+          "Assisted in building simple data pipelines to automate the flow of test results from instruments to analysis databases, writing scripts to handle file parsing and data validation checks.",
+          "Participated in troubleshooting sessions for data quality issues, helping to identify and correct discrepancies in patient demographic information by cross-referencing multiple source systems.",
+          "Contributed to technical documentation by maintaining data dictionaries and process flow diagrams, ensuring a clear understanding of how information moved through the healthcare analytics platform.",
+          "Engaged in team meetings to understand the regulatory constraints of handling patient data, learning the importance of data anonymization and audit trails in a HIPAA-sensitive environment.",
+          "Gained exposure to the end-to-end lifecycle of data projects, from requirement gathering with lab technicians to delivering analysis that directly impacted patient sample processing workflows."
+        ],
+        "environment": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "Oracle",
+          "MySQL",
+          "PostgreSQL",
+          "Data Processing",
+          "Healthcare Regulations",
+          "HIPAA",
+          "Feature Engineering"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "VMTW",
+        "degree": "Bachelor of Technology",
+        "field": "Computer science",
+        "year": "July 2011 - May 2015"
+      }
+    ],
+    "certifications": []
+  }
+}

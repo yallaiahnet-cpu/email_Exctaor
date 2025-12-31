@@ -1,0 +1,332 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Software Engineer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building and maintaining secure, scalable software solutions across diverse domains like Hospitality and Healthcare.",
+    "I assemble RESTful APIs using C# and .NET Framework, focusing on SOLID principles to improve code quality and maintainability for enterprise applications.",
+    "I integrate Azure services like Azure Table Storage and Azure Functions to build serverless backend systems that handle high-volume data processing.",
+    "I check code security by implementing authentication and authorization protocols to protect sensitive data, following industry regulations like HIPAA and PCI.",
+    "I produce unit and integration tests to ensure API reliability and catch bugs early in the development cycle for real-time systems.",
+    "I figure out complex algorithmic problems related to booking systems and data synchronization, which improves the performance of core applications.",
+    "I put together monitoring solutions using Application Insights to track API performance and get alerts for any production issues quickly.",
+    "I try different refactoring techniques to clean up legacy code, which actually made it easier for new team members to understand the system.",
+    "I use Git for version control across all projects, managing feature branches and pull requests to coordinate work with other developers.",
+    "I start new feature development by breaking down requirements into tasks, then work on them in Agile sprints with the frontend team.",
+    "I finish debugging sessions for production issues, often working late to fix critical bugs affecting hotel reservation confirmations.",
+    "I work on database schemas and write SQL queries to optimize data access patterns, reducing the load on our Azure SQL databases.",
+    "I set up Azure Event Grid to handle event-driven workflows, which decoupled our microservices and improved system scalability.",
+    "I update existing applications to use newer .NET versions, a process that was sometimes frustrating but necessary for security patches.",
+    "I made technical documentation for APIs so that other teams could integrate with our services without needing constant support.",
+    "I helped with code reviews, providing feedback on pull requests to maintain coding standards and share knowledge within the team.",
+    "I got better at explaining technical designs to non-technical stakeholders during project meetings for government compliance projects.",
+    "I wrote scripts to automate deployment pipelines, a basic task that saved our team a lot of manual effort over time."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      ".NET Framework",
+      ".NET Core",
+      "SQL"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure",
+      "Azure Functions",
+      "Azure Table Storage",
+      "Azure Event Grid",
+      "Azure SQL Database",
+      "Application Insights"
+    ],
+    "Backend Development & API": [
+      "RESTful APIs",
+      "Microservices",
+      "SOLID Principles",
+      "Dependency Injection",
+      "Entity Framework",
+      "Serverless Architecture"
+    ],
+    "Databases": [
+      "SQL Server",
+      "Azure Table Storage",
+      "Entity Framework Core",
+      "Stored Procedures",
+      "Query Optimization"
+    ],
+    "DevOps & CI/CD Tools": [
+      "Git",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "Testing Tools": [
+      "xUnit",
+      "NUnit",
+      "Moq",
+      "Integration Testing",
+      "Unit Testing",
+      "Postman"
+    ],
+    "Monitoring & Logging": [
+      "Application Insights",
+      "Azure Monitor",
+      "Log Analytics",
+      "Dashboard Creation",
+      "Alert Configuration"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "Azure Repos",
+      "Branch Strategies",
+      "Pull Request Workflows"
+    ],
+    "Security": [
+      "OAuth 2.0",
+      "JWT Tokens",
+      "Azure AD",
+      "Data Encryption",
+      "HIPAA Compliance",
+      "PCI DSS"
+    ],
+    "Frontend Technologies": [
+      "AngularJS",
+      "ASP.NET MVC",
+      "Razor Pages",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "Methodologies & Tools": [
+      "Agile/Scrum",
+      "Jira",
+      "Confluence",
+      "Visual Studio",
+      "SOLID Principles",
+      "Code Refactoring"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "I build new RESTful APIs with C# and .NET Core to manage real-time hotel inventory and booking data, ensuring seamless operation for thousands of daily transactions.",
+        "I created Azure Functions to process booking confirmations and cancellations, which improved our system's ability to handle peak loads during holiday seasons.",
+        "I designed a solution using Azure Table Storage for logging high-volume booking events, a choice that optimized costs compared to traditional SQL tables.",
+        "I implemented OAuth 2.0 security for all guest-facing APIs, a necessary step to protect personal data under hospitality industry privacy regulations.",
+        "I refactored a legacy payment processing module by applying SOLID principles, which made the code easier to test and reduced bug reports from the finance team.",
+        "I debug a complex issue where room availability data got out of sync; it took a week of checking logs and tracing events across services to find the root cause.",
+        "I set up Azure Event Grid to notify other services about booking status changes, an approach that decoupled our architecture and improved scalability.",
+        "I write unit tests with xUnit for new API endpoints, a practice that caught several boundary condition errors before they reached production.",
+        "I manage Git repositories and review pull requests from junior developers, providing feedback on code structure and security practices.",
+        "I collaborate with frontend developers to define API contracts for new features, which speeds up integration and reduces misunderstandings.",
+        "I work on performance tuning for slow database queries that were affecting the search functionality for hotel listings across different regions.",
+        "I configured Application Insights dashboards to monitor API response times and error rates, giving our team visibility into production health.",
+        "I added retry logic with exponential backoff to API calls between our microservices, which improved resilience during temporary Azure service disruptions.",
+        "I participate in daily standups and sprint planning sessions, where I break down large features into smaller, deliverable tasks for the team.",
+        "I document API specifications using Swagger, making it simpler for internal and external partners to integrate with our booking platform.",
+        "I learn about new Azure serverless features on the job, then experiment with them in a test environment to see if they fit our use cases."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "RESTful APIs",
+        "Azure Functions",
+        "Azure Table Storage",
+        "Azure Event Grid",
+        "Azure SQL Database",
+        "Git",
+        "Azure DevOps",
+        "OAuth 2.0",
+        "Application Insights",
+        "xUnit",
+        "SOLID Principles",
+        "Microservices",
+        "Docker",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "I developed a HIPAA-compliant patient portal using ASP.NET MVC and AngularJS, which allowed secure access to medical records and appointment scheduling.",
+        "I engineered REST APIs in C# to exchange data between the portal and legacy healthcare systems, ensuring data integrity and privacy for sensitive information.",
+        "I deployed Azure Functions to handle background processing of lab results and patient notifications, automating tasks previously done manually by staff.",
+        "I utilized Azure Table Storage for audit logging of all PHI access, a critical requirement for passing annual HIPAA compliance audits.",
+        "I applied SOLID principles during a major refactor of the patient registration module, which reduced code complexity and made onboarding new developers faster.",
+        "I tested API security by performing penetration testing simulations with the infosec team, identifying and fixing several authentication vulnerabilities.",
+        "I orchestrated database migrations using Entity Framework Core to update schemas without causing downtime for the live patient portal.",
+        "I collaborated with network teams to configure firewall rules and VPN access for external healthcare providers using our APIs.",
+        "I optimized SQL queries and added indexes to large patient history tables, cutting report generation time from minutes to seconds.",
+        "I introduced a Git branching strategy that streamlined our release process and reduced merge conflicts during bi-weekly deployments.",
+        "I assisted junior developers with debugging complex issues related to real-time data sync between distributed healthcare applications.",
+        "I produced technical documentation for the API gateway, detailing rate limiting and throttling policies for third-party integrations.",
+        "I configured continuous integration pipelines in Azure DevOps to run automated tests on every commit, improving code quality steadily.",
+        "I participated in incident response calls for production outages, helping to restore the patient portal quickly during critical situations."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET MVC",
+        "AngularJS",
+        "Azure",
+        "Azure Functions",
+        "Azure Table Storage",
+        "SQL Server",
+        "Entity Framework",
+        "Git",
+        "HIPAA",
+        "REST APIs",
+        "SOLID Principles",
+        "Azure DevOps",
+        "OAuth 2.0",
+        "JWT"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "I constructed microservices with .NET Core to manage flight booking and seat selection, supporting high traffic during holiday travel periods.",
+        "I established an API gateway pattern to route requests to appropriate backend services, simplifying the client-side code for our mobile app.",
+        "I programmed Azure Functions to send real-time flight status updates to passengers, integrating with airport display systems and push notifications.",
+        "I examined performance bottlenecks in the baggage tracking API, eventually adding Redis caching to reduce database load and improve response times.",
+        "I modernized a legacy crew scheduling application by migrating it from .NET Framework to .NET 6, a project that took about six months to complete.",
+        "I verified data consistency across distributed services using saga patterns, which was crucial for maintaining accurate passenger manifest records.",
+        "I supported the operations team during major system outages, staying late to troubleshoot issues affecting flight check-in counters.",
+        "I guided a small team of developers in adopting test-driven development practices, which gradually improved our unit test coverage.",
+        "I prepared deployment packages and ran smoke tests after each production release to ensure key booking flows still worked correctly.",
+        "I adapted third-party aviation APIs into our system, dealing with unreliable connections and implementing robust error handling.",
+        "I reviewed security protocols for passenger data storage, ensuring compliance with international data protection regulations for travel.",
+        "I communicated with database administrators to plan index rebuilds and statistics updates during overnight maintenance windows."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "Microservices",
+        "Azure",
+        "Azure Functions",
+        "SQL Server",
+        "Redis",
+        "Git",
+        "REST APIs",
+        "API Gateway",
+        "Entity Framework Core",
+        "Docker",
+        "Kubernetes",
+        "xUnit",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "I delivered a citizen services portal using ASP.NET Web API and AngularJS, allowing residents to renew driver's licenses and submit permit applications online.",
+        "I installed and configured IIS web servers for hosting the application in a government data center, following strict security baselines.",
+        "I transformed monolithic legacy applications into smaller Web API services, which improved deployment flexibility and system maintainability.",
+        "I validated all user inputs and implemented parameterized queries to prevent SQL injection attacks on public-facing government forms.",
+        "I coordinated with external vendors to integrate payment processing APIs for collecting fines and fees, ensuring PCI DSS compliance.",
+        "I repaired a critical bug in the tax calculation module just before the filing deadline, which was a nerve-wracking but successful effort.",
+        "I taught junior team members how to use Git for source control, moving the project away from an old TFS version control system.",
+        "I compiled deployment scripts to automate the release process across development, testing, and production environments.",
+        "I analyzed application logs to diagnose intermittent timeouts that occurred during high-volume periods like tax season.",
+        "I attended weekly change advisory board meetings to get approvals for production deployments and infrastructure changes."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET Web API",
+        "AngularJS",
+        "SQL Server",
+        "IIS",
+        "Git",
+        "TFS",
+        "REST APIs",
+        "Entity Framework",
+        "Windows Server",
+        "PCI DSS",
+        "SOAP Web Services"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "I coded new features for an internal loan origination system using C# and WinForms, my first experience with a large financial services codebase.",
+        "I fixed defects in the interest calculation engine, carefully testing each change to avoid introducing errors in financial computations.",
+        "I assisted senior developers with a migration from SQL Server 2008 to 2016, helping to update stored procedures and check for compatibility issues.",
+        "I learned about banking regulations like SOX and how they affect software development, especially around audit trails and access controls.",
+        "I joined daily scrums and provided status updates on my assigned tasks, which usually involved bug fixes or small feature enhancements.",
+        "I studied the existing application architecture to understand how different modules interacted, creating diagrams to share with the team.",
+        "I performed unit testing with NUnit for my code changes, a practice that was new to me but became a standard part of my workflow.",
+        "I shadowed a database administrator to learn about query optimization and index tuning for improving report generation performance."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "WinForms",
+        "SQL Server",
+        "Stored Procedures",
+        "NUnit",
+        "TFS",
+        "SOX Compliance",
+        "Windows Services",
+        "ADO.NET"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "I developed web forms for a customer relationship management system using ASP.NET Web Forms and C#, my first professional developer role.",
+        "I solved a data display issue in the customer portal by debugging JavaScript and AJAX calls, which improved the user experience for service representatives.",
+        "I connected the application to legacy billing systems using SOAP web services, learning about XML serialization and WSDL contracts.",
+        "I maintained SQL Server databases, writing basic queries and stored procedures to generate monthly customer usage reports.",
+        "I attended training sessions on .NET development patterns, which helped me understand better ways to structure my code.",
+        "I worked with a senior developer to implement a simple authentication system for internal users, my first exposure to security concepts."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET Web Forms",
+        "SQL Server",
+        "JavaScript",
+        "SOAP Web Services",
+        "ADO.NET",
+        "IIS",
+        "TFS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

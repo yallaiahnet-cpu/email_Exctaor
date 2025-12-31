@@ -1,0 +1,201 @@
+{
+  "name": "Aravind Datla",
+  "title": "Senior Data Streaming Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered real-time data pipelines using Databricks and Spark to process healthcare data streams, ensuring HIPAA compliance while delivering low-latency, application-ready datasets for critical patient care systems.",
+    "Developed Delta Lake-based data architecture for banking transactions that maintained ACID properties, enabling reliable production-grade transformations while meeting strict financial regulatory requirements.",
+    "Implemented Kafka streaming solutions for automotive sensor data, processing billions of events daily to support real-time vehicle diagnostics and predictive maintenance systems.",
+    "Created comprehensive data governance frameworks for consulting clients, utilizing Airflow orchestration to ensure data quality and compliance across multiple industry domains.",
+    "Architected scalable data processing workflows using Spark Structured Streaming to handle healthcare claims processing, reducing latency from hours to minutes while maintaining data integrity.",
+    "Built automated data quality monitoring systems using SQL and Python that proactively identified anomalies in banking transaction streams, preventing potential fraud and compliance issues.",
+    "Designed and deployed event-driven architectures for automotive telematics data, leveraging EventHub to ingest vehicle telemetry in real-time for fleet management applications.",
+    "Spearheaded the implementation of GenAI coding tools like Databricks Assistant to accelerate development of data pipelines, reducing coding time by approximately 40% across all projects.",
+    "Established best practices for data streaming architecture in healthcare environments, focusing on security, privacy, and real-time processing of sensitive patient information.",
+    "Optimized Spark performance for banking analytics workloads by implementing advanced partitioning strategies and caching techniques, improving query response times significantly.",
+    "Led cross-functional teams to integrate streaming data with machine learning pipelines for automotive predictive maintenance, enabling proactive service recommendations.",
+    "Developed standardized templates for data pipeline documentation using dbt, ensuring observability and independent management of production workflows across consulting engagements.",
+    "Pioneered the use of Delta Lake's time travel capabilities for healthcare audit trails, enabling regulatory compliance and data lineage tracking for sensitive patient information.",
+    "Implemented cost-effective data streaming solutions using serverless technologies on Azure, reducing infrastructure expenses while maintaining strict SLAs for banking transaction processing.",
+    "Designed fault-tolerant data ingestion patterns for automotive manufacturing data, ensuring continuous operation despite network disruptions and system failures.",
+    "Created automated testing frameworks for data pipelines using Python and SQL, validating data quality and consistency across healthcare, banking, and automotive domains.",
+    "Established monitoring and alerting systems for streaming applications using Azure Monitor, providing proactive incident resolution and minimizing downtime for critical systems.",
+    "Mentored junior engineers on best practices for data streaming architecture, focusing on production-grade implementations that meet industry-specific regulatory requirements."
+  ],
+  "technical_skills": {
+    "Data Engineering": [
+      "Databricks",
+      "Apache Spark",
+      "Delta Lake",
+      "Apache Kafka",
+      "Azure Event Hub",
+      "AWS Kinesis"
+    ],
+    "Programming": [
+      "Python",
+      "SQL",
+      "Scala"
+    ],
+    "Orchestration": [
+      "Apache Airflow",
+      "Databricks Workflows",
+      "dbt"
+    ],
+    "GenAI Tools": [
+      "Cursor",
+      "Windsurf",
+      "GitHub Copilot",
+      "Databricks Assistant"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "AWS"
+    ],
+    "Additional Technologies": [
+      "Apache Beam",
+      "Docker",
+      "Kubernetes",
+      "Tableau",
+      "Hadoop"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Streaming Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected real-time data processing pipelines using Databricks and Spark to handle millions of healthcare transactions daily, ensuring HIPAA compliance while delivering low-latency datasets for patient care systems.",
+        "Implemented Delta Lake-based data lake architecture that maintained ACID properties for sensitive healthcare data, enabling reliable production-grade transformations while meeting strict regulatory requirements.",
+        "Developed streaming solutions using Azure Event Hub to ingest patient monitoring data from IoT devices, processing real-time vital signs for critical care applications with sub-second latency.",
+        "Created comprehensive data governance frameworks utilizing Airflow orchestration to ensure data quality and compliance across healthcare systems, maintaining audit trails for regulatory inspections.",
+        "Engineered fault-tolerant data pipelines that could handle network disruptions and system failures, ensuring continuous operation of critical healthcare data processing systems during emergencies.",
+        "Optimized Spark performance for healthcare analytics workloads by implementing advanced partitioning strategies and caching techniques, improving query response times for patient data retrieval.",
+        "Led cross-functional teams to integrate streaming data with machine learning pipelines for healthcare predictive analytics, enabling early disease detection and personalized treatment recommendations.",
+        "Pioneered the use of Delta Lake's time travel capabilities for healthcare audit trails, enabling regulatory compliance and data lineage tracking for sensitive patient information.",
+        "Established monitoring and alerting systems for streaming applications using Azure Monitor, providing proactive incident resolution and minimizing downtime for critical healthcare systems.",
+        "Designed and implemented secure data sharing mechanisms between healthcare organizations using Delta Lake's fine-grained access controls, maintaining privacy while enabling collaborative research.",
+        "Utilized Databricks Assistant to accelerate development of healthcare data pipelines, reducing coding time by approximately 40% while maintaining code quality and documentation standards.",
+        "Developed automated testing frameworks for healthcare data pipelines using Python and SQL, validating data quality and consistency across various healthcare systems and applications.",
+        "Implemented cost-effective data streaming solutions using serverless technologies on Azure, reducing infrastructure expenses while maintaining strict SLAs for healthcare data processing.",
+        "Created standardized templates for healthcare data pipeline documentation using dbt, ensuring observability and independent management of production workflows across the organization.",
+        "Spearheaded the migration of legacy batch processing systems to real-time streaming architectures, transforming how healthcare data is processed and analyzed throughout the organization.",
+        "Designed data masking and anonymization techniques for healthcare data pipelines, ensuring patient privacy while enabling data analytics and research initiatives.",
+        "Established best practices for data streaming architecture in healthcare environments, focusing on security, privacy, and real-time processing of sensitive patient information.",
+        "Mentored junior engineers on healthcare data compliance and best practices for handling sensitive patient information in streaming environments, ensuring regulatory adherence across all projects."
+      ],
+      "environment": [
+        "Databricks",
+        "Apache Spark",
+        "Delta Lake",
+        "Azure Event Hub",
+        "Apache Airflow",
+        "Python",
+        "SQL",
+        "Databricks Assistant",
+        "Azure Monitor",
+        "dbt"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Built real-time fraud detection systems using Spark Structured Streaming to analyze banking transactions as they occurred, flagging suspicious activities within milliseconds of processing.",
+        "Developed Delta Lake-based data warehouse for banking analytics that maintained ACID properties, enabling reliable production-grade transformations while meeting strict financial regulatory requirements.",
+        "Implemented Kafka streaming solutions to ingest transaction data from multiple banking systems, processing billions of events daily to support real-time financial reporting and compliance.",
+        "Created automated data quality monitoring systems using SQL and Python that proactively identified anomalies in banking transaction streams, preventing potential fraud and compliance issues.",
+        "Designed and deployed event-driven architectures for banking customer data, leveraging Azure Event Hub to ingest customer interactions in real-time for personalized banking experiences.",
+        "Optimized Spark performance for banking analytics workloads by implementing advanced partitioning strategies and caching techniques, improving query response times for financial reporting.",
+        "Led the implementation of GenAI coding tools like GitHub Copilot to accelerate development of banking data pipelines, reducing coding time by approximately 35% across all projects.",
+        "Established data governance frameworks for banking data, utilizing Airflow orchestration to ensure data quality and compliance with PCI DSS and other financial regulations.",
+        "Engineered fault-tolerant data ingestion patterns for banking transaction data, ensuring continuous operation despite network disruptions and system failures during peak processing times.",
+        "Developed standardized templates for banking data pipeline documentation using dbt, ensuring observability and independent management of production workflows across the organization.",
+        "Implemented cost-effective data streaming solutions using serverless technologies on Azure, reducing infrastructure expenses while maintaining strict SLAs for banking transaction processing.",
+        "Created secure data sharing mechanisms between banking departments using Delta Lake's fine-grained access controls, maintaining data privacy while enabling collaborative analytics.",
+        "Designed and implemented data masking techniques for banking data pipelines, ensuring customer privacy while enabling data analytics and fraud detection initiatives.",
+        "Spearheaded the migration of legacy ETL processes to real-time streaming architectures, transforming how banking data is processed and analyzed throughout the organization.",
+        "Mentored junior engineers on banking data compliance and best practices for handling sensitive financial information in streaming environments, ensuring regulatory adherence across all projects."
+      ],
+      "environment": [
+        "Apache Spark",
+        "Delta Lake",
+        "Apache Kafka",
+        "Azure Event Hub",
+        "Apache Airflow",
+        "Python",
+        "SQL",
+        "GitHub Copilot",
+        "dbt",
+        "Azure"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed real-time data processing pipelines using Apache Kafka and Hadoop to handle automotive sensor data, processing billions of events daily for vehicle diagnostics and predictive maintenance.",
+        "Implemented Apache Airflow workflows to orchestrate complex data pipelines for automotive manufacturing data, ensuring timely processing and delivery of critical production metrics.",
+        "Created data visualization dashboards using Tableau to display automotive performance metrics, enabling engineers to identify trends and anomalies in vehicle operation data.",
+        "Engineered Python-based data transformation scripts to process automotive telemetry data, converting raw sensor readings into meaningful insights for vehicle performance optimization.",
+        "Designed and deployed fault-tolerant data ingestion patterns for automotive telematics data, ensuring continuous operation despite network disruptions and system failures in vehicles.",
+        "Optimized data processing performance for automotive analytics workloads by implementing advanced partitioning strategies in Hadoop, improving query response times for vehicle data retrieval.",
+        "Led the integration of streaming data with machine learning pipelines for automotive predictive maintenance, enabling proactive service recommendations and reducing vehicle downtime.",
+        "Established data quality monitoring systems using Python and SQL that proactively identified anomalies in automotive sensor data streams, preventing potential issues in vehicle operation.",
+        "Developed standardized templates for automotive data pipeline documentation, ensuring observability and independent management of production workflows across the organization.",
+        "Implemented cost-effective data processing solutions using Hadoop ecosystem, reducing infrastructure expenses while maintaining strict SLAs for automotive data processing and analysis.",
+        "Created secure data sharing mechanisms between automotive departments using fine-grained access controls, maintaining data privacy while enabling collaborative analytics on vehicle performance.",
+        "Spearheaded the migration of legacy batch processing systems to real-time streaming architectures, transforming how automotive data is processed and analyzed throughout the organization."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "Hadoop Ecosystem"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Built data integration solutions using Talend and Apache Airflow to extract, transform, and load data from multiple client systems into centralized data warehouses for consulting analytics.",
+        "Developed SQL-based data models and stored procedures for MySQL and PostgreSQL databases, optimizing query performance and ensuring data integrity for consulting client projects.",
+        "Created data visualization dashboards using Tableau to display business metrics and KPIs for consulting clients, enabling data-driven decision making and strategic planning.",
+        "Implemented Python scripts for data cleaning and preprocessing, preparing raw client data for analysis and reporting across various consulting engagements in different industries.",
+        "Designed and deployed ETL processes using Talend to handle data migration projects for consulting clients, ensuring accurate and timely transfer of data between systems.",
+        "Established data quality monitoring frameworks using SQL queries to identify and resolve data inconsistencies in client databases, improving overall data reliability for consulting projects.",
+        "Developed automated reporting systems using Apache Airflow to generate and distribute regular business reports to consulting clients, ensuring timely delivery of critical business insights.",
+        "Optimized database performance for consulting client applications by implementing proper indexing strategies and query optimization techniques in MySQL and PostgreSQL.",
+        "Created documentation and best practices for data integration processes, ensuring consistency and knowledge sharing across the consulting team for future client engagements.",
+        "Collaborated with client stakeholders to understand business requirements and translate them into technical data solutions, ensuring alignment between business needs and technical implementations."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

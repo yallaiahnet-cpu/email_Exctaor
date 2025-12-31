@@ -1,0 +1,267 @@
+{
+  "personal_info": {
+    "name": "Onteru",
+    "title": "Senior IBM Mainframe Application Developer",
+    "email": "onteru.sfdc@gmail.com",
+    "phone": "7372310791",
+    "location": "",
+    "linkedin": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing, developing, and supporting mission-critical enterprise systems on IBM mainframe platforms across healthcare, finance, and telecommunications domains.",
+    "Built and maintained high-availability COBOL, CICS, and DB2 applications for healthcare claims processing, ensuring strict compliance with HIPAA regulations and state government mandates.",
+    "Architected batch processing workflows using JCL and IBM mainframe utilities to handle large-scale financial transactions, improving data processing speed and ensuring PCI-DSS compliance.",
+    "Developed online CICS transactions integrated with VSAM files and DB2 databases for real-time customer service systems in telecommunications, enhancing user response times.",
+    "Performed code reviews and debugging sessions using IBM Debug Tool to identify performance bottlenecks in legacy mainframe applications, leading to system optimizations.",
+    "Managed the complete software development lifecycle for mainframe applications, collaborating with business analysts and QA testers to deliver compliant solutions.",
+    "Configured and monitored production batch jobs using job scheduling tools, ensuring timely execution of critical business processes and reducing manual intervention.",
+    "Designed DB2 database structures and wrote complex SQL queries to support new business reporting requirements, enabling better data-driven decision-making.",
+    "Supported production issues for 24/7 mainframe systems, applying structured analytical thinking to quickly resolve incidents and minimize business impact.",
+    "Created detailed technical documentation for COBOL programs, JCL procedures, and system interfaces, facilitating knowledge transfer and smoother team onboarding.",
+    "Implemented version control practices for mainframe code using standard tools, maintaining clear audit trails and supporting organizational governance frameworks.",
+    "Participated in cross-functional meetings to analyze business requirements and translate them into technical specifications for mainframe development teams.",
+    "Optimized VSAM file access patterns and DB2 query performance through careful analysis and tuning, significantly reducing CPU consumption and improving batch window times.",
+    "Adhered to enterprise security standards by applying RACF principles to application design, protecting sensitive data in highly regulated environments.",
+    "Collaborated with production support teams to deploy application fixes and enhancements, following established change management procedures to ensure system stability.",
+    "Contributed to continuous improvement initiatives by suggesting process refinements for mainframe development and testing, increasing team efficiency over time.",
+    "Utilized TSO/ISPF daily for development tasks, becoming proficient in navigating the mainframe environment to manage libraries, datasets, and job outputs.",
+    "Gained exposure to modernization concepts and integration patterns, understanding how legacy mainframe systems can connect with newer cloud-based platforms."
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "COBOL",
+      "JCL"
+    ],
+    "frameworks": [
+      "CICS"
+    ],
+    "databases": [
+      "DB2",
+      "VSAM"
+    ],
+    "cloud_technologies": [],
+    "ui_technologies": [],
+    "tools": [
+      "IBM Mainframe Utilities",
+      "TSO/ISPF",
+      "IBM Debug Tool/XPEDITER",
+      "Endevor",
+      "CA7/Control-M"
+    ],
+    "version_control": [
+      "Endevor"
+    ],
+    "testing_tools": [
+      "IBM Debug Tool"
+    ],
+    "other_skills": [
+      "Batch & Online Processing",
+      "Performance Tuning",
+      "Production Support",
+      "Technical Documentation",
+      "RACF Security",
+      "SDLC/Agile"
+    ]
+  },
+  "experience": [
+    {
+      "company": "State of TX",
+      "location": "Dallas, TX",
+      "role": "Lead Mainframe Application Developer",
+      "start_date": "Dec 2023",
+      "end_date": "Present",
+      "project": [
+        {
+          "name": "Texas Health Benefits Management System Modernization",
+          "project_summary": "The main goal of this project was to modernize and maintain the core health benefits eligibility and claims processing system for the state, ensuring uninterrupted service for millions of beneficiaries. The agenda involved enhancing existing COBOL/CICS applications, improving batch processing efficiency, and ensuring strict compliance with evolving state healthcare regulations and federal HIPAA standards, while maintaining the stability of the legacy IBM mainframe platform.",
+          "responsibilities": [
+            "Plan system enhancements by analyzing business requirements for Medicaid eligibility changes, translating them into technical specifications for COBOL and DB2 modifications.",
+            "Implement new CICS online transaction screens to capture member data, using BMS maps and COBOL programs that integrate with existing VSAM files.",
+            "Deploy updated batch claim adjudication jobs by writing and testing JCL procedures that call new COBOL modules, ensuring seamless integration with the nightly cycle.",
+            "Monitor production batch job performance via job scheduling tool dashboards, checking for abends and verifying completion times meet service level agreements.",
+            "Optimize DB2 SQL within several critical COBOL programs by revising query predicates and adding strategic indexes, which cut report generation time.",
+            "Troubleshoot a recurring file-open error in a VSAM processing job by analyzing the JCL and program logic, identifying a timing issue, and applying a fix.",
+            "Conduct code review sessions with junior developers, providing feedback on their COBOL code structure and adherence to departmental standards.",
+            "Attend daily stand-up meetings with the business analyst to clarify requirements for a new provider payment feature, ensuring alignment before coding starts.",
+            "Build a complex DB2 stored procedure to calculate benefit summaries, replacing a slower COBOL routine and improving online response time.",
+            "Test all program changes thoroughly in the development region using test data, coordinating with the QA team for user acceptance testing sign-off.",
+            "Prepare deployment packages with all necessary components\u2014COBOL copybooks, JCL, and DB2 DDL\u2014using the version control tool for promotion to production.",
+            "Document the technical design and operational runbook for a new batch interface, detailing job dependencies and restart procedures for the support team.",
+            "Assist the production support team during the monthly financial close cycle, being on call to resolve any urgent issues with the payment processing jobs.",
+            "Evaluate the impact of a proposed regulatory change on existing systems, providing effort estimates and a high-level solution approach to management.",
+            "Maintain the security design of applications by ensuring RACF rules are correctly referenced in programs to protect sensitive health information.",
+            "Follow the organizational change management process to migrate a major enhancement into production, participating in the implementation weekend activities."
+          ],
+          "environment": [
+            "COBOL",
+            "CICS",
+            "JCL",
+            "DB2",
+            "VSAM",
+            "IBM Mainframe",
+            "Endevor",
+            "CA7",
+            "IBM Debug Tool",
+            "TSO/ISPF",
+            "RACF"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Maxim Healthcare",
+      "location": "Seattle, WA",
+      "role": "Senior Mainframe Developer",
+      "start_date": "Jul 2021",
+      "end_date": "Nov 2023",
+      "project": [
+        {
+          "name": "HIPAA-Compliant Patient Billing and Records System",
+          "project_summary": "This project focused on the development and maintenance of a centralized patient billing and medical records system on the mainframe. The primary objective was to ensure the system's continued reliability for processing millions of transactions daily while enforcing stringent HIPAA compliance for patient data security. The agenda included implementing new billing features, optimizing performance of critical batch cycles, and providing robust production support.",
+          "responsibilities": [
+            "Planned the migration of a patient statement generation module from a monthly to a weekly cycle, assessing JCL and program dependencies to create a project timeline.",
+            "Implemented a new COBOL batch program to apply insurance payment adjustments, carefully designing it to audit all changes for HIPAA compliance reporting.",
+            "Deployed the new weekly statement job stream into production, working with the operations team to schedule it in the job scheduler and set up monitoring alerts.",
+            "Monitored the performance of online CICS screens used by call center agents, using performance tool data to identify screens needing optimization.",
+            "Optimized a key VSAM file by changing its organization from ESDS to KSDS and improving the key structure, which sped up patient record lookups.",
+            "Troubleshot a difficult problem where duplicate patient IDs were created; traced the issue through multiple COBOL programs and proposed a permanent fix.",
+            "Conducted a peer review of a teammate's DB2 table design for a new audit feature, suggesting improvements to the indexing strategy.",
+            "Attended requirement workshops with the compliance officer to understand new data privacy rules and determine necessary system modifications.",
+            "Built several online CICS maps for patient data entry, ensuring they matched the existing user interface standards for the application.",
+            "Tested the year-end processing routines extensively in a dedicated test region, validating calculations and output files with the finance department.",
+            "Prepared technical specifications for a new interface to an external lab system, detailing file layouts and communication protocols.",
+            "Documented the error handling procedures for the main billing batch job, listing common abend codes and their resolution steps.",
+            "Assisted the support team during the quarter-end processing by analyzing a DB2 deadlock situation and recommending code changes to prevent it.",
+            "Evaluated the use of a mainframe utility to compress old archival data, freeing up significant DASD space without impacting application performance."
+          ],
+          "environment": [
+            "COBOL",
+            "CICS",
+            "JCL",
+            "DB2",
+            "VSAM",
+            "IBM Mainframe",
+            "Changeman",
+            "Control-M",
+            "XPEDITER",
+            "TSO/ISPF"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "location": "San Francisco, CA",
+      "role": "Mainframe Developer",
+      "start_date": "Feb 2019",
+      "end_date": "Jun 2021",
+      "project": [
+        {
+          "name": "Core Banking Transaction Processing Platform",
+          "project_summary": "The project involved maintaining and enhancing the bank's core mainframe-based transaction processing system responsible for checking, savings, and loan accounts. The main goal was to ensure the system's high availability, accuracy, and security for millions of daily transactions, adhering to strict financial regulations and PCI-DSS standards. The agenda included developing new report functionalities, improving batch processing efficiency, and supporting audit requirements.",
+          "responsibilities": [
+            "Planned the enhancement of a daily transaction summary report by gathering requirements from the finance business unit and drafting a technical approach.",
+            "Implemented a new batch COBOL program to identify and flag unusual account activity, integrating it into the existing overnight security scan job stream.",
+            "Deployed a modified funds transfer CICS program after successful testing, coordinating the release with the network team to minimize customer impact.",
+            "Monitored the daily account reconciliation batch job, investigating any mismatches by examining the VSAM transaction files and DB2 balance tables.",
+            "Optimized a lengthy COBOL program that calculated interest by restructuring its loops and moving invariant calculations outside, reducing its run time.",
+            "Troubleshot an issue where a JCL job failed intermittently due to a temporary dataset conflict, proposing a fix to use unique dataset names.",
+            "Conducted a walkthrough of my code changes for a regulatory reporting feature with the team lead and a business analyst before final testing.",
+            "Attended PCI-DSS compliance training sessions to understand the security requirements for handling credit card data within mainframe applications.",
+            "Built a set of DB2 tables to store historical exchange rates for international transactions, writing the COBOL routines to populate and access them.",
+            "Tested all program modifications related to year-end tax reporting, ensuring calculations for interest income were accurate across millions of accounts.",
+            "Prepared the implementation plan for a mandatory regulatory change, listing all programs, JCL, and control cards that required updating.",
+            "Documented the data flow for the main ATM transaction processing module, creating diagrams that were used during an internal audit."
+          ],
+          "environment": [
+            "COBOL",
+            "JCL",
+            "DB2",
+            "CICS",
+            "VSAM",
+            "IBM Mainframe",
+            "Endevor",
+            "IBM Debug Tool",
+            "RACF"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "AT&T",
+      "location": "Dallas, TX",
+      "role": "Associate Mainframe Programmer",
+      "start_date": "Mar 2017",
+      "end_date": "Jan 2019",
+      "project": [
+        {
+          "name": "Telecom Customer Billing and Service System",
+          "project_summary": "This project centered on the development and support of mainframe applications for customer billing, service activation, and inventory management. The primary goal was to maintain system stability for a high-volume telecommunications environment while implementing new service plans and billing features. The agenda involved learning the complex existing codebase, making minor enhancements, fixing defects, and providing reliable production support.",
+          "responsibilities": [
+            "Planned my work assignments using a task list provided by my team lead, focusing on smaller bug fixes and JCL updates to learn the system.",
+            "Implemented a simple change to a customer service CICS screen to add a new field, modifying the BMS map and the corresponding COBOL program.",
+            "Deployed my first independent code change\u2014a fix to a billing calculation error\u2014after my team lead approved the code and it passed unit testing.",
+            "Monitored the completion status of the daily billing extract jobs, notifying the senior developer if any jobs abended or ran longer than expected.",
+            "Optimized a personal work habit by learning to use ISPF shortcuts and libraries more effectively, which increased my daily coding output.",
+            "Troubleshot a simple file not found error in a development JCL job by checking the dataset name and correcting a typo in the DD statement.",
+            "Conducted a self-review of my COBOL code using the standard checklist provided by the team to ensure I followed naming conventions and commenting rules.",
+            "Attended team knowledge transfer sessions where senior developers explained the architecture of the major billing and inventory applications.",
+            "Built a small test driver program to simulate calls to a subprogram I was fixing, which helped me verify the correction in isolation.",
+            "Tested my code changes in the development region by running the associated JCL jobs and comparing output files with expected results."
+          ],
+          "environment": [
+            "COBOL",
+            "JCL",
+            "CICS",
+            "DB2",
+            "VSAM",
+            "IBM Mainframe",
+            "TSO/ISPF",
+            "Changeman"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "IndiGo Airlines",
+      "location": "Bengaluru, India",
+      "role": "Mainframe Trainee Programmer",
+      "start_date": "Mar 2015",
+      "end_date": "Feb 2017",
+      "project": [
+        {
+          "name": "Airline Reservation and Ticketing System Support",
+          "project_summary": "The project involved providing support and making minor enhancements to the legacy airline reservation and crew scheduling systems on the mainframe. The main goal was to ensure these operational systems ran smoothly while I learned core mainframe skills. The agenda included understanding the basics of COBOL and JCL, assisting with production job monitoring, and performing straightforward code updates under close supervision.",
+          "responsibilities": [
+            "Planned my learning path with my mentor, starting with basic TSO/ISPF navigation and progressing to writing simple JCL and COBOL programs.",
+            "Implemented corrections for minor defects in report programs, such as fixing formatting issues in a crew duty schedule printout.",
+            "Deployed my corrected programs by submitting them through the version control tool for promotion, following the team's step-by-step guide.",
+            "Monitored the nightly batch jobs for the reservation system under guidance, learning to read job logs and identify successful completion.",
+            "Optimized my understanding of VSAM files by studying training materials and asking questions during team meetings about how they were used.",
+            "Troubleshot a simple job failure in the training environment by learning to read the error messages and asking for help when stuck.",
+            "Conducted a comparison of output files from a test run with the expected results, documenting any discrepancies for the senior developer to review.",
+            "Attended classroom training sessions on COBOL syntax, DB2 SQL, and CICS basics, completing the exercises to build foundational knowledge."
+          ],
+          "environment": [
+            "COBOL",
+            "JCL",
+            "IBM Mainframe",
+            "TSO/ISPF",
+            "VSAM"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "Vignan University",
+      "location": "Hyderabad, India",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    ""
+  ]
+}

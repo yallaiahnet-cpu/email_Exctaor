@@ -1,0 +1,228 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Java AWS Cloud Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "Utilized [Java] to address [legacy system inefficiencies] by [refactoring monolithic code into microservices], [improving system response time by around 40%].",
+    "Applied [AWS Lambda] to solve [high operational costs] by [migrating on-premise workloads to serverless architecture], [reducing infrastructure costs by about 30%].",
+    "Integrated [Spring Boot] to tackle [slow API performance] by [implementing caching with Redis], [decreasing API latency by roughly 50%].",
+    "Deployed [AWS S3] to manage [data storage inefficiencies] by [implementing lifecycle policies], [optimizing storage costs by approximately 25%].",
+    "Implemented [Docker] to resolve [deployment inconsistencies] by [containerizing applications], [reducing deployment errors by around 45%].",
+    "Configured [AWS EC2] to handle [resource underutilization] by [auto-scaling groups], [improving resource efficiency by about 35%].",
+    "Used [Git] to address [code versioning issues] by [implementing branching strategies], [streamlining collaboration and reducing merge conflicts].",
+    "Applied [Jenkins] to solve [manual deployment processes] by [setting up CI/CD pipelines], [cutting deployment time by roughly 50%].",
+    "Integrated [AWS RDS] to manage [database performance bottlenecks] by [optimizing query execution], [enhancing database throughput by around 40%].",
+    "Utilized [Kubernetes] to tackle [container orchestration challenges] by [automating deployments], [reducing downtime by approximately 30%].",
+    "Implemented [REST APIs] to address [system integration issues] by [developing standardized APIs], [improving inter-system communication by about 45%].",
+    "Deployed [AWS CloudWatch] to monitor [system performance] by [setting up custom metrics], [enabling proactive issue resolution].",
+    "Applied [Maven] to manage [dependency conflicts] by [standardizing build processes], [reducing build errors by around 50%].",
+    "Used [JUnit] to address [code quality issues] by [implementing automated testing], [increasing test coverage by roughly 35%].",
+    "Integrated [AWS IAM] to solve [security vulnerabilities] by [implementing role-based access control], [enhancing system security].",
+    "Configured [Log4j] to manage [logging inefficiencies] by [centralizing log management], [improving debugging efficiency by about 40%].",
+    "Implemented [Hibernate] to tackle [database connectivity issues] by [optimizing ORM mappings], [reducing database latency by around 30%].",
+    "Utilized [AWS VPC] to address [network security concerns] by [configuring secure network architectures], [strengthening data protection]."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL"
+    ],
+    "Cloud Platforms": [
+      "AWS (Lambda, S3, EC2, RDS, CloudWatch, IAM, VPC)"
+    ],
+    "Frameworks & Tools": [
+      "Spring Boot",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Maven",
+      "JUnit",
+      "Hibernate",
+      "Log4j"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "AWS RDS"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized [Java] to address [legacy system inefficiencies] by [refactoring monolithic code into microservices], [improving system response time by around 40%].",
+        "Applied [AWS Lambda] to solve [high operational costs] by [migrating on-premise workloads to serverless architecture], [reducing infrastructure costs by about 30%].",
+        "Integrated [Spring Boot] to tackle [slow API performance] by [implementing caching with Redis], [decreasing API latency by roughly 50%].",
+        "Deployed [AWS S3] to manage [data storage inefficiencies] by [implementing lifecycle policies], [optimizing storage costs by approximately 25%].",
+        "Implemented [Docker] to resolve [deployment inconsistencies] by [containerizing applications], [reducing deployment errors by around 45%].",
+        "Configured [AWS EC2] to handle [resource underutilization] by [auto-scaling groups], [improving resource efficiency by about 35%].",
+        "Used [Git] to address [code versioning issues] by [implementing branching strategies], [streamlining collaboration and reducing merge conflicts].",
+        "Applied [Jenkins] to solve [manual deployment processes] by [setting up CI/CD pipelines], [cutting deployment time by roughly 50%].",
+        "Integrated [AWS RDS] to manage [database performance bottlenecks] by [optimizing query execution], [enhancing database throughput by around 40%].",
+        "Utilized [Kubernetes] to tackle [container orchestration challenges] by [automating deployments], [reducing downtime by approximately 30%].",
+        "Implemented [REST APIs] to address [system integration issues] by [developing standardized APIs], [improving inter-system communication by about 45%].",
+        "Deployed [AWS CloudWatch] to monitor [system performance] by [setting up custom metrics], [enabling proactive issue resolution].",
+        "Applied [Maven] to manage [dependency conflicts] by [standardizing build processes], [reducing build errors by around 50%].",
+        "Used [JUnit] to address [code quality issues] by [implementing automated testing], [increasing test coverage by roughly 35%].",
+        "Integrated [AWS IAM] to solve [security vulnerabilities] by [implementing role-based access control], [enhancing system security].",
+        "Configured [Log4j] to manage [logging inefficiencies] by [centralizing log management], [improving debugging efficiency by about 40%]."
+      ],
+      "environment": [
+        "Java",
+        "AWS",
+        "Spring Boot",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Git",
+        "Maven",
+        "JUnit",
+        "Log4j"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Implemented [Hibernate] to tackle [database connectivity issues] by [optimizing ORM mappings], [reducing database latency by around 30%].",
+        "Utilized [AWS VPC] to address [network security concerns] by [configuring secure network architectures], [strengthening data protection].",
+        "Applied [Python] to solve [data processing delays] by [automating ETL pipelines], [improving data processing speed by roughly 40%].",
+        "Integrated [PostgreSQL] to manage [data consistency issues] by [implementing transaction management], [ensuring data integrity].",
+        "Deployed [AWS RDS] to handle [database scalability challenges] by [configuring read replicas], [enhancing database performance by about 35%].",
+        "Used [SQL] to address [query inefficiencies] by [optimizing complex queries], [reducing query execution time by around 50%].",
+        "Configured [AWS Lambda] to solve [event-driven processing needs] by [implementing serverless functions], [improving real-time data processing].",
+        "Applied [Spring Boot] to tackle [microservice communication issues] by [implementing service discovery], [enhancing system reliability by roughly 45%].",
+        "Integrated [Docker] to resolve [environment inconsistencies] by [containerizing microservices], [reducing environment-related bugs by about 40%].",
+        "Utilized [Kubernetes] to manage [container deployment challenges] by [automating rollouts], [minimizing downtime during deployments].",
+        "Implemented [Jenkins] to address [CI/CD pipeline inefficiencies] by [optimizing build processes], [reducing deployment time by around 30%].",
+        "Deployed [AWS S3] to handle [large-scale data storage] by [implementing data partitioning], [improving data retrieval speed by roughly 35%].",
+        "Applied [Git] to solve [version control issues] by [enforcing pull request reviews], [enhancing code quality and collaboration].",
+        "Used [Maven] to manage [project dependencies] by [standardizing dependency management], [reducing conflicts and build errors]."
+      ],
+      "environment": [
+        "Java",
+        "AWS",
+        "Python",
+        "PostgreSQL",
+        "Spring Boot",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Git",
+        "Maven"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilized [Java] to address [application performance issues] by [optimizing code execution], [improving application speed by around 40%].",
+        "Applied [AWS EC2] to solve [resource allocation challenges] by [implementing auto-scaling], [enhancing resource utilization by about 35%].",
+        "Integrated [Spring Boot] to tackle [API integration problems] by [standardizing API development], [improving system interoperability by roughly 45%].",
+        "Deployed [AWS RDS] to manage [database performance issues] by [configuring indexing strategies], [reducing query latency by around 30%].",
+        "Implemented [Hibernate] to address [ORM inefficiencies] by [fine-tuning mappings], [optimizing database interactions].",
+        "Used [Log4j] to solve [logging inconsistencies] by [standardizing log formats], [improving debugging efficiency by about 40%].",
+        "Configured [AWS IAM] to handle [security access issues] by [implementing fine-grained permissions], [strengthening system security].",
+        "Applied [JUnit] to tackle [testing gaps] by [expanding test coverage], [reducing bugs in production by roughly 50%].",
+        "Integrated [Maven] to manage [build complexities] by [automating dependency resolution], [streamlining the build process].",
+        "Utilized [Git] to address [collaboration challenges] by [implementing code review processes], [enhancing code quality and team collaboration]."
+      ],
+      "environment": [
+        "Java",
+        "AWS",
+        "Spring Boot",
+        "Hibernate",
+        "Log4j",
+        "JUnit",
+        "Maven",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Utilized [Python] to address [data analysis inefficiencies] by [automating reporting processes], [reducing manual effort by around 40%].",
+        "Applied [SQL] to solve [data retrieval delays] by [optimizing database queries], [improving data access speed by about 35%].",
+        "Integrated [AWS S3] to manage [large datasets] by [implementing data partitioning], [enhancing data retrieval efficiency by roughly 45%].",
+        "Deployed [AWS Lambda] to handle [real-time data processing] by [implementing serverless functions], [improving data processing latency].",
+        "Implemented [PostgreSQL] to tackle [database scalability issues] by [configuring sharding strategies], [enhancing database performance by around 30%].",
+        "Used [Pandas] to address [data manipulation challenges] by [streamlining data preprocessing], [reducing data preparation time by about 40%].",
+        "Configured [AWS EC2] to solve [compute resource limitations] by [optimizing instance types], [improving computational efficiency by roughly 35%].",
+        "Applied [NumPy] to manage [numerical computations] by [vectorizing operations], [accelerating data processing by around 50%].",
+        "Integrated [Matplotlib] to tackle [data visualization needs] by [creating interactive dashboards], [enhancing data insights].",
+        "Utilized [Git] to address [version control issues] by [implementing branching strategies], [improving collaboration and code management]."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "AWS",
+        "PostgreSQL",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilized [Java] to address [data pipeline inefficiencies] by [optimizing data flow], [improving pipeline throughput by around 40%].",
+        "Applied [SQL] to solve [data integration challenges] by [standardizing database queries], [enhancing data consistency by about 35%].",
+        "Integrated [AWS S3] to manage [data storage needs] by [implementing lifecycle policies], [optimizing storage costs by roughly 45%].",
+        "Deployed [AWS EC2] to handle [compute-intensive tasks] by [configuring scalable instances], [improving task execution speed by around 30%].",
+        "Implemented [Python] to tackle [script automation needs] by [developing reusable scripts], [reducing manual intervention by about 40%].",
+        "Used [Pandas] to address [data preprocessing challenges] by [streamlining data cleaning], [enhancing data quality by roughly 35%].",
+        "Configured [Git] to solve [version control issues] by [implementing commit guidelines], [improving code management].",
+        "Applied [MySQL] to manage [database performance] by [optimizing schema design], [reducing query latency by around 50%].",
+        "Integrated [AWS RDS] to handle [database scalability] by [configuring read replicas], [enhancing database throughput by about 40%]."
+      ],
+      "environment": [
+        "Java",
+        "SQL",
+        "AWS",
+        "Python",
+        "Pandas",
+        "Git",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

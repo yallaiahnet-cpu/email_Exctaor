@@ -1,0 +1,344 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Workday HCM Technical Consultant",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Workday HCM to configure and customize payroll and time tracking modules, ensuring compliance with HIPAA regulations, which streamlined employee onboarding processes.",
+    "Managed Workday EIBs for data conversion, reducing manual errors and improving data accuracy across healthcare systems.",
+    "Implemented custom Workday integrations to automate onboarding and offboarding processes, enhancing operational efficiency in insurance claim processing.",
+    "Configured Workday security setups, including role-based access controls, to protect sensitive healthcare data in compliance with GDPR.",
+    "Developed custom reports in Workday for HR analytics, aiding in decision-making for workforce planning in banking sectors.",
+    "Handled tenant management in Workday, ensuring smooth system updates and minimal downtime for healthcare operations.",
+    "Collaborated with cross-functional teams to troubleshoot Workday integration issues, improving system reliability for insurance policy management.",
+    "Applied Workday Studio to build custom integrations, facilitating seamless data flow between HR and finance systems in banking environments.",
+    "Executed data migration tasks using Workday EIB, ensuring data integrity during transitions from legacy systems to Workday in healthcare setups.",
+    "Set up Workday payroll configurations, aligning with tax regulations and reducing compliance risks in insurance domains.",
+    "Automated time tracking and attendance modules in Workday, reducing administrative overhead in healthcare staffing.",
+    "Conducted training sessions for HR teams on Workday functionalities, improving user adoption across banking institutions.",
+    "Integrated Workday with third-party applications, enhancing data synchronization for insurance claim processing.",
+    "Managed Workday tenant environments, ensuring optimal performance and scalability for growing healthcare organizations.",
+    "Customized Workday reporting tools to generate insights into employee performance and retention in banking sectors.",
+    "Worked on Workday security configurations to safeguard employee data, adhering to PCI compliance standards in financial institutions.",
+    "Participated in Workday release management, ensuring new features were tested and deployed without disrupting healthcare operations.",
+    "Provided technical support for Workday HCM, resolving user issues and improving system usability across insurance and healthcare domains."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ],
+    "Workday HCM": [
+      "Workday Integrations (EIBs, Custom)",
+      "Payroll & Time Tracking",
+      "Security Setup",
+      "Data Conversion",
+      "Custom Reporting",
+      "Tenant Management",
+      "Workday Studio"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized AWS services to build a scalable data pipeline for insurance claim processing, improving data ingestion efficiency.",
+        "Developed a machine learning model using TensorFlow to predict claim fraud, reducing fraudulent activities by enhancing detection accuracy.",
+        "Implemented a RESTful API using Flask to integrate claim data with external systems, streamlining data exchange processes.",
+        "Configured AWS Lambda functions to automate data validation tasks, reducing manual effort and error rates in claim processing.",
+        "Collaborated with data engineers to optimize Spark jobs, improving data processing speed for large-scale insurance datasets.",
+        "Deployed a Kubernetes cluster to manage microservices, ensuring high availability for insurance application APIs.",
+        "Built a client portal using React.js, integrating RESTful APIs for data management, which improved user engagement.",
+        "Applied Docker to containerize applications, simplifying deployment processes across different environments in insurance systems.",
+        "Set up CI/CD pipelines using Jenkins, ensuring seamless integration and deployment of insurance software updates.",
+        "Worked on debugging and optimizing SQL queries, enhancing database performance for insurance data retrieval.",
+        "Conducted code reviews for Python scripts, ensuring best practices and reducing bugs in insurance analytics tools.",
+        "Participated in sprint planning meetings, aligning development efforts with business goals in insurance projects.",
+        "Troubleshot issues in data pipelines, ensuring continuous data flow for insurance reporting systems.",
+        "Integrated Apache Kafka for real-time data streaming, improving data processing efficiency in insurance claim systems.",
+        "Used Git for version control, maintaining a clean and organized codebase for insurance application development.",
+        "Mentored junior developers on AWS cloud services, enhancing team capabilities in cloud-based insurance solutions."
+      ],
+      "environment": [
+        "AWS, TensorFlow, Flask, React.js, Kubernetes, Docker, Jenkins, Python, SQL, Apache Kafka, Git"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Configured Workday HCM to manage payroll and time tracking, ensuring compliance with HIPAA regulations in healthcare.",
+        "Managed Workday EIBs for data conversion, improving data accuracy and reducing manual errors in employee records.",
+        "Implemented custom Workday integrations to automate onboarding processes, enhancing operational efficiency in HR.",
+        "Set up Workday security configurations, including role-based access controls, to protect sensitive healthcare data.",
+        "Developed custom reports in Workday for HR analytics, aiding in workforce planning and decision-making.",
+        "Handled tenant management in Workday, ensuring smooth system updates and minimal downtime for healthcare operations.",
+        "Collaborated with HR teams to troubleshoot Workday integration issues, improving system reliability.",
+        "Applied Workday Studio to build custom integrations, facilitating seamless data flow between HR and finance systems.",
+        "Executed data migration tasks using Workday EIB, ensuring data integrity during transitions from legacy systems.",
+        "Configured Workday payroll setups, aligning with tax regulations and reducing compliance risks in healthcare.",
+        "Automated time tracking and attendance modules in Workday, reducing administrative overhead in staffing.",
+        "Conducted training sessions for HR teams on Workday functionalities, improving user adoption across the organization.",
+        "Integrated Workday with third-party applications, enhancing data synchronization for healthcare operations.",
+        "Managed Workday tenant environments, ensuring optimal performance and scalability for growing organizations."
+      ],
+      "environment": [
+        "Workday HCM, AWS, Python, SQL, Git"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilized GCP services to build a data warehouse for healthcare analytics, improving data accessibility for reporting.",
+        "Developed machine learning models using Scikit-Learn to predict patient readmission rates, aiding in healthcare resource planning.",
+        "Implemented a RESTful API using Fast API to integrate patient data with external healthcare systems.",
+        "Configured GCP BigQuery for large-scale data analysis, enhancing query performance for healthcare datasets.",
+        "Collaborated with data scientists to optimize ML models, improving prediction accuracy for healthcare outcomes.",
+        "Deployed ML models using Kubernetes, ensuring scalability for healthcare analytics applications.",
+        "Built a dashboard using Tableau, integrating BigQuery data for visual healthcare insights.",
+        "Applied Docker to containerize ML applications, simplifying deployment across healthcare environments.",
+        "Set up CI/CD pipelines using GitHub Actions, ensuring seamless integration of healthcare software updates.",
+        "Worked on debugging and optimizing SQL queries, enhancing database performance for healthcare data retrieval.",
+        "Conducted code reviews for Python scripts, ensuring best practices in healthcare analytics tools.",
+        "Participated in sprint planning meetings, aligning development efforts with healthcare project goals.",
+        "Troubleshot issues in data pipelines, ensuring continuous data flow for healthcare reporting systems.",
+        "Integrated Apache Kafka for real-time data streaming, improving data processing efficiency in healthcare systems.",
+        "Used Git for version control, maintaining a clean codebase for healthcare application development."
+      ],
+      "environment": [
+        "GCP, Scikit-Learn, Fast API, Kubernetes, Docker, GitHub Actions, Python, SQL, Apache Kafka, Git"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Utilized Azure services to build a data lake for financial analytics, improving data storage and retrieval efficiency.",
+        "Developed predictive models using XGBoost to forecast customer churn, aiding in retention strategies for banking.",
+        "Implemented a RESTful API using Django to integrate customer data with external banking systems.",
+        "Configured Azure Databricks for large-scale data processing, enhancing ETL workflows for financial datasets.",
+        "Collaborated with analysts to optimize data pipelines, improving data quality for banking reports.",
+        "Deployed ML models using Azure ML Studio, ensuring scalability for financial analytics applications.",
+        "Built a dashboard using Power BI, integrating Azure data for visual financial insights.",
+        "Applied Docker to containerize analytics applications, simplifying deployment across banking environments.",
+        "Set up CI/CD pipelines using Azure DevOps, ensuring seamless integration of banking software updates.",
+        "Worked on debugging and optimizing SQL queries, enhancing database performance for financial data retrieval.",
+        "Conducted code reviews for Python scripts, ensuring best practices in banking analytics tools."
+      ],
+      "environment": [
+        "Azure, XGBoost, Django, Databricks, Docker, Azure DevOps, Python, SQL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilized Azure services to build a data warehouse for consulting projects, improving data accessibility for reporting.",
+        "Developed ETL pipelines using Apache Airflow, enhancing data integration processes for consulting clients.",
+        "Implemented a RESTful API using Flask to integrate client data with external systems, streamlining data exchange.",
+        "Configured Azure SQL Database for large-scale data storage, ensuring data integrity for consulting projects.",
+        "Collaborated with consultants to optimize data workflows, improving efficiency in client data processing.",
+        "Deployed data pipelines using Azure Data Factory, ensuring scalability for consulting analytics applications.",
+        "Built a dashboard using Tableau, integrating Azure data for visual consulting insights.",
+        "Applied Docker to containerize data applications, simplifying deployment across consulting environments.",
+        "Set up CI/CD pipelines using Jenkins, ensuring seamless integration of consulting software updates.",
+        "Worked on debugging and optimizing SQL queries, enhancing database performance for consulting data retrieval."
+      ],
+      "environment": [
+        "Azure, Apache Airflow, Flask, SQL, Docker, Jenkins, Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

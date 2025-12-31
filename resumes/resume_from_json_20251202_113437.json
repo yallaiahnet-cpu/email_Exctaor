@@ -1,0 +1,258 @@
+{
+  "name": "Aravind Datla",
+  "title": "Senior Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered comprehensive data pipelines for healthcare organizations ensuring HIPAA compliance while processing sensitive patient information across distributed systems, initially struggling with complex data mapping but eventually creating a standardized approach that became team best practice.",
+    "Developed real-time analytics solutions for banking institutions that process financial transactions while maintaining strict PCI compliance, implementing robust data validation checks that prevented fraudulent activities and saved millions in potential losses.",
+    "Architected scalable data infrastructure for automotive companies to handle telematics data from connected vehicles, learning to optimize data compression techniques that reduced storage costs by approximately 40% while maintaining data integrity.",
+    "Built consulting frameworks for cross-industry data migration projects, creating reusable templates that accelerated client onboarding by reducing initial setup time from weeks to just a few days of configuration.",
+    "Implemented cloud-native data platforms using AWS services including S3, Redshift, and Glue to transform legacy on-premise systems into modern data lakes, facing resistance from traditional IT teams but eventually demonstrating significant cost savings.",
+    "Designed and deployed machine learning pipelines for predictive healthcare analytics, integrating with existing EMR systems while ensuring patient privacy through anonymization techniques that I personally developed after extensive research.",
+    "Created automated data quality monitoring systems for financial institutions that detect anomalies in real-time, preventing data corruption issues that previously went unnoticed for days and required manual intervention to resolve.",
+    "Spearheaded the adoption of DevOps practices in data engineering teams, implementing CI/CD pipelines for data workflows that reduced deployment time from manual processes to automated releases within minutes.",
+    "Integrated streaming data processing using Apache Kafka for automotive telematics, initially facing challenges with message ordering but eventually implementing custom partitioning strategies that maintained data consistency.",
+    "Developed comprehensive data governance frameworks for consulting clients, establishing clear data ownership and quality standards that improved data reliability across organizations by addressing root causes of data issues.",
+    "Utilized Python and SQL to create self-service analytics platforms for healthcare providers, enabling non-technical users to access patient data insights without compromising security protocols or requiring IT intervention.",
+    "Constructed ETL processes for banking data warehouses using Apache Spark and Hadoop, optimizing query performance that reduced report generation time from hours to minutes while maintaining data accuracy across complex financial calculations.",
+    "Established data visualization dashboards using Tableau for automotive manufacturing insights, initially struggling with real-time data updates but eventually implementing incremental refresh strategies that provided near-live operational metrics.",
+    "Formulated data retention policies for consulting projects that balanced regulatory requirements with storage costs, creating tiered storage approaches that kept frequently accessed data readily available while archiving older data efficiently.",
+    "Deployed containerized data applications using Docker and Kubernetes, initially finding orchestration challenging but eventually mastering the setup of resilient data processing services that could automatically recover from failures.",
+    "Implemented data encryption strategies for healthcare information both at rest and in transit, working closely with security teams to ensure compliance with HIPAA requirements while maintaining system performance.",
+    "Integrated disparate data sources for banking mergers and acquisitions, developing mapping strategies that preserved data integrity during system consolidation, which was nerve-wracking but ultimately successful with minimal data loss.",
+    "Pioneered the use of graph databases for automotive supply chain analysis, discovering relationships between components and suppliers that traditional relational databases couldn't reveal, leading to more resilient sourcing strategies."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "Scala",
+      "SQL",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "Data Engineering": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Hadoop",
+      "Apache Airflow",
+      "Talend",
+      "Informatica"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Neo4j"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Snowflake",
+      "Databricks"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Kibana",
+      "Grafana"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab CI",
+      "Terraform"
+    ],
+    "Big Data Technologies": [
+      "HDFS",
+      "Hive",
+      "HBase",
+      "Flink",
+      "Storm"
+    ],
+    "Data Governance": [
+      "Collibra",
+      "Alation",
+      "Apache Atlas",
+      "DataHub"
+    ],
+    "Security & Compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GDPR",
+      "OAuth 2.0",
+      "JWT"
+    ],
+    "Monitoring & Logging": [
+      "ELK Stack",
+      "Prometheus",
+      "Grafana",
+      "Splunk",
+      "Datadog"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered HIPAA-compliant data pipelines using AWS Glue and Lambda to process sensitive patient information from multiple healthcare systems, initially struggling with complex data transformations but eventually creating standardized mapping rules that became team best practices.",
+        "Developed real-time analytics platform using AWS Kinesis and Redshift to monitor pharmacy inventory across 9,900+ locations, implementing custom anomaly detection algorithms that identified stock shortages before they impacted patient care.",
+        "Architected secure data sharing framework between CVS Health and partner healthcare providers using AWS S3 with bucket policies and VPC endpoints, working closely with legal teams to ensure all data exchanges complied with HIPAA and state-specific regulations.",
+        "Implemented automated data quality monitoring using Python scripts and AWS Step Functions to validate patient data integrity across the enterprise, creating custom validation rules that caught data inconsistencies that manual reviews had missed for years.",
+        "Built machine learning pipeline using AWS SageMaker to predict medication adherence rates, initially facing challenges with model interpretability but eventually implementing SHAP values that helped clinicians understand predictions and trust the system.",
+        "Designed serverless data processing architecture using AWS Lambda and DynamoDB to handle insurance claims processing, reducing infrastructure costs by approximately 60% while maintaining the ability to process claims during peak periods.",
+        "Created comprehensive data lineage tracking system using Apache Atlas and AWS Glue Catalog to document the flow of patient information through various systems, which was crucial during regulatory audits and saved countless hours of manual documentation.",
+        "Led migration of legacy on-premise data warehouse to AWS Redshift, developing custom ETL processes that maintained data integrity while improving query performance by roughly 5 times, though the migration process required several late nights troubleshooting data discrepancies.",
+        "Implemented fine-grained access controls using AWS IAM and Lake Formation to ensure healthcare providers could only access patient data they were authorized to view, working with security teams to create role-based permissions that matched clinical workflows.",
+        "Developed automated reporting system using AWS QuickSight to generate compliance reports for various healthcare regulations, initially finding the formatting requirements challenging but eventually creating templates that passed multiple regulatory reviews.",
+        "Constructed data anonymization pipeline using Python and AWS Glue to remove PHI from datasets used for research, developing custom algorithms that preserved data utility for analysis while protecting patient privacy according to HIPAA guidelines.",
+        "Optimized Spark jobs running on AWS EMR for processing large-scale genomic data, learning to tune cluster configurations that reduced processing time from days to hours while maintaining accuracy of complex genomic analyses.",
+        "Integrated real-time prescription monitoring with state PDMP systems using AWS API Gateway and Lambda, creating secure connections that helped pharmacists identify potential prescription abuse while maintaining patient privacy.",
+        "Established disaster recovery procedures for critical healthcare data systems using AWS Backup and cross-region replication, conducting regular drills that tested team readiness and identified gaps in the recovery process that were then addressed.",
+        "Built data visualization dashboards using Tableau integrated with AWS Redshift to provide executives with insights into healthcare operations, initially struggling with real-time data refreshes but eventually implementing incremental update strategies.",
+        "Implemented change data capture using AWS DMS to synchronize patient data between clinical and analytics systems, developing conflict resolution strategies that maintained data consistency when updates occurred simultaneously in multiple systems.",
+        "Created API gateway using AWS API Gateway to provide secure access to healthcare data for mobile applications, implementing OAuth 2.0 and JWT tokens that ensured only authorized applications could access patient information.",
+        "Led cross-functional team to develop data strategy for CVS Health's digital transformation initiatives, aligning technical capabilities with business objectives while ensuring all data initiatives complied with evolving healthcare regulations."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Apache Spark",
+        "Apache Airflow",
+        "Tableau",
+        "Redshift",
+        "S3",
+        "Lambda",
+        "Glue",
+        "Kinesis",
+        "Step Functions",
+        "SageMaker",
+        "DynamoDB",
+        "Lake Formation",
+        "QuickSight",
+        "API Gateway",
+        "DMS",
+        "EMR"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Developed PCI-compliant data pipelines using AWS services to process sensitive financial transactions, implementing encryption at rest and in transit that protected customer data while enabling real-time fraud detection across millions of daily transactions.",
+        "Engineered streaming analytics platform using AWS Kinesis and Lambda to monitor credit card transactions for fraudulent activity, creating custom anomaly detection algorithms that reduced false positives by approximately 30% compared to previous systems.",
+        "Built customer data platform using AWS Redshift and S3 to consolidate information from multiple banking systems, initially struggling with inconsistent data formats but eventually developing standardized mapping rules that improved data quality significantly.",
+        "Implemented automated data governance framework using Apache Atlas and AWS Glue to track data lineage across the enterprise, which was crucial during regulatory audits and helped demonstrate compliance with banking regulations.",
+        "Created ETL processes using Apache Spark on AWS EMR to transform raw banking data into analytics-ready formats, optimizing jobs that reduced processing time from hours to minutes while maintaining data accuracy for financial reporting.",
+        "Designed real-time notification system using AWS SNS and SQS to alert customers of suspicious account activities, working with UX teams to ensure messages were clear and actionable while not causing unnecessary alarm.",
+        "Architected data warehouse partitioning strategy using AWS Redshift to improve query performance for financial reporting, learning to choose optimal partition keys that reduced report generation time by roughly 50% during month-end closing.",
+        "Developed machine learning pipeline using Python and AWS SageMaker to predict customer churn, initially facing challenges with model bias but eventually implementing fairness metrics that ensured equitable predictions across customer segments.",
+        "Implemented CI/CD pipeline for data workflows using AWS CodePipeline and Jenkins, automating deployments that reduced manual errors and allowed data scientists to focus on model development rather than infrastructure issues.",
+        "Created data visualization dashboards using Tableau integrated with AWS Redshift to provide business users with insights into banking operations, designing interactive reports that allowed non-technical users to explore data without assistance.",
+        "Built secure data sharing platform using AWS S3 with presigned URLs and VPC endpoints to exchange information with banking partners, implementing access controls that satisfied both security requirements and business needs for collaboration.",
+        "Optimized Spark jobs running on AWS EMR for processing large-scale loan application data, learning to tune cluster configurations that reduced processing time while maintaining accuracy of complex risk calculations.",
+        "Implemented change data capture using AWS DMS to synchronize customer data between banking systems, developing conflict resolution strategies that maintained data consistency when updates occurred simultaneously in multiple applications.",
+        "Established automated testing framework for data pipelines using Python and AWS Step Functions, creating unit and integration tests that caught data quality issues before they impacted downstream systems and business processes.",
+        "Led migration of legacy on-premise data warehouse to AWS Redshift, developing custom ETL processes that maintained data integrity while improving query performance, though the migration process required several weekends of troubleshooting data discrepancies."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Apache Spark",
+        "Apache Airflow",
+        "Tableau",
+        "Redshift",
+        "S3",
+        "Lambda",
+        "Glue",
+        "Kinesis",
+        "Step Functions",
+        "SageMaker",
+        "DynamoDB",
+        "EMR",
+        "SNS",
+        "SQS",
+        "CodePipeline",
+        "Jenkins",
+        "DMS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Implemented Apache Kafka clusters to process real-time telematics data from connected vehicles, initially struggling with message ordering but eventually developing custom partitioning strategies that maintained data consistency across the streaming pipeline.",
+        "Developed Hadoop-based data lake to store and process massive volumes of vehicle sensor data, learning to optimize HDFS configurations that improved storage efficiency by approximately 40% while maintaining fast access for analytics.",
+        "Built data processing workflows using Apache Airflow to automate ETL jobs for vehicle performance analytics, creating dynamic DAGs that adapted to varying data volumes and processing requirements without manual intervention.",
+        "Created Python scripts to clean and transform raw telematics data into structured formats suitable for analysis, developing custom validation rules that identified and corrected sensor errors that previously corrupted analytics results.",
+        "Designed Tableau dashboards to visualize vehicle performance metrics and manufacturing insights, initially finding the real-time data integration challenging but eventually implementing incremental refresh strategies that provided near-live operational metrics.",
+        "Engineered data pipelines to integrate information from manufacturing systems, dealerships, and connected vehicles, developing mapping strategies that preserved data integrity across disparate systems with different data models and update frequencies.",
+        "Optimized Spark jobs running on Hadoop clusters to analyze vehicle warranty data, learning to tune job configurations that reduced processing time from days to hours while maintaining accuracy of complex failure pattern analyses.",
+        "Implemented data quality monitoring using Python scripts and Apache Airflow to validate telematics data integrity, creating custom validation rules that caught sensor malfunctions before they impacted downstream analytics and business decisions.",
+        "Developed predictive maintenance models using Python and machine learning libraries to identify potential vehicle failures before they occurred, initially facing challenges with model interpretability but eventually implementing feature importance analysis.",
+        "Created data governance framework for automotive data using Apache Atlas to document data lineage and ownership, which was crucial during regulatory compliance reviews and helped demonstrate proper handling of vehicle data.",
+        "Built real-time alerting system using Apache Kafka and Python to notify manufacturing teams of quality issues detected in vehicle data, developing threshold algorithms that reduced false alarms while catching genuine problems.",
+        "Established data retention policies for telematics information that balanced regulatory requirements with storage costs, creating tiered storage approaches that kept frequently accessed data readily available while archiving older data efficiently."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "Apache Spark",
+        "HDFS",
+        "Apache Atlas",
+        "ML Libraries"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed ETL processes using Talend to migrate data between legacy systems and modern data warehouses, initially struggling with complex transformations but eventually creating reusable components that accelerated similar migration projects for other clients.",
+        "Implemented data validation scripts using Python to ensure data quality during system conversions, developing custom validation rules that caught inconsistencies that automated tools missed, saving significant rework during later project phases.",
+        "Created Apache Airflow workflows to automate data processing tasks for banking clients, learning to design DAGs that handled dependencies and error recovery properly, which was frustrating at first but became a valuable skill for future projects.",
+        "Designed Tableau reports to visualize business metrics for consulting clients, working closely with business analysts to understand requirements and create visualizations that revealed insights not apparent in raw data spreadsheets.",
+        "Built database schemas using MySQL and PostgreSQL for various client projects, learning to optimize queries and indexes that improved application performance, which was exciting to see the tangible impact on user experience.",
+        "Integrated disparate data sources for client analytics projects using Python and SQL, developing mapping strategies that preserved data integrity during system consolidation, which required several iterations to get right but ultimately succeeded.",
+        "Implemented data security measures for financial applications including encryption and access controls, working with security teams to ensure compliance with banking regulations while maintaining system usability.",
+        "Created automated testing frameworks for data pipelines using Python, developing unit and integration tests that caught data quality issues before they impacted production systems, which saved countless hours of manual debugging.",
+        "Optimized database performance for high-transaction applications, learning to identify and resolve bottlenecks that improved response times, which was challenging but rewarding when users noticed the speed improvements.",
+        "Collaborated with cross-functional teams to deliver data solutions for various industries, learning to communicate technical concepts to non-technical stakeholders, which was initially nerve-wracking but became a strength over time."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "ETL Tools"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

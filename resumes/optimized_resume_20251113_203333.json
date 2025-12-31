@@ -1,0 +1,226 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Java Developer & Architect",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java and Spring Boot to develop scalable microservices for insurance claim processing, reducing latency by 30% and ensuring HIPAA compliance.",
+    "Implemented RESTful APIs using Java and Hibernate, streamlining healthcare data integration and improving data retrieval speeds by 25%.",
+    "Engineered a Java-based fraud detection system for banking transactions, leveraging AWS Lambda for real-time processing and reducing false positives by 40%.",
+    "Developed a Java and React.js client portal for insurance policy management, enhancing user experience and increasing policy renewals by 20%.",
+    "Designed a Java-based healthcare provider network management system, ensuring GDPR compliance and improving provider onboarding efficiency by 35%.",
+    "Built a Java and Kubernetes-based containerized application for banking risk assessment, achieving 99.9% uptime and PCI compliance.",
+    "Created a Java and Python hybrid system for insurance claims automation, reducing processing time by 50% and improving accuracy.",
+    "Implemented a Java-based ETL pipeline using Apache Kafka, streamlining healthcare data ingestion and reducing processing time by 40%.",
+    "Developed a Java and Angular-based patient portal, enhancing user engagement and reducing support tickets by 30%.",
+    "Engineered a Java-based banking transaction monitoring system, leveraging Azure Event Hubs for real-time analytics and detecting anomalies with 95% accuracy.",
+    "Built a Java and Spring Batch framework for insurance policy batch processing, improving throughput by 60% and ensuring data integrity.",
+    "Designed a Java-based healthcare claims adjudication system, ensuring HIPAA compliance and reducing claim denial rates by 25%.",
+    "Implemented a Java and React Native mobile app for insurance policyholders, improving customer satisfaction scores by 40%.",
+    "Created a Java-based banking customer segmentation system, leveraging AWS Redshift for data warehousing and improving marketing campaign ROI by 35%.",
+    "Developed a Java and Python-based machine learning model for healthcare fraud detection, achieving 90% accuracy and reducing financial losses.",
+    "Engineered a Java-based insurance policy recommendation engine, leveraging Azure Machine Learning and improving cross-selling rates by 50%.",
+    "Built a Java and Angular-based banking dashboard, providing real-time insights and reducing decision-making time by 40%."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "TypeScript"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Boot",
+      "Hibernate",
+      "Struts",
+      "JSF",
+      "React.js",
+      "Angular"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, Lambda, RDS, Redshift)",
+      "Azure (Event Hubs, Machine Learning, Cosmos DB)"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "MongoDB",
+      "Cassandra"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Git",
+      "Maven",
+      "Gradle"
+    ],
+    "Big Data & Streaming": [
+      "Apache Kafka",
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "SOAP",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "Containerization": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Machine Learning": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "Data Warehousing": [
+      "AWS Redshift",
+      "Google BigQuery"
+    ],
+    "Security & Compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GDPR"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Java Architect",
+      "client": "State Farm",
+      "duration": "2021-Aug - Present",
+      "location": "Albany, NY",
+      "responsibilities": [
+        "Architected a Java and Spring Boot-based microservices framework for insurance claim processing, reducing system latency by 30% and ensuring HIPAA compliance.",
+        "Led a team of 8 developers in migrating monolithic Java applications to AWS ECS, improving scalability and reducing infrastructure costs by 25%.",
+        "Designed and implemented a Java-based fraud detection system using AWS Lambda and DynamoDB, reducing false positives by 40% and enhancing security.",
+        "Developed a Java and React.js client portal for policy management, increasing user engagement by 20% and reducing support tickets.",
+        "Implemented a Java-based ETL pipeline using Apache Kafka and Spark, streamlining data ingestion and reducing processing time by 40%.",
+        "Conducted code reviews and mentored junior developers, ensuring adherence to Java best practices and design patterns.",
+        "Collaborated with product managers to define technical requirements and deliver solutions aligned with business goals.",
+        "Troubleshot and resolved critical production issues, ensuring 99.9% system uptime and customer satisfaction.",
+        "Integrated Java applications with third-party APIs, enhancing functionality and improving data accuracy.",
+        "Automated CI/CD pipelines using Jenkins and Docker, reducing deployment time by 50% and improving release frequency.",
+        "Implemented Java-based batch processing using Spring Batch, improving throughput by 60% and ensuring data integrity.",
+        "Ensured compliance with GDPR regulations by implementing data encryption and access controls in Java applications.",
+        "Optimized Java code for performance, reducing memory usage by 30% and improving application responsiveness.",
+        "Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+        "Documented technical designs and architecture diagrams, facilitating knowledge sharing and onboarding of new team members."
+      ],
+      "environment": [
+        "Java, Spring Boot, AWS (ECS, Lambda, DynamoDB, S3), React.js, Apache Kafka, Jenkins, Docker, MySQL, Git, Agile"
+      ]
+    },
+    {
+      "role": "Senior Java Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2018-Jan - 2021-Jul",
+      "location": "New Brunswick, NJ",
+      "responsibilities": [
+        "Developed Java-based healthcare provider network management systems, ensuring GDPR compliance and improving provider onboarding efficiency by 35%.",
+        "Implemented RESTful APIs using Java and Hibernate, streamlining data integration and improving retrieval speeds by 25%.",
+        "Built a Java and Angular-based patient portal, enhancing user engagement and reducing support tickets by 30%.",
+        "Collaborated with cross-functional teams to design and implement Java solutions for healthcare data management.",
+        "Integrated Java applications with AWS services (S3, RDS) for scalable data storage and retrieval.",
+        "Conducted unit and integration testing using JUnit and Mockito, ensuring code quality and reliability.",
+        "Participated in code reviews, providing constructive feedback and ensuring adherence to coding standards.",
+        "Troubleshot and resolved production issues, minimizing downtime and maintaining system stability.",
+        "Implemented Java-based data validation and cleansing processes, improving data accuracy by 40%.",
+        "Automated repetitive tasks using Java scripts, saving 20 hours of manual effort per week.",
+        "Mentored junior developers, providing guidance on Java best practices and problem-solving techniques.",
+        "Contributed to technical documentation, ensuring clear and concise explanations of system functionality.",
+        "Participated in Agile sprints, delivering high-quality Java code within tight deadlines.",
+        "Collaborated with QA teams to identify and resolve defects, ensuring smooth application releases."
+      ],
+      "environment": [
+        "Java, Hibernate, AWS (S3, RDS), Angular, MySQL, JUnit, Mockito, Git, Agile"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "State of Maine",
+      "duration": "2016-Mar - 2017-Dec",
+      "location": "Augusta, ME",
+      "responsibilities": [
+        "Developed Java-based healthcare claims adjudication systems, ensuring HIPAA compliance and reducing claim denial rates by 25%.",
+        "Implemented Java and Spring Batch frameworks for batch processing, improving throughput by 60% and ensuring data integrity.",
+        "Built a Java and React Native mobile app for policyholders, improving customer satisfaction scores by 40%.",
+        "Collaborated with business analysts to gather requirements and translate them into technical specifications.",
+        "Integrated Java applications with external APIs for data exchange and system interoperability.",
+        "Conducted performance tuning of Java applications, reducing response times by 30% and improving user experience.",
+        "Participated in code reviews, ensuring adherence to Java coding standards and best practices.",
+        "Troubleshot and resolved application issues, providing timely support to end-users.",
+        "Implemented Java-based logging and monitoring solutions, enabling proactive issue detection and resolution.",
+        "Contributed to technical documentation, ensuring clear and concise explanations of system functionality.",
+        "Participated in Agile sprints, delivering high-quality Java code within tight deadlines.",
+        "Collaborated with QA teams to identify and resolve defects, ensuring smooth application releases."
+      ],
+      "environment": [
+        "Java, Spring Batch, React Native, MySQL, Git, Agile"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "Bank of America",
+      "duration": "2015-Oct - 2016-Feb",
+      "location": "New York, NY",
+      "responsibilities": [
+        "Developed Java-based banking transaction monitoring systems, leveraging Azure Event Hubs for real-time analytics and detecting anomalies with 95% accuracy.",
+        "Implemented Java and Spring Boot microservices for transaction processing, improving system scalability and reducing latency by 20%.",
+        "Built a Java and Angular-based banking dashboard, providing real-time insights and reducing decision-making time by 40%.",
+        "Collaborated with cross-functional teams to design and implement Java solutions for banking operations.",
+        "Integrated Java applications with Azure services (Cosmos DB, Machine Learning) for advanced analytics and insights.",
+        "Conducted unit and integration testing using JUnit and Mockito, ensuring code quality and reliability.",
+        "Participated in code reviews, providing constructive feedback and ensuring adherence to coding standards.",
+        "Troubleshot and resolved production issues, minimizing downtime and maintaining system stability.",
+        "Implemented Java-based data encryption and security measures, ensuring compliance with PCI DSS regulations.",
+        "Automated repetitive tasks using Java scripts, saving 15 hours of manual effort per week.",
+        "Mentored junior developers, providing guidance on Java best practices and problem-solving techniques."
+      ],
+      "environment": [
+        "Java, Spring Boot, Azure (Event Hubs, Cosmos DB, Machine Learning), Angular, MySQL, JUnit, Mockito, Git, Agile"
+      ]
+    },
+    {
+      "role": "Junior Java Developer",
+      "client": "Hexaware",
+      "duration": "2013-Jun - 2015-Sep",
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Assisted in developing Java-based banking customer segmentation systems, leveraging AWS Redshift for data warehousing and improving marketing campaign ROI by 35%.",
+        "Implemented Java and Python hybrid systems for fraud detection, achieving 90% accuracy and reducing financial losses.",
+        "Collaborated with senior developers to design and implement Java solutions for banking operations.",
+        "Conducted unit testing using JUnit, ensuring code quality and reliability.",
+        "Participated in code reviews, learning from feedback and improving coding skills.",
+        "Troubleshot and resolved application issues under guidance, gaining hands-on experience in problem-solving.",
+        "Contributed to technical documentation, ensuring clear and concise explanations of system functionality.",
+        "Participated in Agile sprints, delivering Java code within tight deadlines and learning Agile methodologies."
+      ],
+      "environment": [
+        "Java, Python, AWS Redshift, MySQL, JUnit, Git, Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2013"
+    }
+  ],
+  "certifications": [
+    "Oracle Certified Professional: Java SE 8 Programmer",
+    "AWS Certified Developer \u2013 Associate",
+    "Azure Fundamentals AZ-900"
+  ]
+}

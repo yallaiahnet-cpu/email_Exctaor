@@ -1,0 +1,368 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Solutions Architect - Copilot Studio & Azure OpenAI",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Bringing 10 years of experience designing enterprise-grade agentic AI solutions using Copilot Studio and Azure OpenAI across Insurance, Healthcare, Banking, and Consulting domains, translating complex business workflows into AI-driven systems.",
+    "Built production-ready AI agents using GPT-4o and GPT-4 Turbo in Azure OpenAI, integrating REST APIs and GraphQL endpoints to connect enterprise systems with Power Automate flows, enabling real-time decision-making for insurance claims processing.",
+    "Implemented single-agent and multi-agent architectures with LangChain and LangGraph frameworks, orchestrating workflows using ReAct and Planner-Executor patterns to solve healthcare compliance challenges under HIPAA regulations.",
+    "Developed POCs and commercial-grade AI solutions in Copilot Studio, incorporating prompt engineering techniques like zero-shot and few-shot learning with system prompts to achieve accurate responses for banking fraud detection scenarios.",
+    "Configured Azure Cognitive Search with vector embeddings for RAG pipelines, connecting unstructured insurance policy documents to AI agents, reducing manual lookup time while maintaining PCI-DSS and regulatory compliance standards.",
+    "Integrated Power Platform tools including Power Apps and Power Automate with Azure OpenAI services, creating seamless workflows that automated healthcare patient intake processes while enforcing HIPAA data protection requirements.",
+    "Applied Model Context Protocol (MCP) standards to enable agent-to-agent communication in multi-agent systems, coordinating tasks across insurance underwriting and claims validation workflows while handling authentication through OAuth2 and Entra ID.",
+    "Collaborated with business analysts and Azure architects to document solution designs, translating business process requirements into technical architecture diagrams that guided AI agent development for state healthcare management systems.",
+    "Tested AI agents using evaluation frameworks to control hallucinations and implement guardrails, ensuring reliable outputs for banking transaction monitoring systems while maintaining version control through GitHub and Azure DevOps repositories.",
+    "Orchestrated LLM workflows using Azure Functions and Logic Apps for API management, connecting banking systems to AI agents that processed customer service requests while adhering to financial industry regulations and security protocols.",
+    "Utilized Crew AI and AutoGen frameworks for multi-agent coordination in healthcare projects, enabling parallel processing of patient records across different departments while maintaining HIPAA compliance and audit trails for regulatory reviews.",
+    "Worked with Power Platform ALM practices to deploy AI solutions across development, testing, and production environments, ensuring consistency in insurance claims automation workflows while managing dependencies and configuration settings.",
+    "Created fine-tuned GPT-4 models in Azure OpenAI for domain-specific insurance terminology, improving accuracy in policy interpretation tasks and reducing errors in automated underwriting decisions for property and casualty insurance products.",
+    "Connected Azure API Management services with Copilot Studio agents to standardize API calls across enterprise systems, simplifying integration complexity for banking teams while maintaining secure authentication and rate limiting controls.",
+    "Debugged agent response issues during development cycles, identifying prompt engineering improvements and adjusting system instructions to handle edge cases in healthcare appointment scheduling and insurance eligibility verification workflows.",
+    "Participated in code reviews and team meetings with stakeholders from business units, clarifying requirements for AI agent behaviors and adjusting multi-agent coordination logic to match actual business process flows in consulting engagements.",
+    "Deployed vector search capabilities using Azure Cognitive Search to enable semantic retrieval from large document repositories, supporting insurance agents with quick access to policy guidelines and regulatory information during customer interactions.",
+    "Mapped business workflows into agent orchestration patterns, identifying opportunities to automate manual steps in claims processing and patient data verification while maintaining compliance with insurance regulations and HIPAA privacy standards."
+  ],
+  "technical_skills": {
+    "AI Agent Development": [
+      "Microsoft Copilot Studio",
+      "Azure OpenAI (GPT-4o, GPT-4 Turbo)",
+      "Single-Agent Patterns",
+      "Multi-Agent Systems",
+      "Agent Orchestration",
+      "Model Context Protocol (MCP)",
+      "Agent-to-Agent Communication",
+      "Agentic Workflows"
+    ],
+    "LLM Orchestration & Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "Crew AI",
+      "AutoGen",
+      "ReAct Pattern",
+      "Planner-Executor Pattern",
+      "Prompt Engineering (Zero-Shot, Few-Shot)",
+      "System Prompts",
+      "Fine-Tuning LLMs"
+    ],
+    "Microsoft Power Platform": [
+      "Power Automate",
+      "Power Apps",
+      "Power Platform ALM",
+      "Power Platform Integration",
+      "Dataverse"
+    ],
+    "Azure Cloud Services": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure API Management",
+      "Azure Cognitive Search",
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure ML Studio"
+    ],
+    "RAG & Vector Search": [
+      "RAG Pipelines",
+      "Vector Embeddings",
+      "Azure Cognitive Search",
+      "Semantic Search",
+      "Document Retrieval",
+      "Knowledge Bases"
+    ],
+    "API Integration": [
+      "REST APIs",
+      "GraphQL",
+      "API Management",
+      "Webhook Integration",
+      "Enterprise System Integration"
+    ],
+    "Authentication & Security": [
+      "OAuth2",
+      "Entra ID (Azure AD)",
+      "Authentication Flows",
+      "Authorization Policies",
+      "Security Guardrails"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "TypeScript",
+      "SQL",
+      "Bash/Shell",
+      "Java"
+    ],
+    "AI Testing & Quality": [
+      "Agent Evaluation Frameworks",
+      "Hallucination Control",
+      "Guardrail Implementation",
+      "A/B Testing",
+      "Quality Assurance"
+    ],
+    "Version Control & DevOps": [
+      "GitHub",
+      "Azure DevOps",
+      "Git",
+      "CI/CD Pipelines",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Enterprise Compliance": [
+      "HIPAA Compliance",
+      "PCI-DSS Standards",
+      "FDA Regulations",
+      "GDPR",
+      "Insurance Regulations"
+    ],
+    "Data Processing & ML": [
+      "Apache Spark",
+      "PySpark",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "Databases & Storage": [
+      "Azure Cosmos DB",
+      "PostgreSQL",
+      "MongoDB",
+      "Snowflake",
+      "AWS S3",
+      "Azure Blob Storage"
+    ],
+    "Natural Language Processing": [
+      "Hugging Face Transformers",
+      "BERT",
+      "spaCy",
+      "NLTK",
+      "OpenAI APIs",
+      "Claude AI"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Build enterprise-grade agentic AI solutions in Copilot Studio with Azure OpenAI GPT-4o, connecting insurance claims systems through REST APIs and Power Automate, automating underwriting workflows while maintaining compliance with state regulations.",
+        "Design multi-agent architectures using LangGraph and Model Context Protocol standards, coordinating agent-to-agent communication for policy validation and risk assessment tasks, reducing manual review time for property insurance applications.",
+        "Implement RAG pipelines with Azure Cognitive Search vector embeddings, indexing insurance policy documents and regulatory guidelines to enable AI agents to retrieve accurate information during customer service interactions with OAuth2 authentication.",
+        "Configure prompt engineering strategies using zero-shot and few-shot learning in system prompts for GPT-4 Turbo, handling complex insurance terminology and edge cases in claims adjudication scenarios while controlling hallucination risks through guardrails.",
+        "Integrate Power Apps with Azure OpenAI services to create user interfaces for claims processors, embedding AI agent responses directly into workflow screens while enforcing Entra ID authentication and role-based access controls for sensitive data.",
+        "Develop POCs for single-agent and multi-agent patterns, testing ReAct and Planner-Executor orchestration approaches to solve fraud detection challenges in auto insurance claims, presenting findings to business stakeholders during requirement review meetings.",
+        "Collaborate with Azure architects to document solution designs for agentic workflows, translating business process maps from insurance underwriters into technical architecture diagrams that guide API integration and Power Automate flow development.",
+        "Deploy fine-tuned GPT-4 models in Azure OpenAI for insurance-specific language understanding, training on historical claims data to improve accuracy in identifying coverage gaps and policy exclusions during automated claims processing workflows.",
+        "Test AI agents using evaluation frameworks to measure response quality and enforce guardrails, running scenarios against insurance compliance requirements while tracking version history through GitHub repositories and managing deployment through Azure DevOps pipelines.",
+        "Connect Azure API Management with Copilot Studio agents to standardize enterprise system integrations, simplifying authentication flows and rate limiting controls for REST APIs that link claims databases with AI-driven automation workflows.",
+        "Coordinate with business analysts during meetings to clarify requirements for multi-agent behaviors, adjusting orchestration logic to match actual claims processing steps while handling edge cases like incomplete customer information and missing documentation.",
+        "Apply vector search capabilities in Azure Cognitive Search to enable semantic retrieval from insurance knowledge bases, supporting agents with quick access to policy guidelines and state-specific regulations during real-time customer interactions.",
+        "Troubleshoot agent response issues during development cycles, debugging prompt instructions and refining system messages to handle nuanced insurance scenarios like subrogation claims and disputed liability determinations with improved accuracy.",
+        "Map business workflows into agent orchestration patterns using LangChain frameworks, identifying opportunities to automate manual steps in underwriting reviews while maintaining compliance with insurance industry regulations and data privacy standards.",
+        "Participate in code reviews with Power Platform teams, evaluating AI agent implementations for performance bottlenecks and suggesting optimization strategies while ensuring consistency with Power Platform ALM practices across development environments.",
+        "Attend stakeholder meetings to present AI solution capabilities, demonstrating how Copilot Studio agents process claims data and explaining technical trade-offs between single-agent simplicity and multi-agent coordination complexity for insurance workflows."
+      ],
+      "environment": [
+        "Microsoft Copilot Studio",
+        "Azure OpenAI (GPT-4o, GPT-4 Turbo)",
+        "LangChain",
+        "LangGraph",
+        "Model Context Protocol (MCP)",
+        "Multi-Agent Systems",
+        "Power Automate",
+        "Power Apps",
+        "Azure Cognitive Search",
+        "Azure Functions",
+        "Azure API Management",
+        "REST APIs",
+        "GraphQL",
+        "OAuth2",
+        "Entra ID",
+        "RAG Pipelines",
+        "Vector Embeddings",
+        "Prompt Engineering",
+        "GitHub",
+        "Azure DevOps",
+        "PySpark",
+        "Python",
+        "Insurance Regulations",
+        "Azure Databricks"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Constructed agentic AI workflows using Copilot Studio and Azure OpenAI GPT-4 Turbo for healthcare patient intake automation, integrating Power Automate with electronic health record systems through REST APIs while enforcing HIPAA compliance and audit logging.",
+        "Established multi-agent systems with LangChain and LangGraph frameworks, orchestrating patient data verification and appointment scheduling tasks across multiple healthcare departments while maintaining encryption standards for protected health information under HIPAA regulations.",
+        "Deployed RAG pipelines using Azure Cognitive Search with vector embeddings, indexing medical literature and treatment protocols to enable AI agents to retrieve evidence-based information during clinical decision support workflows with OAuth2 authentication mechanisms.",
+        "Crafted prompt engineering templates for Azure OpenAI models using few-shot learning examples, training agents to understand medical terminology and patient symptom descriptions while implementing guardrails to prevent incorrect medication recommendations.",
+        "Connected Power Apps interfaces with AI agents for healthcare providers, embedding diagnostic suggestion features into patient management screens while securing access through Entra ID authentication and maintaining HIPAA-compliant data handling practices.",
+        "Prototyped POC solutions for single-agent and multi-agent architectures, evaluating Crew AI and AutoGen frameworks for parallel processing of patient records across pharmacy, laboratory, and imaging departments during cross-functional team collaboration sessions.",
+        "Worked alongside healthcare business analysts to translate clinical workflows into technical specifications, creating architecture documentation that mapped patient journey steps to AI agent orchestration patterns using Planner-Executor and ReAct approaches.",
+        "Fine-tuned GPT-4 models in Azure OpenAI on healthcare datasets, improving agent accuracy in interpreting lab results and radiology reports while maintaining GDPR compliance for international patient data and adhering to FDA guidelines for clinical software.",
+        "Validated AI agent responses through systematic testing frameworks, running evaluation scenarios against HIPAA requirements and checking for hallucinations in medical advice generation while tracking changes through GitHub version control systems.",
+        "Unified API integrations using Azure API Management, standardizing connections between hospital information systems and Copilot Studio agents while implementing rate limiting and authentication policies to protect sensitive patient data during automated workflows.",
+        "Resolved technical issues during agent development, debugging prompt logic when agents misinterpreted patient symptoms and adjusting multi-agent coordination to handle concurrent requests from different departments without data conflicts or scheduling errors.",
+        "Enhanced vector search functionality in Azure Cognitive Search, enabling semantic queries across medical knowledge bases to support clinicians with instant access to treatment guidelines and drug interaction databases during patient consultation workflows.",
+        "Reviewed code implementations with Power Platform developers, analyzing AI agent performance metrics and recommending improvements to Power Automate flows while ensuring adherence to Power Platform ALM standards across testing and production environments.",
+        "Facilitated stakeholder workshops with healthcare administrators, gathering requirements for AI-driven patient triage systems and explaining how multi-agent coordination could reduce wait times while maintaining quality of care and regulatory compliance standards."
+      ],
+      "environment": [
+        "Microsoft Copilot Studio",
+        "Azure OpenAI (GPT-4 Turbo)",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "Multi-Agent Systems",
+        "Power Automate",
+        "Power Apps",
+        "Azure Cognitive Search",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "REST APIs",
+        "OAuth2",
+        "Entra ID",
+        "RAG Pipelines",
+        "Vector Embeddings",
+        "Prompt Engineering",
+        "Azure DevOps",
+        "GitHub",
+        "Python",
+        "HIPAA Compliance",
+        "GDPR",
+        "FDA Regulations",
+        "Healthcare Regulations",
+        "Azure Databricks"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Automated healthcare eligibility verification workflows using Azure OpenAI models integrated with state Medicaid systems through REST APIs, processing citizen applications while maintaining HIPAA compliance and state-specific healthcare regulations for public sector requirements.",
+        "Assembled machine learning pipelines with Azure ML Studio and PySpark on Azure Databricks, analyzing patient demographics and healthcare utilization patterns to predict enrollment trends while implementing encryption for protected health information under CHIP program guidelines.",
+        "Generated RAG-enabled search systems using Azure Cognitive Search, indexing state healthcare policy documents and federal regulations to assist caseworkers with accurate benefit determination during citizen service interactions with secure authentication protocols.",
+        "Formulated API integration strategies connecting legacy mainframe systems with modern Azure cloud services, enabling real-time data exchange between eligibility determination platforms and provider networks while meeting state government security standards and audit requirements.",
+        "Trained classification models using Scikit-Learn and XGBoost on AWS SageMaker, identifying fraudulent healthcare claims submissions for Maine Medicaid program while maintaining model explainability for compliance reviews and regulatory audits under state oversight.",
+        "Streamlined data processing workflows with Apache Airflow orchestration on AWS EC2 instances, scheduling ETL jobs that extracted patient enrollment data from multiple sources and loaded cleaned records into AWS RDS PostgreSQL databases for reporting.",
+        "Optimized vector similarity search using FAISS libraries, indexing healthcare provider directories to enable quick matching of patient needs with available services while maintaining HIPAA-compliant data handling throughout the matching algorithm execution.",
+        "Consulted with state healthcare administrators during requirement gathering sessions, documenting business rules for eligibility calculations and translating policy language into machine learning feature engineering logic for predictive enrollment models.",
+        "Monitored model performance using custom evaluation metrics, tracking prediction accuracy for healthcare coverage determinations and adjusting hyperparameters when drift occurred in citizen demographic patterns while maintaining audit logs for state compliance reviews.",
+        "Secured AWS infrastructure using IAM policies and VPC configurations, implementing least-privilege access controls for healthcare data pipelines while ensuring encryption at rest and in transit for all patient information stored in S3 buckets and RDS databases.",
+        "Addressed data quality issues discovered during pipeline runs, investigating inconsistencies in citizen enrollment records and coordinating with state database administrators to resolve source system errors that impacted machine learning model training datasets.",
+        "Presented technical findings to non-technical stakeholders during monthly review meetings, explaining how machine learning models improved eligibility determination accuracy and demonstrating cost savings achieved through automated fraud detection in Medicaid claims processing."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "Azure ML Studio",
+        "Azure Cognitive Search",
+        "Azure Databricks",
+        "PySpark",
+        "AWS SageMaker",
+        "AWS EC2",
+        "AWS RDS",
+        "AWS S3",
+        "Apache Airflow",
+        "REST APIs",
+        "Scikit-Learn",
+        "XGBoost",
+        "FAISS",
+        "PostgreSQL",
+        "Python",
+        "HIPAA Compliance",
+        "CHIP Regulations",
+        "State Healthcare Regulations",
+        "Public Sector Requirements"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Predicted fraudulent credit card transactions using Random Forest and Gradient Boosting models in Python with Scikit-Learn on AWS SageMaker, analyzing transaction patterns while maintaining PCI-DSS compliance and financial industry data security standards.",
+        "Extracted features from customer transaction histories stored in AWS RDS MySQL databases, engineering temporal patterns and spending behavior indicators to improve fraud detection model recall rates while adhering to banking regulatory requirements and audit controls.",
+        "Visualized model performance metrics using Tableau dashboards, presenting ROC curves and confusion matrices to risk management teams during monthly review sessions while explaining trade-offs between false positives and customer experience impact.",
+        "Processed large-scale transaction datasets with PySpark on AWS EMR clusters, aggregating daily banking activity across millions of accounts to generate features for machine learning models while maintaining secure connections through VPC peering configurations.",
+        "Analyzed customer churn patterns using logistic regression and survival analysis techniques in R, identifying key indicators that predicted account closure behavior while collaborating with marketing teams to design retention campaigns for high-value customers.",
+        "Tuned hyperparameters for XGBoost models using grid search and cross-validation approaches, balancing model complexity with prediction accuracy for credit risk assessment workflows while documenting methodology for compliance review by banking regulators.",
+        "Investigated anomalies in transaction monitoring alerts, querying AWS Redshift data warehouse using SQL to identify false positive patterns and recommending rule adjustments to fraud detection systems while maintaining documentation for audit trails.",
+        "Collaborated with software engineers during model deployment planning, discussing API endpoint requirements for real-time fraud scoring services and explaining model input features needed from transaction processing systems while ensuring low-latency response times.",
+        "Cleaned messy customer data from legacy banking systems, handling missing values and outliers in account information datasets while coordinating with database administrators to understand source system limitations and data quality issues.",
+        "Attended cross-functional meetings with compliance officers, explaining how machine learning models made fraud detection decisions and addressing concerns about model transparency and fairness in credit decisioning processes under banking regulations."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS EMR",
+        "AWS RDS",
+        "AWS Redshift",
+        "AWS S3",
+        "PySpark",
+        "Scikit-Learn",
+        "XGBoost",
+        "Random Forest",
+        "Logistic Regression",
+        "Python",
+        "R",
+        "SQL",
+        "MySQL",
+        "Tableau",
+        "PCI-DSS Compliance",
+        "Banking Regulations",
+        "Financial Security Standards"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Migrated client data from legacy systems into Hadoop HDFS clusters using Sqoop import jobs, transferring Oracle database tables to distributed storage while learning MapReduce concepts and troubleshooting connection timeout issues during initial setup attempts.",
+        "Transformed raw data files using Informatica PowerCenter workflows, applying business rules provided by client teams to cleanse customer records and standardize address formats while attending training sessions to understand ETL design patterns and best practices.",
+        "Loaded processed datasets into Hive tables for business intelligence reporting, writing HiveQL queries to aggregate sales metrics and generate monthly reports while coordinating with senior engineers to debug partition errors and optimize query performance.",
+        "Scheduled batch jobs using cron scripts on Linux servers, monitoring job completion status through log files and alerting team members when data pipeline failures occurred while gradually taking ownership of routine maintenance tasks.",
+        "Documented data flow diagrams for ETL processes, mapping source systems to target tables and recording transformation logic in Confluence pages while seeking feedback from technical leads to ensure accuracy and completeness of documentation.",
+        "Participated in daily standup meetings with offshore teams, providing status updates on assigned tasks and learning to estimate effort for data migration activities while building familiarity with client business processes and data requirements.",
+        "Assisted in data quality validation efforts, running SQL queries against Hive tables to check record counts and identify duplicates while reporting discrepancies to senior team members for investigation and resolution during peer review sessions.",
+        "Gained exposure to Hadoop ecosystem tools through hands-on assignments, experimenting with different file formats like Parquet and ORC to understand storage efficiency trade-offs while receiving guidance from mentors on distributed computing principles."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "Hive",
+        "HiveQL",
+        "MapReduce",
+        "Oracle",
+        "SQL",
+        "Linux",
+        "Cron",
+        "ETL",
+        "Data Migration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

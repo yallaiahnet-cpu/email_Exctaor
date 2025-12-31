@@ -1,0 +1,270 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI Engineer - Agentic Systems & Cloud-Native LLM Applications",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-scale AI systems, focusing on agentic architectures, LLM integrations, and Python backend engineering across insurance, healthcare, and banking domains.",
+    "Constructed FastAPI microservices for asynchronous AI pipelines, applying decorators and concurrency patterns to improve system throughput for high-demand insurance underwriting workflows, leading to better resource usage.",
+    "Produced modular agentic AI systems using LangChain, equipping AI agents with custom tools and memory for complex planning tasks in healthcare compliance checking, which reduced manual review time.",
+    "Formulated scalable Python backend services with a focus on software architecture principles, ensuring maintainable code for financial transaction monitoring systems that had to follow strict PCI-DSS regulations.",
+    "Generated comprehensive API documentation using Swagger/OpenAPI for all AI microservices, facilitating smooth integration for front-end React.js teams and reducing onboarding queries during project handoffs.",
+    "Fabricated event-driven architectures using message brokers like Kafka to orchestrate communication between LLM-powered services and data pipelines in a cloud-native insurance analytics platform on AWS.",
+    "Assembled containerized deployments with Docker and Kubernetes, managing the lifecycle of AI model serving containers across development and production environments to ensure consistent performance.",
+    "Instituted CI/CD pipelines with integrated testing using pytest, automating the build and deployment of LangChain agents and FastAPI services, which minimized deployment failures and rollbacks.",
+    "Operated within AWS cloud services to deploy and scale LLM applications, utilizing services like EKS for orchestration and SageMaker for model inference, while adhering to cloud security best practices.",
+    "Formalized API design standards for REST and asynchronous endpoints, ensuring consistency and reliability across multiple AI services that power customer-facing applications in the healthcare sector.",
+    "Illustrated the use of vector databases like Pinecone within RAG architectures to provide agents with relevant, context-rich information, improving the accuracy of automated insurance claim assessments.",
+    "Guided the integration of multiple LLMs (OpenAI, Anthropic) into a unified agentic framework, enabling the system to select the best model for specific tasks like summarization or code generation.",
+    "Managed the end-to-end development of a multi-agent proof-of-concept using frameworks like LangGraph, demonstrating how autonomous agents could collaborate on complex insurance risk analysis.",
+    "Validated all AI tool integrations through rigorous testing and security reviews, implementing OAuth and token management to protect sensitive healthcare data in line with HIPAA requirements.",
+    "Strengthened code quality and collaboration by enforcing Git branching strategies and conducting thorough code reviews, which helped mentor junior engineers and maintain a high standard.",
+    "Compiled observability dashboards with logging and tracing for AI systems, allowing the team to monitor agent performance, track errors, and understand user interactions with the LLM applications.",
+    "Acquired hands-on familiarity with model fine-tuning techniques to adapt pre-trained LLMs for domain-specific tasks in banking, improving the relevance of generated financial advice.",
+    "Recommended infrastructure as Code practices using Terraform to provision cloud resources, ensuring reproducible and version-controlled environments for all stages of the AI development lifecycle."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python (Advanced)",
+      "FastAPI",
+      "asyncio",
+      "React.js",
+      "TypeScript"
+    ],
+    "AI & Machine Learning": [
+      "LLMs (OpenAI, Anthropic, Llama)",
+      "LangChain",
+      "Agentic AI Systems",
+      "Prompt Engineering",
+      "RAG Architectures",
+      "Model Fine-tuning/LoRA"
+    ],
+    "Cloud & DevOps": [
+      "AWS (EKS, Lambda, SageMaker)",
+      "Azure (AKS, App Config)",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Terraform"
+    ],
+    "Software Architecture": [
+      "Microservices",
+      "Event-Driven Architecture",
+      "API Design (REST, Async)",
+      "Modular System Design",
+      "Design Patterns"
+    ],
+    "Data Management": [
+      "Vector Databases (Pinecone, Weaviate, FAISS)",
+      "PostgreSQL",
+      "Redis",
+      "Apache Kafka",
+      "AWS S3"
+    ],
+    "Testing & Quality": [
+      "pytest",
+      "unittest",
+      "Code Review",
+      "Git (Branching Strategies)"
+    ],
+    "Monitoring & Security": [
+      "Observability (Logging, Tracing)",
+      "Security Patterns (OAuth, Secrets Mgmt)",
+      "Swagger/OpenAPI"
+    ],
+    "Tools & Collaboration": [
+      "GitHub Actions",
+      "Docker Compose",
+      "VS Code",
+      "Jupyter Notebook",
+      "LaunchDarkly"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect a proof-of-concept for a multi-agent insurance claims system using LangGraph and Model Context Protocol, where different agents handle validation, fraud detection, and customer communication asynchronously.",
+        "Build a FastAPI service with advanced decorators to manage agent tool execution, incorporating asyncio for concurrent API calls to external data sources, which speeds up claim processing times significantly.",
+        "Create a modular planning system within our LangChain framework that allows agents to decompose complex insurance inquiries into sequential steps, improving the accuracy of automated responses.",
+        "Design a React.js front-end dashboard that visualizes agent decisions and the reasoning chain, helping claims adjusters understand and trust the AI system's recommendations for complex cases.",
+        "Establish a Kubernetes deployment strategy on AWS EKS for our agentic AI services, using Helm charts to manage configurations and ensure high availability for critical insurance workflows.",
+        "Develop a custom memory module for our LangChain agents that persists conversation history and learned patterns in a Redis cache, enabling more personalized customer interactions over time.",
+        "Implement a secure API gateway pattern to manage all requests to our LLM services, integrating AWS Lambda for authorization and logging to meet strict insurance industry compliance standards.",
+        "Set up a CI/CD pipeline with GitHub Actions that runs pytest suites on every pull request, ensuring code quality and preventing regressions in our multi-agent orchestration logic.",
+        "Configure comprehensive logging and distributed tracing using AWS CloudWatch and X-Ray for all AI microservices, giving us clear visibility into agent performance and error rates.",
+        "Introduce a vector database using Pinecone to power a RAG system for our agents, providing them with instant access to the latest insurance policy documents and regulatory updates.",
+        "Write detailed Swagger documentation for all FastAPI endpoints, making it easier for internal engineering teams to integrate with our AI services and build new front-end features.",
+        "Organize weekly code review sessions focused on Python design patterns and asynchronous best practices, mentoring three junior developers on the team.",
+        "Coordinate with product managers to prioritize features for our agentic platform, balancing innovation with the practical needs of daily insurance operations and risk management.",
+        "Troubleshoot a persistent performance bottleneck in our event-driven pipeline where Kafka messages were delayed, eventually identifying and fixing a configuration issue in the consumer groups.",
+        "Debug a memory leak in one of our long-running LangChain agents by analyzing heap dumps and optimizing how large language model responses were cached and garbage collected.",
+        "Participate in daily stand-ups and sprint planning meetings, providing technical guidance on how to incrementally deploy new agent capabilities without disrupting existing services."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Model Context Protocol",
+        "asyncio",
+        "React.js",
+        "AWS (EKS, Lambda, S3, SageMaker)",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Pinecone",
+        "Redis",
+        "pytest",
+        "Git",
+        "Swagger/OpenAPI"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Led the development of a HIPAA-compliant LangChain agent to automate the review of clinical trial documentation, integrating custom tools for data extraction and validation against healthcare regulations.",
+        "Crafted a FastAPI-based backend for a healthcare chatbot, implementing asynchronous endpoints to handle multiple concurrent user queries while securely interfacing with protected health information.",
+        "Devised a multi-agent proof-of-concept using frameworks like Crew AI where specialized agents collaborated on drug interaction analysis, improving the comprehensiveness of safety reports.",
+        "Integrated OpenAI and Claude APIs into a unified agent system, building a routing layer to select the most appropriate LLM based on query complexity and required compliance level for patient data.",
+        "Deployed the AI services on AWS using Docker containers managed by ECS, setting up auto-scaling policies to handle variable loads from healthcare provider portals.",
+        "Established an event-driven pipeline with AWS SQS to process batches of medical literature, allowing our summarization agents to work on documents as soon as they were uploaded to an S3 bucket.",
+        "Authored comprehensive unit and integration tests with pytest for all agent tools and memory modules, achieving high test coverage that satisfied our healthcare sector's quality audit requirements.",
+        "Defined API security patterns using OAuth 2.0 and role-based access control, ensuring that only authorized personnel could trigger agents that processed sensitive clinical trial data.",
+        "Optimized the performance of our LangGraph workflows by refining the agent coordination logic and implementing efficient state management, which reduced processing latency.",
+        "Collaborated closely with a React front-end team to design the API contracts for a dashboard that displayed agent activity logs and audit trails, crucial for HIPAA compliance.",
+        "Reviewed and refactored legacy Python code for a patient data anonymization service, applying modern design patterns to make it more modular and suitable for integration with our new AI agents.",
+        "Assisted in troubleshooting a production issue where an agent's tool execution was timing out, leading to a redesign of the error handling and retry mechanism for external API calls.",
+        "Documented the architecture of our agentic system and the decision-making process for selecting LangChain over other frameworks, creating knowledge base articles for the engineering team.",
+        "Attended regular cross-functional meetings with cloud infrastructure and security teams to align our AI deployment practices with enterprise standards for healthcare applications."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "Crew AI",
+        "Multi-agent Systems",
+        "OpenAI API",
+        "Claude API",
+        "AWS (ECS, S3, SQS, Lambda)",
+        "Docker",
+        "pytest",
+        "OAuth",
+        "React.js",
+        "Git",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed a Python microservice on Azure to classify and route public health inquiries, using scikit-learn models and ensuring all data handling complied with state-level HIPAA regulations.",
+        "Built an asynchronous data ingestion pipeline with Azure Data Factory that fed processed, de-identified health data into a model training pipeline, supporting weekly batch updates.",
+        "Designed a modular FastAPI application to serve predictions from multiple machine learning models, implementing a versioning system to allow safe rollbacks if model performance degraded.",
+        "Containerized the model serving APIs using Docker and managed their deployment on Azure Kubernetes Service (AKS), configuring health probes and resource limits for stable operation.",
+        "Configured Azure Monitor and Application Insights for the ML services, setting up alerts for prediction latency spikes and errors to maintain service level agreements.",
+        "Wrote extensive pytest suites for the data validation and model inference code, integrating these tests into an Azure DevOps CI/CD pipeline that ran on every code commit.",
+        "Implemented a secure API key management system using Azure Key Vault to control access to the prediction endpoints used by various state department web applications.",
+        "Collaborated with front-end developers who used React to build the user interface, providing them with clear API documentation and example requests for integrating model outputs.",
+        "Debugged a recurring issue where batch prediction jobs would fail due to memory exhaustion on the AKS nodes, leading to an optimization of the data chunking strategy.",
+        "Participated in design reviews for a new public health analytics feature, advising on the feasibility of real-time versus batch processing based on our Azure infrastructure.",
+        "Updated legacy documentation for the ML deployment process, making it easier for new team members to understand how to launch and monitor models in the Azure cloud environment.",
+        "Attended state IT governance meetings to explain our ML system's data security measures and ensure our architecture met all public sector cybersecurity requirements."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "scikit-learn",
+        "Azure (AKS, Data Factory, Key Vault, Monitor)",
+        "Docker",
+        "Kubernetes",
+        "pytest",
+        "Azure DevOps",
+        "React.js",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Programmed a Python service to detect anomalous transaction patterns, using statistical models and deploying the solution as a Dockerized FastAPI application on Azure App Service.",
+        "Constructed a batch scoring pipeline with Azure Databricks and PySpark, applying machine learning models to millions of daily transactions to generate fraud risk scores in compliance with PCI-DSS.",
+        "Assembled a modular codebase for feature engineering, ensuring reusability across different fraud detection models and making it easier for other data scientists to contribute.",
+        "Launched an API with comprehensive Swagger documentation that allowed other banking applications to request real-time fraud scores for specific transactions, following strict security protocols.",
+        "Deployed the model APIs using Docker containers on Azure Kubernetes Service, working with the cloud team to configure networking and ingress rules for internal access.",
+        "Operated a CI/CD pipeline in Azure DevOps that automated testing and deployment, incorporating steps to validate model performance before promoting it to the production environment.",
+        "Validated all data inputs and model outputs for the fraud detection system, implementing rigorous checks to ensure accuracy and reliability for a high-stakes banking environment.",
+        "Reviewed pull requests from other team members, focusing on code quality, adherence to design patterns, and proper error handling in the data processing scripts.",
+        "Investigated a production discrepancy where model scores drifted, leading to a fix in the feature calculation logic and the implementation of ongoing model performance monitoring.",
+        "Joined project meetings with compliance officers to demonstrate how our ML system's decision-making process could be audited and explained, a key requirement in the banking sector."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "PySpark",
+        "Azure (Databricks, AKS, App Service, DevOps)",
+        "Docker",
+        "Scikit-learn",
+        "PCI-DSS Compliance",
+        "Swagger"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Wrote Sqoop scripts to efficiently transfer data from relational databases into the Hadoop Distributed File System (HDFS) for a large retail client's enterprise data lake project.",
+        "Built Informatica workflows to perform complex ETL transformations on sales and inventory data, ensuring data quality and consistency before loading it into downstream reporting systems.",
+        "Learned to debug failed MapReduce jobs by examining logs and configurations, gradually improving my ability to troubleshoot data pipeline issues in a distributed computing environment.",
+        "Assisted senior engineers in designing a star schema data warehouse, contributing to the dimension and fact table definitions based on the client's business reporting needs.",
+        "Participated in code reviews for ETL scripts, initially observing and later providing feedback on efficiency and adherence to the team's coding standards for SQL and shell scripts.",
+        "Documented the data lineage for several key ETL processes, creating diagrams and descriptions that helped the client understand how their raw data was transformed into business insights.",
+        "Supported the testing of a major pipeline upgrade, helping to compare output data between the old and new systems to identify any discrepancies that needed resolution.",
+        "Attended daily stand-up meetings and training sessions on big data concepts, steadily building my foundational knowledge of data engineering principles and practices."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "SQL",
+        "Shell Scripting",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

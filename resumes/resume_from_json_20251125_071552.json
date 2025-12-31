@@ -1,0 +1,298 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Enterprise Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise data engineering, specializing in building centralized data hubs and scalable data pipelines across Insurance, Healthcare, Banking, and Consulting domains using Databricks and cloud technologies.",
+    "Architected and implemented a centralized enterprise data hub using Databricks and Delta Lake to handle both structured and unstructured data from multiple source systems across various business units and insurance regulatory frameworks.",
+    "Developed scalable data pipelines in Databricks using PySpark and Python, optimizing Spark performance for large-scale data processing while ensuring compliance with HIPAA and insurance regulatory requirements across enterprise datasets.",
+    "Engineered streaming data solutions with Kafka and Kinesis integrated with Databricks for real-time data ingestion, enabling immediate analytics capabilities for insurance claim processing and healthcare data monitoring systems.",
+    "Implemented Delta Live Tables for declarative pipeline development in Databricks, creating trusted, high-quality data products for consumption by analysts, data scientists, and applications across enterprise business units.",
+    "Built comprehensive ETL/ELT frameworks using AWS Glue and Lambda integrated with Databricks, handling complex data transformations while maintaining data quality and governance standards for insurance data compliance.",
+    "Designed and deployed Lakehouse architecture patterns in Databricks, enabling both operational and analytical workloads while supporting multiple internal business units with standardized, consumption-ready data services.",
+    "Orchestrated complex data workflows using Airflow and Databricks Workflows, coordinating data pipelines across source systems while mentoring junior developers on best practices and optimization techniques.",
+    "Implemented data quality validation frameworks using Great Expectations and Deequ within Databricks pipelines, ensuring high-quality, trusted data for enterprise-wide consumption across insurance and healthcare domains.",
+    "Developed and optimized PySpark applications in Databricks, applying advanced Spark optimization techniques to handle large-scale insurance policy data and healthcare patient information with improved processing efficiency.",
+    "Engineered REST APIs and JSON data processing pipelines in Databricks, enabling seamless integration with source systems and applications while maintaining data security and compliance standards.",
+    "Managed enterprise data modeling in Databricks for both RDBMS (Oracle, SQL Server) and NoSQL (MongoDB) sources, creating unified data views for cross-functional analytics and reporting requirements.",
+    "Implemented CI/CD pipelines using GitHub, Jenkins, and Terraform for Databricks deployments, automating infrastructure provisioning and code promotion across development, testing, and production environments.",
+    "Built monitoring and observability solutions using CloudWatch and Datadog for production Databricks pipelines, ensuring reliability and performance for critical insurance and healthcare data processing workloads.",
+    "Containerized ETL microservices using Docker for API-based data integrations, enabling scalable and portable data processing components within the enterprise data hub architecture.",
+    "Collaborated with source system owners and architecture teams to design data ingestion patterns, establishing standardized approaches for data acquisition and transformation across multiple business units.",
+    "Mentored junior data engineers on organizational best practices, Databricks development standards, and data engineering principles while contributing to enterprise data governance initiatives.",
+    "Supported data scientists and analysts with curated datasets in Databricks, enabling advanced analytics and machine learning applications while ensuring data quality and accessibility standards."
+  ],
+  "technical_skills": {
+    "Data Engineering Platforms": [
+      "Databricks",
+      "Delta Lake",
+      "Delta Live Tables",
+      "Apache Spark",
+      "PySpark"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "AWS Glue",
+      "AWS Lambda",
+      "Amazon Kinesis",
+      "CloudWatch",
+      "S3",
+      "EC2",
+      "Redshift"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Data Processing Frameworks": [
+      "ETL/ELT",
+      "Streaming",
+      "Batch Processing",
+      "Real-time Ingestion"
+    ],
+    "Data Storage Technologies": [
+      "RDBMS",
+      "Oracle",
+      "SQL Server",
+      "NoSQL",
+      "MongoDB",
+      "Delta Lake",
+      "Data Lakes"
+    ],
+    "Orchestration Tools": [
+      "Apache Airflow",
+      "Databricks Workflows",
+      "CI/CD",
+      "Jenkins"
+    ],
+    "API & Integration": [
+      "REST APIs",
+      "JSON",
+      "Microservices",
+      "Containerization"
+    ],
+    "Infrastructure as Code": [
+      "Terraform",
+      "GitHub",
+      "CI/CD Pipelines"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch",
+      "Datadog",
+      "Pipeline Monitoring",
+      "Performance Optimization"
+    ],
+    "Data Quality & Governance": [
+      "Great Expectations",
+      "Deequ",
+      "Data Validation",
+      "Quality Frameworks"
+    ],
+    "Enterprise Tools": [
+      "JIRA",
+      "Confluence",
+      "GitHub",
+      "Documentation"
+    ],
+    "Data Architecture": [
+      "Lakehouse Design",
+      "Centralized Data Hub",
+      "Enterprise Data Models",
+      "Scalable Pipelines"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architecting a centralized enterprise data hub using Databricks and Delta Lake to consolidate insurance policy data from multiple source systems while ensuring compliance with state insurance regulations and data governance requirements.",
+        "Developing scalable data pipelines in Databricks with PySpark to process structured and unstructured insurance data, implementing optimization techniques that handle complex transformations for policy analytics and claim processing.",
+        "Implementing Delta Live Tables for declarative pipeline development in Databricks, creating trusted data products for consumption by insurance analysts and data scientists across multiple business units and regulatory frameworks.",
+        "Engineering streaming data solutions using Kafka integrated with Databricks for real-time insurance claim ingestion, enabling immediate analytics and fraud detection capabilities while maintaining data quality standards.",
+        "Building comprehensive ETL frameworks with AWS Glue and Lambda integrated with Databricks, handling complex insurance data transformations while ensuring compliance with state regulatory requirements and data privacy standards.",
+        "Designing Lakehouse architecture patterns in Databricks to support both operational and analytical insurance workloads, enabling standardized data consumption across underwriting, claims, and risk management business units.",
+        "Orchestrating complex data workflows using Airflow and Databricks Workflows, coordinating insurance data pipelines across source systems while mentoring junior developers on insurance domain best practices.",
+        "Implementing data quality validation frameworks using Great Expectations within Databricks pipelines, ensuring high-quality, trusted insurance data for enterprise-wide consumption and regulatory reporting requirements.",
+        "Developing and optimizing PySpark applications in Databricks for large-scale insurance policy data processing, applying Spark optimization techniques to improve performance for complex insurance analytics workloads.",
+        "Engineering REST APIs and JSON data processing pipelines in Databricks for insurance system integrations, enabling seamless data exchange while maintaining security and compliance with insurance regulatory standards.",
+        "Managing enterprise data modeling in Databricks for insurance data from Oracle and SQL Server sources, creating unified views for cross-functional analytics and insurance regulatory reporting requirements.",
+        "Implementing CI/CD pipelines using GitHub and Jenkins for Databricks deployments, automating infrastructure provisioning with Terraform for insurance data processing applications across environments.",
+        "Building monitoring solutions using CloudWatch for production Databricks pipelines, ensuring reliability and performance for critical insurance data processing and regulatory compliance workloads.",
+        "Containerizing ETL microservices using Docker for API-based insurance data integrations, enabling scalable and portable data processing components within the enterprise insurance data hub.",
+        "Collaborating with insurance source system owners and architecture teams to design data ingestion patterns, establishing standardized approaches for insurance data acquisition and transformation.",
+        "Mentoring junior data engineers on insurance domain best practices and Databricks development standards while contributing to enterprise data governance initiatives for insurance regulatory compliance."
+      ],
+      "environment": [
+        "Databricks",
+        "Delta Lake",
+        "PySpark",
+        "Python",
+        "AWS",
+        "Kafka",
+        "Airflow",
+        "Terraform",
+        "GitHub",
+        "Jenkins",
+        "CloudWatch",
+        "Great Expectations",
+        "Docker",
+        "Oracle",
+        "SQL Server",
+        "REST APIs",
+        "JSON"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Constructed a centralized healthcare data hub using Databricks and Delta Lake to consolidate clinical trial data and patient information while ensuring HIPAA compliance and healthcare data governance requirements.",
+        "Engineered scalable data pipelines in Databricks with PySpark for processing healthcare structured and unstructured data, implementing optimization techniques for clinical analytics and research data processing.",
+        "Deployed Delta Live Tables for declarative pipeline development in Databricks, creating trusted healthcare data products for consumption by medical researchers and healthcare analysts across business units.",
+        "Built streaming data solutions using Kinesis integrated with Databricks for real-time healthcare data ingestion, enabling immediate analytics for clinical trial monitoring while maintaining HIPAA compliance.",
+        "Developed comprehensive ETL frameworks with AWS Glue and Lambda integrated with Databricks, handling complex healthcare data transformations while ensuring compliance with FDA and healthcare regulatory requirements.",
+        "Designed Lakehouse architecture patterns in Databricks to support both operational and analytical healthcare workloads, enabling standardized data consumption across research, development, and clinical business units.",
+        "Coordinated complex data workflows using Airflow and Databricks Workflows, managing healthcare data pipelines across source systems while guiding junior developers on healthcare domain best practices.",
+        "Established data quality validation frameworks using Deequ within Databricks pipelines, ensuring high-quality, trusted healthcare data for enterprise-wide consumption and regulatory compliance reporting.",
+        "Optimized PySpark applications in Databricks for large-scale healthcare data processing, applying Spark optimization techniques to improve performance for complex clinical research analytics workloads.",
+        "Created REST APIs and JSON data processing pipelines in Databricks for healthcare system integrations, enabling seamless data exchange while maintaining security and HIPAA compliance standards.",
+        "Managed healthcare data modeling in Databricks for clinical data from MongoDB and SQL Server sources, creating unified views for cross-functional analytics and healthcare regulatory reporting.",
+        "Configured CI/CD pipelines using GitHub and Jenkins for Databricks deployments, automating infrastructure with Terraform for healthcare data processing applications across development and production.",
+        "Implemented monitoring solutions using Datadog for production Databricks pipelines, ensuring reliability and performance for critical healthcare data processing and regulatory compliance workloads.",
+        "Supported healthcare data scientists with curated datasets in Databricks, enabling advanced analytics and research applications while ensuring data quality and HIPAA compliance standards."
+      ],
+      "environment": [
+        "Databricks",
+        "Delta Lake",
+        "PySpark",
+        "Python",
+        "AWS",
+        "Kinesis",
+        "Airflow",
+        "Terraform",
+        "GitHub",
+        "Jenkins",
+        "Datadog",
+        "Deequ",
+        "MongoDB",
+        "SQL Server",
+        "REST APIs",
+        "JSON"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Built healthcare data pipelines using Azure Databricks and Delta Lake to process public health data while ensuring HIPAA compliance and healthcare data governance requirements for state health programs.",
+        "Developed scalable data processing solutions in Databricks with PySpark for healthcare structured data, implementing optimization techniques for public health analytics and reporting requirements.",
+        "Implemented Delta Live Tables for declarative pipeline development in Azure Databricks, creating trusted healthcare data products for consumption by public health analysts and state agencies.",
+        "Engineered batch data solutions integrated with Databricks for healthcare data ingestion, enabling analytics for public health monitoring while maintaining HIPAA compliance and data security.",
+        "Created ETL frameworks with Azure Data Factory integrated with Databricks, handling healthcare data transformations while ensuring compliance with state healthcare regulatory requirements.",
+        "Designed data architecture patterns in Azure Databricks to support public health analytical workloads, enabling standardized data consumption across state health departments and agencies.",
+        "Managed data workflows using Databricks Workflows, coordinating healthcare data pipelines across source systems while following healthcare domain best practices and compliance standards.",
+        "Established data quality validation within Databricks pipelines, ensuring high-quality, trusted healthcare data for public health consumption and regulatory reporting requirements.",
+        "Optimized PySpark applications in Azure Databricks for healthcare data processing, applying Spark optimization techniques to improve performance for public health analytics workloads.",
+        "Configured data processing pipelines in Databricks for healthcare system integrations, enabling data exchange while maintaining security and HIPAA compliance standards.",
+        "Supported healthcare data modeling in Azure Databricks for public health data from various sources, creating unified views for cross-agency analytics and healthcare regulatory reporting.",
+        "Maintained monitoring for Azure Databricks pipelines, ensuring reliability and performance for public health data processing and regulatory compliance workloads."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Delta Lake",
+        "PySpark",
+        "Python",
+        "Azure",
+        "Azure Data Factory",
+        "Databricks Workflows",
+        "SQL Server",
+        "Healthcare Data",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed banking data pipelines using Azure Databricks to process financial transaction data while ensuring PCI compliance and banking data governance requirements for financial services.",
+        "Created scalable data processing solutions in Databricks with PySpark for banking structured data, implementing techniques for financial analytics and regulatory reporting requirements.",
+        "Implemented data processing solutions in Azure Databricks, creating trusted banking data products for consumption by financial analysts and business units across the organization.",
+        "Built batch data solutions integrated with Databricks for financial data ingestion, enabling analytics for transaction monitoring while maintaining PCI compliance and data security.",
+        "Designed ETL frameworks with Azure services integrated with Databricks, handling banking data transformations while ensuring compliance with financial regulatory requirements.",
+        "Established data architecture patterns in Azure Databricks to support financial analytical workloads, enabling standardized data consumption across banking departments and business units.",
+        "Managed data workflows using Databricks, coordinating financial data pipelines across source systems while following banking domain best practices and compliance standards.",
+        "Implemented data quality checks within Databricks pipelines, ensuring trusted banking data for financial consumption and regulatory reporting requirements.",
+        "Optimized data processing applications in Azure Databricks for banking data, improving performance for financial analytics and reporting workloads.",
+        "Supported banking data modeling in Azure Databricks for financial data from various sources, creating views for cross-departmental analytics and regulatory reporting."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "PySpark",
+        "Python",
+        "Azure",
+        "Banking Data",
+        "PCI Compliance",
+        "Financial Regulations",
+        "SQL Server",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Assisted in building data pipelines using Hadoop and Informatica for client data processing while learning enterprise data governance requirements across consulting engagements.",
+        "Supported data processing solutions with Hadoop and Sqoop for client structured data, implementing basic techniques for business analytics and reporting requirements.",
+        "Helped implement ETL frameworks with Informatica, handling client data transformations while ensuring compliance with project specifications and data quality standards.",
+        "Participated in data architecture design for client projects, supporting standardized data consumption across business units and consulting engagements.",
+        "Aided in managing data workflows using scheduling tools, coordinating client data pipelines across source systems while learning consulting domain best practices.",
+        "Contributed to data quality validation within ETL pipelines, ensuring trusted client data for business consumption and project delivery requirements.",
+        "Learned data processing optimization in Hadoop environments, improving performance for client analytics and reporting workloads.",
+        "Supported data modeling for client data from various sources, creating basic views for business analytics and project reporting requirements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Warehousing",
+        "Business Intelligence",
+        "Client Data",
+        "Consulting Projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

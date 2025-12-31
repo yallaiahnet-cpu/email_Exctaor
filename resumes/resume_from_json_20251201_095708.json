@@ -1,0 +1,277 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Dynamics 365 CE & Power Platform Developer | AI Solutions",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-grade CRM solutions with AI-driven automation for the insurance, healthcare, and financial sectors, focusing on Microsoft Dynamics 365 CE and Power Platform.",
+    "Crafted Dynamics 365 Customer Engagement modules tailored for complex insurance policy management, using Dataverse to securely house client data and ensure strict adherence to state-level compliance regulations.",
+    "Constructed Power Apps Model-Driven and Canvas applications that digitized manual healthcare provider onboarding workflows, cutting down processing time and reducing data entry errors for Johnson & Johnson.",
+    "Formulated Power Automate flows integrated with Azure Functions to automate the generation of financial audit reports from Dynamics 365, streamlining a previously manual monthly process for banking stakeholders.",
+    "Assembled Copilot Studio chatbots with natural language understanding to handle common insurance claim status inquiries, deflecting calls from live agents and improving customer self-service capabilities.",
+    "Established AI Builder models to process scanned insurance documents and forms, extracting key fields like policy numbers and claim amounts to automatically populate Dynamics 365 CE records.",
+    "Devised custom Dynamics 365 plugins using C# and .NET to enforce complex business rules for healthcare patient data updates, ensuring all changes logged and met HIPAA compliance standards.",
+    "Integrated Dynamics 365 with external banking systems via secure REST APIs and Azure Logic Apps, enabling real-time transaction data synchronization while maintaining PCI-DSS security protocols.",
+    "Managed the full solution packaging and deployment lifecycle using Azure DevOps CI/CD pipelines, handling version control with Git and moving updates across development, testing, and production environments.",
+    "Configured Dataverse security roles and field-level profiles to implement granular data access control for financial domain users, ensuring sensitive client information was protected according to governance policies.",
+    "Authored detailed technical documentation for all custom Power Platform components and integrations, facilitating knowledge transfer to Business Analysts and QA teams for ongoing support.",
+    "Optimized performance of high-volume Dynamics 365 workflows and Power Automate flows by applying API throttling patterns and tuning Dataverse queries, which improved system response times.",
+    "Collaborated closely with enterprise architects to design SaaS-based deployment patterns for Dynamics 365 CE extensions, aligning with cloud architecture best practices and environment strategies.",
+    "Programmed JavaScript for custom web resources within Dynamics 365 forms to enhance the user interface for insurance underwriters, making data validation and entry more intuitive and efficient.",
+    "Participated in daily stand-ups and sprint planning with cross-functional teams, translating functional requirements from business stakeholders into technical designs for automated workflows.",
+    "Reviewed code and solution designs from other developers, providing feedback on best practices for Dynamics 365 plugin development and Dataverse relationship management.",
+    "Troubleshot production issues with integrated Power Platform solutions, using monitoring tools like Application Insights to diagnose errors in chatbot conversations and data sync processes.",
+    "Explored the use of Azure OpenAI services and PCF controls for potential future enhancements to existing CRM solutions, staying updated on emerging Microsoft Power Platform capabilities."
+  ],
+  "technical_skills": {
+    "CRM & Low-Code Platforms": [
+      "Microsoft Dynamics 365 CE (Customer Engagement)",
+      "Power Apps (Model-Driven, Canvas)",
+      "Power Pages / Portals",
+      "Dataverse",
+      "Copilot Studio",
+      "AI Builder"
+    ],
+    "Core Programming": [
+      "C#",
+      ".NET",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "Automation & Integration": [
+      "Power Automate",
+      "Dynamics 365 Plugins & Workflows",
+      "Azure Functions",
+      "Logic Apps",
+      "REST APIs"
+    ],
+    "Azure Cloud Services": [
+      "Azure DevOps",
+      "Application Insights",
+      "Azure Service Bus / Event Grid",
+      "Azure Data Factory",
+      "Azure AD / OAuth2"
+    ],
+    "Development & Operations": [
+      "Solution Packaging & Deployment",
+      "Azure DevOps CI/CD Pipelines",
+      "Git Version Control",
+      "Unit Testing (xUnit/NUnit)",
+      "ALM & Environment Strategy"
+    ],
+    "Database & Data Management": [
+      "Dataverse",
+      "SQL Server",
+      "Azure Cosmos DB",
+      "Data Integration Patterns"
+    ],
+    "Security & Compliance": [
+      "Dataverse Security Roles",
+      "Azure AD Authentication",
+      "API Security & Throttling",
+      "HIPAA, PCI-DSS Compliance"
+    ],
+    "Architecture & Design": [
+      "Enterprise Integration Patterns",
+      "SaaS Deployment",
+      "Performance Tuning",
+      "Solution Architecture"
+    ],
+    "Project & Collaboration": [
+      "Technical Documentation",
+      "Agile Methodologies",
+      "Stakeholder Management",
+      "Code Review Processes"
+    ],
+    "Domain Knowledge": [
+      "Financial Services",
+      "Insurance Regulations",
+      "Healthcare (HIPAA)",
+      "Banking (PCI-DSS)"
+    ]
+  },
+  "experience": [
+    {
+      "role": " Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Design Dynamics 365 CE entities and relationships to model complex commercial insurance products, ensuring the Dataverse schema supports multi-state regulatory requirements and policy lifecycle tracking.",
+        "Build a Copilot Studio chatbot that uses NLU to interpret agent queries about policy coverage rules, connecting to Dynamics 365 via Azure Functions to fetch accurate data and provide conversational summaries.",
+        "Create Power Automate flows that trigger Azure Functions for automated underwriting checks, pulling data from external rating engines and posting decisions back to Dynamics 365 CE opportunity records.",
+        "Develop AI Builder models to predict policy renewal likelihood, training on historical Dataverse data and embedding the predictive insights directly into the agent's Dynamics 365 dashboard for proactive outreach.",
+        "Write C# code for custom Dynamics 365 plugins that automatically calculate risk scores on new submissions, enforcing business logic and logging all calculations for audit compliance purposes.",
+        "Implement Azure Service Bus integrations to reliably sync approved claim data from Dynamics 365 to legacy payment systems, handling message queuing and retries for high-volume transaction periods.",
+        "Set up Azure DevOps CI/CD pipelines to manage the deployment of our Dynamics 365 solution across environments, using Git for source control and automated validation checks before production pushes.",
+        "Configure OAuth2 authentication flows using Azure AD to secure API connections between Power Apps Portals and backend insurance document repositories, ensuring only authorized user access.",
+        "Apply performance tuning techniques to Dataverse queries used in high-traffic insurance quote portals, reducing load times and implementing API throttling to protect service stability.",
+        "Conduct solution design reviews with architects, proposing patterns for extending Dynamics 365 CE with custom PCF controls to improve the data entry experience for complex commercial insurance forms.",
+        "Debug a production issue where a Power Automate flow failed to process bulk policy updates, tracing the problem to a concurrency limit and redesigning the flow to use batch processing.",
+        "Prepare technical documentation for the newly deployed chatbot and AI models, detailing the integration points with Dynamics 365 and steps for Business Analysts to update conversation flows.",
+        "Work with QA teams to establish unit tests for our custom .NET assemblies, using xUnit to verify plugin logic handles edge cases in premium calculation correctly.",
+        "Discuss feature priorities in sprint planning meetings, helping translate the compliance team's requirement for new audit fields into a technical design for Dynamics 365 form extensions.",
+        "Monitor chatbot performance using Application Insights, analyzing logs to identify a recurring misunderstanding in user intent and retraining the NLU model to improve accuracy.",
+        "Explore the use of Azure OpenAI to enhance our Copilot Studio chatbot's ability to generate draft claim summaries, running a small proof-of-concept to assess feasibility and integration effort."
+      ],
+      "environment": [
+        "Microsoft Dynamics 365 CE",
+        "Power Platform",
+        "Copilot Studio",
+        "AI Builder",
+        "Dataverse",
+        "C#",
+        ".NET",
+        "Azure Functions",
+        "Azure Service Bus",
+        "Azure DevOps CI/CD",
+        "Git",
+        "REST APIs",
+        "Azure AD",
+        "Application Insights",
+        "xUnit"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Architected a Model-Driven Power App on Dataverse to manage clinical trial site onboarding, replacing Excel trackers and providing a single source of truth with HIPAA-compliant data access controls.",
+        "Engineered Power Automate flows integrated with Azure Logic Apps to automate the approval workflow for medical device sample requests, routing tasks through Dynamics 365 CE and notifying stakeholders.",
+        "Fabricated a Copilot Studio chatbot for the internal IT helpdesk, using natural language generation to answer FAQs about Dynamics 365 access and logging support tickets directly into the CRM.",
+        "Trained an AI Builder form processing model to extract data from signed physician agreement PDFs, automatically creating records in Dynamics 365 and reducing manual data entry by hours per week.",
+        "Coded JavaScript web resources to add dynamic filtering and validation to a complex Dynamics 365 form for tracking adverse event reports, ensuring data quality for regulatory submissions.",
+        "Established Azure Functions as an integration layer between Dynamics 365 CE and an external HIPAA-compliant document storage system, using REST APIs to securely fetch and attach patient-related files.",
+        "Managed the packaging and deployment of all customizations using solution layers, meticulously merging components from different development streams in Azure DevOps before promoting to production.",
+        "Authored detailed deployment runbooks and rollback plans for go-live events, coordinating with DevOps teams to ensure smooth releases of new Dynamics 365 features and integrations.",
+        "Tuned the performance of critical Dataverse views used by hundreds of sales reps, optimizing FetchXML queries and adding indexed columns to eliminate timeout issues during peak hours.",
+        "Led a code review session for a junior developer's plugin, providing feedback on error handling and suggesting patterns to make the code more maintainable and aligned with team standards.",
+        "Participated in requirements gathering workshops with healthcare compliance officers, explaining how Dynamics 365 field security profiles could be used to restrict sensitive patient data access.",
+        "Investigated a bug where a Power Automate flow duplicated records; the fix involved adding a de-duplication check in an Azure Function called by the flow, which I tested thoroughly before deployment.",
+        "Advised business analysts on leveraging Dataverse calculated and rollup fields to auto-populate metrics on sales performance dashboards, reducing the need for manual report generation.",
+        "Supported the QA team during user acceptance testing for a new portal, helping replicate a reported issue with form submissions and providing a temporary workaround while a permanent fix was coded."
+      ],
+      "environment": [
+        "Dynamics 365 CE",
+        "Power Apps",
+        "Power Automate",
+        "Copilot Studio",
+        "AI Builder",
+        "Dataverse",
+        "C#",
+        "JavaScript",
+        "Azure Functions",
+        "Logic Apps",
+        "Azure DevOps",
+        "Git",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed a Canvas Power App for public health department staff to report and track community health incidents, with data stored securely in Dataverse and forms designed for easy field use.",
+        "Built Power Automate flows to synchronize citizen service case data between the Canvas app and a legacy AWS-based system, using REST APIs and handling data transformation in the cloud.",
+        "Implemented Dynamics 365 workflows to automatically assign and escalate cases based on priority and geographic region, ensuring timely response from public health officials as per state guidelines.",
+        "Customized Dynamics 365 CE dashboards and views for managers to monitor case backlogs and resource allocation, using server-side filtering to respect data privacy rules for health information.",
+        "Configured Dataverse security roles to align with complex state government hierarchies, ensuring users could only access records for their specific department and role within the healthcare program.",
+        "Created technical design documents for the integration architecture, detailing how data flows from the front-end Power App through Dataverse and into external reporting databases on AWS.",
+        "Performed troubleshooting on a failing data sync process, discovering an issue with date formatting in the API payload and coordinating with the external system's team to agree on a standard.",
+        "Attended daily Scrum calls with a distributed team, providing updates on my integration tasks and clarifying requirements with business analysts to avoid scope creep in the public sector project.",
+        "Tested all customizations thoroughly in a sandbox environment, validating that business rules for HIPAA-compliant data handling were enforced correctly before signing off for production deployment.",
+        "Mentored a new team member on the basics of Power Apps development, walking them through the project's Dataverse data model and sharing tips for debugging Power Automate flows.",
+        "Collaborated with state IT security auditors, demonstrating how our solution's authentication and field-level security met stringent public sector data protection standards for healthcare information.",
+        "Updated solution components after a change in state reporting requirements, modifying entity relationships in Dataverse and adjusting related Power App forms to capture the new data points."
+      ],
+      "environment": [
+        "Power Apps (Canvas)",
+        "Power Automate",
+        "Dynamics 365 CE",
+        "Dataverse",
+        "REST APIs",
+        "AWS",
+        "HIPAA Compliance",
+        "Azure AD",
+        "Solution Packaging"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": " New York, New York.",
+      "responsibilities": [
+        "Produced data models and analysis within a regulated banking environment to identify patterns in customer product adoption, ensuring all data handling complied with internal security policies.",
+        "Assembled datasets from various sources for a machine learning project, using SQL to query databases and working with data engineers to establish secure pipelines for model training.",
+        "Operated statistical software to run analyses on financial product performance, documenting methodologies and findings for presentations to business stakeholders in the retail banking division.",
+        "Programmed scripts to automate routine data cleaning and validation tasks, which saved time each week and reduced the chance of human error in the monthly reporting process.",
+        "Examined model outputs for potential bias or inaccuracies, iterating on feature engineering with the team to improve prediction quality for a customer churn early warning system.",
+        "Presented technical findings to non-technical project sponsors, using simple charts and clear language to explain how model insights could be turned into actionable business strategies.",
+        "Learned about PCI-DSS compliance requirements for data projects, applying those principles to ensure sensitive customer information was anonymized or excluded from development datasets.",
+        "Assisted senior data scientists with larger projects, taking ownership of specific data preparation or visualization subtasks and asking questions to deepen my understanding of the banking domain.",
+        "Validated data integrity after system migrations, running comparison queries between old and new environments to confirm no critical financial transaction history was lost or corrupted.",
+        "Participated in peer code reviews for analytical code, focusing on readability, reproducibility, and adherence to the team's version control standards using Git and pull requests."
+      ],
+      "environment": [
+        "Python",
+        "R",
+        "SQL",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Git",
+        "AWS (S3, EC2)",
+        "Banking Domain",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to build and maintain ETL pipelines using Informatica to move data from operational systems into a centralized Hadoop data lake for a large consulting client's reporting needs.",
+        "Executed Sqoop jobs to transfer data between relational databases and HDFS, monitoring job logs and working with database administrators to resolve connection or performance issues.",
+        "Supported senior engineers in optimizing Hive queries for better performance, learning how to partition tables and use appropriate file formats to speed up analytical workloads.",
+        "Documented the data lineage and transformation rules for assigned ETL mappings, creating clear technical notes that helped the QA team design their test cases for data validation.",
+        "Fixed bugs in existing Informatica workflows, such as incorrect date conversions or handling of null values, by testing changes in a development environment before handing over for deployment.",
+        "Attended client meetings with my team lead, listening to new reporting requirements and taking notes on the business logic needed for upcoming data integration development tasks.",
+        "Gained experience with version control basics by checking out and committing code to the team's repository, following the established process for change management on the project.",
+        "Completed training on data warehousing concepts and the project's specific tech stack, which gave me a solid foundation for contributing to the design and build of data integration solutions."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "ETL",
+        "Data Warehousing",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

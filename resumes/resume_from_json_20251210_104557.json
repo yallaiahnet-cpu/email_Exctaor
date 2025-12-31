@@ -1,0 +1,341 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI Solutions Architect",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "Delivered AI-powered solutions across Healthcare, Banking, Automotive, and Consulting domains for over 9 years, specializing in Python and Java-based architectures that transformed business workflows into scalable, secure AI services meeting regulatory requirements.",
+    "Applied AWS Bedrock for LLM orchestration in healthcare applications, enabling HIPAA-compliant document processing with AWS Textract and Amazon Q, resulting in 40% faster claims processing while maintaining patient data confidentiality.",
+    "Architected serverless AI applications using AWS Lambda and Step Functions to automate complex banking workflows, integrating with AWS RDS and DynamoDB for data persistence while ensuring PCI DSS compliance.",
+    "Built microservices-based AI platforms with Docker and Kubernetes (EKS) that scaled to handle millions of automotive industry requests daily, utilizing AWS SQS and SNS for asynchronous communication between components.",
+    "Designed comprehensive data lake architecture using AWS S3, Glue, and Athena to support machine learning initiatives, enabling data scientists to access structured and unstructured data for model training with proper governance.",
+    "Created CI/CD pipelines with AWS CodePipeline and Jenkins that automated testing and deployment of AI applications, reducing deployment time from hours to minutes while maintaining quality standards.",
+    "Implemented robust security frameworks using AWS IAM roles and OAuth2/JWT authentication patterns to protect sensitive financial data, passing multiple security audits with zero critical vulnerabilities.",
+    "Developed monitoring solutions with Splunk and custom dashboards that provided real-time insights into AI model performance, enabling proactive identification of issues before they impacted business operations.",
+    "Transformed legacy monolithic applications into modern cloud-native architectures using AWS ECS and Fargate, improving scalability and reducing infrastructure costs by 35% while maintaining uptime.",
+    "Optimized database queries and indexing strategies for AWS RDS and DynamoDB, reducing response times by 60% and improving overall application performance during peak load periods in banking environments.",
+    "Integrated LangChain with custom Python services to create conversational AI interfaces that improved customer satisfaction scores by 25% in healthcare applications while reducing call center volume.",
+    "Facilitated cross-functional collaboration between Data Science, Product, and Security teams to ensure AI solutions met both technical requirements and business objectives, delivering projects on schedule and within budget.",
+    "Established best practices for AI model deployment and monitoring using Amazon SageMaker Model Monitor, creating standardized processes that improved model reliability and reduced production issues by 45%.",
+    "Modernized data processing workflows with AWS Glue jobs that transformed raw data into actionable insights, enabling business users to make data-driven decisions without technical intervention.",
+    "Configured API Gateway with custom authorizers to secure AI service endpoints, implementing rate limiting and throttling to prevent abuse while ensuring availability for legitimate users.",
+    "Evaluated and selected appropriate LLM models from AWS Bedrock based on specific use case requirements, balancing performance, cost, and accuracy to meet diverse business needs across different domains.",
+    "Documented technical architectures and implementation patterns using AWS Architecture Center templates, creating knowledge repositories that accelerated development for subsequent projects.",
+    "Mentored junior developers on AI/ML best practices and AWS services, conducting code reviews and pair programming sessions that improved team capabilities and reduced onboarding time for new members."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript"
+    ],
+    "AI/ML Frameworks": [
+      "AWS Bedrock",
+      "LangChain",
+      "Amazon SageMaker",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Amazon EC2",
+      "AWS Lambda",
+      "AWS ECS",
+      "AWS Fargate"
+    ],
+    "Data Services": [
+      "AWS S3",
+      "AWS Glue",
+      "AWS Athena",
+      "AWS RDS",
+      "AWS DynamoDB"
+    ],
+    "AI Services": [
+      "AWS Textract",
+      "Amazon Q",
+      "AWS Comprehend",
+      "AWS Rekognition"
+    ],
+    "Integration & Messaging": [
+      "AWS API Gateway",
+      "AWS SQS",
+      "AWS SNS",
+      "AWS Step Functions"
+    ],
+    "Security & Identity": [
+      "AWS IAM",
+      "OAuth2",
+      "JWT",
+      "AWS KMS"
+    ],
+    "DevOps & CI/CD": [
+      "AWS CodePipeline",
+      "AWS CodeBuild",
+      "Jenkins",
+      "Docker",
+      "Kubernetes (EKS)"
+    ],
+    "Infrastructure as Code": [
+      "Terraform",
+      "AWS CloudFormation",
+      "AWS CDK"
+    ],
+    "Monitoring & Observability": [
+      "Splunk",
+      "AWS CloudWatch",
+      "Prometheus",
+      "Grafana"
+    ],
+    "Testing": [
+      "pytest",
+      "JUnit",
+      "Postman",
+      "Selenium"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "AWS CodeCommit"
+    ],
+    "Data Processing": [
+      "Apache Spark",
+      "Hadoop",
+      "Kafka"
+    ],
+    "Database Technologies": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Frontend": [
+      "React",
+      "Angular",
+      "HTML5",
+      "CSS3"
+    ],
+    "Methodologies": [
+      "Agile",
+      "Scrum",
+      "DevOps"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Solutions Architect",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected HIPAA-compliant AI solutions using AWS Bedrock and Python to process healthcare claims, integrating AWS Textract for document extraction and Amazon Q for intelligent query processing, reducing manual review time by 45%.",
+        "Designed serverless architecture with AWS Lambda and Step Functions to orchestrate complex healthcare workflows, utilizing AWS DynamoDB for patient data storage with proper encryption at rest and in transit.",
+        "Implemented secure API endpoints using AWS API Gateway with custom authorizers based on AWS IAM roles, ensuring only authorized healthcare providers could access sensitive patient information.",
+        "Built CI/CD pipelines with AWS CodePipeline and CodeBuild to automate testing and deployment of AI applications, incorporating security scanning tools to maintain HIPAA compliance throughout the development lifecycle.",
+        "Developed data lake architecture using AWS S3, Glue, and Lake Formation to centralize healthcare data from multiple sources, enabling data scientists to train models while maintaining proper data governance.",
+        "Created monitoring dashboards with Splunk and AWS CloudWatch to track AI model performance and healthcare application health, setting up automated alerts for potential issues before they impacted patient care.",
+        "Optimized AWS Lambda functions and Step Functions workflows to reduce processing time for healthcare claims analysis, achieving cost savings of 30% while maintaining the same level of service.",
+        "Integrated LangChain with custom Python services to create conversational AI interfaces for healthcare providers, improving efficiency of clinical documentation and reducing administrative burden.",
+        "Evaluated and implemented appropriate LLM models from AWS Bedrock for specific healthcare use cases, balancing accuracy, cost, and response time to meet clinical requirements.",
+        "Configured AWS IAM policies and roles following principle of least privilege, ensuring healthcare data access was properly restricted and audited for compliance with HIPAA and GDPR.",
+        "Facilitated collaboration between healthcare providers, data scientists, and security teams to align AI solutions with clinical workflows and regulatory requirements, delivering projects that improved patient outcomes.",
+        "Documented technical architectures and implementation patterns using AWS Architecture Center templates, creating knowledge repositories that accelerated development for subsequent healthcare AI projects.",
+        "Modernized legacy healthcare applications by integrating AI capabilities through AWS services, improving user experience while maintaining backward compatibility with existing systems.",
+        "Conducted performance testing of AI applications under simulated peak load conditions, identifying and resolving bottlenecks to ensure reliable service during high-demand periods in healthcare operations.",
+        "Implemented automated data quality checks using AWS Glue jobs to ensure healthcare data used for AI model training met accuracy and completeness standards, improving model reliability.",
+        "Presented technical solutions to healthcare stakeholders using clear, non-technical language, ensuring understanding of AI capabilities and limitations while managing expectations.",
+        "Researched emerging AI technologies and healthcare regulations to ensure solutions remained current and compliant, incorporating best practices from industry leaders.",
+        "Collaborated with AWS solutions architects to optimize cloud infrastructure for healthcare workloads, implementing cost-saving measures without compromising performance or security."
+      ],
+      "environment": [
+        "AWS Bedrock",
+        "Python",
+        "Java",
+        "AWS Lambda",
+        "AWS Glue",
+        "AWS S3",
+        "AWS Athena",
+        "AWS Textract",
+        "Amazon Q",
+        "AWS API Gateway",
+        "AWS Step Functions",
+        "AWS IAM",
+        "AWS EC2",
+        "AWS ECS",
+        "AWS RDS",
+        "AWS DynamoDB",
+        "AWS SQS",
+        "AWS SNS",
+        "CI/CD pipelines",
+        "Observability tools",
+        "Splunk",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Terraform",
+        "AWS CloudFormation",
+        "OAuth2",
+        "JWT",
+        "LangChain",
+        "AWS Lake Formation",
+        "Amazon SageMaker Model Monitor",
+        "pytest",
+        "JUnit",
+        "Log4j",
+        "Python logging",
+        "HIPAA",
+        "GDPR"
+      ]
+    },
+    {
+      "role": "AI/ML Solutions Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Developed AI-powered fraud detection systems using Python and AWS Bedrock, analyzing transaction patterns in real-time to identify suspicious activities and prevent financial losses while maintaining PCI DSS compliance.",
+        "Built serverless data processing pipelines with AWS Lambda and Glue to transform banking data into ML-ready formats, utilizing AWS S3 for data storage and Athena for ad-hoc analysis by business users.",
+        "Created secure APIs using AWS API Gateway with OAuth2 and JWT authentication patterns to expose AI services to internal banking applications, implementing rate limiting to prevent abuse.",
+        "Implemented containerized microservices with Docker and ECS to deploy AI models at scale, using AWS Fargate for serverless container management and reducing operational overhead by 40%.",
+        "Designed CI/CD pipelines with AWS CodePipeline and Jenkins to automate testing and deployment of AI applications, incorporating security scanning tools to maintain banking security standards.",
+        "Optimized database queries for AWS RDS and DynamoDB to improve performance of banking applications, reducing response times by 50% during peak transaction periods.",
+        "Integrated AWS Textract with custom Python services to extract and process financial documents automatically, reducing manual data entry and improving accuracy in loan processing workflows.",
+        "Configured monitoring and alerting with Splunk and AWS CloudWatch to track AI model performance and banking application health, setting up automated alerts for potential issues before they impacted customers.",
+        "Evaluated and implemented appropriate LLM models from AWS Bedrock for banking chatbots and virtual assistants, improving customer service while reducing operational costs.",
+        "Established data governance frameworks using AWS Lake Formation and Glue Catalog to ensure banking data used for AI model training met regulatory requirements and quality standards.",
+        "Modernized legacy banking systems by integrating AI capabilities through AWS services, improving customer experience while maintaining backward compatibility with existing core banking systems.",
+        "Collaborated with data scientists to operationalize ML models using Amazon SageMaker, creating deployment pipelines that automated model retraining based on performance metrics.",
+        "Conducted load testing of AI applications under simulated peak banking conditions, identifying and resolving bottlenecks to ensure reliable service during high-volume periods.",
+        "Implemented automated data quality checks using AWS Glue jobs to ensure banking data used for AI model training met accuracy and completeness standards, improving model reliability.",
+        "Documented technical architectures and implementation patterns using AWS Architecture Center templates, creating knowledge repositories that accelerated development for subsequent banking AI projects."
+      ],
+      "environment": [
+        "AWS Bedrock",
+        "Python",
+        "Java",
+        "AWS Lambda",
+        "AWS Glue",
+        "AWS S3",
+        "AWS Athena",
+        "AWS Textract",
+        "Amazon Q",
+        "AWS API Gateway",
+        "AWS Step Functions",
+        "AWS IAM",
+        "AWS EC2",
+        "AWS ECS",
+        "AWS RDS",
+        "AWS DynamoDB",
+        "AWS SQS",
+        "AWS SNS",
+        "CI/CD pipelines",
+        "Observability tools",
+        "Splunk",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Terraform",
+        "AWS CloudFormation",
+        "OAuth2",
+        "JWT",
+        "LangChain",
+        "AWS Lake Formation",
+        "Amazon SageMaker Model Monitor",
+        "pytest",
+        "JUnit",
+        "Log4j",
+        "Python logging",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Big Data Engineer/Hadoop Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Processed large-scale automotive data using Hadoop and Spark to extract insights from vehicle sensors, enabling predictive maintenance recommendations that reduced warranty costs by 25%.",
+        "Developed data pipelines with AWS Glue to transform raw manufacturing data into structured formats for analysis, utilizing AWS S3 for storage and Athena for business intelligence queries.",
+        "Built real-time monitoring systems with AWS Lambda and SQS to track production line performance, sending alerts through SNS when metrics fell outside acceptable ranges.",
+        "Optimized database performance for vehicle inventory management systems using AWS RDS, implementing proper indexing strategies that reduced query response times by 40%.",
+        "Created automated testing frameworks using Python and JUnit to ensure data quality in automotive analytics pipelines, reducing data-related issues in production by 60%.",
+        "Implemented containerization with Docker for data processing applications, improving deployment consistency across development, testing, and production environments.",
+        "Configured monitoring dashboards with Splunk to visualize automotive manufacturing metrics, enabling plant managers to identify inefficiencies and make data-driven decisions.",
+        "Collaborated with automotive engineers to understand data requirements and design appropriate data models, ensuring analytics solutions met technical and business needs.",
+        "Documented data architecture and processing workflows using Confluence and diagrams, creating knowledge repositories that improved team productivity and reduced onboarding time.",
+        "Researched and evaluated new big data technologies to improve automotive analytics capabilities, presenting findings to leadership with cost-benefit analyses.",
+        "Managed data security and access controls for sensitive automotive information, implementing proper authentication and authorization mechanisms to protect intellectual property.",
+        "Optimized Spark jobs and Hadoop clusters to reduce processing time for automotive data analytics, achieving cost savings of 35% while maintaining data accuracy."
+      ],
+      "environment": [
+        "Python",
+        "Java",
+        "AWS Lambda",
+        "AWS Glue",
+        "AWS S3",
+        "AWS Athena",
+        "AWS API Gateway",
+        "AWS SQS",
+        "AWS SNS",
+        "CI/CD pipelines",
+        "Observability tools",
+        "Splunk",
+        "Docker",
+        "AWS CloudFormation",
+        "JUnit",
+        "Log4j",
+        "Python logging",
+        "Hadoop",
+        "Spark",
+        "AWS RDS",
+        "Kafka"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed complex SQL queries and stored procedures for banking applications, optimizing database performance and reducing report generation time by 45%.",
+        "Designed and implemented database schemas for financial systems, ensuring data integrity and proper normalization to support business requirements.",
+        "Created ETL processes using SQL Server Integration Services to migrate data between legacy and modern banking systems, maintaining data accuracy throughout transformation.",
+        "Wrote unit tests for database objects using T-SQL and SQL Server Data Tools, establishing quality assurance processes that reduced production issues by 50%.",
+        "Collaborated with business analysts to understand reporting requirements and translate them into technical specifications for database development.",
+        "Optimized database indexes and query execution plans to improve performance of critical banking applications, reducing response times during peak hours.",
+        "Documented database designs and procedures using Microsoft Visio and technical specifications, creating knowledge repositories that improved team productivity.",
+        "Participated in code reviews to ensure SQL code followed best practices and organizational standards, mentoring junior developers on database optimization techniques.",
+        "Troubleshot production database issues and implemented fixes to minimize downtime for critical banking operations, maintaining 99.9% uptime.",
+        "Developed automated scripts for database maintenance tasks such as backups, index rebuilding, and statistics updates, improving system reliability and performance."
+      ],
+      "environment": [
+        "SQL",
+        "T-SQL",
+        "SQL Server",
+        "SQL Server Integration Services",
+        "SQL Server Data Tools",
+        "Microsoft Visio",
+        "Database Design",
+        "ETL",
+        "Stored Procedures",
+        "Database Optimization",
+        "Unit Testing",
+        "Code Review",
+        "Troubleshooting",
+        "Database Administration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

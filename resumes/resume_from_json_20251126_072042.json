@@ -1,0 +1,354 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Conversational AI Engineer - Google Dialogflow CX Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in conversational AI development, specializing in Google Dialogflow CX implementations across insurance, healthcare, and banking sectors with hands-on expertise in NLP, intent recognition, and multi-channel chatbot deployment.",
+    "Architected voice and chat-enabled AI solutions using Google Dialogflow CX, Vertex AI, and Node.js webhooks, addressing customer service automation needs while maintaining compliance with insurance regulations and data security protocols across enterprise environments.",
+    "Designed intent classification frameworks within Dialogflow CX by curating training datasets, defining entity extraction patterns, and fine-tuning NLP models to achieve accurate customer query understanding in insurance claim processing and policy inquiry automation workflows.",
+    "Built webhook integrations connecting Dialogflow CX agents to backend REST APIs using Node.js cloud functions, enabling real-time policy lookups, claim status checks, and personalized customer interactions while handling JSON payloads and authentication mechanisms.",
+    "Deployed conversational AI solutions on GKE clusters with CI/CD pipelines using Git version control, Docker containers, and automated testing frameworks, ensuring seamless chatbot releases across development, staging, and production environments for insurance operations.",
+    "Configured multi-channel chatbot deployments integrating Dialogflow CX with web interfaces, mobile apps, IVR systems, and messaging platforms like Slack and Teams, providing consistent customer experiences across touchpoints while managing session context and user authentication.",
+    "Optimized speech-to-text accuracy for voice-enabled Dialogflow CX agents by tuning pronunciation models, customizing vocabulary sets for insurance terminology, and adjusting audio processing parameters to handle diverse customer accents and background noise scenarios.",
+    "Collaborated with UI/UX designers to refine conversation flows, ensuring natural dialog progressions, fallback handling, and graceful error recovery in Dialogflow CX agents serving insurance customers during policy renewals, claims filing, and coverage inquiries.",
+    "Monitored production chatbot performance using logging tools and cloud monitoring services, debugging webhook failures, intent misclassifications, and API integration issues while maintaining service availability for customer-facing insurance automation platforms.",
+    "Applied NLP best practices including context management, sentiment analysis, and entity parameter handling within Dialogflow CX to capture customer intent accurately, reducing escalations to human agents and improving first-contact resolution rates in insurance support scenarios.",
+    "Integrated Dialogflow CX with backend systems through secure API calls, implementing OAuth authentication, JWT token validation, and encrypted data transmission to protect sensitive insurance information during chatbot-assisted transactions and customer service interactions.",
+    "Tested Dialogflow CX agents using Postman for webhook validation, unit testing frameworks for Node.js functions, and conversation simulation tools to verify intent recognition accuracy, entity extraction reliability, and proper handling of edge cases before production deployment.",
+    "Maintained version control of Dialogflow CX agent configurations, intent definitions, and training phrases using Git repositories, enabling team collaboration, change tracking, and rollback capabilities when updates affected chatbot behavior in insurance customer service channels.",
+    "Researched emerging conversational AI technologies including IBM Watson Assistant alternatives, advanced NLP techniques, and voice recognition improvements to recommend platform enhancements, ensuring insurance chatbot solutions remained competitive and met evolving customer expectations.",
+    "Documented Dialogflow CX implementation patterns, webhook development standards, and troubleshooting procedures for team knowledge sharing, facilitating onboarding of new developers and ensuring consistent chatbot development practices across insurance automation projects.",
+    "Participated in Agile ceremonies including sprint planning, daily standoffs, and retrospectives with cross-functional teams of backend developers, QA engineers, and business stakeholders to deliver conversational AI features aligned with insurance business requirements and customer needs.",
+    "Curated training datasets for Dialogflow CX by analyzing customer conversation transcripts, identifying common insurance queries, and creating diverse training phrases to improve intent detection accuracy and reduce misclassification rates in production chatbot environments.",
+    "Configured Dialogflow CX entity types for insurance-specific concepts like policy numbers, coverage types, claim identifiers, and customer demographics, enabling accurate information extraction from natural language inputs and precise routing to appropriate backend services."
+  ],
+  "technical_skills": {
+    "Conversational AI Platforms": [
+      "Google Dialogflow CX",
+      "IBM Watson Assistant",
+      "Vertex AI",
+      "Conversational AI Design",
+      "Intent Recognition",
+      "Entity Extraction",
+      "NLP Pipelines"
+    ],
+    "Programming Languages": [
+      "Node.js",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Chatbot Development": [
+      "Voice Bot Development",
+      "Chat Bot Development",
+      "Multi-Channel Deployment",
+      "Webhook Integration",
+      "Training Dataset Curation",
+      "Speech-to-Text Tuning",
+      "Conversation Flow Design"
+    ],
+    "Cloud & Infrastructure": [
+      "GCP (Google Cloud Platform)",
+      "GKE (Google Kubernetes Engine)",
+      "Cloud Functions",
+      "Docker",
+      "Kubernetes",
+      "Cloud Deployment"
+    ],
+    "API & Integration": [
+      "REST APIs",
+      "JSON",
+      "Webhooks",
+      "OAuth",
+      "JWT Authentication",
+      "Postman",
+      "Swagger"
+    ],
+    "NLP & Machine Learning": [
+      "Natural Language Processing",
+      "Intent Classification",
+      "Entity Recognition",
+      "Sentiment Analysis",
+      "Context Management",
+      "Model Training",
+      "AI/ML Best Practices"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "CI/CD Pipelines",
+      "Jenkins",
+      "Automated Testing",
+      "Version Control"
+    ],
+    "Testing & Quality": [
+      "Unit Testing",
+      "pytest",
+      "jest",
+      "Integration Testing",
+      "Conversation Testing",
+      "QA Automation"
+    ],
+    "Monitoring & Debugging": [
+      "Cloud Logging",
+      "CloudWatch",
+      "Splunk",
+      "ELK Stack",
+      "Production Support",
+      "Performance Monitoring"
+    ],
+    "Database Systems": [
+      "SQL",
+      "NoSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Session Storage",
+      "Context Database"
+    ],
+    "Communication Channels": [
+      "IVR Systems",
+      "Slack Integration",
+      "Microsoft Teams",
+      "Twilio",
+      "Web Chat",
+      "Mobile Platforms"
+    ],
+    "Development Tools": [
+      "VS Code",
+      "Jupyter Notebook",
+      "Dialogflow Console",
+      "API Testing Tools",
+      "Log Analysis Tools"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Develop Google Dialogflow CX agents for insurance claim automation by configuring intent structures, entity definitions, and webhook integrations with GCP services, enabling customers to file claims, check policy details, and receive quotes through voice and chat interfaces.",
+        "Implement Node.js cloud functions as webhook fulfillment for Dialogflow CX, connecting to insurance backend APIs to retrieve policy information, validate customer data, and process claims while handling authentication, error scenarios, and API response mapping in real-time conversations.",
+        "Configure Vertex AI integration with Dialogflow CX to enhance intent classification accuracy using custom NLP models trained on insurance-specific terminology, improving customer query understanding for complex scenarios like coverage disputes, premium calculations, and policy modifications.",
+        "Build multi-agent systems using LangGraph and model context protocol to orchestrate specialized Dialogflow CX agents handling different insurance domains such as auto, home, and life insurance, enabling seamless handoffs between agents based on customer needs and conversation context.",
+        "Deploy conversational AI solutions on GKE clusters with Docker containers, setting up CI/CD pipelines using Git for version control, automated testing for webhook functions, and blue-green deployment strategies to minimize downtime during insurance chatbot updates and feature releases.",
+        "Curate training datasets for Dialogflow CX by analyzing customer service call transcripts, identifying common insurance queries, and creating diverse training phrases to improve intent detection accuracy, reduce false positives, and handle regional language variations in customer interactions.",
+        "Integrate Dialogflow CX with speech-to-text services, tuning pronunciation models for insurance terminology like deductible, premium, liability, and adjuster, ensuring accurate voice recognition for customers calling through IVR systems or voice-enabled mobile applications in insurance operations.",
+        "Coordinate with UI/UX teams to design conversation flows that guide customers through complex insurance processes like claim filing, policy renewal, and coverage selection, incorporating clarifying questions, confirmation steps, and graceful fallback handling for misunderstood intents.",
+        "Monitor production Dialogflow CX agents using Cloud Logging and custom dashboards, identifying intent classification issues, webhook latency problems, and API integration failures, then debug Node.js functions and update training data to resolve problems affecting insurance customer experience.",
+        "Apply NLP best practices including context parameter management, slot filling techniques, and dynamic entity extraction to maintain conversation state across multiple turns, enabling Dialogflow CX agents to handle interruptions, topic switches, and complex insurance queries requiring information gathering.",
+        "Test Dialogflow CX webhooks using Postman for API validation, pytest for Python logic verification, and conversation simulators to verify end-to-end flows, ensuring accurate responses for insurance scenarios like claim status inquiries, policy lookups, and coverage eligibility checks before production.",
+        "Create proof-of-concept implementations using agent-to-agent communication patterns, exploring Google's multi-agent frameworks to demonstrate how specialized insurance bots can collaborate, share context, and provide comprehensive customer support across auto, home, and life insurance product lines.",
+        "Maintain version control of Dialogflow CX configurations using Git repositories, tracking changes to intents, entities, and training phrases, enabling rollback capabilities when updates impact insurance chatbot accuracy and facilitating collaboration among distributed conversational AI development teams.",
+        "Secure webhook communications by implementing OAuth authentication, validating JWT tokens, and encrypting sensitive insurance data transmitted between Dialogflow CX and backend systems, ensuring compliance with data protection regulations and preventing unauthorized access to customer information during bot interactions.",
+        "Collaborate with backend integration teams to define API contracts for insurance data retrieval, specify request/response formats, and establish error handling protocols, ensuring Dialogflow CX webhooks receive consistent, well-structured data for policy lookups, claim processing, and customer verification operations.",
+        "Document Dialogflow CX development standards, webhook implementation patterns, and troubleshooting procedures for insurance chatbot projects, creating knowledge base articles that help team members resolve common issues, onboard new developers, and maintain consistent conversational AI quality standards."
+      ],
+      "environment": [
+        "Google Dialogflow CX",
+        "Vertex AI",
+        "Node.js",
+        "GCP",
+        "GKE",
+        "Docker",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "PySpark",
+        "Git",
+        "CI/CD",
+        "REST APIs",
+        "Webhooks",
+        "Cloud Functions",
+        "Speech-to-Text",
+        "NLP",
+        "Intent Recognition",
+        "Entity Extraction",
+        "Postman",
+        "pytest",
+        "Cloud Logging",
+        "OAuth",
+        "JWT",
+        "Insurance Domain",
+        "Compliance Regulations"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed Google Dialogflow CX conversational flows for healthcare patient engagement, creating intent hierarchies, entity definitions, and context management strategies that enabled patients to schedule appointments, request prescription refills, and access medical information through HIPAA-compliant chat interfaces.",
+        "Constructed Node.js webhook endpoints connecting Dialogflow CX to healthcare backend systems, retrieving patient records, verifying insurance coverage, and processing appointment requests while ensuring data encryption, audit logging, and compliance with HIPAA regulations throughout the conversation lifecycle.",
+        "Trained Dialogflow CX NLP models using healthcare-specific training datasets containing medical terminology, symptom descriptions, and patient inquiry patterns, improving intent classification accuracy for scenarios like medication questions, lab result explanations, and care provider searches in healthcare automation.",
+        "Established LangGraph-based proof-of-concept implementations demonstrating multi-agent conversational systems where specialized healthcare bots handled triage, appointment scheduling, and medication management, sharing patient context seamlessly while maintaining HIPAA compliance throughout agent-to-agent interactions.",
+        "Automated Dialogflow CX deployment pipelines on GCP using Docker containers, Git version control, and CI/CD automation tools, enabling rapid iteration of healthcare chatbot features while maintaining audit trails required for FDA and HIPAA compliance in regulated healthcare environments.",
+        "Refined speech recognition accuracy for Dialogflow CX voice agents by customizing vocabulary with medical terms, drug names, and healthcare procedures, ensuring patients could use voice commands to navigate appointment booking, prescription inquiries, and symptom assessment features reliably.",
+        "Partnered with healthcare UI designers to prototype conversation experiences, testing dialog flows with patient focus groups, gathering feedback on clarification prompts, and adjusting Dialogflow CX response templates to ensure medical information was communicated clearly and compassionately to diverse patient populations.",
+        "Investigated Dialogflow CX production incidents by analyzing Cloud Logging data, tracing webhook execution failures, and identifying root causes like API timeouts, HIPAA authentication errors, or intent misclassifications that impacted patient experience during appointment scheduling or medical inquiry workflows.",
+        "Enhanced context awareness in Dialogflow CX by implementing session parameter management, enabling healthcare bots to remember patient preferences, track multi-turn conversations about symptoms, and maintain continuity when patients switched topics during medical inquiries or appointment modifications.",
+        "Validated Dialogflow CX integrations using Postman for webhook testing, writing unit tests for Node.js fulfillment logic, and conducting end-to-end conversation testing to verify accurate handling of healthcare scenarios like insurance verification, appointment conflicts, and medication interaction warnings.",
+        "Evaluated emerging conversational AI frameworks including LangChain and Crew AI for potential healthcare applications, assessing their capabilities for complex medical reasoning, multi-agent coordination, and HIPAA-compliant data handling compared to existing Dialogflow CX implementations in patient engagement.",
+        "Secured patient data in Dialogflow CX conversations by implementing OAuth flows for user authentication, encrypting sensitive health information in webhook payloads, and configuring access controls that restricted medical record retrieval to authorized patients in compliance with HIPAA privacy rules.",
+        "Reviewed code changes with team members during pull request sessions, ensuring Node.js webhook implementations followed healthcare security standards, properly handled edge cases like missing patient data, and maintained consistent error messaging aligned with patient communication guidelines.",
+        "Prepared technical documentation covering Dialogflow CX setup procedures, webhook development standards, and HIPAA compliance requirements for healthcare chatbots, enabling new team members to understand security constraints, data handling protocols, and regulatory considerations in medical conversational AI projects."
+      ],
+      "environment": [
+        "Google Dialogflow CX",
+        "Node.js",
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "LangChain",
+        "Crew AI",
+        "Webhooks",
+        "Docker",
+        "GKE",
+        "Git",
+        "CI/CD",
+        "REST APIs",
+        "Cloud Functions",
+        "NLP",
+        "Intent Recognition",
+        "Entity Extraction",
+        "Speech-to-Text",
+        "Postman",
+        "Cloud Logging",
+        "OAuth",
+        "HIPAA Compliance",
+        "Healthcare Domain",
+        "FDA Regulations",
+        "Patient Data Security"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Prototyped conversational AI solutions for state healthcare services using AWS infrastructure, developing intent recognition models that helped citizens navigate Medicaid enrollment, benefits verification, and healthcare provider searches through automated chat interfaces compliant with state and federal healthcare regulations.",
+        "Configured webhook services on AWS Lambda using Node.js to connect chatbot interfaces with state healthcare databases, retrieving eligibility information, processing benefit inquiries, and validating citizen data while adhering to HIPAA requirements and state data protection policies for public healthcare systems.",
+        "Assembled training datasets for NLP models by analyzing citizen service requests, healthcare inquiry transcripts, and common Medicaid questions, creating diverse intent examples that improved chatbot understanding of state-specific healthcare terminology, benefit categories, and enrollment procedures.",
+        "Coordinated with state IT teams to integrate conversational AI components with legacy healthcare systems, mapping data structures, defining API contracts, and establishing error handling protocols that ensured reliable information retrieval for citizens seeking healthcare coverage and provider information.",
+        "Deployed chatbot solutions on AWS infrastructure using Docker containers, implementing version control with Git, and establishing basic CI/CD workflows that enabled updates to healthcare intent models, webhook logic, and conversation flows while maintaining service availability for state residents.",
+        "Adjusted NLP configurations to handle regional language variations and accessibility needs of Maine citizens, tuning entity recognition for local healthcare providers, state program names, and eligibility criteria specific to Maine's Medicaid implementation and public health initiatives.",
+        "Troubleshot production issues by examining AWS CloudWatch logs, identifying intent classification failures, webhook timeout errors, and database connection problems that affected citizen ability to access healthcare information through automated chat channels during high-volume enrollment periods.",
+        "Collaborated with public health officials to understand citizen healthcare needs, translating policy requirements into conversational flows, and ensuring chatbot responses accurately reflected current Medicaid rules, enrollment deadlines, and available healthcare services in Maine's public health ecosystem.",
+        "Tested chatbot functionality using API testing tools for webhook validation, writing basic unit tests for Lambda functions, and conducting manual conversation testing to verify accurate responses for healthcare scenarios like eligibility checks, provider searches, and benefit explanations.",
+        "Reviewed NLP model performance metrics, analyzing intent classification accuracy, entity extraction precision, and conversation completion rates to identify areas needing additional training data, improved intent examples, or conversation flow adjustments in state healthcare automation.",
+        "Implemented data security measures including encryption for sensitive healthcare information, access logging for audit compliance, and authentication mechanisms that verified citizen identity before providing personal Medicaid details through automated conversational interfaces.",
+        "Participated in meetings with state stakeholders, presenting chatbot performance data, gathering feedback on citizen experience, and recommending improvements to conversation design, intent coverage, and integration points that would enhance healthcare information accessibility for Maine residents."
+      ],
+      "environment": [
+        "AWS",
+        "Lambda",
+        "Node.js",
+        "NLP",
+        "Intent Recognition",
+        "Entity Extraction",
+        "Webhooks",
+        "Docker",
+        "Git",
+        "REST APIs",
+        "CloudWatch",
+        "Postman",
+        "Healthcare Domain",
+        "HIPAA Compliance",
+        "Medicaid Systems",
+        "State Regulations",
+        "Public Sector",
+        "Data Security"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed NLP models for banking customer service automation on AWS infrastructure, creating intent classification systems that helped customers check account balances, transfer funds, and locate branch information through chat interfaces while maintaining PCI-DSS compliance for financial data protection.",
+        "Connected chatbot webhooks built with Node.js to banking APIs, retrieving account information, validating transactions, and processing customer requests while implementing security measures including token authentication, data encryption, and audit logging required for financial services compliance.",
+        "Gathered training data for banking chatbot intents by analyzing customer service transcripts, identifying common financial queries, and creating intent examples covering account inquiries, transaction disputes, card services, and loan information that improved automated response accuracy in banking operations.",
+        "Worked with banking compliance teams to ensure conversational AI implementations met PCI-DSS requirements, implementing proper data handling procedures, encryption standards, and access controls that protected sensitive financial information during automated customer interactions through chat channels.",
+        "Released chatbot updates to AWS environments using Git for version control, Docker for containerization, and basic deployment scripts that enabled incremental improvements to banking intent recognition, webhook functionality, and conversation flows without disrupting customer service operations.",
+        "Tuned entity extraction for banking-specific data types including account numbers, transaction amounts, date ranges, and routing numbers, ensuring accurate information capture from customer queries and proper validation before submitting financial transactions through automated chat interfaces.",
+        "Analyzed chatbot performance logs using AWS CloudWatch, identifying patterns in intent misclassification, webhook failures, and customer conversation abandonment that indicated areas needing improved training data, enhanced error handling, or clearer conversation prompts in banking automation.",
+        "Met with backend development teams to define API requirements for chatbot integration, discussing data formats, authentication methods, and error response handling that would enable reliable retrieval of account information and secure processing of banking transactions through conversational interfaces.",
+        "Checked webhook functionality using Postman for API testing, writing unit tests for financial calculation logic, and performing conversation testing to verify accurate handling of banking scenarios like balance inquiries, transaction history requests, and fraud alert notifications.",
+        "Explored additional NLP techniques that could improve banking chatbot capabilities, researching sentiment analysis for detecting frustrated customers, context management for multi-turn financial conversations, and entity resolution for disambiguating similar account types in customer queries."
+      ],
+      "environment": [
+        "AWS",
+        "Node.js",
+        "NLP",
+        "Intent Recognition",
+        "Entity Extraction",
+        "Webhooks",
+        "Lambda",
+        "Docker",
+        "Git",
+        "REST APIs",
+        "CloudWatch",
+        "Postman",
+        "Banking Domain",
+        "PCI-DSS Compliance",
+        "Financial Regulations",
+        "Transaction Security",
+        "Data Encryption"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned data pipeline development using Hadoop and Informatica, building ETL workflows that extracted customer data from source systems, transformed information for analytics needs, and loaded results into data warehouses supporting business intelligence and reporting requirements across consulting projects.",
+        "Helped migrate data between systems using Sqoop, transferring records from relational databases to Hadoop clusters, validating data quality after transfers, and troubleshooting connection issues that arose during large-scale data movement operations for enterprise consulting clients.",
+        "Assisted in creating Informatica mappings that cleaned customer data, standardized formats, and enriched records with additional attributes, gaining experience with data transformation logic, lookup operations, and error handling techniques used in enterprise data integration projects.",
+        "Participated in code reviews where senior engineers explained data pipeline design patterns, best practices for handling data quality issues, and approaches for optimizing ETL performance, gradually building understanding of enterprise data engineering principles.",
+        "Debugged failed data pipeline jobs by examining log files, identifying root causes like data format mismatches, schema changes, or resource constraints, and applying fixes under guidance from experienced team members during consulting project delivery.",
+        "Attended team meetings where project requirements were discussed, learning how business needs translated into data pipeline specifications, reporting requirements, and data quality standards expected by consulting clients in various industries.",
+        "Contributed to documentation efforts by recording pipeline configurations, data mapping specifications, and troubleshooting procedures, helping maintain knowledge base resources that supported ongoing data engineering operations for consulting engagements.",
+        "Gained exposure to Git version control practices, committing code changes to repositories, creating branches for new features, and merging updates after review, developing foundational software engineering skills applied in team-based data pipeline development."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Pipelines",
+        "Git",
+        "SQL",
+        "Data Quality",
+        "Consulting Domain"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

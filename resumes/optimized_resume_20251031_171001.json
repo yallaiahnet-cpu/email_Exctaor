@@ -1,0 +1,333 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "SAP Project Systems Lead",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized SAP PS to streamline project cost forecasting and budgeting, ensuring accurate revenue reporting and integration of project variations, which enhanced financial accuracy and decision-making.",
+    "Implemented SAP Project Systems (PS) modules, providing functional expertise and guidance to clients, resulting in improved project management and operational efficiency.",
+    "Configured SAP PS structures, including Work Breakdown Structure (WBS), Network, Milestones, and Cost Planning, to align with client business requirements and enhance project execution.",
+    "Integrated SAP PS with intercompany processes, ensuring seamless data flow and compliance with business requirements across multiple entities.",
+    "Designed and deployed SAP PS functionalities such as Material Requirement Planning (MRP), Project Quotation, and Time Sheets, optimizing resource allocation and project tracking.",
+    "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations and improving system usability.",
+    "Utilized Fiori Gantt Chart for intuitive project scheduling, enhancing visibility and coordination across project timelines.",
+    "Implemented SAP PS Goods Issues module, streamlining material management and reducing discrepancies in project inventory.",
+    "Provided training and instruction on SAP PS products to clients, ensuring effective adoption and utilization of the system.",
+    "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business processes and objectives.",
+    "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime.",
+    "Developed complex estimates within SAP PS, supporting accurate project budgeting and cost control.",
+    "Enhanced SAP PS reporting capabilities, enabling clients to generate detailed budget and revenue reports for better financial oversight.",
+    "Worked on SAP PS roll-out projects, ensuring successful implementation and integration with existing systems.",
+    "Supported post-implementation support for SAP PS, addressing user queries and system enhancements.",
+    "Conducted regular code reviews and debugging sessions to ensure high-quality SAP PS configurations.",
+    "Participated in daily stand-up meetings, aligning team efforts with project goals and timelines.",
+    "Mentored junior team members on SAP PS functionalities, fostering knowledge sharing and team growth."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized AWS services like S3 and Lambda to build a scalable data pipeline for SAP PS integration, improving data processing efficiency.",
+        "Implemented SAP PS modules using Python and SQL, enhancing project cost forecasting and budgeting accuracy.",
+        "Configured SAP PS structures such as WBS and Network, aligning with client business requirements and improving project execution.",
+        "Integrated SAP PS with intercompany processes using REST APIs, ensuring seamless data flow across entities.",
+        "Designed and deployed SAP PS functionalities like MRP and Time Sheets, optimizing resource allocation and project tracking.",
+        "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations.",
+        "Scheduled project timelines using Fiori Gantt Chart, enhancing visibility and coordination across teams.",
+        "Implemented SAP PS Goods Issues module, streamlining material management and reducing inventory discrepancies.",
+        "Provided training and instruction on SAP PS products to clients, ensuring effective system adoption.",
+        "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business objectives.",
+        "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime.",
+        "Developed complex estimates within SAP PS, supporting accurate project budgeting and cost control.",
+        "Enhanced SAP PS reporting capabilities, enabling clients to generate detailed budget and revenue reports.",
+        "Worked on SAP PS roll-out projects, ensuring successful implementation and integration with existing systems.",
+        "Supported post-implementation support for SAP PS, addressing user queries and system enhancements.",
+        "Conducted regular code reviews and debugging sessions to ensure high-quality SAP PS configurations."
+      ],
+      "environment": [
+        "AWS, SAP PS, Python, SQL, REST APIs, Fiori Gantt Chart"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Implemented SAP PS modules using GCP services like BigQuery, improving project data management and reporting.",
+        "Configured SAP PS structures such as Milestones and Cost Planning, aligning with healthcare compliance requirements.",
+        "Integrated SAP PS with intercompany processes using Apache Kafka, ensuring seamless data flow across entities.",
+        "Designed and deployed SAP PS functionalities like Project Quotation and Time Sheets, optimizing resource allocation.",
+        "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations.",
+        "Scheduled project timelines using Fiori Gantt Chart, enhancing visibility and coordination across teams.",
+        "Implemented SAP PS Goods Issues module, streamlining material management and reducing inventory discrepancies.",
+        "Provided training and instruction on SAP PS products to clients, ensuring effective system adoption.",
+        "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business objectives.",
+        "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime.",
+        "Developed complex estimates within SAP PS, supporting accurate project budgeting and cost control.",
+        "Enhanced SAP PS reporting capabilities, enabling clients to generate detailed budget and revenue reports.",
+        "Worked on SAP PS roll-out projects, ensuring successful implementation and integration with existing systems.",
+        "Supported post-implementation support for SAP PS, addressing user queries and system enhancements."
+      ],
+      "environment": [
+        "GCP, SAP PS, Apache Kafka, Fiori Gantt Chart"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented SAP PS modules using Azure services like Data Factory, improving project data management and reporting.",
+        "Configured SAP PS structures such as WBS and Network, aligning with government compliance requirements.",
+        "Integrated SAP PS with intercompany processes using REST APIs, ensuring seamless data flow across entities.",
+        "Designed and deployed SAP PS functionalities like MRP and Time Sheets, optimizing resource allocation.",
+        "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations.",
+        "Scheduled project timelines using Fiori Gantt Chart, enhancing visibility and coordination across teams.",
+        "Implemented SAP PS Goods Issues module, streamlining material management and reducing inventory discrepancies.",
+        "Provided training and instruction on SAP PS products to clients, ensuring effective system adoption.",
+        "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business objectives.",
+        "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime.",
+        "Developed complex estimates within SAP PS, supporting accurate project budgeting and cost control.",
+        "Enhanced SAP PS reporting capabilities, enabling clients to generate detailed budget and revenue reports.",
+        "Worked on SAP PS roll-out projects, ensuring successful implementation and integration with existing systems."
+      ],
+      "environment": [
+        "Azure, SAP PS, REST APIs, Fiori Gantt Chart"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Implemented SAP PS modules using AWS services like Redshift, improving project data management and reporting.",
+        "Configured SAP PS structures such as Milestones and Cost Planning, aligning with banking compliance requirements.",
+        "Integrated SAP PS with intercompany processes using Apache Kafka, ensuring seamless data flow across entities.",
+        "Designed and deployed SAP PS functionalities like Project Quotation and Time Sheets, optimizing resource allocation.",
+        "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations.",
+        "Scheduled project timelines using Fiori Gantt Chart, enhancing visibility and coordination across teams.",
+        "Implemented SAP PS Goods Issues module, streamlining material management and reducing inventory discrepancies.",
+        "Provided training and instruction on SAP PS products to clients, ensuring effective system adoption.",
+        "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business objectives.",
+        "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime.",
+        "Developed complex estimates within SAP PS, supporting accurate project budgeting and cost control."
+      ],
+      "environment": [
+        "AWS, SAP PS, Apache Kafka, Fiori Gantt Chart"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Implemented SAP PS modules using on-premise systems, improving project data management and reporting.",
+        "Configured SAP PS structures such as WBS and Network, aligning with client business requirements.",
+        "Integrated SAP PS with intercompany processes using REST APIs, ensuring seamless data flow across entities.",
+        "Designed and deployed SAP PS functionalities like MRP and Time Sheets, optimizing resource allocation.",
+        "Facilitated requirements gathering sessions with stakeholders, translating business needs into SAP PS configurations.",
+        "Scheduled project timelines using Fiori Gantt Chart, enhancing visibility and coordination across teams.",
+        "Implemented SAP PS Goods Issues module, streamlining material management and reducing inventory discrepancies.",
+        "Provided training and instruction on SAP PS products to clients, ensuring effective system adoption.",
+        "Collaborated with cross-functional teams to blueprint SAP PS implementations, ensuring alignment with business objectives.",
+        "Troubleshot and resolved SAP PS configuration issues, maintaining system integrity and minimizing downtime."
+      ],
+      "environment": [
+        "On-Premise, SAP PS, REST APIs, Fiori Gantt Chart"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

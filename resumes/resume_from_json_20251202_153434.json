@@ -1,0 +1,221 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI/ML Engineer - Generative AI & Reasoning Models",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered advanced AI/ML reasoning pipelines using Oracle Generative AI platform to enhance decision-making processes across Healthcare domain while ensuring HIPAA compliance for patient data protection and privacy.",
+    "Developed Chain of Thought (CoT) modeling techniques to improve interpretability of complex medical diagnoses in healthcare applications, allowing clinicians to understand AI reasoning behind treatment recommendations.",
+    "Applied TensorFlow and PyTorch frameworks to build deep learning models for medical image analysis, initially struggling with CNN architectures but eventually achieving accurate detection of anomalies.",
+    "Implemented prompt engineering strategies for Oracle Generative AI to generate personalized patient care plans based on medical history, symptoms, and treatment preferences while maintaining ethical guidelines.",
+    "Utilized Python libraries such as scikit-learn and pandas to preprocess healthcare datasets, handling missing values and normalizing features to prepare data for ML model training with high accuracy.",
+    "Collaborated with data scientists and healthcare professionals to fine-tune generative AI models for medical terminology understanding, learning domain-specific language through iterative feedback sessions.",
+    "Integrated Oracle Cloud infrastructure to deploy scalable ML pipelines for real-time patient monitoring systems, ensuring low-latency responses for critical healthcare applications and emergency alerts.",
+    "Designed evaluation metrics to assess model performance in healthcare settings, focusing on clinical relevance rather than just statistical accuracy, which required close collaboration with medical experts.",
+    "Created automated workflows using Apache Airflow to schedule ML model training and inference tasks, initially facing challenges with pipeline dependencies but eventually implementing robust error handling.",
+    "Fine-tuned large language models on medical literature and clinical guidelines to generate evidence-based recommendations, carefully curating datasets to avoid bias and ensure representation across patient demographics.",
+    "Applied Chain of Thought reasoning to develop explainable AI systems for banking fraud detection, enabling auditors to understand the logic behind suspicious transaction alerts and reducing false positives.",
+    "Engineered ML pipelines using Oracle Generative AI to analyze automotive sensor data, initially struggling with time-series analysis but eventually implementing effective feature extraction techniques.",
+    "Developed Python-based data integration solutions to combine structured and unstructured data from multiple sources in consulting projects, creating unified views that supported better business insights.",
+    "Applied transfer learning techniques to adapt pre-trained models for domain-specific tasks in healthcare, banking, and automotive, significantly reducing training time while maintaining high performance.",
+    "Utilized modern ML frameworks to implement ensemble methods for improved prediction accuracy across different domains, experimenting with various combinations of models to find optimal solutions.",
+    "Collaborated with cross-functional teams to implement data governance frameworks for ML projects, ensuring compliance with industry regulations such as HIPAA for healthcare and PCI for banking applications.",
+    "Developed custom evaluation metrics for generative AI models in specialized domains, going beyond standard metrics to assess domain-specific quality and relevance of generated content.",
+    "Implemented continuous learning pipelines to update models with new data, designing systems that could automatically detect performance degradation and trigger retraining processes with minimal human intervention."
+  ],
+  "technical_skills": {
+    "AI & ML": [
+      "Oracle Generative AI",
+      "Chain of Thought (CoT) Modeling",
+      "TensorFlow",
+      "PyTorch",
+      "Deep Learning",
+      "Prompt Engineering",
+      "Model Fine-tuning",
+      "Transfer Learning",
+      "Ensemble Methods",
+      "LLMs",
+      "Computer Vision",
+      "NLP"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Java"
+    ],
+    "Data Processing": [
+      "Apache Kafka",
+      "Hadoop",
+      "Apache Airflow",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn"
+    ],
+    "Cloud & DevOps": [
+      "Oracle Cloud",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Visualization": [
+      "Tableau",
+      "Power BI",
+      "Matplotlib",
+      "Plotly"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI/ML Engineer - Healthcare Analytics",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected Oracle Generative AI solutions to enhance patient care recommendation systems, implementing Chain of Thought reasoning to provide transparent explanations for medication suggestions that improved patient adherence.",
+        "Engineered deep learning models using PyTorch to analyze electronic health records and predict potential health risks, initially struggling with temporal data patterns but eventually developing effective feature extraction methods.",
+        "Developed HIPAA-compliant data pipelines using Python and Apache Airflow to process sensitive patient information, implementing encryption and access controls to ensure data privacy while enabling ML model training.",
+        "Applied prompt engineering techniques to customize Oracle Generative AI for healthcare terminology, creating specialized prompts that generated clinically accurate responses aligned with medical guidelines and best practices.",
+        "Fine-tuned large language models on medical literature and clinical guidelines to assist healthcare professionals with diagnosis, carefully evaluating outputs through collaboration with medical experts to ensure accuracy.",
+        "Implemented Chain of Thought reasoning in AI systems to explain medication interactions and contraindications, creating visual flow diagrams that helped both clinicians and patients understand complex medical relationships.",
+        "Utilized TensorFlow to develop computer vision models for analyzing medical images, initially facing challenges with limited training data but overcoming this through data augmentation and transfer learning techniques.",
+        "Designed evaluation frameworks specifically for healthcare AI applications, developing metrics that assessed not just accuracy but also clinical relevance, fairness across patient demographics, and potential for harm.",
+        "Created real-time monitoring systems using Oracle Cloud infrastructure to track model performance in production environments, implementing automated alerts for detecting drift or degradation in healthcare prediction models.",
+        "Collaborated with healthcare professionals to implement ethical AI guidelines in model development, ensuring that patient privacy and consent were respected throughout the data collection and model training processes.",
+        "Applied transfer learning to adapt pre-trained models for specialized healthcare tasks, significantly reducing the amount of domain-specific data needed while maintaining high performance on medical prediction tasks.",
+        "Developed Python-based tools to automate the documentation of model development processes, creating comprehensive audit trails that satisfied healthcare regulatory requirements and facilitated internal knowledge sharing.",
+        "Implemented ensemble methods combining multiple models to improve prediction accuracy for complex medical conditions, experimenting with various voting mechanisms and weight optimization techniques.",
+        "Utilized Chain of Thought prompting to generate step-by-step explanations for AI-driven treatment recommendations, enabling clinicians to validate the reasoning process before making critical healthcare decisions.",
+        "Engineered secure APIs to integrate Oracle Generative AI capabilities with existing healthcare systems, implementing authentication and authorization mechanisms that ensured only authorized personnel could access AI-generated insights.",
+        "Applied federated learning techniques to train models on distributed healthcare data without centralizing sensitive information, initially struggling with communication overhead but eventually optimizing the architecture.",
+        "Developed custom visualization tools using Tableau to present AI-generated insights in healthcare-appropriate formats, creating dashboards that highlighted key information while respecting patient privacy requirements.",
+        "Implemented continuous learning pipelines to update models with new medical research and patient data, designing systems that could automatically detect when new clinical guidelines required model adjustments."
+      ],
+      "environment": [
+        "Oracle Generative AI",
+        "Chain of Thought (CoT) Modeling",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Oracle Cloud",
+        "Apache Airflow",
+        "HIPAA Compliance Frameworks",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "AI/ML Engineer - Financial Analytics",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Developed AI models using PyTorch to detect fraudulent transactions in real-time, implementing Chain of Thought reasoning to provide auditors with transparent explanations for suspicious activity alerts.",
+        "Applied Oracle Generative AI to create personalized financial advice systems, fine-tuning models on banking regulations and customer data to generate compliant and relevant recommendations.",
+        "Engineered secure data pipelines using Python and Apache Airflow to process sensitive financial information, implementing encryption and access controls that met PCI DSS requirements for banking applications.",
+        "Utilized TensorFlow to develop credit risk assessment models, initially struggling with imbalanced datasets but eventually implementing effective sampling techniques and custom loss functions.",
+        "Created prompt engineering strategies for Oracle Generative AI to generate customer-facing communications about financial products, ensuring compliance with banking regulations while maintaining a natural tone.",
+        "Applied Chain of Thought reasoning to develop explainable AI systems for loan approval decisions, enabling both customers and regulators to understand the factors behind automated lending decisions.",
+        "Fine-tuned large language models on financial regulations and internal policies to create automated compliance checking systems, significantly reducing manual review time for banking documents and communications.",
+        "Implemented ensemble methods combining multiple models to improve prediction accuracy for customer churn, experimenting with various voting mechanisms and weight optimization techniques.",
+        "Developed Python-based tools to automate the documentation of model development processes, creating comprehensive audit trails that satisfied banking regulatory requirements and facilitated internal reviews.",
+        "Utilized transfer learning to adapt pre-trained models for specialized banking tasks, significantly reducing the amount of domain-specific data needed while maintaining high performance on financial prediction tasks.",
+        "Collaborated with compliance teams to implement ethical AI guidelines in model development, ensuring that customer data privacy and fair lending practices were maintained throughout the ML pipeline.",
+        "Applied federated learning techniques to train models on distributed financial data without centralizing sensitive information, initially struggling with communication overhead but eventually optimizing the architecture.",
+        "Created real-time monitoring systems using AWS infrastructure to track model performance in production environments, implementing automated alerts for detecting drift in fraud detection models.",
+        "Implemented continuous learning pipelines to update models with new financial data and regulations, designing systems that could automatically detect when market changes required model adjustments.",
+        "Developed custom evaluation frameworks specifically for banking AI applications, creating metrics that assessed not just accuracy but also regulatory compliance, fairness across customer segments, and potential for financial harm."
+      ],
+      "environment": [
+        "Oracle Generative AI",
+        "Chain of Thought (CoT) Modeling",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Apache Airflow",
+        "PCI DSS Compliance Frameworks",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Software Developer - Automotive Analytics",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed Python-based data processing pipelines using Apache Kafka and Hadoop to handle high-volume sensor data from vehicles, initially struggling with real-time processing but eventually implementing effective batching strategies.",
+        "Applied machine learning techniques to analyze automotive sensor data for predictive maintenance, creating models that could identify potential component failures before they occurred, reducing warranty costs.",
+        "Utilized Apache Airflow to orchestrate complex data workflows for automotive analytics, designing pipelines that could process data from multiple sources including telematics, manufacturing, and customer feedback.",
+        "Engineered data visualization solutions using Tableau to present automotive analytics insights to engineering teams, creating dashboards that highlighted key performance indicators and emerging trends.",
+        "Implemented time-series analysis techniques to detect anomalies in vehicle performance data, developing custom algorithms that could identify patterns indicative of potential safety issues or quality problems.",
+        "Collaborated with automotive engineers to integrate ML models into vehicle systems, initially facing challenges with computational constraints but eventually optimizing models for edge deployment in vehicles.",
+        "Applied data integration techniques to combine structured and unstructured data from manufacturing, sales, and after-sales service, creating unified views that supported better decision-making across the organization.",
+        "Developed Python scripts to automate data quality checks for automotive datasets, implementing validation rules that ensured consistency and accuracy before data was used for analysis or model training.",
+        "Utilized statistical analysis techniques to identify correlations between vehicle design parameters and performance metrics, providing insights that informed future product development and engineering decisions.",
+        "Created data processing workflows to handle the large volume of telematics data from connected vehicles, implementing efficient storage and retrieval mechanisms that supported real-time analytics applications.",
+        "Applied clustering algorithms to segment customers based on vehicle usage patterns and preferences, enabling more targeted marketing campaigns and personalized service offerings.",
+        "Developed predictive models to forecast demand for specific vehicle configurations and features, helping optimize production planning and inventory management across manufacturing facilities."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "TensorFlow",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed Python-based data integration solutions using Talend to combine data from multiple client systems, initially struggling with data format inconsistencies but eventually implementing robust transformation logic.",
+        "Utilized MySQL and PostgreSQL databases to design and implement data storage solutions for consulting projects, optimizing query performance through proper indexing and normalization techniques.",
+        "Applied Apache Airflow to automate data processing workflows for consulting clients, creating scheduled jobs that extracted, transformed, and loaded data from various sources into target systems.",
+        "Engineered data visualization dashboards using Tableau to present business insights to consulting clients, creating interactive reports that enabled stakeholders to explore data and identify trends.",
+        "Collaborated with client teams to understand business requirements and translate them into technical specifications for data integration projects, learning to bridge the gap between business needs and technical implementation.",
+        "Developed Python scripts to automate data quality checks and validation processes, implementing custom rules that ensured data consistency and accuracy across different client systems.",
+        "Utilized SQL to write complex queries for data extraction and analysis, initially finding it challenging to work with large datasets but eventually mastering optimization techniques.",
+        "Applied data modeling techniques to design database schemas that supported client business processes, creating entity-relationship diagrams that captured complex relationships between different data entities.",
+        "Implemented ETL processes to migrate data from legacy systems to modern platforms, developing custom transformation logic that handled data format conversions and business rule applications.",
+        "Created documentation for data integration processes and system architectures, producing technical guides that helped team members understand system designs and implementation approaches."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "ETL Tools",
+        "Data Modeling",
+        "Data Visualization"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

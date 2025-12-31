@@ -1,0 +1,292 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Python Backend Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Python backend development and microservices architecture, specializing in building scalable enterprise systems for insurance, healthcare, banking, and consulting domains with high-availability requirements.",
+    "Using Flask and Gunicorn to address complex insurance claim processing bottlenecks, I designed RESTful APIs with PyMySQL integration that streamlined data flow between microservices while maintaining strict compliance with state insurance regulations.",
+    "Leveraging Redis and Memcache for session management challenges in healthcare applications, I implemented distributed caching layers that significantly improved system responsiveness while ensuring HIPAA compliance across all patient data interactions.",
+    "Through Docker containerization, I resolved deployment inconsistencies across development environments by creating standardized images that simplified our CI/CD pipeline using Jenkins and reduced production issues.",
+    "Applying NumPy and Pandas for financial data analysis in banking systems, I developed data processing modules that handled large-scale transaction records while maintaining PCI compliance and real-time fraud detection capabilities.",
+    "Implementing microservices architecture for insurance policy management, I decomposed monolithic applications into scalable services using Python Flask that improved system maintainability and deployment flexibility.",
+    "Using MySQL with PyMySQL connectors, I optimized database queries for healthcare provider networks that reduced query latency and improved patient data retrieval times during critical care scenarios.",
+    "Through unit testing with PyTest framework, I established comprehensive test coverage for insurance rating engines that caught critical calculation errors early and prevented potential regulatory compliance issues.",
+    "Leveraging Git and GitHub for version control across distributed teams, I implemented branching strategies that facilitated parallel development while maintaining code quality through rigorous peer review processes.",
+    "Applying RESTful API design principles, I created well-documented endpoints for banking transaction systems that enabled seamless integration with third-party payment processors and internal auditing tools.",
+    "Using CI/CD pipelines with Jenkins, I automated deployment processes for healthcare applications that reduced manual errors and ensured consistent environments from development to production stages.",
+    "Through Kubernetes orchestration knowledge, I managed containerized Python microservices that scaled dynamically based on insurance claim processing loads during peak periods and catastrophic events.",
+    "Implementing SQLAlchemy ORM for database abstraction, I simplified complex healthcare data models that accelerated development cycles while maintaining data integrity across multiple service boundaries.",
+    "Using Linux shell scripting, I automated routine deployment tasks and monitoring checks that improved operational efficiency and reduced manual intervention in production banking systems.",
+    "Applying error handling with Sentry integration, I established comprehensive logging frameworks that quickly identified and resolved issues in insurance policy administration systems during high-volume periods.",
+    "Through performance profiling techniques, I identified bottlenecks in healthcare data processing pipelines and optimized critical code paths that improved overall system throughput and patient care delivery.",
+    "Implementing OAuth and JWT security practices, I secured sensitive banking APIs against unauthorized access while maintaining seamless user experiences across mobile and web applications.",
+    "Using Agile development methodology, I collaborated with cross-functional teams to deliver iterative improvements to consulting client platforms while adapting to changing business requirements and regulatory demands."
+  ],
+  "technical_skills": {
+    "Backend Frameworks": [
+      "Flask",
+      "FastAPI",
+      "Django",
+      "Gunicorn",
+      "uWSGI"
+    ],
+    "Database Technologies": [
+      "MySQL",
+      "PyMySQL",
+      "Redis",
+      "Memcache",
+      "PostgreSQL",
+      "SQLAlchemy"
+    ],
+    "API Development": [
+      "RESTful API Design",
+      "Swagger/OpenAPI",
+      "API Versioning",
+      "Postman",
+      "Curl"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Container Orchestration"
+    ],
+    "CI/CD & DevOps": [
+      "Jenkins",
+      "GitLab CI",
+      "Git/GitHub",
+      "Linux Shell Scripting",
+      "Agile Methodology"
+    ],
+    "Data Processing & Analytics": [
+      "NumPy",
+      "Pandas",
+      "Data Manipulation",
+      "Performance Optimization"
+    ],
+    "Testing & Quality Assurance": [
+      "PyTest",
+      "Unit Testing",
+      "Error Handling",
+      "Logging"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Cloud Deployment"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "Sentry",
+      "ELK Stack",
+      "System Monitoring"
+    ],
+    "Security & Authentication": [
+      "OAuth",
+      "JWT",
+      "Secure Coding Practices",
+      "API Security"
+    ],
+    "Microservices Architecture": [
+      "Service Decomposition",
+      "Inter-service Communication",
+      "Scalable Systems"
+    ],
+    "Development Tools": [
+      "Jira",
+      "Confluence",
+      "Code Review",
+      "Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Flask and Gunicorn to address slow insurance policy processing times, I architected a microservices-based system that decomposed monolithic applications into specialized services handling claims, underwriting, and customer management with improved scalability.",
+        "Implementing Redis caching for frequently accessed insurance rate tables, I designed distributed session management that reduced database load during peak traffic periods while maintaining state-specific regulatory compliance across all policy calculations.",
+        "Through MySQL with PyMySQL optimization, I resolved performance bottlenecks in claims adjudication systems by rewriting complex queries and implementing connection pooling that handled high concurrent user loads during catastrophic weather events.",
+        "Leveraging Docker containerization, I created standardized deployment packages for insurance microservices that eliminated environment inconsistencies and streamlined our CI/CD pipeline using Jenkins for automated testing and deployment.",
+        "Applying NumPy and Pandas for risk assessment algorithms, I developed data processing modules that analyzed historical claim patterns to improve underwriting accuracy while ensuring compliance with insurance regulatory requirements.",
+        "Using RESTful API design principles, I built comprehensive insurance policy management APIs that enabled seamless integration with external reinsurance partners and internal analytics platforms through well-documented Swagger specifications.",
+        "Through unit testing with PyTest framework, I established rigorous test coverage for premium calculation engines that identified critical rounding errors and prevented potential regulatory compliance issues in multi-state insurance operations.",
+        "Implementing Memcache for session storage, I solved user authentication challenges across distributed services by creating a centralized session management system that maintained user context during complex insurance application workflows.",
+        "Using Git and GitHub for collaborative development, I established code review processes and branching strategies that facilitated parallel feature development while maintaining code quality across our insurance technology portfolio.",
+        "Applying microservices architecture patterns, I led the decomposition of legacy insurance systems into domain-driven services that improved development velocity and enabled independent scaling of critical policy administration functions.",
+        "Through Jenkins CI/CD pipelines, I automated deployment processes for insurance applications that reduced manual configuration errors and ensured consistent environments from development through production validation stages.",
+        "Implementing performance profiling techniques, I identified and optimized slow database queries in claims processing systems that significantly improved response times during high-volume claim submission periods following major incidents.",
+        "Using error handling with comprehensive logging, I established monitoring frameworks that quickly detected and resolved issues in real-time policy issuance systems, maintaining service availability during critical business operations.",
+        "Applying Kubernetes orchestration knowledge, I managed containerized Python microservices that dynamically scaled based on insurance claim processing demands, ensuring system stability during seasonal peak loads.",
+        "Through OAuth security implementation, I secured sensitive insurance customer data APIs against unauthorized access while maintaining seamless user experiences across agent portals and customer self-service applications.",
+        "Using Agile development methodology, I collaborated with cross-functional teams including frontend developers and business analysts to deliver iterative improvements to insurance platforms while adapting to changing regulatory requirements."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Gunicorn",
+        "MySQL",
+        "PyMySQL",
+        "Redis",
+        "Memcache",
+        "Docker",
+        "Jenkins",
+        "AWS",
+        "Kubernetes",
+        "PyTest",
+        "RESTful APIs",
+        "Microservices"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Flask framework to address healthcare data processing challenges, I developed microservices that handled patient information while maintaining strict HIPAA compliance through encrypted data transmission and access controls.",
+        "Implementing Redis for clinical trial data caching, I created distributed caching layers that improved response times for researchers accessing large datasets while ensuring data integrity and audit trail maintenance.",
+        "Through MySQL with PyMySQL integration, I optimized database performance for pharmaceutical inventory management systems by implementing query optimization and indexing strategies that handled complex supply chain calculations.",
+        "Leveraging Docker containerization, I packaged healthcare applications into portable containers that simplified deployment across development, testing, and production environments while maintaining consistent configuration.",
+        "Applying NumPy and Pandas for medical research data analysis, I built data processing pipelines that handled large-scale clinical trial results while ensuring statistical accuracy and regulatory reporting compliance.",
+        "Using RESTful API design, I created healthcare provider integration APIs that enabled seamless data exchange between hospital systems and pharmaceutical databases while maintaining patient privacy standards.",
+        "Through unit testing with PyTest, I established comprehensive test suites for medication dosage calculation services that validated accuracy and prevented potential patient safety issues in clinical applications.",
+        "Implementing Memcache for session management, I solved performance issues in healthcare provider portals by caching frequently accessed patient records and medication information during clinical decision support workflows.",
+        "Using Git and GitHub for version control, I managed codebase evolution across multiple healthcare projects while maintaining audit trails required for regulatory compliance and quality assurance documentation.",
+        "Applying microservices architecture, I decomposed monolithic healthcare applications into specialized services handling patient records, clinical trials, and inventory management with improved scalability and maintainability.",
+        "Through Jenkins CI/CD pipelines, I automated testing and deployment processes for healthcare applications that reduced manual errors and ensured consistent environments across development lifecycle stages.",
+        "Implementing performance optimization techniques, I identified bottlenecks in medical imaging data processing and optimized critical code paths that improved system throughput for radiologists and clinical researchers.",
+        "Using comprehensive error handling and logging, I established monitoring systems that quickly detected and resolved issues in real-time healthcare applications, maintaining service availability for critical patient care functions.",
+        "Applying OAuth and JWT security practices, I secured sensitive healthcare APIs against unauthorized access while maintaining seamless integration experiences for healthcare providers and research institutions."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Gunicorn",
+        "MySQL",
+        "PyMySQL",
+        "Redis",
+        "Memcache",
+        "Docker",
+        "Jenkins",
+        "AWS",
+        "PyTest",
+        "RESTful APIs",
+        "Microservices",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Flask framework to develop healthcare analytics services, I built RESTful APIs that processed public health data while maintaining compliance with state healthcare regulations and patient privacy requirements.",
+        "Implementing Redis for public health data caching, I created performance optimization layers that improved response times for epidemiological reporting dashboards used by state health officials during pandemic response.",
+        "Through MySQL with PyMySQL integration, I managed healthcare provider databases that tracked vaccination rates and treatment outcomes while ensuring data accuracy for public health decision-making processes.",
+        "Leveraging Docker containerization, I packaged healthcare analytics applications into portable containers that simplified deployment across state government data centers and cloud environments.",
+        "Applying NumPy and Pandas for public health data analysis, I developed processing modules that handled large-scale health outcome datasets while maintaining statistical integrity for policy analysis reports.",
+        "Using RESTful API design principles, I created data exchange interfaces that enabled seamless integration between state healthcare systems and federal reporting platforms while maintaining data security standards.",
+        "Through unit testing with PyTest framework, I established validation suites for healthcare metric calculations that ensured accuracy in public health reporting and resource allocation decisions.",
+        "Implementing comprehensive error handling, I built resilient healthcare data processing systems that maintained operation during peak usage periods and provided detailed logging for audit and compliance requirements.",
+        "Using Git version control, I managed code evolution across multiple public health projects while maintaining documentation required for government auditing and quality assurance processes.",
+        "Applying microservices architecture patterns, I designed modular healthcare systems that enabled independent scaling of data processing, analytics, and reporting functions for state health departments.",
+        "Through performance optimization techniques, I improved healthcare data processing throughput that enabled faster generation of public health reports and real-time monitoring of health trends across the state.",
+        "Implementing security best practices, I secured sensitive healthcare APIs against unauthorized access while maintaining appropriate data sharing capabilities for authorized public health research and analysis."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "PyMySQL",
+        "Redis",
+        "Docker",
+        "Azure",
+        "PyTest",
+        "RESTful APIs",
+        "Microservices",
+        "Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Flask framework to develop financial analytics services, I built RESTful APIs that processed transaction data while maintaining PCI compliance and banking security standards for customer financial information.",
+        "Implementing Redis for financial transaction caching, I created performance optimization layers that improved real-time fraud detection systems and reduced false positive rates in transaction monitoring.",
+        "Through MySQL with PyMySQL integration, I managed customer transaction databases that supported credit risk analysis while ensuring data integrity and compliance with banking regulatory requirements.",
+        "Applying NumPy and Pandas for financial data analysis, I developed processing modules that handled large-scale transaction datasets for pattern recognition and anomaly detection in banking operations.",
+        "Using RESTful API design principles, I created data integration interfaces that enabled seamless exchange between internal banking systems and external regulatory reporting platforms.",
+        "Through unit testing with PyTest framework, I established validation suites for financial calculation engines that ensured accuracy in risk assessment and compliance reporting functions.",
+        "Implementing comprehensive error handling, I built resilient financial data processing systems that maintained operation during high-volume transaction periods and provided audit trails for regulatory compliance.",
+        "Using Git version control, I managed code evolution across multiple banking projects while maintaining documentation required for financial auditing and compliance verification processes.",
+        "Applying microservices architecture concepts, I contributed to the design of modular banking systems that enabled scalable data processing and analytics functions for financial risk management.",
+        "Implementing security best practices, I helped secure financial data APIs against unauthorized access while maintaining appropriate data accessibility for authorized banking operations and regulatory reporting."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "PyMySQL",
+        "Redis",
+        "Azure",
+        "PyTest",
+        "RESTful APIs",
+        "Banking Regulations",
+        "PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop distributed computing framework, I processed large-scale client data for consulting analytics platforms while learning to optimize MapReduce jobs for better performance and resource utilization.",
+        "Implementing Informatica ETL tools, I designed data integration workflows that transformed client operational data into structured formats suitable for business intelligence reporting and analytical processing.",
+        "Through Sqoop data transfer\u5de5\u5177, I moved relational data between client databases and Hadoop clusters while ensuring data consistency and managing incremental loading strategies for large datasets.",
+        "Applying basic Python scripting, I automated routine data processing tasks and developed simple data validation checks that improved data quality in client analytics platforms.",
+        "Using traditional ETL methodologies, I supported data warehouse development projects that consolidated client information from multiple source systems into unified reporting structures.",
+        "Through collaborative development practices, I worked with senior engineers to implement data processing solutions that met client requirements while learning enterprise software development standards.",
+        "Implementing data quality checks, I helped identify and resolve data inconsistencies in client systems that improved the reliability of business intelligence reports and analytical insights.",
+        "Using version control systems, I managed code changes across data engineering projects while learning software development best practices and team collaboration workflows."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "ETL",
+        "Data Warehousing",
+        "Traditional Architecture"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

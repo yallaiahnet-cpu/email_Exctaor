@@ -1,0 +1,292 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Lead Enterprise Data Migration Architect",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 12+ years of experience in Data Engineering specializing in enterprise-scale data migration, having architected and led complex platform transitions in healthcare, insurance, government, and financial sectors while ensuring strict regulatory compliance.",
+    "Orchestrated the complete data warehouse migration from legacy on-premise Teradata to a modern AWS cloud stack, employing AWS Glue for ETL, Redshift as the analytical store, and S3 for data lake formation, which improved query performance by 70% for healthcare analytics.",
+    "Spearheaded the migration of a critical Master Data Management platform using Databricks and the Spark ecosystem to process billions of patient records, implementing robust data quality frameworks that ensured 99.99% accuracy for HIPAA-compliant reporting.",
+    "Engineered a scalable data integration framework using Python and SQL to automate the ingestion and transformation of heterogeneous data sources, including HL7 and FHIR streams, into a unified schema for enterprise healthcare applications.",
+    "Developed comprehensive source-to-target mapping documents and transformation rule specifications for migrating insurance policy data, facilitating smooth validation and reconciliation during the cutover to a new Snowflake environment.",
+    "Architected and implemented a batch and streaming data ingestion pipeline using Apache Airflow and AWS services, enabling real-time data availability for government public health dashboards while managing schema evolution challenges.",
+    "Led the design of conceptual, logical, and physical data models for a new enterprise data warehouse on Azure Synapse, optimizing star and snowflake schemas to support complex dataset analysis for financial risk modeling.",
+    "Established a company-wide data governance and metadata management practice using Collibra, creating lineage tracking for all critical data elements and enforcing policies across healthcare, insurance, and finance projects.",
+    "Implemented a CI/CD pipeline for data migration scripts using Git and Jenkins, automating the deployment of Python-based ETL jobs and reducing manual errors during the multi-phase insurance data migration project.",
+    "Managed the end-to-end migration of relational databases from Oracle to PostgreSQL, crafting expert-level SQL for data extraction, transformation, and loading while ensuring zero downtime for critical financial transactions.",
+    "Built a Python-based automation framework to validate migration accuracy, executing complex data reconciliation checks across source and target systems, which was crucial for securing sign-off from business stakeholders.",
+    "Designed and tuned high-performance ETL pipelines in Azure Data Factory, partitioning large datasets and optimizing Spark jobs in Databricks to handle terabytes of daily government census and benefits data.",
+    "Collaborated with data stewards and business analysts to identify and document complex transformation rules for legacy system migration, translating business logic into technical specifications for the engineering team.",
+    "Advocated for and implemented data observability tools like Monte Carlo within the AWS environment, setting up proactive alerts for data quality issues in healthcare pipelines, significantly reducing incident response time.",
+    "Directed the backfill and historical load strategy for a 10-year financial data archive, developing incremental load patterns in SQL that efficiently populated the new Snowflake data warehouse without impacting production.",
+    "Facilitated daily stand-ups and technical deep-dive sessions with cross-functional teams, documenting architecture decisions and migration progress to ensure alignment across technical and business leadership.",
+    "Pioneered the use of agentic frameworks like Crew AI and LangGraph for proof-of-concept projects, exploring multi-agent systems to automate data quality checks and metadata tagging within healthcare data pipelines.",
+    "Mentored junior data engineers on cloud security best practices, implementing IAM roles and encryption in AWS to safeguard PHI data, and conducted rigorous code reviews to uphold engineering standards."
+  ],
+  "technical_skills": {
+    "Data Engineering & Migration": [
+      "Data Engineering",
+      "Enterprise Data Migration",
+      "Data Warehouse Migration",
+      "Legacy System Migration",
+      "Relational Database Migration",
+      "ETL/ELT Development"
+    ],
+    "Cloud Data Platforms": [
+      "AWS (Glue, Redshift, S3)",
+      "Azure (Data Factory, Databricks, Synapse)",
+      "Snowflake",
+      "Databricks",
+      "GCP BigQuery"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell Scripting"
+    ],
+    "Data Modeling & Architecture": [
+      "Conceptual Data Modeling",
+      "Logical Data Modeling",
+      "Physical Data Modeling",
+      "Data Integration"
+    ],
+    "Data Governance & Quality": [
+      "Data Governance",
+      "Master Data Management (MDM)",
+      "Data Quality Frameworks",
+      "Metadata Management"
+    ],
+    "Big Data & Processing Frameworks": [
+      "Apache Spark",
+      "Apache Airflow",
+      "Apache Kafka",
+      "dbt"
+    ],
+    "Database Technologies": [
+      "PostgreSQL",
+      "Oracle",
+      "MySQL",
+      "SQL Server",
+      "Teradata",
+      "Netezza"
+    ],
+    "Data Formats & Storage": [
+      "JSON",
+      "Parquet",
+      "Avro",
+      "Structured Data",
+      "Semi-structured Data"
+    ],
+    "DevOps & Orchestration": [
+      "CI/CD",
+      "Git",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "Data Tools & Catalogs": [
+      "Collibra",
+      "Alation",
+      "Monte Carlo",
+      "Databand",
+      "Informatica"
+    ],
+    "Analytics & Visualization": [
+      "Complex Dataset Analysis",
+      "Tableau",
+      "Power BI"
+    ],
+    "Compliance & Security": [
+      "HIPAA",
+      "GDPR",
+      "PCI DSS",
+      "Cloud IAM",
+      "Data Encryption"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized AWS Glue to tackle slow, error-prone legacy ETL processes for patient supply chain data by developing serverless Spark jobs that transformed and loaded data into Redshift, cutting pipeline runtime by 65%.",
+        "Leveraged expert-level SQL to address gaps in historical data lineage by reverse-engineering complex Teradata stored procedures and recreating business logic in Redshift, ensuring accuracy for HIPAA audit trails.",
+        "Employed Databricks and the Spark ecosystem to solve the challenge of merging disparate clinical datasets, building a unified Delta Lake that supported real-time analytics for hospital inventory management.",
+        "Applied data modeling principles to redesign a fragmented product master schema, constructing a conformed dimensional model in Redshift that became the single source of truth for all healthcare reporting.",
+        "Orchestrated a proof-of-concept using Crew AI multi-agent frameworks to automate the validation of migrated data, where agents collaborated to run reconciliation scripts and flag discrepancies for review.",
+        "Implemented a metadata management layer with a custom Python script that crawled AWS Glue Data Catalog and S3 to build a data lineage graph, crucial for tracing PHI data origins.",
+        "Championed the adoption of dbt for transformation layer management within Redshift, modularizing SQL models and implementing version control, which streamlined collaboration across data teams.",
+        "Architected a data quality framework using Great Expectations integrated into Airflow DAGs, validating billions of rows of medical device data daily and preventing bad data from reaching analysts.",
+        "Configured AWS IAM policies and S3 bucket encryption to enforce stringent access controls on sensitive healthcare data, ensuring compliance with evolving HIPAA security rules.",
+        "Pioneered a strategy for handling schema evolution in streaming HL7 data feeds using AWS Glue Schema Registry, allowing new clinical data fields to be incorporated without breaking existing pipelines.",
+        "Led the technical design sessions for migrating an on-premise data warehouse, creating detailed cutover plans and backfill strategies that minimized disruption to critical healthcare operations.",
+        "Developed Python automation scripts to generate source-to-target mapping documents from SQL parsing, reducing a weeks-long manual process to a few hours for the enterprise migration program.",
+        "Debugged a performance bottleneck in a critical Redshift cluster by analyzing query plans and implementing sort keys and distribution styles, which improved dashboard load times for supply chain managers.",
+        "Experimented with LangGraph to model multi-agent workflows for data pipeline monitoring, creating a POC where agents independently diagnosed and reported ETL job failures via Slack alerts.",
+        "Conducted daily code reviews for migration scripts, focusing on SQL optimization and error handling, and often pair-programmed with junior engineers to troubleshoot tricky data transformation logic.",
+        "Facilitated stakeholder meetings to demonstrate migration progress using reconciled data samples, translating technical validation results into business-ready assurance for healthcare executives."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS Redshift",
+        "AWS S3",
+        "Databricks",
+        "Apache Spark",
+        "Python",
+        "SQL",
+        "dbt",
+        "Apache Airflow",
+        "Great Expectations",
+        "Crew AI",
+        "LangGraph",
+        "Teradata",
+        "HL7",
+        "Delta Lake"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Deployed AWS Glue workflows to migrate insurance claims adjudication data from legacy mainframes, building scalable PySpark scripts that handled nested JSON structures and ensured data integrity.",
+        "Exploited Snowflake's capabilities to consolidate multiple regional data marts, designing virtual warehouses and automating data sharing, which provided a unified view for national insurance reporting.",
+        "Formulated a Master Data Management strategy for member and provider data, implementing deduplication and golden record creation pipelines that improved the accuracy of premium calculations.",
+        "Constructed a data reconciliation framework using Python Pandas to compare source DB2 extracts with target Snowflake loads, identifying and resolving subtle data drift in policyholder information.",
+        "Administered the performance tuning of complex SQL queries involving multi-billion row fact tables in Snowflake, utilizing query profiling and warehouse sizing to meet SLA requirements.",
+        "Assembled a batch ingestion pattern for daily premium and claim feeds using Airflow and S3, implementing idempotent loads and checkpointing to guarantee exactly-once processing semantics.",
+        "Investigated a data quality issue where legacy transformation rules misapplied copay logic, leading to a week of careful analysis and corrected SQL that fixed millions of historical records.",
+        "Guided the development of a proof-of-concept using agentic frameworks to classify incoming insurance documents, where a Crew AI system routed PDFs to appropriate validation pipelines.",
+        "Synthesized business requirements from actuarial teams into technical specifications for migrating risk-score models, ensuring the new cloud environment replicated all critical calculations.",
+        "Validated the accuracy of migrated complex datasets by leading a week-long reconciliation sprint, working late with the business team to verify totals and ratios before the final cutover.",
+        "Translated insurance regulation requirements into technical data governance rules, tagging sensitive PII columns in the data catalog and enforcing masking policies in Snowflake.",
+        "Cataloged all ETL jobs and their dependencies in a centralized metadata repository, enabling impact analysis for proposed changes to core insurance data pipelines.",
+        "Charted the data lineage for key financial metrics from source transaction systems to executive dashboards, a task that involved tedious tracing through dozens of stored procedures.",
+        "Programmed Python scripts to automate the extraction of metadata from legacy ETL tools, parsing COBOL copybooks and generating initial source-to-target maps for the migration team."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Apache Airflow",
+        "DB2",
+        "JSON",
+        "Parquet",
+        "Crew AI",
+        "dbt",
+        "Great Expectations",
+        "AWS S3",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Harnessed Azure Data Factory to build pipelines ingesting terabytes of public health and unemployment data from various state agencies into Azure Synapse, supporting pandemic response dashboards.",
+        "Customized Databricks notebooks to process semi-structured JSON from citizen portal applications, flattening nested arrays and enforcing state-defined data quality rules before loading.",
+        "Mapped legacy SQL Server schemas to a new logical data model in Synapse, resolving decades of inconsistent naming conventions and data types across different government departments.",
+        "Operated the migration of historical budgetary data from on-premise Oracle systems to Azure, developing incremental load strategies that preserved complex audit trails required by state law.",
+        "Reviewed and refactored hundreds of existing SSIS packages, converting the most critical ones to ADF pipelines and Databricks jobs to modernize the state's data integration footprint.",
+        "Strengthened data security by implementing column-level encryption in Synapse for sensitive citizen information, ensuring compliance with state data privacy regulations and audit standards.",
+        "Tested various file formats for long-term archival of public records, ultimately selecting Parquet for its compression and query efficiency, and built the archiving pipeline in ADF.",
+        "Documented every transformation rule and assumption in a shared wiki during the migration, knowing future maintainers would need clear context for this complex government data.",
+        "Proposed an orchestration strategy using Azure Data Factory pipelines to coordinate dependent loads across departments, replacing a fragile set of Windows scheduler tasks.",
+        "Assisted in troubleshooting a failing nightly load by analyzing pipeline logs and identifying a schema change in a source CSV file, then implementing flexible schema handling.",
+        "Participated in weekly change control boards to get migration tasks approved, preparing detailed rollback plans for each production deployment to minimize risk to public services.",
+        "Learned the intricacies of government data sharing agreements firsthand, ensuring our new Azure architecture respected data sovereignty and access restrictions between agencies."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Synapse",
+        "SQL Server",
+        "Oracle",
+        "Python",
+        "SQL",
+        "JSON",
+        "Parquet",
+        "SSIS",
+        "Azure Blob Storage"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Integrated Azure Databricks with on-premise Hadoop clusters to create a hybrid data lake, building Spark Streaming jobs that processed real-time credit card transaction data for fraud detection.",
+        "Converted monolithic Hive queries into modular Azure Data Factory pipelines and Databricks notebooks, improving maintainability and enabling faster updates to financial risk models.",
+        "Modeled credit card transaction data into a star schema within Azure Synapse, optimizing fact and dimension tables to accelerate monthly regulatory reporting for PCI compliance.",
+        "Protected sensitive financial data by implementing Azure Key Vault integration for credential management and enabling transparent data encryption across all Synapse tables.",
+        "Exchanged knowledge with the cybersecurity team to classify data assets, applying sensitivity labels that governed how customer PII was used in development and testing environments.",
+        "Compiled historical financial data from multiple legacy systems, writing complex SQL merge statements to create a clean, consistent history in the new cloud data warehouse.",
+        "Validated the output of migrated fraud detection algorithms by running parallel executions in old and new systems, meticulously comparing results to ensure model fidelity.",
+        "Adapted to strict change management procedures, submitting detailed deployment requests for each ETL job and attending CAB meetings to explain technical impacts to business users.",
+        "Supported the data governance initiative by documenting lineage for key financial metrics from source transaction systems to executive dashboards in Power BI.",
+        "Struggled initially with the performance nuances of Azure Synapse, spending extra hours tuning distribution keys and indexes to get complex joins to perform adequately."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Synapse",
+        "Apache Spark",
+        "Hive",
+        "Hadoop",
+        "SQL",
+        "Python",
+        "Power BI",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Queried patient diagnostic data from Oracle and MySQL databases using SQL to support healthcare analytics, ensuring all queries adhered to strict PHI access protocols and audit logs.",
+        "Examined medical imaging metadata to identify patterns and anomalies, creating summary reports in Python that helped data scientists improve their machine learning models for disease detection.",
+        "Extracted data from various laboratory information systems, transforming CSV and fixed-width files into a standardized format for loading into a central PostgreSQL reporting database.",
+        "Loaded cleansed patient data into Tableau dashboards for clinical researchers, applying filters and aggregates that allowed them to explore datasets without compromising individual privacy.",
+        "Assisted senior engineers in documenting the data flow from diagnostic machines to the analytics platform, creating initial source-to-target maps that later informed a full migration plan.",
+        "Verified the accuracy of data transformations by manually spot-checking reports against source systems, developing a keen eye for detail that proved invaluable for ensuring data quality.",
+        "Attended daily scrums with the healthcare data science team, learning how clinical questions translated into data requirements and reporting needs.",
+        "Prepared data samples and documentation for external audits, ensuring our handling of sensitive health information complied with relevant data protection standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Tableau",
+        "CSV",
+        "Healthcare Data",
+        "PHI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Aravind Reddy Datla",
+  "title": "Carbon Black Security SME",
+  "contact": {
+    "email": "aravind.datla05@gmail.com",
+    "phone": "+1 9592488855",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/aravind-reddy-datla",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 6 years of experience in endpoint security with specialized expertise in Carbon Black App Control and Carbon Black Enterprise EDR solutions across Education and Telecommunications domains.",
+    "Configured and maintained Carbon Black consoles to protect educational institution networks, implementing custom rule sets that prevented unauthorized software installations while maintaining system usability for students and faculty.",
+    "Performed major upgrades of Carbon Black infrastructure for a major telecommunications provider, migrating from legacy EDR to the latest Enterprise version with zero downtime during the transition period.",
+    "Developed comprehensive policy tuning strategies for Carbon Black sensors deployed across 10,000+ endpoints, reducing false positives by approximately 60% while maintaining security posture.",
+    "Conducted in-depth event analysis using Carbon Black's threat hunting capabilities, identifying and documenting attack patterns specific to educational institutions that were previously undetected.",
+    "Created custom approval workflows for software deployment in university environments, balancing security requirements with the academic freedom needed for research and educational purposes.",
+    "Trained junior security analysts on Carbon Black console operations, rule creation processes, and event analysis methodologies, improving team response time to security incidents.",
+    "Integrated Carbon Black with existing SIEM solutions in telecommunications environments, enabling centralized monitoring and correlation of endpoint security events with network security data.",
+    "Troubleshot complex sensor communication issues between Carbon Black agents and consoles in distributed educational networks, implementing certificate-based authentication to resolve connectivity problems.",
+    "Documented best practices for Carbon Black implementation in highly regulated environments, creating knowledge transfer materials that helped internal teams maintain security compliance."
+  ],
+  "technical_skills": {
+    "Security Platforms": [
+      "Carbon Black App Control",
+      "Carbon Black Enterprise EDR",
+      "Carbon Black Cloud",
+      "Endpoint Detection and Response",
+      "Endpoint Protection Platform"
+    ],
+    "Operating Systems": [
+      "Windows Server",
+      "Linux",
+      "macOS",
+      "Windows 10/11"
+    ],
+    "Security Tools": [
+      "SIEM Integration",
+      "Threat Intelligence Platforms",
+      "Vulnerability Scanners",
+      "Security Information Management"
+    ],
+    "Networking": [
+      "TCP/IP",
+      "Firewall Configuration",
+      "Network Security",
+      "SSL/TLS"
+    ],
+    "Authentication Systems": [
+      "Certificate Management",
+      "Multi-factor Authentication",
+      "Active Directory",
+      "LDAP"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Hybrid Cloud"
+    ],
+    "Programming Languages": [
+      "Python",
+      "PowerShell",
+      "Bash",
+      "JavaScript"
+    ],
+    "Databases": [
+      "SQL",
+      "NoSQL",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "DevOps Tools": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "Monitoring Tools": [
+      "Nagios",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack"
+    ],
+    "Version Control": [
+      "Git",
+      "SVN",
+      "Bitbucket",
+      "GitHub"
+    ],
+    "Compliance Frameworks": [
+      "GDPR",
+      "HIPAA",
+      "FERPA",
+      "PCI DSS"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Carbon Black Security Architect",
+      "client": "UConn Dining Services",
+      "duration": "2023-Aug - 2025-May",
+      "location": "",
+      "responsibilities": [
+        "Designed and implemented a comprehensive Carbon Black App Control solution across the university's dining services infrastructure, preventing unauthorized application execution while maintaining operational efficiency for food service management systems.",
+        "Created custom rule sets within Carbon Black to address specific educational technology requirements, allowing approved educational applications to run while blocking potentially harmful software across student and faculty devices.",
+        "Managed the migration of Carbon Black consoles from on-premise to cloud-based deployment, ensuring uninterrupted security monitoring during the transition period and improving system scalability for future growth.",
+        "Developed automated scripts using PowerShell to deploy Carbon Black sensors to over 2,000 endpoints across multiple campus locations, reducing manual deployment time by approximately 75% and ensuring consistent security coverage.",
+        "Conducted regular performance analysis of Carbon Black sensors deployed in high-traffic dining areas, identifying resource bottlenecks and implementing configuration changes that reduced system impact on point-of-sale terminals.",
+        "Established approval workflows for software updates in the university's dining management systems, working closely with vendors to test and whitelist new application versions before deployment to production environments.",
+        "Investigated security alerts generated by Carbon Black EDR, distinguishing between false positives and actual security threats specific to the educational environment, and documenting findings for continuous improvement of detection rules.",
+        "Configured notification systems within Carbon Black to alert security teams of critical events related to payment processing systems in dining facilities, ensuring rapid response to potential breaches of financial information.",
+        "Provided technical guidance to university IT staff on Carbon Black best practices, creating documentation tailored to the unique security challenges of educational institutions and dining service operations.",
+        "Collaborated with the university's compliance team to ensure Carbon Black configurations aligned with FERPA requirements for protecting student information, implementing additional controls where necessary to maintain regulatory compliance.",
+        "Analyzed system logs and performance metrics from Carbon Black sensors to identify trends in security events specific to the educational environment, using this data to refine detection rules and improve overall security posture.",
+        "Integrated Carbon Black with the university's existing SIEM solution, enabling centralized monitoring of endpoint security events alongside network and application security data for comprehensive threat visibility."
+      ],
+      "environment": [
+        "Carbon Black Enterprise EDR",
+        "Carbon Black App Control",
+        "Windows Server 2019",
+        "Active Directory",
+        "PowerShell",
+        "Python",
+        "SIEM Integration",
+        "AWS Cloud",
+        "SQL Server",
+        "VMware vSphere"
+      ]
+    },
+    {
+      "role": "Carbon Black Security Specialist",
+      "client": "Comcast (Accenture)",
+      "duration": "2021-Jul - 2023-Jul",
+      "location": "",
+      "responsibilities": [
+        "Deployed Carbon Black Enterprise EDR across Comcast's telecommunications infrastructure, protecting critical network components and customer data systems from advanced persistent threats and malware attacks.",
+        "Fine-tuned Carbon Black detection rules specifically for telecommunications environments, reducing false positives by approximately 50% while maintaining high detection rates for industry-specific threats.",
+        "Performed in-depth event analysis of security incidents detected by Carbon Black, identifying attack patterns unique to telecommunications networks and developing countermeasures to prevent future occurrences.",
+        "Managed the upgrade process for Carbon Black sensors deployed across thousands of endpoints, ensuring compatibility with telecommunications-specific applications and minimizing disruption to critical services.",
+        "Developed custom PowerShell scripts to automate the distribution and configuration of Carbon Black agents in complex network environments, standardizing security settings across diverse hardware platforms.",
+        "Collaborated with network security teams to integrate Carbon Black with existing security infrastructure, creating a comprehensive defense-in-depth strategy for protecting telecommunications assets.",
+        "Created documentation for troubleshooting common Carbon Black issues in telecommunications environments, enabling faster resolution of sensor connectivity problems and console performance issues.",
+        "Conducted security assessments of telecommunications applications using Carbon Black telemetry, identifying potential vulnerabilities and recommending security improvements to development teams.",
+        "Trained junior security analysts on interpreting Carbon Black event data and responding to security incidents specific to the telecommunications industry, improving overall team response capabilities.",
+        "Assisted in the development of security policies and procedures for Carbon Black implementation, ensuring alignment with industry regulations and best practices for telecommunications security."
+      ],
+      "environment": [
+        "Carbon Black Enterprise EDR",
+        "Windows Server 2016/2019",
+        "Linux (RHEL, CentOS)",
+        "PowerShell",
+        "Python",
+        "SIEM Integration",
+        "Azure Cloud",
+        "SQL Server",
+        "Cisco Networking",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Security Analyst - Carbon Black",
+      "client": "Byjus",
+      "duration": "2019-May - 2021-May",
+      "location": "",
+      "responsibilities": [
+        "Monitored Carbon Black console alerts for the educational platform, investigating potential security incidents and escalating critical events to senior security team members for immediate response.",
+        "Assisted in the configuration of Carbon Black policies for educational applications, ensuring proper functionality of learning management systems while maintaining security controls for student data protection.",
+        "Analyzed security events from Carbon Black sensors deployed across corporate and educational environments, identifying patterns that indicated potential security threats to the educational platform.",
+        "Created basic PowerShell scripts to automate routine Carbon Black management tasks, improving efficiency of security operations and reducing manual effort required for system maintenance.",
+        "Documented security procedures related to Carbon Black operations, contributing to the knowledge base that helped team members respond consistently to security incidents.",
+        "Supported senior security engineers in troubleshooting Carbon Black sensor connectivity issues, learning to diagnose and resolve communication problems between agents and management consoles."
+      ],
+      "environment": [
+        "Carbon Black Enterprise EDR",
+        "Windows Server 2016",
+        "PowerShell",
+        "Python",
+        "Educational Technology Platforms",
+        "Microsoft Visio",
+        "Data Analysis Tools",
+        "SQL Server",
+        "Git",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Connecticut, School of Business",
+      "degree": "Master of Science",
+      "field": "Business Analytics and Project Management in Business Data Science",
+      "year": "2025"
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor of Technology",
+      "field": "Information Technology in Computer Science",
+      "year": "2021"
+    }
+  ],
+  "certifications": [
+    "IBM \u2013 Data Analysis Using Python",
+    "Atlassian \u2013 Jira Fundamentals",
+    "DataCamp \u2013 Intermediate Python"
+  ]
+}

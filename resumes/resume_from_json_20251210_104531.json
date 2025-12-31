@@ -1,0 +1,307 @@
+{
+  "name": "Srilatha Nenavath",
+  "title": "Senior QA Engineer",
+  "contact": {
+    "email": "srilathanenavath14@gmail.com",
+    "phone": "314-476-2798",
+    "portfolio": "",
+    "linkedin": "linkedin.com/in/nenavathsrilatha/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 9 years of experience in quality assurance testing across Healthcare, Insurance, E-commerce, Government, and Telecommunications domains with specialized focus on test planning and execution in Agile environments.",
+    "Created comprehensive test strategies for mainframe systems including COBOL, JCL, and DB2 applications while ensuring compliance with HIPAA regulations in healthcare environments at Aetna.",
+    "Developed automated test frameworks using Selenium WebDriver and REST Assured to validate API endpoints in insurance systems, improving defect detection rates by around 60% at Prudential Financial.",
+    "Conducted functional, integration, regression, and performance testing for e-commerce platforms at Target, utilizing JMeter and LoadRunner to simulate high-traffic scenarios during holiday seasons.",
+    "Managed defect lifecycle using Jira and qTest for government child support systems at State of Utah, documenting all test results and collaborating with cross-functional teams to resolve issues.",
+    "Implemented data validation processes across mainframe and interface systems in telecommunications projects at Sutherland, using SQL queries to verify data integrity between databases.",
+    "Built custom Python scripts to automate test data generation for insurance claim processing systems, reducing manual preparation time by approximately 40% and increasing test coverage.",
+    "Worked closely with development teams to integrate API testing tools like Postman and SoapUI into CI/CD pipelines, enabling continuous testing of microservices architecture in cloud environments.",
+    "Executed UAT support activities for healthcare insurance portals, creating detailed documentation and walkthrough guides for business stakeholders to validate system functionality.",
+    "Applied SDLC and testing methodologies to ensure quality standards were met throughout the software development lifecycle, participating in sprint planning and retrospective meetings.",
+    "Designed test scenarios for Salesforce applications in insurance domain, using Selenium and Provar to automate user interface testing and validate business workflows.",
+    "Analyzed batch job results using JCL monitoring utilities, creating automated reports to track execution status and identify performance bottlenecks in mainframe processing systems.",
+    "Collaborated with Test supervisors and project managers to prioritize testing efforts based on risk assessment and business impact, ensuring critical functionalities were thoroughly validated.",
+    "Resolved complex technical issues by investigating system logs and database records, applying problem-solving skills to identify root causes of defects in multi-tier applications.",
+    "Integrated security testing practices into regular testing cycles, validating authentication mechanisms and data encryption methods to protect sensitive healthcare information.",
+    "Adapted to changing requirements in Agile environments by modifying test plans and cases on the fly, maintaining clear communication with product owners about potential impacts.",
+    "Supported performance testing initiatives by designing realistic test scenarios based on production usage patterns, helping teams identify scalability issues before deployment.",
+    "Established best practices for test documentation and knowledge sharing, creating templates and guidelines that were adopted across multiple projects to improve consistency."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "PL/SQL",
+      "JavaScript"
+    ],
+    "Testing Tools": [
+      "Selenium WebDriver",
+      "TestNG",
+      "REST Assured",
+      "Postman",
+      "SoapUI",
+      "Swagger",
+      "JMeter",
+      "LoadRunner",
+      "qTest"
+    ],
+    "Mainframe Technologies": [
+      "COBOL",
+      "JCL",
+      "DB2"
+    ],
+    "Project Management": [
+      "Jira",
+      "Confluence",
+      "Quality Center",
+      "TestRail",
+      "Bugzilla"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "AWS (EC2, Lambda, S3, VPC)",
+      "Azure DevOps"
+    ],
+    "DevOps Tools": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes (EKS)",
+      "Git/Bitbucket"
+    ],
+    "Databases": [
+      "SQL",
+      "NoSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle DB",
+      "DB2"
+    ],
+    "API Technologies": [
+      "REST APIs",
+      "SOAP APIs",
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "Frontend Technologies": [
+      "Angular 14",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "Monitoring Tools": [
+      "ELK Stack",
+      "Prometheus",
+      "Grafana"
+    ],
+    "Methodologies": [
+      "Agile",
+      "SDLC",
+      "UAT",
+      "Test Planning",
+      "Defect Management"
+    ],
+    "Domain Knowledge": [
+      "Healthcare (HIPAA)",
+      "Insurance",
+      "E-commerce",
+      "Government",
+      "Telecommunications"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior QA Engineer",
+      "client": "Aetna",
+      "duration": "2024-Oct - Present",
+      "location": "",
+      "responsibilities": [
+        "Developed comprehensive test strategies for healthcare insurance claims processing systems using Azure DevOps pipelines to ensure HIPAA compliance while maintaining high test coverage across web and mobile platforms.",
+        "Created automated regression test suites using Selenium WebDriver and C# to validate critical healthcare workflows, reducing manual testing effort by approximately 40% and enabling faster release cycles.",
+        "Implemented API testing framework with Postman and REST Assured to validate microservices architecture, documenting all test cases in Azure DevOps for team collaboration and knowledge sharing.",
+        "Executed performance testing using JMeter to simulate high-volume transactions during peak insurance enrollment periods, identifying and resolving bottlenecks before production deployment.",
+        "Managed defect lifecycle using Azure DevOps work items, tracking issues from discovery to resolution while providing detailed reports to stakeholders about quality metrics and trends.",
+        "Collaborated with development teams to integrate security testing into CI/CD pipelines, validating authentication mechanisms and data encryption methods to protect sensitive patient information.",
+        "Designed and implemented test data management strategy using Azure SQL Database, creating synthetic data that complied with healthcare privacy regulations while maintaining realistic test scenarios.",
+        "Conducted exploratory testing sessions to identify edge cases in complex insurance claim adjudication logic, documenting findings and working with developers to implement fixes before release.",
+        "Facilitated UAT sessions with business stakeholders, creating detailed test scenarios that reflected real-world usage of the healthcare portal and gathering feedback for improvements.",
+        "Analyzed test results to identify quality trends and areas for improvement, presenting findings to management with recommendations for process enhancements and tool upgrades.",
+        "Set up monitoring dashboards using Azure Monitor to track application performance in production, establishing alerts for critical issues that required immediate attention.",
+        "Worked closely with compliance team to ensure all testing activities met healthcare industry regulations, maintaining documentation for audit purposes and regulatory reviews.",
+        "Mentored junior QA team members on best practices for test automation and defect management, conducting code reviews of automated scripts to maintain quality standards.",
+        "Participated in Agile ceremonies including sprint planning, daily stand-ups, and retrospectives, providing input on testability of new features and potential risks.",
+        "Integrated automated accessibility testing into the regression suite to ensure compliance with WCAG guidelines, making the healthcare portal usable for people with disabilities.",
+        "Researched and evaluated new testing tools and frameworks to improve efficiency, conducting proof-of-concept trials and presenting recommendations to the QA leadership team."
+      ],
+      "environment": [
+        "Azure DevOps",
+        "Selenium WebDriver",
+        "C#",
+        "Postman",
+        "REST Assured",
+        "JMeter",
+        "Azure SQL Database",
+        "Azure Monitor",
+        "HIPAA Compliance Tools"
+      ]
+    },
+    {
+      "role": "Senior QA Engineer",
+      "client": "Prudential Financial",
+      "duration": "2022-Jun - 2024-Sep",
+      "location": "",
+      "responsibilities": [
+        "Designed comprehensive test plans for insurance policy management systems using Selenium WebDriver and TestNG, ensuring thorough coverage of both functional and non-functional requirements.",
+        "Built automated regression test suites for insurance claim processing workflows, integrating with Jenkins for continuous execution and reporting results to stakeholders through customized dashboards.",
+        "Executed API testing using Postman and SoapUI to validate REST and SOAP endpoints, creating parameterized test cases that covered various insurance product scenarios and edge conditions.",
+        "Performed load testing with JMeter and LoadRunner to simulate high-volume transactions during peak insurance renewal periods, identifying performance bottlenecks and working with developers to optimize system response times.",
+        "Managed defect lifecycle using Quality Center and Jira, implementing a structured triage process that prioritized critical issues based on business impact and technical complexity.",
+        "Conducted data validation across mainframe and web interfaces using SQL queries against DB2 databases, ensuring data integrity between insurance policy systems and third-party integrations.",
+        "Developed custom test automation frameworks using Java and Selenium WebDriver, implementing the Page Object Model pattern to improve maintainability of test scripts across multiple insurance products.",
+        "Collaborated with business analysts to translate insurance requirements into detailed test cases, creating traceability matrices to ensure all regulatory requirements were adequately tested.",
+        "Led UAT testing efforts for major insurance platform releases, coordinating with business stakeholders to validate system functionality and documenting all issues for resolution.",
+        "Integrated security testing practices into regular testing cycles, validating authentication mechanisms and data encryption methods to protect sensitive financial information.",
+        "Created detailed test documentation including test plans, test cases, and test summary reports, maintaining version control in Git to track changes and ensure team alignment.",
+        "Participated in Agile ceremonies including sprint planning, daily stand-ups, and retrospectives, providing input on testability of new features and potential risks to delivery timelines.",
+        "Mentored junior QA team members on best practices for test automation and defect management, conducting regular knowledge sharing sessions to improve team capabilities.",
+        "Analyzed test results to identify quality trends and areas for improvement, presenting findings to management with recommendations for process enhancements and tool upgrades."
+      ],
+      "environment": [
+        "Selenium WebDriver",
+        "TestNG",
+        "Postman",
+        "SoapUI",
+        "Swagger",
+        "JMeter",
+        "LoadRunner",
+        "Quality Center",
+        "Jira",
+        "SQL",
+        "DB2",
+        "Java",
+        "Jenkins",
+        "Git"
+      ]
+    },
+    {
+      "role": "QA Automation Engineer",
+      "client": "Target",
+      "duration": "2020-Jul - 2022-May",
+      "location": "",
+      "responsibilities": [
+        "Developed automated test scripts using Selenium WebDriver and REST Assured for e-commerce platform validation, focusing on critical user journeys like product search, checkout, and payment processing.",
+        "Created comprehensive API test suites using Postman to validate backend services that powered the e-commerce website, ensuring data consistency between frontend and backend systems.",
+        "Executed performance testing with JMeter and LoadRunner to simulate high-traffic scenarios during holiday sales events, identifying and resolving bottlenecks before they impacted customers.",
+        "Managed test cases and execution results using TestRail, creating detailed reports that tracked testing progress and identified areas requiring additional attention before release.",
+        "Integrated automated tests into CI/CD pipelines using Jenkins and Azure DevOps, enabling continuous testing of code changes and providing immediate feedback to development teams.",
+        "Conducted database testing using SQL and NoSQL queries to validate data integrity across the e-commerce platform, ensuring product information and customer orders were accurately stored and retrieved.",
+        "Collaborated with development teams to implement test-driven development practices, participating in code reviews to ensure testability of new features and components.",
+        "Designed and implemented a data-driven testing framework that allowed for easy maintenance of test data, reducing the effort required to update test cases for new product categories.",
+        "Performed cross-browser and cross-device testing to ensure consistent user experience across different platforms, documenting compatibility issues and working with developers to resolve them.",
+        "Participated in Agile ceremonies including sprint planning, daily stand-ups, and retrospectives, providing input on testing estimates and potential risks to delivery timelines.",
+        "Created and maintained test environments that closely mirrored production, ensuring that testing results accurately reflected expected performance in the live e-commerce platform.",
+        "Analyzed test execution results to identify patterns and trends, presenting findings to management with recommendations for improving test coverage and efficiency."
+      ],
+      "environment": [
+        "Selenium",
+        "REST Assured",
+        "Postman",
+        "JMeter",
+        "LoadRunner",
+        "TestRail",
+        "Jira",
+        "Git",
+        "Jenkins",
+        "Azure DevOps",
+        "SQL",
+        "NoSQL"
+      ]
+    },
+    {
+      "role": "Software Test Engineer",
+      "client": "State Of Utah",
+      "duration": "2019-Mar - 2020-Jun",
+      "location": "",
+      "responsibilities": [
+        "Executed comprehensive testing of government child support systems using JIRA for test case management and defect tracking, ensuring all regulatory requirements were met before deployment.",
+        "Conducted API testing using Postman and SOAP UI to validate integration between mainframe systems and web interfaces, documenting all test results for compliance audits.",
+        "Performed database validation using SQL and PL/SQL queries against PostgreSQL and MongoDB databases, ensuring data integrity across the child support enforcement system.",
+        "Tested Angular 14 frontend components for the government portal, validating user interface functionality and accessibility compliance with state and federal guidelines.",
+        "Validated message queue systems using Kafka and RabbitMQ to ensure reliable communication between different components of the child support system.",
+        "Utilized AWS services including EC2, Lambda, S3, and VPC to set up test environments that closely mirrored production, ensuring accurate testing results.",
+        "Implemented containerization using Docker and Kubernetes (EKS) to create consistent testing environments, reducing setup time and improving test reliability.",
+        "Set up monitoring and logging using ELK Stack, Prometheus, and Grafana to track system performance during testing, identifying potential issues before they impacted production.",
+        "Managed version control using Git/Bitbucket for test scripts and documentation, maintaining clear history of changes and enabling collaboration with distributed team members.",
+        "Participated in Agile development process, attending daily stand-ups and sprint planning meetings to provide input on testing requirements and potential risks."
+      ],
+      "environment": [
+        "JIRA",
+        "Confluence",
+        "SDLC",
+        "Java",
+        "Postman",
+        "SOAP UI",
+        "SQL",
+        "PL/SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Angular 14",
+        "Kafka",
+        "RabbitMQ",
+        "AWS (EC2, Lambda, S3, VPC)",
+        "Docker",
+        "Kubernetes (EKS)",
+        "ELK Stack",
+        "Prometheus",
+        "Grafana",
+        "Git/Bitbucket"
+      ]
+    },
+    {
+      "role": "Associate QA Engineer",
+      "client": "Sutherland",
+      "duration": "2015-Mar - 2018-Dec",
+      "location": "",
+      "responsibilities": [
+        "Executed manual and automated test cases for telecommunications billing systems using Jira and Bugzilla for defect tracking, ensuring accurate charging and account management.",
+        "Developed test automation scripts using Selenium WebDriver and Java with TestNG framework, focusing on regression testing of critical telecommunications workflows.",
+        "Validated database integrity using SQL queries against Oracle DB and PostgreSQL, ensuring customer data and billing information were accurately stored and processed.",
+        "Conducted API testing of REST and SOAP services using Postman and SOAP UI, validating integration between billing systems and external telecommunications networks.",
+        "Set up and maintained test environments using Linux servers, configuring applications and databases to support various testing scenarios for telecommunications services.",
+        "Tested OSS/BSS systems, CRM platforms, provisioning systems, and network inventory tools to ensure seamless operation of telecommunications services from order to activation.",
+        "Participated in Agile development process, attending daily stand-ups and sprint planning meetings to provide input on testing requirements and potential risks.",
+        "Created detailed test documentation including test plans, test cases, and test summary reports, maintaining version control in Git to track changes and ensure team alignment."
+      ],
+      "environment": [
+        "Jira",
+        "Bugzilla",
+        "Selenium",
+        "Java",
+        "TestNG",
+        "SQL",
+        "Oracle DB",
+        "PostgreSQL",
+        "Git",
+        "Jenkins",
+        "REST/SOAP APIs",
+        "Postman",
+        "SOAP UI",
+        "Linux",
+        "OSS/BSS Systems",
+        "CRM Platforms",
+        "Provisioning Systems",
+        "Network Inventory Tools"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NIT Uttarakhand",
+      "degree": "Bachelor's Degree",
+      "field": "Electronics and Communication Engineering",
+      "year": "2016"
+    }
+  ],
+  "certifications": []
+}

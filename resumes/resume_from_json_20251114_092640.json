@@ -1,0 +1,299 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Software Engineer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "linkedin.com/in/hari-krishna-kosana"
+  },
+  "professional_summary": [
+    "Applied ASP.NET Framework to address complex web application performance bottlenecks by implementing optimized data access layers and sophisticated caching mechanisms that significantly reduced page load times.",
+    "Utilized SQL Server for challenging database design requirements by creating highly normalized schemas, complex stored procedures, and efficient indexing strategies that improved query performance across enterprise applications.",
+    "Implemented Entity Framework to solve intricate data modeling problems by designing fluent API configurations, automated migration scripts, and repository patterns that streamlined data access across multiple projects.",
+    "Used Angular framework for frontend development challenges by building comprehensive reusable component libraries with Angular Material integration and RxJS for state management.",
+    "Applied TypeScript to address large-scale JavaScript application maintenance issues by implementing strong typing systems, custom interfaces, and generic classes that enhanced code quality.",
+    "Implemented ASP.NET Core to solve distributed system API development problems by building scalable RESTful services with proper HTTP status codes, versioning, and comprehensive documentation.",
+    "Used Entity Framework Core for cross-platform data access challenges by implementing database-agnostic repository patterns and unit of work implementations that supported multiple database providers.",
+    "Applied HTML and CSS to solve complex responsive design problems by creating mobile-first layouts with Bootstrap integration and custom CSS grid systems for various screen sizes.",
+    "Implemented SSRS for enterprise reporting challenges by designing parameterized reports with export capabilities, interactive features, and scheduled automated delivery to stakeholders.",
+    "Used SSIS Packages for data integration challenges by creating sophisticated ETL processes with error handling, data validation, and transformation logic for multiple data sources.",
+    "Applied Angular CLI to streamline development workflow problems by configuring custom build configurations, code generation templates, and deployment optimization settings.",
+    "Implemented nUnit framework to address testing coverage gaps by creating comprehensive test suites with mock objects, integration tests, and continuous testing pipelines.",
+    "Used RxJS for complex frontend state management challenges by implementing observable patterns, subject-based communication, and reactive data flows across components.",
+    "Applied SQL Server stored procedures to solve business logic implementation problems by creating parameterized queries, transaction management, and complex data manipulation routines.",
+    "Implemented ASP.NET Web API to address service integration challenges by building secure endpoints with authentication, authorization, and rate limiting capabilities.",
+    "Used Angular Material for UI consistency problems by implementing accessible component libraries, custom theme systems, and responsive design patterns across applications.",
+    "Applied Entity Framework migrations to solve database versioning challenges by implementing automated update scripts, rollback procedures, and seed data management.",
+    "Implemented SQL Server schema design to address data integrity problems by creating proper relationships, constraints, and validation rules that ensured data consistency.",
+    "Used ASP.NET Core Middleware to solve cross-cutting concern challenges by implementing custom authentication handlers, logging interceptors, and exception handling pipelines.",
+    "Applied CSS preprocessing to address styling maintenance problems by implementing SASS variables, mixins, and modular style architecture that improved design system consistency."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "VB.NET",
+      "TypeScript",
+      "JavaScript",
+      "T-SQL",
+      "Python"
+    ],
+    "Web Technologies": [
+      "ASP.NET",
+      "ASP.NET Core",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Angular",
+      "RxJS"
+    ],
+    "Frameworks & Libraries": [
+      ".NET Framework",
+      ".NET Core",
+      "Entity Framework",
+      "Entity Framework Core",
+      "Angular Material",
+      "nUnit"
+    ],
+    "Databases": [
+      "SQL Server",
+      "Azure SQL Database",
+      "PostgreSQL",
+      "Cosmos DB"
+    ],
+    "Development Tools": [
+      "Visual Studio",
+      "Azure DevOps",
+      "Git",
+      "Angular CLI",
+      "SSMS"
+    ],
+    "Business Intelligence": [
+      "SSRS",
+      "SSIS",
+      "SSAS"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "AWS"
+    ],
+    "API & Services": [
+      "RESTful APIs",
+      "Web API",
+      "Microservices",
+      "SOAP",
+      "JSON",
+      "XML"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "BookedBy",
+      "duration": "Jan 2025 - Present",
+      "responsibilities": [
+        "Architected ASP.NET Core solutions for booking system challenges by implementing microservices architecture with Angular frontend and SQL Server backend that handled high transaction volumes.",
+        "Designed Angular applications with complex state management requirements by implementing RxJS observables and services that maintained real-time booking availability across multiple users.",
+        "Implemented Entity Framework Core to address data access performance issues by creating optimized query patterns, change tracking configurations, and bulk operation strategies.",
+        "Built RESTful APIs using ASP.NET Core to solve integration challenges with third-party payment systems by implementing secure endpoints with proper authentication and validation.",
+        "Developed SQL Server database schemas for reservation management problems by designing normalized tables, stored procedures, and indexing strategies that supported complex booking rules.",
+        "Created comprehensive unit testing suites using nUnit framework to address code quality concerns by implementing test-driven development practices with mock services and integration tests.",
+        "Applied Angular Material components to solve UI consistency problems across booking platforms by creating custom theme systems and accessible design patterns.",
+        "Implemented SSIS packages for data migration challenges by building ETL processes that transformed legacy booking data into modern database structures with data validation.",
+        "Used TypeScript extensively to address large-scale application maintenance issues by implementing strong typing, interfaces, and generic services across Angular components.",
+        "Built background job processing systems to solve scheduling challenges by implementing cron jobs and Windows services that handled automated booking confirmations and reminders.",
+        "Applied ASP.NET Core Middleware to address cross-cutting security concerns by implementing custom authentication handlers and authorization policies for role-based access.",
+        "Designed responsive web interfaces using HTML and CSS to solve mobile booking experience problems by creating adaptive layouts with Bootstrap grid systems.",
+        "Implemented Entity Framework migrations to solve database evolution challenges by creating automated update scripts that preserved existing booking data during schema changes.",
+        "Developed reporting solutions using SSRS to address business intelligence needs by creating parameterized reports that showed booking trends and revenue analytics.",
+        "Built Angular services with RxJS to solve real-time data synchronization problems by implementing observable patterns that updated UI components automatically.",
+        "Applied SQL Server optimization techniques to address query performance issues by creating covering indexes, query hints, and execution plan analysis routines.",
+        "Implemented ASP.NET Core dependency injection to solve service management challenges by configuring scoped, transient, and singleton service lifetimes appropriately.",
+        "Used Angular CLI to streamline development workflow problems by creating custom build configurations that optimized bundle sizes and loading performance.",
+        "Designed database schema for complex booking relationships by implementing proper foreign key constraints, cascading rules, and data integrity validation.",
+        "Built API versioning strategies using ASP.NET Core to address backward compatibility challenges by implementing route-based and header-based versioning systems.",
+        "Applied CSS preprocessing with SASS to solve styling maintenance problems across large codebases by creating variable systems and mixin libraries.",
+        "Implemented comprehensive logging and monitoring solutions using Application Insights to address production debugging challenges and performance tracking."
+      ],
+      "environment": [
+        "ASP.NET Core",
+        "Angular",
+        "SQL Server",
+        "Entity Framework Core",
+        "TypeScript",
+        "RxJS",
+        "Azure",
+        "nUnit",
+        "SSIS",
+        "SSRS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Mayo Clinic",
+      "duration": "Jan 2024 \u2013 Dec 2024",
+      "responsibilities": [
+        "Developed healthcare management systems using ASP.NET Core to address patient data processing challenges by implementing HIPAA-compliant APIs with proper security measures.",
+        "Built Angular applications for medical staff interface requirements by creating accessible components with Angular Material that followed healthcare compliance standards.",
+        "Implemented SQL Server database designs for electronic health records by creating secure schemas with encrypted columns and audit trail capabilities.",
+        "Applied Entity Framework Core to solve healthcare data access challenges by implementing repository patterns with proper transaction management and error handling.",
+        "Created RESTful APIs using ASP.NET Core Web API to address integration challenges with existing medical systems by implementing secure data exchange protocols.",
+        "Developed comprehensive reporting solutions using SSRS to solve healthcare analytics needs by creating patient outcome reports with proper data anonymization.",
+        "Used TypeScript for large-scale medical application development by implementing strong typing systems that reduced runtime errors in critical healthcare workflows.",
+        "Implemented background services for healthcare data processing challenges by creating Windows services that handled batch operations and scheduled tasks.",
+        "Applied HTML and CSS to medical application interfaces by creating responsive designs that worked across various clinical devices and screen sizes.",
+        "Built data integration solutions using SSIS packages to address legacy system migration challenges by implementing ETL processes with data validation rules.",
+        "Developed unit tests using nUnit framework to ensure healthcare application reliability by creating comprehensive test suites with mock medical data.",
+        "Implemented Angular services with RxJS to solve real-time medical data display problems by creating observable streams that updated patient information automatically.",
+        "Applied SQL Server optimization techniques to healthcare query performance issues by creating appropriate indexes and query plan analysis routines.",
+        "Built authentication and authorization systems using ASP.NET Core Identity to address healthcare security requirements with role-based access controls.",
+        "Created database stored procedures for complex medical business logic by implementing parameterized queries with proper error handling and transaction management.",
+        "Developed Angular components with proper accessibility features to address healthcare compliance requirements by implementing ARIA labels and keyboard navigation.",
+        "Applied Entity Framework migrations to healthcare database evolution challenges by creating incremental update scripts that preserved patient data integrity.",
+        "Implemented logging and monitoring solutions for healthcare applications using Application Insights to track system performance and user activities."
+      ],
+      "environment": [
+        "ASP.NET Core",
+        "Angular",
+        "SQL Server",
+        "Entity Framework Core",
+        "TypeScript",
+        "HIPAA",
+        "nUnit",
+        "SSRS",
+        "SSIS",
+        "Azure"
+      ]
+    },
+    {
+      "role": "Senior Software Developer",
+      "client": "Delta Airlines",
+      "duration": "Aug 2021 \u2013 Dec 2023",
+      "responsibilities": [
+        "Contributed to flight booking system development using ASP.NET Framework by implementing reservation management modules with SQL Server backend.",
+        "Improved Angular applications for customer-facing flight interfaces by enhancing component performance and implementing responsive design patterns.",
+        "Developed SQL Server database solutions for flight schedule management by creating optimized queries and stored procedures that handled complex routing logic.",
+        "Supported Entity Framework implementations for data access layers by maintaining existing repositories and adding new features to flight management systems.",
+        "Enhanced RESTful API performance using ASP.NET Web API by implementing caching strategies and optimizing data serialization for flight information services.",
+        "Collaborated on reporting solutions using SSRS to address airline operational needs by modifying existing reports and adding new flight performance metrics.",
+        "Applied TypeScript to airline application maintenance by refactoring JavaScript codebases and implementing interface definitions for flight data models.",
+        "Worked on background job processing systems for flight status updates by maintaining existing Windows services and implementing new scheduling features.",
+        "Improved web interface accessibility using HTML and CSS by updating existing stylesheets and implementing responsive design improvements.",
+        "Supported data integration processes using SSIS packages by maintaining existing ETL jobs and adding new data sources for flight operations.",
+        "Developed unit tests using nUnit framework for flight management systems by adding test coverage for new features and maintaining existing test suites.",
+        "Enhanced Angular application state management by implementing additional RxJS observables for real-time flight status information.",
+        "Applied SQL Server performance tuning to existing flight database queries by analyzing execution plans and implementing index improvements.",
+        "Collaborated on authentication systems using ASP.NET Identity by maintaining existing user management features and adding new role-based permissions.",
+        "Supported database stored procedure maintenance by updating existing procedures and adding new functions for flight booking logic.",
+        "Improved Angular component libraries by refactoring existing code and implementing additional accessibility features for airline applications."
+      ],
+      "environment": [
+        "ASP.NET",
+        "Angular",
+        "SQL Server",
+        "Entity Framework",
+        "TypeScript",
+        "nUnit",
+        "SSRS",
+        "SSIS",
+        "Azure"
+      ]
+    },
+    {
+      "role": "Software Programmer",
+      "client": "State of PA",
+      "duration": "Mar 2019 \u2013 July 2021",
+      "responsibilities": [
+        "Collaborated on government portal development using ASP.NET Framework by implementing citizen service modules with web forms and MVC patterns.",
+        "Supported Angular application development for public-facing interfaces by building components under supervision and following established coding standards.",
+        "Assisted with SQL Server database maintenance tasks by writing basic stored procedures and helping with query optimization for government data systems.",
+        "Worked with Entity Framework data access layers by implementing simple CRUD operations and helping with migration scripts under senior developer guidance.",
+        "Participated in Web API development by creating basic endpoints and learning RESTful service patterns for government data exchange requirements.",
+        "Helped with reporting solutions using SSRS by creating simple reports and learning parameter configuration for government analytics needs.",
+        "Supported TypeScript implementation efforts by converting existing JavaScript files and learning strong typing concepts in government applications.",
+        "Assisted with background process maintenance by monitoring scheduled jobs and helping with basic troubleshooting for government batch operations.",
+        "Collaborated on HTML and CSS improvements by implementing design updates and learning responsive web design principles for government portals.",
+        "Supported data integration tasks using SSIS packages by helping with package maintenance and learning ETL process fundamentals.",
+        "Participated in unit testing activities using nUnit framework by writing basic test cases and learning test-driven development approaches.",
+        "Assisted with Angular service development by implementing simple data retrieval methods and learning observable patterns with RxJS.",
+        "Supported database performance monitoring by helping with index maintenance and learning query optimization techniques for government systems."
+      ],
+      "environment": [
+        "ASP.NET",
+        "Angular",
+        "SQL Server",
+        "Entity Framework",
+        "TypeScript",
+        "nUnit",
+        "SSRS",
+        "SSIS"
+      ]
+    },
+    {
+      "role": "Software Programmer",
+      "client": "Wells Fargo",
+      "duration": "Nov 2017\u2013 Feb 2019",
+      "responsibilities": [
+        "Participated in financial application development using ASP.NET Framework by learning banking domain requirements and implementing simple features.",
+        "Was part of Angular frontend team by assisting with component development and learning financial application user interface patterns.",
+        "Helped with SQL Server database tasks by writing basic queries and assisting with data retrieval for banking transaction systems.",
+        "Supported Entity Framework implementation by learning data modeling concepts and assisting with simple repository pattern implementations.",
+        "Assisted in Web API development by creating basic controllers and learning financial service endpoint security requirements.",
+        "Participated in reporting activities using SSRS by helping with report formatting and learning financial data visualization techniques.",
+        "Supported TypeScript adoption efforts by assisting with code conversion and learning type safety benefits in financial applications.",
+        "Helped with scheduled job monitoring by learning Windows service operations and assisting with basic maintenance tasks.",
+        "Participated in web interface development by implementing HTML templates and learning CSS styling for banking applications.",
+        "Assisted with data integration support by learning SSIS package structure and helping with basic ETL process monitoring."
+      ],
+      "environment": [
+        "ASP.NET",
+        "Angular",
+        "SQL Server",
+        "Entity Framework",
+        "TypeScript",
+        "SSRS",
+        "SSIS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "Oct 2015 \u2013 Aug 2017",
+      "responsibilities": [
+        "Participated in telecommunications billing system development using ASP.NET Framework by learning telecom domain concepts and implementing basic features.",
+        "Was part of team maintaining customer management applications by assisting with bug fixes and learning telecommunications business processes.",
+        "Helped with SQL Server database operations by writing simple stored procedures and assisting with data maintenance tasks for customer billing.",
+        "Supported Entity Framework data access by learning basic LINQ queries and assisting with simple data retrieval operations.",
+        "Assisted in web service development by learning SOAP and REST concepts and helping with basic service method implementations.",
+        "Participated in reporting tasks using SSRS by assisting with report deployment and learning telecommunications data reporting requirements.",
+        "Supported frontend development efforts by learning JavaScript fundamentals and assisting with basic UI component modifications.",
+        "Helped with data processing tasks by learning batch job concepts and assisting with scheduled process monitoring.",
+        "Participated in application testing activities by learning unit testing concepts and assisting with test case development.",
+        "Assisted with documentation tasks by learning system architecture concepts and helping with technical specification updates."
+      ],
+      "environment": [
+        "ASP.NET",
+        "SQL Server",
+        "Entity Framework",
+        "JavaScript",
+        "SSRS",
+        "Windows Services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "Microsoft Azure Fundamentals (AZ-900)",
+    "Microsoft Azure Data Fundamentals (DP-900)",
+    "Microsoft Azure AI Fundamentals (AI-900)",
+    "Microsoft Azure Database Administrator Associate (DP-300)",
+    "Microsoft Azure Data Engineer Associate (DP-203)"
+  ]
+}

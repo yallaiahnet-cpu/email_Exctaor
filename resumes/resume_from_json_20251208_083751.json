@@ -1,0 +1,266 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead Data Engineer - Real-Time Processing & Cloud-Native Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and managing large-scale, fault-tolerant data pipelines across insurance, healthcare, banking, and consulting domains, ensuring high availability and operational excellence.",
+    "Build real-time data processing systems using Apache Flink and Kafka to ingest and transform streaming data for immediate analytics, which improved decision-making speed for business stakeholders in fast-paced insurance environments.",
+    "Construct batch ETL pipelines with Apache Spark on AWS EMR, integrating data from diverse sources into a centralized data lake on S3, enabling comprehensive risk analysis and regulatory reporting for financial institutions.",
+    "Formulate cloud architecture strategies on AWS, leveraging services like Kinesis, Lambda, and DynamoDB to create scalable and cost-effective data solutions that meet stringent healthcare HIPAA compliance and data security standards.",
+    "Establish performance tuning procedures for distributed systems, using Spark UI and Flink Dashboard to monitor and optimize job execution, which resolved latency issues and enhanced pipeline reliability for critical business operations.",
+    "Develop Python automation scripts to manage data workflow orchestration and infrastructure provisioning, reducing manual intervention and operational overhead for cross-functional engineering and platform teams.",
+    "Implement Java-based multithreading components within data processing applications to handle concurrent data streams efficiently, boosting throughput and system resilience under high load conditions.",
+    "Design data models and schema management protocols for Hive and Hadoop ecosystems, ensuring data consistency and quality for enterprise-wide analytics and machine learning initiatives.",
+    "Coordinate with DevOps to integrate CI/CD practices using Git and Jenkins, automating the deployment of data pipeline code and fostering collaboration and code quality across data engineering teams.",
+    "Configure monitoring and alerting with CloudWatch for production data pipelines, enabling quick incident detection and resolution, which maintained high service levels for real-time analytics applications.",
+    "Assess and select appropriate AWS services such as Glue for serverless ETL operations, balancing performance needs with cost considerations to deliver economically sustainable large-scale data processing solutions.",
+    "Guide technical decisions on distributed computing frameworks, advocating for technologies that enhance scalability and fault tolerance based on hands-on experience with HDFS and Cloudera environments.",
+    "Support production systems by troubleshooting pipeline failures, analyzing logs, and applying fixes, which minimized downtime and ensured continuous data flow for time-sensitive business processes.",
+    "Facilitate knowledge sharing sessions on stream processing best practices, helping junior engineers understand complex concepts related to Kafka consumer groups and Flink state management.",
+    "Align data engineering deliverables with business objectives through regular meetings with stakeholders, translating requirements into technical specifications for real-time and batch data products.",
+    "Prepare system documentation and runbooks for data pipelines, detailing operational procedures and recovery steps, which improved the team's ability to manage and support complex distributed systems.",
+    "Review code and architecture designs from team members, providing constructive feedback on using PySpark and Airflow to ensure solutions are maintainable and adhere to enterprise integration standards.",
+    "Prioritize development tasks and incident responses in a dynamic setting, balancing new feature work with the operational support needed to keep large-scale data pipelines running smoothly and reliably."
+  ],
+  "technical_skills": {
+    "Data Processing Frameworks": [
+      "Apache Flink",
+      "Apache Spark (Streaming & Batch)",
+      "Apache Beam"
+    ],
+    "Stream Ingestion & Messaging": [
+      "Apache Kafka",
+      "Amazon Kinesis"
+    ],
+    "Big Data Ecosystem": [
+      "Hadoop (HDFS, YARN)",
+      "Apache Hive",
+      "Apache Sqoop"
+    ],
+    "Programming Languages": [
+      "Java (Core, Multithreading)",
+      "Python (Data Engineering)",
+      "SQL",
+      "Scala"
+    ],
+    "Cloud Services (AWS)": [
+      "Amazon S3",
+      "EMR",
+      "AWS Glue",
+      "Lambda",
+      "DynamoDB",
+      "CloudWatch"
+    ],
+    "Orchestration & Workflow": [
+      "Apache Airflow",
+      "AWS Step Functions"
+    ],
+    "Containerization & Infrastructure": [
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "Databases & Storage": [
+      "HBase",
+      "Amazon RDS",
+      "Delta Lake / Iceberg / Hudi"
+    ],
+    "Monitoring & Profiling": [
+      "Spark UI",
+      "Flink Dashboard",
+      "Grafana",
+      "Java Profiling Tools"
+    ],
+    "DevOps & Collaboration": [
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "Confluence"
+    ],
+    "System Scripting & OS": [
+      "Bash/Shell Scripting",
+      "Linux"
+    ],
+    "Distributed Systems Concepts": [
+      "Fault Tolerance",
+      "High Availability",
+      "Scalability",
+      "Data Partitioning"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect a real-time policy analytics pipeline using Apache Flink and Kafka on AWS, processing high-volume streaming data to detect fraud patterns and assess insurance risk, enhancing underwriting decision speed.",
+        "Create a proof-of-concept multi-agent system with LangGraph and MCP to automate complex claims triage, where agents collaborate to validate data, check regulations, and route cases, improving operational efficiency.",
+        "Setup a Model Context Protocol server to securely provide internal data contexts to LLM agents, ensuring compliance with insurance data governance rules while enabling advanced conversational analytics for agents.",
+        "Deploy scalable stream processing jobs on AWS EMR, tuning Flink checkpointing and state backend configurations to achieve strong fault tolerance and exactly-once processing semantics for financial transaction data.",
+        "Construct batch data pipelines with PySpark that merge IoT sensor data from properties with customer policy records in S3, supporting large-scale peril modeling and helping to refine insurance premium calculations.",
+        "Integrate Apache Kafka with AWS Kinesis for hybrid stream ingestion, designing a solution that handles spikes in real-time data during catastrophic events without loss, ensuring continuous risk monitoring.",
+        "Define data schemas and evolve them using a Delta Lake table format on S3, managing changes to insurance product attributes while maintaining backward compatibility for downstream reporting and analytics teams.",
+        "Produce automated monitoring for data pipelines using CloudWatch and custom metrics, setting up alerts that notify the platform team of latency deviations or failures, which improved mean time to resolution.",
+        "Mentor junior developers on implementing agent-to-agent communication patterns using Google's research, helping them build reliable, decoupled services for document processing and data validation workflows.",
+        "Debug a performance issue in a Spark streaming job by analyzing the Spark UI, discovering skewed partitions, and applying salting techniques to redistribute the workload, which balanced cluster resource usage.",
+        "Participate in daily stand-ups and bi-weekly planning sessions with data engineering and cloud platform teams, discussing sprint goals and troubleshooting blockers related to cloud infrastructure or data quality.",
+        "Write Python scripts to orchestrate complex multi-stage ETL workflows, using Airflow to schedule dependencies between batch risk score calculations and real-time exposure aggregation pipelines.",
+        "Test new AWS Glue versions for serverless Spark jobs, comparing performance and cost with our existing EMR clusters, and documented recommendations for the team's future technology stack decisions.",
+        "Validate all data outputs against strict insurance regulatory requirements, working with compliance officers to ensure that personally identifiable information is handled correctly in every processing stage.",
+        "Refactor a legacy Java data enrichment service to improve its multithreading model, reducing thread contention and memory leaks, which stabilized a critical component of the customer data ingestion flow.",
+        "Collaborate with software developers to design a service API that exposes processed streaming data to internal applications, using API Gateway and Lambda to serve low-latency queries for agent dashboards."
+      ],
+      "environment": [
+        "Apache Flink",
+        "Apache Spark (PySpark)",
+        "Kafka",
+        "AWS (S3, EMR, Kinesis, Glue, Lambda, DynamoDB, CloudWatch)",
+        "Java",
+        "Python",
+        "LangGraph",
+        "MCP",
+        "Delta Lake",
+        "Airflow",
+        "Docker",
+        "Git",
+        "Hadoop Ecosystem",
+        "Linux"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Built a HIPAA-compliant real-time data pipeline using Apache Flink to process streaming clinical trial data, implementing strict encryption and access logs to meet healthcare security and audit requirements.",
+        "Developed a LangChain-based application for medical researchers, creating RAG pipelines over drug safety documents that allowed natural language querying while keeping all PHI within secure AWS boundaries.",
+        "Assembled batch processing jobs with Spark on AWS to anonymize patient datasets from global studies, using EMR spot instances to control costs while transforming petabytes of data for research analytics.",
+        "Optimized a high-throughput Kafka cluster configuration, adjusting replication factors and consumer group settings to ensure zero data loss during the ingestion of sensor data from medical devices.",
+        "Established a data quality framework using AWS Glue DataBrew and custom PySpark validations, which automatically flagged anomalies in manufacturing batch records, protecting product quality standards.",
+        "Mapped complex healthcare data relationships into a DynamoDB schema to support a low-latency patient cohort service, enabling researchers to quickly identify candidates for new clinical trials.",
+        "Explored multi-agent system frameworks like Crew AI for automating literature review processes, conducting a proof-of-concept that demonstrated reduced time for compiling regulatory submission packages.",
+        "Proposed a cost-saving architecture to migrate some batch Hive workloads to AWS Glue's serverless Spark, presenting a detailed analysis of performance trade-offs and potential savings to business stakeholders.",
+        "Conducted weekly code reviews for the data engineering team, focusing on Spark efficiency, Python best practices, and ensuring all data handling code adhered to internal HIPAA compliance checklists.",
+        "Solved a recurring incident where a Spark job would fail due to memory issues, by profiling the Java heap usage, rewriting a problematic aggregation, and increasing executor memory configurations.",
+        "Authored detailed runbooks for production support of the primary Flink streaming application, including steps for restarting from a savepoint and verifying data integrity after a recovery.",
+        "Attended design meetings with software developers to plan the integration of streaming adverse event data into a React-based safety dashboard, defining the API contract and data update frequency.",
+        "Trained new team members on the healthcare data model and the importance of PHI segregation, walking them through the audit trails and access controls built into our S3 data lake structure.",
+        "Chose AWS Kinesis Data Firehose for a new log ingestion stream after evaluating its ease of setup against managing a Kafka cluster, simplifying the pipeline for non-critical telemetry data."
+      ],
+      "environment": [
+        "Apache Flink",
+        "Apache Spark",
+        "Kafka",
+        "AWS (S3, EMR, Glue, Lambda, DynamoDB)",
+        "Python",
+        "Java",
+        "LangChain",
+        "Hive",
+        "Airflow",
+        "Docker",
+        "Git",
+        "HIPAA Compliant Systems"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed an Azure-based batch data pipeline using Apache Spark on Databricks to consolidate public health records from multiple counties, ensuring data anonymization for HIPAA compliance before analysis.",
+        "Implemented an Azure Data Factory orchestration to schedule daily ETL workflows, moving processed data from Azure Blob Storage into a SQL Data Warehouse for state health department reporting dashboards.",
+        "Improved the performance of a critical Spark SQL job by analyzing the query plan, adding composite indexes, and implementing broadcast joins, which cut the runtime for daily eligibility reports by half.",
+        "Managed a Hadoop cluster on Azure HDInsight, performing routine maintenance, scaling nodes based on workload, and troubleshooting HDFS replication issues to maintain high availability for data scientists.",
+        "Documented the data lineage and transformation rules for the Medicaid claims processing pipeline, creating clarity for auditors and ensuring the system met state healthcare program regulations.",
+        "Fixed a data corruption issue in a Hive table by tracing back the processing steps, identifying a faulty custom SerDe in an older Sqoop job, and re-running the ingestion with a corrected version.",
+        "Collaborated with the state's IT security team to validate that all data pipeline components adhered to strict access control policies and that all data transfers were encrypted in transit and at rest.",
+        "Converted several legacy Python scripts into robust, scheduled jobs within Azure Databricks notebooks, adding error handling and logging to improve their reliability for production use.",
+        "Reviewed architectural diagrams for a proposed real-time health alert system, providing feedback on using Azure Event Hubs vs. Kafka based on the team's existing skills and long-term supportability.",
+        "Learned the nuances of public sector procurement and compliance, attending meetings to understand how technology choices needed to align with state contracts and budget cycles.",
+        "Assisted data analysts in writing efficient Hive queries, explaining partitioning strategies and how to avoid full table scans on large historical datasets of patient encounters.",
+        "Configured monitoring for the Azure data pipelines using Azure Monitor and custom log analytics, setting up alerts to notify the team of any failures in the nightly batch processing suite."
+      ],
+      "environment": [
+        "Azure (Databricks, Data Factory, Blob Storage, HDInsight, SQL DW)",
+        "Apache Spark",
+        "Hadoop (HDFS, Hive)",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "Linux",
+        "HIPAA Compliant Systems"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Programmed Spark batch jobs in Scala to clean and aggregate massive volumes of transactional data from mainframes, preparing features for machine learning models aimed at detecting fraudulent activities.",
+        "Installed and configured a Kafka cluster on Azure VMs to stream real-time transaction logs for a proof-of-concept fraud detection engine, working within the bank's strict PCI-DSS network security zones.",
+        "Modeled customer behavior data using Hive tables on an Azure HDInsight cluster, designing a star schema that enabled efficient queries for segment analysis and regulatory capital calculation reports.",
+        "Operated Sqoop jobs to periodically import data from on-premise Oracle databases into the Azure data lake, carefully managing job schedules to avoid impact on peak-time transaction processing systems.",
+        "Adjusted Spark configurations such as executor memory and dynamic allocation settings on the HDInsight cluster to optimize resource usage for a suite of overnight risk calculation jobs.",
+        "Verified the output of all financial data pipelines against control totals provided by the finance team, a crucial step to ensure accuracy for SEC reporting and internal risk management.",
+        "Partnered with DevOps engineers to package a Spark application into a Docker container, facilitating consistent testing across different environments from development to production.",
+        "Studied Azure's managed Spark offering to understand its cost structure and limitations, contributing to a team whitepaper that compared it with the existing HDInsight service for future projects.",
+        "Presented the technical design of a new anti-money laundering data pipeline to both engineering leads and business stakeholders from the compliance department, addressing their questions on data latency and auditability.",
+        "Troubleshot a recurring failure in a data pipeline where a dependent Azure service was occasionally unavailable, implementing a retry logic with exponential backoff in the Data Factory pipeline."
+      ],
+      "environment": [
+        "Azure (HDInsight, Blob Storage, VMs, Data Factory)",
+        "Apache Spark (Scala)",
+        "Kafka",
+        "Hadoop (Hive)",
+        "Sqoop",
+        "Oracle",
+        "Docker",
+        "PCI-DSS Compliant Systems"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to write and optimize HiveQL queries to extract data from a large client data warehouse, supporting consultants with ad-hoc reports for business analysis across retail and telecom domains.",
+        "Executed Informatica PowerCenter workflows to transform and load data from source systems into a staging area, checking job logs daily and notifying the team of any failures or data quality warnings.",
+        "Maintained Sqoop scripts that were part of a nightly data refresh process, importing updated sales records from relational databases into the Hadoop Distributed File System for further processing.",
+        "Assisted senior engineers in monitoring the health of the on-premise Hadoop cluster, learning to check HDFS disk usage and YARN resource manager status through the Cloudera Manager interface.",
+        "Drafted basic shell scripts to automate the cleanup of temporary files and old logs from the cluster's edge node, helping to manage storage space and keep the development environment organized.",
+        "Observed and documented the steps for a complex multi-source ETL process, creating flowcharts that helped new team members understand how data moved through the consulting project's pipeline.",
+        "Asked questions during team design discussions about batch scheduling, gaining an understanding of how Oozie was used to coordinate dependencies between different Hadoop and Informatica jobs.",
+        "Performed initial data profiling on new client datasets using simple SQL and Excel, identifying patterns, null values, and potential join keys to inform the ETL design process."
+      ],
+      "environment": [
+        "Hadoop (HDFS, Hive, MapReduce)",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Shell Scripting",
+        "SQL",
+        "Cloudera Distribution"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

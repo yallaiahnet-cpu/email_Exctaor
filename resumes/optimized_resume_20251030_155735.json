@@ -1,0 +1,224 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Salesforce Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Salesforce LWC and Apex to build a custom insurance claims portal, streamlining policy management and reducing manual errors in claim processing.",
+    "Developed VisualForce pages for a healthcare client, integrating with external APIs to fetch patient data securely, ensuring HIPAA compliance throughout the process.",
+    "Implemented Salesforce Flow and Process Builder to automate lead assignment and notification workflows, improving lead response times for a banking client.",
+    "Configured CPQ in Salesforce to handle complex pricing rules for an insurance client, ensuring accurate quotes and reducing errors in policy generation.",
+    "Integrated Salesforce with external systems using REST APIs, enabling seamless data exchange between Salesforce and banking core systems.",
+    "Built custom Lightning Web Components (LWC) to enhance user experience in a healthcare portal, improving data entry efficiency for medical staff.",
+    "Used Apex triggers and batch processing to optimize data migration from legacy systems to Salesforce, ensuring data integrity during the transition.",
+    "Designed and deployed Salesforce communities for customer self-service, reducing support ticket volume for an insurance provider.",
+    "Implemented Salesforce Shield for a healthcare client to meet compliance requirements, ensuring data encryption and audit trail capabilities.",
+    "Developed custom Apex controllers and VisualForce pages to support complex business logic in a banking application, improving transaction processing efficiency.",
+    "Configured Salesforce Sales Cloud for a consulting client, setting up lead management and opportunity tracking to streamline sales processes.",
+    "Built custom reports and dashboards in Salesforce for a healthcare client, providing real-time insights into patient engagement and treatment outcomes.",
+    "Utilized Salesforce Einstein Analytics to deliver predictive insights for an insurance client, helping identify high-risk policies and improve underwriting decisions.",
+    "Implemented Salesforce Marketing Cloud for a banking client, enabling targeted email campaigns and improving customer engagement metrics.",
+    "Developed custom Apex classes to handle bulk data processing, improving performance for large-scale data operations in Salesforce.",
+    "Configured Salesforce Service Cloud for a healthcare client, setting up case management and knowledge base to enhance customer support efficiency.",
+    "Integrated Salesforce with ERP systems using middleware, ensuring seamless data flow between Salesforce and backend systems for a consulting client.",
+    "Trained end-users on Salesforce functionalities, ensuring smooth adoption and reducing support requests across multiple client projects."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript",
+      "Apex"
+    ],
+    "CRM Platforms": [
+      "Salesforce (LWC, VisualForce, Apex, Flow, Process Builder, CPQ, Sales Cloud, Service Cloud, Marketing Cloud, Einstein Analytics, Salesforce Shield)"
+    ],
+    "Integration Tools": [
+      "REST APIs",
+      "SOAP APIs",
+      "Middleware",
+      "MuleSoft"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda",
+      "Salesforce Developer Console"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a custom insurance claims portal using Salesforce LWC and Apex, streamlining policy management and reducing manual errors in claim processing.",
+        "Integrated Salesforce with external APIs to fetch real-time data, ensuring secure and compliant data exchange under HIPAA regulations.",
+        "Developed VisualForce pages for agent dashboards, improving access to customer information and enhancing policy servicing efficiency.",
+        "Implemented Salesforce Flow to automate lead assignment and notification workflows, reducing lead response times by improving process efficiency.",
+        "Configured CPQ in Salesforce to handle complex pricing rules, ensuring accurate quotes and reducing errors in policy generation.",
+        "Used Apex triggers and batch processing to optimize data migration from legacy systems, ensuring data integrity during the transition.",
+        "Designed and deployed Salesforce communities for customer self-service, reducing support ticket volume and improving customer satisfaction.",
+        "Implemented Salesforce Shield to meet compliance requirements, ensuring data encryption and audit trail capabilities for sensitive information.",
+        "Developed custom Apex controllers and VisualForce pages to support complex business logic, improving transaction processing efficiency.",
+        "Built custom reports and dashboards in Salesforce, providing real-time insights into policy performance and customer engagement.",
+        "Utilized Salesforce Einstein Analytics to deliver predictive insights, helping identify high-risk policies and improve underwriting decisions.",
+        "Integrated Salesforce with ERP systems using middleware, ensuring seamless data flow between Salesforce and backend systems.",
+        "Trained end-users on Salesforce functionalities, ensuring smooth adoption and reducing support requests across the organization.",
+        "Collaborated with cross-functional teams to gather requirements and deliver Salesforce solutions aligned with business goals.",
+        "Performed code reviews and debugging to ensure high-quality deliverables, maintaining code standards and best practices.",
+        "Participated in daily stand-up meetings and sprint planning, contributing to project timelines and task prioritization."
+      ],
+      "environment": [
+        "Salesforce, LWC, Apex, VisualForce, Flow, Process Builder, CPQ, AWS, REST APIs, Git, Jira, Agile"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed custom Lightning Web Components (LWC) to enhance user experience in a healthcare portal, improving data entry efficiency for medical staff.",
+        "Implemented Salesforce Flow and Process Builder to automate patient onboarding workflows, reducing administrative burden on healthcare providers.",
+        "Integrated Salesforce with external systems using REST APIs, enabling seamless data exchange between Salesforce and healthcare core systems.",
+        "Configured Salesforce Sales Cloud for lead management and opportunity tracking, streamlining sales processes for medical device sales teams.",
+        "Built custom reports and dashboards in Salesforce, providing real-time insights into patient engagement and treatment outcomes.",
+        "Utilized Salesforce Marketing Cloud to deliver targeted email campaigns, improving patient engagement and appointment scheduling rates.",
+        "Developed custom Apex classes to handle bulk data processing, improving performance for large-scale data operations in Salesforce.",
+        "Configured Salesforce Service Cloud for case management and knowledge base, enhancing customer support efficiency for healthcare providers.",
+        "Implemented Salesforce Shield to ensure compliance with HIPAA regulations, securing patient data and maintaining audit trails.",
+        "Trained healthcare staff on Salesforce functionalities, ensuring smooth adoption and reducing support requests across the organization.",
+        "Collaborated with cross-functional teams to gather requirements and deliver Salesforce solutions aligned with healthcare objectives.",
+        "Performed code reviews and debugging to ensure high-quality deliverables, maintaining code standards and best practices.",
+        "Participated in daily stand-up meetings and sprint planning, contributing to project timelines and task prioritization.",
+        "Worked on troubleshooting and resolving production issues, ensuring minimal downtime and maintaining system stability."
+      ],
+      "environment": [
+        "Salesforce, LWC, Apex, Flow, Process Builder, Sales Cloud, Service Cloud, AWS, REST APIs, Git, Jira, Agile"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed VisualForce pages for a healthcare client, integrating with external APIs to fetch patient data securely, ensuring HIPAA compliance.",
+        "Implemented Salesforce Flow to automate lead assignment and notification workflows, improving lead response times for healthcare providers.",
+        "Configured CPQ in Salesforce to handle complex pricing rules for medical services, ensuring accurate billing and reducing errors.",
+        "Used Apex triggers and batch processing to optimize data migration from legacy systems, ensuring data integrity during the transition.",
+        "Designed and deployed Salesforce communities for patient self-service, reducing support ticket volume and improving patient satisfaction.",
+        "Implemented Salesforce Shield to meet compliance requirements, ensuring data encryption and audit trail capabilities for sensitive patient information.",
+        "Developed custom Apex controllers and VisualForce pages to support complex business logic, improving transaction processing efficiency.",
+        "Built custom reports and dashboards in Salesforce, providing real-time insights into patient engagement and treatment outcomes.",
+        "Integrated Salesforce with ERP systems using middleware, ensuring seamless data flow between Salesforce and backend systems.",
+        "Trained healthcare staff on Salesforce functionalities, ensuring smooth adoption and reducing support requests across the organization.",
+        "Collaborated with cross-functional teams to gather requirements and deliver Salesforce solutions aligned with healthcare objectives.",
+        "Performed code reviews and debugging to ensure high-quality deliverables, maintaining code standards and best practices.",
+        "Participated in daily stand-up meetings and sprint planning, contributing to project timelines and task prioritization."
+      ],
+      "environment": [
+        "Salesforce, VisualForce, Apex, Flow, CPQ, GCP, REST APIs, Git, Jira, Agile"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Implemented Salesforce Flow and Process Builder to automate lead assignment and notification workflows, improving lead response times for banking clients.",
+        "Configured Salesforce Sales Cloud for lead management and opportunity tracking, streamlining sales processes for banking teams.",
+        "Developed custom Apex classes to handle bulk data processing, improving performance for large-scale data operations in Salesforce.",
+        "Built custom reports and dashboards in Salesforce, providing real-time insights into customer engagement and transaction trends.",
+        "Utilized Salesforce Marketing Cloud to deliver targeted email campaigns, improving customer engagement and product adoption rates.",
+        "Configured Salesforce Service Cloud for case management and knowledge base, enhancing customer support efficiency for banking clients.",
+        "Integrated Salesforce with core banking systems using middleware, ensuring seamless data flow between Salesforce and backend systems.",
+        "Trained banking staff on Salesforce functionalities, ensuring smooth adoption and reducing support requests across the organization.",
+        "Collaborated with cross-functional teams to gather requirements and deliver Salesforce solutions aligned with banking objectives.",
+        "Performed code reviews and debugging to ensure high-quality deliverables, maintaining code standards and best practices.",
+        "Participated in daily stand-up meetings and sprint planning, contributing to project timelines and task prioritization."
+      ],
+      "environment": [
+        "Salesforce, Apex, Flow, Process Builder, Sales Cloud, Service Cloud, Azure, REST APIs, Git, Jira, Agile"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed custom VisualForce pages to support complex business logic in a consulting application, improving data entry efficiency.",
+        "Implemented Salesforce Flow to automate lead assignment and notification workflows, reducing manual intervention and improving process efficiency.",
+        "Configured Salesforce Sales Cloud for lead management and opportunity tracking, streamlining sales processes for consulting teams.",
+        "Built custom reports and dashboards in Salesforce, providing real-time insights into project progress and client engagement.",
+        "Integrated Salesforce with external systems using REST APIs, enabling seamless data exchange between Salesforce and consulting tools.",
+        "Trained consulting staff on Salesforce functionalities, ensuring smooth adoption and reducing support requests across the organization.",
+        "Collaborated with cross-functional teams to gather requirements and deliver Salesforce solutions aligned with consulting objectives.",
+        "Performed code reviews and debugging to ensure high-quality deliverables, maintaining code standards and best practices.",
+        "Participated in daily stand-up meetings and sprint planning, contributing to project timelines and task prioritization."
+      ],
+      "environment": [
+        "Salesforce, VisualForce, Flow, Sales Cloud, Azure, REST APIs, Git, Jira, Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "name": "Aravind Datla",
+  "title": "Senior Big Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 9 years of experience in big data engineering, specializing in PySpark-based data pipelines and distributed processing workflows across Healthcare, Banking, Automotive, and Consulting domains with expertise in HIPAA compliance.",
+    "Designed and implemented scalable ETL/ELT solutions using PySpark, Delta Lake, and SQL that processed billions of records daily while maintaining data integrity and meeting strict regulatory requirements in healthcare environments.",
+    "Architected cloud-native data platforms on AWS, Azure, and GCP that reduced processing time by 70% through optimized Spark configurations and distributed computing techniques for large-scale data operations.",
+    "Developed real-time streaming data pipelines using Kafka, Kinesis, and Spark Streaming that enabled immediate analytics for critical business decisions in banking and automotive sectors.",
+    "Created comprehensive data governance frameworks that ensured compliance with GDPR, HIPAA, and industry regulations while maintaining data accessibility for analytics teams across multiple domains.",
+    "Implemented container orchestration using Docker and Kubernetes to deploy and manage Spark applications, achieving 99.9% uptime and reducing infrastructure costs by 40% through efficient resource utilization.",
+    "Built automated CI/CD pipelines with Git, Airflow, and ADF that streamlined the deployment process for data engineering projects, reducing manual intervention by 85% and improving delivery timelines.",
+    "Transformed monolithic data architectures into microservices-based solutions using REST APIs and containerization, enabling independent scaling of data processing components and improving system resilience.",
+    "Established data warehousing best practices using NoSQL and SQL databases that optimized query performance and supported complex analytics requirements for enterprise clients across various industries.",
+    "Integrated DevOps practices into data engineering workflows through container orchestration and infrastructure as code, enabling rapid deployment of data pipelines while maintaining quality and security standards.",
+    "Collaborated with cross-functional teams including data scientists, cloud architects, and business analysts to translate business requirements into technical solutions that delivered measurable value.",
+    "Optimized Spark jobs through advanced tuning techniques including partitioning strategies, memory management, and broadcast joins that improved processing efficiency by 60% for large datasets.",
+    "Implemented robust monitoring and alerting systems for data pipelines using cloud-native tools that proactively identified issues and reduced system downtime by 75% through early detection.",
+    "Designed fault-tolerant data architectures that handled system failures gracefully through checkpointing, data replication, and automated recovery mechanisms, ensuring business continuity.",
+    "Modernized legacy data systems by migrating from on-premise Hadoop clusters to cloud-based solutions that reduced operational overhead and improved scalability for growing data volumes.",
+    "Developed reusable PySpark frameworks and libraries that accelerated development time for new data pipelines by 50% while maintaining consistency and quality across projects.",
+    "Mentored junior data engineers on best practices for distributed processing, cloud technologies, and data governance, elevating team capabilities and fostering knowledge sharing.",
+    "Presented technical solutions and architectural decisions to stakeholders at all levels, translating complex concepts into understandable terms that facilitated informed decision-making."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "Scala",
+      "Java",
+      "SQL"
+    ],
+    "Big Data Technologies": [
+      "PySpark",
+      "Spark",
+      "Hadoop",
+      "Delta Lake",
+      "DPL"
+    ],
+    "Data Processing": [
+      "ETL",
+      "ELT",
+      "Spark Streaming",
+      "Batch Processing"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "Containerization": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Workflow Orchestration": [
+      "Airflow",
+      "ADF",
+      "Argo",
+      "Prefect"
+    ],
+    "Databases": [
+      "SQL",
+      "NoSQL",
+      "Cassandra",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Streaming Technologies": [
+      "Kafka",
+      "Kinesis",
+      "Apache Flink"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "Bitbucket"
+    ],
+    "DevOps Tools": [
+      "Jenkins",
+      "Terraform",
+      "Ansible"
+    ],
+    "API Technologies": [
+      "REST APIs",
+      "GraphQL"
+    ],
+    "Data Governance": [
+      "Data quality frameworks",
+      "Compliance tools"
+    ],
+    "Monitoring Tools": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack"
+    ],
+    "Security": [
+      "Data encryption",
+      "Access control",
+      "Authentication"
+    ],
+    "Data Warehousing": [
+      "Snowflake",
+      "Redshift",
+      "BigQuery"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Big Data Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected HIPAA-compliant data pipelines using PySpark and Delta Lake that processed 50TB of patient data daily while ensuring complete data privacy and regulatory compliance in healthcare environment.",
+        "Developed distributed processing workflows on GCP that reduced data processing time from 6 hours to 45 minutes through optimized Spark configurations and resource allocation for healthcare analytics.",
+        "Implemented real-time data ingestion using Kafka and Spark Streaming that enabled immediate analysis of patient records, supporting critical healthcare decisions and improving patient outcomes.",
+        "Designed and deployed containerized Spark applications using Docker and Kubernetes that achieved 99.95% uptime for critical healthcare data processing systems, ensuring continuous availability.",
+        "Created automated data quality checks using Python and SQL frameworks that identified and corrected data anomalies before they impacted downstream healthcare analytics and reporting.",
+        "Built scalable ETL processes using PySpark that integrated data from multiple healthcare systems, creating a unified view of patient information while maintaining strict data access controls.",
+        "Optimized query performance on healthcare data warehouse by implementing advanced indexing strategies and partitioning techniques that reduced report generation time by 65%.",
+        "Established CI/CD pipelines with Git and Argo that automated testing and deployment of data engineering solutions, reducing manual deployment time by 80% while maintaining quality standards.",
+        "Collaborated with healthcare compliance teams to implement data governance frameworks that ensured adherence to HIPAA, GDPR, and other healthcare regulations across all data processing activities.",
+        "Resolved complex data integration challenges between legacy healthcare systems and modern cloud platforms, creating seamless data flows that preserved data integrity and lineage.",
+        "Monitored data pipeline performance using GCP monitoring tools, implementing proactive alerts that identified potential issues before they impacted critical healthcare operations and reporting.",
+        "Transformed batch-oriented data processing into real-time streaming solutions using Spark Streaming and Kinesis, enabling immediate insights for healthcare providers and administrators.",
+        "Integrated REST APIs to connect disparate healthcare systems, creating a unified data ecosystem that supported comprehensive patient analytics and reporting requirements.",
+        "Designed fault-tolerant data architectures that handled system failures gracefully through automated recovery mechanisms, ensuring continuous access to critical healthcare data.",
+        "Modernized legacy Hadoop-based data processing systems by migrating to GCP and PySpark, reducing infrastructure costs by 40% while improving processing speed and scalability.",
+        "Developed reusable PySpark libraries for common healthcare data transformations, accelerating development time for new data pipelines by 50% while ensuring consistency.",
+        "Presented technical solutions to healthcare stakeholders, translating complex data engineering concepts into understandable terms that facilitated informed decision-making.",
+        "Trained healthcare analytics teams on new data platforms and tools, improving data literacy and enabling self-service analytics while maintaining proper data access controls."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Spark",
+        "Delta Lake",
+        "SQL",
+        "NoSQL",
+        "ETL",
+        "ELT",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Kinesis",
+        "Airflow",
+        "Argo",
+        "Git",
+        "REST APIs",
+        "Data governance frameworks",
+        "CI/CD pipelines",
+        "Container orchestration"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Constructed large-scale ETL pipelines using PySpark and AWS that processed 100TB of financial data daily, ensuring compliance with banking regulations and maintaining data integrity.",
+        "Implemented distributed processing workflows using Spark and Hadoop that reduced batch processing time by 70% through optimized job configurations and resource management for banking analytics.",
+        "Developed real-time fraud detection systems using Kafka and Spark Streaming that analyzed transaction patterns in real-time, preventing fraudulent activities and saving millions in potential losses.",
+        "Deployed containerized data applications using Docker and Kubernetes on AWS that achieved 99.9% uptime for critical banking data processing systems, ensuring continuous availability.",
+        "Created automated data validation frameworks using Python and SQL that identified and corrected data anomalies before they impacted financial reporting and regulatory compliance.",
+        "Built scalable ELT processes using PySpark and Delta Lake that integrated data from multiple banking systems, creating a unified view of customer information while maintaining strict security controls.",
+        "Optimized query performance on banking data warehouse by implementing advanced indexing strategies and materialized views that reduced report generation time by 60%.",
+        "Established CI/CD pipelines with Git and Jenkins that automated testing and deployment of data engineering solutions, reducing manual deployment time by 75% while maintaining quality standards.",
+        "Collaborated with banking compliance teams to implement data governance frameworks that ensured adherence to financial regulations across all data processing activities.",
+        "Resolved complex data integration challenges between legacy banking systems and modern cloud platforms, creating seamless data flows that preserved data integrity and audit trails.",
+        "Monitored data pipeline performance using AWS CloudWatch, implementing proactive alerts that identified potential issues before they impacted critical banking operations and reporting.",
+        "Transformed batch-oriented data processing into real-time streaming solutions using Spark Streaming and Kinesis, enabling immediate insights for banking analysts and decision-makers.",
+        "Integrated REST APIs to connect disparate banking systems, creating a unified data ecosystem that supported comprehensive customer analytics and regulatory reporting requirements.",
+        "Designed fault-tolerant data architectures that handled system failures gracefully through automated recovery mechanisms, ensuring continuous access to critical banking data.",
+        "Modernized legacy on-premise data processing systems by migrating to AWS and PySpark, reducing infrastructure costs by 35% while improving processing speed and scalability."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Spark",
+        "Hadoop",
+        "Delta Lake",
+        "SQL",
+        "NoSQL",
+        "ETL",
+        "ELT",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Kinesis",
+        "Airflow",
+        "Jenkins",
+        "Git",
+        "REST APIs",
+        "Data governance frameworks",
+        "CI/CD pipelines"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed data pipelines using PySpark and Azure that processed 30TB of automotive data daily, supporting manufacturing analytics and vehicle performance monitoring.",
+        "Implemented distributed processing workflows using Spark that reduced data processing time by 60% through optimized job configurations for automotive analytics and reporting.",
+        "Created real-time telematics data ingestion using Kafka and Spark Streaming that enabled immediate analysis of vehicle performance data, supporting predictive maintenance initiatives.",
+        "Deployed containerized data applications using Docker and Kubernetes on Azure that achieved 99.8% uptime for critical automotive data processing systems.",
+        "Built data quality frameworks using Python and SQL that identified and corrected data anomalies before they impacted automotive analytics and manufacturing decisions.",
+        "Constructed ETL processes using PySpark that integrated data from multiple automotive systems, creating a unified view of vehicle information while maintaining proper data access controls.",
+        "Optimized query performance on automotive data warehouse by implementing efficient partitioning strategies that reduced report generation time by 55%.",
+        "Established automated deployment pipelines with Git and Azure DevOps that streamlined the release process for data engineering solutions, reducing manual intervention by 70%.",
+        "Collaborated with automotive engineering teams to implement data governance frameworks that ensured consistency and quality across all data processing activities.",
+        "Resolved data integration challenges between manufacturing systems and analytics platforms, creating seamless data flows that supported production optimization initiatives.",
+        "Monitored data pipeline performance using Azure Monitor, implementing alerts that identified potential issues before they impacted critical automotive operations.",
+        "Transformed batch-oriented data processing into streaming solutions using Spark Streaming, enabling real-time insights for automotive engineers and decision-makers.",
+        "Integrated REST APIs to connect disparate automotive systems, creating a unified data ecosystem that supported comprehensive vehicle analytics and reporting requirements."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Spark",
+        "Delta Lake",
+        "SQL",
+        "NoSQL",
+        "ETL",
+        "ELT",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Airflow",
+        "Azure DevOps",
+        "Git",
+        "REST APIs",
+        "Data governance frameworks",
+        "CI/CD pipelines"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Designed and implemented complex SQL queries and stored procedures that supported financial consulting applications, processing millions of records daily with optimal performance.",
+        "Developed ETL processes using SQL and Python that extracted, transformed, and loaded data from multiple sources into centralized data warehouses for consulting analytics.",
+        "Created database schemas and optimized table structures that improved query performance by 45% and supported complex reporting requirements for consulting projects.",
+        "Built data validation frameworks using SQL that identified and corrected data anomalies before they impacted client reporting and business decisions.",
+        "Constructed automated reporting solutions using SQL and scripting languages that delivered daily, weekly, and monthly reports to consulting clients with 99.9% accuracy.",
+        "Collaborated with consulting teams to understand data requirements and translate business needs into technical solutions that supported client engagements.",
+        "Resolved performance issues in database queries through indexing strategies and query optimization techniques that reduced report generation time by 50%.",
+        "Maintained data integrity through proper constraint implementation and transaction management, ensuring consistency across consulting data systems.",
+        "Integrated REST APIs to connect external data sources with internal databases, creating a unified data ecosystem for consulting analytics and reporting.",
+        "Documented database designs and data processes to ensure knowledge transfer and maintainability of consulting data systems."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "ETL",
+        "NoSQL",
+        "REST APIs",
+        "Data governance frameworks",
+        "Git",
+        "CI/CD pipelines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

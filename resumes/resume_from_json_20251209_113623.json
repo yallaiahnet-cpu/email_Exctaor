@@ -1,0 +1,297 @@
+{
+  "COLORFUL METADATA JSON": {
+    "name": "Yallaiah Onteru",
+    "title": "Senior Computer Vision & ML Engineer",
+    "contact": {
+      "email": "yonteru.dev.ai@gmail.com",
+      "phone": "9733271133",
+      "portfolio": "",
+      "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+      "github": ""
+    },
+    "professional_summary": [
+      "Transformed insurance claims processing using Python and YOLOv8 to automate vehicle damage detection, reducing manual inspection time and ensuring compliance with state-specific insurance regulations.",
+      "Built a computer vision pipeline with OpenCV and PyTorch for healthcare product defect inspection, integrating with HIPAA-compliant data storage to secure patient-related imagery in manufacturing.",
+      "Optimized a document OCR system for banking loan applications using FAISS for similarity search, accelerating KYC verification while maintaining strict PCI-DSS standards for financial data.",
+      "Architected a vector-based embedding pipeline with Pinecone to power a semantic search engine for insurance policy documents, enabling faster retrieval and cross-referencing of complex clauses.",
+      "Deployed production-grade image segmentation models on AWS SageMaker, utilizing CUDA acceleration to process high-resolution medical scans for diagnostic support in regulated environments.",
+      "Developed a multi-agent AI system using LangGraph and LangChain to coordinate autonomous damage assessment and fraud detection workflows, improving claim adjudication accuracy.",
+      "Implemented a Model Context Protocol (MCP) server to standardize feature exchange between computer vision models and underwriting systems, reducing integration errors in insurance platforms.",
+      "Created a neural network training framework with TensorFlow and Weights & Biases for tracking experiment metrics, helping teams iterate quickly on model optimization for computer vision tasks.",
+      "Engineered a real-time object detection service using FastAPI and Docker, deploying YOLO models as scalable endpoints for processing live video feeds from banking ATM security systems.",
+      "Designed a data labeling workflow with Label Studio to generate high-quality training datasets for a custom classifier, improving model performance on nuanced insurance claim imagery.",
+      "Structured a vector database migration from Milvus to Weaviate to enhance scalability, supporting faster query performance for similarity searches across millions of bank transaction images.",
+      "Integrated GPU-accelerated inference with Triton Server on AWS EC2 instances, significantly reducing latency for real-time computer vision tasks in customer-facing banking applications.",
+      "Established MLOps practices using MLflow and DVC to version control CV models, ensuring reproducibility and smooth rollbacks during the deployment of new segmentation algorithms.",
+      "Collaborated with backend developers to design a PostgreSQL schema for storing model predictions and image metadata, supporting audit trails required for healthcare compliance reporting.",
+      "Configured a continuous training pipeline with Kubeflow on AWS, automating the retraining of detection models as new annotated data from insurance field adjusters became available.",
+      "Solved a critical performance bottleneck by profiling and optimizing a PyTorch data loader, which cut training time for a large-scale image classification project by half.",
+      "Assembled a proof-of-concept using multi-agent frameworks to simulate complex decision-making for insurance claim triage, demonstrating potential efficiency gains to product owners.",
+      "Mentored junior ML engineers on best practices for computer vision model deployment, code reviews, and debugging techniques specific to deep learning training loops."
+    ],
+    "technical_skills": {
+      "Programming & Core ML": [
+        "Python (Expert)",
+        "PyTorch",
+        "TensorFlow/Keras",
+        "CUDA/GPU Acceleration",
+        "Linux/Bash",
+        "Model Optimization"
+      ],
+      "Computer Vision Libraries": [
+        "OpenCV",
+        "YOLO (v5/v8)",
+        "Image Classification",
+        "Object Detection",
+        "Image Segmentation",
+        "OCR"
+      ],
+      "Vector Databases & Search": [
+        "FAISS",
+        "Pinecone",
+        "Milvus",
+        "Weaviate",
+        "Vector Embedding Pipelines"
+      ],
+      "Data Management": [
+        "PostgreSQL",
+        "Vector-based Data Pipelines"
+      ],
+      "Model Deployment & APIs": [
+        "FastAPI",
+        "Flask",
+        "Docker",
+        "Model Deployment Workflows",
+        "Inference Endpoints"
+      ],
+      "MLOps & Experiment Tracking": [
+        "MLflow",
+        "DVC",
+        "Weights & Biases",
+        "Kubeflow",
+        "Model Versioning"
+      ],
+      "Cloud Platforms (AWS)": [
+        "SageMaker",
+        "EC2",
+        "S3",
+        "Lambda",
+        "RDS"
+      ],
+      "Cloud Platforms (Azure)": [
+        "ML Studio",
+        "Data Factory",
+        "Azure VMs",
+        "Cosmos DB"
+      ],
+      "AI Frameworks & Orchestration": [
+        "LangChain",
+        "LangGraph",
+        "Model Context Protocol (MCP)",
+        "Multi-Agent Systems"
+      ],
+      "Data Annotation & Tools": [
+        "Label Studio",
+        "Roboflow",
+        "Image Annotation Workflows"
+      ],
+      "Big Data & ETL": [
+        "Apache Spark",
+        "Hadoop",
+        "Informatica",
+        "Sqoop"
+      ],
+      "Neural Network Specialization": [
+        "Neural Network Training",
+        "Computer Vision Pipelines",
+        "Production-Grade ML Systems"
+      ]
+    },
+    "experience": [
+      {
+        "role": "Senior AI Lead Developer",
+        "client": "State Farm",
+        "duration": "2025-Jan - Present",
+        "location": "Austin, Texas.",
+        "responsibilities": [
+          "Construct a real-time vehicle damage assessment system using YOLOv8 and OpenCV, processing images from policyholder submissions to automatically classify dent severity and estimate repair costs.",
+          "Establish a multi-agent orchestration layer with LangGraph, defining workflows where specialist agents handle image intake, fraud scoring, and compliance checks for complex insurance claims.",
+          "Assemble a proof-of-concept using the Model Context Protocol (MCP) to allow communication between our CV models and a legacy claims database, simplifying integration without major re-engineering.",
+          "Formulate a vector search solution with Pinecone, embedding historical claim images to find similar past cases, which aids adjusters in ensuring consistent and fair settlement valuations.",
+          "Tailor a PyTorch training pipeline with CUDA acceleration on AWS EC2 GPU instances, optimizing a custom segmentation model to isolate specific car parts from cluttered background imagery.",
+          "Unify various computer vision services under a FastAPI gateway, enabling secure, low-latency inference that scales with claim volume spikes following major weather events.",
+          "Validate all model outputs against stringent state insurance regulations, writing detailed validation scripts to ensure automated decisions remain within compliant boundaries.",
+          "Guide a team of ML engineers through code reviews of training scripts and deployment configurations, focusing on readability and maintainability for long-term system health.",
+          "Navigate a challenging debugging session where a model's performance dropped in production, ultimately tracing the issue to a subtle data drift in image preprocessing on AWS Lambda.",
+          "Consolidate experiment tracking by implementing Weights & Biases, giving our team clear visibility into hyperparameter choices and their impact on object detection accuracy metrics.",
+          "Convert a monolithic image processing script into a modular, containerized service using Docker, making it easier to test and deploy updates independently.",
+          "Prepare technical documentation and diagrams to explain the multi-agent system's decision logic to product owners and compliance officers during quarterly review meetings.",
+          "Revise our FAISS index update strategy to an incremental process, allowing new claim embeddings to be added without requiring a full, service-disrupting rebuild of the index.",
+          "Modify a legacy data pipeline to feed annotated images from Label Studio directly into our SageMaker training jobs, cutting the dataset preparation time significantly.",
+          "Question the initial approach to model deployment, leading a pivot to a canary release strategy on AWS which minimized risk when rolling out a new version of our classifier.",
+          "Strengthen the logging and monitoring around our production CV endpoints, adding alerts for latency spikes or accuracy deviations to ensure reliable claim processing."
+        ],
+        "environment": [
+          "Python",
+          "YOLOv8",
+          "OpenCV",
+          "PyTorch",
+          "LangGraph",
+          "LangChain",
+          "MCP",
+          "Pinecone",
+          "FAISS",
+          "FastAPI",
+          "Docker",
+          "AWS SageMaker",
+          "EC2",
+          "Lambda",
+          "CUDA",
+          "PostgreSQL",
+          "Label Studio",
+          "Weights & Biases"
+        ]
+      },
+      {
+        "role": "Senior AI Developer",
+        "client": "Johnson & Johnson",
+        "duration": "2021-Aug - 2024-Dec",
+        "location": "New Brunswick, New Jersey.",
+        "responsibilities": [
+          "Programmed a computer vision system with TensorFlow to detect microscopic defects on medical device packaging, ensuring product quality met strict FDA and HIPAA-adjacent standards.",
+          "Organized a LangChain-based agent to retrieve and summarize technical documentation, assisting engineers in linking visual defect patterns to potential manufacturing process issues.",
+          "Fabricated a HIPAA-compliant image data lake on AWS S3, designing access controls and audit trails for sensitive imagery used in training diagnostic support models.",
+          "Launched a series of proof-of-concept multi-agent simulations using frameworks like Crew AI to model supply chain decision-making based on visual quality control reports.",
+          "Calculated optimal batch sizes and learning rates for a CNN classifier, using systematic experimentation to improve its accuracy on a challenging dataset of surgical instrument images.",
+          "Operated a model deployment workflow with MLflow and Docker, packaging and registering new versions of a segmentation model for sterile packaging inspection.",
+          "Examined performance bottlenecks in a real-time video analysis pipeline, re-engineering the OpenCV processing steps to achieve the required frame rate for production line use.",
+          "Sustained a collaborative relationship with the cloud platform team to provision and manage GPU-accelerated AWS instances, ensuring resource availability for critical training runs.",
+          "Composed unit tests and integration tests for the vector embedding pipeline, catching several edge cases related to unusual image formats before they impacted production.",
+          "Attended daily standups with data engineers to align on schema changes needed to store new image metadata from our expanding suite of computer vision applications.",
+          "Selected Weaviate as the vector database for a new research project, based on its managed service offering and its ability to handle the scale of our medical image embeddings.",
+          "Traveled to a manufacturing site to observe the image capture setup, providing direct feedback that improved lighting consistency for better model performance in real-world conditions.",
+          "Defended the technical design of our AI system to internal compliance auditors, clearly explaining the data encryption and anonymization steps that protected patient privacy.",
+          "Illustrated model behavior differences to business stakeholders using clear visual examples, helping them understand the trade-offs between detection speed and accuracy."
+        ],
+        "environment": [
+          "Python",
+          "TensorFlow",
+          "OpenCV",
+          "LangChain",
+          "Crew AI",
+          "Multi-Agent Systems",
+          "AWS S3",
+          "EC2",
+          "MLflow",
+          "Docker",
+          "Weaviate",
+          "PostgreSQL",
+          "HIPAA Compliance",
+          "FastAPI",
+          "Computer Vision",
+          "Model Deployment"
+        ]
+      },
+      {
+        "role": "Senior ML Engineer",
+        "client": "State of Maine",
+        "duration": "2020-Apr - 2021-Jul",
+        "location": "Augusta, Maine.",
+        "responsibilities": [
+          "Developed an OCR and document classification pipeline for digitizing public health records, using Tesseract and custom CNNs to extract data while adhering to state data privacy laws.",
+          "Installed and configured a Milvus vector database on Azure Kubernetes Service to enable semantic search across millions of scanned document pages, improving records retrieval time.",
+          "Managed the end-to-end training of an image classifier to categorize healthcare facility inspection photos, ensuring the model's outputs supported regulatory decision-making.",
+          "Assessed various image preprocessing techniques in OpenCV to handle poor scan quality from older documents, significantly improving downstream OCR accuracy for archival records.",
+          "Supported the data engineering team in building an Azure Data Factory pipeline to move and preprocess batch image uploads from various state departments into a central repository.",
+          "Fixed a persistent issue where training would run out of memory on Azure VM's; the solution involved implementing a custom PyTorch DataLoader with optimized image caching.",
+          "Presented bi-weekly progress updates to a cross-functional team including product owners and compliance officers, translating technical hurdles into actionable project timeline adjustments.",
+          "Reviewed pull requests from junior team members, providing constructive feedback on their Python code for model training scripts and data validation functions.",
+          "Tested the deployed model API extensively under load, identifying and resolving a concurrency issue that caused timeouts during peak business hours for the public portal.",
+          "Documented the entire model development and deployment process, creating runbooks that enabled the operations team to take over monitoring and basic troubleshooting.",
+          "Researched and proposed the adoption of DVC for data versioning, setting up a pilot project to track changes in training datasets for our most critical classification model.",
+          "Coordinated with the security team to conduct a vulnerability assessment of our ML infrastructure, implementing their recommendations for securing model endpoints and data stores."
+        ],
+        "environment": [
+          "Python",
+          "PyTorch",
+          "OpenCV",
+          "OCR",
+          "Milvus",
+          "Azure ML Studio",
+          "Azure Data Factory",
+          "Azure Kubernetes",
+          "PostgreSQL",
+          "DVC",
+          "FastAPI",
+          "Computer Vision",
+          "HIPAA Compliance"
+        ]
+      },
+      {
+        "role": "Data Scientist",
+        "client": "Bank of America",
+        "duration": "2018-Jan - 2020-Mar",
+        "location": "New York, New York.",
+        "responsibilities": [
+          "Built an initial proof-of-concept for check deposit fraud detection, using simple OpenCV features and a Scikit-learn model to flag suspicious images based on visual patterns.",
+          "Trained a custom TensorFlow model to recognize and extract key fields from check images, integrating the service with existing banking systems for automated processing.",
+          "Optimized the image preprocessing steps of our pipeline, reducing the average processing time per check while maintaining the high accuracy needed for financial transactions.",
+          "Learned the intricacies of PCI-DSS compliance for image data, working with security teams to design a secure storage and transmission protocol for all check imagery.",
+          "Implemented a basic similarity search using early versions of FAISS to cluster and review checks with unusual layouts or handwriting styles for potential fraud investigation.",
+          "Debugged a frustrating model performance drop, which was finally linked to a change in the mobile app's image compression algorithm feeding data into our system.",
+          "Participated in lengthy design meetings with backend developers to define the API contract for our vision services, ensuring seamless integration with the core banking platform.",
+          "Wrote comprehensive test cases for the image preprocessing module, catching several edge cases related to image rotation and skew that could have caused OCR failures.",
+          "Explored the feasibility of using GPU acceleration on Azure VMs for our models, running benchmarks that later justified the investment in more powerful infrastructure.",
+          "Created clear visualizations and reports to demonstrate model performance and business impact to banking executives, linking technical metrics to reduced fraud losses."
+        ],
+        "environment": [
+          "Python",
+          "TensorFlow",
+          "OpenCV",
+          "Scikit-learn",
+          "FAISS",
+          "Azure VMs",
+          "PostgreSQL",
+          "PCI-DSS Compliance",
+          "Flask",
+          "Image Processing"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "client": "Hexaware",
+        "duration": "2015-Oct - 2017-Dec",
+        "location": "Mumbai, Maharashtra.",
+        "responsibilities": [
+          "Extracted and transformed large volumes of client data from legacy systems using Informatica and Sqoop, loading it into Hadoop for analytical reporting.",
+          "Assisted senior developers in maintaining and troubleshooting batch ETL jobs, learning to read complex job logs and identify failures in multi-stage data pipelines.",
+          "Wrote SQL queries to validate data quality and completeness after each major load, ensuring downstream reports for consultants were accurate and reliable.",
+          "Attended training sessions on core Python programming, applying the new skills to write simple scripts for automating repetitive file management tasks on Linux servers.",
+          "Prepared documentation for the data mapping specifications of a new client engagement, carefully checking field definitions and transformation rules with the business analyst.",
+          "Observed how senior team members designed scalable data architectures, absorbing principles that would later inform my own work on ML and computer vision systems.",
+          "Collected requirements from consulting teams for new data views, translating their business needs into technical specifications for the data warehouse team.",
+          "Verified the performance of a newly built data pipeline, monitoring its runtime and resource consumption to confirm it met the service level agreements for the project."
+        ],
+        "environment": [
+          "Hadoop",
+          "Informatica",
+          "Sqoop",
+          "SQL",
+          "Python",
+          "Linux",
+          "Data Warehousing",
+          "ETL"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "KITS",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "year": "2015"
+      }
+    ],
+    "certifications": []
+  }
+}

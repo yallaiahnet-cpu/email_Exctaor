@@ -1,0 +1,303 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Big Data Engineer - Scala & Cloud Data Pipelines",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Big Data engineering and Scala development, specializing in cloud-based data pipeline construction and optimization across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Using Scala and functional programming to design robust data processing systems that handle complex business logic while maintaining type safety and performance across distributed cloud environments.",
+    "Leveraging Google Cloud Platform services including BigQuery and Dataflow to build scalable ETL pipelines that process terabytes of insurance claim data daily while ensuring data quality and compliance.",
+    "Implementing FS2 streams and cats-effect for asynchronous data processing in healthcare applications, enabling real-time analytics while maintaining HIPAA compliance and data security standards.",
+    "Developing cloud-native applications with GCP IAM and STS AssumeRole authentication to securely manage access controls for sensitive financial data in banking regulatory environments.",
+    "Building containerized data pipelines using Docker and Kubernetes for deployment in distributed environments, ensuring consistent performance across development and production systems.",
+    "Creating comprehensive testing strategies with unit, component, and integration tests for data pipelines, catching edge cases in insurance data validation before production deployment.",
+    "Optimizing BigQuery queries and Dataflow jobs to reduce processing costs while maintaining SLAs for healthcare analytics applications that support critical patient care decisions.",
+    "Designing fault-tolerant streaming pipelines with Google Pub/Sub that handle backpressure and ensure no data loss during peak insurance claim processing periods.",
+    "Implementing CI/CD pipelines with GitHub Actions to automate testing and deployment of Scala applications, reducing manual errors and accelerating feature delivery to production.",
+    "Using Circe for JSON serialization in REST APIs that serve processed data to downstream applications in banking systems, ensuring data consistency and schema evolution.",
+    "Collaborating with data engineers and cloud architects to design data models in PostgreSQL that support both transactional and analytical workloads in insurance applications.",
+    "Debugging distributed systems issues in production environments by analyzing Cloud Logging metrics and implementing proactive monitoring with Prometheus and Grafana dashboards.",
+    "Mentoring junior engineers on functional programming concepts and Scala best practices while working on complex data transformation logic for healthcare compliance reporting.",
+    "Implementing data governance patterns with GCP IAM policies that enforce access controls and audit trails for sensitive healthcare data subject to regulatory requirements.",
+    "Building multi-agent AI systems with Crew AI and LangGraph for intelligent document processing in insurance claims, reducing manual review time while maintaining accuracy.",
+    "Developing proof-of-concept applications with Model Context Protocol to validate new data processing approaches before full implementation in production banking systems.",
+    "Creating data lineage documentation and monitoring dashboards that provide visibility into pipeline health and data quality metrics for stakeholders across business domains."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Scala",
+      "Functional Programming",
+      "Cats",
+      "Cats-effect",
+      "FS2",
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "Cloud Platforms & Services": [
+      "Google Cloud Platform",
+      "BigQuery",
+      "Dataflow",
+      "Pub/Sub",
+      "Cloud IAM",
+      "Cloud Storage",
+      "Cloud Logging",
+      "STS AssumeRole"
+    ],
+    "Big Data Processing": [
+      "Apache Beam",
+      "Google Dataflow",
+      "Stream Processing",
+      "Batch Processing",
+      "ETL Pipelines",
+      "Data Orchestration"
+    ],
+    "Data Storage & Databases": [
+      "PostgreSQL",
+      "Google BigQuery",
+      "Cloud Storage",
+      "Relational Databases",
+      "Data Warehousing"
+    ],
+    "Build Tools & Development": [
+      "sbt",
+      "Git",
+      "GitHub Actions",
+      "CI/CD Pipelines",
+      "Code Review Processes",
+      "Agile Methodology"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "Container Orchestration",
+      "Cloud Deployment",
+      "Serverless Architecture"
+    ],
+    "Data Serialization & APIs": [
+      "JSON",
+      "Circe",
+      "REST APIs",
+      "Data Contracts",
+      "Schema Evolution"
+    ],
+    "Testing & Validation": [
+      "Unit Testing",
+      "Component Testing",
+      "Integration Testing",
+      "Test Automation",
+      "Data Quality Validation"
+    ],
+    "Monitoring & Observability": [
+      "Cloud Monitoring",
+      "Prometheus",
+      "Grafana",
+      "Log Analysis",
+      "Performance Metrics",
+      "Error Tracking"
+    ],
+    "Messaging & Streaming": [
+      "Google Pub/Sub",
+      "Asynchronous Processing",
+      "Event-driven Architecture",
+      "Message Queuing"
+    ],
+    "Security & Compliance": [
+      "GCP IAM",
+      "STS AssumeRole",
+      "Data Encryption",
+      "HIPAA Compliance",
+      "PCI Compliance",
+      "Audit Logging"
+    ],
+    "AI & Advanced Analytics": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-agent Systems",
+      "Proof of Concepts",
+      "Model Context Protocol"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Scala and FS2 streams to redesign insurance claims processing pipeline that was struggling with backpressure during peak load, implementing concurrent processing with cats-effect that increased throughput by 3x while maintaining data consistency.",
+        "Leveraging Google Dataflow and Apache Beam to transform legacy batch ETL processes into real-time streaming pipelines, enabling same-day analytics for insurance fraud detection and reducing reporting latency from 24 hours to 15 minutes.",
+        "Implementing GCP IAM and STS AssumeRole authentication for multi-tenant data access patterns in insurance applications, ensuring strict separation between different business units while maintaining centralized governance and audit trails.",
+        "Building proof-of-concept multi-agent systems with Crew AI and LangGraph for automated insurance document processing, reducing manual review time from 48 hours to 2 hours while maintaining 99% accuracy in claim classification.",
+        "Using Circe JSON libraries to handle complex insurance policy data serialization across microservices, implementing schema evolution strategies that enabled backward-compatible API changes without disrupting existing clients.",
+        "Designing containerized deployment with Docker and Kubernetes for Scala applications, creating Helm charts that simplified environment-specific configurations and reduced deployment errors across development and production.",
+        "Implementing comprehensive testing strategy with ScalaTest for insurance data validation rules, catching edge cases in policy calculation logic before production and reducing post-deployment bug fixes by 70%.",
+        "Optimizing BigQuery queries for insurance analytics dashboards by restructuring nested data and implementing partitioned tables, reducing query costs by 60% while improving dashboard loading performance.",
+        "Creating CI/CD pipelines with GitHub Actions that automated Scala application testing and deployment, integrating security scans and dependency checks that caught vulnerabilities before reaching production environments.",
+        "Debugging production issues in distributed Pub/Sub messaging system by analyzing Cloud Logging metrics, identifying message ordering problems and implementing sequencing logic that resolved data consistency issues.",
+        "Building monitoring dashboards with Prometheus and Grafana for real-time pipeline health visibility, creating alerts that notified teams of data quality issues before they impacted downstream insurance applications.",
+        "Implementing Model Context Protocol for agent-to-agent communication in AI systems, enabling coordinated decision-making across multiple insurance claim processing workflows while maintaining audit trails.",
+        "Designing fault-tolerant stream processing with FS2 that handled intermittent third-party API failures in insurance data enrichment, implementing retry logic with exponential backoff that improved system reliability.",
+        "Mentoring junior engineers on functional programming patterns and Scala best practices, conducting code reviews that improved code quality and reduced technical debt in insurance data pipelines.",
+        "Collaborating with cloud architects to design data governance framework with GCP IAM policies, implementing role-based access controls that met insurance regulatory requirements while enabling data discovery.",
+        "Implementing data lineage tracking for insurance analytics pipelines, creating documentation that helped business users understand data origins and transformations for compliance reporting requirements."
+      ],
+      "environment": [
+        "Scala",
+        "FS2",
+        "cats-effect",
+        "GCP",
+        "BigQuery",
+        "Dataflow",
+        "Pub/Sub",
+        "Docker",
+        "Kubernetes",
+        "Crew AI",
+        "LangGraph",
+        "Circe",
+        "PostgreSQL",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Scala and functional programming to build healthcare data processing pipelines that transformed clinical trial data while maintaining HIPAA compliance through encryption and access controls.",
+        "Implementing Google BigQuery data warehouse for healthcare analytics, designing schemas that optimized query performance for research teams while ensuring patient data privacy through careful masking strategies.",
+        "Building real-time streaming pipelines with Dataflow and Pub/Sub that processed IoT medical device data, enabling researchers to monitor patient responses during clinical trials with minimal latency.",
+        "Developing containerized applications with Docker that standardized development environments across healthcare research teams, reducing setup time from days to hours and improving collaboration efficiency.",
+        "Creating comprehensive test suites with ScalaTest for healthcare data validation, implementing property-based testing that caught data quality issues before they affected clinical research outcomes.",
+        "Optimizing Dataflow jobs for cost efficiency in healthcare applications, implementing dynamic scaling and windowing strategies that reduced cloud spending while maintaining processing performance.",
+        "Implementing FS2 streams for asynchronous processing of large medical imaging datasets, enabling parallel analysis while managing memory usage to prevent application crashes during peak loads.",
+        "Designing CI/CD pipelines with GitHub Actions that automated deployment of healthcare applications, incorporating security scans that ensured compliance with healthcare data protection standards.",
+        "Building monitoring solutions with Cloud Logging and Prometheus for healthcare data pipelines, creating dashboards that provided real-time visibility into data quality and processing status.",
+        "Debugging production issues in healthcare analytics platform by analyzing stack traces and log data, identifying memory leaks in Scala applications and implementing fixes that improved stability.",
+        "Implementing data governance patterns with GCP IAM for healthcare research data, creating fine-grained access controls that enabled collaboration while protecting sensitive patient information.",
+        "Developing proof-of-concept multi-agent systems with Crew AI for automated medical literature analysis, reducing researcher time spent on literature reviews by 40% while improving coverage.",
+        "Creating data serialization protocols with Circe for healthcare API responses, ensuring consistent data formats across microservices while supporting evolution of clinical data models.",
+        "Mentoring team members on functional programming concepts and Scala development practices, improving code quality and reducing bugs in healthcare data processing applications."
+      ],
+      "environment": [
+        "Scala",
+        "Functional Programming",
+        "GCP",
+        "BigQuery",
+        "Dataflow",
+        "Pub/Sub",
+        "Docker",
+        "HIPAA Compliance",
+        "FS2",
+        "cats-effect",
+        "Circe",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SDKs in Scala to build healthcare data ingestion pipelines that processed Medicaid claims data while ensuring HIPAA compliance through proper encryption and access logging.",
+        "Implementing PostgreSQL databases for healthcare analytics, designing schemas that supported both transactional processing and analytical queries for public health reporting requirements.",
+        "Building batch processing pipelines with Scala that transformed healthcare enrollment data, implementing validation rules that caught data quality issues before loading into analytical systems.",
+        "Creating containerized applications with Docker for healthcare data processing, simplifying deployment across development, testing, and production environments while maintaining consistency.",
+        "Developing testing strategies for healthcare data pipelines, implementing integration tests that verified end-to-end data flow from source systems to analytical dashboards.",
+        "Optimizing SQL queries for healthcare analytics reports, restructuring complex joins and adding appropriate indexes that improved query performance for public health dashboards.",
+        "Implementing monitoring with CloudWatch for healthcare data pipelines, creating alerts that notified teams of processing failures or data quality issues affecting public health reporting.",
+        "Debugging performance issues in healthcare data processing applications by analyzing AWS metrics, identifying bottlenecks in data transformation logic and implementing optimizations.",
+        "Building data validation frameworks with Scala that ensured healthcare data quality, implementing checks that verified data completeness and accuracy before analytical consumption.",
+        "Creating documentation for healthcare data pipelines, enabling other teams to understand data transformations and supporting maintenance of public health reporting systems.",
+        "Implementing security controls with AWS IAM for healthcare data access, ensuring only authorized personnel could access sensitive patient information for analytical purposes.",
+        "Developing data serialization protocols for healthcare API integrations, ensuring consistent data exchange between state healthcare systems and external partners while maintaining compliance."
+      ],
+      "environment": [
+        "Scala",
+        "AWS",
+        "PostgreSQL",
+        "Docker",
+        "HIPAA Compliance",
+        "CloudWatch",
+        "SQL",
+        "Data Pipelines",
+        "Batch Processing"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using AWS services to build financial data pipelines that processed transaction data while ensuring PCI compliance through encryption and access controls for sensitive banking information.",
+        "Implementing PostgreSQL databases for financial risk modeling, designing schemas that supported complex analytical queries while maintaining data integrity for regulatory reporting.",
+        "Building batch processing pipelines that transformed banking transaction data, implementing fraud detection algorithms that identified suspicious patterns in customer activity.",
+        "Creating testing frameworks for financial data validation, implementing checks that verified data accuracy before use in risk models and regulatory reporting applications.",
+        "Optimizing SQL queries for financial analytics dashboards, improving performance for complex aggregations that supported business intelligence and decision-making processes.",
+        "Implementing monitoring solutions for financial data pipelines, creating alerts that notified teams of data quality issues affecting risk calculations and regulatory compliance.",
+        "Debugging data quality issues in financial reporting systems by analyzing pipeline logs, identifying transformation errors and implementing corrections that improved report accuracy.",
+        "Building data serialization protocols for financial API integrations, ensuring consistent data exchange between internal banking systems and external regulatory reporting platforms.",
+        "Developing documentation for financial data models, enabling business users to understand data origins and transformations used in risk calculations and compliance reporting.",
+        "Implementing security controls for financial data access, ensuring proper authorization and audit trails for sensitive banking information used in analytical applications."
+      ],
+      "environment": [
+        "AWS",
+        "PostgreSQL",
+        "SQL",
+        "Data Pipelines",
+        "Batch Processing",
+        "PCI Compliance",
+        "Financial Data",
+        "Risk Modeling"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop and MapReduce to build data processing pipelines for consulting clients, transforming large datasets from legacy systems into structured formats for analytical consumption.",
+        "Implementing Informatica ETL processes that extracted data from multiple source systems, applying business rules and transformations that prepared data for client reporting and analytics.",
+        "Building data integration solutions with Sqoop that moved data between relational databases and Hadoop distributed file system, enabling large-scale data processing for client analytics projects.",
+        "Creating batch processing workflows that handled client data from various industries, implementing data validation checks that ensured quality before delivery to analytical teams.",
+        "Developing testing approaches for ETL processes, verifying data transformation logic and catching issues before they affected client reporting and business decisions.",
+        "Optimizing Hadoop jobs for better performance, tuning MapReduce parameters and data partitioning strategies that reduced processing time for large client datasets.",
+        "Implementing data quality monitoring for client data pipelines, creating checks that identified anomalies and data completeness issues in source system extracts.",
+        "Building documentation for data integration processes, enabling client teams to understand data flows and supporting maintenance of analytical reporting systems."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "ETL",
+        "Data Integration",
+        "Batch Processing",
+        "Data Validation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI/ML Engineer - Generative AI & Cloud-Native Solutions",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building and deploying AI/ML solutions across Healthcare, Insurance, Government, and Finance domains, specializing in end-to-end generative AI pipelines and cloud-native applications. Over the past decade, I have transitioned from foundational data analytics to architecting complex, multi-agent AI systems, consistently integrating new technologies to solve real-world business challenges with measurable impact.",
+    "Leveraging Python and PyTorch to address the need for scalable machine learning models in regulated industries, I architected and deployed containerized applications using Docker and Kubernetes, ensuring seamless scaling and robust performance while maintaining strict adherence to domain-specific compliance standards like HIPAA and PCI-DSS throughout the development lifecycle.",
+    "Utilizing LangChain and LangGraph to overcome challenges in orchestrating complex LLM workflows, I designed and implemented multi-agent systems for enterprise applications, which significantly enhanced automation capabilities and reduced manual intervention in critical processes such as healthcare documentation and insurance claim processing.",
+    "Employing vector databases and Retrieval-Augmented Generation patterns to solve information retrieval problems with unstructured healthcare data, I built semantic search systems that improved the accuracy of clinical decision support tools by providing clinicians with contextually relevant medical literature and patient history insights.",
+    "Applying TensorFlow and custom model fine-tuning techniques to tackle specific domain adaptation challenges in financial fraud detection, I developed models that learned from evolving transaction patterns, resulting in a more adaptive and precise identification system for suspicious activities across payment networks.",
+    "Implementing FastAPI and Flask to resolve issues with slow and monolithic backend services, I created high-performance microservices for model inference and data processing, which decreased API latency and improved the developer experience for internal teams consuming AI-powered functionalities.",
+    "Orchestrating end-to-end ML pipelines with n8n and Apache Airflow to automate previously manual data workflows in government projects, I established reliable data ingestion and transformation processes that ensured timely availability of cleaned data for analytics and reporting, meeting strict SLAs.",
+    "Deploying and managing AI models on GCP cloud services like Vertex AI and Cloud Run to address model serving bottlenecks, I configured auto-scaling inference endpoints that handled variable loads efficiently while optimizing cloud costs through careful resource provisioning and monitoring.",
+    "Designing and optimizing SQL and NoSQL databases, including Postgres and DynamoDB, to manage the growing volume of structured and unstructured data in insurance applications, I implemented data models that supported both transactional integrity and high-speed analytical queries for business intelligence.",
+    "Building CI/CD pipelines with GitLab and ArgoCD to automate the deployment and rollback of AI microservices, I introduced a robust DevOps practice that minimized deployment failures and accelerated the release cycle for new machine learning features into production environments.",
+    "Integrating LLMs via MCP and prompt engineering to enhance existing enterprise applications with natural language capabilities, I prototyped and productionized chat interfaces that allowed non-technical staff to interact complex data systems using simple conversational queries.",
+    "Developing containerized applications with Docker and managing their lifecycle on Kubernetes clusters to solve environment inconsistency problems, I ensured that AI models trained locally could be reliably reproduced and deployed across development, staging, and production environments.",
+    "Architecting serverless solutions using GCP Cloud Functions to handle event-driven data processing for real-time analytics, I built systems that reacted instantly to new data arrivals, enabling near-real-time insights for operational dashboards and alerting mechanisms.",
+    "Creating and maintaining infrastructure-as-code templates with Terraform to provision and manage cloud resources for AI workloads, I established a reproducible and version-controlled foundation for all data science environments, reducing setup time from days to hours for new projects.",
+    "Leading the implementation of monitoring and logging frameworks for AI applications to quickly diagnose and troubleshoot model performance degradation or data drift, I set up dashboards that provided visibility into key metrics, ensuring system reliability and proactive maintenance.",
+    "Collaborating with cross-functional teams to translate complex business requirements in the healthcare sector into technical specifications for AI solutions, I acted as a bridge between data scientists, software engineers, and domain experts, ensuring the final product met both technical and regulatory needs.",
+    "Mentoring junior engineers on best practices for building, testing, and deploying machine learning models, I shared knowledge on topics like version control with Git, code reviews, and writing production-ready code, fostering a culture of quality and continuous learning within the team.",
+    "Conducting regular code reviews and debugging sessions to maintain high code quality and address performance issues in production AI systems, I spent considerable time analyzing logs, reproducing bugs, and implementing fixes that strengthened the overall stability of our data platforms."
+  ],
+  "technical_skills": {
+    "Programming Languages & Primary Tools": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "AI/ML Frameworks & Libraries": [
+      "LangChain",
+      "LangGraph",
+      "Hugging Face Transformers",
+      "Scikit-Learn",
+      "Fine-tuning LLMs",
+      "Embedding Models"
+    ],
+    "Generative AI & Orchestration": [
+      "LLM Integration",
+      "Retrieval-Augmented Generation",
+      "Prompt Engineering",
+      "MCP",
+      "Multi-Agent Systems",
+      "Crew AI"
+    ],
+    "Cloud Platforms & Services": [
+      "GCP (Vertex AI, Cloud Run, Cloud SQL, BigQuery)",
+      "AWS (SageMaker, Lambda, DynamoDB, RDS)",
+      "Serverless Architectures"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "DynamoDB",
+      "Vector Databases",
+      "MySQL",
+      "Redis"
+    ],
+    "API Development & Microservices": [
+      "FastAPI",
+      "Flask",
+      "REST APIs",
+      "Model Serving"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Container Lifecycle Management"
+    ],
+    "Workflow Automation & ETL": [
+      "n8n",
+      "Apache Airflow",
+      "End-to-end ML/GenAI Pipelines",
+      "Data Pipelines"
+    ],
+    "DevOps & CI/CD": [
+      "GitLab",
+      "ArgoCD",
+      "Infrastructure-as-Code",
+      "Terraform",
+      "Deployment Automation"
+    ],
+    "Monitoring & Optimization": [
+      "Model Inference Optimization",
+      "Application Monitoring",
+      "Logging",
+      "Performance Tuning"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a multi-agent AI system using LangGraph and Crew AI to automate the processing and summarization of complex medical device supply chain documents, addressing manual review bottlenecks and reducing operational delays by enabling faster, more accurate contract verification and compliance checks.",
+        "Engineered a Retrieval-Augmented Generation pipeline leveraging PyTorch and vector databases to empower a clinical decision-support tool, solving the problem of information overload for physicians by providing precise, context-aware answers from vast repositories of medical literature and internal patient data securely hosted on GCP.",
+        "Developed and containerized a series of FastAPI microservices for real-time model inference, utilizing Docker and Kubernetes on GCP to resolve scalability issues during peak usage, which ensured high availability and consistent response times for critical healthcare applications processing sensitive PHI.",
+        "Implemented a robust CI/CD pipeline with GitLab and ArgoCD to automate the deployment of machine learning models, tackling the challenge of inconsistent staging environments and manual promotion errors, thereby standardizing releases and enabling rapid, reliable iteration on AI features.",
+        "Orchestrated complex data workflows using n8n to integrate disparate hospital data sources, addressing the problem of siloed information by creating automated pipelines that transformed and loaded data into a unified analytics platform while maintaining strict HIPAA audit trails.",
+        "Constructed a custom fine-tuning framework with TensorFlow to adapt a foundational LLM for specialized medical terminology, overcoming the model's lack of domain-specific knowledge to significantly improve the accuracy of automated medical coding and billing documentation generation.",
+        "Designed a secure, cloud-native logging and monitoring solution for AI applications using GCP services, solving the visibility problem into model performance and data drift, which allowed the team to proactively retrain models and maintain high prediction quality in a regulated environment.",
+        "Integrated the Model Context Protocol to facilitate seamless communication between different AI agents within a LangChain orchestration framework, addressing interoperability challenges and creating a cohesive system where agents could share state and results for complex, multi-step analytical tasks.",
+        "Built and optimized vector database indices for similarity search across millions of clinical notes, tackling slow retrieval times by experimenting with different embedding models and indexing strategies, ultimately accelerating search queries to support real-time diagnostic assistance.",
+        "Led the migration of a legacy batch inference system to a serverless architecture on GCP Cloud Run, resolving cost inefficiencies and long job queues by implementing an event-driven design that scaled dynamically with incoming data volume, optimizing resource utilization.",
+        "Facilitated numerous code review sessions and debugging marathons to troubleshoot a memory leak in a PyTorch-based inference service, patiently analyzing container logs and profiling code to identify the culprit in a data loading utility, which restored system stability.",
+        "Spearheaded the proof-of-concept for an agent-to-agent communication layer using Google's research, exploring solutions for decentralized task delegation among AI agents to handle intricate, multi-departmental healthcare logistics planning and resource allocation simulations.",
+        "Configured and managed Kubernetes Helm charts for deploying LangChain applications, addressing environment configuration drift by versioning all deployment artifacts, which simplified rollbacks and ensured consistent behavior across development, QA, and production clusters.",
+        "Authored comprehensive infrastructure-as-code modules with Terraform to provision GCP resources for new AI projects, solving the problem of manual, error-prone cloud setup and enabling data scientists to self-serve isolated, compliant environments for experimentation.",
+        "Collaborated closely with legal and compliance teams to embed HIPAA safeguards directly into the AI data pipeline architecture, addressing privacy concerns by implementing encryption-at-rest and strict access controls, ensuring all model training and inference met regulatory mandates.",
+        "Mentored a junior engineer on prompt engineering fundamentals and LLM integration patterns, sharing lessons from initial failed experiments to accelerate their ability to build effective conversational interfaces for internal healthcare operational tools."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "MCP",
+        "FastAPI",
+        "GCP (Vertex AI, Cloud Run, BigQuery, Cloud SQL)",
+        "Docker",
+        "Kubernetes",
+        "GitLab",
+        "ArgoCD",
+        "Vector Databases",
+        "PostgreSQL",
+        "n8n",
+        "TensorFlow",
+        "Terraform"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Designed a LangChain-powered orchestration layer to automate pre-authorization claim reviews, addressing the slow manual adjudication process by deploying AI agents that could extract data, check policy rules, and flag anomalies, significantly reducing processing time and human error.",
+        "Built a scalable RAG system using AWS SageMaker and vector databases to create a knowledge base for insurance policy documents, solving the problem of agents struggling to find accurate coverage information, which improved customer service resolution rates and agent efficiency.",
+        "Developed a suite of Flask microservices for batch and real-time model inference, containerized with Docker and deployed on AWS ECS, resolving latency issues in legacy systems and providing a more responsive interface for underwriters accessing risk prediction models.",
+        "Implemented a workflow automation system with n8n to connect claims data from AWS RDS (Postgres) with external audit databases, tackling the challenge of manual data reconciliation and creating an automated audit trail that enhanced compliance reporting for state insurance regulations.",
+        "Optimized a high-volume PyTorch model serving endpoint on AWS Lambda, addressing cold-start latency by implementing provisioned concurrency and optimizing the model artifact size, which achieved consistent sub-second response times for real-time fraud scoring of insurance claims.",
+        "Established a GitLab CI/CD pipeline integrated with AWS CodeDeploy for the automated testing and rollout of ML model updates, solving the problem of lengthy, weekend deployment windows and enabling safe, incremental releases of new underwriting algorithms.",
+        "Architected a multi-agent proof-of-concept using Crew AI to simulate complex insurance claim scenarios, exploring solutions for automated damage assessment and fraud detection by coordinating specialist agents for image analysis, textual claim review, and historical pattern matching.",
+        "Migrated critical policyholder data from an on-premise SQL Server to AWS DynamoDB, addressing scalability limits and performance degradation by designing a new NoSQL data model that supported the high-velocity, unstructured data generated by new digital customer touchpoints.",
+        "Configured comprehensive monitoring and logging for AI services using AWS CloudWatch and custom metrics, tackling the black-box nature of model predictions by creating dashboards that tracked input drift, output distributions, and business KPIs tied to model performance.",
+        "Led the debugging of a persistent data pipeline failure in an Apache Airflow DAG that processed daily claims, spending hours analyzing task logs and database locks to identify a race condition, which was fixed by refactoring the task dependencies and introducing idempotent writes.",
+        "Conducted weekly knowledge-sharing sessions on prompt engineering and LLM capabilities with the business analytics team, translating complex technical concepts into practical use cases for enhancing customer communication and generating personalized policy explanations.",
+        "Engineered a data anonymization pipeline for model training that complied with insurance privacy regulations, using PyTorch and custom scripts to synthesize realistic but non-identifiable training data from sensitive claims information stored in AWS S3 and Postgres.",
+        "Collaborated with DevOps to package and deploy LangGraph applications as Docker containers on AWS EKS, solving environment-specific bugs by ensuring parity between local development setups and the production Kubernetes cluster through detailed Dockerfile and Helm chart reviews.",
+        "Prototyped an internal developer tool using Streamlit and FastAPI to allow data scientists to easily test and compare different embedding models for the RAG system, addressing the trial-and-error pain point and accelerating the evaluation cycle for improving search relevance."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "LangChain",
+        "Crew AI",
+        "Flask",
+        "AWS (SageMaker, Lambda, DynamoDB, RDS, ECS, EKS, S3, CloudWatch)",
+        "Docker",
+        "PostgreSQL",
+        "SQL",
+        "n8n",
+        "GitLab",
+        "Vector Databases",
+        "Apache Airflow"
+      ]
+    },
+    {
+      "role": " Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Constructed ETL pipelines with Python and Apache Airflow to ingest and process large-scale public health datasets into AWS Redshift, addressing data silos across different government agencies to create a unified view for pandemic response analytics and reporting.",
+        "Developed a batch inference system using Scikit-Learn models deployed as Flask APIs on AWS EC2, solving the challenge of predicting program eligibility for social services by automating manual screening processes, which accelerated application reviews for citizens in need.",
+        "Managed and optimized PostgreSQL databases on AWS RDS that stored sensitive citizen information, tackling performance issues from complex geospatial queries by implementing indexing strategies and query optimization, improving report generation times for government analysts.",
+        "Built data validation and quality monitoring frameworks to ensure the integrity of unemployment claim data processed through AWS Glue jobs, addressing inaccuracies that caused payment delays by automatically flagging anomalies for human review before final calculations.",
+        "Assisted in the containerization of legacy data applications using Docker to simplify deployment to a new AWS ECS cluster, resolving environment inconsistency problems that previously caused failures when moving from development servers to production.",
+        "Implemented secure data access patterns and encryption for data at rest in AWS S3 buckets, adhering to strict government data sovereignty and privacy regulations by integrating IAM roles and bucket policies that enforced least-privilege access for internal teams.",
+        "Automated routine database maintenance and backup tasks using Python scripts and AWS Lambda functions, solving the problem of missed maintenance windows and manual intervention, which improved system reliability and data recovery preparedness.",
+        "Collaborated on the migration of a monolithic reporting application to a microservices architecture, contributing by building specific FastAPI services for data aggregation, which decomposed the system into more manageable and independently scalable components.",
+        "Participated in daily stand-ups and troubleshooting sessions to resolve data pipeline failures, often spending afternoons digging through CloudWatch logs to identify network timeouts or permission errors in AWS service interactions, ensuring SLA compliance.",
+        "Documented data lineage and pipeline architecture for government audit purposes, creating clear diagrams and runbooks that explained how citizen data flowed through various AWS services, from ingestion to final analytics dashboards.",
+        "Supported senior engineers in performance tuning SQL queries for large-scale demographic analysis, learning to use EXPLAIN ANALYZE and query profiling tools to identify and rectify costly full-table scans in the Postgres databases.",
+        "Integrated various public API data sources into the central data lake on AWS, writing Python connectors that handled rate limiting and schema evolution, which enriched the state's analytics platform with external economic and health indicators."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "AWS (Redshift, RDS, EC2, S3, Lambda, Glue, ECS)",
+        "Apache Airflow",
+        "Flask",
+        "FastAPI",
+        "Docker",
+        "Scikit-Learn"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Engineered Spark Streaming pipelines on Azure Databricks to process real-time credit card transaction data for fraud detection, addressing latency in the legacy batch system to enable near-instantaneous scoring and blocking of suspicious activities, enhancing security.",
+        "Developed and deployed machine learning models for customer churn prediction as Flask APIs on Azure Kubernetes Service, solving the challenge of integrating batch model scores into real-time customer retention workflows used by the call center team.",
+        "Optimized Azure SQL Data Warehouse (now Synapse) tables and queries handling petabytes of transactional data, tackling slow reporting performance by implementing partitioning strategies and materialized views, which accelerated monthly financial closing processes.",
+        "Built a data lake architecture on Azure Data Lake Storage to consolidate disparate financial data sources, addressing the problem of fragmented data silos and creating a single source of truth for analytics that complied with financial regulations and audit requirements.",
+        "Automated the deployment of data pipelines using Azure DevOps YAML pipelines, solving manual release coordination issues by introducing CI/CD for Scala and Python ETL code, which reduced deployment errors and improved team velocity.",
+        "Implemented robust data quality checks and anomaly detection within Azure Data Factory pipelines, addressing the risk of corrupt data propagating to downstream financial reports by automatically quarantining faulty records and alerting data stewards.",
+        "Containerized legacy Java-based data processing applications using Docker for migration to Azure Container Instances, resolving application portability issues and simplifying the lift-and-shift of on-premise workloads to the cloud while maintaining PCI-DSS compliance.",
+        "Designed and populated a feature store for machine learning models using Azure Cosmos DB, solving the problem of inconsistent feature calculation between training and serving by providing a centralized, versioned repository of model inputs for fraud and risk models.",
+        "Participated in rigorous PCI-DSS compliance audits, documenting data flows and access controls for all Azure-based data systems, and implementing additional encryption and tokenization steps to safeguard sensitive cardholder data throughout its lifecycle.",
+        "Mentored a new team member on Azure cloud services and Spark best practices, sharing lessons learned from debugging tricky serialization errors in Spark jobs and optimizing shuffle operations to reduce cloud compute costs and improve pipeline performance."
+      ],
+      "environment": [
+        "Python",
+        "Scala",
+        "Apache Spark",
+        "Azure (Databricks, Data Lake Storage, Kubernetes Service, SQL Data Warehouse, Data Factory, Cosmos DB)",
+        "Flask",
+        "Docker",
+        "SQL",
+        "Java"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Utilized Python and SQL to extract and analyze medical imaging metadata from Oracle and PostgreSQL databases, addressing the need to understand data distributions and quality for training early AI models in digital pathology, which informed subsequent data collection strategies.",
+        "Developed interactive dashboards with Power BI to visualize key operational metrics for healthcare diagnostic workflows, solving visibility gaps for lab managers by providing real-time insights into sample processing times, test volumes, and technician efficiency.",
+        "Cleaned and preprocessed large volumes of unstructured clinical text data using Python's Pandas and regular expressions, tackling inconsistencies in manual data entry to create standardized datasets ready for exploratory analysis and feature engineering for machine learning projects.",
+        "Collaborated with data scientists to perform statistical analysis and A/B testing on different versions of AI-assisted diagnostic tools, helping to validate model performance by analyzing sensitivity, specificity, and other clinical metrics against ground-truth pathologist reviews.",
+        "Assisted in building foundational data pipelines to move processed analytics results from MySQL databases into reporting layers, learning the importance of data integrity and scheduling while working with cron jobs and simple Python ETL scripts.",
+        "Documented data dictionaries and analysis methodologies for internal knowledge sharing, creating resources that helped new team members quickly understand the complex healthcare data domain and the regulatory context of working with patient information.",
+        "Participated in team meetings to present data findings and insights to both technical and non-technical stakeholders, translating complex analytical results into actionable recommendations for improving the AI product's performance and user experience.",
+        "Supported debugging efforts when dashboards showed discrepancies, tracing numbers back through SQL queries and source systems to identify errors in join logic or filter conditions, ensuring accurate reporting for critical healthcare analytics."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "Oracle",
+        "Power BI",
+        "Pandas"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

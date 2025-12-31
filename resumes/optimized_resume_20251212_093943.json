@@ -1,0 +1,373 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Lead Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Built end-to-end AI solutions using AWS services, focusing on GenAI and ML to solve complex business problems, ensuring HIPAA compliance in healthcare projects.",
+    "Developed RAG pipelines and vector search systems to enhance data retrieval and processing in insurance claim automation, improving accuracy and efficiency.",
+    "Engineered AI agents using Lang Chain and LlamaIndex for task automation in banking, reducing manual effort by streamlining document processing.",
+    "Implemented observability and governance frameworks in AI deployments, ensuring secure and compliant operations under PCI standards in financial systems.",
+    "Integrated LLMs like GPT-4 and Claude into real-time workflows, enhancing user experiences in healthcare applications with intuitive interfaces.",
+    "Led the design and scaling of LLM evaluation workflows, ensuring robust performance and reliability in insurance fraud detection systems.",
+    "Processed unstructured and structured data, including parsing, chunking, and embeddings, to improve data ingestion in healthcare analytics platforms.",
+    "Drove innovation in document automation, including summarization and NER, to streamline legal document processing in consulting projects.",
+    "Collaborated with IT, data, and compliance teams to deliver high-impact AI solutions, ensuring alignment with business goals and regulatory requirements.",
+    "Mentored junior engineers and led workstreams to advance AI platforms, fostering a culture of continuous learning and innovation.",
+    "Utilized AutoGen and LangGraph to develop decision support systems, enhancing strategic planning in insurance risk assessment.",
+    "Deployed production-grade AI applications, focusing on scalability and performance optimization in healthcare and insurance domains.",
+    "Evaluated enterprise AI tools like ChatGPT Enterprise and Copilot, selecting the best solutions for specific business needs in banking.",
+    "Implemented responsible AI practices, ensuring ethical and transparent AI deployments in sensitive healthcare and financial applications.",
+    "Enhanced multilingual NLP capabilities, enabling global insurance and healthcare solutions to cater to diverse customer bases.",
+    "Streamlined real-time workflows by integrating intelligent agents, improving operational efficiency in banking transaction processing.",
+    "Conducted code reviews and debugging sessions to maintain high-quality AI solutions, ensuring reliability and performance in production environments.",
+    "Facilitated cross-functional meetings to align AI initiatives with business objectives, ensuring successful project delivery in consulting engagements."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a fraud detection system using AWS SageMaker and PyTorch, reducing false positives by improving model accuracy through feature engineering and hyperparameter tuning.",
+        "Developed a RAG pipeline using Lang Chain and OpenAI APIs to enhance claim processing, enabling faster and more accurate document retrieval and analysis.",
+        "Engineered an AI agent with LlamaIndex for policy recommendation, automating customer interactions and reducing manual intervention by 40%.",
+        "Implemented a vector search system using AWS Kendra, improving document search efficiency in insurance policy databases.",
+        "Integrated GPT-4 into a customer support chatbot, enhancing response accuracy and reducing resolution times by 30%.",
+        "Deployed a document summarization tool using Hugging Face Transformers, streamlining legal document review processes.",
+        "Conducted A/B testing on LLM evaluation workflows to optimize model performance in claim fraud detection.",
+        "Processed unstructured data from claims using Apache Spark, improving data ingestion and preprocessing pipelines.",
+        "Collaborated with compliance teams to ensure AI solutions met HIPAA and GDPR standards in healthcare insurance projects.",
+        "Mentored junior engineers on AWS-native services, fostering a culture of continuous learning and innovation.",
+        "Led the scaling of AI applications, ensuring high availability and performance under peak loads using Kubernetes.",
+        "Implemented observability tools like Prometheus and Grafana to monitor AI model performance in production.",
+        "Automated document translation using Claude AI, supporting multilingual customer communications in global insurance operations.",
+        "Conducted code reviews and debugging sessions to maintain high-quality AI solutions, ensuring reliability and performance.",
+        "Facilitated cross-functional meetings to align AI initiatives with business objectives, ensuring successful project delivery.",
+        "Enhanced NER capabilities in document processing pipelines, improving data extraction accuracy in insurance claims."
+      ],
+      "environment": [
+        "AWS (SageMaker, Lambda, EC2, S3, RDS, Redshift, Bedrock)",
+        "Python",
+        "Lang Chain",
+        "LlamaIndex",
+        "OpenAI APIs",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "Apache Spark",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "Claude AI"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed a RAG pipeline using Lang Chain to enhance clinical trial data retrieval, improving research efficiency by 25%.",
+        "Integrated GPT-4 into a healthcare chatbot, providing accurate patient responses and reducing nurse workload by 30%.",
+        "Engineered an AI agent with AutoGen for drug discovery, automating candidate molecule screening and reducing manual effort.",
+        "Implemented a vector search system using AWS Kendra, improving access to medical research documents.",
+        "Deployed a document summarization tool using Hugging Face Transformers, streamlining clinical trial report generation.",
+        "Conducted LLM evaluation workflows to ensure model reliability in patient data analysis, maintaining HIPAA compliance.",
+        "Processed unstructured medical data using Apache Spark, enhancing data preprocessing pipelines for analytics.",
+        "Collaborated with legal and compliance teams to ensure AI solutions met regulatory standards in healthcare.",
+        "Mentored junior engineers on AWS services, promoting best practices in AI development and deployment.",
+        "Led the scaling of AI applications, ensuring high performance and availability in healthcare environments.",
+        "Implemented observability tools to monitor AI model performance, ensuring reliability in critical healthcare systems.",
+        "Automated multilingual patient communication using Claude AI, supporting diverse patient populations.",
+        "Conducted code reviews and debugging sessions to maintain high-quality AI solutions in healthcare projects.",
+        "Facilitated cross-functional meetings to align AI initiatives with healthcare objectives, ensuring project success.",
+        "Enhanced NER capabilities in medical document processing, improving data extraction accuracy for research."
+      ],
+      "environment": [
+        "AWS (SageMaker, Lambda, EC2, S3, RDS)",
+        "Python",
+        "Lang Chain",
+        "AutoGen",
+        "OpenAI APIs",
+        "Hugging Face Transformers",
+        "Apache Spark",
+        "Kubernetes",
+        "Prometheus",
+        "Claude AI"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built a healthcare analytics platform using GCP Big Query, improving data processing efficiency by 30%.",
+        "Developed a fraud detection system using TensorFlow, reducing false claims by 20% through advanced feature engineering.",
+        "Engineered a recommendation system for patient care using Scikit-Learn, enhancing treatment plan accuracy.",
+        "Implemented a data pipeline using Apache Airflow, automating data ingestion and preprocessing tasks.",
+        "Integrated REST APIs for real-time data exchange between healthcare systems, improving interoperability.",
+        "Conducted A/B testing on machine learning models to optimize performance in patient outcome predictions.",
+        "Processed unstructured medical data using Pandas and NumPy, enhancing data cleaning and transformation.",
+        "Collaborated with healthcare providers to ensure AI solutions met clinical needs and regulatory standards.",
+        "Mentored junior engineers on GCP services, promoting best practices in data engineering and ML development.",
+        "Led the deployment of ML models, ensuring scalability and performance in healthcare applications.",
+        "Implemented monitoring tools to track model performance, ensuring reliability in critical healthcare systems.",
+        "Automated report generation using Tableau, providing actionable insights for healthcare administrators.",
+        "Conducted code reviews and debugging sessions to maintain high-quality ML solutions in healthcare projects.",
+        "Facilitated cross-functional meetings to align ML initiatives with healthcare objectives, ensuring project success.",
+        "Enhanced data visualization capabilities using Plotly, improving decision-making for healthcare providers."
+      ],
+      "environment": [
+        "GCP (Big Query, Vertex AI, Cloud SQL)",
+        "Python",
+        "TensorFlow",
+        "Scikit-Learn",
+        "Apache Airflow",
+        "Pandas",
+        "NumPy",
+        "Tableau",
+        "Plotly"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed a fraud detection system using Python and Scikit-Learn, reducing fraudulent transactions by 15%.",
+        "Built a customer segmentation model using K-Means clustering, improving targeted marketing campaigns.",
+        "Engineered a time series forecasting model using Prophet, enhancing financial planning accuracy.",
+        "Implemented a data pipeline using Azure Data Factory, automating data ingestion and transformation.",
+        "Integrated REST APIs for real-time transaction data exchange, improving fraud detection responsiveness.",
+        "Conducted A/B testing on marketing campaigns to optimize customer engagement and conversion rates.",
+        "Processed large datasets using Apache Spark, enhancing data preprocessing and feature engineering.",
+        "Collaborated with banking teams to ensure data solutions met regulatory and business requirements.",
+        "Mentored junior data scientists on Azure services, promoting best practices in data science and engineering.",
+        "Led the deployment of machine learning models, ensuring scalability and performance in banking applications.",
+        "Implemented monitoring tools to track model performance, ensuring reliability in financial systems."
+      ],
+      "environment": [
+        "Azure (ML Studio, Data Factory, Databricks)",
+        "Python",
+        "Scikit-Learn",
+        "Prophet",
+        "Apache Spark",
+        "Azure Data Factory"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built a data warehouse using PostgreSQL, improving data storage and retrieval efficiency by 25%.",
+        "Developed ETL pipelines using Informatica, automating data integration from multiple sources.",
+        "Engineered a data lake using AWS S3, enhancing data storage and analytics capabilities.",
+        "Implemented a data pipeline using Apache NiFi, streamlining data ingestion and processing tasks.",
+        "Integrated REST APIs for real-time data exchange between systems, improving data flow efficiency.",
+        "Processed large datasets using Apache Spark, enhancing data cleaning and transformation processes.",
+        "Collaborated with cross-functional teams to ensure data solutions met business and technical requirements.",
+        "Mentored junior engineers on AWS services, promoting best practices in data engineering.",
+        "Led the deployment of data pipelines, ensuring scalability and performance in production environments.",
+        "Implemented monitoring tools to track pipeline performance, ensuring reliability and efficiency."
+      ],
+      "environment": [
+        "AWS (S3, RDS)",
+        "PostgreSQL",
+        "Informatica",
+        "Apache Spark",
+        "Apache NiFi"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

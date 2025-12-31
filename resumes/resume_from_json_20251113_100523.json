@@ -1,0 +1,281 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - GenAI & RAG Systems Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of experience in AI/ML engineering, specializing in building scalable GenAI workflows and RAG-enabled knowledge systems for enterprise insurance, healthcare, and financial domains.",
+    "Designed and deployed Python-based AI/ML pipelines using TensorFlow and PyTorch for insurance risk assessment models, implementing async programming patterns to handle high-volume real-time data processing.",
+    "Architected RAG pipelines with vector databases and Neo4j knowledge graphs for insurance policy documentation, reducing claim processing time while maintaining regulatory compliance.",
+    "Implemented LangChain and LlamaIndex frameworks to create multi-agent systems for healthcare data analysis, ensuring HIPAA compliance through encrypted data retrieval and processing.",
+    "Developed scalable FastAPI and Flask microservices for GenAI applications, integrating AWS Bedrock and SageMaker for model deployment in cloud-native insurance environments.",
+    "Built automated CI/CD pipelines with Docker and Kubernetes for AI/ML model deployment, establishing comprehensive testing frameworks to ensure model reliability in production.",
+    "Optimized prompt engineering strategies for insurance chatbots using LangGraph, significantly improving response accuracy and customer satisfaction metrics.",
+    "Created reusable Python architecture patterns for AI/ML pipelines, incorporating software quality engineering practices to maintain codebase integrity across insurance projects.",
+    "Designed agent-based architectures with Crew AI for autonomous insurance claim processing, implementing monitoring with Prometheus to track system performance.",
+    "Implemented vector database solutions with FAISS embeddings for insurance document retrieval, enhancing RAG pipeline efficiency while reducing computational costs.",
+    "Developed comprehensive testing frameworks using Playwright for automated validation of GenAI applications in healthcare settings, ensuring regulatory compliance.",
+    "Built knowledge graph systems with Neo4j for healthcare data relationships, enabling complex query capabilities for medical research and patient care optimization.",
+    "Orchestrated multi-agent workflows using LangGraph for banking compliance monitoring, implementing real-time alerting systems for regulatory requirement violations.",
+    "Designed and fine-tuned LLM models for insurance underwriting applications, incorporating domain-specific knowledge to improve risk assessment accuracy.",
+    "Implemented AWS-based deployment strategies for AI/ML pipelines, utilizing EC2, Lambda, and S3 for scalable model serving in healthcare applications.",
+    "Developed performance optimization techniques for RAG pipelines, reducing latency in insurance document retrieval systems through efficient embedding strategies.",
+    "Created automated software quality frameworks for AI/ML codebases, implementing comprehensive testing protocols to ensure model reliability in production.",
+    "Built scalable RESTful APIs for GenAI applications in banking, integrating with existing financial systems while maintaining PCI compliance standards."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "Async Programming",
+      "RESTful API Development"
+    ],
+    "AI/ML & Deep Learning": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Model Training",
+      "Fine-tuning",
+      "Neural Networks"
+    ],
+    "GenAI & RAG Systems": [
+      "LangChain",
+      "LlamaIndex",
+      "LangGraph",
+      "RAG Pipelines",
+      "Vector Databases",
+      "Embeddings",
+      "Prompt Engineering"
+    ],
+    "Knowledge Graphs & Databases": [
+      "Neo4j",
+      "Graph Databases",
+      "Knowledge Systems",
+      "Vector Optimization",
+      "FAISS"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Cloud Deployment",
+      "SageMaker",
+      "Bedrock"
+    ],
+    "Software Architecture": [
+      "Scalable Python Architecture",
+      "Microservices",
+      "Reusable Systems",
+      "High-performance Design"
+    ],
+    "Quality Engineering": [
+      "Software Quality Frameworks",
+      "Automation",
+      "Testing",
+      "Debugging",
+      "Performance Optimization"
+    ],
+    "Agent Systems": [
+      "Agent-based Architectures",
+      "Multi-agent Orchestration",
+      "Crew AI",
+      "Autonomous Workflows"
+    ],
+    "Data Processing": [
+      "Data Preprocessing",
+      "ETL Pipelines",
+      "Real-time Processing",
+      "Data Integration"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "Performance Monitoring",
+      "System Health Tracking"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using LangGraph and Crew AI to address complex insurance claim processing delays by implementing multi-agent systems that autonomously handled document verification and fraud detection.",
+        "Architected RAG pipelines with Neo4j knowledge graphs for insurance policy management, integrating vector databases to enable semantic search across millions of policy documents.",
+        "Implemented Python-based async programming patterns with FastAPI to handle real-time insurance data processing, reducing API response times for customer-facing applications.",
+        "Designed and deployed scalable AI/ML pipelines using TensorFlow on AWS SageMaker, automating model retraining for insurance risk assessment with continuous integration.",
+        "Developed comprehensive prompt engineering strategies for insurance chatbots using LangChain, significantly improving accuracy in handling complex customer queries.",
+        "Built agent-based architectures with multi-agent coordination for insurance underwriting, implementing monitoring with Prometheus to track system performance metrics.",
+        "Created reusable Python architecture for GenAI workflows, establishing software quality frameworks that ensured reliable deployment across insurance applications.",
+        "Optimized RAG pipeline performance by implementing FAISS vector indexing, reducing retrieval latency for insurance document search while maintaining accuracy.",
+        "Implemented Docker containerization for AI/ML model deployment, orchestrating with Kubernetes to ensure scalable serving of insurance prediction models.",
+        "Designed knowledge graph systems with Neo4j to model insurance risk relationships, enabling complex query capabilities for underwriter decision support.",
+        "Developed automated testing frameworks using Playwright for GenAI application validation, ensuring regulatory compliance in insurance claim processing.",
+        "Built RESTful API integrations for insurance data systems, implementing async processing to handle high-volume policy information requests efficiently.",
+        "Created performance optimization strategies for TensorFlow models in insurance applications, reducing inference times while maintaining prediction accuracy.",
+        "Implemented CI/CD pipelines for AI/ML workflow deployment, establishing automated quality gates that ensured model reliability in production environments.",
+        "Designed scalable vector database architectures for insurance document retrieval, optimizing embedding strategies to improve RAG system efficiency.",
+        "Developed monitoring solutions with Grafana for AI/ML pipeline observability, enabling real-time performance tracking and proactive issue detection."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "TensorFlow",
+        "LangChain",
+        "LlamaIndex",
+        "LangGraph",
+        "Neo4j",
+        "RAG Pipelines",
+        "Vector Databases",
+        "AWS SageMaker",
+        "Docker",
+        "Kubernetes",
+        "Crew AI",
+        "Multi-agent Systems",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using PyTorch and LangChain to develop healthcare GenAI applications for medical research data analysis, ensuring HIPAA compliance through encrypted data processing.",
+        "Implemented RAG pipelines with vector databases for healthcare documentation retrieval, creating semantic search capabilities across clinical trial documents.",
+        "Designed scalable Python architecture with FastAPI for healthcare AI applications, implementing async programming to handle real-time patient data processing.",
+        "Built knowledge graph systems with Neo4j for medical research relationships, enabling complex query capabilities for drug discovery applications.",
+        "Developed TensorFlow-based AI/ML pipelines for healthcare predictive modeling, automating model training and deployment with AWS SageMaker.",
+        "Created prompt engineering optimization strategies for medical chatbot applications using LangChain, improving accuracy in handling clinical terminology.",
+        "Implemented Docker containerization for healthcare AI applications, orchestrating deployment with Kubernetes to ensure scalable model serving.",
+        "Designed agent-based architectures with Crew AI for autonomous healthcare data analysis, implementing monitoring for system performance tracking.",
+        "Built comprehensive testing frameworks for GenAI applications in healthcare, ensuring regulatory compliance through automated validation protocols.",
+        "Optimized RAG pipeline performance for medical document retrieval, implementing vector database strategies that reduced search latency.",
+        "Developed RESTful API integrations for healthcare data systems, ensuring secure data transmission while maintaining HIPAA compliance standards.",
+        "Created software quality engineering frameworks for AI/ML codebases, establishing automated testing that ensured model reliability in clinical environments.",
+        "Implemented performance monitoring with Prometheus for healthcare AI applications, enabling real-time tracking of system health and model accuracy.",
+        "Designed scalable microservices architecture for GenAI workflows, implementing reusable components that accelerated healthcare application development."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "FastAPI",
+        "LangChain",
+        "LlamaIndex",
+        "Neo4j",
+        "RAG Pipelines",
+        "Vector Databases",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "HIPAA Compliance",
+        "Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Scikit-learn and TensorFlow to develop healthcare prediction models for public health monitoring, implementing data preprocessing pipelines for patient data analysis.",
+        "Implemented Python-based RESTful APIs with Flask for healthcare data access, ensuring HIPAA compliance through secure data transmission protocols.",
+        "Designed AI/ML pipelines for healthcare analytics, creating scalable architecture that handled real-time public health data processing requirements.",
+        "Built vector database solutions for healthcare document retrieval, implementing RAG pipelines that enabled efficient search across medical records.",
+        "Developed containerized deployment strategies with Docker for healthcare applications, ensuring consistent environment configuration across development stages.",
+        "Created prompt engineering approaches for healthcare chatbot applications, improving accuracy in handling patient inquiries and medical terminology.",
+        "Implemented performance optimization techniques for ML models in healthcare applications, reducing inference times while maintaining prediction accuracy.",
+        "Designed testing frameworks for healthcare AI applications, establishing automated validation that ensured regulatory compliance and system reliability.",
+        "Built knowledge graph systems for public health data relationships, enabling complex analysis of disease patterns and treatment outcomes.",
+        "Developed monitoring solutions for healthcare ML pipelines, implementing performance tracking that enabled proactive system maintenance.",
+        "Created scalable Python architecture for healthcare applications, implementing reusable components that accelerated development of new features.",
+        "Optimized data preprocessing pipelines for healthcare analytics, improving efficiency in handling large volumes of patient data while maintaining privacy."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "Scikit-learn",
+        "Flask",
+        "RESTful APIs",
+        "Azure ML",
+        "Docker",
+        "Healthcare Analytics",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and Scikit-learn to develop fraud detection models for banking transactions, implementing machine learning pipelines that analyzed real-time financial data.",
+        "Built RESTful APIs with Flask for banking data access, ensuring PCI compliance through secure authentication and data transmission protocols.",
+        "Designed data preprocessing pipelines for financial analytics, creating scalable architecture that handled high-volume transaction processing.",
+        "Implemented vector database solutions for financial document retrieval, enabling efficient search across banking regulations and compliance documents.",
+        "Developed containerized deployment with Docker for banking applications, ensuring consistent environment configuration across development and production.",
+        "Created performance optimization strategies for ML models in banking applications, reducing inference times for real-time fraud detection.",
+        "Built testing frameworks for financial AI applications, establishing automated validation that ensured regulatory compliance and system reliability.",
+        "Designed monitoring solutions for banking ML pipelines, implementing performance tracking that enabled proactive detection of anomalies.",
+        "Developed scalable Python architecture for financial applications, implementing reusable components that accelerated development of new features.",
+        "Optimized data processing pipelines for banking analytics, improving efficiency in handling large volumes of transaction data while maintaining security."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "Flask",
+        "RESTful APIs",
+        "Azure Data Factory",
+        "Docker",
+        "Banking Regulations",
+        "PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "responsibilities": [
+        "Using Hadoop and Informatica to build data processing pipelines for consulting clients, implementing ETL workflows that handled large-scale data integration.",
+        "Developed data preprocessing strategies with Sqoop for database migration projects, creating efficient data transfer protocols between heterogeneous systems.",
+        "Built data quality frameworks for consulting engagements, establishing validation protocols that ensured data integrity across client projects.",
+        "Implemented data integration solutions with Informatica, creating reusable components that accelerated ETL development for multiple consulting clients.",
+        "Designed data architecture patterns for enterprise systems, establishing scalable approaches that handled growing data volumes and complexity.",
+        "Created performance optimization techniques for Hadoop clusters, improving processing efficiency for large-scale data analytics projects.",
+        "Developed testing frameworks for data pipelines, implementing automated validation that ensured data quality and system reliability.",
+        "Built monitoring solutions for data processing workflows, establishing performance tracking that enabled proactive maintenance and optimization."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Processing",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

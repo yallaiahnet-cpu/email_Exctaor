@@ -1,0 +1,305 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Data Scientist - Financial Analytics & ML Engineering",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 6 years of experience designing predictive models and scalable data pipelines across Insurance, Technology, Transportation, and Banking domains with strong problem-solving skills and ability to communicate technical concepts clearly",
+    "Python and Pandas resolved complex data transformation challenges by building ETL workflows that processed financial datasets while NumPy accelerated numerical computations for risk assessment models in production environments",
+    "PostgreSQL optimized query performance through indexing strategies and SQLAlchemy simplified database interactions while PyTest validated data pipeline accuracy ensuring reliable outputs for downstream analytics teams",
+    "CI/CD pipelines automated model deployments using GitLab CI and Jenkins reducing release cycles while Airflow orchestrated batch processing jobs and Docker containerized applications for consistent runtime environments across development stages",
+    "Spark processed distributed datasets exceeding petabyte scale and Kafka streamed real-time transaction events while AWS services hosted machine learning solutions with SageMaker managing model lifecycle from training to inference endpoints",
+    "Feature engineering transformed raw financial data into meaningful predictors improving model accuracy while SQL query optimization reduced database latency and model deployment frameworks like MLflow tracked experiment metrics across multiple iterations",
+    "Data modeling structured schema designs for analytical workloads and distributed computing frameworks like PySpark handled big data processing while Kubernetes orchestrated containerized services ensuring high availability for critical applications",
+    "Monitoring tools including Prometheus and Grafana tracked pipeline health metrics while security protocols implemented data masking techniques and GDPR compliance measures protected sensitive customer information in BFSI regulated environments",
+    "GCP Vertex AI accelerated machine learning workflows and container orchestration with Kubernetes scaled microservices while data privacy regulations including PCI-DSS guided secure handling of payment card information across systems",
+    "Collaborated with data engineers to debug complex pipeline failures during late-night troubleshooting sessions while code reviews with ML engineers identified performance bottlenecks and team meetings aligned technical roadmaps with product priorities",
+    "Tableau visualizations communicated insights to stakeholders and Power BI dashboards enabled self-service analytics while Azure cloud infrastructure supported enterprise-scale solutions with reliable uptime for financial analytics platforms",
+    "Prefect managed workflow orchestration for scheduled jobs and distributed computing accelerated batch processing while feature stores centralized reusable transformations reducing redundant preprocessing across multiple model training experiments",
+    "Adaptability to evolving tools kept pace with emerging technologies and cross-functional collaboration integrated feedback from product managers while mundane debugging tasks consumed hours but uncovered critical edge cases improving system reliability",
+    "Container orchestration patterns standardized deployment procedures and monitoring frameworks alerted teams to anomalies while schema design decisions balanced normalization with query performance for analytics workloads in high-transaction environments"
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "R",
+      "Java"
+    ],
+    "Data Processing & Analysis": [
+      "Pandas",
+      "NumPy",
+      "PySpark",
+      "Dask",
+      "Polars"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Snowflake",
+      "BigQuery"
+    ],
+    "ORM & Database Tools": [
+      "SQLAlchemy",
+      "Alembic",
+      "Psycopg2",
+      "SQL query optimization",
+      "Indexing strategies"
+    ],
+    "Machine Learning & AI": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost",
+      "Feature Engineering",
+      "Model Deployment",
+      "MLflow",
+      "Hyperparameter tuning"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "AWS SageMaker",
+      "GCP Vertex AI",
+      "S3",
+      "Lambda",
+      "EC2"
+    ],
+    "Data Pipeline & Orchestration": [
+      "Airflow",
+      "Prefect",
+      "Apache Spark",
+      "Kafka",
+      "Databricks",
+      "Data Modeling",
+      "Schema Design"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "GitLab CI",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Ansible"
+    ],
+    "Testing & Quality": [
+      "PyTest",
+      "Unit testing",
+      "Integration testing",
+      "Data validation",
+      "Great Expectations"
+    ],
+    "Monitoring & Logging": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "CloudWatch",
+      "Datadog"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly"
+    ],
+    "Security & Compliance": [
+      "Data masking",
+      "GDPR",
+      "PCI-DSS",
+      "Encryption",
+      "Access control"
+    ],
+    "Distributed Computing": [
+      "PySpark",
+      "Hadoop",
+      "Distributed systems",
+      "Parallel processing"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Developer",
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas",
+      "responsibilities": [
+        "Analyzed insurance policy data requirements and Python scripts extracted customer risk profiles from PostgreSQL databases while Pandas cleaned inconsistent records ensuring accurate inputs for downstream predictive modeling workflows",
+        "Designed scalable data pipelines using Airflow to orchestrate ETL jobs processing policyholder information while NumPy handled actuarial calculations and SQLAlchemy mapped object models to relational schemas simplifying database transactions",
+        "Built predictive models for insurance claim forecasting using Scikit-learn and feature engineering techniques transformed raw data into meaningful predictors while PyTest validated model outputs catching edge cases during code review sessions",
+        "Deployed containerized applications with Docker packaging ML services and AWS SageMaker hosted inference endpoints while CI/CD pipelines automated model retraining through GitLab CI reducing manual intervention for version updates",
+        "Configured Kafka streams to ingest real-time policy updates and Spark processed large-scale datasets exceeding terabytes while distributed computing frameworks handled parallel batch jobs improving throughput for insurance analytics platforms",
+        "Monitored pipeline health using Prometheus metrics and Grafana dashboards visualized system performance while debugging sessions identified memory leaks in data processing scripts that caused intermittent failures during peak transaction periods",
+        "Implemented data masking techniques to protect personally identifiable information and GDPR compliance measures governed data retention policies while security protocols restricted database access ensuring regulatory adherence in insurance operations",
+        "Collaborated with data engineers during troubleshooting meetings resolving PostgreSQL indexing issues that slowed query performance while SQL query optimization reduced response times enabling faster generation of actuarial reports for stakeholders",
+        "Integrated GCP Vertex AI for model experimentation and Kubernetes orchestrated containerized services while MLflow tracked experiment parameters across multiple training runs facilitating reproducibility for insurance risk assessment models",
+        "Automated testing workflows with PyTest covering unit and integration scenarios while code reviews with team members identified refactoring opportunities and mundane debugging tasks uncovered subtle bugs in data validation logic",
+        "Streamlined data modeling practices for insurance schema design and Prefect managed workflow dependencies while Power BI dashboards enabled business users to explore policy trends without technical assistance from engineering teams",
+        "Enhanced model deployment procedures using AWS Lambda for serverless inference and schema design decisions balanced query performance with data normalization while monitoring frameworks alerted teams to pipeline anomalies requiring immediate attention",
+        "Coordinated with product managers aligning technical roadmaps with business objectives and Tableau visualizations communicated insights to leadership while adaptability to new tools kept pace with evolving insurance analytics requirements",
+        "Secured sensitive customer data through encryption and PCI-DSS protocols guided handling of payment information while container orchestration patterns standardized deployments across environments ensuring consistency for insurance application infrastructure"
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "PyTest",
+        "GitLab CI",
+        "Airflow",
+        "Docker",
+        "Spark",
+        "Kafka",
+        "AWS",
+        "AWS SageMaker",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "MLflow",
+        "GCP Vertex AI",
+        "Prefect",
+        "Tableau",
+        "Power BI",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "role": "LLM Developer",
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Engineered language model pipelines using Python and Pandas preprocessed training datasets while NumPy accelerated matrix operations during model fine-tuning experiments improving inference latency for production NLP applications",
+        "Constructed data workflows with Airflow orchestrating batch jobs and PostgreSQL stored model metadata while SQLAlchemy simplified database interactions and PyTest validated pipeline logic ensuring reliable outputs for downstream systems",
+        "Delivered containerized deployments using Docker packaging LLM services and Jenkins automated CI/CD workflows while Spark processed distributed datasets and Kafka streamed real-time user queries to model inference endpoints",
+        "Optimized SQL queries reducing database latency and feature engineering transformed text data into vector embeddings while AWS hosted infrastructure with SageMaker managing model lifecycle from experimentation to production deployment",
+        "Debugged model performance issues during team meetings and code reviews identified optimization opportunities while monitoring tools including Prometheus tracked latency metrics and Grafana dashboards visualized system health indicators",
+        "Facilitated cross-functional collaboration with ML engineers discussing architecture decisions and data modeling structured schema designs for analytical workloads while distributed computing frameworks like PySpark handled large-scale text processing tasks",
+        "Configured Kubernetes orchestrating containerized microservices and MLflow tracked experiment parameters while security protocols implemented data masking techniques protecting user privacy in compliance with GDPR regulations",
+        "Applied GCP Vertex AI for model training and Prefect managed workflow dependencies while Tableau visualizations communicated model performance metrics to stakeholders enabling data-driven decisions for feature prioritization",
+        "Troubleshot pipeline failures during late-night debugging sessions and mundane tasks like log analysis uncovered root causes while container orchestration patterns standardized deployment procedures across development and staging environments",
+        "Established monitoring frameworks alerting teams to anomalies and schema design decisions balanced normalization with query performance while adaptability to evolving technologies kept pace with advancements in natural language processing methodologies"
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "PyTest",
+        "Jenkins",
+        "Airflow",
+        "Docker",
+        "Spark",
+        "Kafka",
+        "AWS",
+        "AWS SageMaker",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "MLflow",
+        "GCP Vertex AI",
+        "Prefect",
+        "Tableau",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Bangalore, India",
+      "responsibilities": [
+        "Developed predictive models for ride demand forecasting using Python and Pandas processed transportation datasets while NumPy performed numerical computations and PyTest validated model accuracy ensuring reliable predictions",
+        "Created data pipelines with Airflow orchestrating ETL workflows and PostgreSQL stored ride metrics while SQLAlchemy mapped database schemas and Docker containerized ML services for consistent deployment across environments",
+        "Executed CI/CD automation through GitHub Actions and Spark handled distributed data processing while Kafka ingested real-time ride events and GCP hosted cloud infrastructure supporting transportation analytics platforms",
+        "Tuned SQL queries improving database performance and feature engineering extracted temporal patterns from ride data while model deployment frameworks like MLflow tracked experiments and monitoring tools alerted teams to issues",
+        "Assisted data engineers troubleshooting pipeline bottlenecks and Kubernetes orchestrated containerized applications while data modeling structured schemas for ride analytics and distributed computing accelerated batch processing workloads",
+        "Supported security implementations with data masking techniques and GDPR compliance governed data handling while Prometheus monitored system health and Grafana visualized operational metrics for transportation infrastructure",
+        "Coordinated with product teams aligning model requirements and Tableau dashboards communicated insights to stakeholders while mundane debugging consumed hours but improved system reliability for ride allocation algorithms",
+        "Utilized GCP services for cloud infrastructure and Prefect managed workflow dependencies while schema design balanced query efficiency with data integrity and container orchestration standardized deployments for transportation applications"
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "PyTest",
+        "GitHub Actions",
+        "Airflow",
+        "Docker",
+        "Spark",
+        "Kafka",
+        "GCP",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "MLflow",
+        "Prefect",
+        "Tableau",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Assembled data pipelines using Python and Pandas transformed banking transaction records while NumPy handled financial calculations and Azure hosted cloud infrastructure supporting enterprise-scale analytics platforms",
+        "Produced ETL workflows with Airflow orchestrating scheduled jobs and PostgreSQL stored customer data while SQLAlchemy simplified database operations and PyTest validated pipeline correctness for banking applications",
+        "Integrated Docker containers packaging data services and Jenkins automated deployment workflows while Spark processed large transaction datasets and monitoring tools tracked system performance metrics",
+        "Obtained query optimization results reducing database latency and feature engineering transformed raw banking data while security protocols implemented data masking protecting customer information in compliance with PCI-DSS regulations",
+        "Partnered with data teams debugging pipeline failures and Kubernetes orchestrated Azure services while schema design structured relational databases for financial analytics and distributed computing handled parallel processing tasks",
+        "Secured sensitive banking data through encryption and monitoring frameworks alerted teams to anomalies while mundane tasks like log reviews identified system bottlenecks improving reliability for transaction processing systems"
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "PyTest",
+        "Jenkins",
+        "Airflow",
+        "Docker",
+        "Spark",
+        "Azure",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

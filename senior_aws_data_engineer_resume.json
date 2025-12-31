@@ -1,0 +1,200 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AWS Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Data Engineering with deep expertise in AWS cloud services, PySpark optimization, and building scalable data pipelines for enterprise applications across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Using PySpark and AWS EMR to address large-scale insurance data processing challenges, I architected distributed Spark jobs that processed terabytes of claims data while eliminating wide shuffles through strategic repartitioning and broadcast join optimizations.",
+    "Implementing AWS Glue Spark jobs with optimized DPU configurations and worker type selections, I reduced job execution times significantly while maintaining cost efficiency for healthcare HIPAA-compliant data transformation pipelines.",
+    "Leveraging Spark Catalyst optimizer and Tungsten engine capabilities, I tuned complex insurance analytics queries by analyzing DAG structures and explain plans, achieving substantial performance improvements in production workloads.",
+    "Designing Spark Structured Streaming pipelines with Kinesis Data Streams integration, I built real-time insurance claim processing systems with proper watermarking and checkpointing strategies for fault-tolerant data ingestion and processing.",
+    "Using AWS S3 and Lake Formation for data lake architecture, I implemented partitioned storage strategies with Parquet compression and predicate pushdown optimizations that enabled efficient querying for healthcare analytics applications.",
+    "Implementing broadcast hash joins and sort-merge join strategies in PySpark, I optimized join operations for insurance data warehouse workloads, reducing shuffle overhead and improving overall job performance significantly across multiple projects.",
+    "Building AWS Redshift data warehouse solutions with proper distribution and sort key strategies, I designed dimensional models that supported complex insurance analytics queries while ensuring regulatory compliance requirements and data governance.",
+    "Using Terraform for infrastructure as code deployment, I provisioned complete AWS data platforms including EMR clusters, Glue jobs, and S3 buckets with consistent configurations across development and production environments and improved deployment reliability.",
+    "Implementing Apache Airflow and MWAA for workflow orchestration, I created complex DAGs that managed multi-stage ETL pipelines for healthcare data processing while ensuring proper dependency management and error handling mechanisms.",
+    "Designing Kinesis Firehose pipelines for streaming data ingestion, I built automated data delivery systems that transformed and loaded insurance transaction data into S3 data lakes with minimal latency and high reliability for real-time analytics.",
+    "Using Spark AQE (Adaptive Query Execution) features, I enabled dynamic partition coalescing and join strategy selection that automatically optimized query execution plans based on runtime statistics from insurance workloads and improved efficiency.",
+    "Implementing Delta Lake and Apache Iceberg table formats on S3, I created ACID-compliant data lakes that supported time travel queries and schema evolution for healthcare data governance requirements and audit compliance needs effectively.",
+    "Building AWS Step Functions for complex workflow orchestration, I designed state machines that coordinated multiple Glue jobs and Lambda functions for insurance data processing pipelines with proper error recovery mechanisms and retry logic.",
+    "Using CloudWatch and X-Ray for monitoring and observability, I implemented comprehensive logging and tracing solutions that provided visibility into Spark job performance and helped identify bottlenecks in production systems effectively.",
+    "Implementing IAM roles and KMS encryption for data security, I ensured HIPAA and PCI compliance across all AWS data services while maintaining proper access controls and audit trails for regulatory reporting requirements and compliance audits.",
+    "Designing EMR Serverless applications for cost-optimized Spark processing, I eliminated cluster management overhead while maintaining performance SLAs for insurance analytics workloads with variable processing demands and dynamic scaling requirements.",
+    "Using AWS Athena with Spark SQL for ad-hoc querying, I enabled data analysts to explore insurance data lakes directly without provisioning infrastructure, reducing time-to-insight for business intelligence requirements and improving productivity."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python", "SQL", "Scala", "Java", "Bash/Shell"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark", "PySpark", "Spark SQL", "Spark Structured Streaming", "Apache Hadoop", "Apache Flink", "Apache Hive"
+    ],
+    "AWS Cloud Services": [
+      "EMR", "EMR Serverless", "AWS Glue", "S3", "Redshift", "Redshift Serverless", "Redshift Spectrum", "Lambda", "Kinesis Data Streams", "Kinesis Firehose", "Kinesis Data Analytics", "MSK", "Athena", "Lake Formation", "Glue Catalog", "Step Functions", "ECS", "EKS"
+    ],
+    "Data Processing & ETL": [
+      "AWS Glue (Spark ETL)", "Apache Airflow", "MWAA", "Glue Workflows", "DMS", "MSK Connect"
+    ],
+    "Data Storage & Formats": [
+      "Parquet", "Avro", "ORC", "CSV", "JSON", "Delta Lake", "Apache Iceberg", "Apache Hudi"
+    ],
+    "Databases": [
+      "PostgreSQL", "MySQL", "SQL Server", "Oracle", "DynamoDB", "MongoDB", "Amazon Redshift"
+    ],
+    "Infrastructure & DevOps": [
+      "Terraform", "CloudFormation", "CDK", "CodePipeline", "Git", "GitHub", "Bitbucket", "Docker", "Kubernetes", "EKS"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch", "X-Ray", "OpenSearch"
+    ],
+    "Security & Compliance": [
+      "IAM", "KMS", "VPC", "GuardDuty", "Macie", "HIPAA", "PCI-DSS", "GDPR"
+    ],
+    "Data Modeling": [
+      "Dimensional Modeling", "Star Schema", "Snowflake Schema", "Data Vault", "OLTP", "OLAP", "SCD Type Implementations"
+    ],
+    "Spark Optimization Techniques": [
+      "DAG Optimization", "Catalyst Optimizer", "Tungsten Engine", "Broadcast Joins", "Shuffle Tuning", "AQE", "Partitioning Strategies", "Caching & Persistence", "Checkpointing", "Skew Handling"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook", "VS Code", "PyCharm", "Git", "GitHub", "Bitbucket"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architecting PySpark-based data processing pipelines on AWS EMR to handle massive insurance claims datasets, eliminating wide shuffles through strategic repartitioning and broadcast join optimizations that improved job performance significantly.",
+        "Implementing Spark Catalyst optimizer configurations and analyzing DAG structures using explain plans to identify bottlenecks in insurance data transformation workflows, then tuning executor memory and core allocations accordingly.",
+        "Designing Spark Structured Streaming applications with Kinesis Data Streams integration for real-time insurance claim ingestion, implementing proper watermarking strategies and checkpointing mechanisms for fault-tolerant processing.",
+        "Building AWS Glue Spark jobs with optimized DPU configurations and worker type selections, reducing execution costs while maintaining performance SLAs for HIPAA-compliant insurance data processing requirements and regulatory compliance standards.",
+        "Using Crew AI and LangGraph frameworks to orchestrate multi-agent systems for insurance document processing, where different agents handled extraction, validation, and compliance checking tasks in coordinated workflows and improved accuracy.",
+        "Implementing Model Context Protocol (MCP) for agent-to-agent communication in Google's multi-agent architecture, enabling complex insurance claim validation workflows that required coordination between multiple AI agents and improved processing efficiency.",
+        "Creating proof-of-concept systems using PySpark and multi-agent frameworks to explore innovative approaches for insurance fraud detection, iterating through different agent collaboration patterns to find optimal solutions and improve detection rates.",
+        "Designing S3 data lake architecture with Lake Formation integration for insurance data governance, implementing partitioned Parquet storage with predicate pushdown optimizations that enabled efficient querying for analytics and reporting needs.",
+        "Building AWS Redshift data warehouse solutions with proper distribution keys and sort keys, designing star schema models that supported complex insurance analytics queries while ensuring regulatory compliance and data quality standards.",
+        "Implementing Terraform modules for infrastructure as code deployment of EMR clusters and Glue jobs, ensuring consistent configurations across environments and reducing manual provisioning errors in production systems and deployment processes.",
+        "Using Apache Airflow and MWAA for orchestrating complex multi-stage ETL pipelines, creating DAGs that managed dependencies between insurance data processing jobs with proper error handling and retry mechanisms for reliable execution.",
+        "Designing Kinesis Firehose pipelines for streaming insurance transaction data into S3, configuring transformation Lambda functions that enriched data with metadata before storage in the data lake architecture for downstream analytics processing.",
+        "Implementing Spark AQE features to enable adaptive query execution, allowing dynamic partition coalescing and join strategy selection based on runtime statistics from insurance data processing workloads and improving overall job performance.",
+        "Building Delta Lake tables on S3 for ACID-compliant insurance data storage, implementing time travel queries and schema evolution capabilities that supported data governance and audit requirements effectively for regulatory compliance needs.",
+        "Using CloudWatch metrics and X-Ray tracing to monitor Spark job performance, identifying performance bottlenecks through detailed execution logs and optimizing resource allocation for insurance analytics workloads and improving system efficiency.",
+        "Implementing IAM roles and KMS encryption for securing insurance data across AWS services, ensuring compliance with state insurance regulations while maintaining proper access controls and audit trails for security and compliance requirements."
+      ],
+      "environment": [
+        "PySpark", "Apache Spark", "Spark SQL", "Spark Structured Streaming", "AWS EMR", "AWS Glue", "S3", "Lake Formation", "Glue Catalog", "Kinesis Data Streams", "Kinesis Firehose", "Lambda", "Redshift", "Athena", "Terraform", "Apache Airflow", "MWAA", "Step Functions", "CloudWatch", "X-Ray", "IAM", "KMS", "VPC", "Crew AI", "LangGraph", "Model Context Protocol", "Multi-Agent Systems", "Python", "SQL", "Parquet", "Delta Lake", "Iceberg", "Git", "GitHub"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Engineered PySpark-based ETL pipelines on AWS EMR to process large-scale healthcare datasets, optimizing shuffle operations through strategic repartitioning and broadcast join implementations that reduced job execution times significantly.",
+        "Configured Spark Catalyst optimizer settings and analyzed execution plans to identify performance bottlenecks in healthcare data transformation workflows, then adjusted memory configurations and partition strategies accordingly to improve efficiency.",
+        "Developed Spark Structured Streaming applications integrated with Kinesis Data Streams for real-time healthcare data ingestion, implementing watermarking and checkpointing strategies to ensure data consistency and fault tolerance.",
+        "Built AWS Glue Spark jobs with cost-optimized DPU allocations and worker type configurations, balancing performance requirements with budget constraints for HIPAA-compliant healthcare data processing pipelines and cost management.",
+        "Utilized Crew AI and LangGraph frameworks to build multi-agent systems for healthcare document processing, where specialized agents handled different aspects of clinical data extraction and validation workflows and improved data quality.",
+        "Created proof-of-concept implementations using PySpark and multi-agent architectures to explore innovative approaches for healthcare data quality validation, testing various agent collaboration patterns for optimal results and improved accuracy.",
+        "Designed S3 data lake architecture with Lake Formation for healthcare data governance, implementing partitioned storage strategies with Parquet compression that enabled efficient querying while maintaining HIPAA compliance requirements.",
+        "Constructed AWS Redshift data warehouse solutions with dimensional modeling approaches, designing star schema structures that supported complex healthcare analytics queries with proper distribution and sort key optimizations for performance.",
+        "Implemented Terraform infrastructure as code for provisioning EMR clusters and Glue jobs, ensuring consistent deployment patterns across development and production environments for healthcare data platforms and reducing deployment errors.",
+        "Orchestrated complex ETL workflows using Apache Airflow and MWAA, building DAGs that managed multi-stage healthcare data processing pipelines with proper dependency management and error recovery mechanisms for reliable execution and improved data quality.",
+        "Configured Kinesis Firehose pipelines for streaming healthcare data ingestion into S3, setting up transformation functions that enriched data with metadata before storage in the data lake architecture for downstream analytics and reporting.",
+        "Enabled Spark AQE features for adaptive query execution in healthcare workloads, allowing automatic optimization of join strategies and partition management based on runtime statistics from data processing jobs and improving overall performance.",
+        "Established CloudWatch monitoring and X-Ray tracing for Spark job observability, analyzing performance metrics to identify optimization opportunities in healthcare data transformation pipelines and improve efficiency across multiple projects.",
+        "Secured healthcare data across AWS services using IAM policies and KMS encryption, ensuring HIPAA compliance requirements while maintaining proper access controls and comprehensive audit logging capabilities for regulatory compliance."
+      ],
+      "environment": [
+        "PySpark", "Apache Spark", "Spark SQL", "Spark Structured Streaming", "AWS EMR", "AWS Glue", "S3", "Lake Formation", "Glue Catalog", "Kinesis Data Streams", "Kinesis Firehose", "Lambda", "Redshift", "Athena", "Terraform", "Apache Airflow", "MWAA", "Step Functions", "CloudWatch", "X-Ray", "IAM", "KMS", "VPC", "Crew AI", "LangGraph", "Python", "SQL", "Parquet", "Delta Lake", "Git", "GitHub"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed PySpark data processing pipelines on Azure Databricks to handle healthcare datasets, optimizing Spark configurations through strategic partitioning and broadcast join techniques that improved processing efficiency significantly.",
+        "Analyzed Spark execution plans and DAG structures to identify performance bottlenecks in healthcare data transformation workflows, then tuned executor configurations and memory settings to optimize job performance and reduce execution times.",
+        "Built Spark Structured Streaming applications for real-time healthcare data processing, implementing watermarking strategies and checkpointing mechanisms to ensure data consistency and fault tolerance in streaming workloads and improved reliability.",
+        "Designed Azure Data Lake Storage architecture with partitioned Parquet files, implementing predicate pushdown optimizations that enabled efficient querying for healthcare analytics while maintaining HIPAA compliance requirements and data security.",
+        "Created Azure Synapse Analytics data warehouse solutions with dimensional modeling approaches, designing star schema structures that supported complex healthcare analytics queries with proper distribution strategies and performance optimizations.",
+        "Implemented Azure Data Factory pipelines for orchestrating ETL workflows, building complex data transformation logic that processed healthcare data while ensuring proper error handling and dependency management for reliable data processing.",
+        "Configured Azure Event Hubs for streaming healthcare data ingestion, setting up transformation functions that enriched data with metadata before storage in the data lake architecture for analytics processing and downstream reporting needs.",
+        "Optimized Spark job performance through careful tuning of shuffle partitions and executor configurations, reducing job execution times for healthcare data processing workloads on Azure Databricks clusters and improving overall system efficiency.",
+        "Established Azure Monitor and Application Insights for Spark job observability, analyzing performance metrics to identify optimization opportunities in healthcare data transformation pipelines and improve efficiency across multiple projects.",
+        "Secured healthcare data across Azure services using Azure AD and Key Vault encryption, ensuring HIPAA compliance requirements while maintaining proper access controls and comprehensive audit logging capabilities for regulatory compliance.",
+        "Collaborated with healthcare data analysts to understand business requirements, translating complex analytics needs into optimized Spark queries that efficiently processed large-scale healthcare datasets with improved performance and accuracy.",
+        "Documented Spark optimization techniques and best practices for the team, creating knowledge base articles that helped other engineers improve performance of healthcare data processing pipelines and reduce execution times effectively."
+      ],
+      "environment": [
+        "PySpark", "Apache Spark", "Spark SQL", "Spark Structured Streaming", "Azure Databricks", "Azure Data Factory", "Azure Data Lake Storage", "Azure Synapse Analytics", "Azure Event Hubs", "Azure Monitor", "Application Insights", "Azure AD", "Key Vault", "Python", "SQL", "Parquet", "Git", "GitHub"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": " New York, New York.",
+      "responsibilities": [
+        "Built PySpark data processing pipelines on Azure Databricks to analyze banking transaction datasets, optimizing Spark configurations through strategic repartitioning and broadcast join implementations that improved processing performance significantly.",
+        "Analyzed Spark execution plans to identify optimization opportunities in banking data transformation workflows, then adjusted memory configurations and partition strategies to reduce job execution times effectively and improve system efficiency.",
+        "Developed Spark SQL queries for complex banking analytics, implementing proper join strategies and partition optimizations that enabled efficient processing of large-scale transaction datasets while ensuring PCI compliance and data security requirements.",
+        "Designed Azure Data Lake Storage architecture with partitioned storage strategies, implementing Parquet compression and predicate pushdown optimizations that enabled efficient querying for banking analytics applications and improved query performance.",
+        "Created Azure SQL Data Warehouse solutions with dimensional modeling approaches, designing star schema structures that supported complex banking analytics queries with proper distribution and indexing strategies for optimal performance and scalability.",
+        "Implemented Azure Data Factory pipelines for orchestrating ETL workflows, building data transformation logic that processed banking transaction data while ensuring proper error handling and compliance requirements for reliable data processing operations.",
+        "Configured Azure Event Hubs for streaming banking data ingestion, setting up transformation functions that enriched transaction data with metadata before storage in the data lake architecture for analytics processing and downstream reporting needs.",
+        "Optimized Spark job performance through careful tuning of shuffle partitions and executor memory settings, reducing processing times for banking data analytics workloads on Azure Databricks clusters and improving overall system efficiency and cost management.",
+        "Established Azure Monitor for Spark job observability, analyzing performance metrics to identify bottlenecks and optimization opportunities in banking data processing pipelines and improve efficiency across multiple projects and use cases.",
+        "Secured banking data across Azure services using Azure AD authentication and Key Vault encryption, ensuring PCI-DSS compliance requirements while maintaining proper access controls and audit trails effectively for security and regulatory compliance."
+      ],
+      "environment": [
+        "PySpark", "Apache Spark", "Spark SQL", "Azure Databricks", "Azure Data Factory", "Azure Data Lake Storage", "Azure SQL Data Warehouse", "Azure Event Hubs", "Azure Monitor", "Azure AD", "Key Vault", "Python", "SQL", "Parquet", "Git", "GitHub"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Assisted in building Hadoop-based data processing pipelines using MapReduce and Hive, learning how to optimize job configurations and partition strategies for large-scale consulting data transformation workflows and improve performance.",
+        "Developed Informatica PowerCenter mappings for ETL workflows, creating data transformation logic that processed consulting datasets while ensuring proper data quality validation and error handling mechanisms for reliable data processing operations.",
+        "Configured Sqoop jobs for data ingestion from relational databases into HDFS, setting up incremental load strategies that efficiently transferred consulting data while minimizing impact on source systems and reducing data transfer times.",
+        "Designed Hive tables with partitioned storage strategies, implementing proper partitioning and bucketing techniques that enabled efficient querying for consulting analytics applications on Hadoop clusters and improved query performance.",
+        "Created SQL scripts for data transformation and validation, writing complex queries that processed consulting datasets while ensuring data quality and consistency across different source systems effectively and maintaining data integrity.",
+        "Supported Hadoop cluster administration tasks, learning how to monitor job performance and troubleshoot issues in MapReduce and Hive workloads for consulting data processing requirements and system stability across multiple projects.",
+        "Collaborated with consulting data analysts to understand business requirements, translating analytics needs into optimized Hive queries that efficiently processed large-scale datasets with improved query performance and reduced execution times.",
+        "Documented ETL processes and data transformation logic, creating technical documentation that helped team members understand consulting data processing workflows and maintenance procedures for knowledge sharing and team collaboration."
+      ],
+      "environment": [
+        "Apache Hadoop", "MapReduce", "Apache Hive", "Informatica PowerCenter", "Sqoop", "HDFS", "SQL", "Python", "Shell Scripting", "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer – Associate",
+    "Salesforce Certified Salesforce Developer PD1 "
+  ]
+}

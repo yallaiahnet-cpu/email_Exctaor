@@ -1,0 +1,398 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Engineer - Azure & FHIR Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in healthcare data engineering with deep expertise in Azure data services, HL7/FHIR standards, and building scalable data pipelines for healthcare interoperability.",
+    "Using Azure Data Factory to address healthcare data integration challenges by implementing scalable ETL pipelines that processed HL7 messages and FHIR resources while ensuring HIPAA compliance and data security.",
+    "Leveraging SQL Development and Python scripting to design complex data transformation logic that handled healthcare data arrays using LATERAL joins and optimized query performance for large-scale EMR systems.",
+    "Implementing HL7 and FHIR standards integration that transformed healthcare data from EPIC EMR systems into standardized formats, enabling seamless data exchange across different healthcare platforms and applications.",
+    "Building XML and JSON data processing pipelines that parsed complex healthcare documents and transformed them into structured data formats for analytics and reporting requirements.",
+    "Designing data validation and profiling frameworks that ensured healthcare data quality throughout ETL processes, implementing automated checks for data accuracy and completeness.",
+    "Creating EPIC EMR integration solutions that extracted patient data and clinical information, establishing reliable connections between healthcare systems and Azure data services.",
+    "Developing DDL scripting for healthcare data warehousing that defined optimal table structures and indexing strategies for fast query performance on patient data analytics.",
+    "Implementing complex data transformation logic that handled nested healthcare data structures and arrays, using advanced SQL techniques for efficient data processing.",
+    "Building Snowflake data solutions that integrated with Azure services, creating scalable data platforms for healthcare analytics and interoperability requirements.",
+    "Creating Selenium WebDriver automation for healthcare data testing that validated ETL processes and ensured data accuracy across multiple healthcare system integrations.",
+    "Designing Azure Databricks solutions that processed large-scale healthcare data using distributed computing, enabling machine learning on clinical data with proper security controls.",
+    "Implementing Azure Synapse Analytics pipelines that unified healthcare data from multiple sources, creating comprehensive views for clinical research and patient care analytics.",
+    "Developing Power BI reporting solutions that visualized healthcare metrics and KPIs, enabling stakeholders to make data-driven decisions based on clinical and operational data.",
+    "Building Azure DevOps CI/CD pipelines that automated healthcare data pipeline deployment, ensuring reliable and repeatable processes for data integration workflows.",
+    "Creating Terraform infrastructure as code that provisioned Azure data services with healthcare compliance configurations, enabling scalable and secure data environments.",
+    "Implementing Azure Key Vault integrations that secured healthcare data credentials and connection strings, ensuring proper access controls for sensitive patient information.",
+    "Developing MLflow and TensorFlow integrations that enabled machine learning on healthcare data, creating predictive models for patient outcomes and clinical decision support."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ],
+    "Healthcare Standards": [
+      "HL7",
+      "FHIR",
+      "HIPAA Compliance",
+      "EPIC EMR",
+      "Healthcare Interoperability"
+    ],
+    "Data Engineering Specialized": [
+      "LATERAL Joins",
+      "DDL Scripting",
+      "Data Arrays Processing",
+      "XML/JSON Parsing",
+      "Data Validation",
+      "Data Profiling"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Azure Data Factory to address insurance data integration challenges by implementing scalable ETL pipelines that processed policy data while ensuring regulatory compliance and data security.",
+        "Leveraging SQL Development and Python scripting to design complex data transformation logic that handled insurance data arrays using LATERAL joins and optimized query performance.",
+        "Implementing XML and JSON data processing pipelines that parsed complex insurance documents and transformed them into structured data formats for analytics and reporting.",
+        "Building data validation and profiling frameworks that ensured insurance data quality throughout ETL processes, implementing automated checks for data accuracy and regulatory compliance.",
+        "Creating data integration solutions that extracted policy information from legacy systems, establishing reliable connections between insurance platforms and Azure data services.",
+        "Developing DDL scripting for insurance data warehousing that defined optimal table structures and indexing strategies for fast query performance on policy data analytics.",
+        "Implementing complex data transformation logic that handled nested insurance data structures and arrays, using advanced SQL techniques for efficient data processing.",
+        "Building Snowflake data solutions that integrated with Azure services, creating scalable data platforms for insurance analytics and compliance requirements.",
+        "Creating Selenium WebDriver automation for insurance data testing that validated ETL processes and ensured data accuracy across multiple system integrations.",
+        "Designing Azure Databricks solutions that processed large-scale insurance data using distributed computing, enabling machine learning on policy data with proper security.",
+        "Implementing Azure Synapse Analytics pipelines that unified insurance data from multiple sources, creating comprehensive views for risk assessment and underwriting analytics.",
+        "Developing Power BI reporting solutions that visualized insurance metrics and KPIs, enabling stakeholders to make data-driven decisions based on policy and claims data.",
+        "Building Azure DevOps CI/CD pipelines that automated insurance data pipeline deployment, ensuring reliable and repeatable processes for data integration workflows.",
+        "Creating Terraform infrastructure as code that provisioned Azure data services with insurance compliance configurations, enabling scalable and secure data environments.",
+        "Implementing Azure Key Vault integrations that secured insurance data credentials and connection strings, ensuring proper access controls for sensitive customer information.",
+        "Developing MLflow and TensorFlow integrations that enabled machine learning on insurance data, creating predictive models for risk assessment and claims processing."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "SQL",
+        "Python",
+        "XML",
+        "JSON",
+        "LATERAL Joins",
+        "DDL Scripting",
+        "Snowflake",
+        "Selenium WebDriver",
+        "Azure Databricks",
+        "Azure Synapse",
+        "Power BI",
+        "Azure DevOps",
+        "Terraform",
+        "Azure Key Vault",
+        "MLflow",
+        "TensorFlow"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Azure Data Factory to address healthcare data integration challenges by implementing scalable ETL pipelines that processed HL7 messages while ensuring HIPAA compliance.",
+        "Leveraging SQL Development and Python scripting to design complex data transformation logic that handled healthcare data arrays using LATERAL joins for clinical data processing.",
+        "Implementing HL7 and FHIR standards integration that transformed healthcare data from EPIC EMR systems into standardized formats for clinical research and analytics.",
+        "Building XML and JSON data processing pipelines that parsed complex healthcare documents and transformed them into structured data formats for patient care analytics.",
+        "Creating data validation and profiling frameworks that ensured healthcare data quality throughout ETL processes, implementing automated checks for clinical data accuracy.",
+        "Developing EPIC EMR integration solutions that extracted patient data and clinical information, establishing reliable connections between healthcare systems and Azure services.",
+        "Implementing DDL scripting for healthcare data warehousing that defined optimal table structures for fast query performance on patient data and clinical research.",
+        "Building complex data transformation logic that handled nested healthcare data structures and arrays, using advanced SQL techniques for clinical data processing.",
+        "Creating Snowflake data solutions that integrated with Azure services for healthcare analytics, enabling scalable data platforms for clinical research.",
+        "Designing Selenium WebDriver automation for healthcare data testing that validated ETL processes and ensured data accuracy across clinical system integrations.",
+        "Implementing Azure Databricks solutions that processed large-scale healthcare data using distributed computing for clinical research and patient outcomes analysis.",
+        "Developing Azure Synapse Analytics pipelines that unified healthcare data from multiple sources, creating comprehensive views for clinical research analytics.",
+        "Building Power BI reporting solutions that visualized healthcare metrics and clinical KPIs, enabling data-driven decisions for patient care and research.",
+        "Creating Azure DevOps CI/CD pipelines that automated healthcare data pipeline deployment with HIPAA compliance validation for data integration workflows."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "SQL",
+        "Python",
+        "HL7",
+        "FHIR",
+        "EPIC EMR",
+        "XML",
+        "JSON",
+        "LATERAL Joins",
+        "DDL Scripting",
+        "Snowflake",
+        "Selenium WebDriver",
+        "Azure Databricks",
+        "Azure Synapse",
+        "Power BI",
+        "Azure DevOps",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using AWS Glue to address public health data integration challenges by implementing ETL pipelines that processed healthcare data while ensuring HIPAA compliance.",
+        "Leveraging SQL and Python scripting to design data transformation logic that handled public health data arrays for population health analytics and reporting.",
+        "Implementing data validation frameworks that ensured public health data quality throughout ETL processes, implementing checks for data accuracy and completeness.",
+        "Building data processing pipelines that transformed healthcare documents into structured formats for public health analytics and disease surveillance.",
+        "Creating data integration solutions that extracted health information from various sources, establishing connections between health systems and AWS services.",
+        "Developing DDL scripting for public health data warehousing that defined table structures for efficient query performance on health data analytics.",
+        "Implementing data transformation logic that handled nested health data structures, using SQL techniques for public health data processing.",
+        "Building data solutions that integrated with AWS services for public health analytics, enabling scalable platforms for health department reporting.",
+        "Designing automation for health data testing that validated ETL processes and ensured data accuracy across system integrations.",
+        "Implementing AWS analytics solutions that processed public health data using distributed computing for population health analysis.",
+        "Developing data pipelines that unified public health data from multiple sources, creating comprehensive views for health analytics.",
+        "Building reporting solutions that visualized public health metrics and KPIs, enabling data-driven decisions for community health programs."
+      ],
+      "environment": [
+        "AWS Glue",
+        "SQL",
+        "Python",
+        "Data Validation",
+        "DDL Scripting",
+        "AWS Analytics",
+        "Public Health Data",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using AWS Glue to address financial data integration challenges by implementing ETL pipelines that processed banking data while ensuring PCI compliance.",
+        "Leveraging SQL and Python scripting to design data transformation logic that handled financial data arrays for risk assessment and fraud detection.",
+        "Implementing data validation frameworks that ensured financial data quality throughout ETL processes, implementing checks for data accuracy and security.",
+        "Building data processing pipelines that transformed financial documents into structured formats for banking analytics and compliance reporting.",
+        "Creating data integration solutions that extracted financial information from various sources, establishing connections between banking systems and AWS services.",
+        "Developing DDL scripting for financial data warehousing that defined table structures for efficient query performance on financial analytics.",
+        "Implementing data transformation logic that handled nested financial data structures, using SQL techniques for banking data processing.",
+        "Building data solutions that integrated with AWS services for financial analytics, enabling scalable platforms for risk assessment.",
+        "Designing automation for financial data testing that validated ETL processes and ensured data accuracy across system integrations.",
+        "Implementing AWS analytics solutions that processed financial data using distributed computing for fraud detection and risk analysis."
+      ],
+      "environment": [
+        "AWS Glue",
+        "SQL",
+        "Python",
+        "Data Validation",
+        "DDL Scripting",
+        "AWS Analytics",
+        "Financial Data",
+        "PCI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that handled large datasets from multiple business systems for consulting projects.",
+        "Leveraging Informatica to develop ETL processes that transformed client data into analysis-ready formats, creating reusable mappings that accelerated project delivery.",
+        "Implementing data integration pipelines with Sqoop that transferred data between relational databases and Hadoop clusters, ensuring data consistency and completeness.",
+        "Designing data storage solutions with HDFS that organized client project data, creating accessible repositories for analysis and reporting requirements.",
+        "Building data processing workflows that automated ETL operations for client engagements, ensuring timely data availability for consulting analysis.",
+        "Developing data quality checks that validated client data integrity throughout processing pipelines, identifying data issues that needed client resolution.",
+        "Creating data documentation standards that captured source system details and transformation logic for client knowledge transfer and project continuity.",
+        "Implementing basic data security measures that protected client information during processing and analysis, maintaining confidentiality for consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Relational databases",
+        "ETL processes",
+        "Data quality",
+        "Client consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

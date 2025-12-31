@@ -1,0 +1,374 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Cloud AI Data Engineer ",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering and cloud infrastructure, specializing in AWS data services and Spark-based processing for enterprise applications across insurance, healthcare, banking, and consulting domains.",
+    "Using AWS Glue and PySpark to address large-scale data processing challenges in insurance analytics, I designed ETL pipelines that transformed raw claims data into structured formats while maintaining regulatory compliance and data governance standards.",
+    "Implementing AWS EMR clusters for cost-efficient Spark processing, I optimized cluster configurations and auto-scaling policies that reduced compute costs by 40% while maintaining performance SLAs for insurance data processing workloads.",
+    "Leveraging Amazon S3 for data lake architecture in healthcare projects, I designed partitioned storage strategies that enabled efficient data retrieval for both batch processing and real-time analytics applications.",
+    "Using Amazon Redshift for data warehousing solutions, I implemented dimensional models that supported complex analytics queries while optimizing query performance through proper distribution and sort key strategies.",
+    "Developing AWS Lambda functions for serverless data processing, I created event-driven architectures that automatically processed incoming data files and triggered downstream workflows without manual intervention.",
+    "Implementing Terraform for infrastructure as code deployment, I defined reusable modules that provisioned complete data platforms with consistent configurations across development, testing, and production environments.",
+    "Using Terraform Enterprise and HCP for collaborative infrastructure management, I established governance policies that ensured compliance with organizational standards while enabling team productivity.",
+    "Designing CI/CD pipelines with GitHub Actions for data engineering workflows, I automated testing and deployment processes that reduced manual errors and accelerated feature delivery to production environments.",
+    "Implementing Concourse for complex data pipeline orchestration, I created continuous integration workflows that validated data quality and schema compatibility before promoting changes to production systems.",
+    "Using Apache Iceberg for table format management in data lakes, I implemented open table standards that enabled ACID transactions and time travel queries across insurance data assets.",
+    "Leveraging AWS Step Functions for workflow orchestration, I designed state machines that coordinated complex ETL processes across multiple AWS services with built-in error handling and retry mechanisms.",
+    "Implementing CloudWatch for comprehensive monitoring of data pipelines, I established alerting systems that proactively detected performance issues and data quality problems before impacting business operations.",
+    "Using dimensional modeling techniques for data warehouse design, I created star schemas that optimized query performance for business intelligence reporting and analytical applications.",
+    "Implementing NoSQL data models for unstructured data processing, I designed document stores that efficiently handled semi-structured insurance documents and healthcare records.",
+    "Using Python for data processing automation, I developed custom scripts and utilities that extended beyond standard ETL capabilities to handle complex business logic and data validation requirements.",
+    "Leveraging SQL for advanced data analysis and transformation, I wrote complex queries that implemented business rules and calculated key metrics for insurance risk assessment and healthcare outcomes.",
+    "Implementing data governance frameworks across utility domains, I established practices for data quality monitoring, lineage tracking, and stewardship that ensured reliable and trustworthy data for decision-making."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using AWS Glue to address slow insurance claims data processing, I designed and implemented optimized ETL jobs that reduced data transformation time by 45% while maintaining data quality standards for regulatory compliance.",
+        "Leveraging PySpark on AWS EMR for large-scale insurance analytics, I developed distributed processing jobs that handled millions of daily policy transactions with improved reliability and cost-efficiency through proper cluster management.",
+        "Implementing Amazon S3 for insurance data lake architecture, I designed storage strategies with proper partitioning and lifecycle policies that optimized costs while ensuring fast access to historical claims data for analysis.",
+        "Using Amazon Redshift for insurance data warehousing, I implemented dimensional models that supported complex analytical queries for risk assessment and underwriting optimization while maintaining query performance standards.",
+        "Developing AWS Lambda functions for serverless data processing, I created event-driven workflows that automatically processed incoming insurance application data and triggered validation checks without manual intervention.",
+        "Implementing Terraform for infrastructure as code management, I defined reusable modules that provisioned complete data engineering environments with consistent security configurations and compliance controls.",
+        "Using Terraform Enterprise for collaborative infrastructure development, I established governance workflows that ensured all changes followed insurance industry security standards while enabling team productivity.",
+        "Designing CI/CD pipelines with GitHub Actions for data engineering workflows, I automated testing and deployment processes that reduced manual errors in insurance data pipeline updates and accelerated feature delivery.",
+        "Implementing Concourse for complex insurance data orchestration, I created continuous integration workflows that validated data quality and schema compatibility before promoting changes to production systems.",
+        "Using Apache Iceberg for insurance data table management, I implemented open table standards that enabled reliable data versioning and time travel queries across policy and claims data assets.",
+        "Leveraging AWS Step Functions for insurance workflow coordination, I designed state machines that managed complex ETL processes across multiple services with built-in error handling for compliance-critical operations.",
+        "Implementing CloudWatch for comprehensive insurance data monitoring, I established alerting systems that proactively detected data quality issues and pipeline failures before impacting business operations.",
+        "Using dimensional modeling for insurance data warehouse design, I created optimized star schemas that supported both operational reporting and advanced analytics for risk management and customer insights.",
+        "Implementing Python for custom insurance data processing, I developed scripts that handled complex business logic for policy validation and claims processing beyond standard ETL capabilities.",
+        "Leveraging SQL for insurance data analysis, I wrote complex queries that implemented business rules and calculated key metrics for risk assessment and compliance reporting requirements.",
+        "Using data governance frameworks for insurance data management, I established practices for data quality monitoring and lineage tracking that ensured reliable data for regulatory reporting and business decisions."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS EMR",
+        "Amazon S3",
+        "Amazon Redshift",
+        "AWS Lambda",
+        "Terraform",
+        "Terraform Enterprise",
+        "HCP",
+        "GitHub Actions",
+        "Concourse",
+        "Apache Iceberg",
+        "AWS Step Functions",
+        "CloudWatch",
+        "Python",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using AWS Glue to process healthcare clinical trial data, I designed ETL pipelines that consolidated patient information from multiple sources while maintaining HIPAA compliance through proper encryption and access controls.",
+        "Leveraging PySpark on AWS EMR for healthcare analytics, I developed data processing jobs that transformed raw clinical data into structured formats suitable for research analysis and regulatory reporting requirements.",
+        "Implementing Amazon S3 for healthcare data lake storage, I designed secure storage architectures with proper access controls that enabled collaborative research while protecting patient privacy through anonymization.",
+        "Using Amazon Redshift for healthcare data warehousing, I implemented dimensional models that supported complex analytical queries for clinical outcomes research and drug efficacy studies.",
+        "Developing AWS Lambda functions for healthcare data processing, I created serverless workflows that automatically processed incoming clinical data and triggered quality validation checks for research integrity.",
+        "Implementing Terraform for healthcare infrastructure deployment, I defined infrastructure as code templates that provisioned secure data environments with compliance controls for sensitive health information.",
+        "Using GitHub Actions for healthcare CI/CD pipelines, I automated testing and deployment processes that ensured data quality and schema compatibility for clinical research data systems.",
+        "Implementing Apache Iceberg for healthcare data management, I adopted open table formats that enabled reliable data versioning and audit trails for clinical trial data analysis and reporting.",
+        "Leveraging AWS Step Functions for healthcare workflow orchestration, I designed state machines that coordinated complex data processing pipelines across multiple clinical data sources with error handling.",
+        "Using CloudWatch for healthcare data monitoring, I established comprehensive observability that tracked data pipeline performance and alerted on data quality issues affecting research outcomes.",
+        "Implementing dimensional modeling for healthcare data warehousing, I created optimized schemas that supported both operational reporting and advanced analytics for clinical research and outcomes analysis.",
+        "Developing Python scripts for healthcare data processing, I created custom utilities that handled complex clinical data transformations and validation rules beyond standard ETL capabilities.",
+        "Using SQL for healthcare data analysis, I wrote sophisticated queries that implemented clinical business rules and calculated key metrics for research studies and regulatory reporting.",
+        "Implementing data governance for healthcare information management, I established frameworks for data quality, lineage tracking, and stewardship that met FDA and HIPAA compliance requirements."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS EMR",
+        "Amazon S3",
+        "Amazon Redshift",
+        "AWS Lambda",
+        "Terraform",
+        "GitHub Actions",
+        "Apache Iceberg",
+        "AWS Step Functions",
+        "CloudWatch",
+        "Python",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using Azure Data Factory to address public health data integration challenges, I designed ETL pipelines that consolidated healthcare information from multiple sources while maintaining HIPAA compliance standards.",
+        "Leveraging Azure Databricks for healthcare analytics processing, I developed Spark workflows that transformed raw public health data into structured formats suitable for machine learning and reporting.",
+        "Implementing Azure Data Lake Storage for healthcare data management, I designed secure storage architectures with proper access controls that enabled collaborative analysis while protecting patient privacy.",
+        "Using Azure Synapse Analytics for healthcare data warehousing, I implemented dimensional models that supported complex analytical queries for public health monitoring and intervention planning.",
+        "Developing Python scripts for healthcare data processing, I created custom utilities that handled complex public health data transformations and validation rules for data quality assurance.",
+        "Implementing Azure DevOps for healthcare CI/CD pipelines, I automated testing and deployment processes that ensured reliable updates to public health data systems with proper version control.",
+        "Using SQL for healthcare data analysis, I wrote complex queries that implemented public health business rules and calculated key metrics for disease surveillance and health outcome tracking.",
+        "Leveraging data modeling techniques for healthcare data architecture, I designed schemas that optimized query performance for both operational reporting and advanced public health analytics.",
+        "Implementing data governance frameworks for public health information, I established practices for data quality monitoring and lineage tracking that met state and federal compliance requirements.",
+        "Using Git version control for collaborative development, I established code management practices that enabled efficient teamwork across distributed public health agencies and technical partners.",
+        "Developing statistical models with Python for healthcare analytics, I created analytical workflows that identified health trends and resource needs while maintaining methodological rigor.",
+        "Implementing data visualization for public health reporting, I created dashboards that communicated complex health statistics to non-technical stakeholders and policy decision-makers."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Data Lake Storage",
+        "Azure Synapse Analytics",
+        "Python",
+        "SQL",
+        "Azure DevOps",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Azure Data Factory for financial data integration, I designed ETL pipelines that consolidated transaction data from multiple banking systems while maintaining PCI compliance standards.",
+        "Leveraging Azure Databricks for financial analytics processing, I developed Spark workflows that transformed raw banking data into structured formats suitable for risk analysis and reporting.",
+        "Implementing Azure Data Lake Storage for financial data management, I designed secure storage architectures with proper access controls that enabled analytical processing while protecting customer information.",
+        "Using Azure Synapse Analytics for financial data warehousing, I implemented dimensional models that supported complex analytical queries for risk assessment and compliance monitoring.",
+        "Developing Python scripts for financial data processing, I created custom utilities that handled complex banking data transformations and validation rules for data quality assurance.",
+        "Implementing Azure DevOps for financial CI/CD pipelines, I automated testing and deployment processes that ensured reliable updates to banking data systems with proper version control.",
+        "Using SQL for financial data analysis, I wrote complex queries that implemented banking business rules and calculated key metrics for risk management and regulatory reporting.",
+        "Leveraging data modeling techniques for financial data architecture, I designed schemas that optimized query performance for both operational reporting and advanced financial analytics.",
+        "Implementing data governance frameworks for banking information, I established practices for data quality monitoring and lineage tracking that met financial regulatory compliance requirements.",
+        "Using statistical models for financial risk assessment, I developed analytical workflows that evaluated market risks and investment opportunities while maintaining methodological rigor."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Data Lake Storage",
+        "Azure Synapse Analytics",
+        "Python",
+        "SQL",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address large-scale data processing challenges in consulting projects, I implemented MapReduce jobs that transformed client data while learning distributed computing concepts through practical application.",
+        "Leveraging Informatica for ETL processes in data integration projects, I built data transformation workflows that consolidated information from multiple sources while ensuring data quality and consistency standards.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop, I developed data migration workflows that enabled efficient data movement while learning about different database technologies.",
+        "Using SQL for data analysis and reporting in consulting engagements, I wrote complex queries that extracted business insights from client data while developing my understanding of database optimization techniques.",
+        "Developing data modeling skills through dimensional modeling projects, I designed star schemas that supported business intelligence reporting while learning data warehousing best practices from senior team members.",
+        "Implementing basic Python scripts for data processing automation, I created utilities that streamlined repetitive tasks while building my programming skills through hands-on project experience.",
+        "Using shell scripting for workflow automation in data pipelines, I developed scripts that scheduled and monitored ETL jobs while learning about Unix systems and operational best practices.",
+        "Leveraging traditional ETL tools in enterprise environments, I supported data integration projects that helped clients consolidate their data assets for business intelligence and analytical reporting needs."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "SQL",
+        "Python",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

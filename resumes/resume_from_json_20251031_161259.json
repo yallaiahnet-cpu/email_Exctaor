@@ -1,0 +1,384 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI & Dialogflow CX Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in application development with specialized focus on contact center modernization, conversational AI, and multi-agent orchestration across insurance, healthcare, banking, and consulting domains.",
+    "Leveraged Dialogflow CX to design and implement virtual agents for insurance claims processing, integrating intents and entities with GCP Cloud Functions to handle complex customer inquiries while maintaining regulatory compliance.",
+    "Implemented Agent Assist capabilities using real-time speech analytics and sentiment analysis to provide live agents with contextual recommendations during customer interactions in healthcare support scenarios.",
+    "Developed and deployed serverless webhooks using Node.js on GCP Cloud Run to handle fulfillment requests for Dialogflow CX agents, ensuring scalable performance during peak insurance claim periods.",
+    "Integrated LangChain framework with Dialogflow CX to enhance virtual agent reasoning capabilities, enabling retrieval-augmented generation for accurate insurance policy information delivery.",
+    "Orchestrated multi-agent workflows using LangGraph to coordinate between specialized virtual agents handling different aspects of customer service in banking and insurance environments.",
+    "Implemented MCP (Model Context Protocol) to maintain consistent context across conversational agents, improving customer experience through personalized interactions in healthcare applications.",
+    "Designed and deployed CI/CD pipelines using GitHub Actions for automated testing and deployment of Dialogflow CX agents, reducing deployment time from hours to minutes across projects.",
+    "Configured OAuth 2.0 authentication for secure API integrations between Dialogflow CX and external systems, ensuring compliance with HIPAA and insurance regulatory requirements.",
+    "Utilized Cloud Logging and monitoring to troubleshoot production issues in real-time contact center applications, implementing proactive alerting for agent performance degradation.",
+    "Developed conversation design patterns and persona mapping for virtual agents in insurance domains, creating natural dialog flows that reduced customer effort scores by significant margins.",
+    "Integrated REST and gRPC APIs with Dialogflow CX webhooks to connect with legacy insurance systems, handling policy validation and claim status inquiries through secure channels.",
+    "Implemented knowledge graphs for context retrieval in conversational AI systems, enabling virtual agents to maintain coherent multi-turn dialogues about complex insurance products.",
+    "Configured BigQuery analytics for Dialogflow CX conversation data, generating insights into customer intent patterns and agent performance metrics across healthcare support scenarios.",
+    "Collaborated with cross-functional Agile teams including designers, AI/ML specialists, and client stakeholders to deliver contact center modernization projects on schedule.",
+    "Mentored junior developers on Dialogflow CX best practices and contact center domain knowledge, fostering team growth while maintaining high-quality delivery standards.",
+    "Implemented A2A (Agent-to-Agent) communication patterns for collaborative problem-solving between virtual agents in multi-agent contact center architectures.",
+    "Optimized Dialogflow CX agent performance through systematic testing and refinement of intent recognition models, achieving higher accuracy in customer query classification."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript",
+      "Node.js",
+      "JavaScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "LangChain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI",
+      "Dialogflow CX",
+      "LangGraph"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (BigQuery, Vertex AI, Cloud SQL, Cloud Functions, Cloud Run, Compute Engine, Cloud Storage, Dialogflow CX, Agent Assist)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js",
+      "gRPC"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google BigQuery",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "MLflow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Jira"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Dialogflow CX to address complex insurance claim inquiries that were overwhelming live agents, I designed and implemented a virtual agent with specialized intents for policy validation, claim status checks, and coverage questions, significantly reducing agent workload during peak seasons.",
+        "Leveraging LangGraph to orchestrate multi-agent workflows for insurance customer service, I created a system where specialized agents handle different claim types while maintaining conversation context, improving first-contact resolution rates for complex insurance scenarios.",
+        "Implementing Agent Assist integration to support live agents during customer calls, I developed real-time recommendation systems that suggest relevant policy documents and procedures based on conversation analysis, enhancing agent efficiency and accuracy in insurance consultations.",
+        "Using Node.js and Cloud Functions to build scalable webhooks for Dialogflow CX fulfillment, I created REST APIs that integrated with legacy insurance systems to validate policy details and claim information in real-time, ensuring accurate customer responses.",
+        "Designing MCP (Model Context Protocol) implementations for consistent context management across virtual agents, I enabled seamless handoffs between different insurance specialty agents while maintaining complete conversation history and customer intent understanding.",
+        "Developing LangChain-powered reasoning capabilities for virtual agents, I integrated retrieval-augmented generation with insurance knowledge bases to provide accurate, up-to-date policy information while reducing hallucinations in customer responses.",
+        "Implementing A2A (Agent-to-Agent) communication patterns using gRPC, I enabled collaborative problem-solving between virtual agents handling different insurance products, creating a unified customer experience across multiple policy types and coverage questions.",
+        "Configuring Cloud Run deployments for Dialogflow CX webhook services, I ensured scalable performance during insurance claim surges while maintaining strict security protocols for handling sensitive customer and policy data in regulated environments.",
+        "Building CI/CD pipelines with GitHub Actions for automated testing of Dialogflow CX agents, I reduced deployment time from several hours to under 30 minutes while ensuring thorough validation of intent recognition and entity extraction accuracy.",
+        "Designing conversation analytics using BigQuery and Cloud Logging, I created dashboards that tracked virtual agent performance across different insurance products, identifying areas for improvement in intent design and customer satisfaction metrics.",
+        "Implementing OAuth 2.0 security for API integrations between Dialogflow CX and external insurance systems, I ensured secure access to policy databases while maintaining compliance with insurance industry regulations and data protection standards.",
+        "Developing comprehensive testing frameworks using Jest for Dialogflow CX webhooks, I created automated tests that validated webhook responses across various insurance scenarios, catching regressions before production deployment.",
+        "Architecting knowledge graph implementations for insurance domain context, I enabled virtual agents to maintain coherent multi-turn dialogues about complex coverage scenarios and policy exceptions, improving customer understanding and satisfaction.",
+        "Collaborating with insurance domain experts to design conversation flows for specialized products, I translated complex policy language into natural dialog patterns that customers could easily understand and navigate during virtual agent interactions.",
+        "Implementing real-time monitoring and alerting for contact center performance, I used Cloud Logging to track agent responsiveness and accuracy metrics, enabling proactive maintenance of virtual agent systems during high-volume insurance claim periods.",
+        "Mentoring junior developers on Dialogflow CX best practices and insurance domain knowledge, I conducted code reviews and design sessions that improved team capability in delivering high-quality conversational AI solutions for insurance customer service."
+      ],
+      "environment": [
+        "Dialogflow CX",
+        "Agent Assist",
+        "GCP Cloud Functions",
+        "Cloud Run",
+        "Node.js",
+        "LangChain",
+        "LangGraph",
+        "MCP",
+        "BigQuery",
+        "Cloud Logging",
+        "GitHub Actions",
+        "Jest",
+        "gRPC",
+        "REST APIs",
+        "OAuth 2.0"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Dialogflow CX to develop healthcare virtual agents for patient support, I designed intent hierarchies that handled medication inquiries, side effect reporting, and treatment guidance while maintaining HIPAA compliance throughout all patient interactions.",
+        "Implementing LangChain frameworks for enhanced medical information retrieval, I created RAG pipelines that connected virtual agents with up-to-date pharmaceutical databases, ensuring accurate medication information and dosage guidance for patient safety.",
+        "Leveraging GCP Cloud Functions for Dialogflow CX webhook implementations, I built serverless functions that integrated with healthcare systems to validate patient information and medication history while maintaining strict data privacy protocols.",
+        "Designing multi-agent orchestration using LangGraph for complex healthcare scenarios, I created workflows where specialized agents handled different medical product inquiries while maintaining consistent patient context across conversations.",
+        "Developing Agent Assist capabilities for healthcare support agents, I implemented real-time speech analytics that suggested relevant medical information and protocol guidance during patient calls, improving agent accuracy and response times.",
+        "Implementing MCP context management for healthcare virtual agents, I ensured consistent understanding of patient medical history and current concerns across multi-turn conversations, creating personalized support experiences.",
+        "Building CI/CD pipelines with Jenkins for automated Dialogflow CX deployments, I streamlined the testing and release process for healthcare virtual agents while maintaining rigorous validation of medical accuracy and regulatory compliance.",
+        "Configuring OAuth 2.0 authentication for healthcare API integrations, I secured connections between Dialogflow CX and electronic health record systems while maintaining HIPAA compliance and patient data protection standards.",
+        "Creating conversation design patterns for sensitive healthcare topics, I worked with medical experts to develop empathetic dialog flows that handled patient concerns about medications and treatments with appropriate care and accuracy.",
+        "Implementing BigQuery analytics for healthcare conversation data, I developed insights into common patient inquiries and virtual agent performance, identifying opportunities to improve medical information delivery and patient support.",
+        "Developing testing frameworks for healthcare virtual agents, I created comprehensive test suites that validated intent recognition accuracy and medical information correctness across various patient scenarios and inquiry types.",
+        "Integrating gRPC APIs with Dialogflow CX for real-time medical data access, I enabled virtual agents to retrieve current medication information and interaction warnings during patient conversations, enhancing safety and accuracy.",
+        "Collaborating with healthcare compliance teams, I ensured all virtual agent interactions met regulatory requirements for medical information dissemination and patient data handling across different healthcare jurisdictions.",
+        "Optimizing virtual agent performance through systematic intent refinement, I analyzed conversation logs to identify areas where healthcare information could be presented more clearly and accurately to patients."
+      ],
+      "environment": [
+        "Dialogflow CX",
+        "GCP Cloud Functions",
+        "LangChain",
+        "LangGraph",
+        "MCP",
+        "Node.js",
+        "Jenkins",
+        "BigQuery",
+        "gRPC",
+        "REST APIs",
+        "OAuth 2.0",
+        "Cloud Logging",
+        "Healthcare APIs"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker to develop ML models for healthcare data analysis, I implemented predictive models that identified patterns in public health data while maintaining strict HIPAA compliance and data anonymization protocols.",
+        "Implementing REST APIs with Flask for healthcare data integration, I created secure endpoints that allowed authorized systems to access processed health information while maintaining patient privacy and regulatory compliance.",
+        "Leveraging AWS Lambda for serverless data processing, I built functions that transformed healthcare datasets for analysis while ensuring data protection through encryption and access control mechanisms.",
+        "Designing data pipelines with AWS Glue for healthcare information processing, I created ETL workflows that aggregated public health data from multiple sources while maintaining data quality and consistency standards.",
+        "Developing monitoring systems with CloudWatch for healthcare ML models, I implemented alerts for model performance degradation and data quality issues, enabling proactive maintenance of public health analytics systems.",
+        "Building containerized applications with Docker for healthcare data processing, I created portable ML solutions that could be deployed across different environments while maintaining consistent performance and security standards.",
+        "Implementing security protocols for healthcare data access, I configured IAM roles and policies that ensured only authorized personnel could access sensitive health information during processing and analysis.",
+        "Creating data visualization dashboards for public health reporting, I used Python visualization libraries to present healthcare insights in accessible formats for government stakeholders and public health officials.",
+        "Developing automated testing frameworks for healthcare ML models, I implemented validation checks that ensured model accuracy and reliability before deployment to production environments.",
+        "Collaborating with public health experts to refine ML model features, I incorporated domain knowledge into feature engineering processes that improved model performance on healthcare prediction tasks.",
+        "Implementing data governance frameworks for healthcare analytics, I established protocols for data quality, privacy, and security that met state and federal healthcare regulations across all ML implementations.",
+        "Optimizing ML model performance for healthcare datasets, I experimented with different algorithms and preprocessing techniques to improve prediction accuracy while maintaining interpretability for public health applications."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Lambda",
+        "AWS Glue",
+        "Python",
+        "Flask",
+        "Docker",
+        "CloudWatch",
+        "REST APIs",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and Scikit-Learn to develop fraud detection models, I implemented machine learning algorithms that analyzed transaction patterns to identify potential fraudulent activities while maintaining low false positive rates.",
+        "Implementing REST APIs with Flask for model deployment, I created endpoints that served real-time fraud predictions to banking applications while ensuring high availability and low latency for customer transactions.",
+        "Leveraging AWS SageMaker for model training and deployment, I built automated pipelines that retrained fraud detection models with new transaction data, maintaining model accuracy as fraud patterns evolved over time.",
+        "Developing data processing pipelines with AWS Glue, I created ETL workflows that transformed transaction data into features for fraud detection models while ensuring data quality and consistency across banking systems.",
+        "Building monitoring dashboards with CloudWatch, I tracked model performance metrics and data quality indicators, enabling rapid detection of issues in the fraud detection system during high-volume transaction periods.",
+        "Implementing security protocols for financial data handling, I configured encryption and access controls that protected sensitive customer transaction information throughout the model training and prediction process.",
+        "Creating feature engineering pipelines for transaction data, I developed transformations that captured temporal patterns and relationship networks relevant to fraud detection in banking scenarios.",
+        "Collaborating with banking compliance teams, I ensured all fraud detection models met regulatory requirements for fairness, transparency, and explainability in financial decision-making systems.",
+        "Developing model validation frameworks, I implemented testing procedures that verified model performance across different customer segments and transaction types, ensuring equitable fraud detection coverage.",
+        "Optimizing model performance for real-time prediction, I experimented with feature selection and algorithm tuning to balance detection accuracy with computational efficiency in high-volume banking environments."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "AWS SageMaker",
+        "AWS Glue",
+        "Flask",
+        "CloudWatch",
+        "REST APIs",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop to process large-scale client data, I implemented MapReduce jobs that transformed raw business data into structured formats for analysis, learning distributed computing principles through hands-on experimentation.",
+        "Implementing ETL workflows with Informatica, I created data integration pipelines that extracted information from multiple source systems, transformed it according to business rules, and loaded it into data warehouses.",
+        "Leveraging Sqoop for data transfer between Hadoop and relational databases, I configured jobs that efficiently moved large datasets between systems while maintaining data consistency and integrity across environments.",
+        "Developing data quality checks for ETL processes, I implemented validation rules that identified data anomalies and inconsistencies, providing feedback to source systems for continuous data improvement.",
+        "Building data transformation logic with Informatica, I created mappings and workflows that implemented complex business rules for data cleansing and enrichment across client projects.",
+        "Collaborating with business analysts to understand data requirements, I translated business needs into technical specifications for ETL development, learning how to bridge communication gaps between technical and non-technical stakeholders.",
+        "Implementing performance optimizations for Hadoop clusters, I experimented with different configuration settings and data partitioning strategies to improve job execution times for large-scale data processing.",
+        "Developing documentation for ETL processes and data flows, I created technical specifications and operational guides that helped team members understand and maintain data integration systems."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "SQL",
+        "Java"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

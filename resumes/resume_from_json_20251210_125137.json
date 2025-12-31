@@ -1,0 +1,231 @@
+{
+  "name": "Aravind Reddy Datla",
+  "title": "AI Engineer",
+  "contact": {
+    "email": "aravind.datla05@gmail.com",
+    "phone": "+1 9592488855",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/aravind-reddy-datla/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Accomplished AI Engineer with 6 years of experience in developing production-ready AI solutions for Education and Telecommunications sectors, specializing in Python-based machine learning applications that leverage large language models and cloud-native architectures to solve complex business challenges.",
+    "Demonstrated expertise in implementing LangChain and Hugging Face frameworks to create sophisticated generative AI applications that process natural language queries and deliver contextual responses, resulting in enhanced user engagement and satisfaction metrics across multiple client projects.",
+    "Skilled in designing and deploying scalable ML pipelines using Docker containerization and Kubernetes orchestration on AWS cloud infrastructure, ensuring high availability and fault tolerance for mission-critical AI applications in educational technology platforms.",
+    "Proficient in developing RESTful APIs using FastAPI and Flask frameworks to expose ML model functionalities, enabling seamless integration with frontend applications and third-party services while maintaining security best practices and data governance protocols.",
+    "Experienced in applying advanced data manipulation techniques with Pandas and SQL to preprocess and transform large datasets, improving model accuracy and reducing training time by implementing efficient feature engineering strategies tailored to specific domain requirements.",
+    "Adept at utilizing Scikit-learn for traditional machine learning tasks including classification, regression, and clustering algorithms, complementing deep learning approaches with interpretable models that provide transparent decision-making processes for regulatory compliance.",
+    "Practiced in implementing comprehensive CI/CD pipelines using Jenkins and GitHub Actions to automate testing, validation, and deployment of ML models, reducing manual intervention by 80% and ensuring consistent delivery of AI features across development environments.",
+    "Knowledgeable in establishing monitoring and alerting systems with Prometheus and Grafana to track model performance, data drift, and system health metrics, enabling proactive maintenance and optimization of AI applications in production environments.",
+    "Competent in leveraging Terraform for infrastructure as code to provision and manage cloud resources efficiently, implementing security best practices and cost optimization strategies while maintaining reproducible deployment configurations across development, staging, and production environments.",
+    "Proficient in utilizing Redis for caching and message queuing to enhance application performance and scalability, implementing efficient data retrieval mechanisms that reduce API response times and improve overall system throughput for AI-powered applications."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Bash"
+    ],
+    "AI/ML Frameworks": [
+      "LangChain",
+      "Hugging Face",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "FastAPI",
+      "Streamlit",
+      "Gradio"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "Azure Machine Learning"
+    ],
+    "DevOps Tools": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Docker Compose"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "API Development": [
+      "RESTful APIs",
+      "GraphQL",
+      "FastAPI",
+      "Flask",
+      "OpenAPI",
+      "Postman"
+    ],
+    "Frontend": [
+      "React",
+      "Vue.js",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask"
+    ],
+    "Testing": [
+      "Pytest",
+      "Jest",
+      "Mocha",
+      "Selenium",
+      "Postman"
+    ],
+    "Monitoring": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "Datadog",
+      "New Relic"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "SVN"
+    ],
+    "Security": [
+      "OAuth 2.0",
+      "JWT",
+      "SSL/TLS",
+      "OWASP",
+      "HIPAA compliance"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "client": "UConn",
+      "duration": "2023-Aug - 2025-May",
+      "location": "",
+      "responsibilities": [
+        "Architected and implemented a comprehensive AI-powered educational platform using Python, LangChain, and GPT models to provide personalized learning experiences for students, resulting in improved engagement scores and knowledge retention rates across multiple academic disciplines.",
+        "Developed and deployed containerized microservices using Docker and Kubernetes on AWS infrastructure to ensure high availability and scalability of AI applications, supporting concurrent user loads of over 10,000 students during peak examination periods.",
+        "Created sophisticated data preprocessing pipelines with Pandas and SQL to transform raw educational content into structured datasets suitable for training language models, improving model accuracy by 35% and reducing training time by 40% through optimized feature engineering techniques.",
+        "Implemented a secure API gateway using FastAPI to expose ML model functionalities while enforcing authentication and authorization protocols, ensuring compliance with educational data privacy regulations and protecting sensitive student information.",
+        "Utilized Hugging Face transformers to fine-tune pre-trained language models on domain-specific educational content, creating specialized models that demonstrated 28% better performance in answering subject-specific queries compared to generic models.",
+        "Designed and implemented an automated CI/CD pipeline using GitHub Actions to streamline testing, validation, and deployment of ML models, reducing deployment time from hours to minutes and enabling rapid iteration on AI features based on user feedback.",
+        "Applied advanced machine learning techniques with Scikit-learn to develop predictive models that identify students at risk of academic difficulties, enabling timely intervention through personalized support resources and adaptive learning pathways.",
+        "Established comprehensive monitoring and alerting systems using Prometheus and Grafana to track model performance, data drift, and system health metrics, creating dashboards that provided real-time insights into application behavior and facilitated proactive maintenance.",
+        "Leveraged Terraform to implement infrastructure as code practices for cloud resource provisioning, ensuring consistent deployment environments across development, staging, and production while optimizing costs through automated resource scaling.",
+        "Integrated Redis caching mechanisms to store frequently accessed data and model predictions, reducing API response times by 60% and improving overall system performance during high-traffic periods such as semester registration and final examinations.",
+        "Collaborated with cross-functional teams of educators, data scientists, and frontend developers to translate educational requirements into technical specifications, ensuring AI solutions aligned with pedagogical principles and learning objectives.",
+        "Implemented comprehensive logging and error handling mechanisms to facilitate troubleshooting and debugging of AI applications, creating a knowledge base of common issues and solutions that reduced incident resolution time by 45%."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "Hugging Face",
+        "GPT",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "Pandas",
+        "SQL",
+        "Scikit-learn",
+        "Redis",
+        "Prometheus",
+        "Grafana",
+        "Terraform",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "AI Engineer",
+      "client": "Comcast (Accenture)",
+      "duration": "2021-Jul - 2023-Jul",
+      "location": "",
+      "responsibilities": [
+        "Constructed a natural language processing system using Python and Hugging Face transformers to analyze customer support tickets and automatically categorize them by urgency and technical complexity, enabling faster routing to appropriate support teams.",
+        "Developed a real-time recommendation engine using collaborative filtering techniques and deep learning models to suggest personalized content offerings to telecommunications customers, resulting in a 22% increase in customer engagement and satisfaction metrics.",
+        "Implemented containerization strategies using Docker and orchestrated deployment with Kubernetes on AWS cloud infrastructure, ensuring high availability and fault tolerance for ML applications serving millions of customers across multiple regions.",
+        "Designed and built RESTful APIs using FastAPI to expose ML model functionalities for integration with existing telecommunications systems, following industry best practices for security, rate limiting, and data validation.",
+        "Utilized Pandas and SQL to preprocess and transform large datasets of customer usage patterns, network performance metrics, and service interactions, creating feature-rich datasets that improved model accuracy by 30% for predictive analytics applications.",
+        "Applied machine learning algorithms with Scikit-learn to develop predictive models that identified potential network outages and service disruptions before they occurred, enabling proactive maintenance and reducing customer-impacting incidents by 35%.",
+        "Established CI/CD pipelines using Jenkins to automate testing, validation, and deployment of ML models, implementing automated rollback mechanisms and blue-green deployment strategies to minimize service disruptions during updates.",
+        "Configured monitoring and alerting systems with Prometheus and Grafana to track model performance, data drift, and system health metrics, creating customized dashboards that provided actionable insights to operations teams.",
+        "Employed Terraform to manage cloud infrastructure as code, implementing security best practices and cost optimization strategies while maintaining reproducible deployment configurations across multiple environments.",
+        "Integrated Redis for caching and session management to enhance application performance and user experience, implementing efficient data retrieval mechanisms that reduced API response times and improved overall system throughput."
+      ],
+      "environment": [
+        "Python",
+        "Hugging Face",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "Pandas",
+        "SQL",
+        "Scikit-learn",
+        "Jenkins",
+        "Prometheus",
+        "Grafana",
+        "Terraform",
+        "Redis"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Byjus",
+      "duration": "2019-May - 2021-May",
+      "location": "",
+      "responsibilities": [
+        "Analyzed student engagement patterns and learning behaviors using Python and Pandas to identify factors contributing to course completion rates, providing data-driven recommendations that improved student retention by 18% in key educational programs.",
+        "Developed interactive dashboards using Streamlit to visualize complex educational metrics and student performance data, enabling instructors and administrators to identify at-risk students and implement targeted intervention strategies.",
+        "Applied statistical analysis techniques with Scikit-learn to segment students based on learning preferences and performance patterns, facilitating the creation of personalized learning paths that improved knowledge assessment scores by 25%.",
+        "Utilized SQL queries to extract and manipulate data from multiple educational databases, creating consolidated datasets that supported comprehensive analysis of student progress and curriculum effectiveness across different subject areas.",
+        "Collaborated with curriculum development teams to translate educational requirements into data collection strategies, ensuring the capture of relevant metrics that could inform future content improvements and teaching methodologies.",
+        "Implemented data validation and cleaning procedures to ensure accuracy and consistency of educational analytics, establishing quality standards that reduced data errors by 40% and improved the reliability of institutional reporting."
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Scikit-learn",
+        "Streamlit",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Connecticut, School of Business",
+      "degree": "Master of Science",
+      "field": "Business Analytics and Project Management",
+      "year": "2025"
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor of Technology",
+      "field": "Information Technology",
+      "year": "2021"
+    }
+  ],
+  "certifications": [
+    "IBM \u2013 Data Analysis Using Python",
+    "Atlassian \u2013 Jira Fundamentals",
+    "DataCamp \u2013 Intermediate Python"
+  ]
+}

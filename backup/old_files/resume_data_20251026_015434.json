@@ -1,0 +1,226 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Built and deployed scalable data infrastructure in cloud-based environments, utilizing Azure Data Factory, Databricks, and ETL/ELT pipelines to drive business growth.",
+    "Developed and maintained production-grade pipelines, ensuring high-quality data and real-time analytics for AI/ML applications.",
+    "Collaborated with data scientists, ML engineers, and software engineers to design and operate robust, intelligent data systems.",
+    "Designed and implemented data transformation tools using dbt, Spark, and Delta Lake to improve data quality and reduce latency.",
+    "Utilized ML-oriented tools like MLflow, TensorFlow Extended (TFX), and API design to support data-driven decision-making.",
+    "Implemented instrumentation and observability to monitor data systems and optimize performance.",
+    "Designed and operated microservices-based architectures using C#/.NET, Java, and Python to handle large-scale data processing.",
+    "Worked closely with warehouse ops to ensure seamless integration and data quality.",
+    "Developed and maintained CI/CD pipelines to automate deployments and minimize downtime.",
+    "Created and maintained documentation to ensure knowledge sharing and collaboration within the team.",
+    "Mentored junior team members to improve skills and knowledge in data engineering and AI/ML.",
+    "Participated in code reviews to ensure high-quality code and adherence to best practices.",
+    "Contributed to the development of data governance and quality tools, including data validation and lineage tracking.",
+    "Collaborated with the team to resolve technical issues and improve overall system performance.",
+    "Deployed and managed containerization tools like Docker to streamline deployment and reduce downtime.",
+    "Utilized cloud-based data warehouses like Amazon Redshift and Google BigQuery to support business growth and analytics."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "C#/.NET",
+      "Java"
+    ],
+    "Data Engineering Tools": [
+      "Azure Data Factory",
+      "Databricks",
+      "ETL/ELT pipelines",
+      "dbt",
+      "Spark",
+      "Delta Lake",
+      "MLflow",
+      "TensorFlow Extended (TFX)",
+      "Docker"
+    ],
+    "Cloud Platforms": [
+      "Azure"
+    ],
+    "Data Warehousing": [
+      "Amazon Redshift",
+      "Google BigQuery"
+    ],
+    "Big Data Processing": [
+      "Hadoop",
+      "Spark"
+    ],
+    "Data Governance and Quality": [
+      "Data validation",
+      "Lineage tracking"
+    ],
+    "Containerization": [
+      "Docker"
+    ],
+    "DevOps Practices": [
+      "CI/CD",
+      "Continuous integration",
+      "Continuous deployment"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "client": "State Farm",
+      "duration": "2022-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Designed and deployed scalable data infrastructure in cloud-based environments, utilizing Azure Data Factory, Databricks, and ETL/ELT pipelines to drive business growth.",
+        "Developed and maintained production-grade pipelines, ensuring high-quality data and real-time analytics for AI/ML applications.",
+        "Collaborated with data scientists, ML engineers, and software engineers to design and operate robust, intelligent data systems.",
+        "Designed and implemented data transformation tools using dbt, Spark, and Delta Lake to improve data quality and reduce latency.",
+        "Utilized ML-oriented tools like MLflow, TensorFlow Extended (TFX), and API design to support data-driven decision-making.",
+        "Implemented instrumentation and observability to monitor data systems and optimize performance.",
+        "Designed and operated microservices-based architectures using C#/.NET, Java, and Python to handle large-scale data processing.",
+        "Worked closely with warehouse ops to ensure seamless integration and data quality.",
+        "Developed and maintained CI/CD pipelines to automate deployments and minimize downtime.",
+        "Created and maintained documentation to ensure knowledge sharing and collaboration within the team.",
+        "Mentored junior team members to improve skills and knowledge in data engineering and AI/ML.",
+        "Participated in code reviews to ensure high-quality code and adherence to best practices.",
+        "Contributed to the development of data governance and quality tools, including data validation and lineage tracking.",
+        "Collaborated with the team to resolve technical issues and improve overall system performance."
+      ],
+      "environment": [
+        "Cloud-based data infrastructure",
+        "Azure Data Factory",
+        "Databricks",
+        "ETL/ELT pipelines",
+        "dbt",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Docker",
+        "Containerization",
+        "DevOps practices"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2019-Jan - 2021-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed and maintained production-grade pipelines, ensuring high-quality data and real-time analytics for AI/ML applications.",
+        "Collaborated with data scientists, ML engineers, and software engineers to design and operate robust, intelligent data systems.",
+        "Designed and implemented data transformation tools using dbt, Spark, and Delta Lake to improve data quality and reduce latency.",
+        "Utilized ML-oriented tools like MLflow, TensorFlow Extended (TFX), and API design to support data-driven decision-making.",
+        "Implemented instrumentation and observability to monitor data systems and optimize performance.",
+        "Designed and operated microservices-based architectures using C#/.NET, Java, and Python to handle large-scale data processing.",
+        "Worked closely with warehouse ops to ensure seamless integration and data quality.",
+        "Developed and maintained CI/CD pipelines to automate deployments and minimize downtime.",
+        "Created and maintained documentation to ensure knowledge sharing and collaboration within the team.",
+        "Mentored junior team members to improve skills and knowledge in data engineering and AI/ML.",
+        "Participated in code reviews to ensure high-quality code and adherence to best practices.",
+        "Contributed to the development of data governance and quality tools, including data validation and lineage tracking.",
+        "Collaborated with the team to resolve technical issues and improve overall system performance."
+      ],
+      "environment": [
+        "Cloud-based data infrastructure",
+        "Azure Data Factory",
+        "Databricks",
+        "ETL/ELT pipelines",
+        "dbt",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Docker",
+        "Containerization",
+        "DevOps practices"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "State of Maine",
+      "duration": "2018-Apr - 2019-Dec",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed and maintained production-grade pipelines, ensuring high-quality data and real-time analytics for AI/ML applications.",
+        "Collaborated with data scientists, ML engineers, and software engineers to design and operate robust, intelligent data systems.",
+        "Designed and implemented data transformation tools using dbt, Spark, and Delta Lake to improve data quality and reduce latency.",
+        "Utilized ML-oriented tools like MLflow, TensorFlow Extended (TFX), and API design to support data-driven decision-making.",
+        "Implemented instrumentation and observability to monitor data systems and optimize performance.",
+        "Designed and operated microservices-based architectures using C#/.NET, Java, and Python to handle large-scale data processing.",
+        "Worked closely with warehouse ops to ensure seamless integration and data quality.",
+        "Developed and maintained CI/CD pipelines to automate deployments and minimize downtime.",
+        "Created and maintained documentation to ensure knowledge sharing and collaboration within the team.",
+        "Mentored junior team members to improve skills and knowledge in data engineering and AI/ML.",
+        "Participated in code reviews to ensure high-quality code and adherence to best practices.",
+        "Contributed to the development of data governance and quality tools, including data validation and lineage tracking.",
+        "Collaborated with the team to resolve technical issues and improve overall system performance."
+      ],
+      "environment": [
+        "Cloud-based data infrastructure",
+        "Azure Data Factory",
+        "Databricks",
+        "ETL/ELT pipelines",
+        "dbt",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Docker",
+        "Containerization",
+        "DevOps practices"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed and maintained production-grade pipelines, ensuring high-quality data and real-time analytics for AI/ML applications.",
+        "Collaborated with data scientists, ML engineers, and software engineers to design and operate robust, intelligent data systems.",
+        "Designed and implemented data transformation tools using dbt, Spark, and Delta Lake to improve data quality and reduce latency.",
+        "Utilized ML-oriented tools like MLflow, TensorFlow Extended (TFX), and API design to support data-driven decision-making.",
+        "Implemented instrumentation and observability to monitor data systems and optimize performance.",
+        "Designed and operated microservices-based architectures using C#/.NET, Java, and Python to handle large-scale data processing.",
+        "Worked closely with warehouse ops to ensure seamless integration and data quality.",
+        "Developed and maintained CI/CD pipelines to automate deployments and minimize downtime.",
+        "Created and maintained documentation to ensure knowledge sharing and collaboration within the team.",
+        "Mentored junior team members to improve skills and knowledge in data engineering and AI/ML.",
+        "Participated in code reviews to ensure high-quality code and adherence to best practices.",
+        "Contributed to the development of data governance and quality tools, including data validation and lineage tracking.",
+        "Collaborated with the team to resolve technical issues and improve overall system performance."
+      ],
+      "environment": [
+        "Cloud-based data infrastructure",
+        "Azure Data Factory",
+        "Databricks",
+        "ETL/ELT pipelines",
+        "dbt",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Docker",
+        "Containerization",
+        "DevOps practices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate"
+  ]
+}

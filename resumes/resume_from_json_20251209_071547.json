@@ -1,0 +1,309 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead Machine Learning Operations Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Initiated a full MLOps lifecycle by employing SageMaker Pipelines and MLflow to automate training and validation for insurance risk models, which cut manual oversight and established a repeatable release process for data science teams.",
+    "Upgraded our model deployment strategy using SageMaker Endpoints and Docker containers on Kubernetes, enabling seamless A/B testing and rollbacks that improved system reliability for critical healthcare prediction services.",
+    "Devised a monitoring framework with CloudWatch and SageMaker Model Monitor to track performance drift and data quality issues, providing the visibility needed to maintain model accuracy in fast-paced banking environments.",
+    "Formulated secure, HIPAA-compliant feature pipelines with AWS Glue and SageMaker Feature Store, ensuring patient data remained encrypted and auditable while accelerating feature availability for clinical trial models.",
+    "Instituted CI/CD practices for ML workflows using GitHub Actions, automating the testing and promotion of code and model artifacts to enforce technical standards across consulting project deployments.",
+    "Configured a robust experiment tracking system with MLflow and DVC, allowing teams to compare runs and reproduce results easily, which was crucial for audit trails in regulated insurance applications.",
+    "Migrated legacy batch inference jobs to real-time serving architectures with FastAPI and Kubernetes, reducing latency for fraud detection models and meeting strict transaction processing deadlines in banking.",
+    "Assembled a multi-agent proof of concept using LangGraph and the Model Context Protocol to automate complex underwriting document processing, demonstrating the potential to reduce manual review cycles.",
+    "Established a vector search capability with OpenSearch and Hugging Face embeddings to power a RAG system for internal knowledge bases, improving information retrieval for insurance policy analysts.",
+    "Crafted automated data validation checks and alerting within our Airflow DAGs to catch upstream data issues early, preventing corrupted features from impacting production healthcare models.",
+    "Pioneered the use of Terraform to manage all cloud ML infrastructure as code, creating reusable modules for SageMaker studios and training clusters that accelerated project setup across teams.",
+    "Integrated comprehensive logging using OpenTelemetry and Grafana dashboards for our inference endpoints, giving engineers clear insights into system health and simplifying troubleshooting during peak loads.",
+    "Orchestrated the end-to-end retraining pipeline for NLP models using Transformers and NLTK, scheduling periodic updates with new customer feedback data to maintain relevance in dynamic markets.",
+    "Charted the implementation of a distributed training setup for large language models on SageMaker, optimizing GPU utilization to reduce training costs for document summarization tasks in consulting.",
+    "Launched a model versioning and registry workflow using MLflow and S3, providing a single source of truth for all production assets and simplifying compliance reporting for financial auditors.",
+    "Built feature engineering pipelines with PySpark on EMR to process terabytes of claims data, creating aggregated features that improved predictive power for actuarial models while ensuring data lineage.",
+    "Enacted security best practices by configuring VPC endpoints and KMS encryption for all SageMaker workloads, ensuring patient data isolation and meeting stringent healthcare compliance requirements.",
+    "Developed a scalable batch transform solution with Lambda and SageMaker to score millions of records nightly, supporting marketing campaign analytics without overburdening real-time systems."
+  ],
+  "technical_skills": {
+    "MLOps & Orchestration": [
+      "MLflow",
+      "Kubeflow",
+      "Amazon SageMaker Pipelines",
+      "Apache Airflow",
+      "Prefect",
+      "Dagster",
+      "CI/CD for ML",
+      "Model Versioning"
+    ],
+    "Cloud AI/ML Platforms": [
+      "Amazon SageMaker",
+      "AWS Bedrock",
+      "Vertex AI",
+      "Azure ML Studio",
+      "SageMaker Endpoints",
+      "Feature Store"
+    ],
+    "Programming & Backend": [
+      "Python",
+      "PySpark",
+      "Java",
+      "Go",
+      "Node.js",
+      "FastAPI",
+      "Flask"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "EC2",
+      "EKS",
+      "AWS Fargate"
+    ],
+    "Machine Learning Frameworks": [
+      "Hugging Face Transformers",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "XGBoost",
+      "LangChain",
+      "LangGraph"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "AWS Glue",
+      "EMR",
+      "Databricks",
+      "Apache Kafka",
+      "Kinesis",
+      "Hadoop"
+    ],
+    "Data Stores & Feature Engineering": [
+      "Amazon S3",
+      "Athena",
+      "PostgreSQL",
+      "OpenSearch",
+      "pgvector",
+      "Feast",
+      "Tecton"
+    ],
+    "Monitoring & Observability": [
+      "Amazon CloudWatch",
+      "SageMaker Model Monitor",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "Drift Detection"
+    ],
+    "Infrastructure as Code & DevOps": [
+      "Terraform",
+      "GitHub Actions",
+      "Jenkins",
+      "AWS CodePipeline",
+      "IAM",
+      "KMS",
+      "VPC"
+    ],
+    "Specialized ML Services": [
+      "Amazon Comprehend",
+      "Rekognition",
+      "Polly",
+      "NLTK",
+      "spaCy",
+      "Multi-Agent Systems",
+      "Model Context Protocol"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Construct a production-grade MLOps pipeline using SageMaker Pipelines and MLflow to automate the training and validation of property risk models, ensuring each release is repeatable and compliant with state insurance regulations.",
+        "Build a real-time inference service for claim triage using FastAPI and SageMaker Endpoints, containerized with Docker and deployed on EKS, achieving low latency while maintaining strict data sovereignty rules.",
+        "Create a multi-agent proof of concept with LangGraph and the Model Context Protocol to automate the extraction and validation of data from complex insurance forms, reducing manual entry errors.",
+        "Implement a comprehensive monitoring suite with CloudWatch and SageMaker Model Monitor to track prediction drift and feature skew, providing clear visibility into model performance for stakeholders.",
+        "Design and populate a feature store using SageMaker to serve curated risk factors across multiple models, improving consistency and reducing duplicate computation for actuarial teams.",
+        "Establish a CI/CD workflow with GitHub Actions to automatically test and promote new model versions, incorporating unit tests and integration checks to uphold technical standards.",
+        "Configure a vector search system using OpenSearch and Hugging Face embeddings to power a RAG application for insurance policy documents, enabling faster lookup for underwriters.",
+        "Architect a secure data preparation pipeline with AWS Glue and PySpark that processes sensitive customer data in a VPC, using KMS encryption to meet compliance requirements.",
+        "Develop an experiment tracking framework with MLflow to log all hyperparameters and metrics, allowing data scientists to easily reproduce results and compare different modeling approaches.",
+        "Set up automated retraining triggers based on data drift metrics, using Lambda functions to initiate SageMaker Pipeline runs, which keeps models current with evolving risk patterns.",
+        "Integrate model outputs into downstream policy administration systems via secure APIs, working with backend engineers to ensure reliable data flow for customer-facing applications.",
+        "Optimize GPU utilization for training large language models on SageMaker for document summarization, selecting appropriate instance types to balance cost and training speed.",
+        "Document the entire MLOps architecture and operational runbooks, facilitating knowledge sharing and enabling other teams to adopt similar patterns for their projects.",
+        "Troubleshoot performance issues in the nightly batch inference jobs by analyzing CloudWatch logs and adjusting Spark configurations, eventually reducing runtime significantly.",
+        "Participate in daily stand-ups and code reviews with data scientists and platform engineers, providing feedback on implementation details and ensuring alignment with project goals.",
+        "Evaluate new tools like Amazon Bedrock for generative AI use cases, running small proof of concepts to assess feasibility for automating customer communication drafts."
+      ],
+      "environment": [
+        "Python",
+        "Amazon SageMaker",
+        "MLflow",
+        "Docker",
+        "Kubernetes (EKS)",
+        "FastAPI",
+        "AWS Glue",
+        "PySpark",
+        "LangGraph",
+        "Model Context Protocol",
+        "OpenSearch",
+        "Hugging Face",
+        "GitHub Actions",
+        "CloudWatch",
+        "SageMaker Feature Store",
+        "AWS Lambda",
+        "VPC",
+        "KMS"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Deployed a HIPAA-compliant ML platform on AWS SageMaker for clinical trial prediction models, using VPC isolation and encrypted S3 buckets to secure patient health information.",
+        "Automated the feature engineering pipeline for patient cohort data using AWS Glue and SageMaker Feature Store, ensuring traceability and reproducibility for audit purposes.",
+        "Orchestrated model training workflows with SageMaker Pipelines and Airflow, scheduling periodic retraining with new lab results to maintain prediction accuracy.",
+        "Containerized NLP model inference services using Docker and served them via SageMaker Endpoints, enabling scalable deployment for analyzing medical literature.",
+        "Tracked all experiments and model lineages with MLflow, integrating it with the SageMaker environment to help teams comply with FDA documentation requirements.",
+        "Built a proof-of-concept multi-agent system with LangChain to simulate and optimize clinical supply chain logistics, demonstrating potential efficiency gains.",
+        "Monitored production model performance with CloudWatch alarms and SageMaker Model Monitor, setting up alerts for data drift in real-world patient data streams.",
+        "Implemented a CI/CD pipeline with Jenkins for ML code, adding security scans and unit tests to ensure reliable deployments to the healthcare environment.",
+        "Created a RAG-based knowledge assistant using Hugging Face embeddings and OpenSearch to help researchers quickly find relevant trial protocols and documentation.",
+        "Worked with data scientists to optimize PySpark jobs on EMR for large-scale genomic data processing, reducing feature computation time for research models.",
+        "Debugged latency issues in a real-time inference API by profiling the FastAPI service and optimizing feature fetching from the online feature store.",
+        "Designed a blue-green deployment strategy for a critical patient risk model using SageMaker endpoints, minimizing downtime during updates.",
+        "Prepared technical documentation and led knowledge transfer sessions for platform engineers, ensuring smooth operational handover of the MLOps systems.",
+        "Collaborated with the legal and compliance team to review the data flow of the ML systems, ensuring all processes adhered to HIPAA and GxP standards."
+      ],
+      "environment": [
+        "Python",
+        "AWS SageMaker",
+        "MLflow",
+        "Docker",
+        "Apache Airflow",
+        "AWS Glue",
+        "EMR",
+        "PySpark",
+        "FastAPI",
+        "LangChain",
+        "Hugging Face",
+        "OpenSearch",
+        "Jenkins",
+        "CloudWatch",
+        "SageMaker Feature Store",
+        "VPC",
+        "S3"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed and deployed ML models on Azure ML Studio to predict public health program outcomes, ensuring all data handling complied with state HIPAA regulations.",
+        "Engineered batch inference pipelines with Azure Data Factory and Databricks to score participant data weekly, integrating results into the state's reporting dashboards.",
+        "Containerized model scoring scripts using Docker and managed deployments with Azure Kubernetes Service, improving resource utilization and scalability.",
+        "Established model versioning and experiment tracking using MLflow integrated with Azure Blob Storage, creating a reproducible research environment for analysts.",
+        "Built monitoring dashboards in Azure Monitor to track model accuracy and data drift over time, providing insights to program administrators.",
+        "Implemented secure data access patterns using Azure Active Directory and Key Vault to protect sensitive participant information within the ML workflows.",
+        "Created automated data validation checks within the PySpark preprocessing jobs to ensure quality before model training or inference.",
+        "Optimized feature computation pipelines in Databricks to handle large demographic datasets, reducing job costs on the Azure platform.",
+        "Worked with backend teams to integrate model predictions into the existing citizen portal via REST APIs, requiring careful coordination on release schedules.",
+        "Documented the operational procedures for model retraining and disaster recovery, contributing to the state's IT continuity plans.",
+        "Troubleshooted failed pipeline runs by examining Data Factory logs and Databricks cluster metrics, often related to data source connectivity issues.",
+        "Participated in weekly security review meetings to ensure the ML infrastructure adhered to evolving state data privacy and public sector cloud policies."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML Studio",
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Docker",
+        "Azure Kubernetes Service",
+        "MLflow",
+        "PySpark",
+        "Azure Blob Storage",
+        "Azure Monitor",
+        "Azure Active Directory",
+        "Key Vault"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Built and validated fraud detection models using Scikit-Learn and XGBoost, deploying them as Azure ML web services for real-time transaction scoring.",
+        "Prepared and engineered features from transactional data using PySpark on Azure Databricks, ensuring compliance with PCI-DSS data masking requirements.",
+        "Operationalized model retraining pipelines with Azure Data Factory, automating the monthly update cycle with new transaction data.",
+        "Versioned all model artifacts and training code using Git and DVC, establishing reproducibility for audit and compliance reviews.",
+        "Monitored model performance metrics in production using Azure Application Insights, investigating any unexpected drops in precision.",
+        "Created batch scoring jobs using Azure Batch to process large volumes of historical data for regulatory reporting and model validation.",
+        "Collaborated with DevOps engineers to containerize the model serving code using Docker for consistent deployment across environments.",
+        "Developed API wrappers with Flask to integrate model scores into the legacy risk management systems used by the fraud operations team.",
+        "Conducted exploratory data analysis to identify new predictive features, documenting findings for both technical and business stakeholders.",
+        "Attended daily scrums with the product and engineering teams to align model development priorities with business needs for financial security."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "XGBoost",
+        "Azure ML",
+        "Azure Databricks",
+        "PySpark",
+        "Azure Data Factory",
+        "DVC",
+        "Flask",
+        "Docker",
+        "Azure Batch",
+        "Azure Application Insights"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to build and maintain ETL pipelines using Informatica to move client data from source systems into a centralized Hadoop data lake.",
+        "Extracted data from SQL Server databases using Sqoop and loaded it into HDFS, scheduling these jobs with shell scripts and cron.",
+        "Assisted senior engineers in optimizing Hive queries for client reporting dashboards, learning about partitioning and bucketing strategies.",
+        "Wrote basic Python scripts to perform data quality checks on processed files, flagging any records that failed validation rules.",
+        "Participated in team meetings to understand client requirements from the consulting domain, translating them into technical tasks.",
+        "Gained experience with version control using SVN, committing code changes and updating documentation for the ETL processes.",
+        "Supported the troubleshooting of failed nightly batch jobs by checking log files and restarting processes under supervision.",
+        "Prepared data extracts for analyst teams using Hive queries, ensuring timely delivery for their business intelligence projects."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Python",
+        "Shell Scripting",
+        "SQL Server",
+        "HDFS",
+        "SVN"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

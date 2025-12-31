@@ -1,0 +1,284 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java and J2EE technologies to develop scalable enterprise applications, focusing on Spring Framework and Hibernate for ORM, ensuring efficient data management and application performance.",
+    "Engineered RESTful and SOAP web services using JAX-WS and JAX-RS, integrating with external systems for seamless data exchange in a healthcare insurance platform.",
+    "Implemented microservices architecture with Spring Boot, improving system modularity and scalability for a banking application, reducing deployment time by streamlining services.",
+    "Configured and deployed applications on Apache Tomcat and JBoss servers, ensuring high availability and performance for mission-critical systems in the insurance domain.",
+    "Developed JSP and Servlets for dynamic web pages, enhancing user interaction and experience in a healthcare claims processing portal, adhering to HIPAA compliance standards.",
+    "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity in a financial services application.",
+    "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in a customer relationship management system for the banking sector.",
+    "Collaborated with cross-functional teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability in a healthcare data analytics platform.",
+    "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate systems in an insurance claims processing pipeline.",
+    "Utilized Maven and Jenkins for build automation and CI/CD pipelines, ensuring consistent and reliable deployments in a cloud-native banking application.",
+    "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in a healthcare provider network management system.",
+    "Worked with Docker and Kubernetes to containerize and orchestrate Java applications, enhancing deployment efficiency and scalability in a cloud-based insurance platform.",
+    "Implemented security best practices using Spring Security, safeguarding sensitive data in a financial transaction processing system, adhering to PCI DSS standards.",
+    "Optimized database queries and schema design using SQL and Oracle, improving data retrieval speeds in a healthcare patient records management system.",
+    "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality in a collaborative team environment.",
+    "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity in a fast-paced consulting project.",
+    "Adapted to evolving project requirements, learning new technologies and frameworks to deliver innovative solutions in the healthcare and insurance domains.",
+    "Documented technical specifications and user manuals, ensuring clear communication and knowledge transfer for future maintenance and enhancements."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "J2EE",
+      "JavaScript",
+      "SQL",
+      "HTML/CSS"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Framework",
+      "Spring Boot",
+      "Hibernate",
+      "Struts",
+      "Apache Camel"
+    ],
+    "Web Technologies": [
+      "JSP",
+      "Servlets",
+      "JAX-WS",
+      "JAX-RS",
+      "RESTful Web Services",
+      "SOAP"
+    ],
+    "Application Servers": [
+      "Apache Tomcat",
+      "JBoss",
+      "WebLogic",
+      "WebSphere"
+    ],
+    "Databases": [
+      "Oracle",
+      "MySQL",
+      "PostgreSQL",
+      "SQL Server"
+    ],
+    "ORM & Persistence": [
+      "Hibernate",
+      "JPA",
+      "JDBC"
+    ],
+    "Build & Deployment": [
+      "Maven",
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Testing": [
+      "JUnit",
+      "Mockito"
+    ],
+    "Security": [
+      "Spring Security",
+      "OAuth",
+      "PCI DSS",
+      "HIPAA"
+    ],
+    "Version Control": [
+      "Git",
+      "SVN"
+    ],
+    "IDEs": [
+      "Eclipse",
+      "IntelliJ IDEA"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Engineered a claims processing system using Java and Spring Framework, integrating Hibernate for ORM to manage policyholder data, improving data retrieval efficiency.",
+        "Developed RESTful web services with JAX-RS for external partner integrations, ensuring seamless data exchange in the insurance platform.",
+        "Implemented microservices architecture with Spring Boot, enhancing system scalability and reducing deployment time for new features.",
+        "Configured and deployed applications on Apache Tomcat, ensuring high availability and performance for mission-critical systems.",
+        "Utilized JSP and Servlets to create dynamic web pages for policy management, improving user interaction and experience.",
+        "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity.",
+        "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in the claims database.",
+        "Collaborated with QA teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability.",
+        "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate systems.",
+        "Utilized Maven and Jenkins for build automation and CI/CD pipelines, ensuring consistent and reliable deployments.",
+        "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in the claims processing system.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate Java applications, enhancing deployment efficiency.",
+        "Implemented security best practices using Spring Security, safeguarding sensitive policyholder data.",
+        "Optimized database queries and schema design using SQL and Oracle, improving data retrieval speeds.",
+        "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality.",
+        "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity."
+      ],
+      "environment": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "Apache Tomcat",
+        "Oracle",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed a healthcare provider network management system using Java and Spring Framework, integrating Hibernate for ORM to manage provider data.",
+        "Engineered SOAP web services with JAX-WS for integration with external healthcare systems, ensuring data exchange compliance with HIPAA standards.",
+        "Implemented microservices architecture with Spring Boot, improving system modularity and scalability for the healthcare platform.",
+        "Configured and deployed applications on JBoss, ensuring high availability and performance for critical healthcare systems.",
+        "Utilized JSP and Servlets to create dynamic web pages for provider onboarding, enhancing user interaction and experience.",
+        "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity in the provider network.",
+        "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in the provider database.",
+        "Collaborated with cross-functional teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability.",
+        "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate healthcare systems.",
+        "Utilized Maven and Jenkins for build automation and CI/CD pipelines, ensuring consistent and reliable deployments.",
+        "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in the provider network system.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate Java applications, enhancing deployment efficiency.",
+        "Implemented security best practices using Spring Security, safeguarding sensitive healthcare data.",
+        "Optimized database queries and schema design using SQL and PostgreSQL, improving data retrieval speeds.",
+        "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality.",
+        "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity."
+      ],
+      "environment": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "JBoss",
+        "PostgreSQL",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Engineered a patient records management system using Java and Spring Framework, integrating Hibernate for ORM to manage patient data.",
+        "Developed RESTful web services with JAX-RS for integration with external healthcare systems, ensuring seamless data exchange.",
+        "Implemented microservices architecture with Spring Boot, improving system scalability and reducing deployment time for new features.",
+        "Configured and deployed applications on WebLogic, ensuring high availability and performance for critical healthcare systems.",
+        "Utilized JSP and Servlets to create dynamic web pages for patient record access, enhancing user interaction and experience.",
+        "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity in the patient records system.",
+        "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in the patient database.",
+        "Collaborated with QA teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability.",
+        "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate systems.",
+        "Utilized Maven and Jenkins for build automation and CI/CD pipelines, ensuring consistent and reliable deployments.",
+        "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in the patient records system.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate Java applications, enhancing deployment efficiency.",
+        "Implemented security best practices using Spring Security, safeguarding sensitive patient data.",
+        "Optimized database queries and schema design using SQL and MySQL, improving data retrieval speeds.",
+        "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality.",
+        "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity."
+      ],
+      "environment": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "WebLogic",
+        "MySQL",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed a financial transaction processing system using Java and Spring Framework, integrating Hibernate for ORM to manage transaction data.",
+        "Engineered RESTful web services with JAX-RS for integration with external banking systems, ensuring seamless data exchange.",
+        "Implemented microservices architecture with Spring Boot, improving system scalability and reducing deployment time for new features.",
+        "Configured and deployed applications on WebSphere, ensuring high availability and performance for critical financial systems.",
+        "Utilized JSP and Servlets to create dynamic web pages for transaction monitoring, enhancing user interaction and experience.",
+        "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity in the financial system.",
+        "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in the transaction database.",
+        "Collaborated with cross-functional teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability.",
+        "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate systems.",
+        "Utilized Maven and Jenkins for build automation and CI/CD pipelines, ensuring consistent and reliable deployments.",
+        "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in the transaction processing system.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate Java applications, enhancing deployment efficiency.",
+        "Implemented security best practices using Spring Security, safeguarding sensitive financial data.",
+        "Optimized database queries and schema design using SQL and SQL Server, improving data retrieval speeds.",
+        "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality.",
+        "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity."
+      ],
+      "environment": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "WebSphere",
+        "SQL Server",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed a customer relationship management system using Java and Spring Framework, integrating Hibernate for ORM to manage customer data.",
+        "Engineered SOAP web services with JAX-WS for integration with external systems, ensuring seamless data exchange.",
+        "Implemented monolithic architecture with Struts, ensuring robust and reliable system performance.",
+        "Configured and deployed applications on Apache Tomcat, ensuring high availability and performance for critical systems.",
+        "Utilized JSP and Servlets to create dynamic web pages for customer interaction, enhancing user experience.",
+        "Integrated EJBs for complex business logic, optimizing transaction management and ensuring data integrity in the CRM system.",
+        "Applied JDBC and Hibernate for database connectivity, streamlining data access and reducing redundancy in the customer database.",
+        "Collaborated with QA teams to troubleshoot and debug Java applications, resolving critical issues and improving system stability.",
+        "Implemented enterprise integration patterns using Apache Camel, facilitating smooth data flow between disparate systems.",
+        "Utilized Maven for build automation, ensuring consistent and reliable deployments.",
+        "Developed and maintained unit tests using JUnit, ensuring code quality and reliability in the CRM system.",
+        "Implemented security best practices using Spring Security, safeguarding sensitive customer data.",
+        "Optimized database queries and schema design using SQL and Oracle, improving data retrieval speeds.",
+        "Participated in code reviews and pair programming sessions, fostering knowledge sharing and improving code quality.",
+        "Mentored junior developers in Java and J2EE best practices, accelerating their onboarding and productivity."
+      ],
+      "environment": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "Apache Tomcat",
+        "Oracle",
+        "Git",
+        "Maven"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

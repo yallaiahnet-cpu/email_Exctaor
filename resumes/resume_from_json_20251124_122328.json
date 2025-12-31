@@ -1,0 +1,307 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Vertex AI & CCAI Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI/ML engineering and architecture, specializing in enterprise-scale conversational AI, LLM systems, and Google Cloud-based AI platforms across insurance, healthcare, banking, and consulting domains.",
+    "Architecting production-grade ML solutions using Google Vertex AI to design and implement scalable AI systems that process millions of insurance claims while maintaining strict regulatory compliance and data security standards across State Farm's enterprise environment.",
+    "Developing advanced RAG systems with Python and vector databases to enhance information retrieval for insurance policy documents, enabling faster claim processing and improving customer satisfaction through more accurate conversational AI responses.",
+    "Implementing agentic architectures using Crew AI and LangGraph to create multi-agent systems that automate complex insurance workflows, reducing manual processing time while maintaining audit trails for compliance requirements.",
+    "Designing CCAI-powered conversational AI workflows with Dialogflow CX that integrate speech-to-text and text-to-speech capabilities, providing seamless customer service experiences for insurance policy inquiries and claims reporting.",
+    "Building MLOps pipelines with Vertex AI and Cloud Run to deploy, monitor, and maintain production ML models, ensuring high availability and performance for real-time insurance risk assessment and fraud detection systems.",
+    "Optimizing LLM performance through prompt tuning and parameter-efficient fine-tuning techniques, carefully balancing model accuracy with computational costs while meeting insurance industry regulatory requirements.",
+    "Creating model evaluation frameworks with comprehensive metrics to validate AI system performance across insurance domains, ensuring models meet business requirements before production deployment.",
+    "Developing data chunking strategies and embedding pipelines for RAG systems that process complex insurance documents, improving information retrieval accuracy for customer service agents and automated systems.",
+    "Implementing Cloud Run services with FastAPI to expose ML models as REST APIs, enabling seamless integration with existing insurance systems and providing real-time AI capabilities to customer-facing applications.",
+    "Designing multi-agent systems using agentic frameworks that coordinate across insurance domains, allowing specialized AI agents to handle specific tasks like claims validation, policy recommendations, and risk assessment.",
+    "Building production-grade ML models with PySpark for large-scale data processing, handling terabytes of insurance claim data while maintaining data privacy and security standards required by industry regulations.",
+    "Architecting enterprise AI solutions with Google CCAI that integrate with existing insurance systems, providing cohesive customer experiences across multiple channels including voice, chat, and digital platforms.",
+    "Implementing vector database solutions for RAG pipelines that store and retrieve insurance policy embeddings, enabling faster information access for customer service representatives and automated response systems.",
+    "Developing Python-based ML services deployed on Cloud Run that handle real-time insurance risk scoring, processing thousands of requests per second while maintaining sub-second response times.",
+    "Creating agentic workflow orchestrations using LangGraph that manage complex insurance processes across multiple departments, ensuring consistent data handling and compliance with industry regulations.",
+    "Designing and implementing speech-to-text pipelines with CCAI Speech services that transcribe customer insurance claims calls, extracting key information for automated processing and analysis.",
+    "Building comprehensive MLOps frameworks with Vertex Pipelines that automate model training, validation, and deployment for insurance AI systems, reducing manual intervention while improving model reliability."
+  ],
+  "technical_skills": {
+    "Google Cloud AI/ML Services": [
+      "Google Vertex AI",
+      "Google CCAI/CES",
+      "Dialogflow CX",
+      "Cloud Run",
+      "Vertex Pipelines",
+      "BigQuery",
+      "Cloud Functions",
+      "Speech-to-Text API",
+      "Text-to-Speech API"
+    ],
+    "AI/ML Frameworks & Libraries": [
+      "Python",
+      "PySpark",
+      "TensorFlow",
+      "PyTorch",
+      "Hugging Face Transformers",
+      "LangChain",
+      "LlamaIndex",
+      "Crew AI",
+      "LangGraph"
+    ],
+    "LLM & NLP Technologies": [
+      "LLM Fine-tuning",
+      "Prompt Engineering",
+      "RAG Systems",
+      "Agentic Architectures",
+      "Multi-agent Systems",
+      "Model Context Protocol",
+      "Parameter-efficient Fine-tuning"
+    ],
+    "MLOps & Deployment": [
+      "Vertex AI Pipelines",
+      "Cloud Run",
+      "Docker",
+      "FastAPI",
+      "Model Evaluation Frameworks",
+      "ML Monitoring",
+      "CI/CD Pipelines"
+    ],
+    "Data Engineering & Processing": [
+      "Data Chunking",
+      "Vector Databases",
+      "BigQuery",
+      "PySpark",
+      "Dataflow",
+      "ETL Pipelines",
+      "Feature Stores"
+    ],
+    "Conversational AI Platforms": [
+      "Google CCAI",
+      "Dialogflow CX",
+      "Speech-to-Text",
+      "Text-to-Speech",
+      "Conversational Design",
+      "Voice Bot Development"
+    ],
+    "Cloud Infrastructure": [
+      "Google Cloud Platform",
+      "Cloud Run",
+      "Cloud Functions",
+      "Cloud Storage",
+      "IAM",
+      "VPC Networking",
+      "Load Balancing"
+    ],
+    "API Development & Integration": [
+      "FastAPI",
+      "REST APIs",
+      "GraphQL",
+      "API Gateway",
+      "Webhook Integration",
+      "Authentication Services"
+    ],
+    "Database Technologies": [
+      "Vector Databases",
+      "BigQuery",
+      "Cloud SQL",
+      "Firestore",
+      "Memorystore Redis",
+      "Data Storage Optimization"
+    ],
+    "Development & DevOps Tools": [
+      "Docker",
+      "Git",
+      "CI/CD Pipelines",
+      "Terraform",
+      "Cloud Build",
+      "Monitoring Tools",
+      "Logging Services"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architecting enterprise-scale AI solutions using Google Vertex AI to process insurance claims, designing multi-agent systems that handle complex workflows while maintaining strict compliance with state insurance regulations and data privacy requirements.",
+        "Implementing advanced RAG pipelines with Python and vector databases that chunk and index insurance policy documents, enabling faster information retrieval for claims adjusters and reducing policy lookup times during customer interactions.",
+        "Developing agentic architectures using Crew AI and LangGraph to create coordinated multi-agent systems where specialized AI agents handle specific insurance tasks like claims validation, risk assessment, and customer communication.",
+        "Building production-grade ML models with PySpark that process terabytes of historical insurance data, implementing feature engineering pipelines that extract relevant patterns for fraud detection and risk prediction models.",
+        "Designing CCAI-powered conversational AI workflows with Dialogflow CX that integrate speech-to-text capabilities, allowing customers to report claims via voice while automatically extracting key information for processing.",
+        "Creating MLOps pipelines with Vertex AI that automate model training and deployment, implementing evaluation frameworks that validate model performance against insurance-specific metrics before production release.",
+        "Optimizing LLM performance through systematic prompt tuning and parameter-efficient fine-tuning techniques, carefully balancing response accuracy with computational costs while meeting insurance regulatory requirements.",
+        "Implementing Cloud Run services with FastAPI that expose ML models as REST APIs, enabling real-time risk scoring for insurance applications while maintaining sub-second response times under high load.",
+        "Developing multi-agent proof of concepts using agentic frameworks that demonstrate coordinated workflow automation across insurance domains, from initial claim intake to final settlement processing.",
+        "Building comprehensive model evaluation frameworks that assess AI system performance across multiple insurance metrics, ensuring models meet business requirements and regulatory standards before deployment.",
+        "Designing data chunking strategies for insurance documents that optimize RAG system performance, experimenting with different chunk sizes and overlap techniques to improve information retrieval accuracy.",
+        "Implementing speech-to-text pipelines with CCAI Speech services that transcribe customer insurance calls, extracting structured data for automated processing while maintaining conversation context.",
+        "Creating monitoring systems for production AI models that track performance drift and data quality issues, setting up alerts for when models need retraining due to changing insurance patterns.",
+        "Developing parameter-efficient fine-tuning approaches for insurance-specific LLMs that adapt general models to domain terminology while minimizing computational resources and training time.",
+        "Building collaborative multi-agent systems using LangGraph that coordinate across insurance departments, ensuring consistent data handling and compliance with evolving regulatory requirements.",
+        "Implementing CI/CD pipelines with Cloud Build that automate testing and deployment of AI services, reducing manual intervention while maintaining high reliability standards for insurance applications."
+      ],
+      "environment": [
+        "Google Vertex AI",
+        "Google CCAI",
+        "Python",
+        "PySpark",
+        "Crew AI",
+        "LangGraph",
+        "Cloud Run",
+        "FastAPI",
+        "Vector Databases",
+        "Dialogflow CX",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Vertex Pipelines",
+        "BigQuery"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Engineered healthcare AI solutions using AWS SageMaker to develop ML models that analyze patient data while maintaining strict HIPAA compliance and ensuring patient privacy through encrypted data processing and access controls.",
+        "Implemented RAG systems with AWS Bedrock that retrieve medical literature and clinical guidelines, enabling healthcare professionals to access relevant information quickly during patient consultations and treatment planning.",
+        "Developed conversational AI agents with AWS Lex that handle patient inquiries about medications and treatments, implementing natural language understanding that recognizes medical terminology and provides accurate responses.",
+        "Built multi-agent proof of concepts using Crew AI that coordinate across healthcare domains, creating specialized agents for drug information, side effect monitoring, and clinical trial matching services.",
+        "Designed data processing pipelines with PySpark that handle healthcare datasets while maintaining data integrity and privacy, implementing feature engineering that extracts relevant medical patterns for predictive models.",
+        "Created model evaluation frameworks that validate healthcare AI systems against clinical accuracy metrics, ensuring models meet medical standards before deployment in patient-facing applications.",
+        "Implemented FastAPI services that expose ML models as REST APIs for healthcare applications, enabling real-time predictions for drug interaction checks and treatment recommendations.",
+        "Developed prompt tuning strategies for healthcare LLMs that improve response accuracy for medical queries, carefully testing and validating outputs against established clinical guidelines.",
+        "Built agentic architectures using LangGraph that manage complex healthcare workflows, coordinating multiple AI agents to handle patient data processing, medication tracking, and treatment adherence monitoring.",
+        "Designed data chunking approaches for medical documents that optimize RAG system performance, experimenting with semantic chunking techniques that preserve clinical context in retrieved information.",
+        "Implemented MLOps pipelines with SageMaker that automate healthcare model retraining, incorporating new clinical data while maintaining version control and model governance standards.",
+        "Created speech-to-text integrations that transcribe doctor-patient conversations for clinical documentation, implementing privacy-preserving processing that anonymizes patient identifiers automatically.",
+        "Developed parameter-efficient fine-tuning methods for healthcare LLMs that adapt general models to medical terminology while minimizing computational requirements and training time.",
+        "Built monitoring systems for healthcare AI applications that track model performance and data quality, implementing alerts for when models need updating based on new clinical evidence or changing treatment patterns."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Bedrock",
+        "AWS Lex",
+        "Python",
+        "PySpark",
+        "Crew AI",
+        "LangGraph",
+        "FastAPI",
+        "RAG Systems",
+        "Multi-agent Systems",
+        "MLOps",
+        "Model Evaluation",
+        "Speech-to-Text"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Constructed healthcare ML systems using AWS SageMaker that process public health data while maintaining HIPAA compliance, implementing data anonymization techniques that preserve patient privacy in population health analyses.",
+        "Implemented RAG pipelines with AWS services that retrieve healthcare regulations and guidelines, enabling public health officials to quickly access relevant information during policy development and emergency response planning.",
+        "Developed conversational AI prototypes with AWS Lex that handle public health inquiries, creating natural language interfaces that help citizens access healthcare services and information during the pandemic response.",
+        "Built proof of concept multi-agent systems using Crew AI that coordinate across public health domains, creating specialized agents for disease tracking, resource allocation, and public communication.",
+        "Designed data processing workflows with PySpark that handle healthcare datasets from multiple sources, implementing data validation and cleaning procedures that ensure data quality for public health modeling.",
+        "Created model evaluation frameworks that assess healthcare AI systems against public health metrics, validating model performance before deployment in government health applications.",
+        "Implemented REST APIs with FastAPI that expose ML models for public health applications, enabling real-time predictions for disease spread and healthcare resource utilization.",
+        "Developed prompt optimization strategies for healthcare chatbots that improve response accuracy for public health queries, testing and refining prompts based on citizen feedback and expert review.",
+        "Built agentic workflow prototypes using LangGraph that manage public health processes, coordinating multiple AI agents to handle data collection, analysis, and reporting tasks.",
+        "Designed data chunking methods for public health documents that enhance RAG system performance, implementing techniques that preserve context in retrieved public health guidelines and regulations.",
+        "Implemented MLOps practices with SageMaker that streamline public health model deployment, creating automated pipelines that retrain models with new health data while maintaining audit trails.",
+        "Developed monitoring systems for public health AI applications that track model performance and data quality, creating dashboards that show key metrics for healthcare officials and stakeholders."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Lex",
+        "Python",
+        "PySpark",
+        "Crew AI",
+        "LangGraph",
+        "FastAPI",
+        "RAG Systems",
+        "Multi-agent POCs",
+        "MLOps",
+        "Model Evaluation",
+        "Healthcare AI"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed financial ML models using Azure ML Studio that analyze transaction data for fraud detection, implementing algorithms that identify suspicious patterns while maintaining PCI DSS compliance and data security standards.",
+        "Implemented data processing pipelines with Azure Data Factory that handle banking transaction data, creating feature engineering workflows that extract relevant patterns for credit risk assessment and customer behavior analysis.",
+        "Built conversational AI prototypes with Azure Bot Service that handle customer banking inquiries, creating natural language interfaces that help customers with account management and financial product information.",
+        "Designed RAG system concepts that retrieve banking regulations and compliance documents, enabling faster access to financial rules and guidelines for compliance officers and customer service representatives.",
+        "Created model evaluation frameworks that validate financial AI systems against banking metrics, ensuring models meet regulatory requirements and business standards before deployment in customer-facing applications.",
+        "Implemented REST APIs with Python that expose ML models for banking applications, enabling real-time fraud detection and credit scoring while maintaining low latency for customer transactions.",
+        "Developed data chunking strategies for financial documents that optimize information retrieval, experimenting with different approaches for banking regulations and compliance guidelines.",
+        "Built monitoring systems for banking AI applications that track model performance and data quality, implementing alerts for when models need retraining due to changing financial patterns or new regulations.",
+        "Designed MLOps workflows with Azure ML that automate model retraining and deployment, creating pipelines that incorporate new transaction data while maintaining model version control.",
+        "Implemented prompt tuning techniques for financial chatbots that improve response accuracy for banking queries, testing and refining prompts based on customer interactions and regulatory requirements."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Azure Bot Service",
+        "Python",
+        "RAG Concepts",
+        "Model Evaluation",
+        "MLOps",
+        "REST APIs",
+        "Financial AI",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Built data processing systems with Hadoop that handle client data from multiple sources, implementing ETL workflows that transform and load data for business intelligence and analytics applications across consulting engagements.",
+        "Designed data integration pipelines with Informatica that combine information from client systems, creating unified data views that support business analysis and decision-making for consulting projects.",
+        "Implemented data extraction workflows with Sqoop that move data between relational databases and Hadoop, creating scheduled jobs that ensure data currency for client reporting and analytics needs.",
+        "Developed data validation procedures that ensure data quality across client systems, implementing checks and balances that identify data issues before they impact business analysis and consulting recommendations.",
+        "Created data modeling approaches that structure client information for analytical processing, designing schemas that support business intelligence reporting and data visualization for consulting deliverables.",
+        "Built monitoring systems that track data pipeline performance across client engagements, implementing alerts for data quality issues and processing failures that could impact consulting project timelines.",
+        "Designed documentation standards for data engineering workflows, creating comprehensive guides that help client teams understand and maintain data systems after consulting engagements conclude.",
+        "Implemented data security practices that protect client information during processing and storage, ensuring compliance with data privacy requirements across different industries and geographic regions."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Processing",
+        "Data Integration",
+        "Data Quality",
+        "Data Modeling"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

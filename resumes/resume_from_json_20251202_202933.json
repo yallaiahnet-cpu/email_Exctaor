@@ -1,0 +1,226 @@
+{
+  "name": "Aravind Datla",
+  "title": "Senior Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered comprehensive data solutions using Databricks and PySpark to process and transform healthcare data while ensuring HIPAA compliance, implementing Delta Live Tables for reliable data pipeline orchestration and maintaining data quality through automated validation checks.",
+    "Developed robust ETL processes with Python and Spark SQL to handle large-scale banking data, incorporating Medallion Architecture principles to organize data into bronze, silver, and gold layers for improved data governance and accessibility across financial systems.",
+    "Architected real-time data streaming solutions using Kafka and Spark Structured Streaming to process automotive telemetry data, enabling immediate insights into vehicle performance metrics while maintaining data integrity through proper schema enforcement.",
+    "Implemented Test Driven Development (TDD) methodologies across all data engineering projects, creating comprehensive test suites using Python testing frameworks to ensure data quality and pipeline reliability, which reduced production issues by catching errors early.",
+    "Created automated CI/CD pipelines using GitLab and Jenkins to streamline deployment of data workflows, implementing version control best practices and environment-specific configurations to ensure smooth transitions from development to production environments.",
+    "Designed and deployed scalable data models in Snowflake using dbt for data transformation, establishing modular design patterns that allowed for easy maintenance and expansion of the data warehouse while maintaining consistent performance across queries.",
+    "Collaborated with cross-functional teams to deliver actionable insights using Power BI dashboards, translating complex data into visualizations that supported business decision-making across healthcare, banking, automotive, and consulting domains.",
+    "Established data observability practices to monitor pipeline health and data quality, implementing alerting mechanisms that proactively identified issues before they impacted downstream systems, significantly reducing troubleshooting time.",
+    "Led data platform optimization initiatives that improved processing efficiency and reduced costs, analyzing bottlenecks in existing pipelines and implementing solutions such as partitioning strategies and caching mechanisms to enhance performance.",
+    "Mentored junior engineers on best practices for data engineering, including code review processes, documentation standards, and testing strategies, which elevated the overall quality of team deliverables and accelerated onboarding of new team members.",
+    "Facilitated stakeholder workshops to gather requirements and translate business needs into technical specifications, ensuring alignment between data solutions and organizational objectives across various domains and regulatory environments.",
+    "Pioneered the adoption of Delta Lake technology to enable ACID transactions on big data workloads, solving data consistency challenges in multi-user environments and providing reliable time travel capabilities for data auditing and rollback scenarios.",
+    "Integrated disparate data sources using custom connectors and APIs, creating unified data views that eliminated data silos and provided comprehensive insights across organizational boundaries while maintaining proper data lineage documentation.",
+    "Optimized Spark jobs through careful configuration of cluster resources and code refactoring, reducing execution times and cloud costs while maintaining or improving data processing accuracy and completeness across all domains.",
+    "Established data governance frameworks that ensured compliance with industry regulations including HIPAA for healthcare, PCI for banking, and ISO standards for automotive, implementing proper data classification and access controls.",
+    "Developed reusable data processing components that accelerated development timelines across multiple projects, creating libraries of common functions and transformations that maintained consistency while reducing duplicate code.",
+    "Implemented security best practices in all data solutions, including encryption at rest and in transit, role-based access controls, and audit logging to protect sensitive information across healthcare, financial, and automotive data.",
+    "Continuously evaluated and adopted emerging data technologies and methodologies, staying current with industry trends and introducing innovations that improved data processing capabilities and team productivity across all project domains."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "PySpark",
+      "Spark SQL",
+      "Java",
+      "Scala"
+    ],
+    "Data Engineering": [
+      "Databricks",
+      "Delta Live Tables (DLT)",
+      "dbt",
+      "Medallion Architecture",
+      "Kafka",
+      "Spark Structured Streaming",
+      "Airflow"
+    ],
+    "Database Technologies": [
+      "Snowflake",
+      "MySQL",
+      "PostgreSQL",
+      "Delta Lake",
+      "Hadoop"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "GitLab",
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Data Visualization": [
+      "Power BI",
+      "Tableau",
+      "Looker"
+    ],
+    "Testing & Quality Assurance": [
+      "Test Driven Development (TDD)",
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing"
+    ],
+    "Data Governance": [
+      "HIPAA Compliance",
+      "PCI Compliance",
+      "Data Lineage",
+      "Data Quality",
+      "Data Cataloging"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Architected HIPAA-compliant data pipelines using Databricks and PySpark to process sensitive healthcare information, implementing Delta Live Tables for reliable data orchestration while ensuring patient privacy through proper data masking and access controls.",
+        "Engineered a comprehensive data warehouse solution in Snowflake following Medallion Architecture principles, creating bronze, silver, and gold layers that progressively refined healthcare data while maintaining complete audit trails for regulatory compliance.",
+        "Developed real-time data ingestion systems using Kafka and Spark Structured Streaming to process pharmacy and clinical data as it was generated, enabling immediate analytics for patient care optimization and inventory management across CVS locations.",
+        "Implemented Test Driven Development (TDD) practices for all data engineering projects, creating extensive test suites that validated data transformations and business rules, which significantly reduced data quality issues in production environments.",
+        "Built automated CI/CD pipelines using GitLab and Jenkins to deploy data workflows and transformations, implementing environment-specific configurations and approval processes that ensured proper testing before production deployment.",
+        "Created dbt models to transform raw healthcare data into analytics-ready datasets, establishing modular design patterns that made transformations reusable across different business units while maintaining consistent business logic.",
+        "Optimized Spark jobs for healthcare data processing by implementing proper partitioning strategies and caching mechanisms, which reduced processing times for large-scale patient data analytics and enabled more frequent reporting cycles.",
+        "Designed data observability frameworks that monitored pipeline health and data quality, implementing custom alerts that notified teams of anomalies in healthcare data patterns before they impacted downstream systems or patient care.",
+        "Led the migration of legacy healthcare data systems to modern cloud-based architecture, carefully planning the transition to minimize disruption to critical pharmacy and clinical operations while ensuring data integrity throughout the process.",
+        "Collaborated with data scientists to create feature engineering pipelines that prepared healthcare data for machine learning models, implementing proper feature selection and transformation techniques while maintaining patient privacy.",
+        "Established data governance practices specific to healthcare regulations, creating data dictionaries, quality metrics, and lineage documentation that ensured compliance with HIPAA requirements and facilitated regulatory audits.",
+        "Integrated disparate healthcare data sources including electronic health records, pharmacy systems, and insurance claims, creating unified data views that provided comprehensive patient insights while maintaining proper data provenance.",
+        "Implemented security best practices across all data solutions, including encryption of sensitive patient information, role-based access controls, and comprehensive audit logging to protect against unauthorized access or data breaches.",
+        "Mentored junior data engineers on healthcare data management best practices, including regulatory requirements, data privacy considerations, and technical implementation of compliant data solutions, elevating the team's overall capabilities.",
+        "Created performance dashboards using Power BI to visualize healthcare data pipeline metrics, enabling stakeholders to monitor data processing efficiency, quality indicators, and system utilization across the organization.",
+        "Developed custom Python functions to handle complex healthcare data transformations, implementing business logic for patient matching, medication reconciliation, and clinical data standardization across different source systems.",
+        "Evaluated and implemented new data technologies to improve healthcare data processing capabilities, introducing innovations such as Delta Lake for ACID transactions and time travel features for data auditing and rollback scenarios.",
+        "Collaborated with cross-functional teams including clinicians, pharmacists, and business analysts to translate healthcare requirements into technical specifications, ensuring data solutions met both clinical and business needs."
+      ],
+      "environment": [
+        "Databricks",
+        "PySpark",
+        "Spark SQL",
+        "Delta Live Tables",
+        "Snowflake",
+        "Kafka",
+        "Spark Structured Streaming",
+        "Python",
+        "dbt",
+        "GitLab",
+        "Jenkins",
+        "Power BI",
+        "AWS",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Designed and implemented PCI-compliant data pipelines using Databricks and PySpark to process sensitive financial information, creating secure data transformation workflows that maintained customer privacy while enabling comprehensive banking analytics.",
+        "Developed a Medallion Architecture-based data warehouse in Snowflake for banking data, establishing bronze, silver, and gold layers that progressively refined transaction data while maintaining complete audit trails for financial compliance.",
+        "Built real-time fraud detection systems using Kafka and Spark Structured Streaming to analyze transaction patterns as they occurred, enabling immediate identification of suspicious activities and reducing financial losses through early intervention.",
+        "Applied Test Driven Development (TDD) methodologies to all data engineering projects, creating comprehensive test suites that validated financial data transformations and business rules, which significantly reduced data quality issues in production.",
+        "Created automated deployment pipelines using GitLab CI/CD to streamline the release of data workflows, implementing proper testing stages and approval processes that ensured reliable delivery of critical banking data solutions.",
+        "Engineered dbt models to transform raw banking data into analytics-ready datasets, implementing modular design patterns that made transformations reusable across different financial products while maintaining consistent business logic.",
+        "Optimized Spark jobs for financial data processing by implementing proper partitioning strategies and caching mechanisms, which reduced processing times for large-scale transaction analytics and enabled more frequent risk assessment cycles.",
+        "Established data quality monitoring frameworks that validated financial data integrity, implementing custom checks that identified anomalies in transaction patterns before they impacted downstream systems or regulatory reporting.",
+        "Led the migration of legacy banking data systems to modern cloud-based architecture, carefully planning the transition to minimize disruption to critical financial operations while ensuring data accuracy throughout the process.",
+        "Collaborated with risk management teams to create data pipelines for credit risk assessment, implementing proper feature engineering and model monitoring while ensuring compliance with banking regulations.",
+        "Implemented data governance practices specific to financial regulations, creating data dictionaries, quality metrics, and lineage documentation that ensured compliance with PCI requirements and facilitated regulatory audits.",
+        "Integrated disparate banking data sources including transaction systems, customer information, and market data, creating unified data views that provided comprehensive financial insights while maintaining proper data provenance.",
+        "Enhanced security across all data solutions, including encryption of sensitive financial information, role-based access controls, and comprehensive audit logging to protect against unauthorized access or data breaches.",
+        "Created performance dashboards using Power BI to visualize banking data pipeline metrics, enabling stakeholders to monitor data processing efficiency, quality indicators, and system utilization across the organization.",
+        "Developed custom Python functions to handle complex financial data transformations, implementing business logic for transaction categorization, risk scoring, and regulatory reporting across different banking systems."
+      ],
+      "environment": [
+        "Databricks",
+        "PySpark",
+        "Spark SQL",
+        "Snowflake",
+        "Kafka",
+        "Spark Structured Streaming",
+        "Python",
+        "dbt",
+        "GitLab",
+        "Jenkins",
+        "Power BI",
+        "AWS",
+        "PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Built data pipelines using Apache Kafka and Hadoop to process large volumes of vehicle telemetry data, implementing real-time analytics that enabled engineers to monitor vehicle performance and identify potential maintenance issues before they became critical.",
+        "Developed automated workflows with Apache Airflow to orchestrate complex data processing tasks, scheduling jobs that transformed raw automotive data into structured formats suitable for analysis while ensuring proper error handling and retry mechanisms.",
+        "Created Python scripts to clean and standardize vehicle sensor data, implementing data validation rules that identified and corrected anomalies in telemetry readings, which improved the reliability of downstream analytics and predictive maintenance models.",
+        "Designed data models using Tableau to visualize automotive performance metrics, creating interactive dashboards that allowed engineers to explore vehicle data across different dimensions and time periods to identify trends and patterns.",
+        "Optimized data processing performance by implementing proper partitioning strategies in Hadoop, which reduced query response times for large-scale vehicle data analysis and enabled more frequent reporting cycles for engineering teams.",
+        "Collaborated with automotive engineers to understand data requirements for vehicle testing and validation, translating technical specifications into data pipeline designs that captured the necessary information for analysis.",
+        "Implemented data quality monitoring processes that validated automotive data integrity, creating custom checks that identified anomalies in sensor readings or missing data points before they impacted engineering analyses.",
+        "Integrated disparate automotive data sources including vehicle sensors, manufacturing systems, and quality control databases, creating unified data views that provided comprehensive insights into vehicle performance across the production lifecycle.",
+        "Established data governance practices for automotive data, creating data dictionaries and lineage documentation that ensured proper understanding of data elements and their relationships across different vehicle systems.",
+        "Developed documentation for data pipelines and transformations, creating comprehensive guides that enabled other team members to understand and maintain the data processing systems for automotive analytics.",
+        "Participated in code reviews to ensure quality and consistency of data engineering solutions, providing feedback and suggestions that improved the maintainability and performance of automotive data processing systems.",
+        "Researched and evaluated new data technologies to improve automotive data processing capabilities, identifying tools and techniques that could enhance the efficiency and reliability of vehicle data analytics."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "AWS",
+        "SQL",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed ETL processes using Talend and Apache Airflow to extract data from multiple client systems, implementing transformation logic that cleaned and standardized information for loading into target databases while ensuring data quality.",
+        "Designed and implemented data models in MySQL and PostgreSQL to support consulting projects, creating normalized schemas that efficiently stored client information while maintaining data integrity through proper constraints and relationships.",
+        "Created Python scripts to automate data validation and quality checks, implementing custom rules that identified inconsistencies or errors in client data before it was used for analysis or reporting, which improved overall data reliability.",
+        "Built Tableau dashboards to visualize client data and insights, creating interactive visualizations that helped consulting teams identify trends and patterns that informed strategic recommendations for business improvement.",
+        "Optimized database performance by analyzing query execution plans and implementing proper indexing strategies, which reduced response times for data retrieval and improved the efficiency of reporting processes for consulting projects.",
+        "Collaborated with business analysts to understand client requirements and translate them into technical specifications, ensuring that data solutions met both business needs and technical constraints.",
+        "Implemented data integration processes that combined information from disparate client systems, creating unified data views that provided comprehensive insights for consulting analyses and recommendations.",
+        "Documented data pipelines and transformations, creating comprehensive guides that enabled team members to understand and maintain the data processing systems used across different consulting engagements.",
+        "Participated in code reviews to ensure quality and consistency of data solutions, providing feedback and suggestions that improved the maintainability and performance of data processing systems for consulting projects.",
+        "Researched and implemented best practices for data management, introducing new techniques and tools that enhanced the efficiency and reliability of data processing across multiple consulting engagements."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "ETL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

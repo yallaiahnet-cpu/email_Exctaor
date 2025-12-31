@@ -1,0 +1,372 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior GCP Machine Learning Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in machine learning engineering and data science with deep expertise in Google Cloud Platform, Vertex AI, and advanced ML Ops practices across multiple industries.",
+    "Using Google Cloud Platform and Vertex AI to address complex predictive modeling challenges by implementing end-to-end ML pipelines that processed insurance data while ensuring regulatory compliance and model reliability.",
+    "Leveraging TensorFlow and PyTorch to develop sophisticated machine learning models for risk assessment and fraud detection in insurance applications, creating ensemble methods that improved prediction accuracy significantly.",
+    "Implementing Natural Language Processing solutions with BERT and GPT models that analyzed insurance claim documents and customer communications, extracting meaningful insights for business decision making.",
+    "Designing ML Ops frameworks with Vertex AI Pipelines that automated model training, validation, and deployment processes, reducing manual intervention and improving model lifecycle management.",
+    "Building predictive modeling systems with BigQuery ML that processed large-scale insurance data, creating models that could be trained and deployed directly within the data warehouse environment.",
+    "Developing feature engineering pipelines with Python and Scikit-learn that transformed raw insurance data into meaningful features for machine learning models while maintaining data quality standards.",
+    "Creating model training and tuning systems with Vertex AI Training that optimized hyperparameters automatically, finding the best configurations for insurance prediction models across different product lines.",
+    "Implementing model deployment strategies with Vertex AI Endpoints that served predictions in real-time for insurance applications while maintaining low latency and high availability requirements.",
+    "Building model monitoring solutions with Vertex AI Model Monitoring that tracked prediction drift and data quality issues in production insurance systems, triggering alerts for retraining when needed.",
+    "Developing statistical analysis frameworks with Python that validated model assumptions and performance metrics, ensuring reliable predictions for insurance underwriting and pricing decisions.",
+    "Implementing data wrangling processes with Pandas and Dataflow that cleaned and transformed messy insurance data into analysis-ready formats, handling missing values and outliers appropriately.",
+    "Creating LLM and GenAI applications with Langchain and LangGraph that automated insurance document processing and customer service interactions, improving operational efficiency.",
+    "Building AutoML systems with Vertex AI AutoML that enabled business users to create basic insurance prediction models without deep technical expertise, democratizing machine learning capabilities.",
+    "Developing agent-to-agent communication frameworks with A2A patterns that coordinated multiple AI systems for complex insurance workflow automation and decision support.",
+    "Implementing Model Context Protocol integrations that standardized tool interactions within insurance AI ecosystems, improving interoperability between different machine learning components.",
+    "Creating Crew AI orchestration systems that managed multi-agent workflows for insurance claim processing and risk assessment, coordinating specialized AI agents effectively.",
+    "Building PEFT and LoRA fine-tuning pipelines that optimized large language models for specific insurance domain tasks while reducing computational costs and training time."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Google Cloud Platform Vertex AI to address insurance risk prediction challenges by implementing end-to-end ML pipelines that processed policyholder data while ensuring regulatory compliance.",
+        "Leveraging TensorFlow and PyTorch to develop sophisticated neural networks for insurance fraud detection, creating models that analyzed transaction patterns and claim histories effectively.",
+        "Implementing Natural Language Processing with BERT models that processed insurance claim documents, extracting key information and sentiment analysis for automated claim assessment.",
+        "Designing ML Ops frameworks with Vertex AI Pipelines that automated the entire model lifecycle from data preparation to deployment for multiple insurance product lines.",
+        "Building predictive modeling systems with BigQuery ML that enabled direct model training on insurance data warehouses, creating efficient solutions for risk assessment.",
+        "Developing feature engineering pipelines with Python and Scikit-learn that transformed raw insurance application data into meaningful features for underwriting models.",
+        "Creating model training and tuning systems with Vertex AI Training that automatically optimized hyperparameters for insurance prediction models across different geographic regions.",
+        "Implementing model deployment strategies with Vertex AI Endpoints that served real-time predictions for insurance quote generation while maintaining strict latency requirements.",
+        "Building model monitoring solutions with Vertex AI Model Monitoring that tracked prediction accuracy and data drift in production insurance systems across state regulations.",
+        "Developing statistical analysis frameworks that validated model assumptions for insurance pricing algorithms, ensuring compliance with actuarial standards and regulations.",
+        "Implementing data wrangling processes with Dataflow that cleaned messy insurance application data, handling missing information and inconsistent formatting across different sources.",
+        "Creating LLM applications with Langchain that automated insurance customer service interactions, providing instant responses to common policy questions and claim status inquiries.",
+        "Building AutoML systems with Vertex AI AutoML that enabled business analysts to create basic insurance risk models without requiring deep machine learning expertise.",
+        "Developing agent-to-agent communication frameworks that coordinated multiple AI systems for complex insurance workflow automation across underwriting and claims processing.",
+        "Implementing Model Context Protocol integrations that standardized tool interactions within the insurance AI ecosystem, improving interoperability between different ML components.",
+        "Creating Crew AI orchestration systems that managed multi-agent workflows for insurance policy renewal and cross-selling opportunities, coordinating specialized AI agents effectively."
+      ],
+      "environment": [
+        "Google Cloud Platform",
+        "Vertex AI",
+        "TensorFlow",
+        "PyTorch",
+        "BERT",
+        "BigQuery ML",
+        "Python",
+        "Scikit-learn",
+        "Dataflow",
+        "Langchain",
+        "AutoML",
+        "Model Context Protocol",
+        "Crew AI",
+        "ML Ops"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using GCP Vertex AI to address healthcare predictive modeling challenges by implementing ML pipelines that processed clinical trial data while maintaining HIPAA compliance and data security.",
+        "Leveraging TensorFlow to develop deep learning models for patient outcome prediction, creating architectures that analyzed electronic health records with proper data anonymization.",
+        "Implementing Natural Language Processing with clinical text data that extracted medical concepts and relationships from physician notes and research documents for healthcare analytics.",
+        "Designing ML Ops frameworks with Vertex AI Pipelines that automated model retraining and validation for pharmaceutical research applications across multiple therapeutic areas.",
+        "Building predictive modeling systems with BigQuery ML that processed large-scale healthcare data for drug efficacy prediction and adverse event monitoring in clinical trials.",
+        "Developing feature engineering pipelines that transformed raw clinical data into meaningful features for patient stratification models while preserving data privacy and security.",
+        "Creating model training and tuning systems that optimized neural network architectures for medical image analysis and diagnostic prediction in healthcare applications.",
+        "Implementing model deployment strategies with Vertex AI Endpoints that served real-time predictions for patient risk assessment while ensuring healthcare regulatory compliance.",
+        "Building model monitoring solutions that tracked prediction performance and data quality in production healthcare systems, alerting teams to potential issues requiring intervention.",
+        "Developing statistical analysis frameworks that validated clinical prediction models against established medical standards and regulatory requirements for drug development.",
+        "Implementing data wrangling processes that cleaned and standardized healthcare data from multiple clinical systems and research databases for analysis readiness.",
+        "Creating LLM applications that processed medical literature and research papers, extracting relevant insights for pharmaceutical research and development decisions.",
+        "Building AutoML systems that enabled healthcare researchers to create predictive models for patient outcomes without extensive machine learning background or coding skills.",
+        "Developing agent communication frameworks that coordinated AI systems for complex healthcare workflow automation across clinical research and patient care coordination."
+      ],
+      "environment": [
+        "GCP Vertex AI",
+        "TensorFlow",
+        "BigQuery ML",
+        "Python",
+        "Healthcare data",
+        "Clinical analytics",
+        "HIPAA compliance",
+        "Electronic health records",
+        "Pharmaceutical research"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using AWS SageMaker to address public health prediction challenges by implementing machine learning models that processed population health data while ensuring data privacy compliance.",
+        "Leveraging Scikit-learn to develop predictive models for disease outbreak forecasting, creating ensemble methods that analyzed historical health data and environmental factors.",
+        "Implementing data processing pipelines with AWS Glue that transformed public health records into analysis-ready formats while maintaining proper data governance and security.",
+        "Designing ML workflows with SageMaker Pipelines that automated model training and deployment for public health monitoring applications across different regions.",
+        "Building predictive modeling systems that processed healthcare facility data for resource allocation planning and capacity prediction during public health emergencies.",
+        "Developing feature engineering frameworks that transformed raw public health data into meaningful features for epidemiological models and disease surveillance.",
+        "Creating model training systems with SageMaker Training that optimized algorithms for public health prediction tasks while handling imbalanced datasets and missing values.",
+        "Implementing model deployment strategies with SageMaker Endpoints that served predictions for public health decision support while maintaining reliability and accuracy.",
+        "Building model monitoring solutions with CloudWatch that tracked prediction performance in production public health systems, ensuring timely updates for changing conditions.",
+        "Developing statistical analysis methods that validated public health models against historical outbreak data and established epidemiological principles.",
+        "Implementing data cleaning processes that standardized public health data from multiple sources and reporting systems for consistent analysis and modeling.",
+        "Creating documentation systems that captured model specifications and performance metrics for public health agency reviews and regulatory compliance requirements."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Scikit-learn",
+        "AWS Glue",
+        "CloudWatch",
+        "Public health data",
+        "Epidemiological models",
+        "Healthcare analytics",
+        "Disease surveillance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using AWS SageMaker to address financial fraud detection challenges by implementing machine learning models that analyzed transaction patterns while ensuring regulatory compliance.",
+        "Leveraging Python and Scikit-learn to develop credit risk assessment models that processed customer financial data for loan approval and pricing decisions.",
+        "Implementing data processing pipelines with AWS Glue that transformed banking transaction data into features for fraud detection and anomaly identification models.",
+        "Designing predictive modeling systems that analyzed customer behavior patterns for cross-selling opportunities and retention risk prediction in banking services.",
+        "Building feature engineering frameworks that transformed raw financial data into meaningful features for risk models while maintaining data quality and consistency.",
+        "Creating model training workflows with SageMaker that optimized algorithms for financial prediction tasks across different customer segments and product lines.",
+        "Implementing model deployment strategies with SageMaker Endpoints that served real-time predictions for fraud detection while maintaining low latency requirements.",
+        "Building monitoring solutions that tracked model performance in production banking systems, alerting teams to potential issues requiring model retraining or adjustment.",
+        "Developing statistical analysis methods that validated financial models against historical performance data and regulatory requirements for banking compliance.",
+        "Implementing data validation processes that ensured data quality and consistency throughout the machine learning pipeline for reliable financial predictions."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Python",
+        "Scikit-learn",
+        "AWS Glue",
+        "Financial data",
+        "Fraud detection",
+        "Credit risk",
+        "Banking compliance",
+        "Transaction analytics"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that handled large datasets from multiple business systems for consulting projects.",
+        "Leveraging Informatica to develop ETL processes that transformed client data into analysis-ready formats, creating reusable mappings that accelerated project delivery timelines.",
+        "Implementing data integration pipelines with Sqoop that transferred data between relational databases and Hadoop clusters, ensuring data consistency and completeness.",
+        "Designing data storage solutions with HDFS that organized client project data, creating accessible repositories for analysis and reporting requirements.",
+        "Building data processing workflows that automated ETL operations for client engagements, ensuring timely data availability for consulting analysis.",
+        "Developing data quality checks that validated client data integrity throughout processing pipelines, identifying data issues that needed client resolution.",
+        "Creating data documentation standards that captured source system details and transformation logic for client knowledge transfer and project continuity.",
+        "Implementing basic data security measures that protected client information during processing and analysis, maintaining confidentiality for consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Relational databases",
+        "ETL processes",
+        "Data quality",
+        "Client consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

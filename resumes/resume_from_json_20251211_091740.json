@@ -1,0 +1,290 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI/ML Engineer & UX Architect for Multi-Agent Systems",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and engineering user-centered AI systems, specializing in the integration of React.js, TypeScript, and Node.js to build high-performance interfaces for complex, multi-agent platforms.",
+    "Leveraged React.js and a scalable design system to architect the front-end for a healthcare AI dashboard, implementing autonomy sliders and grounding checks to provide clinicians with transparent control over diagnostic agent recommendations.",
+    "Applied TypeScript and Node.js to develop a secure Model Context Protocol (MCP) integration layer, enabling HIPAA-compliant data exchange between AI agents and legacy electronic health record (EHR) systems within an AWS environment.",
+    "Orchestrated the UX engineering for a generative AI platform using CrewAI and LangGraph, designing multi-agent workflows that streamlined prior authorization processes, significantly reducing manual review times for insurance claims.",
+    "Conducted extensive usability and A/B testing on AI transparency features like memory management UX, utilizing telemetry data to refine interface elements and define KPIs for user trust in financial decision-support tools.",
+    "Championed accessibility compliance (WCAG 2.1) across all AI dashboards, collaborating with DS and ML teams to ensure explainability patterns were perceivable and operable for users with diverse abilities in government portals.",
+    "Translated ambiguous business problems in supply chain optimization into concrete UX solutions by prototyping multi-agent orchestration interfaces in Figma, facilitating alignment between product vision and technical execution.",
+    "Engineered high-performance, responsive UIs for real-time AI dashboards using React.js, focusing on front-end performance tuning to handle streaming data from multiple concurrent agents in a manufacturing context.",
+    "Defined and implemented telemetry-driven UX refinement cycles, establishing key events to analyze user interactions with AI suggestions and driving iterative design improvements based on model performance feedback.",
+    "Led cross-functional collaboration with Data Science and ML engineering teams to align high-fidelity UI/UX prototypes with Apple-grade standards, ensuring the technical feasibility of complex agentic AI architectures.",
+    "Designed and tested user-centered design (UCD) principles for generative AI platforms, creating interfaces that balanced automation with human oversight through intuitive grounding checks and configurable autonomy levels.",
+    "Architected the information architecture for enterprise multi-agent systems, structuring workflows where specialist agents for fraud detection, compliance, and customer service could collaborate seamlessly via a unified React front-end.",
+    "Integrated secure front-end components with enterprise APIs using MCP, implementing robust authentication and audit trails to meet stringent data privacy and PCI compliance requirements in financial services applications.",
+    "Facilitated iterative UX cycles tied directly to AI model feedback loops, organizing weekly reviews where user behavior analytics from Mixpanel informed adjustments to agent prompting and interface clarity.",
+    "Spearheaded the development of a reusable design system for AI applications, creating component libraries for transparency mechanisms that accelerated UI development for new insurance underwriting agents.",
+    "Employed user-centered design methodologies to reason through complex decision-support interfaces for public health data, creating clear visualizations that helped government epidemiologists interpret multi-agent forecasts.",
+    "Owned the end-to-end AI UX strategy for a pilot project, from initial wireframing of agent-to-agent interaction logs to the final deployment of a Node.js backend supporting real-time agent orchestration on AWS ECS.",
+    "Influenced product roadmaps by presenting data from usability tests on explainability features, demonstrating how improved UX for AI transparency directly increased adoption rates among healthcare providers."
+  ],
+  "technical_skills": {
+    "AI/ML & Agentic Frameworks": [
+      "CrewAI",
+      "LangGraph",
+      "AutoGen",
+      "Model Context Protocol (MCP)",
+      "RAG Systems",
+      "Vector Stores",
+      "Fine-tuning LLMs",
+      "Multi-Agent Orchestration"
+    ],
+    "Frontend Engineering & UX": [
+      "React.js",
+      "TypeScript",
+      "UX Engineering",
+      "User-Centered Design (UCD)",
+      "High-Performance UI",
+      "Responsive Design",
+      "Figma",
+      "Sketch",
+      "WCAG 2.1 Accessibility",
+      "Design Systems"
+    ],
+    "Backend & API Development": [
+      "Node.js",
+      "FastAPI",
+      "REST APIs",
+      "Secure API Integration",
+      "MCP Servers",
+      "Enterprise Authentication"
+    ],
+    "Cloud & DevOps": [
+      "AWS (SageMaker, Lambda, EC2, RDS, S3)",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Terraform",
+      "GitHub Actions",
+      "High-Availability Deployment"
+    ],
+    "Data Engineering & Analytics": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Apache Airflow",
+      "SQL",
+      "PostgreSQL",
+      "Snowflake",
+      "ETL Pipelines",
+      "Telemetry Analytics",
+      "Mixpanel",
+      "Amplitude"
+    ],
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "AWS ECS",
+      "AWS EKS"
+    ],
+    "Monitoring & Observability": [
+      "Datadog",
+      "CloudWatch",
+      "Telemetry Implementation",
+      "KPI Dashboards",
+      "Log Aggregation"
+    ],
+    "Security & Compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GDPR",
+      "Data Privacy by Design",
+      "Secure Front-End Practices",
+      "Audit Logging"
+    ],
+    "Project Management & Collaboration": [
+      "Jira",
+      "Confluence",
+      "Cross-functional Leadership",
+      "Agile/Scrum",
+      "Stakeholder Influence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a React.js and TypeScript front-end for an AI-driven supply chain dashboard, implementing multi-agent orchestration UX to allow logistics managers to visually track and adjust autonomous agent tasks in real-time.",
+        "Engineered a Node.js backend integrated with Model Context Protocol (MCP) to securely connect diagnostic AI agents with HIPAA-regulated inventory and patient data stored across AWS S3 and RDS, ensuring strict compliance.",
+        "Designed and implemented user-centered transparency features, including autonomy sliders and grounding check overlays, giving clinical staff control over AI recommendations for medical supply allocation.",
+        "Led the development of a scalable design system in Figma and React, creating reusable components for AI explainability that accelerated the build of new modules for predictive demand forecasting agents.",
+        "Orchestrated daily stand-ups with Data Science teams to align UX prototypes with CrewAI and LangGraph agent architectures, translating complex business rules into intuitive workflow visualizations.",
+        "Championed WCAG 2.1 compliance audits for all AI dashboard elements, personally debugging contrast ratios and keyboard navigation to ensure accessibility for healthcare administrators with disabilities.",
+        "Spearheaded telemetry-driven UX refinement by defining KPIs and implementing Mixpanel events to track user interactions with generative AI suggestions, leading to a redesigned agent confidence display.",
+        "Configured Docker containers and Kubernetes manifests on AWS EKS to deploy the MCP integration layer, ensuring high availability for the agent communication framework supporting real-time decisioning.",
+        "Prototyped UX patterns for memory management in long-running conversational agents, conducting usability tests with supply chain analysts to refine how past interactions were summarized and displayed.",
+        "Troubleshot performance bottlenecks in the React-based AI dashboard, implementing virtualization for large data tables and memoization to maintain responsiveness during multi-agent data streaming.",
+        "Mentored junior engineers on secure front-end practices for enterprise AI, reviewing pull requests for MCP client code to prevent data leakage from PHI handled by specialist agents.",
+        "Facilitated workshops with product managers to decompose ambiguous supply chain problems into actionable agentic workflows, using Figma wireframes to socialize the multi-agent UX strategy.",
+        "Integrated Datadog RUM for front-end performance monitoring, creating dashboards that correlated UI load times with backend agent latency, guiding optimization efforts for critical path actions.",
+        "Authored technical documentation for the MCP server setup and front-end component library, enabling other teams to onboard and extend the AI orchestration platform for new healthcare use cases.",
+        "Collaborated on the design of a feedback loop where user corrections via the UI were captured as fine-tuning data, creating a closed-loop system to iteratively improve agent accuracy over time.",
+        "Presented the AI UX architecture and telemetry findings to senior leadership, influencing roadmap decisions to prioritize transparency features that built trust in autonomous inventory management."
+      ],
+      "environment": [
+        "React.js",
+        "TypeScript",
+        "Node.js",
+        "CrewAI",
+        "LangGraph",
+        "Model Context Protocol (MCP)",
+        "AWS (EKS, S3, RDS, Lambda)",
+        "Docker",
+        "Kubernetes",
+        "Figma",
+        "Mixpanel",
+        "Datadog",
+        "WCAG 2.1",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed a React.js and TypeScript interface for a prior authorization AI platform, designing UX for multi-agent systems where separate CrewAI agents handled eligibility checks, clinical review, and compliance logging.",
+        "Built a Node.js service layer utilizing MCP principles to orchestrate agent workflows, securely pulling patient data from AWS-hosted claims databases while maintaining strict audit trails for insurance regulations.",
+        "Implemented user-centered design by creating wireframes in Figma for explainability features, showing clinicians the reasoning path taken by AI agents to approve or deny coverage requests.",
+        "Established A/B testing protocols for new UI components like grounding check confirmations, using telemetry from Amplitude to measure impact on user task completion time and confidence in AI outputs.",
+        "Optimized front-end performance of the AI dashboard, implementing code-splitting and lazy loading for complex agent visualization components to ensure quick load times for care coordinators.",
+        "Coordinated with ML engineers to define the telemetry events schema, ensuring UI interactions such as adjusting an autonomy slider were captured to analyze their effect on agent utilization and user satisfaction.",
+        "Authored reusable React hooks for managing state across multiple concurrent AI agents, simplifying the development of real-time status updates and intervention points within the insurance workflow.",
+        "Configured CI/CD pipelines using GitHub Actions to automate testing and deployment of the React front-end and Node.js MCP servers to AWS ECS, improving deployment frequency and reliability.",
+        "Debugged complex data flow issues where agent responses were delayed, adding proactive UI indicators and fallback states to maintain a seamless user experience during backend processing peaks.",
+        "Led usability testing sessions with insurance underwriters, observing their frustration with opaque AI suggestions and iterating on the design to introduce clearer memory management displays for case history.",
+        "Translated findings from user research into technical requirements for the Data Science team, advocating for model changes that provided simpler confidence scores suitable for display in the constrained UI.",
+        "Integrated the AI dashboard with enterprise single sign-on and API gateways, ensuring secure front-end access compliant with insurance industry data protection standards for sensitive member information.",
+        "Documented the multi-agent UX patterns and integration guidelines, creating a shared Confluence space that accelerated the onboarding of new developers to the AI-powered claims adjudication project.",
+        "Participated in architecture reviews to advocate for UX considerations in the agentic AI backend, ensuring the LangGraph workflow state could be efficiently queried and displayed by the React front-end."
+      ],
+      "environment": [
+        "React.js",
+        "TypeScript",
+        "Node.js",
+        "CrewAI",
+        "LangGraph",
+        "AWS (ECS, S3, RDS, API Gateway)",
+        "Figma",
+        "Amplitude",
+        "CI/CD",
+        "User-Centered Design",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": " Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Contributed to the front-end development of a public health AI dashboard using React, creating visualizations for multi-agent forecasts that helped government officials track disease spread and resource needs.",
+        "Assisted in designing UX for AI transparency within a government portal, implementing basic grounding checks to show citizens the data sources behind AI-generated public service recommendations.",
+        "Supported the integration of a Node.js service with Azure Data Factory pipelines, helping to feed cleaned demographic and health data to predictive models while ensuring data privacy compliance.",
+        "Conducted accessibility evaluations on AI-generated content displays, identifying and remediating WCAG violations related to color contrast and screen reader announcements for critical alerts.",
+        "Built reusable UI components in TypeScript for a design system used across multiple state departments, including standardized controls for adjusting parameters in public-facing AI tools.",
+        "Collaborated on usability testing plans for a benefits eligibility assistant, observing user interactions to identify points of confusion in the AI's questioning flow and suggesting interface improvements.",
+        "Developed Azure Functions to support lightweight API endpoints for AI features, learning to balance response speed with the computational load of real-time model inference for traffic prediction agents.",
+        "Participated in code reviews for front-end modules, focusing on secure coding practices to prevent XSS vulnerabilities in interfaces handling sensitive citizen information from government databases.",
+        "Created technical documentation and wireframes in Figma for proposed explainability features, helping product managers communicate requirements to external vendors building AI services.",
+        "Troubleshot data display issues in the React dashboard, tracing problems back to inconsistencies in the JSON schema returned by newly deployed agentic services on Azure Kubernetes.",
+        "Attended cross-functional meetings with data scientists, translating their needs for user feedback collection into telemetry event specifications implemented within the application's analytics layer.",
+        "Maintained and updated front-end dependencies, carefully testing upgrades to the React and state management libraries to ensure stability for the high-traffic government information portal."
+      ],
+      "environment": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Azure (Data Factory, Functions, Kubernetes)",
+        "Figma",
+        "WCAG",
+        "User Testing",
+        "Government Data Compliance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Engineered Apache Spark streaming jobs on Azure Databricks to process real-time transaction data, creating features for early fraud detection models that powered customer-facing alert dashboards.",
+        "Developed Python scripts to automate the validation and monitoring of data pipelines feeding AI models, ensuring data quality for credit risk assessment tools used by financial analysts.",
+        "Assisted in the design of a prototype interface for a fraud investigation AI, creating mockups in Sketch to visualize how multiple detection agents could collaborate on a single case timeline.",
+        "Built API endpoints with Flask to serve model predictions to internal web applications, implementing rate limiting and authentication to meet PCI DSS security requirements.",
+        "Participated in brainstorming sessions on UX for explainable AI in finance, contributing ideas for how to visually represent model confidence scores in fraud flagging systems for human reviewers.",
+        "Supported the deployment of machine learning models using Azure ML Studio, containerizing scoring scripts with Docker to ensure consistent performance in production environments.",
+        "Conducted performance tuning on SQL queries and Spark jobs that supplied data to customer segmentation models, reducing latency for the personalization features on the web portal.",
+        "Documented data lineage and transformation logic for regulatory audits, clearly mapping source data to features used in AI-driven marketing and risk management applications.",
+        "Collaborated with the front-end team to define JSON response formats for new AI features, ensuring the data structure was optimal for building responsive React components.",
+        "Monitored the health of production data pipelines using Azure Monitor, responding to alerts and troubleshooting failures to maintain uptime for critical financial decision-support systems."
+      ],
+      "environment": [
+        "Python",
+        "Apache Spark",
+        "Azure (Databricks, ML Studio, SQL DB)",
+        "Docker",
+        "Flask",
+        "Sketch",
+        "PCI DSS",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic data using Python and SQL, creating visualizations in Power BI to help medical researchers identify patterns and correlations for early AI model development.",
+        "Supported data preparation efforts for proof-of-concept machine learning models, cleaning and annotating medical image metadata to train initial convolutional neural network prototypes.",
+        "Documented user requirements gathered from pathologists for a proposed AI-assisted diagnosis tool, translating their workflow needs into simple wireframe sketches for the engineering team.",
+        "Assisted in testing early versions of a lab data dashboard, providing feedback on UI clarity and data presentation to improve usability for clinicians interpreting automated analysis results.",
+        "Conducted basic statistical analysis on model performance metrics, helping the team understand the accuracy and precision of automated cell classification algorithms against manual reviews.",
+        "Managed and queried relational databases (MySQL, PostgreSQL) to extract datasets for analysis, ensuring patient data was handled according to HIPAA-equivalent privacy protocols.",
+        "Created summary reports and presentations of analytical findings, communicating insights about data quality and potential feature engineering opportunities to data scientists and product managers.",
+        "Learned foundational principles of user-centered design by observing how clinicians interacted with software, noting points of confusion that informed later improvements to interface design."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA",
+        "Data Analysis",
+        "Wireframing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

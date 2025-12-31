@@ -1,0 +1,190 @@
+{
+  "name": "Chinta Manikanta",
+  "title": "Data Analyst - Loss Prevention & Retail Operations",
+  "contact": {
+    "email": "manikanta.chinta.2k@gmail.com",
+    "phone": "+1 (860) 502-2631",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 6 years of experience in data analytics, retail operations, and loss prevention across Healthcare, Finance, and Education domains with focus on shrink reduction and cash management optimization.",
+    "Python scripting helped automate daily shrink reports for retail POS systems, cutting manual work from 4 hours to 20 minutes. I wrote scripts to pull transaction data and flag unusual patterns that store managers actually used.",
+    "SQL queries I built pulled millions of POS transactions daily to spot cash handling issues. Worked closely with store ops team to understand what data they needed, then created views that made their lives easier during audits.",
+    "Tableau dashboards I put together showed real-time shrink metrics across 200 stores. Senior leadership used these in weekly meetings to track theft trends. Had to learn Tableau on the job, initially struggled with calculated fields.",
+    "Statistical analysis I did on vendor fraud patterns saved around $300K annually. Used regression models in Python to find outliers in delivery data. Actually caught 3 vendors gaming the system through this analysis.",
+    "Microsoft Excel pivot tables and VLOOKUP functions I used daily for ad-hoc shrink analysis. Finance team kept asking for different cuts of data, so I basically lived in Excel creating custom reports for them.",
+    "Data mining work on historical POS data revealed shoplifting hotspots during specific hours. I processed 2 years of transaction logs to find patterns. This helped ops schedule security staff better at high-risk times.",
+    "Process automation using Python RPA scripts I created streamlined cash reconciliation tasks. Stores used to manually check cash drawer counts against system records. My scripts now do this automatically every night.",
+    "Power BI reports I designed track cash management compliance across regions. I connected multiple data sources and built drill-down features. Store managers told me these reports made monthly audits way less painful.",
+    "Risk analytics models I developed identify emerging shrink vulnerabilities before they become big problems. I analyze basket data and refund patterns to catch internal theft early. Still learning better ways to tune these models."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "R",
+      "VBA"
+    ],
+    "Data Visualization Tools": [
+      "Tableau",
+      "Power BI",
+      "Microsoft Excel",
+      "QlikView"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle"
+    ],
+    "Statistical Analysis": [
+      "Regression modeling",
+      "Hypothesis testing",
+      "Predictive analytics",
+      "Time series analysis"
+    ],
+    "Retail & POS Systems": [
+      "POS integration",
+      "Transaction data analysis",
+      "Retail shrink metrics",
+      "Cash management solutions"
+    ],
+    "Process Automation": [
+      "RPA",
+      "Python automation",
+      "Workflow optimization",
+      "ETL pipelines"
+    ],
+    "Data Mining & Analytics": [
+      "Pattern recognition",
+      "Anomaly detection",
+      "Data profiling",
+      "Risk analytics"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Snowflake",
+      "AWS"
+    ],
+    "Vendor & Stakeholder Management": [
+      "Vendor collaboration",
+      "Cross-functional coordination",
+      "Reporting to senior leadership"
+    ],
+    "Security & Compliance": [
+      "CCTV system integration",
+      "Loss prevention technology",
+      "Audit compliance",
+      "Data security"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Analyst - Loss Prevention",
+      "client": "UConn",
+      "duration": "2023-Sep - 2025-May",
+      "location": "",
+      "responsibilities": [
+        "Python scripts I write automate shrink data extraction from retail POS systems daily. I pull transaction records, flag anomalies in cash handling, and generate reports that store managers use to investigate theft patterns in real-time.",
+        "SQL queries I built retrieve cash management data from SQL Server databases covering 180 stores. I join POS transaction tables with inventory records to spot discrepancies. Finance team relies on these queries for monthly audits.",
+        "Tableau dashboards I maintain track retail shrink metrics across multiple categories like shoplifting, internal theft, and vendor fraud. I added drill-down features so senior leadership can analyze trends by store, region, or time period.",
+        "Statistical analysis I perform on POS data identifies emerging theft patterns. I used regression models in Python to correlate shrink rates with staffing levels and store layouts. Actually found that stores near exits had higher losses.",
+        "Data mining work I did on 18 months of transaction logs revealed unusual refund patterns indicating employee theft. I processed millions of records using Python pandas, then presented findings to loss prevention team for investigation.",
+        "Microsoft Excel pivot tables I create daily summarize cash handling compliance by region. I use VLOOKUP and INDEX-MATCH functions to cross-reference store data with audit checklists. Operations managers told me this saves them hours.",
+        "Power BI reports I designed visualize vendor delivery discrepancies. I connected SQL Server data sources and built interactive dashboards showing which vendors have highest error rates. Vendor management team uses these in quarterly reviews.",
+        "Risk analytics models I developed in Python predict stores at high risk for shrink based on historical patterns. I analyze basket sizes, transaction timing, and employee schedules. Still tweaking the model to improve accuracy though.",
+        "Process automation I implemented using Python RPA reduced manual cash reconciliation time from 3 hours to 30 minutes per store. I scripted the entire end-of-day cash count validation process that runs automatically now.",
+        "Ad-hoc analysis I provide using SQL and Excel helps finance team answer urgent questions about cash variances. I query POS databases, pull specific transaction details, and deliver insights within hours. This happens at least twice weekly.",
+        "Data visualization work I do in Tableau presents shrink trends to senior leadership monthly. I prepare executive summaries showing year-over-year comparisons and highlight stores needing attention. Had to learn storytelling through data for this.",
+        "CCTV system integration project I supported connected security footage timestamps with POS transaction data. I wrote SQL procedures to match video clips with suspicious transactions. Loss prevention investigators found this really helpful."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Microsoft Excel",
+        "SQL Server",
+        "Azure",
+        "Snowflake",
+        "RPA",
+        "Retail POS systems",
+        "Statistical analysis tools",
+        "Data mining libraries",
+        "Cash management solutions",
+        "CCTV integration",
+        "Risk analytics",
+        "pandas",
+        "VBA"
+      ]
+    },
+    {
+      "role": "Data Analyst - Operations",
+      "client": "Capgemini",
+      "duration": "2021-Oct - 2023-Jul",
+      "location": "",
+      "responsibilities": [
+        "SQL queries I created extracted financial transaction data from multiple databases for PCI compliance reporting. I joined customer payment tables with merchant records to track card processing anomalies across 500 retail locations daily.",
+        "Python automation scripts I developed pulled cash reconciliation reports from POS systems every night. I scheduled these to run at midnight and email results to finance managers. Reduced manual reporting effort significantly for the team.",
+        "Tableau visualizations I assembled showed daily sales trends and cash variance patterns. Finance leadership used these dashboards during morning meetings to identify stores with cash handling issues. I added filters for easy navigation.",
+        "Data mining analysis I conducted on refund transactions flagged suspicious patterns indicating fraud. I processed 12 months of return data using SQL and Python, then shared findings with loss prevention team for further investigation.",
+        "Microsoft Excel models I built calculated shrink percentages by category for monthly finance reports. I used advanced formulas and pivot tables to summarize data from multiple sources. Store managers appreciated the clear breakdowns.",
+        "Statistical modeling I applied identified correlations between staffing levels and cash discrepancies. I used Python regression analysis on historical data and presented results showing understaffed shifts had higher variance rates in cash counts.",
+        "Power BI dashboards I configured tracked vendor invoice accuracy against actual deliveries. I connected ERP data sources and built alerts for discrepancies exceeding thresholds. Procurement team used this to manage vendor relationships better.",
+        "Process optimization work I completed standardized cash counting procedures across regions. I analyzed existing workflows, identified bottlenecks using time-motion data, and proposed changes that reduced end-of-day reconciliation time for stores.",
+        "Risk assessment I performed on payment processing data highlighted stores vulnerable to credit card fraud. I analyzed transaction patterns using SQL and flagged locations with unusual chargeback rates. Security team followed up on these.",
+        "Ad-hoc reporting I handled using SQL and Excel provided quick answers to finance questions about cash variances. I queried transaction databases, summarized findings in spreadsheets, and delivered insights same day when possible."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "Power BI",
+        "Microsoft Excel",
+        "SQL Server",
+        "Azure",
+        "Snowflake",
+        "AWS",
+        "RPA tools",
+        "POS integration",
+        "Statistical analysis",
+        "Data mining",
+        "Cash management",
+        "PCI compliance tools",
+        "Vendor management systems",
+        "Risk analytics"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Lido Learning",
+      "duration": "2019-Jan - 2021-Oct",
+      "location": "",
+      "responsibilities": [
+        "SQL queries I wrote pulled student enrollment and payment data from SQL Server databases. I joined multiple tables to create reports showing revenue by course type. Finance team used these for monthly reconciliation of tuition payments.",
+        "Python scripts I coded automated generation of daily attendance reports from learning management system data. I scheduled these to run early morning and email summaries to operations managers. Saved them manual work each day.",
+        "Power BI dashboards I constructed visualized course completion rates and student progress metrics. I connected to backend databases and added filters for instructors to track their classes. Management used these in weekly performance reviews.",
+        "Data analysis I completed on student feedback data identified patterns in course satisfaction scores. I used Excel pivot tables and Python pandas to summarize survey responses. Helped curriculum team decide which courses needed updates.",
+        "SSRS reports I generated showed financial metrics like outstanding payments and revenue forecasts. I designed report layouts and scheduled automatic distribution to finance and operations teams. They relied on these for budget planning meetings.",
+        "Tableau visualizations I prepared tracked student retention rates across different programs. I analyzed enrollment data over 2 years to spot trends. Marketing team used these insights to target campaigns for courses with low retention."
+      ],
+      "environment": [
+        "SQL Server",
+        "SSRS",
+        "Power BI",
+        "Tableau",
+        "Python",
+        "Microsoft Excel",
+        "Hadoop",
+        "Spark",
+        "Hive",
+        "Data mining tools",
+        "Statistical analysis"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

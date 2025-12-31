@@ -1,0 +1,383 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Knowledge Graph AI Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in semantic knowledge graph systems and AI-driven graph analytics with deep expertise in graph databases, ontology modeling, and LLM-based reasoning across multiple industries.",
+    "Using Neo4j and TigerGraph to address complex insurance knowledge representation challenges by implementing semantic graph systems that transformed machine log data into ontology-driven knowledge graphs for anomaly detection.",
+    "Leveraging Python and NetworkX to develop graph processing frameworks that analyzed insurance system relationships and dependencies, creating comprehensive graph embeddings for risk assessment and fraud detection applications.",
+    "Implementing ontology modeling with OWL and RDF that defined insurance domain concepts and relationships using Prot\u00e9g\u00e9, establishing semantic frameworks for knowledge graph construction and reasoning across business units.",
+    "Designing graph machine learning systems with DGL and PyTorch Geometric that developed graph embeddings for insurance entity relationships, enabling sophisticated clustering and anomaly detection in complex insurance networks.",
+    "Building large language model integrations with semantic reasoning capabilities that enhanced knowledge graph construction from insurance documents and system logs, improving data representation and code generation workflows.",
+    "Creating deep learning frameworks with PyTorch and TensorFlow that implemented graph neural networks for insurance pattern recognition, developing custom architectures for time-series analysis of insurance system behaviors.",
+    "Developing distributed computing solutions with Spark that processed massive insurance graph datasets across clusters, enabling scalable graph analytics and machine learning on enterprise-level insurance data.",
+    "Implementing cloud-native pipeline designs with AWS services that orchestrated knowledge graph construction workflows, ensuring reliable processing of insurance machine log data into semantic graph structures.",
+    "Building enterprise log analysis systems with Splunk that integrated with knowledge graph platforms, creating comprehensive monitoring and analytics solutions for insurance system operations and performance.",
+    "Creating graph embedding techniques that transformed insurance entity relationships into vector representations, enabling machine learning models to process complex graph structures for predictive analytics.",
+    "Developing anomaly detection algorithms that operated on insurance knowledge graphs, identifying unusual patterns and potential fraud scenarios through graph-based pattern recognition and semantic reasoning.",
+    "Implementing clustering methodologies with graph machine learning that grouped similar insurance entities and relationships, revealing hidden patterns and business insights from complex insurance data networks.",
+    "Designing time-series analysis frameworks that processed temporal insurance graph data, tracking entity relationship evolution and identifying trend patterns across different insurance product lines.",
+    "Building semantic reasoning systems with LLM integration that enhanced knowledge graph query capabilities, enabling natural language interfaces for insurance data exploration and business intelligence.",
+    "Creating data representation frameworks that standardized insurance information in graph formats, ensuring consistent semantic meaning across different insurance systems and data sources.",
+    "Developing code generation systems with LLM assistance that automated insurance knowledge graph construction, reducing manual effort in transforming raw data into semantic graph structures.",
+    "Implementing stakeholder engagement processes that communicated complex graph analytics findings to insurance business teams, translating technical insights into actionable business recommendations."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Neo4j and TigerGraph to address insurance knowledge representation challenges by implementing semantic graph systems that transformed machine log data into ontology-driven knowledge graphs for regulatory compliance.",
+        "Leveraging Python and NetworkX to develop graph processing frameworks that analyzed insurance claim relationships and policy dependencies, creating comprehensive graph embeddings for fraud detection.",
+        "Implementing ontology modeling with OWL and RDF that defined insurance domain concepts using Prot\u00e9g\u00e9, establishing semantic frameworks for knowledge graph construction across state insurance regulations.",
+        "Designing graph machine learning systems with DGL and PyTorch Geometric that developed graph embeddings for insurance entity relationships, enabling sophisticated clustering of similar claim patterns.",
+        "Building large language model integrations with semantic reasoning capabilities that enhanced knowledge graph construction from insurance documents, improving data representation for underwriting decisions.",
+        "Creating deep learning frameworks with PyTorch that implemented graph neural networks for insurance pattern recognition, developing custom architectures for time-series analysis of claim behaviors.",
+        "Developing distributed computing solutions with Spark that processed massive insurance graph datasets across AWS clusters, enabling scalable graph analytics on enterprise-level insurance data.",
+        "Implementing cloud-native pipeline designs with AWS Glue and Lambda that orchestrated knowledge graph construction workflows from insurance system logs with proper data governance controls.",
+        "Building enterprise log analysis systems with Splunk that integrated with knowledge graph platforms, creating comprehensive monitoring solutions for insurance system operations and compliance.",
+        "Creating graph embedding techniques that transformed insurance entity relationships into vector representations, enabling machine learning models to process complex insurance network structures.",
+        "Developing anomaly detection algorithms that operated on insurance knowledge graphs, identifying unusual claim patterns and potential fraud scenarios through graph-based semantic reasoning.",
+        "Implementing clustering methodologies with graph machine learning that grouped similar insurance policies and customer relationships, revealing hidden risk patterns across different product lines.",
+        "Designing time-series analysis frameworks that processed temporal insurance graph data, tracking customer relationship evolution and identifying trend patterns for risk assessment.",
+        "Building semantic reasoning systems with LLM integration that enhanced knowledge graph query capabilities, enabling natural language interfaces for insurance data exploration and regulatory reporting.",
+        "Creating data representation frameworks that standardized insurance information in graph formats, ensuring consistent semantic meaning across different state regulatory requirements.",
+        "Developing stakeholder engagement processes that communicated complex graph analytics findings to insurance business teams, translating technical insights into actionable compliance recommendations."
+      ],
+      "environment": [
+        "Neo4j",
+        "TigerGraph",
+        "Python",
+        "NetworkX",
+        "OWL",
+        "RDF",
+        "Prot\u00e9g\u00e9",
+        "DGL",
+        "PyTorch Geometric",
+        "PyTorch",
+        "Spark",
+        "AWS Glue",
+        "Lambda",
+        "Splunk",
+        "Graph embeddings",
+        "Anomaly detection",
+        "Clustering"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Neo4j to address healthcare knowledge graph challenges by implementing semantic systems that transformed clinical data into ontology-driven graphs for medical research while maintaining HIPAA compliance.",
+        "Leveraging Python and NetworkX to develop graph processing frameworks that analyzed patient relationship networks and treatment pathways, creating embeddings for clinical outcome prediction.",
+        "Implementing ontology modeling with OWL that defined healthcare domain concepts using Prot\u00e9g\u00e9, establishing semantic frameworks for medical knowledge graph construction across research studies.",
+        "Designing graph machine learning systems with PyTorch Geometric that developed graph embeddings for patient-provider relationships, enabling sophisticated clustering of similar treatment patterns.",
+        "Building large language model integrations that enhanced knowledge graph construction from medical literature and clinical notes, improving data representation for research applications.",
+        "Creating deep learning frameworks with TensorFlow that implemented graph neural networks for healthcare pattern recognition, developing architectures for medical time-series analysis.",
+        "Developing distributed computing solutions with Spark that processed healthcare graph datasets across AWS clusters, enabling scalable analytics on clinical research data with proper security.",
+        "Implementing cloud-native pipeline designs with AWS services that orchestrated knowledge graph construction workflows from healthcare system logs while maintaining data privacy.",
+        "Building enterprise log analysis systems that integrated with knowledge graph platforms, creating monitoring solutions for healthcare system operations and research data quality.",
+        "Creating graph embedding techniques that transformed clinical relationships into vector representations, enabling machine learning models to process complex healthcare network structures.",
+        "Developing anomaly detection algorithms that operated on healthcare knowledge graphs, identifying unusual treatment patterns and potential research insights through graph-based analysis.",
+        "Implementing clustering methodologies with graph machine learning that grouped similar patient cohorts and treatment pathways, revealing patterns for clinical research and drug development.",
+        "Designing time-series analysis frameworks that processed temporal healthcare graph data, tracking patient outcome evolution and identifying trend patterns across different therapeutic areas.",
+        "Building semantic reasoning systems that enhanced knowledge graph query capabilities for healthcare research, enabling exploration of clinical relationships and treatment effectiveness."
+      ],
+      "environment": [
+        "Neo4j",
+        "Python",
+        "NetworkX",
+        "OWL",
+        "Prot\u00e9g\u00e9",
+        "PyTorch Geometric",
+        "TensorFlow",
+        "Spark",
+        "AWS",
+        "Graph embeddings",
+        "Anomaly detection",
+        "Clustering",
+        "Healthcare analytics"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using GCP BigQuery and Dataflow to address public health knowledge graph challenges by implementing semantic systems that transformed health data into graph structures for population health analysis.",
+        "Leveraging Python and NetworkX to develop graph processing frameworks that analyzed public health relationships and disease spread patterns, creating embeddings for outbreak prediction.",
+        "Implementing ontology modeling that defined public health domain concepts, establishing semantic frameworks for health knowledge graph construction across different regions and demographics.",
+        "Designing graph machine learning systems that developed embeddings for public health entity relationships, enabling clustering of similar health patterns and risk factors.",
+        "Building data processing pipelines with Dataflow that transformed public health records into graph formats, ensuring proper data governance and privacy protection for sensitive health information.",
+        "Creating machine learning frameworks that implemented graph algorithms for public health pattern recognition, developing approaches for health trend analysis and resource allocation.",
+        "Developing distributed computing solutions that processed public health graph datasets across GCP infrastructure, enabling scalable analytics on population health data.",
+        "Implementing cloud-native pipeline designs with Cloud Functions that orchestrated knowledge graph construction workflows from public health system data with proper access controls.",
+        "Building data analysis systems that integrated with graph platforms, creating monitoring solutions for public health operations and program effectiveness.",
+        "Creating graph representation techniques that transformed public health relationships into analyzable structures, enabling models to process complex health network patterns.",
+        "Developing pattern detection algorithms that operated on public health knowledge graphs, identifying unusual health trends and potential outbreak scenarios through graph-based analysis.",
+        "Implementing clustering methodologies that grouped similar public health indicators and community health patterns, revealing insights for public health intervention planning."
+      ],
+      "environment": [
+        "GCP BigQuery",
+        "Dataflow",
+        "Python",
+        "NetworkX",
+        "Cloud Functions",
+        "Graph processing",
+        "Public health data",
+        "Ontology modeling",
+        "Clustering",
+        "Pattern detection"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Azure Databricks and Spark to address financial knowledge graph challenges by implementing graph systems that transformed banking data into network structures for risk analysis.",
+        "Leveraging Python and NetworkX to develop graph processing approaches that analyzed financial transaction relationships and customer networks, creating representations for fraud detection.",
+        "Implementing data modeling that defined financial domain concepts, establishing frameworks for banking knowledge graph construction across different product lines and regulations.",
+        "Designing machine learning systems that developed representations for financial entity relationships, enabling clustering of similar transaction patterns and customer behaviors.",
+        "Building data processing pipelines with Azure Data Factory that transformed banking records into graph formats, ensuring compliance with financial regulations and data security.",
+        "Creating analytical frameworks that implemented graph algorithms for financial pattern recognition, developing approaches for risk assessment and customer segmentation.",
+        "Developing computing solutions that processed financial graph datasets across Azure infrastructure, enabling analysis of banking network data with proper governance.",
+        "Implementing pipeline designs with Azure Functions that orchestrated graph construction workflows from banking system data with appropriate security controls.",
+        "Building analysis systems that integrated with graph platforms, creating monitoring solutions for financial operations and compliance reporting.",
+        "Creating representation techniques that transformed financial relationships into analyzable structures, enabling models to process complex banking network patterns."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Spark",
+        "Python",
+        "NetworkX",
+        "Azure Data Factory",
+        "Azure Functions",
+        "Financial data",
+        "Graph analysis",
+        "Risk assessment",
+        "Fraud detection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that handled large datasets from multiple business systems for consulting projects.",
+        "Leveraging Informatica to develop ETL processes that transformed client data into analysis-ready formats, creating reusable mappings that accelerated project delivery timelines.",
+        "Implementing data integration pipelines with Sqoop that transferred data between relational databases and Hadoop clusters, ensuring data consistency and completeness.",
+        "Designing data storage solutions with HDFS that organized client project data, creating accessible repositories for analysis and reporting requirements.",
+        "Building data processing workflows that automated ETL operations for client engagements, ensuring timely data availability for consulting analysis.",
+        "Developing data quality checks that validated client data integrity throughout processing pipelines, identifying data issues that needed client resolution.",
+        "Creating data documentation standards that captured source system details and transformation logic for client knowledge transfer and project continuity.",
+        "Implementing basic data security measures that protected client information during processing and analysis, maintaining confidentiality for consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Relational databases",
+        "ETL processes",
+        "Data quality",
+        "Client consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

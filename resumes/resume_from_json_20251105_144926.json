@@ -1,0 +1,341 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Microsoft Fabric & Data Modernization",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm bringing 10 years of hands-on experience in AI-driven data modernization, with deep expertise in Microsoft Fabric ecosystems, predictive analytics, and enterprise-scale MLOps deployment across Insurance, Healthcare, and Banking domains.",
+    "Architected end-to-end data lakehouse solutions using Microsoft Fabric, Synapse Analytics, and OneLake, enabling real-time insights and automated decision-making for Fortune 500 clients with complex regulatory requirements.",
+    "Led the design and deployment of machine learning pipelines within Azure ML and Fabric environments, integrating Python, R, and Spark to build predictive models that reduced manual processing time and improved operational efficiency.",
+    "Developed CI/CD workflows for ML model deployment using Azure DevOps, MLflow, and Docker, establishing robust MLOps practices that streamlined version control, model monitoring, and continuous integration across data engineering teams.",
+    "Implemented Data Vault and star schema data modeling patterns within Microsoft Fabric, optimizing query performance and ensuring governance standards for PII-sensitive datasets in healthcare and insurance applications.",
+    "Built scalable ETL pipelines using Azure Data Factory and Synapse to orchestrate data ingestion from diverse sources into OneLake, handling petabyte-scale transformations while maintaining HIPAA and PCI compliance.",
+    "Integrated Power BI with Microsoft Fabric to deliver interactive dashboards and real-time analytics, empowering business stakeholders to make data-driven decisions with up-to-date predictive insights and KPIs.",
+    "Collaborated closely with domain experts and business teams to translate strategic requirements into technical solutions, ensuring AI models aligned with operational needs and delivered measurable business value.",
+    "Engineered REST APIs and microservices for model inference using Flask and FastAPI, enabling seamless integration of AI capabilities into existing enterprise systems and supporting agent-to-agent communication protocols.",
+    "Optimized Spark-based data processing within Synapse and Databricks, fine-tuning cluster configurations and partition strategies to reduce processing latency and improve cost efficiency for large-scale analytics workloads.",
+    "Established data governance frameworks using Azure Purview alongside Microsoft Fabric, implementing data lineage tracking, metadata management, and compliance monitoring to meet enterprise security and interoperability standards.",
+    "Automated model retraining and performance monitoring workflows using Python scripts and Azure ML pipelines, ensuring models remained accurate over time and adapting to shifting data patterns in production environments.",
+    "Debugged complex data quality issues in Synapse pipelines, working through late-night troubleshooting sessions with engineers to identify root causes and implement validation checks that prevented downstream errors.",
+    "Participated in code reviews and sprint planning meetings, sharing knowledge about Fabric best practices and MLOps strategies while learning from senior architects about evolving cloud-native design patterns.",
+    "Deployed containerized ML models on Kubernetes clusters, configuring autoscaling and load balancing to handle fluctuating inference demands while maintaining low-latency response times for real-time applications.",
+    "Integrated Model Context Protocol standards into AI pipelines, ensuring context consistency across distributed model calls and enabling more reliable agent-to-agent communication in multi-service architectures.",
+    "Struggled initially with Fabric's security model for cross-workspace data sharing, but eventually figured out the right RBAC configurations and network policies to enable secure collaboration across teams.",
+    "Drove data modernization initiatives by migrating legacy on-premise systems to cloud-native architectures on Azure, leveraging Fabric's unified platform to consolidate siloed data sources and enable advanced analytics."
+  ],
+  "technical_skills": {
+    "Microsoft Fabric Ecosystem": [
+      "Microsoft Fabric",
+      "Synapse Analytics",
+      "OneLake",
+      "Data Factory",
+      "Power BI",
+      "Azure Purview",
+      "Fabric Notebooks",
+      "Fabric Pipelines",
+      "Fabric Data Warehousing"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure ML",
+      "Azure DevOps",
+      "Azure Databricks",
+      "Azure Cosmos DB",
+      "Azure Data Lake Storage",
+      "AWS S3",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "AWS Glue",
+      "AWS Redshift"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "R",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "PySpark"
+    ],
+    "Machine Learning & AI": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost",
+      "LightGBM",
+      "Azure ML Studio",
+      "AutoML",
+      "Model Context Protocol (MCP)",
+      "Agent-to-Agent Communication (A2A)"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Vault",
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Lakehouse",
+      "Medallion Architecture",
+      "Dimensional Modeling"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Kafka",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow"
+    ],
+    "ETL & Data Pipelines": [
+      "Azure Data Factory",
+      "Synapse Pipelines",
+      "Apache Airflow",
+      "Informatica",
+      "Talend",
+      "SSIS",
+      "dbt"
+    ],
+    "MLOps & DevOps": [
+      "MLflow",
+      "Azure DevOps",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "CI/CD Pipelines",
+      "Version Control (Git, GitHub, GitLab)"
+    ],
+    "Databases & Data Storage": [
+      "Snowflake",
+      "PostgreSQL",
+      "SQL Server",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Azure SQL Database"
+    ],
+    "Visualization & BI Tools": [
+      "Power BI",
+      "Tableau",
+      "Plotly",
+      "Matplotlib",
+      "Seaborn",
+      "D3.js"
+    ],
+    "APIs & Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "FastAPI",
+      "Django",
+      "Microservices Architecture"
+    ],
+    "Development & Collaboration Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda",
+      "Azure Repos"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architected Microsoft Fabric-based data lakehouse solutions integrating Synapse Analytics and OneLake to centralize policyholder data from legacy systems, enabling real-time claims processing and reducing query latency significantly.",
+        "Designed and deployed predictive ML models using Azure ML and Python to forecast claim fraud patterns, collaborating with insurance domain experts to refine feature engineering and improve model accuracy through iterative testing.",
+        "Built end-to-end CI/CD pipelines in Azure DevOps for ML model deployment, integrating MLflow for experiment tracking and Docker for containerization, which streamlined our release cycles and reduced manual deployment errors.",
+        "Implemented Data Vault modeling patterns within Microsoft Fabric to handle complex insurance regulatory requirements, ensuring data lineage and auditability for compliance with state-specific insurance laws and NAIC standards.",
+        "Orchestrated ETL workflows using Azure Data Factory and Synapse Pipelines to ingest terabytes of claims data daily from SAP and legacy mainframes into OneLake, debugging data quality issues that initially caused pipeline failures.",
+        "Integrated Power BI dashboards with Microsoft Fabric to visualize underwriting KPIs and claims trends, working closely with business stakeholders in meetings to iterate on design and ensure dashboards met their strategic needs.",
+        "Optimized Spark-based data transformations in Synapse by tuning partition strategies and caching mechanisms, which improved processing speed for actuarial models and reduced Azure compute costs noticeably.",
+        "Developed REST APIs using FastAPI to expose ML model predictions for real-time risk assessment, enabling agent-to-agent communication between Fabric services and downstream policy management systems.",
+        "Established data governance frameworks using Azure Purview alongside Microsoft Fabric, implementing metadata tagging and access controls to secure PII data and maintain compliance with insurance data protection regulations.",
+        "Automated model retraining pipelines in Azure ML by scheduling Python scripts to monitor data drift, initially struggling with threshold tuning but eventually finding the right balance to keep models accurate without excessive retraining.",
+        "Collaborated with data engineers during code reviews to refine Fabric Notebook implementations, sharing best practices for error handling and logging while learning new techniques for optimizing Spark queries.",
+        "Deployed Kubernetes-based model inference services on Azure AKS, configuring autoscaling policies to handle peak claim submission periods, which involved late-night troubleshooting sessions when pods failed to scale correctly.",
+        "Implemented Model Context Protocol standards to ensure consistent context passing across distributed microservices in the Fabric environment, improving reliability of multi-step insurance workflow orchestrations.",
+        "Led migration of on-premise actuarial models to cloud-native architectures on Microsoft Fabric, coordinating with legacy system teams to map data dependencies and validate results during the transition.",
+        "Monitored and fine-tuned model performance using MLflow dashboards, analyzing precision-recall curves and adjusting hyperparameters based on feedback from underwriters about false positive rates in fraud detection.",
+        "Participated in sprint planning and retrospectives, advocating for adopting dbt for data transformation within Fabric to improve code modularity, though it took time to convince the team of the benefits."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Synapse Analytics",
+        "OneLake",
+        "Azure ML",
+        "Azure Data Factory",
+        "Power BI",
+        "Azure DevOps",
+        "Python",
+        "R",
+        "PySpark",
+        "SQL",
+        "MLflow",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "Azure Purview",
+        "Data Vault",
+        "Star Schema"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Microsoft Fabric-based analytics platform to consolidate clinical trial data from global research sites, using Synapse and OneLake to create a unified data lakehouse that improved cross-study analysis capabilities.",
+        "Built predictive models in Azure ML using Python and R to forecast patient enrollment rates and trial outcomes, integrating HIPAA-compliant data pipelines that ensured PHI remained encrypted throughout processing.",
+        "Implemented ETL workflows in Azure Data Factory and Fabric Pipelines to ingest EHR data from Epic and Cerner systems, handling complex XML and HL7 formats while maintaining strict healthcare interoperability standards.",
+        "Designed star schema data models within Microsoft Fabric for pharmaceutical supply chain analytics, optimizing query performance for Power BI dashboards used by executives to monitor drug distribution metrics.",
+        "Established MLOps practices using Azure DevOps and MLflow to automate model training and deployment, creating version-controlled pipelines that reduced model release time and improved collaboration with data science teams.",
+        "Integrated Power BI with Microsoft Fabric to deliver real-time dashboards for adverse event monitoring, working through multiple iterations with medical affairs teams to ensure visualizations met FDA reporting requirements.",
+        "Optimized Spark jobs in Synapse Analytics for processing genomics data at scale, tuning cluster configurations and experimenting with different file formats to reduce processing time for variant annotation pipelines.",
+        "Developed REST APIs using Flask to expose ML predictions for drug-drug interaction screening, enabling integration with clinical decision support systems while ensuring secure authentication and audit logging.",
+        "Collaborated with compliance officers to implement data governance policies in Azure Purview, documenting data lineage for regulatory submissions and configuring access controls to restrict PHI to authorized personnel only.",
+        "Debugged complex data quality issues in Fabric pipelines where patient identifiers weren't matching correctly across systems, spending hours tracing through transformation logic to identify the root cause in legacy ETL mappings.",
+        "Deployed containerized ML models on Azure Kubernetes Service to support high-throughput inference for clinical risk stratification, initially struggling with container networking but eventually configuring the right ingress rules.",
+        "Automated model monitoring workflows using Python scripts in Azure ML to track performance metrics over time, setting up alerts for when prediction accuracy dropped below acceptable thresholds for patient safety models.",
+        "Participated in architecture review meetings to discuss Fabric adoption strategies, advocating for unified data platforms while addressing concerns from teams comfortable with existing Databricks implementations.",
+        "Implemented Model Context Protocol patterns to maintain context across multi-step clinical workflows, ensuring that patient context was properly passed between microservices handling different stages of care coordination."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Synapse Analytics",
+        "OneLake",
+        "Azure ML",
+        "Azure Data Factory",
+        "Power BI",
+        "Azure DevOps",
+        "Python",
+        "R",
+        "PySpark",
+        "SQL",
+        "MLflow",
+        "Docker",
+        "Kubernetes",
+        "Flask",
+        "Azure Purview",
+        "Star Schema",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Engineered ML pipelines using AWS SageMaker and Python to predict Medicaid enrollment patterns, integrating healthcare data from multiple state systems while ensuring HIPAA compliance and secure handling of sensitive patient information.",
+        "Developed ETL workflows using AWS Glue to process eligibility data from legacy mainframe systems, transforming fixed-width files into structured formats suitable for analytics and ML model training.",
+        "Built predictive models with Scikit-Learn and XGBoost to identify high-risk beneficiaries for care management programs, collaborating with public health officials to validate model outputs against clinical guidelines.",
+        "Implemented data modeling using star schema patterns in AWS Redshift to optimize query performance for reporting dashboards, enabling faster analysis of program utilization metrics by state administrators.",
+        "Automated model deployment workflows using Jenkins and Docker, creating CI/CD pipelines that reduced manual intervention and improved reliability of model updates in production environments.",
+        "Designed RESTful APIs using Flask to expose ML predictions for case worker applications, integrating with existing state IT systems while maintaining strict security protocols for PHI access.",
+        "Optimized Spark jobs on AWS EMR for processing large-scale claims data, tuning partition sizes and memory allocation to reduce processing time and lower infrastructure costs.",
+        "Collaborated with data governance teams to establish data lineage documentation and access controls, ensuring compliance with state privacy laws and federal healthcare regulations.",
+        "Debugged data pipeline failures during weekend on-call shifts, tracing issues through CloudWatch logs to identify problems with schema changes in upstream source systems.",
+        "Monitored model performance using custom Python scripts and CloudWatch metrics, adjusting retraining schedules based on observed data drift in enrollment patterns.",
+        "Participated in code reviews with team members, learning best practices for error handling in distributed systems while sharing insights about healthcare data nuances.",
+        "Struggled initially with AWS IAM policies for cross-account data access, but eventually configured the right roles and permissions to enable secure data sharing between different state agencies."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "AWS Redshift",
+        "AWS EMR",
+        "Python",
+        "Spark",
+        "Scikit-Learn",
+        "XGBoost",
+        "Flask",
+        "Docker",
+        "Jenkins",
+        "SQL",
+        "Star Schema",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed credit risk models using Python and Scikit-Learn to predict loan default probabilities, working with risk management teams to ensure models met regulatory requirements under Basel III and CCAR frameworks.",
+        "Built ETL pipelines using AWS Glue to extract transaction data from core banking systems, transforming and loading it into AWS Redshift for analytics and model training.",
+        "Implemented machine learning workflows in AWS SageMaker to automate model training and hyperparameter tuning, reducing development time for fraud detection models.",
+        "Designed data models using star schema patterns in Redshift to support financial reporting dashboards, optimizing queries for faster performance during month-end closing processes.",
+        "Created REST APIs using Flask to serve ML predictions for real-time transaction scoring, integrating with payment processing systems while maintaining PCI-DSS compliance.",
+        "Collaborated with compliance officers during model validation sessions, documenting model assumptions and performance metrics for regulatory submissions to the OCC.",
+        "Optimized SQL queries in Redshift to improve dashboard load times, experimenting with different indexing strategies and materialized views to reduce query latency.",
+        "Debugged issues with data quality in customer demographic datasets, working with upstream teams to implement validation rules that prevented incomplete records from entering pipelines.",
+        "Monitored deployed models using custom Python scripts, tracking key metrics like precision and recall to ensure fraud detection performance remained within acceptable thresholds.",
+        "Participated in weekly team meetings to discuss model performance and share learnings, gradually building confidence in presenting technical concepts to non-technical stakeholders."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "AWS Redshift",
+        "Python",
+        "Scikit-Learn",
+        "Flask",
+        "SQL",
+        "Star Schema",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Assisted in building Hadoop-based data pipelines to process large volumes of structured data, learning how to write MapReduce jobs and troubleshoot HDFS storage issues.",
+        "Developed ETL workflows using Informatica PowerCenter to extract data from Oracle databases and load it into Hadoop clusters, following established patterns while figuring out best practices.",
+        "Used Sqoop to transfer data between relational databases and Hadoop, initially struggling with configuration parameters but eventually getting comfortable with command-line tools.",
+        "Collaborated with senior engineers during code reviews, absorbing feedback about optimization techniques and error handling strategies for distributed data processing.",
+        "Debugged data quality issues in pipelines, spending time tracing through logs to identify where transformations were producing unexpected results.",
+        "Participated in team meetings to understand project requirements, asking questions to clarify technical specifications while learning how to translate business needs into technical solutions.",
+        "Wrote SQL queries to validate data accuracy after ETL processes, comparing record counts and spot-checking sample data to ensure transformations worked correctly.",
+        "Learned how to monitor job execution in Hadoop clusters, checking resource utilization and job logs to identify performance bottlenecks in data processing workflows."
+      ],
+      "environment": [
+        "Hadoop",
+        "MapReduce",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Oracle",
+        "SQL",
+        "HDFS",
+        "Hive"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

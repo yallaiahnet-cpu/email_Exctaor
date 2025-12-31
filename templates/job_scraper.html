@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Scraper - NVoids</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #00c9ff;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .input-section {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 5px solid #00c9ff;
+        }
+        
+        .input-group {
+            margin-bottom: 15px;
+        }
+        
+        label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+        
+        input, select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: border-color 0.3s ease;
+        }
+        
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: #00c9ff;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #00c9ff, #92fe9d);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+            width: 100%;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        
+        .status {
+            margin-top: 15px;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 600;
+            display: none;
+        }
+        
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        
+        .results-section {
+            margin-top: 30px;
+            display: none;
+        }
+        
+        .results-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .results-header h2 {
+            color: #00c9ff;
+        }
+        
+        .export-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        
+        .export-btn:hover {
+            background: #218838;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        thead {
+            background: linear-gradient(135deg, #00c9ff, #92fe9d);
+            color: white;
+        }
+        
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+        }
+        
+        tbody tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .job-title {
+            font-weight: 600;
+            color: #00c9ff;
+        }
+        
+        .company-name {
+            color: #666;
+            font-style: italic;
+        }
+        
+        .recruiter-info {
+            font-size: 0.9em;
+        }
+        
+        .jd-preview {
+            max-width: 300px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        
+        .jd-full {
+            display: none;
+            max-width: 500px;
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+        
+        .view-jd-btn {
+            background: #17a2b8;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+        
+        .view-jd-btn:hover {
+            background: #138496;
+        }
+        
+        .visa-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        
+        .visa-usa {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 30px;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #00c9ff;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -20px -20px 20px -20px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <h1>🔍 Job Scraper - NVoids</h1>
+        <p class="subtitle">Extract job postings with AI-powered parsing</p>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <label for="url">Website URL</label>
+                <input type="text" id="url" value="https://nvoids.com/search_sph.jsp" placeholder="Enter URL to scrape">
+            </div>
+            
+            <div class="input-group">
+                <label for="keywords">Keywords to Filter (Optional)</label>
+                <input type="text" id="keywords" placeholder="e.g., AI, Machine Learning, Data Engineer">
+            </div>
+            
+            <button class="btn" onclick="scrapeJobs()">🚀 Scrape Jobs</button>
+            
+            <div id="status" class="status"></div>
+        </div>
+        
+        <div class="results-section" id="resultsSection">
+            <div class="results-header">
+                <h2>📊 Scraped Jobs</h2>
+                <button class="export-btn" onclick="exportToCSV()">📥 Export CSV</button>
+            </div>
+            
+            <div id="loading" class="loading" style="display: none;">
+                <div class="spinner"></div>
+                <p style="margin-top: 15px; color: #666;">Scraping jobs with AI...</p>
+            </div>
+            
+            <div id="resultsTableContainer"></div>
+        </div>
+    </div>
+    
+    <script>
+        let scrapedJobs = [];
+        let availableSenders = [];
+
+        // Load available sender emails from server-side email.json (no passwords exposed)
+        // Returns a Promise so callers can wait for senders to be available.
+        async function loadAvailableSenders() {
+            try {
+                const res = await fetch('/available_senders');
+                const data = await res.json();
+                if (data && data.senders) {
+                    availableSenders = data.senders; // array of {email, name, phone}
+                } else {
+                    availableSenders = [];
+                }
+            } catch (e) {
+                console.warn('Failed to load available senders:', e);
+                availableSenders = [];
+            }
+            return availableSenders;
+        }
+
+        // Kick off loading (callers can await availableSendersPromise)
+        const availableSendersPromise = loadAvailableSenders();
+
+        function populateSenderSelects() {
+            // Find all selects with id pattern sender-select-<index>
+            const selects = document.querySelectorAll('[id^="sender-select-"]');
+            selects.forEach(s => {
+                // Always repopulate (so search works consistently) but preserve current selection if possible
+                const current = s.value;
+                const idx = s.id.split('-').pop();
+                s.innerHTML = '';
+
+                if (availableSenders.length === 0) {
+                    const opt = document.createElement('option');
+                    opt.text = 'Default sender';
+                    opt.value = '';
+                    s.appendChild(opt);
+                } else {
+                    availableSenders.forEach(sender => {
+                        const opt = document.createElement('option');
+                        opt.value = sender.email;
+                        opt.text = `${sender.email} (${sender.name || ''})`;
+                        s.appendChild(opt);
+                    });
+                }
+
+                // restore selection if still present
+                if (current) {
+                    const optToSelect = Array.from(s.options).find(o => o.value === current);
+                    if (optToSelect) s.value = current;
+                }
+
+                // update phone display for this select
+                updateSenderInfo(idx);
+            });
+        }
+
+        // Filter sender options for a given row index
+        function filterSenderOptions(index, query) {
+            query = (query || '').toLowerCase().trim();
+            const select = document.getElementById(`sender-select-${index}`);
+            if (!select) return;
+            // Build filtered options
+            select.innerHTML = '';
+            const list = availableSenders.filter(s => {
+                return !query || s.email.toLowerCase().includes(query) || (s.name || '').toLowerCase().includes(query) || (s.phone || '').toLowerCase().includes(query);
+            });
+            if (list.length === 0) {
+                const opt = document.createElement('option');
+                opt.value = '';
+                opt.text = 'No senders match';
+                select.appendChild(opt);
+            } else {
+                list.forEach(s => {
+                    const opt = document.createElement('option');
+                    opt.value = s.email;
+                    opt.text = `${s.email} (${s.name || ''})`;
+                    select.appendChild(opt);
+                });
+            }
+            // After filtering, update phone info
+            updateSenderInfo(index);
+        }
+
+        // Display phone number for selected sender on a given row
+        function updateSenderInfo(index) {
+            const select = document.getElementById(`sender-select-${index}`);
+            const phoneDiv = document.getElementById(`sender-phone-${index}`);
+            if (!phoneDiv) return;
+            if (!select || !select.value) {
+                phoneDiv.innerHTML = '&nbsp;';
+                return;
+            }
+
+            const s = availableSenders.find(x => x.email === select.value);
+            if (s && s.phone) {
+                phoneDiv.textContent = `Phone: ${s.phone}`;
+            } else {
+                phoneDiv.innerHTML = '&nbsp;';
+            }
+        }
+        
+        async function scrapeJobs() {
+            const url = document.getElementById('url').value;
+            const keywords = document.getElementById('keywords').value;
+            
+            if (!url) {
+                showStatus('Please enter a URL', 'error');
+                return;
+            }
+            
+            // Reset UI
+            document.getElementById('resultsSection').style.display = 'none';
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('resultsTableContainer').innerHTML = '';
+            showStatus('Scraping started...', 'info');
+            
+            try {
+                const response = await fetch('/scrape_jobs', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        url: url,
+                        keywords: keywords
+                    })
+                });
+                
+                const data = await response.json();
+                
+                document.getElementById('loading').style.display = 'none';
+                
+                if (data.error) {
+                    showStatus('Error: ' + data.error, 'error');
+                    return;
+                }
+                
+                if (data.jobs && data.jobs.length > 0) {
+                    scrapedJobs = data.jobs;
+                    displayResults(data.jobs);
+                    showStatus(`Successfully scraped ${data.jobs.length} jobs!`, 'success');
+                } else {
+                    showStatus('No jobs found matching your criteria', 'info');
+                }
+                
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                showStatus('Error scraping jobs: ' + error.message, 'error');
+            }
+        }
+        
+        function displayResults(jobs) {
+            let html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Job Title</th>
+                            <th>Company</th>
+                            <th>Location</th>
+                            <th>Recruiter</th>
+                            <th>Phone</th>
+                            <th>Email</th>
+                            <th>Visa Type</th>
+                            <th>Job Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+            
+            jobs.forEach((job, index) => {
+                html += `
+                    <tr>
+                        <td class="job-title">${escapeHtml(job.title || 'N/A')}</td>
+                        <td class="company-name">${escapeHtml(job.company || 'N/A')}</td>
+                        <td>${escapeHtml(job.location || 'N/A')}</td>
+                        <td class="recruiter-info">${escapeHtml(job.recruiter_name || 'N/A')}</td>
+                        <td>${escapeHtml(job.phone || 'N/A')}</td>
+                        <td>${escapeHtml(job.email || 'N/A')}</td>
+                        <td>
+                            ${job.visa_type ? `<span class="visa-badge visa-usa">${escapeHtml(job.visa_type)}</span>` : 'N/A'}
+                        </td>
+                        <td>
+                            <div class="jd-preview">${escapeHtml(job.jd ? job.jd.substring(0, 100) + '...' : 'N/A')}</div>
+                            <button class="view-jd-btn" onclick="toggleJD(${index})">View Full</button>
+                            <div style="margin-top:8px; display:flex; gap:8px; align-items:center;">
+                                <!-- Sender search + selection dropdown (keeps dropdown button) -->
+                                <input id="sender-search-${index}" oninput="filterSenderOptions(${index}, this.value)" placeholder="Search sender..." style="padding:6px;border-radius:6px;min-width:140px;width:auto;" />
+                                <select id="sender-select-${index}" onchange="updateSenderInfo(${index})" style="padding:6px;border-radius:6px;min-width:260px;width:auto;">
+                                    <option>Loading senders...</option>
+                                </select>
+                                <!-- Send button that will send the job JSON from the selected sender -->
+                                <button class="view-jd-btn" onclick="sendJobFromSender(${index})">Send</button>
+                                <div id="sender-phone-${index}" style="font-size:0.9em;color:#333;margin-left:8px;">&nbsp;</div>
+                            </div>
+                            <div class="jd-full" id="jd-${index}">${escapeHtml(job.jd || 'N/A')}</div>
+                        </td>
+                    </tr>
+                `;
+            });
+            
+            html += `
+                    </tbody>
+                </table>
+            `;
+            
+            document.getElementById('resultsTableContainer').innerHTML = html;
+            document.getElementById('resultsSection').style.display = 'block';
+            // Populate sender dropdowns now that DOM is created. Wait for senders to load first.
+            availableSendersPromise.then(() => {
+                populateSenderSelects();
+            }).catch(() => {
+                // still try to populate with empty list
+                populateSenderSelects();
+            });
+        }
+        
+        function toggleJD(index) {
+            const jdFull = document.getElementById(`jd-${index}`);
+            const btn = event.target;
+            
+            if (jdFull.style.display === 'none' || !jdFull.style.display) {
+                jdFull.style.display = 'block';
+                btn.textContent = 'Hide';
+            } else {
+                jdFull.style.display = 'none';
+                btn.textContent = 'View Full';
+            }
+        }
+        
+        function exportToCSV() {
+            if (scrapedJobs.length === 0) {
+                alert('No jobs to export');
+                return;
+            }
+            
+            let csv = 'Job Title,Company,Location,Recruiter,Phone,Email,Visa Type,Job Description\n';
+            
+            scrapedJobs.forEach(job => {
+                csv += `"${job.title || ''}","${job.company || ''}","${job.location || ''}","${job.recruiter_name || ''}","${job.phone || ''}","${job.email || ''}","${job.visa_type || ''}","${(job.jd || '').replace(/"/g, '""')}"\n`;
+            });
+            
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `jobs_${new Date().toISOString().split('T')[0]}.csv`;
+            a.click();
+            window.URL.revokeObjectURL(url);
+        }
+
+        async function sendJobFromSender(index) {
+            const job = scrapedJobs[index];
+            if (!job || !job.email) {
+                alert('No recruiter email available for this job');
+                return;
+            }
+
+            const senderSelect = document.getElementById(`sender-select-${index}`);
+            const senderEmail = senderSelect ? senderSelect.value : null;
+            if (!senderEmail) {
+                alert('Please select a sender email');
+                return;
+            }
+
+            const subject = `Application: ${job.title || 'Job'} at ${job.company || ''}`;
+            // Send the job JSON as the email body (stringified); backend can format it or attach files
+            const body = JSON.stringify(job, null, 2);
+
+            showStatus(`Sending job to ${job.email} from ${senderEmail}...`, 'info');
+
+            try {
+                const form = new FormData();
+                form.append('recruiter_name', job.recruiter_name || 'Hiring Manager');
+                form.append('recruiter_email', job.email);
+                form.append('subject', subject);
+                form.append('body', body);
+                form.append('sender_email', senderEmail);
+
+                const res = await fetch('/send_email', {
+                    method: 'POST',
+                    body: form
+                });
+
+                const data = await res.json();
+                if (data.success) {
+                    showStatus('Email sent successfully', 'success');
+                } else {
+                    showStatus('Failed to send email: ' + (data.error || 'unknown'), 'error');
+                }
+            } catch (err) {
+                showStatus('Error sending email: ' + err.message, 'error');
+            }
+        }
+        
+        function showStatus(message, type) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = `status ${type}`;
+            status.style.display = 'block';
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+    </script>
+</body>
+</html>
+

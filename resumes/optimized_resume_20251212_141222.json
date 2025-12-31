@@ -1,0 +1,330 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Engineer (GCP)",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized GCP Composer to orchestrate data workflows, ensuring seamless ETL processes in healthcare data integration, adhering to HIPAA compliance standards.",
+    "Developed and optimized BigQuery SQL queries to analyze large-scale insurance claim datasets, improving query performance by streamlining data retrieval processes.",
+    "Implemented Python-based data pipelines for healthcare data processing, ensuring data accuracy and integrity while migrating legacy systems to cloud-based solutions.",
+    "Collaborated with cross-functional teams to design and deploy ETL/ELT pipelines, enhancing data flow efficiency in banking transaction systems.",
+    "Engineered data solutions using Snowflake for financial data warehousing, enabling real-time analytics and reporting for decision-making processes.",
+    "Integrated Matillion with GCP to automate data transformation tasks, reducing manual intervention and improving data processing speed in healthcare projects.",
+    "Applied problem-solving skills to troubleshoot complex data pipeline issues, ensuring minimal downtime and maintaining data consistency across platforms.",
+    "Worked independently to design and implement cloud-native data engineering solutions, leveraging GCP services to optimize data storage and retrieval.",
+    "Created Python scripts for data cleansing and preprocessing, improving data quality and reliability in insurance fraud detection models.",
+    "Deployed GCP BigQuery for large-scale data analytics, enabling stakeholders to derive actionable insights from healthcare and insurance datasets.",
+    "Utilized GCP Dataflow for real-time data processing, ensuring timely updates and accuracy in banking customer transaction records.",
+    "Implemented data governance policies using GCP IAM roles, ensuring secure access and compliance with GDPR regulations in healthcare data management.",
+    "Developed custom Python libraries for data ingestion, streamlining the integration of diverse data sources into a unified healthcare data lake.",
+    "Orchestrated data migration from on-premise to GCP, ensuring data integrity and minimizing downtime during the transition process.",
+    "Applied advanced SQL techniques in BigQuery to perform complex data aggregations, supporting business intelligence initiatives in the insurance sector.",
+    "Collaborated with data scientists to build scalable data pipelines, facilitating machine learning model training and deployment in healthcare applications.",
+    "Implemented monitoring and alerting systems for data pipelines using GCP Cloud Monitoring, ensuring proactive issue detection and resolution.",
+    "Optimized data storage and retrieval strategies using GCP Cloud Storage, enhancing data accessibility and reducing costs in large-scale healthcare projects."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Engineered GCP Composer workflows to automate insurance claim processing, reducing manual effort and improving processing time by ensuring efficient data flow.",
+        "Developed Python scripts to extract and transform data from various sources, integrating them into BigQuery for comprehensive insurance analytics.",
+        "Implemented ETL pipelines using GCP Dataflow to handle large volumes of healthcare data, ensuring HIPAA compliance throughout the process.",
+        "Utilized Snowflake for data warehousing, enabling advanced analytics and reporting for insurance fraud detection models.",
+        "Integrated Matillion with GCP to streamline data transformation tasks, enhancing data quality and consistency in insurance datasets.",
+        "Collaborated with data scientists to build and deploy machine learning models on GCP Vertex AI, improving claim prediction accuracy.",
+        "Troubleshot and resolved issues in data pipelines, ensuring minimal downtime and maintaining data integrity in critical insurance systems.",
+        "Designed and implemented data governance policies using GCP IAM, ensuring secure access and compliance with regulatory standards.",
+        "Optimized BigQuery SQL queries to improve performance, enabling faster data retrieval for insurance analytics dashboards.",
+        "Worked independently to design cloud-native data engineering solutions, leveraging GCP services to optimize storage and retrieval costs.",
+        "Developed custom Python libraries for data ingestion, streamlining the integration of diverse insurance data sources into a unified data lake.",
+        "Orchestrated data migration from on-premise systems to GCP, ensuring data integrity and minimizing downtime during the transition.",
+        "Implemented monitoring and alerting systems using GCP Cloud Monitoring, ensuring proactive detection and resolution of pipeline issues.",
+        "Applied advanced SQL techniques in BigQuery to perform complex data aggregations, supporting business intelligence initiatives in insurance.",
+        "Collaborated with cross-functional teams to design scalable data pipelines, facilitating machine learning model training and deployment.",
+        "Enhanced data storage strategies using GCP Cloud Storage, improving data accessibility and reducing costs in large-scale insurance projects."
+      ],
+      "environment": [
+        "GCP Composer, BigQuery, Python, Snowflake, Matillion, GCP Dataflow, Vertex AI, IAM, Cloud Monitoring, Cloud Storage"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Utilized GCP Composer to orchestrate healthcare data workflows, ensuring seamless ETL processes and adherence to HIPAA compliance standards.",
+        "Developed and optimized BigQuery SQL queries to analyze large-scale healthcare datasets, improving query performance and data retrieval efficiency.",
+        "Implemented Python-based data pipelines for healthcare data processing, ensuring data accuracy and integrity during cloud migration.",
+        "Collaborated with cross-functional teams to design and deploy ETL/ELT pipelines, enhancing data flow efficiency in healthcare systems.",
+        "Engineered data solutions using Snowflake for healthcare data warehousing, enabling real-time analytics and reporting for decision-making.",
+        "Integrated Matillion with GCP to automate data transformation tasks, reducing manual intervention and improving processing speed.",
+        "Applied problem-solving skills to troubleshoot complex data pipeline issues, ensuring minimal downtime and data consistency.",
+        "Worked independently to design and implement cloud-native data engineering solutions, leveraging GCP services for optimization.",
+        "Created Python scripts for data cleansing and preprocessing, improving data quality and reliability in healthcare models.",
+        "Deployed GCP BigQuery for large-scale healthcare analytics, enabling stakeholders to derive actionable insights from datasets.",
+        "Utilized GCP Dataflow for real-time healthcare data processing, ensuring timely updates and accuracy in patient records.",
+        "Implemented data governance policies using GCP IAM roles, ensuring secure access and compliance with GDPR regulations.",
+        "Developed custom Python libraries for data ingestion, streamlining integration of diverse healthcare data sources into a unified lake.",
+        "Orchestrated data migration from on-premise to GCP, ensuring integrity and minimizing downtime during transition."
+      ],
+      "environment": [
+        "GCP Composer, BigQuery, Python, Snowflake, Matillion, GCP Dataflow, IAM"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilized GCP Composer to orchestrate healthcare data workflows, ensuring seamless ETL processes and HIPAA compliance.",
+        "Developed Python-based data pipelines for healthcare data processing, ensuring accuracy and integrity during migration.",
+        "Implemented ETL/ELT pipelines using GCP Dataflow, enhancing data flow efficiency in healthcare systems.",
+        "Engineered Snowflake solutions for healthcare data warehousing, enabling real-time analytics and reporting.",
+        "Integrated Matillion with GCP to automate data transformation, reducing manual effort and improving speed.",
+        "Applied problem-solving skills to troubleshoot pipeline issues, ensuring minimal downtime and data consistency.",
+        "Worked independently to design cloud-native solutions, leveraging GCP services for optimization.",
+        "Created Python scripts for data cleansing, improving quality and reliability in healthcare models.",
+        "Deployed BigQuery for large-scale healthcare analytics, enabling actionable insights from datasets.",
+        "Utilized GCP Dataflow for real-time processing, ensuring timely updates in patient records.",
+        "Implemented GCP IAM roles for secure access and GDPR compliance in healthcare data management.",
+        "Developed custom Python libraries for data ingestion, streamlining integration into a unified healthcare data lake.",
+        "Orchestrated data migration to GCP, ensuring integrity and minimizing downtime."
+      ],
+      "environment": [
+        "GCP Composer, BigQuery, Python, Snowflake, Matillion, GCP Dataflow, IAM"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed Python scripts for banking data processing, ensuring accuracy and integrity in transaction systems.",
+        "Implemented ETL pipelines using Apache Airflow, enhancing data flow efficiency in financial systems.",
+        "Utilized Snowflake for financial data warehousing, enabling real-time analytics and reporting for decision-making.",
+        "Applied problem-solving skills to troubleshoot data pipeline issues, ensuring minimal downtime and consistency.",
+        "Worked independently to design data engineering solutions, optimizing storage and retrieval in banking systems.",
+        "Created Python libraries for data ingestion, streamlining integration of diverse financial data sources.",
+        "Orchestrated data migration from on-premise to cloud, ensuring integrity and minimizing downtime.",
+        "Implemented monitoring systems using Cloud Monitoring, ensuring proactive detection and resolution of issues.",
+        "Optimized SQL queries to improve performance, enabling faster data retrieval for financial analytics.",
+        "Collaborated with teams to design scalable pipelines, facilitating model training and deployment in banking."
+      ],
+      "environment": [
+        "Python, Apache Airflow, Snowflake, Cloud Monitoring"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed Python scripts for data processing, ensuring accuracy in transaction systems.",
+        "Implemented ETL pipelines using Apache Airflow, enhancing data flow efficiency.",
+        "Utilized Snowflake for data warehousing, enabling real-time analytics and reporting.",
+        "Applied problem-solving skills to troubleshoot pipeline issues, ensuring minimal downtime.",
+        "Worked independently to design data engineering solutions, optimizing storage and retrieval.",
+        "Created Python libraries for data ingestion, streamlining integration of diverse sources.",
+        "Orchestrated data migration to cloud, ensuring integrity and minimizing downtime.",
+        "Implemented monitoring systems, ensuring proactive detection and resolution of issues."
+      ],
+      "environment": [
+        "Python, Apache Airflow, Snowflake"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

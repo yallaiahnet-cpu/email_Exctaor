@@ -1,0 +1,271 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Engineering Lead - Public Sector & Healthcare Platforms",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building and scaling enterprise-grade data platforms, with deep specialization in AWS cloud-native solutions and the Medallion Architecture for government and healthcare sectors.",
+    "Orchestrated the design and implementation of a multi-agency, scalable data platform using the Medallion Architecture, establishing Bronze, Silver, and Gold layer pipelines that processed terabytes of sensitive healthcare data daily.",
+    "Spearheaded the migration of legacy on-premise ETL processes to a serverless AWS Glue-based framework, dramatically improving pipeline reliability and reducing operational costs for a major government healthcare project.",
+    "Architected and maintained gold-layer data pipelines that served as the single source of truth for analytics, ensuring data quality and validation met strict HIPAA and public-sector compliance requirements.",
+    "Engineered batch data processing systems within a government data platform context, focusing on secure data handling, schema evolution, and performance optimization to support high-growth user demands.",
+    "Led troubleshooting and operational support for mission-critical data pipelines, collaborating with multi-agency stakeholders to ensure platform stability and data availability for time-sensitive reporting.",
+    "Pioneered the adoption of data lake architecture on AWS S3, implementing robust IAM roles and permissions to govern access across different agencies while maintaining a clear audit trail.",
+    "Directed the transformation and enrichment of raw source data into curated gold-layer datasets, enabling self-service analytics and reporting while enforcing governance policies.",
+    "Mentored junior engineers on cloud cost awareness and efficient pipeline design, establishing best practices for scalable data platform engineering within budget constraints.",
+    "Formulated comprehensive documentation for data pipelines and architecture, facilitating knowledge transfer and ensuring smooth onboarding for new team members and agency partners.",
+    "Navigated complex regulatory landscapes by implementing secure data handling protocols within AWS, ensuring all data processing adhered to government and healthcare privacy standards.",
+    "Championed source-to-target data processing designs that improved data lineage tracking and made debugging pipeline failures significantly faster and more intuitive for the operations team.",
+    "Evaluated and integrated new AWS Glue features into existing workflows, continuously optimizing ETL/ELT pipeline development for better performance and lower maintenance overhead.",
+    "Synthesized requirements from various business units to design enterprise-grade data pipelines that balanced immediate analytical needs with long-term platform scalability and flexibility.",
+    "Investigated performance bottlenecks in gold-layer data pipeline designs, implementing partitioning and compression strategies that reduced query times for end-users by over forty percent.",
+    "Cultivated a culture of data quality and validation through automated checks at each layer of the Medallion Architecture, catching data issues early and preventing downstream report errors.",
+    "Adapted to evolving project scopes by skillfully handling schema evolution in production pipelines, ensuring backward compatibility and minimizing disruption to consuming applications.",
+    "Forged strong collaborative relationships with multi-agency stakeholders, translating complex technical constraints into actionable business insights for platform roadmap planning."
+  ],
+  "technical_skills": {
+    "Cloud Data Engineering & ETL": [
+      "AWS Glue",
+      "AWS S3",
+      "AWS IAM",
+      "Cloud-native ETL Orchestration",
+      "Medallion Architecture",
+      "Bronze/Silver/Gold Layer Design",
+      "Enterprise Data Pipelines",
+      "Batch Data Processing"
+    ],
+    "Data Platform Architecture": [
+      "Scalable Data Platform Engineering",
+      "Data Lake Architecture",
+      "Source-to-Target Processing",
+      "Gold-Layer Pipeline Design",
+      "Multi-Tenant Systems",
+      "Government Data Platforms"
+    ],
+    "Data Management & Governance": [
+      "Data Transformation & Enrichment",
+      "Data Quality & Validation",
+      "Schema Evolution Handling",
+      "Secure Data Handling",
+      "HIPAA/GDPR Compliance",
+      "Data Lineage & Documentation"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Scala",
+      "PySpark",
+      "Bash/Shell Scripting"
+    ],
+    "Big Data & Distributed Processing": [
+      "Apache Spark",
+      "Apache Airflow",
+      "AWS EMR",
+      "Databricks"
+    ],
+    "Cloud Infrastructure (AWS)": [
+      "AWS Cloud Platform",
+      "AWS Lambda",
+      "Amazon Redshift",
+      "AWS Step Functions",
+      "Amazon CloudWatch"
+    ],
+    "DevOps & Automation": [
+      "CI/CD Pipelines",
+      "Terraform",
+      "Git",
+      "Jenkins",
+      "Infrastructure-as-Code"
+    ],
+    "Data Storage & Databases": [
+      "Amazon RDS",
+      "PostgreSQL",
+      "Snowflake",
+      "Data Lake Storage"
+    ],
+    "Performance & Optimization": [
+      "Pipeline Performance Tuning",
+      "Cost Optimization",
+      "Query Optimization",
+      "Resource Management"
+    ],
+    "Collaboration & Documentation": [
+      "Stakeholder Collaboration",
+      "Technical Documentation",
+      "Operational Support",
+      "Cross-functional Team Leadership"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized AWS Glue to address inconsistent data ingestion from hundreds of healthcare suppliers, developing scalable Bronze layer pipelines that standardized schemas and improved data arrival reliability by ninety-five percent.",
+        "Leveraged the Medallion Architecture to solve data quality issues in raw patient supply records, constructing Silver layer transformations that cleansed PII and enriched product data, enabling accurate inventory forecasting.",
+        "Employed gold-layer data pipeline design principles to consolidate disparate clinical datasets, creating certified data marts that accelerated regulatory reporting for HIPAA audits and reduced preparation time by sixty hours monthly.",
+        "Orchestrated enterprise-grade data pipelines using AWS Step Functions, solving workflow dependency challenges and ensuring batch data processing for nightly financial reconciliations completed within strict SLA windows.",
+        "Applied scalable data platform engineering concepts to overhaul a legacy data warehouse, migrating to a cloud-native S3 data lake architecture that doubled storage efficiency and cut monthly AWS costs by eighteen percent.",
+        "Spearheaded data transformation and enrichment projects for real-time physician preference card analytics, integrating AWS Glue Jobs with Python UDFs to deliver insights that optimized surgical kit assembly processes.",
+        "Championed data quality and validation frameworks by implementing automated checks within Silver layer pipelines, catching and quarantining erroneous shipment records before they impacted gold-layer analytics.",
+        "Mastered schema evolution handling for evolving FHIR-based clinical data feeds, designing flexible Glue crawlers and table definitions that adapted to new fields without breaking existing downstream reports.",
+        "Guided performance optimization of pipelines processing terabytes of supply chain data, introducing dynamic repartitioning in Spark jobs that reduced Gold layer processing time from hours to forty-five minutes.",
+        "Engineered secure data handling protocols for sensitive healthcare information within AWS, configuring fine-grained IAM roles and S3 bucket policies that exceeded HIPAA requirements for data at rest and in transit.",
+        "Systematized documentation of data pipelines and architecture using Confluence and inline code comments, creating a knowledge base that accelerated the onboarding of three new team members within two weeks.",
+        "Cultivated collaboration with multi-agency stakeholders including hospital groups and distributors, leading weekly syncs to align platform capabilities with emerging needs for government contract reporting.",
+        "Directed troubleshooting and operational support for a critical ETL failure during quarter-end closing, coordinating a rollback and fix that restored gold-layer datasets within four hours, preventing report delays.",
+        "Instilled cloud cost awareness across the data engineering team by implementing tagged cost allocation dashboards in CloudWatch, identifying and eliminating underutilized Glue DPUs to save thousands monthly.",
+        "Experimented with agentic frameworks like Crew AI and LangGraph for a POC on automated data quality alerting, creating a multi-agent system that reduced manual monitoring effort by thirty percent.",
+        "Explored the Model Context Protocol and agent-to-agent communication patterns to design a proof-of-concept for intelligent pipeline orchestration, presenting findings to architecture review board."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "Medallion Architecture",
+        "Python",
+        "PySpark",
+        "AWS Step Functions",
+        "Apache Airflow",
+        "HIPAA Compliant AWS",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Government Healthcare Data"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Deployed AWS Glue jobs and workflows to modernize legacy claim adjudication ETLs, solving performance bottlenecks and reducing the batch window for daily claim processing by over fifty percent.",
+        "Constructed a multi-tenant data lake architecture on AWS S3 to isolate data for different Blue Cross plans, implementing robust IAM policies that enforced strict access boundaries as per insurance regulations.",
+        "Formalized a Medallion Architecture blueprint for member eligibility data, designing Bronze layers for raw ingestion, Silver for cleansing, and Gold for certified reporting, enhancing data trustworthiness.",
+        "Piloted cloud-native ETL orchestration using managed AWS services, replacing a cumbersome on-premise scheduler and improving pipeline monitoring visibility for the operations team significantly.",
+        "Transformed source-to-target data processing for provider network datasets, building reusable Glue scripts that standardized geographic and specialty codes across thirty-plus independent licensees.",
+        "Validated data quality and validation rules for critical risk adjustment pipelines, incorporating business logic into Silver layer transformations that flagged anomalies for manual review before Gold consumption.",
+        "Administered schema evolution handling for incoming CMS (Centers for Medicare & Medicaid) data feeds, employing Glue Schema Registry to manage versions and prevent downstream consumer disruptions.",
+        "Optimized performance of pipelines generating gold-layer datasets for actuarial reporting, tuning Spark configurations and implementing predicate pushdown to meet tight financial closing deadlines.",
+        "Secured data handling for PHI within the AWS Cloud Platform by collaborating with infosec to encrypt all data in transit and at rest, achieving compliance for state-level insurance regulations.",
+        "Cataloged documentation of data pipelines and architecture in a centralized data catalog, enabling business analysts to discover and understand available gold-layer assets for self-service reporting.",
+        "Facilitated collaboration with multi-agency stakeholders from Medicare and Medicaid programs, translating complex regulatory reporting requirements into technical specifications for the engineering team.",
+        "Investigated troubleshooting and operational support for a recurring slow-running Gold layer aggregation, identifying and resolving a data skew issue that had plagued the process for months.",
+        "Promoted cloud cost awareness by rightsizing Glue worker types and implementing auto-scaling policies, achieving a fifteen percent reduction in compute spend without impacting pipeline performance.",
+        "Prototyped a proof-of-concept using Crew AI and LangGraph to automate the generation of data lineage reports, demonstrating potential efficiency gains in compliance documentation efforts."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS IAM",
+        "Medallion Architecture",
+        "PySpark",
+        "Data Lake",
+        "ETL/ELT",
+        "Gold-layer Datasets",
+        "Insurance Data Regulations",
+        "PHI Security"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Migrated on-premise public health data ETL processes to Azure Data Factory, solving scalability limitations and enabling the ingestion of COVID-19 testing data from hundreds of new labs statewide.",
+        "Assembled a government data platform foundation using Azure Synapse, creating initial Bronze and Silver layer pipelines that consolidated disparate data from multiple county health departments.",
+        "Supported ETL/ELT pipeline development for unemployment claim analytics, building robust data flows that transformed raw application data into gold-layer datasets for legislative reporting.",
+        "Enhanced data transformation and enrichment for voter registration systems, applying business rules to cleanse addresses and standardize formats, improving mail-in ballot delivery accuracy.",
+        "Processed batch data processing for nightly extracts from legacy mainframe systems, developing reliable Azure pipelines that fed gold-layer data marts for public-facing dashboard reporting.",
+        "Maintained enterprise-grade data pipelines supporting the Department of Transportation, conducting weekly code reviews and performance checks to ensure SLA adherence for bridge inspection reports.",
+        "Audited data quality and validation checks within Silver layer processing, working with domain experts to refine rules that identified outliers in education funding allocation datasets.",
+        "Assisted with schema evolution handling for evolving federal grant reporting requirements, updating table definitions and pipeline mappings to accommodate new data elements without errors.",
+        "Monitored performance optimization of pipelines generating gold-layer datasets for budget forecasting, suggesting indexing strategies that improved aggregate query performance by thirty percent.",
+        "Implemented secure data handling for sensitive citizen information per government regulations, utilizing Azure Private Endpoints and encryption to protect data within the platform.",
+        "Contributed to documentation of data pipelines and architecture, updating runbooks and process diagrams to reflect recent changes for the benefit of the operations support team.",
+        "Participated in collaboration with multi-agency stakeholders during a cross-departmental data sharing initiative, helping define the technical standards for data exchange protocols."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse",
+        "Azure SQL Database",
+        "Azure Storage",
+        "ETL/ELT",
+        "Government Data Systems",
+        "Public-Sector Compliance",
+        "Batch Processing"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Programmed scalable data pipelines using Azure Databricks and Spark to process high-volume credit card transaction data, supporting real-time fraud detection model training and batch settlement.",
+        "Integrated data transformation and enrichment logic into transaction processing streams, cleansing raw merchant data and appending demographic insights for customer segmentation analytics.",
+        "Operated batch data processing systems for monthly financial statement generation, ensuring gold-layer general ledger datasets were accurate, complete, and delivered within strict accounting deadlines.",
+        "Safeguarded secure data handling for PCI-DSS compliant environments, implementing column-level encryption and tokenization within Azure pipelines to protect cardholder data throughout its lifecycle.",
+        "Examined data quality and validation alerts from production pipelines, diagnosing issues related to holiday sales spikes and implementing fixes that maintained data integrity for risk reporting.",
+        "Reviewed schema evolution handling procedures for new product launch data, testing backward compatibility of pipeline changes in a staging environment before deployment to production.",
+        "Measured performance optimization of gold-layer aggregation jobs, adjusting Spark shuffle partitions and memory settings to reduce resource contention and improve overall cluster utilization.",
+        "Organized documentation for key finance data pipelines, creating flowcharts and data dictionaries that aided auditors during annual SOC 1 and SOC 2 compliance examinations.",
+        "Coordinated collaboration with the finance and risk departments, attending requirement gathering sessions to understand new regulatory reporting needs for stress testing calculations.",
+        "Assessed troubleshooting steps for a failed end-of-quarter processing job, assisting senior engineers in restoring from backups and re-running pipelines to meet reporting deadlines."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Apache Spark",
+        "Azure Blob Storage",
+        "SQL Server",
+        "PCI-DSS Compliance",
+        "Financial Data Pipelines",
+        "Batch Processing",
+        "Data Quality Frameworks"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed clinical pathology data from lab instruments using Python and SQL, creating standardized Bronze layer files for downstream AI model training on cancer detection.",
+        "Cleansed data for a healthcare analytics platform, applying validation rules to patient blood test results to identify and correct instrument calibration errors or missing values in the Silver layer.",
+        "Loaded curated gold-layer datasets into PostgreSQL for consumption by machine learning researchers, ensuring data was anonymized and complied with relevant patient privacy guidelines.",
+        "Developed basic batch data processing scripts to automate the daily refresh of lab test reference ranges, reducing the manual effort required from pathologists by several hours each week.",
+        "Verified data quality by running statistical summaries on transformed datasets, flagging any unusual distributions for review by senior data scientists before model training commenced.",
+        "Assisted in documenting the flow of digital pathology images through the data pipeline, helping to establish clear lineage from scanner to diagnostic report for regulatory audits.",
+        "Participated in team meetings to understand new data requirements for HIPAA-compliant research studies, learning how to handle sensitive patient demographics and diagnosis codes appropriately.",
+        "Explored data visualization using Power BI to create internal dashboards that tracked data pipeline volume and quality metrics, providing visibility into process health for project managers."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Basic ETL",
+        "Data Cleaning",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,222 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "GCP Engineer (BigQuery & GCP)",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized GCP services like BigQuery, Cloud Dataflow, and Cloud Composer to design and optimize data warehouses, ensuring high performance and cost efficiency.",
+    "Migrated ETL logic from SSIS and Informatica to GCP-native solutions, leveraging Python, SQL, and Spark for data ingestion and transformation.",
+    "Implemented real-time and batch data processing workflows using Cloud Storage, Pub/Sub, and Cloud Functions, ensuring data security and compliance with IAM and encryption.",
+    "Collaborated with Data Scientists and Analysts to optimize query performance and enable advanced analytics, troubleshooting performance issues and managing BigQuery cost.",
+    "Built and maintained scalable ETL pipelines using Cloud Dataflow, Cloud Dataproc, and Cloud Composer, ensuring seamless data integration and migration.",
+    "Extracted and analyzed existing ETL logic from SSIS and Informatica, translating it into GCP-native solutions for improved efficiency and scalability.",
+    "Worked with Cloud Storage and Pub/Sub to facilitate data ingestion and processing, ensuring data governance and compliance with audit logging.",
+    "Implemented CI/CD pipelines for data workflows, ensuring continuous integration and deployment of data solutions.",
+    "Optimized BigQuery query performance and managed resource utilization, reducing costs and improving overall system efficiency.",
+    "Developed Python scripts for data transformation and processing, integrating with Spark for large-scale data handling.",
+    "Utilized Cloud Functions for event-driven data processing, enabling real-time data ingestion and analysis.",
+    "Ensured data security and compliance by implementing IAM roles, encryption, and audit logging across GCP services.",
+    "Collaborated with cross-functional teams to design and implement data solutions, aligning with business requirements and objectives.",
+    "Troubleshot and resolved performance issues in ETL pipelines, ensuring data accuracy and reliability.",
+    "Managed BigQuery cost and resource utilization, optimizing query performance and reducing operational expenses.",
+    "Implemented data governance policies and procedures, ensuring compliance with regulatory requirements.",
+    "Conducted code reviews and provided feedback to team members, ensuring high-quality code and best practices.",
+    "Mentored junior team members on GCP services and data engineering best practices, fostering a collaborative and learning-oriented environment."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Data Processing & ETL": [
+      "Informatica",
+      "SSIS",
+      "Cloud Dataflow",
+      "Cloud Dataproc",
+      "Cloud Composer (Airflow)"
+    ],
+    "Cloud Platforms": [
+      "GCP (BigQuery, Cloud Storage, Pub/Sub, Cloud Functions, IAM, Cloud SQL, Vertex AI)"
+    ],
+    "Data Warehousing": [
+      "BigQuery",
+      "Snowflake",
+      "Google Big Query"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Google Cloud SQL"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Spark Streaming"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "GCP Cloud Composer",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Data Security & Compliance": [
+      "IAM",
+      "Encryption",
+      "Audit Logging"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "Google Colab"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized GCP BigQuery to design and optimize data warehouses, ensuring high performance and cost efficiency for insurance claim processing.",
+        "Built scalable ETL pipelines using Cloud Dataflow and Cloud Composer, migrating legacy SSIS workflows to GCP-native solutions.",
+        "Extracted and analyzed existing Informatica ETL logic, translating it into Python and Spark scripts for improved data transformation.",
+        "Implemented real-time data ingestion using Pub/Sub and Cloud Functions, ensuring seamless integration with insurance policy systems.",
+        "Ensured data security and compliance with HIPAA regulations by implementing IAM roles and encryption across GCP services.",
+        "Collaborated with Data Scientists to optimize BigQuery queries for predictive analytics, reducing query execution time by improving data partitioning.",
+        "Troubleshot performance issues in ETL pipelines, identifying bottlenecks and optimizing data flow for enhanced efficiency.",
+        "Managed BigQuery cost and resource utilization, implementing cost-saving measures like query caching and slot management.",
+        "Implemented CI/CD pipelines for data workflows using Jenkins and Terraform, ensuring continuous deployment of data solutions.",
+        "Developed Python scripts for data cleansing and transformation, integrating with Spark for large-scale insurance data processing.",
+        "Worked with Cloud Storage to facilitate batch data processing, ensuring data governance and compliance with audit logging.",
+        "Conducted code reviews and provided feedback to team members, ensuring adherence to coding standards and best practices.",
+        "Mentored junior engineers on GCP services and data engineering, fostering a collaborative and learning-oriented team environment.",
+        "Implemented data governance policies, ensuring compliance with regulatory requirements for insurance data handling.",
+        "Optimized BigQuery query performance by tuning SQL queries and leveraging materialized views for frequently accessed data.",
+        "Collaborated with cross-functional teams to design and implement data solutions, aligning with business objectives and insurance industry standards."
+      ],
+      "environment": [
+        "GCP, BigQuery, Cloud Dataflow, Cloud Composer, Python, SQL, Spark, Pub/Sub, Cloud Functions, IAM, HIPAA, Jenkins, Terraform"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed and optimized BigQuery data warehouses for healthcare analytics, ensuring compliance with HIPAA regulations.",
+        "Migrated ETL workflows from SSIS to GCP-native solutions using Cloud Dataflow and Cloud Composer, improving data processing efficiency.",
+        "Extracted and analyzed existing Informatica ETL logic, translating it into Python scripts for healthcare data transformation.",
+        "Implemented real-time data ingestion using Pub/Sub and Cloud Functions, enabling seamless integration with healthcare monitoring systems.",
+        "Ensured data security and governance by implementing IAM roles, encryption, and audit logging across GCP services.",
+        "Collaborated with Data Analysts to optimize BigQuery queries for patient data analysis, reducing query execution time.",
+        "Troubleshot performance issues in ETL pipelines, identifying and resolving bottlenecks for enhanced data flow.",
+        "Managed BigQuery cost and resource utilization, implementing cost-saving measures like query caching and slot management.",
+        "Implemented CI/CD pipelines for data workflows using Jenkins and Terraform, ensuring continuous deployment of healthcare data solutions.",
+        "Developed Python scripts for data cleansing and transformation, integrating with Spark for large-scale healthcare data processing.",
+        "Worked with Cloud Storage to facilitate batch data processing, ensuring compliance with healthcare data governance policies.",
+        "Conducted code reviews and provided feedback to team members, ensuring high-quality code and adherence to best practices.",
+        "Mentored junior engineers on GCP services and data engineering, fostering a collaborative and learning-oriented team environment.",
+        "Implemented data governance policies, ensuring compliance with regulatory requirements for healthcare data handling.",
+        "Optimized BigQuery query performance by tuning SQL queries and leveraging materialized views for frequently accessed patient data."
+      ],
+      "environment": [
+        "GCP, BigQuery, Cloud Dataflow, Cloud Composer, Python, SQL, Spark, Pub/Sub, Cloud Functions, IAM, HIPAA, Jenkins, Terraform"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed and optimized BigQuery data warehouses for government healthcare analytics, ensuring compliance with HIPAA regulations.",
+        "Migrated ETL workflows from SSIS to GCP-native solutions using Cloud Dataflow and Cloud Composer, improving data processing efficiency.",
+        "Extracted and analyzed existing Informatica ETL logic, translating it into Python scripts for healthcare data transformation.",
+        "Implemented real-time data ingestion using Pub/Sub and Cloud Functions, enabling seamless integration with healthcare monitoring systems.",
+        "Ensured data security and governance by implementing IAM roles, encryption, and audit logging across GCP services.",
+        "Collaborated with Data Analysts to optimize BigQuery queries for patient data analysis, reducing query execution time.",
+        "Troubleshot performance issues in ETL pipelines, identifying and resolving bottlenecks for enhanced data flow.",
+        "Managed BigQuery cost and resource utilization, implementing cost-saving measures like query caching and slot management.",
+        "Developed Python scripts for data cleansing and transformation, integrating with Spark for large-scale healthcare data processing.",
+        "Worked with Cloud Storage to facilitate batch data processing, ensuring compliance with healthcare data governance policies.",
+        "Conducted code reviews and provided feedback to team members, ensuring high-quality code and adherence to best practices.",
+        "Implemented data governance policies, ensuring compliance with regulatory requirements for healthcare data handling.",
+        "Optimized BigQuery query performance by tuning SQL queries and leveraging materialized views for frequently accessed patient data."
+      ],
+      "environment": [
+        "GCP, BigQuery, Cloud Dataflow, Cloud Composer, Python, SQL, Spark, Pub/Sub, Cloud Functions, IAM, HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Utilized GCP BigQuery for financial data warehousing, ensuring high performance and cost efficiency for banking analytics.",
+        "Built scalable ETL pipelines using Cloud Dataflow and Cloud Composer, migrating legacy SSIS workflows to GCP-native solutions.",
+        "Extracted and analyzed existing Informatica ETL logic, translating it into Python and Spark scripts for financial data transformation.",
+        "Implemented real-time data ingestion using Pub/Sub and Cloud Functions, ensuring seamless integration with banking systems.",
+        "Ensured data security and compliance with PCI regulations by implementing IAM roles and encryption across GCP services.",
+        "Collaborated with Data Analysts to optimize BigQuery queries for financial risk analysis, reducing query execution time.",
+        "Troubleshot performance issues in ETL pipelines, identifying bottlenecks and optimizing data flow for enhanced efficiency.",
+        "Managed BigQuery cost and resource utilization, implementing cost-saving measures like query caching and slot management.",
+        "Developed Python scripts for data cleansing and transformation, integrating with Spark for large-scale financial data processing.",
+        "Worked with Cloud Storage to facilitate batch data processing, ensuring data governance and compliance with audit logging."
+      ],
+      "environment": [
+        "GCP, BigQuery, Cloud Dataflow, Cloud Composer, Python, SQL, Spark, Pub/Sub, Cloud Functions, IAM, PCI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilized GCP BigQuery for data warehousing, ensuring high performance and cost efficiency for consulting projects.",
+        "Built scalable ETL pipelines using Cloud Dataflow and Cloud Composer, migrating legacy SSIS workflows to GCP-native solutions.",
+        "Extracted and analyzed existing Informatica ETL logic, translating it into Python scripts for data transformation.",
+        "Implemented real-time data ingestion using Pub/Sub and Cloud Functions, ensuring seamless integration with client systems.",
+        "Ensured data security and governance by implementing IAM roles, encryption, and audit logging across GCP services.",
+        "Collaborated with Data Analysts to optimize BigQuery queries for client analytics, reducing query execution time.",
+        "Troubleshot performance issues in ETL pipelines, identifying and resolving bottlenecks for enhanced data flow.",
+        "Managed BigQuery cost and resource utilization, implementing cost-saving measures like query caching and slot management.",
+        "Developed Python scripts for data cleansing and transformation, integrating with Spark for large-scale data processing.",
+        "Worked with Cloud Storage to facilitate batch data processing, ensuring compliance with data governance policies."
+      ],
+      "environment": [
+        "GCP, BigQuery, Cloud Dataflow, Cloud Composer, Python, SQL, Spark, Pub/Sub, Cloud Functions, IAM"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

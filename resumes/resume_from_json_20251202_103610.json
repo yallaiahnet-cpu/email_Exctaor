@@ -1,0 +1,215 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI/ML Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Developed advanced RAG (Retrieval-Augmented Generation) systems for healthcare applications at CVS Health, integrating patient data with LLM capabilities while ensuring HIPAA compliance and data privacy through careful implementation of LangChain's document retrieval mechanisms.",
+    "Engineered agentic AI workflows using LangGraph for banking fraud detection systems at Capital One, creating autonomous agents that could analyze transaction patterns and flag suspicious activities while maintaining PCI compliance and financial data security protocols.",
+    "Implemented LLM fine-tuning processes for automotive customer service chatbots at Ford, customizing models with industry-specific terminology and troubleshooting issues related to model hallucination and response accuracy through iterative testing.",
+    "Designed and built data preprocessing pipelines for healthcare analytics, using Python to clean and transform raw patient data into structured formats suitable for ML model training while ensuring compliance with healthcare regulations.",
+    "Created asynchronous programming solutions for real-time banking transaction monitoring, improving system responsiveness and handling high-volume data streams without compromising on security or regulatory requirements.",
+    "Applied software design patterns to develop modular AI systems that could be easily maintained and extended across different domains, including healthcare, banking, automotive, and consulting.",
+    "Utilized SQL databases to store and retrieve training data for ML models, optimizing query performance and ensuring data integrity while working with large datasets across multiple industries.",
+    "Collaborated with cross-functional teams to integrate AI solutions into existing enterprise systems, bridging the gap between technical implementation and business requirements in healthcare, banking, and automotive contexts.",
+    "Contributed to ML Ops best practices by implementing version control for models, automating deployment processes, and establishing monitoring systems to track model performance in production environments.",
+    "Investigated and developed new techniques for improving LLM performance on domain-specific tasks, experimenting with different fine-tuning approaches and evaluating their effectiveness in practical applications.",
+    "Built comprehensive testing frameworks for AI systems, ensuring reliability and accuracy through rigorous validation processes that included unit testing, integration testing, and performance benchmarking.",
+    "Integrated LangSmith for tracking and debugging LLM applications, creating detailed logs of model behavior and using these insights to improve system performance and troubleshoot issues.",
+    "Developed custom RAG implementations that could handle complex healthcare queries, combining multiple retrieval strategies and optimizing for accuracy while maintaining patient privacy and data security.",
+    "Applied agentic AI patterns to create autonomous systems for automotive diagnostics, enabling vehicles to self-diagnose issues and recommend maintenance actions based on sensor data and historical performance.",
+    "Fine-tuned LLMs for banking customer service applications, customizing models to understand financial terminology and provide accurate information while adhering to regulatory compliance requirements.",
+    "Created data transformation pipelines for consulting projects, converting raw client data into actionable insights using Python and various data processing libraries while ensuring data quality and consistency.",
+    "Implemented asynchronous programming techniques to improve the performance of AI systems in high-demand environments, optimizing resource utilization and reducing response times for critical applications.",
+    "Contributed to the development of best practices for LLM Ops, creating documentation and guidelines for model deployment, monitoring, and maintenance that could be applied across different domains and use cases."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Java"
+    ],
+    "AI/ML Technologies": [
+      "LangChain",
+      "LangGraph",
+      "LangSmith",
+      "GPT-4+",
+      "Gemini",
+      "LLaMA",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Data Processing": [
+      "Apache Kafka",
+      "Hadoop",
+      "Apache Airflow",
+      "Apache Spark"
+    ],
+    "DevOps & Tools": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Git",
+      "CI/CD"
+    ],
+    "Visualization": [
+      "Tableau",
+      "Power BI",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered a comprehensive RAG system for medical knowledge retrieval using LangChain, enabling healthcare professionals to quickly access relevant patient information while maintaining strict HIPAA compliance through careful implementation of privacy-preserving techniques.",
+        "Developed agentic AI workflows for automated patient triage using LangGraph, creating intelligent agents that could assess patient symptoms and recommend appropriate care levels while ensuring all decisions met healthcare regulatory standards.",
+        "Fine-tuned GPT-4 models on specialized medical terminology and CVS Health's proprietary healthcare data, improving the accuracy of medical AI applications and spending weeks troubleshooting issues related to model hallucination in clinical contexts.",
+        "Implemented asynchronous Python programming for real-time processing of patient monitoring data, creating systems that could handle thousands of concurrent data streams without compromising performance or data integrity.",
+        "Designed a secure SQL database architecture for storing patient data used in ML training, implementing encryption and access controls that met HIPAA requirements while optimizing query performance for complex healthcare analytics.",
+        "Created custom software design patterns for healthcare AI applications, developing modular components that could be easily adapted to different medical use cases while maintaining compliance with industry regulations.",
+        "Built a comprehensive data preprocessing pipeline for healthcare records, using Python to clean and transform unstructured medical notes into structured data suitable for ML model training while preserving patient privacy.",
+        "Integrated LangSmith for detailed tracking of LLM behavior in healthcare applications, creating monitoring systems that could detect potential issues before they impacted patient care or regulatory compliance.",
+        "Collaborated with healthcare professionals to validate AI systems, conducting extensive testing and refinement to ensure that model outputs were clinically accurate and appropriate for real-world medical decision-making.",
+        "Implemented advanced RAG techniques for medical literature retrieval, combining multiple retrieval strategies to provide healthcare professionals with the most relevant and up-to-date information for patient care.",
+        "Developed agentic AI systems for medication management, creating autonomous agents that could check for drug interactions, dosage errors, and other potential issues while maintaining compliance with healthcare regulations.",
+        "Applied LLM fine-tuning techniques to improve medical chatbot performance, customizing models to understand complex medical terminology and provide accurate health information while adhering to healthcare compliance standards.",
+        "Created asynchronous programming solutions for healthcare data synchronization, ensuring that patient information was consistently updated across multiple systems without introducing delays or data integrity issues.",
+        "Utilized SQL databases to implement efficient storage and retrieval of medical knowledge graphs, optimizing query performance for complex healthcare queries while ensuring data security and regulatory compliance.",
+        "Implemented software design patterns for healthcare AI applications, creating modular systems that could be easily maintained and extended as medical knowledge and regulations evolved.",
+        "Developed comprehensive testing frameworks for healthcare AI systems, ensuring reliability and accuracy through rigorous validation processes that included clinical testing and regulatory compliance checks.",
+        "Integrated advanced RAG methods for medical imaging analysis, combining text retrieval with image analysis to provide healthcare professionals with comprehensive diagnostic information while maintaining patient privacy.",
+        "Applied agentic AI patterns to create autonomous systems for healthcare administration, developing agents that could handle scheduling, billing, and other administrative tasks while ensuring compliance with healthcare regulations."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "GPT-4+",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "HIPAA Compliance Tools"
+      ]
+    },
+    {
+      "role": "AI/ML Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Developed RAG systems for financial knowledge retrieval using LangChain, enabling banking professionals to quickly access relevant financial information while maintaining strict PCI compliance through careful implementation of security measures.",
+        "Implemented agentic AI workflows for fraud detection using LangGraph, creating intelligent agents that could analyze transaction patterns and flag suspicious activities while ensuring all decisions met banking regulatory standards.",
+        "Fine-tuned LLaMA models on financial terminology and Capital One's proprietary banking data, improving the accuracy of financial AI applications and spending weeks troubleshooting issues related to model bias in lending decisions.",
+        "Applied asynchronous Python programming for real-time processing of banking transactions, creating systems that could handle thousands of concurrent financial operations without compromising performance or security.",
+        "Designed a secure SQL database architecture for storing financial data used in ML training, implementing encryption and access controls that met PCI requirements while optimizing query performance for complex banking analytics.",
+        "Created custom software design patterns for banking AI applications, developing modular components that could be easily adapted to different financial use cases while maintaining compliance with industry regulations.",
+        "Built a comprehensive data preprocessing pipeline for financial records, using Python to clean and transform unstructured transaction data into structured data suitable for ML model training while preserving customer privacy.",
+        "Integrated LangSmith for detailed tracking of LLM behavior in banking applications, creating monitoring systems that could detect potential issues before they impacted financial decisions or regulatory compliance.",
+        "Collaborated with banking professionals to validate AI systems, conducting extensive testing and refinement to ensure that model outputs were financially accurate and appropriate for real-world banking decision-making.",
+        "Implemented advanced RAG techniques for financial document analysis, combining multiple retrieval strategies to provide banking professionals with the most relevant information for financial decision-making.",
+        "Developed agentic AI systems for customer service automation, creating autonomous agents that could handle customer inquiries and resolve common issues while maintaining compliance with banking regulations.",
+        "Applied LLM fine-tuning techniques to improve banking chatbot performance, customizing models to understand complex financial terminology and provide accurate banking information while adhering to financial compliance standards.",
+        "Created asynchronous programming solutions for banking data synchronization, ensuring that customer information was consistently updated across multiple systems without introducing delays or data integrity issues.",
+        "Utilized SQL databases to implement efficient storage and retrieval of financial knowledge graphs, optimizing query performance for complex banking queries while ensuring data security and regulatory compliance."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "LLaMA",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "PCI Compliance Tools"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed data preprocessing pipelines using Apache Airflow and Python to process automotive sensor data, initially struggling with the complexity of vehicle telemetry formats but eventually creating robust transformation workflows that improved data quality.",
+        "Implemented Apache Kafka for real-time data streaming from vehicle sensors to processing systems, working closely with the hardware team to understand the unique challenges of automotive data transmission and ensuring minimal data loss.",
+        "Utilized Hadoop for large-scale storage and processing of vehicle performance data, configuring the distributed file system to handle the massive volumes of telemetry data generated by Ford's connected vehicles.",
+        "Created interactive dashboards using Tableau to visualize vehicle performance metrics, collaborating with automotive engineers to identify key performance indicators and developing visualizations that helped identify patterns in vehicle behavior.",
+        "Applied Python to develop predictive maintenance models for vehicle components, initially frustrated by the complexity of automotive systems but eventually creating algorithms that could predict potential failures before they occurred.",
+        "Integrated Apache Kafka with existing automotive systems to enable real-time monitoring of vehicle fleets, implementing error handling and recovery mechanisms that ensured system reliability even in challenging network conditions.",
+        "Used Apache Airflow to orchestrate complex data workflows for automotive analytics, scheduling and monitoring data processing jobs that ran across multiple systems and handled dependencies between different data sources.",
+        "Leveraged Hadoop's distributed processing capabilities to analyze historical vehicle data, identifying trends and patterns that informed future vehicle design decisions and helped improve overall vehicle reliability.",
+        "Developed custom Python scripts to clean and validate automotive sensor data, implementing quality checks that identified and corrected anomalies in the data before it was used for analysis or model training.",
+        "Collaborated with automotive domain experts to understand vehicle systems and data requirements, translating their knowledge into technical specifications for data processing and analysis systems.",
+        "Applied machine learning techniques to vehicle data using Python, creating models that could identify unusual patterns in vehicle behavior and potentially indicate emerging issues that required attention.",
+        "Integrated Tableau with automotive data systems to provide stakeholders with real-time insights into vehicle performance, developing automated report generation that updated with the latest vehicle telemetry data."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "AWS",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed data integration solutions using Talend to connect disparate client systems, initially overwhelmed by the variety of data formats but eventually creating robust ETL processes that streamlined data consolidation for consulting projects.",
+        "Implemented MySQL and PostgreSQL databases for client data storage, designing schemas that accommodated diverse business requirements while ensuring data integrity and performance for complex queries.",
+        "Created automated data workflows using Apache Airflow, scheduling and monitoring data processing jobs that ran across multiple client systems and handled dependencies between different data sources.",
+        "Applied Python to develop custom data validation scripts, implementing quality checks that identified and corrected anomalies in client data before it was used for analysis or reporting.",
+        "Utilized Tableau to create interactive dashboards for client data visualization, working closely with business analysts to understand reporting requirements and developing visualizations that highlighted key business insights.",
+        "Integrated Talend with existing client systems to automate data extraction and transformation processes, implementing error handling and recovery mechanisms that ensured reliable data flows even with challenging source systems.",
+        "Designed and implemented database architectures using MySQL and PostgreSQL, optimizing queries and indexes to improve performance for complex reporting and analysis tasks in consulting engagements.",
+        "Developed Python scripts for data cleaning and preprocessing, creating reusable functions that could be applied across different client projects to standardize data quality and consistency.",
+        "Collaborated with client stakeholders to understand business requirements and translate them into technical specifications for data integration and reporting systems.",
+        "Applied Tableau's advanced features to create sophisticated visualizations that helped clients understand complex data relationships and identify opportunities for business improvement."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "SQL",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

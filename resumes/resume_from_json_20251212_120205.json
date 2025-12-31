@@ -1,0 +1,232 @@
+{
+  "name": "Singam Sanjana",
+  "title": ".NET Full Stack Developer",
+  "contact": {
+    "email": "sanjanar2704@gmail.com",
+    "phone": "+1 (314)-380-4211",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 5 years of experience in .NET development working across Government, Healthcare, and Insurance domains with focus on building public-facing applications using ASP.NET MVC and .NET Core technologies.",
+    "Azure cloud services help me deploy applications with better security. I used Azure DevOps for CI/CD pipelines and Azure Functions for serverless tasks. Also worked with Azure Key Vault to manage secrets in government projects.",
+    "Built RESTful APIs using C# and Entity Framework for data access. I fixed performance issues in SQL Server queries and improved response times. DevSecOps practices helped maintain code quality through automated testing and security scans.",
+    "GitLab became my main tool for version control and code reviews. I set up CI/CD pipelines that automated builds and deployments. Docker containers made it easier to package applications, and Kubernetes handled orchestration tasks smoothly.",
+    "SQL Server database work included writing T-SQL queries, stored procedures, and optimizing indexes. I worked closely with DBAs to resolve deadlock issues and improve query execution plans for large datasets in government systems.",
+    "Visual Studio is my primary IDE where I debug applications and write unit tests using xUnit. Code reviews with team members helped catch bugs early. Agile development approach meant daily standups and sprint planning sessions were regular.",
+    "Security best practices like OWASP guidelines are important in government projects. I implemented authentication using OAuth and authorization with role-based access control. Azure Service Bus handled asynchronous messaging between microservices effectively.",
+    "Performance tuning became crucial when public applications faced high traffic. I profiled code, identified bottlenecks, and applied caching strategies. Monitoring tools tracked application health and alerted us about issues before users noticed them.",
+    "Cross-functional collaboration with QA engineers, business analysts, and stakeholders happened daily. I documented technical specs and API contracts. Hybrid work model required clear communication through Teams calls and detailed written updates.",
+    "Unit testing frameworks like MSTest ensured code reliability. I wrote integration tests for APIs and participated in code reviews. Azure Event Grid triggered workflows based on events, and Logic Apps automated business processes without writing much code."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      ".NET Core",
+      "ASP.NET MVC",
+      "T-SQL",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "Frameworks & Libraries": [
+      "Entity Framework",
+      "ASP.NET Web API",
+      "Angular",
+      "React",
+      "Bootstrap"
+    ],
+    "Frontend Development": [
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "Responsive Design",
+      "AJAX"
+    ],
+    "Backend Development": [
+      "RESTful API Design",
+      "Microservices Architecture",
+      "Web Services",
+      "LINQ",
+      "Middleware"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "Azure SQL Database",
+      "SSIS",
+      "Stored Procedures",
+      "Query Optimization"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Azure DevOps",
+      "Azure Functions",
+      "Azure Service Bus",
+      "Azure Key Vault",
+      "Azure Event Grid",
+      "Logic Apps"
+    ],
+    "DevOps & CI/CD": [
+      "GitLab",
+      "Azure DevOps Pipelines",
+      "Docker",
+      "Kubernetes",
+      "DevSecOps",
+      "Jenkins"
+    ],
+    "Testing & Quality": [
+      "xUnit",
+      "MSTest",
+      "NUnit",
+      "Integration Testing",
+      "Unit Testing"
+    ],
+    "Security & Authentication": [
+      "OAuth",
+      "OWASP",
+      "JWT",
+      "Role-Based Access Control",
+      "SSL/TLS"
+    ],
+    "Version Control": [
+      "Git",
+      "GitLab",
+      "GitHub",
+      "Azure Repos"
+    ],
+    "IDE & Tools": [
+      "Visual Studio",
+      "VS Code",
+      "Postman",
+      "Swagger",
+      "SQL Server Management Studio"
+    ],
+    "Methodologies": [
+      "Agile Development",
+      "Scrum",
+      "DevSecOps",
+      "CI/CD",
+      "Code Reviews"
+    ]
+  },
+  "experience": [
+    {
+      "role": ".NET Full Stack Developer",
+      "client": "State of Washington \u2013 Department of Licensing (DOL)",
+      "duration": "2024-Sep - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on ASP.NET MVC applications for DOL's licensing system. Built new features using C# and Entity Framework. Azure DevOps pipelines automate deployments. Sometimes debugging takes longer than expected, but code reviews help catch issues early.",
+        "SQL Server database queries needed optimization. I rewrote stored procedures that were timing out. Added proper indexes after checking execution plans. T-SQL proficiency improved through trial and error. Query response times dropped from 8 seconds to under 2 seconds.",
+        "GitLab handles version control and CI/CD automation. I configured build pipelines with Docker containers. Kubernetes orchestrates services in Azure. Had to learn container networking basics on the job. DevSecOps security scans run automatically before each deployment.",
+        "Azure Functions process background tasks like license renewals. I wrote serverless code that triggers on schedule. Azure Service Bus queues messages between microservices. Figured out dead letter handling after messages failed initially. Event-driven architecture simplified async workflows.",
+        "RESTful APIs expose licensing data to public portals. I designed endpoints following REST principles. Swagger documentation helps frontend developers understand contracts. OAuth authentication protects sensitive government data. Role-based access control restricts admin functions properly.",
+        "Visual Studio is my daily IDE for coding and debugging. Unit tests use xUnit framework to verify business logic. Integration tests check API behavior. Code coverage targets are around 75 percent. Refactored legacy code to make it more testable and maintainable over time.",
+        "Azure Key Vault stores connection strings and API keys securely. I integrated Key Vault SDK into applications. Secrets rotation happens automatically every 90 days. OWASP guidelines ensure security best practices. Vulnerability scans identified issues that I patched quickly to meet government compliance standards.",
+        "Performance monitoring uses Azure Application Insights. I track response times and exception rates. Set up alerts for high error counts. Profiled slow pages and applied caching with Redis. Public-facing apps need to handle traffic spikes during peak licensing periods without crashing.",
+        "Agile sprints last two weeks with daily standups. I participate in sprint planning and retrospectives. Hybrid work means some days in office, some remote. Communication happens through Teams calls and Slack messages. Documentation in Confluence helps onboard new team members to complex systems.",
+        "Cross-functional collaboration with QA testers and business analysts is constant. I clarify requirements during backlog refinement. Help QA reproduce bugs in lower environments. Business analysts validate that features match user stories. Stakeholder demos happen at sprint end to gather feedback.",
+        "Azure Logic Apps automate approval workflows for license applications. I connected Logic Apps to SQL Server and email services. No-code tools saved development time. Azure Event Grid triggers notifications when license status changes. Event-driven patterns reduced polling overhead significantly.",
+        "DevSecOps practices enforce security scanning in pipelines. I fixed vulnerabilities flagged by static analysis tools. Dependency checks ensure third-party packages are updated. Penetration testing happens quarterly. Government regulations require strict compliance, so security is never an afterthought in our development cycle."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET MVC",
+        ".NET Core",
+        "SQL Server",
+        "Azure",
+        "Azure DevOps",
+        "GitLab",
+        "Docker",
+        "Kubernetes",
+        "Azure Functions",
+        "Azure Service Bus",
+        "Azure Key Vault",
+        "Azure Event Grid",
+        "Logic Apps",
+        "Entity Framework",
+        "RESTful API",
+        "OAuth",
+        "xUnit",
+        "Visual Studio",
+        "T-SQL",
+        "Redis",
+        "Application Insights",
+        "Swagger",
+        "DevSecOps",
+        "Agile"
+      ]
+    },
+    {
+      "role": ".NET Full Stack Developer",
+      "client": "Optum (United Health Group)",
+      "duration": "2022-Nov - 2024-Aug",
+      "location": "",
+      "responsibilities": [
+        "Developed healthcare portals using ASP.NET MVC and .NET Core. Implemented patient data management features with Entity Framework and SQL Server. HIPAA compliance required careful handling of PHI. Azure cloud hosting provided scalability for growing user base across multiple states.",
+        "Created RESTful APIs for mobile apps to access healthcare records. Designed endpoints with proper versioning and error handling. Authentication used OAuth tokens. Postman helped test API responses. Frontend Angular apps consumed these services to display patient information securely and reliably.",
+        "Migrated legacy applications to Azure cloud platform. Configured Azure SQL Database with geo-replication. Used Azure DevOps for automated deployments. Docker containers packaged microservices. Kubernetes managed container orchestration. Migration took about 6 months with minimal downtime during transition periods.",
+        "Improved SQL Server query performance for reporting modules. Analyzed execution plans and added missing indexes. Rewrote complex joins that scanned entire tables. Database response times improved from 15 seconds to under 3 seconds. DBAs appreciated cleaner query patterns that reduced server load noticeably.",
+        "Integrated third-party APIs for prescription verification and insurance claims processing. Handled API failures gracefully with retry logic. Logged errors for troubleshooting. External APIs sometimes went down, so I added circuit breaker patterns. Azure Service Bus queued failed requests for later retry attempts.",
+        "Participated in code reviews with senior developers. Learned best practices for writing maintainable C# code. Unit tests used MSTest framework. Test coverage increased from 40 percent to around 65 percent. Refactored duplicate code into reusable helper classes that simplified future maintenance work significantly.",
+        "Collaborated with QA team to resolve defects found during testing cycles. Fixed bugs related to UI rendering and data validation. Reproduced issues in dev environment before pushing fixes. Agile sprints meant quick turnaround on bug fixes. Automated regression tests caught regressions before production releases happened.",
+        "Secured applications using Azure Key Vault for sensitive credentials. Implemented role-based authorization to restrict access by user type. OWASP security guidelines prevented common vulnerabilities. Penetration tests revealed some gaps that I patched. Healthcare data security is critical, so we never compromised on encryption standards.",
+        "Deployed CI/CD pipelines in Azure DevOps. Automated build, test, and deployment stages. Used YAML configuration for pipeline definitions. Deployment slots in Azure App Service enabled blue-green deployments. Rollbacks happened quickly when issues appeared. DevSecOps scans checked for security vulnerabilities automatically every build.",
+        "Monitored production applications using Azure Application Insights. Set up dashboards to track performance metrics and error rates. Alerts notified team when response times exceeded thresholds. Investigated incidents by reviewing logs and traces. Proactive monitoring reduced downtime and improved overall system reliability for healthcare users."
+      ],
+      "environment": [
+        "ASP.NET MVC",
+        ".NET Core",
+        "C#",
+        "Entity Framework",
+        "SQL Server",
+        "Azure SQL Database",
+        "Azure",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes",
+        "Azure Service Bus",
+        "Azure Key Vault",
+        "RESTful API",
+        "OAuth",
+        "Angular",
+        "MSTest",
+        "Postman",
+        "Application Insights",
+        "HIPAA",
+        "DevSecOps",
+        "Agile",
+        "OWASP"
+      ]
+    },
+    {
+      "role": ".NET Developer",
+      "client": "Juric Insurance Group",
+      "duration": "2020-Apr - 2022-Oct",
+      "location": "",
+      "responsibilities": [
+        "Maintained insurance policy management system using .NET Core and ASP.NET MVC. Updated existing modules for claims processing. SQL Server stored policy and claims data. Identity Server handled user authentication. Frontend used Angular for customer portals where users checked policy details online.",
+        "Added new features for premium calculation based on customer risk profiles. Wrote business logic in C# using LINQ queries. Tested calculations manually and with unit tests. Fixed bugs reported by QA. Insurance regulations required accurate computations, so I double-checked formulas with business analysts before releasing changes.",
+        "Worked with SQL Server databases to generate reports for management. Created stored procedures for monthly policy summaries. Optimized slow queries that were timing out. Database indexes helped speed up searches. Reports now generate in under 5 seconds compared to over a minute previously, improving productivity.",
+        "Collaborated with frontend developers on API contracts. Designed REST endpoints for policy lookups and claims submissions. Used Postman to test API responses. Documented endpoints in Swagger. Frontend team appreciated clear documentation that reduced back-and-forth questions about request and response formats significantly.",
+        "Deployed application updates using manual FTP uploads initially. Later introduced Git for version control. Set up basic CI/CD pipeline with Jenkins. Automated builds reduced deployment errors. Learning DevOps practices on the job was challenging but worthwhile. Deployment frequency increased from monthly to weekly releases safely.",
+        "Resolved production issues reported by customer support team. Debugged errors in Visual Studio by reviewing logs. Reproduced issues in test environment before applying fixes. Some bugs were tricky and took days to solve. Customer support appreciated faster turnaround times once I got familiar with system."
+      ],
+      "environment": [
+        ".NET Core",
+        "ASP.NET MVC",
+        "C#",
+        "SQL Server",
+        "Identity Server",
+        "Angular",
+        "LINQ",
+        "RESTful API",
+        "Postman",
+        "Swagger",
+        "Git",
+        "Jenkins",
+        "Visual Studio"
+      ]
+    }
+  ]
+}

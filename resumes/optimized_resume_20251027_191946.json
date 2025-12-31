@@ -1,0 +1,247 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Frontend Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Built a client portal using React.js, integrating RESTful APIs for data management, which improved user engagement.",
+    "Developed reusable components and front-end libraries, reducing development time for future projects.",
+    "Optimized React components for performance and scalability, ensuring faster load times and smoother user experiences.",
+    "Collaborated with cross-functional teams to define and deliver new features, aligning with business goals.",
+    "Ensured code quality through unit testing and linting, maintaining high standards across projects.",
+    "Participated in code reviews and continuous integration processes, fostering a culture of collaboration and improvement.",
+    "Utilized JavaScript (ES6+) and React.js to build dynamic and responsive user interfaces.",
+    "Implemented state management using Redux and Context API, enhancing application state consistency.",
+    "Integrated GraphQL endpoints to fetch and manage data efficiently, improving data retrieval speed.",
+    "Worked with frontend build tools like Webpack and Babel to streamline the development workflow.",
+    "Managed version control using Git/GitHub, ensuring code integrity and team collaboration.",
+    "Implemented responsive design principles using HTML5 and CSS3, ensuring cross-device compatibility.",
+    "Explored TypeScript to improve code reliability and maintainability, though still learning its nuances.",
+    "Contributed to CI/CD pipelines, automating testing and deployment processes for faster releases.",
+    "Used Jest and React Testing Library for unit testing, ensuring robust and bug-free code.",
+    "Experimented with Next.js for server-side rendering, though still in the learning phase.",
+    "Incorporated Tailwind CSS for utility-first styling, speeding up the design process.",
+    "Gained basic exposure to Node.js and Express, understanding backend integration with frontend systems."
+  ],
+  "technical_skills": {
+    "Frontend Development": [
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "TypeScript",
+      "Next.js",
+      "React Native"
+    ],
+    "State Management": [
+      "Redux",
+      "Context API",
+      "Zustand",
+      "MobX"
+    ],
+    "Build Tools": [
+      "Webpack",
+      "Babel",
+      "Vite"
+    ],
+    "Testing": [
+      "Jest",
+      "React Testing Library",
+      "Unit Testing"
+    ],
+    "Styling": [
+      "Tailwind CSS",
+      "Material UI",
+      "shadcn/ui"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub"
+    ],
+    "Backend Basics": [
+      "Node.js",
+      "Express"
+    ],
+    "APIs": [
+      "RESTful APIs",
+      "GraphQL"
+    ],
+    "CI/CD": [
+      "CI/CD Pipelines",
+      "Docker"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a customer-facing insurance portal using React.js, integrating RESTful APIs for policy management.",
+        "Developed reusable components and front-end libraries, reducing development time by roughly 30%.",
+        "Optimized React components for performance, ensuring faster load times for policyholders.",
+        "Collaborated with UX designers to implement responsive designs using HTML5 and CSS3.",
+        "Implemented state management using Redux, improving application state consistency.",
+        "Conducted code reviews and ensured adherence to coding standards through linting.",
+        "Integrated GraphQL endpoints for efficient data fetching, enhancing user experience.",
+        "Utilized Webpack and Babel to streamline the build process, reducing deployment time.",
+        "Managed version control using Git/GitHub, ensuring seamless team collaboration.",
+        "Implemented unit tests using Jest, ensuring robust and bug-free code.",
+        "Explored TypeScript for type safety, though still in the learning phase.",
+        "Contributed to CI/CD pipelines, automating testing and deployment processes.",
+        "Incorporated Tailwind CSS for utility-first styling, speeding up the design process.",
+        "Gained exposure to Node.js and Express, understanding backend integration with frontend systems.",
+        "Participated in cross-functional meetings to align on project goals and deliverables.",
+        "Troubleshot and debugged issues, ensuring timely resolution and minimal downtime."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "Redux",
+        "Webpack",
+        "Git",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed a healthcare dashboard using React.js, integrating RESTful APIs for patient data management.",
+        "Built reusable components, reducing development time for future healthcare projects.",
+        "Optimized components for scalability, ensuring smooth performance under high traffic.",
+        "Collaborated with backend teams to define API requirements and ensure seamless integration.",
+        "Implemented state management using Context API, maintaining application state consistency.",
+        "Ensured code quality through unit testing and linting, adhering to HIPAA compliance.",
+        "Participated in code reviews, providing constructive feedback to team members.",
+        "Integrated GraphQL endpoints for efficient data retrieval, improving dashboard responsiveness.",
+        "Utilized Vite for faster build times, enhancing developer productivity.",
+        "Managed version control using GitHub, ensuring code integrity and team collaboration.",
+        "Explored Material UI for consistent styling across the application.",
+        "Contributed to CI/CD pipelines, automating testing and deployment processes.",
+        "Gained basic exposure to Node.js, understanding backend integration with frontend systems.",
+        "Conducted troubleshooting sessions, resolving issues and ensuring system stability."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "Context API",
+        "Vite",
+        "GitHub",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built a government portal using React.js, integrating RESTful APIs for citizen services.",
+        "Developed reusable components, reducing development time for future projects.",
+        "Optimized components for performance, ensuring faster load times for users.",
+        "Collaborated with cross-functional teams to define and deliver new features.",
+        "Implemented state management using MobX, enhancing application state consistency.",
+        "Ensured code quality through unit testing and linting, adhering to compliance standards.",
+        "Participated in code reviews, fostering a culture of collaboration and improvement.",
+        "Integrated GraphQL endpoints for efficient data fetching, improving portal responsiveness.",
+        "Utilized Webpack for build optimization, reducing deployment time.",
+        "Managed version control using Git, ensuring code integrity and team collaboration.",
+        "Explored shadcn/ui for modern styling, though still in the learning phase.",
+        "Contributed to CI/CD pipelines, automating testing and deployment processes.",
+        "Gained exposure to Node.js, understanding backend integration with frontend systems.",
+        "Conducted debugging sessions, resolving issues and ensuring system stability."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "MobX",
+        "Webpack",
+        "Git",
+        "GCP"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed a banking dashboard using React.js, integrating RESTful APIs for transaction data.",
+        "Built reusable components, reducing development time for future banking projects.",
+        "Optimized components for scalability, ensuring smooth performance under high traffic.",
+        "Collaborated with backend teams to define API requirements and ensure seamless integration.",
+        "Implemented state management using Zustand, maintaining application state consistency.",
+        "Ensured code quality through unit testing and linting, adhering to PCI compliance.",
+        "Participated in code reviews, providing constructive feedback to team members.",
+        "Integrated GraphQL endpoints for efficient data retrieval, improving dashboard responsiveness.",
+        "Utilized Babel for transpilation, ensuring cross-browser compatibility.",
+        "Managed version control using GitHub, ensuring code integrity and team collaboration.",
+        "Explored Tailwind CSS for utility-first styling, speeding up the design process.",
+        "Contributed to CI/CD pipelines, automating testing and deployment processes.",
+        "Gained basic exposure to Node.js, understanding backend integration with frontend systems.",
+        "Conducted troubleshooting sessions, resolving issues and ensuring system stability."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "Zustand",
+        "Babel",
+        "GitHub",
+        "Azure"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built a client-facing portal using React.js, integrating RESTful APIs for data management.",
+        "Developed reusable components, reducing development time for future projects.",
+        "Optimized components for performance, ensuring faster load times for users.",
+        "Collaborated with cross-functional teams to define and deliver new features.",
+        "Implemented state management using Redux, enhancing application state consistency.",
+        "Ensured code quality through unit testing and linting, maintaining high standards.",
+        "Participated in code reviews, fostering a culture of collaboration and improvement.",
+        "Integrated GraphQL endpoints for efficient data fetching, improving portal responsiveness.",
+        "Utilized Webpack for build optimization, reducing deployment time.",
+        "Managed version control using Git, ensuring code integrity and team collaboration.",
+        "Explored Material UI for consistent styling across the application.",
+        "Contributed to CI/CD pipelines, automating testing and deployment processes.",
+        "Gained exposure to Node.js, understanding backend integration with frontend systems.",
+        "Conducted debugging sessions, resolving issues and ensuring system stability."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "Redux",
+        "Webpack",
+        "Git",
+        "Azure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

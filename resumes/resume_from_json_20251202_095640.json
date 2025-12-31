@@ -1,0 +1,193 @@
+{
+  "name": "Krishna Kosana",
+  "title": "Senior QA Automation Engineer",
+  "contact": {
+    "email": "kosana.work@gmail.com",
+    "phone": "314-705-9794",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/krishna-kosanaa",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 5 years of experience in software testing with a focus on automation for contact center and IVR systems across healthcare, banking, and consulting domains.",
+    "I specialize in using Python and Java to automate tests for Amazon Connect and Cyara platforms, which helped ensure HIPAA compliant patient communication systems for healthcare clients.",
+    "I built automated test suites for IVR systems in banking, which actually reduced call center testing time and maintained PCI DSS compliance for financial transaction security.",
+    "I set up CI/CD pipelines with Jenkins and Git to run automated tests, and it basically integrated Cyara results into QTest for better test management and reporting.",
+    "I wrote API tests with Postman and Java to validate backend services for contact centers, making sure data flows correctly between Amazon Connect and customer databases.",
+    "I figured out performance bottlenecks in IVR call flows using JMeter, then optimized the scripts to handle higher call volumes during peak banking hours.",
+    "I worked on integrating automated tests with QTest for test case management, and it helped our team track coverage for SOX audit requirements in consulting projects.",
+    "I created automation frameworks from scratch using Selenium and Python for web components of contact center agent desktops, which was a bit challenging but worked well.",
+    "I tested Amazon Connect contact flows and Lambda functions to ensure they met business rules, and I also helped fix issues related to call routing and queue management.",
+    "I stayed updated on testing trends by learning about behavior-driven development, and I applied those practices to improve collaboration between QA and development teams."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C#"
+    ],
+    "Testing Automation & Tools": [
+      "Amazon Connect",
+      "Cyara",
+      "QTest",
+      "Selenium",
+      "Postman",
+      "JMeter"
+    ],
+    "API Testing & Development": [
+      "REST API",
+      "Postman",
+      "AWS Lambda",
+      "API Gateway"
+    ],
+    "CI/CD & DevOps Tools": [
+      "Jenkins",
+      "Git",
+      "Azure DevOps",
+      "Docker"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure"
+    ],
+    "Test Management & Collaboration": [
+      "QTest",
+      "Jira",
+      "TestRail"
+    ],
+    "Performance Testing": [
+      "JMeter",
+      "Load Testing",
+      "IVR Performance"
+    ],
+    "Monitoring & Logging": [
+      "CloudWatch",
+      "Splunk",
+      "Log Analysis"
+    ],
+    "Security & Compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOX",
+      "Security Testing"
+    ],
+    "Databases": [
+      "SQL Server",
+      "DynamoDB",
+      "MySQL"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "Bitbucket"
+    ],
+    "Methodologies": [
+      "Agile",
+      "Scrum",
+      "Test-Driven Development",
+      "Behavior-Driven Development"
+    ]
+  },
+  "experience": [
+    {
+      "role": "QA Automation Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2023-Mar - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on automating tests for Amazon Connect contact flows that handle sensitive patient data, and I ensure all scripts comply with strict HIPAA regulations for healthcare communications.",
+        "I built automated Cyara test suites for IVR prescription refill systems, which validated voice prompts and DTMF inputs to prevent medication errors in patient interactions.",
+        "I use Python to script end-to-end tests for healthcare contact centers, and I integrated these tests with Jenkins pipelines for continuous deployment to AWS environments.",
+        "I created API tests with Postman to verify data exchange between Amazon Connect and EHR systems, making sure patient information remained accurate and secure.",
+        "I designed performance tests with JMeter to simulate high call volumes during flu season, and I identified bottlenecks in Lambda functions that process patient inquiries.",
+        "I set up QTest integration with our automation framework, and it helped manage test cases for FDA-regulated healthcare applications that required detailed audit trails.",
+        "I fixed flaky Selenium tests for the agent desktop portal, which involved debugging timing issues with dynamic healthcare forms that load patient history data.",
+        "I wrote Java scripts to test Amazon Connect Lambda functions that route calls based on clinical urgency, ensuring critical calls reached nurses within specified SLAs.",
+        "I collaborated with developers to implement behavior-driven development practices, and we used Gherkin to define test scenarios for new telehealth features on IVR.",
+        "I configured Jenkins jobs to run automated tests overnight, and I added Slack notifications to alert the team of any failures in production-like healthcare environments.",
+        "I updated our test automation framework to use Page Object Model design, which made test maintenance easier for the healthcare portal's frequently changing UI.",
+        "I documented test strategies for Amazon Connect implementations, focusing on disaster recovery scenarios to ensure patient communication channels remained operational."
+      ],
+      "environment": [
+        "Amazon Connect",
+        "Cyara",
+        "Python",
+        "Java",
+        "QTest",
+        "Postman",
+        "Jenkins",
+        "AWS Lambda",
+        "Selenium",
+        "JMeter",
+        "Git",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Automation Test Engineer",
+      "client": "Tata Consultancy services",
+      "duration": "2021-Oct - 2022-Dec",
+      "location": "",
+      "responsibilities": [
+        "I developed automated tests for banking IVR systems using Cyara, and I validated transaction flows for balance inquiries and fund transfers to ensure PCI DSS compliance.",
+        "I assembled a test automation framework with Java and Selenium for the bank's online contact center, which handled customer authentication and account management features.",
+        "I implemented API testing for backend services that integrated with Amazon Connect, verifying that customer data synchronized correctly between IVR and core banking systems.",
+        "I deployed automated test suites to Azure DevOps pipelines, and I scheduled them to run after each deployment to production banking environments for regression testing.",
+        "I produced detailed test reports in QTest for audit purposes, documenting how automated tests covered SOX controls related to financial transaction processing in IVR.",
+        "I assisted the performance testing team by creating JMeter scripts that simulated thousands of concurrent calls to the banking IVR during peak holiday seasons.",
+        "I utilized Postman collections to test REST APIs for customer profile management, ensuring data consistency across Amazon Connect, CRM, and banking databases.",
+        "I operationalized test automation for fraud detection IVR flows, where the system prompted customers to verify suspicious transactions through secure voice authentication.",
+        "I contributed to test planning sessions with business analysts, translating complex banking regulations into executable test cases for automated IVR validation.",
+        "I obtained certification in AWS solutions architecture to better understand the cloud infrastructure supporting our Amazon Connect implementation for the bank."
+      ],
+      "environment": [
+        "Amazon Connect",
+        "Cyara",
+        "Java",
+        "Selenium",
+        "Azure DevOps",
+        "Postman",
+        "QTest",
+        "JMeter",
+        "SQL Server",
+        "PCI DSS",
+        "SOX"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Brain Enterprises",
+      "duration": "2019-Sep - 2021-Sep",
+      "location": "",
+      "responsibilities": [
+        "I designed test automation scripts for a consulting client's Dynamics 365 CRM integration with their contact center, using C# and Selenium to validate customer data flows.",
+        "I configured Power Automate flows to automate test data setup for consulting projects, which saved manual effort during UAT phases for client demonstrations.",
+        "I executed API tests with Postman for middleware services that connected IVR systems with backend databases, ensuring data accuracy for consulting reports.",
+        "I checked application logs in Azure Monitor to troubleshoot test failures, and I worked with developers to fix issues in the contact center's call routing logic.",
+        "I made test automation part of our consulting delivery process, showing clients how automated regression testing reduced risk during their digital transformation projects.",
+        "I put together training materials for junior team members on test automation basics, covering how to write maintainable test scripts for consulting engagements."
+      ],
+      "environment": [
+        "Microsoft Dynamics 365",
+        "C#",
+        "Selenium",
+        "Postman",
+        "Azure DevOps",
+        "SQL Server",
+        "Power Automate",
+        "Git",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grand Valley State University",
+      "degree": "Master's",
+      "field": "Computer Science",
+      "year": "2024"
+    }
+  ],
+  "certifications": []
+}

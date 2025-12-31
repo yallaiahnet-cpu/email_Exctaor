@@ -1,0 +1,207 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Applications Engineer  ",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "[https://www.linkedin.com/in/yalleshaiengineer/](https://www.linkedin.com/in/yalleshaiengineer/)",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in developing enterprise-grade AI applications, combining Python backends with Angular front-ends and deploying microservices to cloud platforms, delivering Agentic AI solutions in Insurance, Healthcare, and Banking domains.",
+    "Skilled in building full-stack AI applications leveraging Python and Angular to implement complex agentic workflows, collaborating with cross-functional teams including Gen AI scientists and UX designers to translate business requirements into production-ready solutions.",
+    "Hands-on experience in deploying containerized microservices on cloud environments using AWS and Azure, orchestrating agentic AI workflows, integrating AI agents, and ensuring enterprise-level scalability and performance for complex business applications.",
+    "Proficient in designing generative AI applications and multi-agent systems, implementing model context protocols, and optimizing workflows to achieve autonomous task execution while adhering to domain-specific regulations in Insurance and Healthcare.",
+    "Expert in collaborating with product managers and data engineers to translate AI research outputs into practical enterprise-grade applications, performing POCs and prototyping agentic AI solutions to validate approaches before production deployment.",
+    "Experience in debugging complex full-stack applications, reviewing code across Python and Angular components, troubleshooting workflow issues in agentic AI systems, and maintaining high reliability for enterprise AI deployments.",
+    "Worked extensively on AI pipelines integrating LangGraph, Crew AI, and multi-agent systems for Insurance claims and Healthcare process automation, ensuring robust orchestration and fault-tolerant architectures for mission-critical workflows.",
+    "Developed real-time AI microservices using Python and deployed them on Azure with containerization and orchestration, streamlining data flows, automating decision-making, and improving response times for enterprise applications in regulated industries.",
+    "Hands-on with testing frameworks for Angular and Python, implementing unit, integration, and end-to-end tests for enterprise AI applications to ensure reliability and compliance with Insurance and Healthcare regulations.",
+    "Skilled in designing agent-to-agent communication protocols and multi-agent orchestration using agentic AI frameworks, improving task efficiency, decision-making accuracy, and overall operational intelligence within enterprise applications.",
+    "Engaged in performance tuning of Python backends and Angular front-ends to optimize AI workflows, reduce latency, and ensure high availability in cloud-hosted applications for Insurance and Healthcare domains.",
+    "Collaborated closely with AI scientists to implement generative AI models, fine-tuning LLMs, and deploying production-ready solutions, transforming AI research into actionable enterprise-grade applications while ensuring regulatory compliance.",
+    "Expert in cloud architecture design using Azure and AWS services to support full-stack AI applications, managing deployment pipelines, networking, IAM policies, and ensuring security best practices for enterprise workloads.",
+    "Designed and maintained CI/CD pipelines for deploying Python microservices and Angular front-end applications, automating release cycles, and ensuring seamless integration with agentic AI workflows and enterprise IT standards.",
+    "Proficient in implementing microservices architecture with Python orchestration layers, integrating data pipelines and AI models, delivering scalable, fault-tolerant, and maintainable enterprise-grade AI solutions.",
+    "Experienced in collaborating with cross-functional teams across multiple domains to understand business challenges, design AI-driven solutions, implement agentic AI systems, and ensure measurable business impact with real-world deployments.",
+    "Skilled in translating complex AI models and workflows into user-friendly Angular interfaces, ensuring accessibility, responsiveness, and alignment with enterprise-grade UX standards for regulated industries.",
+    "Continually learning emerging AI technologies and frameworks, integrating generative AI, agentic AI principles, and cloud-native deployment strategies to drive innovation in Insurance, Healthcare, Banking, and Consulting projects."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "R"
+    ],
+    "Web Technologies": [
+      "Angular",
+      "React.js",
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API"
+    ],
+    "Cloud Platforms": [
+      "Azure ML Studio",
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Cosmos DB",
+      "AWS S3",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "AWS EC2",
+      "AWS RDS",
+      "AWS Redshift"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML"
+    ],
+    "Deep Learning Models": [
+      "CNNs",
+      "RNNs",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "LangChain",
+      "Llama Index",
+      "OpenAI APIs",
+      "Crew AI",
+      "Claude AI",
+      "MCP",
+      "RAG Pipelines"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "seaborn",
+      "matplotlib",
+      "Plotly",
+      "Bokeh",
+      "Tableau",
+      "Power BI"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "Azure Data Factory",
+      "AWS Glue",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "AWS EKS"
+    ],
+    "MLOps & Deployment": [
+      "MLflow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Angular to address complex front-end challenges, implemented dynamic dashboards for Insurance agent workflows, improving user efficiency while still figuring out the best component architecture.",
+        "Python to orchestrate multi-agent AI workflows, resolved complex data flow issues, enhancing claim processing automation and reducing error rates for Insurance processes.",
+        "Azure Data Factory integration to manage pipelines, handled inconsistent input datasets, streamlining ETL for AI agentic workflows in Insurance claims.",
+        "Crew AI implementation to automate agent tasks, struggled initially with orchestration conflicts, successfully deployed multi-agent systems for efficient policy handling.",
+        "LangGraph to model AI agent interactions, designed proof-of-concept for Insurance decision-making, improving workflow response times while learning complex dependency management.",
+        "Docker containerization to standardize deployment, overcame environment mismatch errors, enabling scalable and repeatable deployment of agentic AI services.",
+        "Kubernetes AKS orchestration to manage AI microservices, addressed scaling bottlenecks, ensuring high availability of Insurance AI applications.",
+        "Python debugging of AI pipelines, fixed runtime exceptions, stabilized enterprise-grade AI agent execution across multiple Insurance workflows.",
+        "Angular testing framework to implement unit and integration tests, overcame initial coverage gaps, ensuring UI reliability for agentic Insurance applications.",
+        "Azure ML Studio to deploy generative AI models, optimized training workflows, enabling on-demand AI predictions for Insurance claim automation.",
+        "OpenAI APIs integration for generative agentic solutions, solved response inconsistencies, enhancing AI agents' decision-making accuracy.",
+        "Python and Azure to implement secure backend services, addressed compliance gaps, ensuring Insurance application adhered to enterprise security standards.",
+        "Fast API microservice development to handle real-time claim requests, debugged concurrency issues, improving system responsiveness and reliability.",
+        "LangChain and multi-agent systems to orchestrate complex workflows, resolved agent conflicts, increasing throughput for Insurance processing pipelines.",
+        "Azure Data Factory and Python to automate Insurance data pipelines, resolved transformation errors, improving AI agents' access to accurate and timely datasets.",
+        "Crew AI POC experiments for multi-agent decisioning, iteratively tuned workflows, resulting in faster Insurance claim adjudication and team learning."
+      ],
+      "environment": [
+        "Angular",
+        "Python",
+        "Azure",
+        "Crew AI",
+        "LangGraph",
+        "Docker",
+        "Kubernetes",
+        "Fast API",
+        "OpenAI APIs",
+        "Azure ML Studio"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Prompt Engineering Specialist & Generative AI Developer",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "4142750857",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Delivered 6 years of experience building conversational AI systems across Insurance, Technology, Transportation, and Banking domains using Prompt Engineering, Few-Shot Prompting, and Chain-of-Thought Reasoning to optimize large language model outputs.",
+    "Constructed advanced prompt strategies for GPT-4, Claude, and LLaMA models using Zero-Shot Learning, Token Management, and Temperature Tuning techniques to improve text generation accuracy and reduce hallucinations in production environments.",
+    "Automated Python-based workflows integrating OpenAI API and Google Vertex AI for real-time text summarization, classification, and JSON Structured Output generation, reducing manual intervention in customer support chatbots.",
+    "Applied NLP Fundamentals including Tokenization, Embeddings, and Semantic Similarity analysis with Hugging Face Transformers to enhance context understanding in Insurance claim processing and Banking fraud detection systems.",
+    "Configured Retrieval-Augmented Generation (RAG) pipelines using LangChain and vector databases to augment LLM responses with external knowledge bases, improving answer relevance for Transportation route optimization queries.",
+    "Monitored generative AI deployments using Prometheus and Grafana dashboards to track token usage, latency metrics, and API response times, ensuring reliable service availability across Azure cloud infrastructure.",
+    "Assessed Model Bias and Fairness using AI Fairness 360 frameworks in Insurance underwriting applications to identify discriminatory patterns and maintain GDPR compliance in customer-facing AI solutions.",
+    "Established MLOps workflows with MLflow and Kubeflow for reproducible prompt template versioning, experiment tracking, and automated retraining pipelines supporting continuous model improvement cycles.",
+    "Deployed containerized LLM inference services using Docker and Kubernetes across Azure environments, enabling horizontal scaling during peak traffic periods in Banking transaction monitoring systems.",
+    "Evaluated prompt quality improvements using BLEU, ROUGE, and METEOR metrics to quantify text generation performance gains after implementing Chain-of-Thought Reasoning patterns in customer service bots.",
+    "Secured API integrations following OAuth authentication and API Key Rotation best practices to protect sensitive model access in Transportation demand forecasting platforms and Banking recommendation engines.",
+    "Implemented Prompt Injection Mitigation strategies by sanitizing user inputs and validating output formats to prevent adversarial attacks in Insurance policy recommendation chatbots deployed on public-facing websites.",
+    "Collaborated with data scientists and product stakeholders through daily stand-ups and code reviews using Git version control to align prompt design iterations with business requirements and user feedback.",
+    "Tested prompt logic correctness using pytest and unittest frameworks within GitHub Actions CI/CD pipelines to catch regression issues before deploying updated prompt templates to production LLM endpoints."
+  ],
+  "technical_skills": {
+    "Prompt Engineering & AI Techniques": [
+      "Prompt Engineering",
+      "Few-Shot Prompting",
+      "Chain-of-Thought Reasoning",
+      "Zero-Shot Learning",
+      "Token Management",
+      "Context Window Optimization",
+      "Temperature Tuning",
+      "Prompt Injection Mitigation"
+    ],
+    "NLP & Text Processing": [
+      "NLP Fundamentals",
+      "Tokenization",
+      "Embeddings",
+      "Semantic Similarity",
+      "Text Generation",
+      "Summarization",
+      "Classification",
+      "Named Entity Recognition"
+    ],
+    "Generative AI Platforms": [
+      "OpenAI API",
+      "GPT-4",
+      "Google Vertex AI",
+      "Claude",
+      "LLaMA",
+      "Hugging Face Transformers",
+      "LangChain",
+      "Retrieval-Augmented Generation"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Bash Scripting"
+    ],
+    "API Integration & Automation": [
+      "Python Automation",
+      "OpenAI API",
+      "Google Vertex AI",
+      "RESTful APIs",
+      "JSON Structured Output",
+      "FastAPI",
+      "Flask"
+    ],
+    "MLOps & Workflow Tools": [
+      "MLflow",
+      "Kubeflow",
+      "LangChain",
+      "Airflow",
+      "DVC",
+      "Weights & Biases"
+    ],
+    "Evaluation & Quality Metrics": [
+      "BLEU",
+      "ROUGE",
+      "METEOR",
+      "Perplexity",
+      "Human Evaluation",
+      "A/B Testing"
+    ],
+    "Cloud Platforms": [
+      "Azure Machine Learning",
+      "Azure OpenAI Service",
+      "Google Vertex AI",
+      "Azure Cognitive Services",
+      "Azure Functions"
+    ],
+    "DevOps & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "Azure Pipelines",
+      "Terraform",
+      "Helm Charts"
+    ],
+    "Monitoring & Logging": [
+      "Prometheus",
+      "Grafana",
+      "Azure Monitor",
+      "Application Insights",
+      "ELK Stack"
+    ],
+    "Security & Compliance": [
+      "OAuth",
+      "API Key Rotation",
+      "Prompt Injection Mitigation",
+      "GDPR Compliance",
+      "Data Encryption"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "GitHub",
+      "Azure DevOps",
+      "Jira",
+      "Confluence"
+    ],
+    "Testing Frameworks": [
+      "pytest",
+      "unittest",
+      "Hypothesis",
+      "Locust",
+      "Selenium"
+    ],
+    "Bias & Fairness": [
+      "Model Bias Assessment",
+      "AI Fairness 360",
+      "Fairness Indicators",
+      "Explainability Tools"
+    ],
+    "Database Technologies": [
+      "Vector Databases",
+      "Pinecone",
+      "Weaviate",
+      "Azure Cosmos DB",
+      "PostgreSQL"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Developer",
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "",
+      "responsibilities": [
+        "Designed Few-Shot Prompting templates for Insurance policy recommendation chatbots by analyzing customer inquiry patterns and embedding domain-specific examples to improve response accuracy in GDPR-compliant claim processing workflows.",
+        "Integrated OpenAI API with Python automation scripts to generate JSON Structured Output for policy quote calculations, reducing manual data entry errors and accelerating customer onboarding by standardizing API response formats.",
+        "Optimized Token Management strategies by analyzing context window limitations in GPT-4 conversations to prevent truncation issues during multi-turn Insurance advisory sessions, ensuring complete conversation history retention.",
+        "Tuned Temperature settings across multiple LLM endpoints to balance creativity and consistency in automated email responses for Insurance claim status updates, testing values between 0.3 and 0.8 during A/B testing cycles.",
+        "Built Chain-of-Thought Reasoning prompts for complex underwriting decision explanations by decomposing multi-step logic into sequential reasoning chains that compliance officers can audit during regulatory reviews.",
+        "Applied Zero-Shot Learning techniques to classify incoming customer emails into Insurance product categories without labeled training data, achieving rapid deployment of new intent detection capabilities across Azure infrastructure.",
+        "Deployed Retrieval-Augmented Generation pipelines using LangChain and Pinecone vector databases to augment LLM responses with Insurance policy documents, improving answer precision for regulatory compliance questions.",
+        "Monitored Prompt Injection attempts by implementing input sanitization filters and output validation rules to detect adversarial queries targeting Insurance chatbot vulnerabilities in public-facing customer portals.",
+        "Configured Prometheus alerting thresholds for tracking OpenAI API latency spikes and token consumption rates across production environments, enabling proactive scaling decisions during peak enrollment periods.",
+        "Evaluated prompt iteration improvements using ROUGE metrics to quantify summarization quality gains after refining Insurance document abstraction templates, comparing baseline and optimized versions in staging environments.",
+        "Collaborated with data scientists during sprint planning sessions to align prompt engineering roadmaps with business priorities for Insurance product launches, using Git pull requests for template version control.",
+        "Secured Azure OpenAI Service endpoints by rotating API keys monthly and implementing OAuth authentication flows to protect sensitive customer data accessed during Insurance policy lookup operations.",
+        "Tested prompt logic using pytest fixtures that validate expected JSON output schemas from LLM responses before merging code changes into main branch through GitHub Actions automated testing pipelines.",
+        "Assessed Model Bias in Insurance premium estimation prompts by analyzing output distributions across demographic groups using AI Fairness 360 frameworks to identify potential discriminatory patterns requiring mitigation."
+      ],
+      "environment": [
+        "OpenAI API",
+        "GPT-4",
+        "Google Vertex AI",
+        "Python",
+        "LangChain",
+        "Retrieval-Augmented Generation",
+        "Pinecone",
+        "Azure OpenAI Service",
+        "Prompt Engineering",
+        "Few-Shot Prompting",
+        "Chain-of-Thought Reasoning",
+        "Zero-Shot Learning",
+        "Token Management",
+        "Temperature Tuning",
+        "Prompt Injection Mitigation",
+        "JSON Structured Output",
+        "Prometheus",
+        "Grafana",
+        "Azure Monitor",
+        "pytest",
+        "GitHub Actions",
+        "OAuth",
+        "AI Fairness 360",
+        "ROUGE",
+        "GDPR"
+      ]
+    },
+    {
+      "role": "LLM Developer",
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "",
+      "responsibilities": [
+        "Constructed NLP pipelines using Hugging Face Transformers for Tokenization and Embeddings generation to preprocess Technology support tickets before feeding them into Claude models for automated triage classification.",
+        "Automated Text Generation workflows by chaining multiple LLaMA model calls through LangChain orchestration layers to produce technical documentation drafts from code repositories and API specification files.",
+        "Implemented Semantic Similarity analysis using sentence-transformers library to identify duplicate Technology bug reports by comparing embedding vectors and clustering related issues for efficient developer assignment.",
+        "Containerized LLM inference services using Docker images deployed on Kubernetes clusters to handle fluctuating request volumes in Technology customer support systems, configuring horizontal pod autoscaling policies.",
+        "Established MLflow experiment tracking workflows to version prompt templates and log hyperparameter configurations during Few-Shot Prompting optimization cycles, enabling reproducible results across Technology product iterations.",
+        "Validated Text Summarization outputs using BLEU score calculations to measure content preservation quality when condensing Technology product release notes into customer-facing announcements.",
+        "Integrated Google Vertex AI endpoints with FastAPI microservices to expose prompt-based text classification capabilities for Technology content moderation, processing user-generated forum posts in real-time.",
+        "Debugged Context Window Optimization issues by profiling token counts in long Technology documentation conversations and implementing dynamic prompt truncation strategies to fit within model limits.",
+        "Maintained CI/CD pipelines using Azure Pipelines to automatically test prompt template changes against regression test suites before deploying updated Technology chatbot configurations to staging environments.",
+        "Retrieved external knowledge using Weaviate vector database queries within RAG architectures to supplement LLM context with Technology product specifications when answering developer questions."
+      ],
+      "environment": [
+        "Claude",
+        "LLaMA",
+        "Hugging Face Transformers",
+        "LangChain",
+        "Google Vertex AI",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "FastAPI",
+        "Weaviate",
+        "Retrieval-Augmented Generation",
+        "Tokenization",
+        "Embeddings",
+        "Semantic Similarity",
+        "Text Generation",
+        "Text Summarization",
+        "BLEU",
+        "Azure Pipelines",
+        "Context Window Optimization",
+        "Few-Shot Prompting"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "",
+      "responsibilities": [
+        "Processed Transportation demand forecasting data using NLP tokenization techniques to extract location entities from ride booking text fields before feeding structured inputs into prediction models.",
+        "Trained Classification models with scikit-learn to categorize Transportation customer feedback into sentiment buckets, preparing datasets that later informed prompt design for GPT-based response generation systems.",
+        "Orchestrated MLOps workflows using Kubeflow pipelines on GCP to automate Transportation model retraining schedules triggered by data drift detection in ride completion patterns.",
+        "Logged experiment metrics using Weights & Biases dashboards to track Transportation route optimization model performance across multiple hyperparameter configurations during grid search iterations.",
+        "Packaged Transportation prediction services into Docker containers deployed on GCP Kubernetes Engine to serve real-time driver allocation recommendations during peak commute hours.",
+        "Validated Transportation model fairness by analyzing prediction accuracy across different geographic regions to identify bias in route estimation algorithms affecting underserved neighborhoods.",
+        "Stored Transportation embedding vectors in GCP Firestore to enable fast similarity searches for matching rider requests with available driver locations based on semantic proximity.",
+        "Coordinated with Transportation product managers during backlog grooming sessions to prioritize ML feature development aligned with business goals for expanding ride coverage areas."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "Kubeflow",
+        "GCP",
+        "Google Kubernetes Engine",
+        "Docker",
+        "Weights & Biases",
+        "GCP Firestore",
+        "NLP",
+        "Tokenization",
+        "Classification",
+        "MLOps",
+        "Model Fairness Assessment"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "",
+      "responsibilities": [
+        "Extracted Banking transaction logs using Azure Data Factory pipelines to prepare structured datasets for downstream fraud detection model training and regulatory reporting requirements.",
+        "Transformed Banking customer interaction records by applying text preprocessing functions to normalize chat transcripts before storing cleaned data in Azure Cosmos DB collections.",
+        "Loaded Banking account metadata into Azure SQL Database tables using T-SQL stored procedures to support real-time query performance for customer service dashboards.",
+        "Scheduled Azure Databricks jobs to aggregate Banking payment trends across multiple channels and generate daily summary reports for compliance monitoring teams.",
+        "Encrypted Banking customer PII data using Azure Key Vault managed keys to maintain regulatory compliance during data pipeline processing and archival storage operations.",
+        "Troubleshot Azure pipeline failures by analyzing error logs in Application Insights and adjusting retry policies to handle transient Banking system outages during nightly ETL runs."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Cosmos DB",
+        "Azure SQL Database",
+        "Azure Databricks",
+        "Azure Key Vault",
+        "Application Insights",
+        "Python",
+        "T-SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

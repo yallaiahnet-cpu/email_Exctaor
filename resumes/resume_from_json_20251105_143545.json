@@ -1,0 +1,242 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Solutions Architect - Microsoft Fabric & Data Modernization",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I've spent over ten years specializing in AI-driven data modernization and Microsoft Fabric ecosystems, building scalable solutions across insurance, healthcare, and financial sectors. Using Microsoft Fabric to address complex data integration challenges in insurance claims processing, I implemented unified data lakehouse architectures that streamlined regulatory reporting workflows significantly. Leveraging Azure ML for predictive modeling issues in healthcare analytics, I developed automated ML pipelines that enhanced patient outcome predictions while maintaining HIPAA compliance standards. Through Synapse Analytics to solve real-time data processing bottlenecks, I engineered distributed computing solutions that improved claim adjudication speeds for insurance providers. With Data Factory for ETL pipeline failures, I redesigned data ingestion frameworks that reduced data latency across multiple insurance domains and compliance requirements. Implementing OneLake for fragmented data storage problems, I created centralized data hubs that enabled cross-functional analytics for insurance risk assessment teams. Applying Python and R for statistical modeling limitations, I built ensemble machine learning models that improved fraud detection accuracy in insurance claims processing. Utilizing machine learning deployment challenges, I established MLOps practices that accelerated model lifecycle management from development to production environments. Designing data vault models for schema evolution issues, I implemented scalable data architectures that supported evolving insurance product offerings and regulatory changes. Deploying CI/CD pipelines for manual deployment processes, I automated testing and deployment workflows that reduced production incidents in critical insurance systems. Integrating version control for code collaboration problems, I established Git workflows that improved team productivity and code quality across distributed development teams. Implementing MLOps tools for model governance gaps, I created model registries and monitoring frameworks that ensured compliance with insurance industry regulations. Using data lakehouse architectures for data silo challenges, I broke down departmental barriers that enabled unified analytics across claims, underwriting, and customer service domains. Applying data modeling techniques for performance issues, I optimized star schemas and data vaults that accelerated reporting for insurance financial compliance. Leveraging Azure ecosystem capabilities for scalability constraints, I architected cloud-native solutions that handled seasonal insurance claim volumes efficiently. Developing predictive insights for business decision limitations, I delivered AI-powered analytics that enabled proactive risk management and customer retention strategies. Ensuring governance and security for compliance requirements, I implemented data protection measures that met stringent insurance regulatory standards across multiple jurisdictions."
+  ],
+  "technical_skills": {
+    "Microsoft Fabric Ecosystem": [
+      "Microsoft Fabric",
+      "Synapse Analytics",
+      "Data Factory",
+      "OneLake",
+      "Power BI",
+      "Azure ML",
+      "Dataflows",
+      "Data Warehousing"
+    ],
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Scala",
+      "Java",
+      "Bash/Shell"
+    ],
+    "Machine Learning & AI": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost",
+      "Azure ML",
+      "AutoML",
+      "MLflow",
+      "Model Deployment"
+    ],
+    "Data Engineering & ETL": [
+      "Azure Data Factory",
+      "Apache Spark",
+      "Databricks",
+      "Data Vault",
+      "Star Schema",
+      "dbt",
+      "Data Pipeline Design"
+    ],
+    "Data Platforms & Storage": [
+      "OneLake",
+      "Azure SQL",
+      "Cosmos DB",
+      "Delta Lake",
+      "Data Lakehouse",
+      "Blob Storage",
+      "Data Warehousing"
+    ],
+    "MLOps & DevOps": [
+      "Azure DevOps",
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "CI/CD Pipelines",
+      "Model Monitoring"
+    ],
+    "Big Data & Analytics": [
+      "Apache Spark",
+      "Synapse Analytics",
+      "Distributed Computing",
+      "Real-time Processing",
+      "Stream Analytics",
+      "Data Visualization"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Vault 2.0",
+      "Star Schema",
+      "Dimensional Modeling",
+      "Data Mesh",
+      "Lakehouse Architecture",
+      "Data Governance"
+    ],
+    "Cloud Services": [
+      "Azure ML",
+      "Azure Synapse",
+      "Azure Data Factory",
+      "Azure DevOps",
+      "Azure Kubernetes",
+      "Azure Monitor"
+    ],
+    "BI & Visualization": [
+      "Power BI",
+      "Tableau",
+      "DAX",
+      "Power Query",
+      "Dashboard Development",
+      "Business Analytics"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Microsoft Fabric to address data silo challenges across insurance claim systems, I architected a unified lakehouse that consolidated disparate data sources while ensuring compliance with state insurance regulations and data governance standards. Leveraging Azure ML for predictive modeling limitations in fraud detection, I developed ensemble algorithms that analyzed claim patterns and reduced false positives by improving model accuracy through continuous training pipelines. Implementing Synapse Analytics for real-time processing bottlenecks, I engineered distributed compute solutions that accelerated claim adjudication workflows and enhanced customer experience during peak insurance seasons. With Data Factory for ETL pipeline failures, I redesigned data ingestion frameworks that handled complex insurance data transformations while maintaining data lineage for regulatory audit requirements. Deploying OneLake for fragmented data storage issues, I created a centralized insurance data hub that enabled cross-departmental analytics between claims, underwriting, and risk assessment teams. Applying Python and machine learning for manual fraud review processes, I built automated detection systems that flagged suspicious claims patterns and reduced investigation time through intelligent alert prioritization. Utilizing Power BI for reporting limitations, I developed interactive dashboards that provided real-time insights into claim metrics, helping adjusters make data-driven decisions faster. Designing data vault models for schema evolution challenges, I implemented scalable insurance data architectures that accommodated new product offerings and changing regulatory requirements seamlessly. Implementing CI/CD pipelines for manual deployment processes, I established automated testing workflows that reduced production incidents and ensured reliable model deployments for critical insurance applications. Using version control for collaboration issues, I introduced Git branching strategies that improved code quality and enabled parallel development across distributed insurance technology teams. Applying MLOps tools for model governance gaps, I created comprehensive model registries that tracked performance metrics and ensured compliance with insurance industry regulations. Developing predictive insights for risk assessment limitations, I delivered AI-powered analytics that enabled proactive underwriting decisions and improved portfolio management strategies. Leveraging data lakehouse architectures for analytical constraints, I broke down data barriers that previously hindered comprehensive risk analysis across multiple insurance product lines. Ensuring security and governance for compliance requirements, I implemented data protection measures that met stringent state insurance regulations while maintaining data accessibility for authorized users. Integrating REST APIs for system connectivity challenges, I established seamless data exchanges between internal systems and external partners, enhancing operational efficiency across the insurance value chain."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Power BI",
+        "Data Vault",
+        "Star Schema",
+        "Azure DevOps",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "CI/CD",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Microsoft Fabric to solve clinical data integration challenges, I designed a healthcare data lakehouse that unified electronic health records, clinical trial data, and patient outcomes while maintaining HIPAA compliance and data privacy standards. Leveraging Azure ML for predictive modeling in patient treatment responses, I developed machine learning models that analyzed historical data to optimize clinical trial designs and improve patient recruitment strategies. Implementing Synapse Analytics for real-time healthcare data processing, I built distributed computing solutions that accelerated clinical research analytics and enabled faster insights into treatment efficacy across therapeutic areas. With Data Factory for clinical data pipeline issues, I engineered robust ETL processes that handled complex healthcare data transformations while ensuring data quality and regulatory compliance. Deploying OneLake for fragmented medical data storage, I created a centralized healthcare data platform that supported cross-functional research between clinical development and medical affairs teams. Applying Python and R for statistical analysis limitations, I developed advanced analytics frameworks that identified patient subpopulations likely to respond to specific treatments, enhancing personalized medicine approaches. Utilizing machine learning for adverse event detection challenges, I built monitoring systems that analyzed real-world evidence data to identify potential safety signals earlier in the drug development lifecycle. Designing data models for clinical schema complexity, I implemented dimensional models that streamlined regulatory reporting and supported submissions to health authorities like the FDA. Implementing CI/CD pipelines for healthcare application deployments, I established automated testing workflows that ensured model reliability and compliance with pharmaceutical industry standards. Using version control for research collaboration, I introduced Git workflows that improved reproducibility of clinical study analyses and enabled transparent documentation for audit purposes. Applying MLOps tools for model lifecycle management, I created governance frameworks that tracked model performance across clinical development phases and maintained regulatory compliance. Developing predictive insights for supply chain optimization, I delivered AI solutions that improved inventory management and reduced drug shortages through demand forecasting and risk analysis. Ensuring data governance for regulatory requirements, I implemented security measures that protected sensitive patient data while enabling legitimate research access across global clinical teams."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Power BI",
+        "Data Vault",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Clinical Analytics",
+        "Azure DevOps",
+        "Git",
+        "MLflow",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker for public health prediction challenges, I developed machine learning models that analyzed population health data to identify communities at risk and optimize resource allocation for healthcare services. Leveraging Data Factory for health data integration issues, I built ETL pipelines that consolidated information from multiple state healthcare systems while maintaining strict HIPAA compliance and data security protocols. Implementing Python for public health analytics limitations, I created statistical models that tracked disease outbreaks and helped public health officials make data-driven decisions during emergency response situations. With SQL for healthcare reporting bottlenecks, I optimized query performance and developed dimensional models that accelerated public health reporting and reduced administrative overhead. Deploying machine learning for resource optimization problems, I built predictive models that forecasted healthcare service demand across different regions, enabling better planning and budget allocation. Applying data visualization for communication challenges, I developed dashboards that translated complex health metrics into actionable insights for non-technical stakeholders and policy makers. Utilizing cloud services for scalability constraints, I architected AWS solutions that handled seasonal healthcare data volumes, particularly during flu seasons and public health emergencies. Designing data models for interoperability issues, I implemented standardized schemas that enabled data exchange between state healthcare systems and federal reporting requirements. Implementing version control for collaborative development, I established Git practices that improved code quality and enabled transparent auditing of public health analytics. Applying containerization for deployment consistency, I used Docker to package machine learning models, ensuring reliable execution across development, testing, and production environments. Developing monitoring frameworks for model performance, I created alerting systems that tracked prediction accuracy and triggered retraining when model performance degraded below acceptable thresholds. Ensuring compliance for sensitive data handling, I implemented security measures that protected patient confidentiality while enabling legitimate public health research and analysis."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Python",
+        "R",
+        "SQL",
+        "Data Factory",
+        "Machine Learning",
+        "Healthcare Analytics",
+        "HIPAA Compliance",
+        "Public Health Data",
+        "Docker",
+        "Git",
+        "Data Visualization",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python for financial fraud detection challenges, I developed machine learning models that analyzed transaction patterns and reduced false positives while maintaining detection accuracy across diverse banking products. Leveraging SQL for data analysis limitations, I optimized complex queries and built analytical datasets that supported regulatory reporting and compliance with financial industry standards. Implementing machine learning for credit risk assessment, I created scoring models that improved loan approval accuracy and reduced default rates through better risk stratification. With data visualization for stakeholder communication issues, I developed interactive dashboards that translated complex financial metrics into actionable business insights for executive decision-making. Deploying statistical techniques for market analysis problems, I applied time series forecasting and regression analysis to identify trends and support investment strategy development. Applying data preprocessing for quality challenges, I implemented data cleaning pipelines that handled missing values and outliers in financial datasets, improving model reliability. Utilizing version control for collaborative analytics, I established Git workflows that enabled reproducible research and transparent model development for audit purposes. Designing feature engineering frameworks for model performance, I created derived variables that captured complex financial behaviors and enhanced predictive model accuracy. Implementing model validation protocols for regulatory compliance, I developed testing frameworks that ensured models met financial industry standards and regulatory requirements. Ensuring data governance for sensitive information, I implemented security measures that protected customer financial data while enabling legitimate analytical use cases."
+      ],
+      "environment": [
+        "Python",
+        "R",
+        "SQL",
+        "Machine Learning",
+        "Financial Analytics",
+        "Fraud Detection",
+        "Credit Risk",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Git",
+        "AWS Services",
+        "Financial Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop for large-scale data processing challenges, I built distributed computing solutions that handled client data from multiple sources while learning enterprise data architecture principles. Leveraging Informatica for ETL pipeline development, I designed data integration workflows that transformed raw data into structured formats suitable for business intelligence and reporting. Implementing Sqoop for data migration issues, I facilitated efficient data transfer between relational databases and Hadoop ecosystems, optimizing performance through configuration tuning. With SQL for data manipulation limitations, I developed complex queries and stored procedures that supported business reporting requirements across various client projects. Deploying data warehousing concepts for storage challenges, I implemented dimensional models that organized data for efficient querying and supported client analytics needs. Applying data quality frameworks for integrity issues, I developed validation checks that identified data anomalies and ensured reliable downstream processing for client applications. Utilizing shell scripting for automation problems, I created maintenance scripts that handled routine data processing tasks and reduced manual intervention requirements. Ensuring documentation standards for knowledge transfer, I maintained technical specifications and process documentation that supported team collaboration and client deliverables."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "SQL",
+        "Data Warehousing",
+        "ETL",
+        "Data Integration",
+        "Shell Scripting",
+        "Business Intelligence",
+        "Data Quality"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

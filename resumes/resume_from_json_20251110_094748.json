@@ -1,0 +1,329 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Principal AI Developer - Insurance Carrier Integration & Underwriting Automation",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a seasoned AI engineering leader with 10+ years specializing in building scalable, secure carrier API integrations and AI-powered data pipelines for insurance underwriting automation across property and casualty domains.",
+    "Leveraging Node.js and TypeScript to architect event-driven microservices that integrate REST, SOAP, and proprietary carrier systems while ensuring ACORD standards compliance and SOC2 data security requirements for commercial insurance distribution.",
+    "Designing and implementing AI/ML pipelines using AWS Bedrock and Python Flask frameworks to automate data extraction, normalization, and mapping processes for underwriting workflows, reducing manual processing time significantly.",
+    "Integrating LLMs including Claude and LLaMA with vector databases like Pinecone and MongoDB Atlas Vector Search to build Retrieval-Augmented Generation systems that enhance underwriting decision accuracy and carrier integration efficiency.",
+    "Building scalable AWS infrastructure using Lambda, Step Functions, and API Gateway to create reliable carrier integration systems that handle high-volume commercial insurance data while maintaining strict compliance with industry regulations.",
+    "Developing agent frameworks with LangChain and LlamaIndex to automate complex underwriting tasks, creating intelligent workflows that process insurance applications and carrier data exchanges with minimal human intervention.",
+    "Implementing event-driven systems and microservices architecture using Node.js to handle real-time data processing from multiple carrier APIs while ensuring data consistency and system reliability for mission-critical insurance operations.",
+    "Creating secure API integration patterns with OAuth2 and JWT authentication to protect sensitive insurance data across carrier systems, implementing threat modeling and secure coding practices for SOC2 compliance.",
+    "Designing ETL and data transformation workflows using AWS Step Functions and Lambda to process ACORD standards-based insurance data, enabling seamless data exchange between internal systems and external carrier platforms.",
+    "Building monitoring and observability systems with CloudWatch and Datadog to track API performance, data pipeline health, and system reliability across distributed microservices handling commercial insurance underwriting.",
+    "Implementing CI/CD pipelines with GitHub Actions and Docker to automate deployment of carrier integration services, ensuring rapid iteration and reliable delivery of AI-powered underwriting automation features.",
+    "Developing vector search capabilities using Pinecone and Redis to enhance document processing for insurance applications, enabling fast retrieval of relevant underwriting guidelines and carrier requirements.",
+    "Architecting scalable data pipelines with AWS S3 and Lambda to handle large volumes of insurance documents, implementing data lineage tracking for auditability and compliance with insurance industry regulations.",
+    "Creating API Gateway governance and lifecycle management systems to maintain consistency across multiple carrier integrations, ensuring version control and backward compatibility for enterprise insurance systems.",
+    "Implementing LLMOps practices for model deployment and management using AWS Bedrock, establishing robust pipelines for fine-tuning and updating AI models used in underwriting automation workflows.",
+    "Building containerized microservices with Docker and Kubernetes to deploy scalable carrier integration components, implementing health checks and auto-scaling for high-availability insurance systems.",
+    "Developing data security frameworks and compliance controls for handling sensitive insurance information, implementing encryption and access controls aligned with industry standards and carrier requirements.",
+    "Leading technical architecture decisions for AI-driven carrier integration platforms, balancing innovation with pragmatic solutions that deliver measurable business value in commercial insurance distribution."
+  ],
+  "technical_skills": {
+    "API Integration & Standards": [
+      "REST",
+      "SOAP",
+      "EDI",
+      "ACORD",
+      "OpenAPI/Swagger",
+      "OAuth2",
+      "JWT",
+      "Proprietary Carrier Systems"
+    ],
+    "AI/ML Pipeline Technologies": [
+      "AWS Bedrock",
+      "Python Flask",
+      "LLM Integration",
+      "Retrieval-Augmented Generation",
+      "Vector Databases",
+      "Agent Frameworks",
+      "Data Extraction",
+      "Normalization"
+    ],
+    "Programming Languages": [
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Cloud Infrastructure (AWS)": [
+      "EC2",
+      "Lambda",
+      "S3",
+      "Bedrock",
+      "Step Functions",
+      "API Gateway",
+      "CloudWatch",
+      "RDS"
+    ],
+    "Vector Databases & Search": [
+      "Pinecone",
+      "MongoDB Atlas Vector Search",
+      "Redis",
+      "FAISS",
+      "Weaviate",
+      "Chroma"
+    ],
+    "Agent Frameworks & LLM Tools": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "OpenDevin",
+      "Claude",
+      "LLaMA",
+      "Mistral"
+    ],
+    "Event-Driven Systems": [
+      "Microservices Architecture",
+      "Message Queuing",
+      "Event Sourcing",
+      "Real-time Processing",
+      "Stream Processing"
+    ],
+    "Data Security & Compliance": [
+      "SOC2",
+      "Data Encryption",
+      "Threat Modeling",
+      "Secure Coding",
+      "Audit Trails",
+      "Data Lineage"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "Terraform",
+      "Jenkins",
+      "Containerization"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch",
+      "Datadog",
+      "Prometheus",
+      "Grafana",
+      "Logging",
+      "Metrics",
+      "Tracing"
+    ],
+    "ETL & Data Transformation": [
+      "AWS Step Functions",
+      "Data Mapping",
+      "Workflow Automation",
+      "Data Validation",
+      "ACORD Standards"
+    ],
+    "System Architecture": [
+      "Scalable Design",
+      "Reliable Integrations",
+      "API Lifecycle Management",
+      "Governance",
+      "Enterprise Patterns"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Node.js and TypeScript to address slow carrier API response times during peak underwriting periods by implementing event-driven microservices with AWS Lambda, reducing processing latency for commercial insurance applications.",
+        "Leveraging AWS Bedrock and Claude LLM to solve manual document processing bottlenecks in property insurance underwriting, developing RAG pipelines with Pinecone vector search that cut document review time by several hours per application.",
+        "Implementing ACORD standards compliance across multiple carrier integrations using REST and SOAP APIs, creating standardized data mapping workflows that ensured consistent data exchange while meeting strict insurance regulatory requirements.",
+        "Architecting secure API Gateway configurations with OAuth2 authentication to protect sensitive customer data in casualty insurance systems, implementing threat modeling that identified and mitigated potential security vulnerabilities.",
+        "Building scalable data pipelines with AWS Step Functions and S3 to handle high-volume insurance document processing, creating ETL workflows that normalized data from multiple carrier systems for AI-powered underwriting analysis.",
+        "Developing LangChain agent frameworks to automate complex underwriting decision workflows, integrating multiple data sources and carrier APIs to provide comprehensive risk assessment for commercial property insurance applications.",
+        "Implementing vector database solutions using MongoDB Atlas Vector Search to enhance document retrieval for underwriting guidelines, enabling fast semantic search across thousands of insurance policy documents and carrier requirements.",
+        "Creating monitoring systems with CloudWatch and Datadog to track API performance across carrier integrations, setting up alerts that helped our team quickly identify and resolve integration issues before they impacted underwriting operations.",
+        "Designing microservices architecture with Docker and Kubernetes to deploy scalable carrier integration components, implementing health checks and auto-scaling that maintained system reliability during seasonal insurance application spikes.",
+        "Building CI/CD pipelines with GitHub Actions to automate deployment of AI-powered underwriting services, establishing testing protocols that ensured new features didn't break existing carrier integrations or compliance requirements.",
+        "Implementing data lineage tracking across insurance data pipelines to maintain auditability for regulatory compliance, creating systems that traced data transformations from carrier APIs through to underwriting decisions.",
+        "Developing secure coding practices and conducting code reviews for carrier integration services, focusing on SOC2 compliance requirements and insurance data protection standards across all microservices and API implementations.",
+        "Creating API governance frameworks to manage multiple carrier integration versions, implementing lifecycle management processes that ensured backward compatibility while allowing for necessary system upgrades and improvements.",
+        "Building LLMOps practices using AWS Bedrock for model deployment and management, establishing pipelines that allowed continuous improvement of AI models used in property and casualty underwriting automation.",
+        "Implementing event-driven systems with AWS Step Functions to coordinate complex underwriting workflows, creating reliable orchestration that handled failures gracefully and maintained data consistency across distributed services.",
+        "Developing technical leadership and mentorship programs for senior engineers, fostering collaborative problem-solving approaches that improved our team's ability to deliver robust carrier integration solutions."
+      ],
+      "environment": [
+        "Node.js",
+        "TypeScript",
+        "AWS Lambda",
+        "Bedrock",
+        "Step Functions",
+        "API Gateway",
+        "Pinecone",
+        "MongoDB Atlas Vector Search",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "CloudWatch",
+        "Datadog",
+        "LangChain",
+        "Claude",
+        "ACORD Standards",
+        "OAuth2",
+        "SOC2 Compliance"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Python Flask and AWS Bedrock to address healthcare data processing challenges in clinical trial systems, implementing LLM-powered data extraction pipelines that automated patient record analysis while maintaining HIPAA compliance.",
+        "Leveraging Node.js and TypeScript to build RESTful APIs for healthcare data integration, creating microservices that securely exchanged patient information between clinical systems and research databases with proper encryption.",
+        "Implementing vector search capabilities with Redis to enhance medical document retrieval, developing RAG systems that helped researchers quickly find relevant clinical trial information and regulatory documentation.",
+        "Building event-driven systems with AWS Lambda and Step Functions to process healthcare data workflows, creating reliable pipelines that handled complex data transformations for pharmaceutical research and development.",
+        "Developing secure API integrations with OAuth2 authentication for healthcare systems, implementing data protection measures that ensured patient privacy and compliance with strict healthcare regulations including HIPAA requirements.",
+        "Creating monitoring solutions with CloudWatch to track healthcare data pipeline performance, setting up metrics that alerted our team to potential issues in clinical trial data processing before they impacted research timelines.",
+        "Implementing containerized microservices with Docker to deploy healthcare AI applications, establishing deployment patterns that ensured consistency across development, testing, and production environments for clinical systems.",
+        "Building CI/CD pipelines with GitHub Actions to automate testing and deployment of healthcare data services, creating validation checks that verified data integrity and regulatory compliance throughout the deployment process.",
+        "Developing data security frameworks for healthcare information handling, implementing encryption and access controls that protected sensitive patient data in clinical trial systems and research databases.",
+        "Creating API governance systems for healthcare data exchanges, establishing standards and lifecycle management processes that ensured consistent integration patterns across multiple clinical and research systems.",
+        "Implementing ETL workflows with AWS Step Functions to transform healthcare data for research purposes, building pipelines that normalized clinical trial information from multiple sources while maintaining data quality.",
+        "Building observability practices with Datadog for healthcare microservices, implementing distributed tracing that helped our team quickly diagnose and resolve issues in complex clinical data processing workflows.",
+        "Developing technical documentation for healthcare API integrations, creating comprehensive guides that helped other teams understand integration patterns and compliance requirements for clinical data systems.",
+        "Implementing secure coding practices for healthcare applications, conducting security reviews that identified potential vulnerabilities in clinical data handling and ensuring proper protection of sensitive patient information."
+      ],
+      "environment": [
+        "Python Flask",
+        "AWS Bedrock",
+        "Node.js",
+        "TypeScript",
+        "AWS Lambda",
+        "Step Functions",
+        "Redis",
+        "Docker",
+        "GitHub Actions",
+        "CloudWatch",
+        "Datadog",
+        "OAuth2",
+        "HIPAA Compliance",
+        "REST APIs",
+        "Microservices",
+        "Event-driven Systems"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Azure Data Factory to address healthcare data integration challenges across state health systems, implementing ETL pipelines that consolidated patient information from multiple sources while ensuring HIPAA compliance.",
+        "Leveraging Python and Flask to build RESTful APIs for healthcare data access, creating services that enabled secure exchange of patient information between state health departments and healthcare providers.",
+        "Implementing data security measures for healthcare systems handling sensitive patient information, developing encryption and access control protocols that met state healthcare regulations and privacy requirements.",
+        "Building monitoring systems with Azure Monitor to track healthcare data pipeline performance, creating dashboards that provided visibility into data processing workflows and helped identify potential issues early.",
+        "Developing containerized applications with Docker to deploy healthcare data services, establishing consistent deployment patterns across state health systems and ensuring reliable operation of critical healthcare applications.",
+        "Creating API integrations for healthcare data exchange between state systems, implementing secure authentication and data protection measures that maintained patient privacy while enabling necessary information sharing.",
+        "Implementing data validation workflows for healthcare information, building checks that ensured data quality and consistency across multiple state health databases and reporting systems.",
+        "Building documentation systems for healthcare API integrations, creating comprehensive guides that helped state health departments understand integration patterns and compliance requirements.",
+        "Developing secure coding practices for healthcare applications, conducting code reviews that focused on data protection and privacy requirements for systems handling sensitive patient information.",
+        "Implementing data lineage tracking for healthcare information systems, creating audit trails that documented data transformations and access patterns for regulatory compliance and reporting purposes.",
+        "Building collaboration processes with healthcare stakeholders, establishing communication patterns that ensured technical solutions met the needs of state health departments and healthcare providers.",
+        "Creating testing frameworks for healthcare data integrations, developing validation procedures that verified data accuracy and system reliability before deployment to production environments."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Python Flask",
+        "REST APIs",
+        "Docker",
+        "Azure Monitor",
+        "HIPAA Compliance",
+        "Data Security",
+        "ETL Pipelines",
+        "Healthcare Data",
+        "API Integration",
+        "Data Validation",
+        "Documentation Systems"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Azure ML Studio to address financial data processing challenges in risk assessment systems, implementing machine learning pipelines that analyzed transaction patterns while ensuring PCI compliance and data security.",
+        "Leveraging Python and Flask to build RESTful APIs for financial data access, creating services that enabled secure analysis of banking transaction information with proper authentication and encryption.",
+        "Implementing data security protocols for financial systems handling sensitive customer information, developing protection measures that met banking regulations and PCI compliance requirements.",
+        "Building monitoring solutions with Azure Monitor to track financial data pipeline performance, creating alerts that notified our team of potential issues in transaction processing and risk analysis workflows.",
+        "Developing containerized applications with Docker to deploy financial data services, establishing deployment patterns that ensured consistency and reliability across banking systems and applications.",
+        "Creating data validation frameworks for financial information systems, implementing checks that verified data quality and accuracy in banking transaction processing and risk assessment workflows.",
+        "Implementing API integrations for financial data exchange between banking systems, developing secure authentication and data protection measures that maintained customer privacy while enabling necessary analysis.",
+        "Building documentation systems for financial data pipelines, creating guides that helped other teams understand data processing workflows and compliance requirements for banking applications.",
+        "Developing secure coding practices for financial applications, conducting reviews that focused on data protection and regulatory compliance for systems handling sensitive banking information.",
+        "Creating collaboration processes with financial stakeholders, establishing communication patterns that ensured technical solutions met the needs of banking operations and compliance teams."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Python Flask",
+        "REST APIs",
+        "Docker",
+        "Azure Monitor",
+        "PCI Compliance",
+        "Financial Data",
+        "Data Security",
+        "Machine Learning",
+        "API Integration",
+        "Data Validation",
+        "Banking Systems"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop and MapReduce to address large-scale data processing challenges in client consulting projects, implementing batch processing systems that handled diverse business data from multiple client sources.",
+        "Leveraging Informatica to build ETL workflows for client data integration, creating pipelines that transformed and loaded business information from various source systems into consolidated data warehouses.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop systems, developing workflows that efficiently moved client data between different storage and processing platforms.",
+        "Building data validation checks for client ETL processes, creating quality assurance procedures that ensured data accuracy and consistency throughout transformation and loading workflows.",
+        "Developing documentation for client data integration systems, creating technical guides that explained data processing workflows and helped client teams understand system operation and maintenance requirements.",
+        "Implementing basic security measures for client data handling, establishing access controls and protection protocols that safeguarded business information according to client requirements and policies.",
+        "Creating monitoring procedures for data pipeline operations, developing checks that tracked processing performance and identified potential issues in client data integration workflows.",
+        "Building collaboration processes with client teams, establishing communication patterns that ensured technical solutions effectively addressed business needs and operational requirements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "ETL",
+        "Data Warehousing",
+        "Batch Processing",
+        "Data Integration",
+        "Client Consulting",
+        "Business Data",
+        "Data Validation",
+        "Documentation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

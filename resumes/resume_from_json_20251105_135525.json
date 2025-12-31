@@ -1,0 +1,288 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Solutions Architect - Microsoft Fabric & Data Modernization",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With over ten years of specialized experience in AI-driven data modernization and Microsoft Fabric ecosystems, I've architected enterprise-scale solutions across insurance, healthcare, banking, and consulting domains while leveraging Microsoft Fabric capabilities extensively.",
+    "Leveraging Microsoft Fabric to unify data engineering workflows across State Farm's insurance operations, creating centralized data mesh architectures that streamlined claim processing while maintaining strict regulatory compliance through Microsoft Fabric governance features.",
+    "Architected Johnson & Johnson's healthcare analytics modernization using Microsoft Fabric integrated with Azure Machine Learning, developing predictive models for patient outcome optimization while ensuring HIPAA compliance through Microsoft Fabric security protocols.",
+    "Implemented Bank of America's financial analytics platform using Microsoft Fabric data pipelines combined with Python machine learning models, enhancing fraud detection capabilities while maintaining financial compliance standards through Microsoft Fabric.",
+    "Designed State of Maine's public health data infrastructure using Microsoft Fabric OneLake architecture, enabling secure cross-agency data sharing while preserving citizen privacy through Microsoft Fabric data protection features.",
+    "Spearheaded Hexaware's consulting practice modernization by integrating traditional ETL workflows with Microsoft Fabric capabilities, helping clients transition from legacy systems to modern AI-driven analytics platforms using Microsoft Fabric.",
+    "Mastering Microsoft Fabric end-to-end capabilities including data engineering, data science, and real-time analytics while ensuring solutions adhere to enterprise standards around governance, security, and interoperability across Microsoft Fabric environments.",
+    "Developing machine learning models within Microsoft Fabric environments using Python and R for predictive analytics, then deploying these models through Azure ML integrated with Microsoft Fabric for seamless operationalization.",
+    "Building data lakehouse architectures on Microsoft Fabric that combine the best of data lakes and data warehouses, enabling both structured and unstructured data analytics across insurance domains using Microsoft Fabric.",
+    "Implementing CI/CD pipelines for machine learning models within Microsoft Fabric ecosystems, ensuring smooth deployment and monitoring of AI solutions while maintaining version control through Microsoft Fabric integration.",
+    "Collaborating with data engineers and business stakeholders to design Microsoft Fabric solutions that address both strategic and operational needs, focusing on practical implementation challenges within Microsoft Fabric environments.",
+    "Utilizing Microsoft Fabric Synapse Analytics for large-scale data processing and transformation, optimizing insurance data workflows while leveraging Microsoft Fabric performance capabilities.",
+    "Designing data models including Data Vault and star schema within Microsoft Fabric environments, ensuring data integrity and accessibility for analytics teams working with Microsoft Fabric.",
+    "Implementing MLOps practices within Microsoft Fabric ecosystems, establishing model monitoring and retraining pipelines that maintain AI solution performance over time using Microsoft Fabric tools.",
+    "Working with Microsoft Fabric Data Factory for orchestrating complex data pipelines across hybrid environments, ensuring reliable data movement and transformation within Microsoft Fabric.",
+    "Leveraging Microsoft Fabric OneLake for centralized data storage and management, creating unified data access layers that serve multiple analytics workloads through Microsoft Fabric.",
+    "Developing automated monitoring systems within Microsoft Fabric to track model performance and data quality, enabling proactive maintenance of AI solutions deployed on Microsoft Fabric.",
+    "Leading cross-functional teams in adopting Microsoft Fabric best practices and methodologies, fostering collaborative development approaches that maximize Microsoft Fabric value across organizations."
+  ],
+  "technical_skills": {
+    "Microsoft Fabric Ecosystem": [
+      "Microsoft Fabric",
+      "Synapse Analytics",
+      "Data Factory",
+      "OneLake",
+      "Power BI Integration"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure ML",
+      "Azure DevOps",
+      "AWS SageMaker",
+      "Azure Data Lake",
+      "Cloud Storage"
+    ],
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Scala",
+      "Java"
+    ],
+    "Machine Learning & AI": [
+      "Machine Learning Models",
+      "Predictive Analytics",
+      "Model Deployment",
+      "MLOps",
+      "Model Monitoring"
+    ],
+    "Data Engineering": [
+      "Data Lakehouse",
+      "Data Vault",
+      "Star Schema",
+      "ETL/ELT",
+      "Data Pipelines"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark",
+      "Databricks",
+      "Hadoop",
+      "Kafka",
+      "Stream Processing"
+    ],
+    "Data Governance & Security": [
+      "Data Governance",
+      "Security Protocols",
+      "Compliance Standards",
+      "Data Lineage",
+      "Access Controls"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "Container Orchestration",
+      "Microservices",
+      "REST APIs"
+    ],
+    "DevOps & CI/CD": [
+      "Version Control",
+      "CI/CD Pipelines",
+      "GitHub",
+      "GitLab",
+      "Azure DevOps"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "PostgreSQL",
+      "Cosmos DB",
+      "Data Warehousing",
+      "NoSQL"
+    ],
+    "BI & Visualization": [
+      "Power BI",
+      "Tableau",
+      "Dashboard Development",
+      "Reporting",
+      "Data Visualization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architected enterprise-wide Microsoft Fabric implementation to unify disparate insurance data sources, creating a centralized data mesh that streamlined claims processing workflows while ensuring data governance compliance across all Microsoft Fabric components.",
+        "Led development of predictive analytics solutions using Microsoft Fabric integrated with Azure Machine Learning, building models that enhanced risk assessment accuracy for property and casualty insurance lines through Microsoft Fabric data pipelines.",
+        "Designed and implemented Microsoft Fabric data lakehouse architecture combining structured policy data with unstructured claim documents, enabling comprehensive analytics while maintaining data integrity through Microsoft Fabric governance features.",
+        "Orchestrated complex data transformation workflows using Microsoft Fabric Data Factory, migrating legacy insurance data systems to modern cloud-native architectures while preserving data lineage within Microsoft Fabric environments.",
+        "Developed real-time analytics capabilities within Microsoft Fabric for insurance fraud detection, processing streaming data through Microsoft Fabric pipelines integrated with machine learning models for immediate risk assessment.",
+        "Implemented Microsoft Fabric Synapse Analytics for large-scale insurance data processing, optimizing query performance and reducing data latency for actuarial analysis and regulatory reporting requirements.",
+        "Established MLOps practices within Microsoft Fabric ecosystem, creating automated model retraining pipelines that maintained predictive accuracy for insurance pricing models deployed through Microsoft Fabric.",
+        "Built interactive dashboards using Microsoft Fabric integrated Power BI, providing business stakeholders with real-time insights into insurance portfolio performance and risk exposure metrics.",
+        "Conducted extensive code reviews and troubleshooting sessions for Microsoft Fabric data pipelines, addressing performance bottlenecks and data quality issues within insurance data processing workflows.",
+        "Collaborated with domain experts to design Microsoft Fabric solutions that addressed specific insurance regulatory requirements, ensuring compliance while leveraging Microsoft Fabric capabilities.",
+        "Mentored junior developers in Microsoft Fabric best practices and implementation patterns, fostering team growth while maintaining high standards for insurance data solution development.",
+        "Optimized Microsoft Fabric workspace configurations for multi-team collaboration, establishing data access controls and security protocols that protected sensitive insurance customer information.",
+        "Integrated Microsoft Fabric with existing Azure infrastructure, creating hybrid data processing workflows that connected on-premise insurance systems with cloud-based analytics platforms.",
+        "Developed comprehensive testing strategies for Microsoft Fabric data pipelines, implementing data validation checks that ensured accuracy for insurance financial reporting and compliance requirements.",
+        "Designed disaster recovery procedures for Microsoft Fabric environments, establishing data replication and backup strategies that maintained business continuity for critical insurance operations.",
+        "Led stakeholder meetings to demonstrate Microsoft Fabric capabilities and gather requirements for new insurance analytics initiatives, translating business needs into technical specifications for Microsoft Fabric implementation."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "Power BI",
+        "SQL",
+        "Azure DevOps",
+        "Docker",
+        "GitHub"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Engineered healthcare data modernization platform using Microsoft Fabric, consolidating clinical trial data and patient records into unified data lakehouse architecture while ensuring HIPAA compliance through Microsoft Fabric security features.",
+        "Developed predictive models within Microsoft Fabric environment for patient outcome analysis, leveraging Azure Machine Learning integration to deploy models that assisted clinical decision support systems.",
+        "Implemented Microsoft Fabric data pipelines for processing real-time medical device data, creating streaming analytics solutions that monitored patient safety and treatment efficacy across healthcare domains.",
+        "Designed data governance framework within Microsoft Fabric for healthcare data management, establishing data quality standards and access controls that protected patient privacy while enabling research analytics.",
+        "Built clinical analytics dashboards using Microsoft Fabric integrated Power BI, providing healthcare researchers with interactive tools for exploring treatment outcomes and medical intervention effectiveness.",
+        "Migrated legacy healthcare data warehouses to Microsoft Fabric data lakehouse architecture, preserving historical data while enabling modern analytics capabilities for pharmaceutical research teams.",
+        "Established CI/CD pipelines for healthcare machine learning models within Microsoft Fabric ecosystem, automating model deployment and monitoring while maintaining regulatory compliance standards.",
+        "Collaborated with medical researchers to design Microsoft Fabric analytics solutions that supported clinical study data analysis, creating reproducible research workflows within Microsoft Fabric environments.",
+        "Implemented data anonymization techniques within Microsoft Fabric pipelines, ensuring patient data protection while maintaining data utility for healthcare research and population health studies.",
+        "Optimized Microsoft Fabric performance for large-scale healthcare data processing, tuning Spark configurations and data partitioning strategies to handle genomic data and medical imaging datasets.",
+        "Developed data quality monitoring systems within Microsoft Fabric, creating automated checks that validated healthcare data integrity and flagged anomalies for investigation by data stewards.",
+        "Integrated Microsoft Fabric with electronic health record systems, establishing secure data exchange protocols that enabled real-time analytics for patient care coordination and treatment planning.",
+        "Created documentation and training materials for Microsoft Fabric implementation in healthcare settings, enabling cross-functional teams to leverage Microsoft Fabric capabilities for medical research.",
+        "Designed data lineage tracking within Microsoft Fabric for healthcare regulatory compliance, providing audit trails that demonstrated data provenance and transformation history for regulatory submissions."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Power BI",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "GitHub"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Implemented Microsoft Fabric data platform for public health analytics, creating unified data repository that combined COVID-19 testing data with hospital capacity information for pandemic response planning.",
+        "Developed machine learning models within Microsoft Fabric environment for public health trend analysis, predicting disease outbreaks and healthcare resource requirements using historical health data.",
+        "Designed data sharing protocols within Microsoft Fabric for inter-agency collaboration, enabling secure data exchange between public health departments while maintaining citizen privacy protections.",
+        "Built public health reporting dashboards using Microsoft Fabric integrated Power BI, providing state officials with real-time insights into healthcare system capacity and public health metrics.",
+        "Established data governance policies within Microsoft Fabric for sensitive health information, implementing access controls and audit trails that complied with state privacy regulations and HIPAA requirements.",
+        "Migrated legacy public health data systems to Microsoft Fabric data lakehouse, preserving historical health records while enabling modern analytics capabilities for epidemiology research.",
+        "Implemented data quality frameworks within Microsoft Fabric pipelines, creating validation checks that ensured accuracy for public health reporting and decision-making processes.",
+        "Developed predictive models for healthcare resource allocation within Microsoft Fabric environment, helping optimize distribution of medical supplies and personnel during public health emergencies.",
+        "Created data integration workflows within Microsoft Fabric that connected disparate health data sources, enabling comprehensive analysis of population health trends and healthcare utilization patterns.",
+        "Established monitoring systems within Microsoft Fabric for public health data pipelines, ensuring reliable data processing for time-sensitive public health reporting requirements.",
+        "Collaborated with public health experts to design Microsoft Fabric analytics solutions that supported evidence-based policy decisions and healthcare intervention planning.",
+        "Implemented data security measures within Microsoft Fabric environment, protecting sensitive health information while enabling appropriate data access for public health research and analysis."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Power BI",
+        "SQL",
+        "Azure DevOps",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed fraud detection algorithms using machine learning techniques applied to financial transaction data, creating models that identified suspicious patterns while minimizing false positive rates.",
+        "Built data pipelines for processing large volumes of banking transaction data, implementing ETL workflows that transformed raw transaction records into features for machine learning models.",
+        "Created customer segmentation models using clustering algorithms, enabling targeted marketing campaigns and personalized banking service recommendations based on customer behavior patterns.",
+        "Implemented credit risk assessment models using historical loan performance data, developing predictive analytics that assisted lending decisions while maintaining regulatory compliance standards.",
+        "Designed A/B testing frameworks for evaluating banking product effectiveness, establishing statistical methodologies that measured impact of new features and marketing initiatives.",
+        "Developed customer churn prediction models using machine learning algorithms, identifying at-risk customers and enabling proactive retention strategies for banking relationship managers.",
+        "Built interactive dashboards for business intelligence reporting, providing stakeholders with visual insights into banking performance metrics and customer behavior trends.",
+        "Collaborated with risk management teams to validate model assumptions and ensure regulatory compliance for financial models used in banking operations and decision-making processes.",
+        "Implemented data quality monitoring systems for banking data sources, establishing automated checks that detected anomalies and ensured data integrity for financial reporting.",
+        "Developed natural language processing solutions for analyzing customer feedback and support interactions, extracting insights that informed banking service improvements and customer experience enhancements."
+      ],
+      "environment": [
+        "Python",
+        "R",
+        "SQL",
+        "Spark",
+        "Machine Learning",
+        "Tableau",
+        "AWS SageMaker",
+        "Git",
+        "Docker",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Designed and implemented ETL workflows using Informatica for client data integration projects, extracting data from source systems and loading into data warehouses for business intelligence reporting.",
+        "Developed data processing pipelines using Hadoop ecosystem tools, handling large datasets for client analytics requirements while learning distributed computing concepts and implementation patterns.",
+        "Built data transformation routines using Sqoop for moving data between relational databases and Hadoop distributed file system, ensuring data consistency and processing efficiency.",
+        "Created data validation scripts and quality checks for ETL processes, identifying data anomalies and ensuring accuracy for client reporting and analytics deliverables.",
+        "Collaborated with business analysts to understand client data requirements, translating business needs into technical specifications for data integration and processing solutions.",
+        "Participated in code reviews and troubleshooting sessions for data pipeline issues, developing problem-solving skills while addressing performance bottlenecks in data processing workflows.",
+        "Documented data architecture and ETL processes for client projects, creating technical documentation that supported knowledge transfer and system maintenance requirements.",
+        "Supported production data pipelines and addressed data processing issues, gaining operational experience in monitoring and maintaining enterprise data systems for consulting clients."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "SQL",
+        "Java",
+        "Data Warehousing",
+        "ETL",
+        "Business Intelligence",
+        "Data Modeling"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

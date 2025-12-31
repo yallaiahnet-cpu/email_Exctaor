@@ -1,0 +1,280 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AWS Data Engineer - Cloud Data Pipeline & Snowflake Integration Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise data engineering with specialized focus on building secure, scalable AWS and Snowflake data pipelines for regulated industries including Healthcare, Insurance, Government, and Finance domains.",
+    "Architected a HIPAA-compliant data transfer solution between AWS S3 and Snowflake using Python and AWS Lambda, establishing IAM roles with least-privilege policies to ensure PHI security while enabling analytics teams to access de-identified patient datasets for research initiatives.",
+    "Designed and implemented an enterprise-grade ELT pipeline using Snowflake stages and AWS EC2 orchestration, transforming batch medical supply chain data that reduced processing latency by 40% and supported real-time inventory management across Medline's distribution network.",
+    "Engineered a CI/CD deployment framework using GitHub Actions for data pipeline code, automating testing and deployment of Python ETL scripts which minimized production errors and ensured consistent integration of new healthcare data sources.",
+    "Led the development of a multi-agent proof-of-concept using Crew AI and LangGraph to automate data quality monitoring, where agents collaboratively validated incoming clinical trial data against predefined rules, flagging anomalies for review.",
+    "Established comprehensive logging and monitoring for AWS Lambda functions handling sensitive insurance claims data, implementing CloudWatch alarms and custom metrics that provided visibility into pipeline health and accelerated troubleshooting.",
+    "Optimized Snowflake virtual warehouse sizing and query performance for large-scale government census data, employing clustering keys and materialized views to reduce cloud compute costs by 35% while meeting SLAs for public reporting.",
+    "Developed Python-based data integration scripts calling REST APIs to ingest external healthcare provider directories into AWS, designing robust error handling and retry mechanisms to maintain data completeness during network interruptions.",
+    "Collaborated with security architects to apply AWS security best practices across all data pipelines, encrypting data at rest and in transit, and conducting regular access reviews of IAM policies governing financial data movement.",
+    "Built a scalable data pipeline architecture on AWS using step functions to orchestrate EC2 instances running Spark jobs, processing terabytes of daily insurance premium transactions with built-in redundancy for business continuity.",
+    "Created documentation and runbooks for all AWS-Snowflake integrations, detailing data lineage, transformation logic, and operational procedures that enabled cross-functional teams to support pipelines during on-call rotations.",
+    "Implemented a Model Context Protocol (MCP) server to expose curated Snowflake datasets to internal AI agents, facilitating secure, governed access to enterprise data for generative AI applications in the healthcare domain.",
+    "Spearheaded the migration of on-premise SQL Server ETL processes to cloud-native AWS Glue and Snowflake pipelines, replatforming decades of historical insurance policy data while maintaining strict regulatory audit trails.",
+    "Configured VPC endpoints and security groups to isolate data pipeline resources within a private AWS network segment, adding layers of protection for PHI and PII data as per healthcare compliance mandates.",
+    "Mentored junior engineers on data engineering principles and AWS services, conducting code reviews for Python and SQL scripts to ensure adherence to standards and optimize for performance and cloud cost efficiency.",
+    "Evaluated and integrated Talend for specific high-volume data transformation workloads, complementing native Snowflake capabilities to handle complex healthcare data harmonization from disparate source systems.",
+    "Partnered with data governance teams to implement metadata tagging in Snowflake using Alation, creating a searchable inventory of data assets that improved discoverability and trust in analytics across the organization.",
+    "Proposed and implemented a cost-aware design for batch data processing, leveraging AWS Spot Instances for non-critical workloads and Snowflake auto-suspend features, achieving significant savings without impacting performance."
+  ],
+  "technical_skills": {
+    "Cloud Data Platforms & Warehouses": [
+      "Snowflake",
+      "AWS Redshift",
+      "Google BigQuery",
+      "Azure Synapse"
+    ],
+    "AWS Cloud Services": [
+      "S3",
+      "EC2",
+      "Lambda",
+      "IAM",
+      "Glue",
+      "Step Functions",
+      "CloudWatch",
+      "VPC",
+      "Security Groups"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Java",
+      "JavaScript",
+      "Bash/Shell Scripting"
+    ],
+    "ETL/ELT & Data Pipeline Tools": [
+      "AWS Glue",
+      "Talend",
+      "Apache Airflow",
+      "dbt",
+      "Informatica PowerCenter"
+    ],
+    "Data Integration & APIs": [
+      "REST API Integration",
+      "Apache Kafka",
+      "AWS Kinesis",
+      "Change Data Capture"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "AWS ECS",
+      "AWS Fargate"
+    ],
+    "DevOps & CI/CD": [
+      "GitHub",
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform",
+      "AWS CodePipeline"
+    ],
+    "Data Governance & Catalog": [
+      "Alation",
+      "Manta",
+      "Anamalo",
+      "Collibra",
+      "AWS Glue Data Catalog"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "AWS RDS",
+      "DynamoDB"
+    ],
+    "Big Data Processing": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "AWS EMR",
+      "Databricks"
+    ],
+    "Monitoring & Observability": [
+      "AWS CloudWatch",
+      "Splunk",
+      "Datadog",
+      "Custom Logging Frameworks"
+    ],
+    "Security & Compliance": [
+      "AWS IAM",
+      "Encryption (KMS)",
+      "VPC Design",
+      "HIPAA Compliance",
+      "GDPR",
+      "PCI DSS"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Orchestrated the design of a secure data pipeline from AWS S3 to Snowflake for HIPAA-sensitive medical device logs, implementing Python-based data validation and IAM role assumptions to guarantee compliant PHI handling for analytics.",
+        "Constructed a multi-agent system proof-of-concept using LangGraph and Crew AI, where specialized agents autonomously monitored ETL job statuses, diagnosed failures via LLM analysis, and initiated retries, reducing manual intervention by 60%.",
+        "Engineered a serverless data ingestion framework with AWS Lambda and API Gateway, processing real-time healthcare supply chain events and loading transformed data into Snowflake within minutes for operational dashboards.",
+        "Architected a scalable batch processing solution using AWS EC2 auto-scaling groups and Python scripts, efficiently handling terabyte-scale nightly extracts of clinical data while optimizing for cloud cost constraints.",
+        "Implemented a Model Context Protocol server to provide structured, secure access to Snowflake data for internal AI agents, enabling them to generate insights on hospital procurement patterns without raw data exposure.",
+        "Developed a CI/CD pipeline with GitHub Actions for data engineering code, automating unit tests for Python transformations and integration tests for Snowflake SQL, ensuring reliable deployments of pipeline updates.",
+        "Designed and enforced AWS security best practices across all new data integrations, configuring KMS encryption for S3 buckets and scoping IAM policies to the principle of least privilege for production workloads.",
+        "Led troubleshooting sessions for a complex data transfer failure between AWS and Snowflake, diagnosing network ACL issues in a VPC and implementing a fix that restored pipeline operations within the SLA window.",
+        "Collaborated with data scientists to productionize a machine learning feature pipeline, building Python modules that calculated aggregates from patient journey data and materialized them as Snowflake views.",
+        "Documented the complete architecture and operational procedures for the AWS-Snowflake integration, creating runbooks that enabled the site reliability engineering team to assume support responsibilities.",
+        "Evaluated Talend for a specific high-volume data transformation scenario, building a comparative analysis against native Snowflake SQL that informed the selection of the most maintainable and performant approach.",
+        "Participated in daily stand-ups and sprint planning sessions, providing realistic estimates for data engineering tasks and proactively identifying technical risks related to healthcare data compliance requirements.",
+        "Mentored a junior data engineer on Python best practices and Snowflake query optimization, reviewing their code for a new data integration and suggesting improvements to error handling and logging.",
+        "Proposed an enhancement to the existing logging framework by adding structured JSON logs to AWS Lambda functions, significantly improving the ability to trace data lineage and debug pipeline issues.",
+        "Integrated a new external healthcare provider API into the existing ingestion framework, extending the Python library to handle pagination and rate limiting while maintaining data quality checks.",
+        "Conducted a proof-of-concept for agent-to-agent communication frameworks, exploring how different AI agents could collaboratively manage and validate data pipeline executions in a distributed system."
+      ],
+      "environment": [
+        "AWS (S3, EC2, Lambda, IAM, CloudWatch, VPC)",
+        "Snowflake",
+        "Python",
+        "SQL",
+        "GitHub Actions",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "Talend",
+        "Alation",
+        "HIPAA Compliant Architecture"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed a batch ELT pipeline using AWS Glue and Snowflake to process daily insurance claims submissions, implementing deduplication and validation logic that improved data quality for actuarial reporting.",
+        "Configured secure IAM roles and S3 bucket policies to govern access to sensitive member PHI, ensuring all data movement from on-premise systems to AWS complied with stringent insurance industry regulations.",
+        "Built a Python-based data integration service that consumed eligibility data from a partner REST API, handling OAuth authentication and implementing retry logic with exponential backoff for transient failures.",
+        "Optimized Snowflake query performance for complex aggregations across billions of claims records, implementing clustering keys and leveraging materialized views to accelerate dashboard load times.",
+        "Established a CI/CD process using GitHub for version control and Jenkins for deployment, automating the promotion of ETL code from development through testing and into the production AWS environment.",
+        "Created comprehensive error handling within AWS Lambda functions processing provider data, capturing failures in a DynamoDB table and triggering alerts to the operations team for immediate investigation.",
+        "Designed a proof-of-concept using Crew AI to automate the generation of data quality reports, where agents analyzed pipeline execution logs and produced summaries of data completeness and accuracy.",
+        "Collaborated with network engineers to troubleshoot connectivity issues between the corporate VPN and AWS services, resolving security group misconfigurations that were blocking Snowflake data loads.",
+        "Documented the data lineage for critical premium and claims pipelines using a combination of manual mapping and automated discovery scripts, supporting internal audit requirements.",
+        "Participated in cross-functional requirement gathering sessions with business analysts, translating their needs for new insurance product metrics into technical specifications for Snowflake data models.",
+        "Implemented cost monitoring dashboards in CloudWatch to track spending on AWS EMR clusters and Snowflake credits, identifying underutilized resources and recommending rightsizing actions.",
+        "Assisted in the evaluation of data governance tools, providing technical input on the integration capabilities of Alation and Manta with the existing AWS and Snowflake technology stack.",
+        "Led a code review session for a junior developer's SQL transformation scripts, providing feedback on performance optimization techniques and alignment with insurance domain logic.",
+        "Supported the incident response process during a production data pipeline outage, analyzing logs to pinpoint a concurrent write issue in Snowflake and implementing a locking mechanism to resolve it."
+      ],
+      "environment": [
+        "AWS (Glue, Lambda, S3, IAM, EMR)",
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Jenkins",
+        "GitHub",
+        "DynamoDB",
+        "REST APIs",
+        "Insurance Data Models (ACORD)"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Migrated on-premise SQL Server ETL processes for public assistance programs to Azure Data Factory and Snowflake, replatforming decades of historical data while maintaining strict government audit trails.",
+        "Engineered Azure Blob Storage to Snowflake data pipelines using Python and Azure Functions, ensuring secure transfer of sensitive citizen data in compliance with state privacy statutes and regulations.",
+        "Developed SQL transformations within Snowflake to aggregate and anonymize census and unemployment data, creating datasets suitable for public dashboards and legislative reporting requirements.",
+        "Implemented logging and monitoring for all government data pipelines using Azure Monitor, setting up alerts for job failures and data quality thresholds to ensure timely issue resolution.",
+        "Collaborated with security teams to design and apply access controls within Snowflake, creating role-based security models that restricted data access according to user department and clearance level.",
+        "Built data integration scripts in Python to consume files from legacy mainframe systems (via SFTP), transforming fixed-width formats into structured data ready for loading into Snowflake.",
+        "Created technical documentation and data dictionaries for the new cloud data platform, enabling various state agency analysts to understand and utilize the available datasets effectively.",
+        "Participated in Agile ceremonies with a team of other data engineers and BI developers, contributing to sprint backlogs and providing updates on pipeline development progress.",
+        "Assisted in troubleshooting performance issues with large-scale data loads into Snowflake, adjusting warehouse sizes and file partitioning strategies to meet processing windows.",
+        "Designed a batch processing architecture that balanced cost and performance, using Azure VM scale sets for heavy transformation work before efficient bulk loads into the Snowflake warehouse.",
+        "Conducted peer code reviews for fellow engineers, focusing on the readability, efficiency, and security of Python and SQL code intended for processing government data.",
+        "Supported the data governance initiative by tagging Snowflake objects with business metadata, facilitating better discovery and understanding of public sector data assets across departments."
+      ],
+      "environment": [
+        "Azure (Data Factory, Blob Storage, Functions, VMs)",
+        "Snowflake",
+        "Python",
+        "SQL",
+        "SQL Server",
+        "SFTP",
+        "Government Data Standards"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Supported the development of a PCI DSS-compliant data pipeline on Azure, using Databricks and Delta Lake to process credit card transaction data for fraud detection machine learning models.",
+        "Developed PySpark jobs within Azure Databricks to cleanse and enrich terabytes of daily merchant settlement data, implementing business rules to handle chargebacks and disputes accurately.",
+        "Assisted in building CI/CD pipelines for big data applications using Azure DevOps, automating the deployment of Spark code and enabling faster iteration for the analytics development team.",
+        "Created SQL queries and stored procedures in Azure SQL Database to support legacy reporting needs while the migration to a modern data lakehouse architecture was in progress.",
+        "Participated in design discussions for a new customer behavior data model, contributing ideas on how to structure the schema in Azure Synapse (formerly SQL DW) for optimal query performance.",
+        "Documented data lineage for key financial reporting metrics, tracing them from source transaction systems through various ETL stages to final reports, aiding in SOX compliance efforts.",
+        "Monitored the performance and stability of production Databricks jobs, responding to alerts and investigating failures related to data skew or resource constraints in the Azure environment.",
+        "Collaborated with data architects on the implementation of a data quality framework, building checks within Azure Data Factory pipelines to validate account balance calculations.",
+        "Learned and applied finance domain knowledge regarding card networks, interchange fees, and regulatory reporting requirements to ensure the accuracy of engineered data outputs.",
+        "Contributed to team knowledge sharing sessions by presenting on a topic related to performance tuning techniques for Spark applications running on Azure cloud infrastructure."
+      ],
+      "environment": [
+        "Azure (Databricks, Data Factory, Synapse, SQL DB, Blob Storage)",
+        "PySpark",
+        "SQL",
+        "Delta Lake",
+        "Azure DevOps",
+        "PCI DSS Compliant Design"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed pathology and radiology image metadata from on-premise Oracle databases using SQL and Python scripts, preparing foundational datasets for AI diagnostic model training.",
+        "Built basic ETL workflows to move clinical data between internal systems, ensuring the integrity and confidentiality of patient information in line with HIPAA principles for the healthcare startup.",
+        "Created SQL queries to analyze data quality and completeness for medical imaging studies, generating reports that helped data scientists select suitable datasets for machine learning projects.",
+        "Assisted senior engineers in documenting data pipelines and transformation logic, learning the importance of clear documentation for maintaining complex data systems in a regulated domain.",
+        "Supported the migration of certain analytical datasets from Oracle to a PostgreSQL environment, writing data validation queries to verify the accuracy of the transferred information.",
+        "Learned to build simple dashboards in Power BI to visualize basic operational metrics related to data processing volumes and turnaround times for different types of medical tests.",
+        "Participated in team meetings where data requirements for new AI research initiatives were discussed, taking notes and helping to clarify the source and characteristics of available data.",
+        "Performed routine data profiling and validation tasks under guidance, gaining hands-on experience with the challenges of working with real-world, messy healthcare data from diverse sources."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "PostgreSQL",
+        "MySQL",
+        "Power BI",
+        "Healthcare Data (DICOM, HL7)",
+        "HIPAA Awareness"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

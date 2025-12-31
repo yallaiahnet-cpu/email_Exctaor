@@ -1,0 +1,383 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Engineer - Cloud Data Platforms & Analytics",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise data engineering, focusing on cloud data lakes, data warehouses, geospatial analytics, and ML pipeline development across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Built scalable AWS data platforms using S3, Glue, Lambda for batch and real-time ingestion while maintaining data quality through automated pytest frameworks and Great Expectations validation checks for insurance compliance workflows.",
+    "Transformed raw geospatial datasets into analytics-ready products using PostGIS spatial queries, GeoPandas processing, and GeoJSON formats to support POI enrichment and polygon-based decisioning for risk assessment applications.",
+    "Designed Data Vault 2.0 models in Snowflake to handle insurance policy data while implementing Snowpipe for continuous ingestion and dbt transformations to maintain historical tracking and regulatory audit trails.",
+    "Developed ETL pipelines with Apache Airflow orchestration to process healthcare claims data from PostgreSQL sources into Parquet-formatted data lakes, ensuring HIPAA compliance through KMS encryption and IAM role-based access controls.",
+    "Collaborated with data scientists to operationalize ML models by building feature engineering pipelines in Python that fed real-time predictions into dashboards, reducing manual intervention in fraud detection workflows.",
+    "Debugged production pipeline failures using CloudWatch monitoring and Grafana dashboards, often spending hours troubleshooting Snowflake query performance issues and S3 partitioning strategies to meet SLA requirements.",
+    "Participated in code reviews with DevOps teams to enforce CI/CD best practices using Git workflows, GitHub Actions automation, and Docker containerization for reproducible data processing jobs across environments.",
+    "Established data governance standards by maintaining metadata in data catalog tools and documenting lineage for downstream BI consumers using Confluence, improving transparency for business stakeholders and analysts.",
+    "Integrated third-party APIs for geocoding services and vendor data feeds, handling authentication, retry logic with SQS message queuing, and error handling to ensure resilient data ingestion from external sources.",
+    "Mentored junior developers on SQL performance tuning techniques, teaching indexing strategies and query optimization patterns to reduce Snowflake compute costs and improve dashboard load times for business users.",
+    "Configured Terraform scripts to provision AWS infrastructure including S3 buckets, Glue crawlers, and Lambda functions, ensuring consistent deployment across development, staging, and production environments with least-privilege IAM policies.",
+    "Attended daily stand-ups and sprint planning sessions in Jira to prioritize backlog items, often balancing urgent production incidents with planned feature development in an agile delivery environment.",
+    "Processed streaming data from AWS Kinesis into Snowflake using Snowflake streams and tasks, enabling near-real-time analytics for insurance claims processing and customer behavior tracking applications.",
+    "Applied schema evolution strategies to handle backward-compatible changes in data models, coordinating with multiple teams to avoid breaking downstream dashboards and ML pipelines during production releases.",
+    "Conducted data quality testing with automated unit tests and integration tests, catching data drift issues early and setting up alerts to notify teams when validation thresholds were breached in production pipelines.",
+    "Worked closely with product managers to translate business requirements into technical specifications, often iterating on data models after initial attempts did not meet performance expectations or analytical needs.",
+    "Explored cutting-edge tools like Debezium for change data capture from PostgreSQL databases, experimenting with CDC patterns to reduce batch processing delays and enable real-time analytics for operational dashboards."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "R"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS S3",
+      "AWS Glue",
+      "AWS Lambda",
+      "AWS Kinesis",
+      "AWS CloudWatch",
+      "AWS IAM",
+      "AWS KMS",
+      "AWS SQS",
+      "AWS SNS",
+      "Azure Data Factory",
+      "Azure Databricks"
+    ],
+    "Data Warehouses & Databases": [
+      "Snowflake",
+      "Snowpipe",
+      "Snowflake Streams",
+      "Snowflake Tasks",
+      "PostgreSQL",
+      "PostGIS",
+      "MySQL",
+      "MongoDB",
+      "Redshift"
+    ],
+    "Big Data & Processing Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Hadoop",
+      "Apache Kafka",
+      "Apache Airflow",
+      "dbt",
+      "Databricks"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Vault 2.0",
+      "Data Lake Design",
+      "ETL/ELT Pipelines",
+      "Star Schema",
+      "Dimensional Modeling"
+    ],
+    "Geospatial Tools & Formats": [
+      "PostGIS",
+      "GeoPandas",
+      "Shapefiles",
+      "GeoJSON",
+      "Geocoding",
+      "Polygon Processing",
+      "POI Data",
+      "Coordinate Reference Systems"
+    ],
+    "Data Quality & Testing": [
+      "Great Expectations",
+      "pytest",
+      "Unit Testing",
+      "Integration Testing",
+      "Data Validation",
+      "Automated Testing Frameworks"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub Actions",
+      "GitLab",
+      "Jenkins",
+      "Docker",
+      "Terraform",
+      "CloudFormation",
+      "Infrastructure as Code"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch",
+      "Grafana",
+      "Prometheus",
+      "Pipeline Monitoring",
+      "Performance Tuning"
+    ],
+    "Data Governance & Cataloging": [
+      "Data Lineage",
+      "Metadata Management",
+      "Amundsen",
+      "DataHub",
+      "Collibra",
+      "Data Documentation"
+    ],
+    "File Formats & Storage": [
+      "Parquet",
+      "ORC",
+      "CSV",
+      "JSON",
+      "Avro",
+      "Columnar Formats",
+      "S3 Lifecycle Policies",
+      "Partitioning Strategies"
+    ],
+    "Streaming & Real-Time Processing": [
+      "AWS Kinesis",
+      "Apache Kafka",
+      "Snowpipe",
+      "Change Data Capture",
+      "Debezium",
+      "AWS DMS",
+      "Stream Processing"
+    ],
+    "MLOps & Analytics": [
+      "Feature Engineering",
+      "ML Pipeline Development",
+      "Model Operationalization",
+      "MLOps Practices",
+      "Predictive Analytics"
+    ],
+    "BI & Visualization Tools": [
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Dashboard Development"
+    ],
+    "Agile & Collaboration Tools": [
+      "Jira",
+      "Confluence",
+      "Agile Delivery",
+      "Sprint Planning"
+    ],
+    "Security & Compliance": [
+      "IAM Roles",
+      "KMS Encryption",
+      "HIPAA Compliance",
+      "PCI-DSS",
+      "GDPR",
+      "Data Privacy",
+      "Least-Privilege Access"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect AWS data lake solutions using S3 partitioning strategies and Glue crawlers to organize insurance policy documents, claims data, and customer interaction logs into Parquet format for analytics teams.",
+        "Integrate Snowpipe for continuous ingestion of CSV files from S3 into Snowflake tables, setting up automated validation checks with Great Expectations to catch schema drift and data quality issues during policy renewals.",
+        "Develop dbt models to transform raw claims data into Data Vault 2.0 structures with hub, link, and satellite tables, maintaining historical accuracy for regulatory audits and compliance reporting requirements.",
+        "Coordinate with data scientists to build feature pipelines in Python that extract geospatial attributes using PostGIS queries, feeding POI data and risk zone polygons into ML models for underwriting decisions.",
+        "Automate ETL workflows using Apache Airflow DAGs that orchestrate Lambda functions for real-time fraud detection, handling SQS message queues and implementing retry logic to ensure reliable processing during peak claim volumes.",
+        "Troubleshoot Snowflake query performance by analyzing execution plans and adding clustering keys to large fact tables, often spending afternoons with the team optimizing warehouse sizing to reduce compute costs.",
+        "Configure Terraform modules to provision IAM roles with KMS encryption policies for S3 buckets, ensuring least-privilege access patterns align with insurance data security standards and internal compliance guidelines.",
+        "Participate in sprint retrospectives to discuss production incidents where pipeline delays impacted dashboard availability, proposing CloudWatch alarms and Grafana monitoring dashboards to detect failures faster.",
+        "Review pull requests from junior developers on GitHub, providing feedback on SQL query structure and suggesting indexing improvements to PostgreSQL tables that store agent assignment and policy metadata.",
+        "Build API integrations with third-party geocoding vendors to enrich customer address data, handling authentication tokens and implementing exponential backoff patterns when external services experience downtime.",
+        "Document data lineage in Confluence for downstream BI teams using Tableau dashboards, explaining transformation logic in dbt models and clarifying how geospatial filters apply to risk assessment reports.",
+        "Experiment with AWS Kinesis streams for near-real-time ingestion of telematics data from connected vehicles, initially struggling with partition key selection before finding optimal sharding strategies during POC phases.",
+        "Mentor team members on pytest frameworks for unit testing data transformations, demonstrating how to mock S3 interactions and validate Parquet schema evolution to prevent regression issues in production releases.",
+        "Collaborate with product managers during backlog grooming sessions in Jira, translating business requirements for new insurance product lines into technical data model specifications and pipeline architecture diagrams.",
+        "Maintain Docker containers for reproducible Python environments used in Lambda functions, ensuring consistent dependency versions across development and production while simplifying CI/CD deployments with GitHub Actions.",
+        "Implement schema evolution strategies for Snowflake tables by adding nullable columns and using Snowflake streams to propagate changes incrementally, coordinating with analytics teams to avoid breaking existing SQL queries."
+      ],
+      "environment": [
+        "AWS (S3, Glue, Lambda, Kinesis, CloudWatch, IAM, KMS, SQS, SNS)",
+        "Snowflake",
+        "Snowpipe",
+        "Snowflake Streams",
+        "Snowflake Tasks",
+        "PostgreSQL",
+        "PostGIS",
+        "Python",
+        "SQL",
+        "dbt",
+        "Apache Airflow",
+        "PySpark",
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "Great Expectations",
+        "pytest",
+        "Parquet",
+        "GeoPandas",
+        "GeoJSON",
+        "Tableau",
+        "Jira",
+        "Confluence",
+        "Grafana"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Constructed AWS Glue jobs to extract patient records from PostgreSQL databases and loaded them into S3 data lakes with Parquet compression, applying KMS encryption to satisfy HIPAA security requirements for healthcare data.",
+        "Configured Snowflake external stages pointing to S3 buckets where encrypted medical claim files landed, writing SQL copy commands with file format validation to handle malformed records during nightly batch loads.",
+        "Refined dbt transformation logic to create clinical analytics datasets from raw EHR feeds, adding data quality tests that flagged missing patient identifiers and triggered SNS alerts to notify on-call engineers.",
+        "Orchestrated multi-step ETL pipelines with Apache Airflow that moved lab results from source systems into analytical tables, sometimes debugging DAG failures late at night when upstream data feeds arrived with unexpected formats.",
+        "Queried PostGIS-enabled PostgreSQL tables to calculate distances between patient addresses and healthcare facilities, generating geospatial reports that helped network planning teams optimize provider coverage areas.",
+        "Tuned Snowflake warehouse performance by adjusting auto-suspend settings and creating materialized views for frequently accessed summary tables, reducing query latency for dashboard users during business hours.",
+        "Deployed Lambda functions using Docker images to process incoming HL7 messages from hospital systems, parsing medical codes and routing data to appropriate S3 prefixes based on data classification policies.",
+        "Collaborated with compliance officers to document data lineage using Confluence pages that mapped source fields to transformed columns, explaining encryption methods and retention policies for internal audits.",
+        "Reviewed Terraform configurations with infrastructure team members to ensure consistent tagging of AWS resources, discussing cost allocation strategies and adjusting lifecycle policies to archive old patient records.",
+        "Validated data pipelines with pytest integration tests that simulated file uploads to S3 and verified Glue job outputs matched expected schemas, catching issues before promoting code to production environments.",
+        "Analyzed CloudWatch logs to investigate why certain Airflow tasks failed during weekend processing windows, discovering network timeout issues with external pharmacy data vendors and implementing retry mechanisms.",
+        "Attended weekly sprint planning meetings in Jira where product owners prioritized new analytics features, estimating effort for data model changes and discussing trade-offs between performance and implementation complexity.",
+        "Enriched patient demographic data by calling geocoding APIs to standardize addresses, handling rate limits and caching results in Redis to avoid redundant calls during bulk processing operations.",
+        "Supported BI analysts by optimizing SQL queries in Tableau extracts, adding indexes to PostgreSQL tables and rewriting subqueries to improve dashboard refresh times for executive reporting use cases."
+      ],
+      "environment": [
+        "AWS (S3, Glue, Lambda, CloudWatch, IAM, KMS, SNS)",
+        "Snowflake",
+        "PostgreSQL",
+        "PostGIS",
+        "Python",
+        "SQL",
+        "dbt",
+        "Apache Airflow",
+        "Docker",
+        "Terraform",
+        "pytest",
+        "Parquet",
+        "GeoPandas",
+        "Tableau",
+        "Jira",
+        "Confluence",
+        "Redis",
+        "HIPAA Compliance",
+        "HL7",
+        "Great Expectations"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Migrated legacy Medicaid datasets from on-premise SQL Server into Azure Data Lake Storage, converting fixed-width files into Parquet format and applying column-level encryption to protect personally identifiable information.",
+        "Established Azure Data Factory pipelines to extract eligibility records from state mainframe systems, handling connection retries and mapping arcane field codes to standardized healthcare terminology for downstream analytics.",
+        "Created PostgreSQL views with PostGIS extensions to analyze geographic distribution of healthcare providers across rural counties, generating shapefiles for GIS teams to visualize service gaps in underserved regions.",
+        "Scheduled nightly ETL jobs using Apache Airflow on Azure VMs that aggregated claims data into summary tables, monitoring execution times and adjusting parallelism when processing volumes spiked during open enrollment periods.",
+        "Validated incoming data quality by writing Python scripts with pytest assertions that checked for missing values and referential integrity, sending email notifications when validation thresholds were breached.",
+        "Documented data transformation rules in Confluence wiki pages for state auditors, describing how HIPAA de-identification methods removed direct identifiers while preserving analytical utility for policy research.",
+        "Attended cross-functional meetings with public health officials to clarify reporting requirements, translating regulatory language into technical specifications for data models that tracked vaccination rates by zip code.",
+        "Debugged Azure Data Factory copy activities that occasionally failed due to network latency between government networks, eventually configuring staging areas and adjusting timeout parameters to improve reliability.",
+        "Optimized PostgreSQL query performance for reports accessed by Medicaid administrators, adding composite indexes on frequently filtered columns and rewriting joins to reduce execution time from minutes to seconds.",
+        "Collaborated with security team to implement row-level security policies in PostgreSQL that restricted access to sensitive patient records based on user roles, ensuring compliance with state data governance policies.",
+        "Processed geospatial datasets containing facility locations using GeoPandas to merge them with demographic Census data, producing analytical tables that informed decisions about expanding telehealth services.",
+        "Mentored junior analyst on SQL best practices during code review sessions, explaining how to use window functions and CTEs to simplify complex queries that calculated rolling averages of emergency room visits."
+      ],
+      "environment": [
+        "Azure Data Lake Storage",
+        "Azure Data Factory",
+        "Azure VMs",
+        "PostgreSQL",
+        "PostGIS",
+        "Python",
+        "SQL",
+        "Apache Airflow",
+        "pytest",
+        "Parquet",
+        "GeoPandas",
+        "Shapefiles",
+        "Confluence",
+        "HIPAA Compliance",
+        "Row-Level Security",
+        "SQL Server"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Extracted transactional data from Azure SQL databases into Data Lake Storage using Azure Data Factory copy activities, partitioning files by date to support efficient querying by fraud analytics teams.",
+        "Loaded cleansed financial records into PostgreSQL tables with proper indexing on account numbers and transaction timestamps, enabling fast lookups for customer service representatives during call center interactions.",
+        "Aggregated daily transaction volumes using Python pandas scripts that read Parquet files from Azure storage, calculating statistical summaries and writing results back to PostgreSQL for executive dashboard consumption.",
+        "Monitored Azure Data Factory pipeline runs through Azure Portal, investigating failures caused by schema changes in upstream source systems and adjusting column mappings to maintain data flow continuity.",
+        "Joined customer demographic data with geospatial branch location tables in PostgreSQL using PostGIS distance functions, producing reports that identified opportunities for branch consolidation in low-traffic areas.",
+        "Applied data masking techniques to credit card numbers before loading test datasets into development environments, ensuring PCI-DSS compliance requirements were met during application testing cycles.",
+        "Participated in incident response calls when overnight batch jobs missed SLA deadlines, analyzing execution logs and proposing solutions like increasing Azure Data Factory parallelism to speed up processing.",
+        "Documented ETL workflow logic in Confluence pages for compliance auditors, explaining how sensitive fields were encrypted at rest in Azure storage and describing access control mechanisms using Azure IAM roles.",
+        "Collaborated with BI developers to optimize SQL queries powering Power BI reports, rewriting subqueries and adding covering indexes to reduce load times for branch manager performance dashboards.",
+        "Tested data pipeline changes in isolated Azure environments before production deployments, running pytest validation scripts to confirm output schemas matched expectations and no data was lost during transformations."
+      ],
+      "environment": [
+        "Azure Data Lake Storage",
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure Portal",
+        "Azure IAM",
+        "PostgreSQL",
+        "PostGIS",
+        "Python",
+        "pandas",
+        "SQL",
+        "pytest",
+        "Parquet",
+        "Power BI",
+        "Confluence",
+        "PCI-DSS Compliance",
+        "Data Masking"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Transferred large volumes of transactional data from Oracle databases into Hadoop HDFS using Apache Sqoop incremental import commands, partitioning by date columns to optimize downstream MapReduce job performance.",
+        "Cleaned incoming CSV files with Python scripts that removed duplicate records and standardized date formats before loading them into Hive tables, ensuring consistency for analysts querying the data warehouse.",
+        "Scheduled Informatica PowerCenter workflows to run nightly ETL processes that extracted customer master data from multiple source systems, transformed field values, and loaded results into centralized Hive tables.",
+        "Observed Hadoop cluster resource utilization using command-line tools, reporting memory bottlenecks to infrastructure team when MapReduce jobs queued during peak processing hours.",
+        "Joined dimension tables with fact tables in Hive using HiveQL queries to produce denormalized datasets for business intelligence reporting, learning how partitioning improved query response times.",
+        "Attended team knowledge-sharing sessions where senior developers explained Hadoop architecture and HDFS replication concepts, taking notes on best practices for organizing data directory structures.",
+        "Validated ETL output by comparing row counts between source Oracle tables and target Hive tables, investigating discrepancies caused by network interruptions during Sqoop transfers.",
+        "Assisted with troubleshooting Informatica mapping failures when source data types changed unexpectedly, modifying transformation logic under guidance from experienced engineers to handle new formats."
+      ],
+      "environment": [
+        "Apache Hadoop",
+        "HDFS",
+        "Apache Hive",
+        "HiveQL",
+        "Apache Sqoop",
+        "Informatica PowerCenter",
+        "MapReduce",
+        "Python",
+        "Oracle",
+        "SQL",
+        "CSV"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

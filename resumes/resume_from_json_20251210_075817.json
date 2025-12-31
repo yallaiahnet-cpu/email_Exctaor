@@ -1,0 +1,291 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI Business Analyst & Solutions Architect",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "AI Business Analyst with 9 years of experience in designing and implementing AI frameworks that translate complex business requirements into actionable technical solutions across Healthcare, Banking, Automotive, and Consulting domains.",
+    "Utilized Dataiku platform to develop end-to-end ML pipelines that automated data preprocessing, feature engineering, and model deployment, reducing manual intervention by 80% while improving model accuracy.",
+    "Applied advanced AI architectural design principles to create scalable solutions that processed millions of healthcare records while maintaining HIPAA compliance and ensuring patient data privacy.",
+    "Facilitated stakeholder engagement workshops that identified critical business pain points and translated them into technical requirements, resulting in solutions that directly addressed organizational challenges.",
+    "Developed comprehensive analytical frameworks that combined statistical analysis with machine learning techniques to uncover hidden patterns in pharmaceutical adherence data.",
+    "Implemented Python-based AI solutions using TensorFlow and PyTorch that improved prediction accuracy for patient medication adherence by 35% compared to previous methods.",
+    "Designed MLOps workflows using Docker and Kubernetes that automated model training, testing, and deployment processes, reducing deployment time from weeks to hours.",
+    "Created data visualization dashboards using Tableau that communicated complex AI insights to non-technical stakeholders, improving decision-making processes across departments.",
+    "Established CI/CD pipelines for machine learning models that automated testing and validation processes, ensuring only high-quality models reached production environments.",
+    "Applied statistical analysis techniques to validate model insights and identify potential biases in AI systems, ensuring fair and ethical AI implementation in healthcare applications.",
+    "Collaborated with cross-functional teams including Data Engineers, AI/ML specialists, and business stakeholders to ensure alignment between technical solutions and business objectives.",
+    "Designed and implemented AI governance frameworks that established clear guidelines for model development, testing, and deployment in regulated healthcare environments.",
+    "Applied natural language processing techniques to extract valuable insights from unstructured medical records, improving patient risk stratification and care planning.",
+    "Developed custom AI solutions using AWS SageMaker that reduced prescription processing time by 40% while maintaining accuracy and regulatory compliance.",
+    "Created comprehensive documentation for AI systems that simplified complex technical concepts for business stakeholders, improving understanding and adoption rates.",
+    "Applied agile methodologies to manage AI projects, ensuring flexibility in responding to changing business requirements while maintaining project timelines and deliverables.",
+    "Designed data modeling strategies that structured healthcare data for optimal AI model performance, ensuring efficient data access and processing.",
+    "Established performance metrics and KPIs to measure the effectiveness of AI solutions, providing quantifiable evidence of business value and ROI."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "JavaScript",
+      "Java"
+    ],
+    "AI/ML Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "XGBoost",
+      "NLTK"
+    ],
+    "Data Analysis & Visualization": [
+      "Dataiku",
+      "Tableau",
+      "Power BI",
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "Cloud Platforms": [
+      "AWS SageMaker",
+      "GCP Vertex AI",
+      "Azure ML",
+      "AWS Lambda",
+      "Google Cloud Functions"
+    ],
+    "DevOps & MLOps": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab CI",
+      "GitHub Actions",
+      "Kubeflow"
+    ],
+    "Database Technologies": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Snowflake"
+    ],
+    "Business Analysis Tools": [
+      "JIRA",
+      "Confluence",
+      "Visio",
+      "Balsamiq",
+      "Lucidchart",
+      "Microsoft Power Apps"
+    ],
+    "API Development": [
+      "REST API",
+      "GraphQL",
+      "OpenAPI",
+      "Postman",
+      "Swagger",
+      "FastAPI"
+    ],
+    "Security & Authentication": [
+      "OAuth 2.0",
+      "JWT",
+      "SSL/TLS",
+      "AWS IAM",
+      "Azure AD",
+      "Okta"
+    ],
+    "Testing & Quality Assurance": [
+      "Pytest",
+      "Jest",
+      "Selenium",
+      "Cucumber",
+      "JMeter",
+      "Postman"
+    ],
+    "Statistical Analysis": [
+      "Hypothesis Testing",
+      "Regression Analysis",
+      "Time Series Analysis",
+      "A/B Testing",
+      "Bayesian Statistics",
+      "Monte Carlo Simulation"
+    ],
+    "Data Modeling": [
+      "Entity-Relationship Modeling",
+      "Dimensional Modeling",
+      "Data Vault",
+      "Schema Design",
+      "Normalization",
+      "Data Governance"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Business Analyst",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Designed comprehensive AI frameworks that translated complex pharmaceutical business requirements into actionable technical solutions, ensuring alignment with healthcare regulations and patient privacy standards.",
+        "Utilized Dataiku platform to develop end-to-end ML pipelines for prescription management systems, automating data preprocessing and feature engineering to improve medication adherence prediction accuracy.",
+        "Applied AI architectural design principles to create scalable solutions that processed millions of patient records while maintaining HIPAA compliance and ensuring data security across all systems.",
+        "Facilitated stakeholder engagement workshops with healthcare providers, pharmacists, and business executives to identify critical pain points in prescription management and medication adherence workflows.",
+        "Developed analytical models that combined statistical analysis with machine learning techniques to identify patients at high risk of medication non-adherence, enabling targeted interventions.",
+        "Implemented Python-based AI solutions using TensorFlow that improved prediction accuracy for patient medication adherence by 35% compared to previous rule-based systems.",
+        "Designed MLOps workflows using Docker and Kubernetes that automated model training, testing, and deployment processes, reducing deployment time from weeks to hours while ensuring regulatory compliance.",
+        "Created data visualization dashboards using Tableau that communicated complex AI insights to healthcare professionals, improving clinical decision-making processes and patient outcomes.",
+        "Established CI/CD pipelines for machine learning models that automated testing and validation processes, ensuring only high-quality, compliant models reached production environments.",
+        "Applied statistical analysis techniques to validate model insights and identify potential biases in AI systems, ensuring fair and ethical AI implementation in healthcare applications.",
+        "Collaborated with cross-functional teams including Data Engineers, AI/ML specialists, and healthcare providers to ensure alignment between technical solutions and clinical workflows.",
+        "Designed and implemented AI governance frameworks that established clear guidelines for model development, testing, and deployment in regulated healthcare environments.",
+        "Applied natural language processing techniques to extract valuable insights from unstructured medical records and clinical notes, improving patient risk stratification and care planning.",
+        "Developed custom AI solutions using AWS SageMaker that reduced prescription processing time by 40% while maintaining accuracy and regulatory compliance standards.",
+        "Created comprehensive documentation for AI systems that simplified complex technical concepts for healthcare stakeholders, improving understanding and adoption rates across clinical teams.",
+        "Applied agile methodologies to manage AI projects in healthcare settings, ensuring flexibility in responding to changing clinical requirements while maintaining project timelines and deliverables.",
+        "Designed data modeling strategies that structured healthcare data for optimal AI model performance, ensuring efficient data access and processing while maintaining patient privacy.",
+        "Established performance metrics and KPIs to measure the effectiveness of AI solutions in healthcare settings, providing quantifiable evidence of clinical value and improved patient outcomes."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Dataiku",
+        "AWS SageMaker",
+        "Docker",
+        "Kubernetes",
+        "Tableau",
+        "PostgreSQL",
+        "MongoDB",
+        "REST API",
+        "JIRA",
+        "Confluence",
+        "Git",
+        "CI/CD",
+        "HIPAA compliance tools",
+        "Statistical analysis software"
+      ]
+    },
+    {
+      "role": "AI Solutions Analyst",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Analyzed business requirements for AI solutions in banking fraud detection, translating complex financial regulations into technical specifications for machine learning models.",
+        "Developed predictive models using Python and scikit-learn that identified fraudulent transactions with 92% accuracy, reducing financial losses by approximately $3.2M annually.",
+        "Created data visualization dashboards using Power BI that presented fraud detection insights to non-technical stakeholders, improving response times to emerging fraud patterns.",
+        "Implemented MLOps practices using Docker and Jenkins that automated model retraining processes based on new fraud patterns, ensuring models remained effective against evolving threats.",
+        "Applied statistical analysis techniques to validate model performance across different customer segments, ensuring fair and unbiased fraud detection algorithms.",
+        "Collaborated with compliance teams to ensure AI solutions adhered to banking regulations including GDPR, CCPA, and financial industry standards.",
+        "Designed data pipelines using Apache Spark that processed millions of daily transactions while maintaining data integrity and security standards required in banking.",
+        "Developed natural language processing solutions that analyzed customer communications to identify potential fraud indicators, improving detection capabilities by 25%.",
+        "Created comprehensive documentation for AI systems that simplified complex technical concepts for banking stakeholders, ensuring regulatory compliance and audit readiness.",
+        "Applied agile methodologies to manage AI projects in banking environments, ensuring flexibility in responding to changing regulatory requirements while maintaining project timelines.",
+        "Established performance metrics and KPIs to measure the effectiveness of AI solutions in fraud detection, providing quantifiable evidence of financial value and risk reduction.",
+        "Designed API integrations that connected AI models with existing banking systems, ensuring seamless implementation and minimal disruption to current workflows.",
+        "Applied feature engineering techniques to extract meaningful signals from transaction data, improving model performance and reducing false positive rates by 30%.",
+        "Developed model explainability frameworks that provided clear reasoning for fraud detection decisions, satisfying regulatory requirements for transparency in AI systems.",
+        "Created automated testing procedures that validated model performance against historical fraud patterns, ensuring consistent and reliable detection capabilities."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "TensorFlow",
+        "Apache Spark",
+        "Power BI",
+        "Docker",
+        "Jenkins",
+        "PostgreSQL",
+        "MongoDB",
+        "REST API",
+        "JIRA",
+        "Git",
+        "AWS",
+        "Statistical analysis software",
+        "Banking compliance tools"
+      ]
+    },
+    {
+      "role": "Data Analyst & AI Specialist",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Analyzed vehicle sensor data to develop predictive maintenance models that identified potential component failures before they occurred, reducing warranty costs by 18%.",
+        "Applied machine learning techniques using Python and TensorFlow to create anomaly detection systems for manufacturing quality control, improving defect detection rates by 27%.",
+        "Developed data visualization dashboards using Tableau that presented vehicle performance insights to engineering teams, accelerating problem identification and resolution.",
+        "Designed data pipelines using Apache Kafka that processed real-time telemetry data from connected vehicles, enabling immediate response to critical system issues.",
+        "Collaborated with automotive engineers to translate technical requirements into data analysis specifications, ensuring alignment between business needs and analytical solutions.",
+        "Applied statistical analysis techniques to validate model predictions against historical vehicle performance data, ensuring reliability and accuracy of predictive maintenance systems.",
+        "Created documentation for AI systems that explained complex technical concepts to automotive stakeholders, improving understanding and adoption of data-driven approaches.",
+        "Implemented automated testing procedures that validated model performance across different vehicle models and driving conditions, ensuring consistent and reliable predictions.",
+        "Designed feature engineering processes that extracted meaningful signals from raw sensor data, improving model performance and reducing false positive rates.",
+        "Developed natural language processing solutions that analyzed customer feedback and warranty claims to identify emerging quality issues, enabling proactive responses.",
+        "Applied agile methodologies to manage data analysis projects in automotive environments, ensuring flexibility in responding to changing engineering requirements.",
+        "Established performance metrics to measure the effectiveness of predictive maintenance models, providing quantifiable evidence of cost savings and quality improvements.",
+        "Created API integrations that connected analytical models with existing manufacturing systems, ensuring seamless implementation and minimal disruption to current workflows."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "Apache Spark",
+        "Apache Kafka",
+        "Tableau",
+        "PostgreSQL",
+        "MongoDB",
+        "REST API",
+        "JIRA",
+        "Git",
+        "AWS",
+        "Statistical analysis software",
+        "Vehicle diagnostic tools"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed complex SQL queries and stored procedures that extracted and transformed data from multiple sources for business intelligence reporting, improving data access efficiency by 40%.",
+        "Designed and optimized database schemas that supported high-volume transaction processing systems, ensuring data integrity and performance under heavy load conditions.",
+        "Created data validation procedures that identified and corrected inconsistencies in financial data, improving data quality and reliability for downstream analysis.",
+        "Collaborated with business analysts to understand reporting requirements and translate them into technical specifications for data extraction and transformation processes.",
+        "Implemented indexing strategies that improved query performance by 60%, enabling faster report generation and more responsive business intelligence applications.",
+        "Developed ETL processes using SQL Server Integration Services (SSIS) that automated data loading from source systems to data warehouses, reducing manual intervention by 75%.",
+        "Created documentation for database structures and SQL procedures, ensuring knowledge transfer and enabling efficient maintenance and troubleshooting.",
+        "Applied performance tuning techniques to optimize slow-running queries, reducing report generation time from hours to minutes for critical business reports.",
+        "Designed data archiving strategies that maintained historical data while ensuring optimal performance of transactional systems, complying with data retention policies.",
+        "Participated in code reviews to ensure adherence to database development standards and best practices, improving overall code quality and maintainability."
+      ],
+      "environment": [
+        "SQL",
+        "T-SQL",
+        "PL/SQL",
+        "SQL Server",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "SSIS",
+        "SSRS",
+        "ETL tools",
+        "Database design tools",
+        "Version control"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

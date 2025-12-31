@@ -1,0 +1,346 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Platform Engineer - Databricks & AWS Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-scale cloud data platforms using Databricks, PySpark, and AWS for analytics, data engineering, and machine learning workloads across Insurance, Healthcare, and Banking domains.",
+    "Designed and deployed Delta Lake architectures with ACID transactions and time travel capabilities to ensure data reliability while processing millions of insurance claim records daily using PySpark transformations on Databricks workspaces.",
+    "Built end-to-end ETL pipelines using Delta Live Tables and Unity Catalog governance frameworks to enforce data quality rules across healthcare datasets, reducing data inconsistencies and improving downstream analytics accuracy for clinical reporting.",
+    "Configured AWS VPC architectures with private subnets, VPC endpoints, and route tables to establish secure network connectivity between Databricks clusters and S3 storage layers while maintaining strict HIPAA compliance for patient data processing workflows.",
+    "Implemented CI/CD automation pipelines using GitHub Actions to validate PySpark notebooks, run data quality tests, and deploy Delta Live Tables workflows across development, staging, and production Databricks environments without manual intervention.",
+    "Optimized Databricks SQL queries and Delta table storage layouts through Z-ordering and partition pruning techniques to accelerate financial transaction analysis workloads, cutting query execution times from hours to minutes for banking compliance reports.",
+    "Established IAM role policies and cross-account access patterns to enable secure data sharing between AWS accounts while maintaining least-privilege security principles for multi-tenant Databricks deployments serving different business units.",
+    "Automated infrastructure provisioning using Terraform scripts to deploy Databricks workspaces, configure cluster policies, and set up Unity Catalog metastores across AWS regions, ensuring consistent platform configurations and reducing manual setup errors.",
+    "Developed distributed data processing jobs with PySpark and Spark Structured Streaming to handle real-time insurance claim events from Kafka topics, transforming raw JSON payloads into Delta tables with schema enforcement and exactly-once processing guarantees.",
+    "Monitored cluster performance metrics using CloudWatch dashboards and Datadog integrations to identify bottlenecks in ETL workflows, adjusting executor memory configurations and shuffle partitions to improve throughput for nightly batch processing jobs.",
+    "Created Medallion architecture patterns with Bronze, Silver, and Gold Delta layers to organize healthcare data pipelines, establishing clear data transformation stages from raw ingestion through curated analytics-ready datasets for business intelligence teams.",
+    "Troubleshot Delta Lake merge operations and optimized file compaction schedules to resolve small file problems affecting query performance, working closely with data architects to establish best practices for incremental data loading patterns.",
+    "Validated data lineage and column-level encryption configurations within Unity Catalog to meet PCI-DSS requirements for credit card transaction data, coordinating with security teams to audit access logs and ensure regulatory compliance before production releases.",
+    "Integrated Databricks Repos with Git version control workflows to enable collaborative notebook development, establishing branching strategies and pull request reviews that improved code quality and reduced deployment failures across data engineering teams.",
+    "Documented data pipeline architectures and operational runbooks for Databricks job orchestration, creating technical guides that helped onboard new engineers and standardized development practices across distributed teams in Agile sprints.",
+    "Collaborated with ML teams to build feature engineering pipelines using Delta tables as training data sources, ensuring reproducible model inputs through Delta time travel queries that retrieve historical snapshots for model retraining experiments.",
+    "Tuned Databricks cluster autoscaling policies and spot instance configurations to balance cost efficiency with job completion SLAs, reducing monthly AWS compute expenses while maintaining reliable execution windows for insurance regulatory reporting deadlines.",
+    "Participated in code reviews and troubleshooting sessions to debug PySpark logic errors and optimize join strategies, sharing knowledge with junior engineers about broadcast joins, salting techniques, and partition skew mitigation approaches for large-scale datasets."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "R"
+    ],
+    "Big Data & Processing Frameworks": [
+      "PySpark",
+      "Apache Spark",
+      "Spark Structured Streaming",
+      "Apache Kafka",
+      "Apache Hadoop",
+      "Hive",
+      "MapReduce"
+    ],
+    "Databricks Platform": [
+      "Databricks Workspaces",
+      "Databricks Repos",
+      "Databricks Jobs",
+      "Databricks SQL",
+      "Delta Lake",
+      "Delta Live Tables (DLT)",
+      "Unity Catalog",
+      "Cluster Policies"
+    ],
+    "AWS Cloud Services": [
+      "Amazon S3",
+      "AWS VPC",
+      "Subnets",
+      "VPC Endpoints",
+      "Route Tables",
+      "IAM Roles/Policies",
+      "AWS Glue",
+      "AWS Lambda",
+      "Amazon EC2",
+      "AWS CloudWatch",
+      "AWS Secrets Manager"
+    ],
+    "Data Engineering & ETL": [
+      "ETL/ELT Pipelines",
+      "Delta Lake Optimization",
+      "Data Quality Frameworks",
+      "Medallion Architecture",
+      "Schema Evolution",
+      "Incremental Loading",
+      "CDC Patterns"
+    ],
+    "DevOps & CI/CD": [
+      "GitHub Actions",
+      "Git",
+      "Docker",
+      "Terraform",
+      "Infrastructure as Code",
+      "Jenkins",
+      "Automated Testing"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "Amazon S3",
+      "Delta Lake",
+      "Snowflake",
+      "AWS RDS",
+      "MongoDB"
+    ],
+    "Orchestration & Workflow": [
+      "Apache Airflow",
+      "AWS Step Functions",
+      "Databricks Jobs",
+      "Delta Live Tables"
+    ],
+    "Monitoring & Observability": [
+      "AWS CloudWatch",
+      "Datadog",
+      "Prometheus",
+      "Grafana",
+      "Databricks Metrics"
+    ],
+    "Data Governance & Security": [
+      "Unity Catalog",
+      "IAM Policies",
+      "Column-level Encryption",
+      "Data Lineage",
+      "HIPAA Compliance",
+      "PCI-DSS Standards"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "Git",
+      "Linux/CLI"
+    ],
+    "Methodologies": [
+      "Agile",
+      "Scrum",
+      "CI/CD Practices",
+      "Performance Tuning",
+      "Cost Optimization",
+      "Technical Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect Delta Lake storage layers with ACID transactions and time travel features to process insurance claim records using PySpark, ensuring data consistency across distributed Databricks clusters while supporting rollback capabilities for compliance audits.",
+        "Integrate Unity Catalog governance policies to enforce row-level security and column masking rules on policyholder data stored in S3 buckets, coordinating with compliance teams to validate access controls meet insurance regulatory requirements for data privacy.",
+        "Configure AWS VPC private subnets and VPC endpoints to establish secure network paths between Databricks workspaces and S3 storage, eliminating public internet traffic and reducing security risks for processing sensitive customer information in claims processing pipelines.",
+        "Automate Delta Live Tables workflows through GitHub Actions pipelines to validate schema changes and run data quality checks before deploying PySpark transformations to production, catching issues early and preventing downstream analytics failures during nightly batch runs.",
+        "Prototype multi-agent systems using LangGraph frameworks to build proof-of-concept solutions for automated claim routing, where agent-to-agent communication patterns analyze claim documents and trigger workflow decisions based on policy coverage rules and damage assessments.",
+        "Refactor legacy ETL jobs into modular PySpark applications organized in Databricks Repos, establishing Git branching strategies and code review processes that improve collaboration across data engineering teams working on shared insurance analytics pipelines.",
+        "Tune Databricks cluster configurations by adjusting executor memory settings and autoscaling policies to handle peak claim submission volumes during storm seasons, balancing job completion times with AWS compute costs while meeting strict processing deadline SLAs.",
+        "Troubleshoot Delta merge operation performance bottlenecks caused by small file accumulation, running optimize and vacuum commands to compact storage and remove old versions, which improved query speeds for actuarial teams analyzing historical claim patterns.",
+        "Construct Medallion architecture data flows with Bronze, Silver, and Gold Delta layers to organize raw claim intake through standardized processing stages, creating clear transformation logic that makes it easier for analysts to understand data lineage and trust reporting outputs.",
+        "Test Model Context Protocol integrations in experimental agent workflows to enable external tool access during claim evaluation processes, documenting findings and implementation challenges for future production considerations as technology matures in insurance applications.",
+        "Collaborate with DevOps engineers to define Terraform modules for provisioning Databricks workspaces and configuring IAM cross-account roles, standardizing infrastructure setup patterns that reduce deployment time when launching new analytics environments for different insurance product lines.",
+        "Debug PySpark job failures traced to skewed partition distributions in claim transaction datasets, applying salting techniques and repartitioning strategies to evenly distribute workload across executors and eliminate straggler tasks that delay batch completion windows.",
+        "Document Delta Live Tables pipeline architectures and create operational runbooks for on-call engineers, explaining data flow dependencies and retry mechanisms so teams can quickly resolve incidents during off-hours without escalating every issue to senior developers.",
+        "Validate data quality rules embedded in Delta Live Tables expectations to catch missing fields and invalid claim amounts before records enter downstream systems, preventing bad data from reaching actuarial models and reducing manual correction efforts.",
+        "Attend daily standups and sprint planning sessions to discuss pipeline development progress with product owners and data scientists, clarifying technical constraints around Delta Lake capabilities and helping prioritize features that deliver business value for claim analytics initiatives.",
+        "Explore proof-of-concept implementations of agent orchestration frameworks to assess feasibility for automating underwriting decisions, running experiments that test agent reasoning accuracy against historical claim outcomes and identifying gaps that require human oversight before production readiness."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Databricks Workspaces",
+        "Databricks Repos",
+        "Databricks Jobs",
+        "Delta Lake",
+        "Delta Live Tables",
+        "Unity Catalog",
+        "Databricks SQL",
+        "AWS VPC",
+        "Subnets",
+        "VPC Endpoints",
+        "Route Tables",
+        "IAM Roles",
+        "Amazon S3",
+        "GitHub Actions",
+        "Git",
+        "Terraform",
+        "CloudWatch",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Docker",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Delta Lake pipelines with PySpark to ingest patient record datasets from clinical systems into S3, implementing ACID transactions and schema enforcement to maintain HIPAA-compliant data integrity across healthcare analytics workflows spanning multiple hospitals.",
+        "Established Unity Catalog metastore configurations to manage access controls and audit logs for sensitive patient information, working with security teams to define attribute-based policies that restricted PHI visibility to authorized healthcare analysts and research teams only.",
+        "Deployed Databricks SQL dashboards to visualize patient outcome metrics and treatment effectiveness statistics, connecting Delta tables to BI tools and enabling physicians to query aggregated health data without writing code or accessing raw patient identifiers directly.",
+        "Maintained CI/CD pipelines using GitHub Actions to test PySpark notebook changes and deploy Delta Live Tables workflows across multiple AWS environments, reducing manual deployment errors and accelerating release cycles for healthcare analytics feature updates requested by stakeholders.",
+        "Constructed proof-of-concept applications using LangChain frameworks to explore automated patient triage workflows, chaining together document parsing agents and decision logic to categorize incoming medical forms based on urgency levels and route them to appropriate care teams.",
+        "Optimized Databricks cluster sizing and spot instance usage to lower AWS compute expenses for nightly ETL jobs processing electronic health records, analyzing CloudWatch metrics to identify idle resources and adjusting autoscaling thresholds to match actual workload patterns.",
+        "Collaborated with healthcare data architects to design Medallion architecture patterns organizing patient data through Bronze ingestion, Silver cleansing, and Gold aggregation layers, ensuring consistent data transformation logic and simplifying downstream reporting for regulatory submissions.",
+        "Investigated Delta table query performance issues caused by inefficient join operations on large patient encounter datasets, applying broadcast hints and Z-ordering techniques to speed up queries used by clinical researchers analyzing treatment outcomes and medication effectiveness.",
+        "Configured AWS VPC networking with private subnets and VPC endpoints to route Databricks cluster traffic through secure network paths, eliminating public internet exposure for patient data transfers between S3 storage and compute resources during processing jobs.",
+        "Resolved schema evolution conflicts in Delta tables when clinical systems introduced new data fields mid-project, coordinating with upstream teams to manage column additions gracefully and updating PySpark transformation logic to handle both old and new record formats seamlessly.",
+        "Participated in Agile sprint ceremonies to discuss ETL pipeline development progress, clarifying technical blockers related to Delta Lake capabilities and helping product owners prioritize features that enabled faster delivery of healthcare analytics insights to business users.",
+        "Reviewed PySpark code submitted by junior engineers, providing feedback on dataframe optimization techniques and suggesting improvements to reduce shuffle operations that were causing memory pressure and job failures in production healthcare data processing workflows.",
+        "Experimented with multi-agent system designs using Crew AI and AutoGen frameworks to prototype intelligent document extraction tools for clinical trial data, testing agent coordination patterns and documenting lessons learned about reliability challenges in healthcare automation use cases.",
+        "Monitored Delta Live Tables pipeline execution metrics through Databricks UI and CloudWatch dashboards, setting up alerts for data quality check failures and coordinating with data stewards to investigate root causes when patient record validation rules detected anomalies in source systems."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Databricks Workspaces",
+        "Databricks Repos",
+        "Databricks Jobs",
+        "Delta Lake",
+        "Delta Live Tables",
+        "Unity Catalog",
+        "Databricks SQL",
+        "AWS S3",
+        "AWS VPC",
+        "IAM Roles",
+        "VPC Endpoints",
+        "GitHub Actions",
+        "Git",
+        "Terraform",
+        "CloudWatch",
+        "LangChain",
+        "Crew AI",
+        "AutoGen",
+        "Docker",
+        "HIPAA Compliance",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Migrated legacy healthcare data pipelines to Azure Databricks platform using PySpark, transforming monolithic SQL Server ETL workflows into distributed Delta Lake processing jobs that improved throughput for Medicaid eligibility determination and claims adjudication reporting.",
+        "Configured Azure Data Factory orchestration to schedule Databricks notebook executions and coordinate data movement between Azure Blob Storage and Delta tables, establishing dependencies that ensured upstream data availability before triggering downstream transformation jobs for state health programs.",
+        "Applied Z-ordering and data skipping techniques to optimize Delta table layouts storing patient enrollment records, reducing query response times for state healthcare analysts who needed to generate monthly reports on program participation and benefit utilization across Maine counties.",
+        "Secured patient health information by configuring Azure Active Directory integration with Databricks workspaces and implementing row-level security policies through table access controls, ensuring HIPAA compliance and restricting PHI visibility to authorized state employees only.",
+        "Coordinated with state IT teams to establish Azure VNet peering and private endpoints connecting Databricks clusters to on-premise healthcare systems, maintaining secure data transfer channels that met government security standards for transmitting Medicaid beneficiary information.",
+        "Standardized PySpark coding patterns and created reusable libraries for common data validation tasks, documenting best practices in Git repositories that helped state contractors and internal developers maintain consistency across multiple healthcare analytics projects running concurrently.",
+        "Tuned Databricks cluster autoscaling configurations to accommodate unpredictable workload spikes during open enrollment periods, adjusting minimum node counts and scale-down delays to balance cost efficiency with job reliability for time-sensitive state reporting obligations.",
+        "Resolved data quality issues in upstream Medicaid claims feeds by implementing Delta Live Tables expectations that rejected malformed records and generated exception reports, collaborating with data stewards to trace errors back to source systems and improve data entry procedures.",
+        "Attended weekly status meetings with state program managers to review analytics pipeline development progress, explaining technical constraints around Azure platform capabilities and clarifying timelines for delivering new reporting features requested by public health officials.",
+        "Analyzed CloudWatch equivalent metrics in Azure Monitor to identify Databricks job bottlenecks, discovering inefficient shuffle operations in PySpark joins that were delaying nightly batch processing and reworking query logic to reduce data movement across cluster nodes.",
+        "Documented Azure infrastructure architecture diagrams and operational procedures for state IT staff who would support Databricks environment after project transition, conducting knowledge transfer sessions that covered troubleshooting common issues and understanding data pipeline dependencies.",
+        "Evaluated machine learning feature requirements with public health researchers, designing Delta table schemas optimized for time-series analysis of vaccination rates and disease surveillance metrics used in state health policy decision-making and federal reporting submissions."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Azure Databricks",
+        "Delta Lake",
+        "Delta Live Tables",
+        "Azure Data Factory",
+        "Azure Blob Storage",
+        "Azure Active Directory",
+        "Azure VNet",
+        "Azure Monitor",
+        "SQL Server",
+        "Git",
+        "HIPAA Compliance",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Processed credit card transaction datasets using PySpark on Azure Databricks to identify fraudulent activity patterns, applying anomaly detection algorithms and generating risk scores that helped fraud prevention teams prioritize investigations on high-value suspicious transactions.",
+        "Stored cleansed financial transaction records in Delta Lake tables with partition strategies based on transaction dates, enabling fast retrieval for compliance audits and regulatory reporting while maintaining PCI-DSS encryption standards for cardholder data at rest.",
+        "Coordinated with data governance teams to implement column-level masking policies in Azure Databricks, restricting access to sensitive account numbers and customer identifiers so only authorized analysts could view complete transaction details during fraud analysis workflows.",
+        "Tracked model performance metrics by querying Delta tables containing historical prediction results, comparing fraud detection accuracy across different time periods and identifying model drift issues that required retraining machine learning classifiers with recent transaction samples.",
+        "Joined transaction fact tables with customer dimension tables stored in Azure SQL Database using PySpark broadcast joins, optimizing query execution plans to support real-time dashboards that displayed fraud alert summaries for bank security operations center teams.",
+        "Participated in cross-functional meetings with fraud analysts and application developers to discuss data pipeline requirements, gathering feedback on feature engineering needs and clarifying technical feasibility of integrating new data sources into existing Databricks analytics workflows.",
+        "Cleaned merchant category code inconsistencies in raw transaction feeds by standardizing values through PySpark transformations, improving data quality for downstream models that relied on accurate merchant classifications to detect unusual spending patterns indicating compromised cards.",
+        "Configured Azure Data Factory pipelines to incrementally load new transaction batches into Delta tables every hour, implementing checkpointing logic that tracked processed records and prevented duplicate entries during ingestion failures or pipeline retries.",
+        "Validated PCI-DSS compliance requirements by working with security architects to audit data access logs and encryption configurations in Azure Databricks workspaces, ensuring cardholder data handling procedures met banking industry standards during internal security assessments.",
+        "Analyzed Azure Monitor telemetry to diagnose slow-running PySpark jobs processing daily transaction volumes, discovering partition skew problems where single executors handled disproportionate data amounts and applying salting techniques to distribute load more evenly across cluster nodes."
+      ],
+      "environment": [
+        "PySpark",
+        "Python",
+        "Azure Databricks",
+        "Delta Lake",
+        "Azure Data Factory",
+        "Azure Blob Storage",
+        "Azure SQL Database",
+        "Azure Monitor",
+        "Git",
+        "Scikit-Learn",
+        "Pandas",
+        "PCI-DSS Compliance",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Transferred client business data from Oracle databases to Hadoop HDFS using Sqoop import commands, scheduling incremental data pulls that captured daily changes and populated Hive tables used by analytics teams for generating operational reports and business intelligence dashboards.",
+        "Transformed raw data files using Informatica PowerCenter workflows, applying business rules and data type conversions before loading processed records into Hadoop ecosystem, supporting downstream MapReduce jobs that aggregated metrics for consulting client deliverables.",
+        "Assisted senior engineers with troubleshooting Sqoop connection failures and Hive query errors, learning debugging techniques by reviewing log files and gradually taking ownership of simpler data pipeline components as skills improved through hands-on project work.",
+        "Verified data accuracy by comparing record counts between source Oracle tables and target Hive tables after Sqoop imports, running SQL validation queries to identify discrepancies and coordinating with DBAs to resolve data sync issues before client reporting deadlines.",
+        "Attended team meetings to discuss project status and technical challenges, listening to experienced engineers explain architectural decisions around Hadoop cluster sizing and Informatica job scheduling strategies that informed learning about enterprise data engineering practices.",
+        "Learned Hadoop ecosystem components including HDFS storage architecture, Hive query optimization, and MapReduce programming concepts through mentorship from lead engineers who reviewed code and provided guidance on best practices for processing large datasets efficiently.",
+        "Documented Informatica workflow logic and Sqoop command syntax in shared knowledge base articles, creating reference materials that helped other team members understand data pipeline configurations and reduced repetitive questions during project onboarding.",
+        "Collaborated with offshore teams across time zones to coordinate data pipeline deployments, participating in handoff calls where engineers explained completed work and identified outstanding issues requiring attention during next shift coverage."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "MapReduce",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "Oracle",
+        "SQL",
+        "Linux",
+        "Shell Scripting",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

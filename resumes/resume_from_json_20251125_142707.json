@@ -1,0 +1,294 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AWS Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering with specialized expertise in AWS cloud services, Spark optimization, and large-scale data pipeline development across insurance, healthcare, and financial domains.",
+    "Mastered PySpark performance tuning by applying Catalyst optimizer techniques and Tungsten engine optimizations to reduce data processing times by 40% while handling petabytes of insurance claim data for regulatory compliance reporting.",
+    "Deployed AWS EMR clusters with auto-scaling configurations and instance fleets that dynamically adjusted compute capacity based on workload demands, achieving 35% cost savings while maintaining SLA requirements.",
+    "Constructed real-time streaming pipelines using Spark Structured Streaming with Kinesis Data Streams that processed 50,000+ events per second with exactly-once processing semantics for critical healthcare data ingestion.",
+    "Formulated data lake architectures on S3 with Lake Formation governance policies and Glue Catalog integration, enabling secure cross-account data sharing while maintaining HIPAA and PCI-DSS compliance standards.",
+    "Administered Redshift data warehouses with Spectrum integration for querying data directly from S3, optimizing storage costs by 60% through intelligent partitioning and compression strategies for analytical workloads.",
+    "Operated AWS Glue ETL jobs with DPU optimization and worker type selection, reducing job runtimes by 45% through proper memory tuning and dynamic allocation configuration for insurance data processing.",
+    "Assembled dimensional data models using star and snowflake schemas with SCD Type 2 implementations that supported historical tracking of customer interactions across banking and insurance domains.",
+    "Programmed Apache Iceberg table formats with compaction procedures and Z-ordering optimizations that improved query performance by 55% for analytical workloads on the data lakehouse architecture.",
+    "Chaired data governance initiatives implementing data contracts and quality frameworks that reduced data incidents by 70% while establishing clear ownership boundaries across enterprise data products.",
+    "Directed multi-agent AI systems using Crew AI and LangGraph for automated data quality monitoring and anomaly detection, reducing manual validation efforts by 80% across insurance data pipelines.",
+    "Calculated cost-optimization strategies for AWS data services through right-sizing recommendations and spot instance utilization, achieving annual savings of $250K while maintaining performance SLAs.",
+    "Supervised junior data engineers through code reviews and architecture discussions, fostering skills in Spark optimization and AWS service integration while maintaining project delivery timelines.",
+    "Negotiated technical requirements with business stakeholders to balance data architecture purity with practical delivery constraints, ensuring solutions met both technical and business objectives.",
+    "Performed root cause analysis on production data pipeline failures using CloudWatch metrics and X-Ray tracing, identifying optimization opportunities that improved system reliability by 90%.",
+    "Quantified data pipeline performance through comprehensive monitoring dashboards and alerting mechanisms that provided real-time visibility into data quality and processing bottlenecks.",
+    "Synthesized technical documentation and architecture decision records that facilitated knowledge transfer and ensured consistent implementation patterns across engineering teams.",
+    "Visualized data lineage and dependency mapping using AWS Glue workflows and custom metadata tracking, enabling impact analysis for schema changes across 200+ data assets."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Java",
+      "Bash/Shell"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Spark SQL",
+      "Spark Structured Streaming",
+      "Hive",
+      "Flink",
+      "Hadoop"
+    ],
+    "AWS Services": [
+      "EMR",
+      "Lambda",
+      "S3",
+      "Lake Formation",
+      "Glue Catalog",
+      "Kinesis",
+      "MSK",
+      "Redshift",
+      "DMS",
+      "Glue",
+      "Athena"
+    ],
+    "Data Optimization": [
+      "Catalyst Optimizer",
+      "Tungsten Engine",
+      "AQE",
+      "Broadcast Joins",
+      "Partitioning",
+      "Caching",
+      "Parquet Compression"
+    ],
+    "Data Modeling": [
+      "Dimensional Modeling",
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Vault",
+      "OLAP",
+      "SCD Implementations"
+    ],
+    "Orchestration": [
+      "Airflow",
+      "MWAA",
+      "Step Functions",
+      "Glue Workflows"
+    ],
+    "Infrastructure": [
+      "Terraform",
+      "CloudFormation",
+      "CDK",
+      "CodePipeline",
+      "Git"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "DynamoDB",
+      "Oracle",
+      "SQL Server"
+    ],
+    "File Formats": [
+      "Parquet",
+      "Avro",
+      "ORC",
+      "JSON",
+      "CSV"
+    ],
+    "Lakehouse": [
+      "Iceberg",
+      "Delta Lake",
+      "Apache Hudi"
+    ],
+    "Streaming": [
+      "Kafka",
+      "Kinesis Streams",
+      "Kinesis Firehose",
+      "Structured Streaming"
+    ],
+    "Monitoring": [
+      "CloudWatch",
+      "X-Ray",
+      "OpenSearch"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architected enterprise-scale data pipelines using PySpark and AWS EMR that processed 5TB of daily insurance claim data while optimizing wide shuffles and eliminating unnecessary joins through careful DAG analysis.",
+        "Orchestrated multi-agent AI systems with Crew AI and LangGraph for automated data quality validation, implementing Model Context Protocol for agent-to-agent communication that reduced manual checks by 75%.",
+        "Engineered Spark performance tuning strategies using Catalyst optimizer configurations and Tungsten engine memory management that improved data processing efficiency by 40% for insurance risk assessment models.",
+        "Spearheaded migration from traditional data warehouses to lakehouse architecture using Apache Iceberg with compaction procedures that enhanced query performance by 55% for analytical reporting.",
+        "Pioneered real-time streaming solutions with Spark Structured Streaming and Kinesis Data Streams, implementing watermarking and checkpointing for exactly-once processing of insurance transaction data.",
+        "Strategized data mesh implementation with domain-oriented data products, establishing clear ownership boundaries and data contracts that improved data quality metrics across 15 business domains.",
+        "Optimized EMR cluster configurations with autoscaling policies and instance fleet diversification that achieved 35% cost reduction while maintaining 99.9% availability for critical data pipelines.",
+        "Revolutionized data ingestion patterns using AWS Glue with custom connectors and transformation scripts that standardized ETL processes across 200+ insurance data sources.",
+        "Transformed legacy batch processing systems to real-time architectures with Kinesis Firehose and Lambda transformations, reducing data latency from hours to seconds for claim processing.",
+        "Automated data pipeline deployment using Terraform and CodePipeline that enabled zero-downtime deployments and rollback capabilities for production insurance data systems.",
+        "Standardized data storage formats with Parquet compression and predicate pushdown optimizations that reduced storage costs by 60% while improving query performance for analytical workloads.",
+        "Scaled data processing capabilities to handle seasonal insurance claim spikes through dynamic EMR cluster resizing and spot instance utilization that maintained performance during 300% workload increases.",
+        "Migrated on-premise Hadoop workloads to AWS EMR with careful dependency mapping and incremental cutover strategies that completed the transition 30% ahead of schedule.",
+        "Consolidated disparate data marts into centralized data lake with Lake Formation governance, enabling secure data sharing while maintaining strict access controls for sensitive insurance data.",
+        "Enhanced data quality frameworks with automated validation rules and anomaly detection that identified 95% of data issues before impacting downstream insurance applications.",
+        "Streamlined CI/CD processes for data pipelines with comprehensive testing frameworks and environment promotion procedures that reduced deployment failures by 80%."
+      ],
+      "environment": [
+        "PySpark",
+        "AWS EMR",
+        "Crew AI",
+        "LangGraph",
+        "Apache Iceberg",
+        "Spark Structured Streaming",
+        "Kinesis",
+        "AWS Glue",
+        "Terraform",
+        "Lake Formation",
+        "Parquet",
+        "CodePipeline"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Designed healthcare data processing systems using PySpark and AWS Glue that handled PHI data with HIPAA-compliant encryption and access controls, ensuring patient privacy throughout data lifecycle.",
+        "Developed real-time streaming pipelines with Kinesis Data Analytics for Flink that processed clinical trial data with sub-second latency, enabling immediate insights for research teams.",
+        "Configured AWS MSK clusters with VPC networking and security groups that provided secure Kafka messaging for healthcare data integration across multiple research facilities.",
+        "Deployed data warehouse solutions using Redshift with Spectrum integration that enabled querying of historical patient data directly from S3, reducing analytical query times by 50%.",
+        "Integrated data from 15+ clinical systems using DMS with ongoing replication and change data capture that maintained data consistency across research and analytics environments.",
+        "Refined Spark performance through adaptive query execution and dynamic partition pruning that optimized healthcare data processing while reducing compute costs by 25%.",
+        "Improved data modeling practices with dimensional modeling techniques and conformed dimensions that standardized patient data representation across analytical reporting.",
+        "Accelerated ETL processing times by implementing broadcast joins and salting techniques for skewed healthcare datasets, eliminating data processing bottlenecks in critical paths.",
+        "Modernized legacy healthcare data systems by containerizing applications with ECS and implementing microservices architecture that improved deployment flexibility and scalability.",
+        "Leveraged AWS Step Functions for complex workflow orchestration that coordinated data processing across multiple healthcare systems with built-in error handling and retry logic.",
+        "Established data governance frameworks with Macie for sensitive data discovery and GuardDuty for threat monitoring that enhanced security posture for healthcare data assets.",
+        "Coordinated cross-functional teams to implement data quality monitoring with OpenSearch dashboards that provided real-time visibility into healthcare data pipeline health.",
+        "Facilitated knowledge transfer sessions and architecture reviews that improved team capabilities in AWS data services and Spark optimization techniques.",
+        "Validated data pipeline outputs through comprehensive testing frameworks and reconciliation procedures that ensured accuracy for critical healthcare analytics and reporting."
+      ],
+      "environment": [
+        "PySpark",
+        "AWS Glue",
+        "Kinesis",
+        "MSK",
+        "Redshift",
+        "DMS",
+        "ECS",
+        "Step Functions",
+        "Macie",
+        "GuardDuty",
+        "OpenSearch",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Implemented Azure Data Factory pipelines with Databricks integration that processed public health data while maintaining HIPAA compliance through encryption and access controls.",
+        "Customized Spark cluster configurations in Azure Databricks with optimized worker node types and autoscaling policies that handled variable public health reporting workloads efficiently.",
+        "Maintained data processing systems for COVID-19 tracking and reporting, ensuring data accuracy and timeliness for public health decision-making and resource allocation.",
+        "Troubleshooted performance issues in Spark streaming jobs by analyzing executor memory usage and adjusting partition sizes, resolving chronic stability problems in production.",
+        "Debugged data quality issues in healthcare datasets by implementing data validation frameworks and anomaly detection that identified inconsistencies in public health reporting.",
+        "Upgraded legacy Azure data pipelines to use Delta Lake format with Z-ordering optimizations that improved query performance for epidemiological analysis and reporting.",
+        "Migrated on-premise SQL Server databases to Azure Synapse Analytics with minimal downtime, implementing incremental data loading strategies for continuous availability.",
+        "Documented data architecture decisions and implementation patterns that facilitated knowledge sharing across public health IT teams and ensured consistent solution delivery.",
+        "Tested data pipeline resilience through fault injection and recovery procedures that validated system behavior under various failure scenarios in healthcare data processing.",
+        "Analyzed query performance in Azure Synapse using execution plans and resource utilization metrics, identifying optimization opportunities that reduced costs by 30%.",
+        "Reviewed code contributions from junior team members, providing constructive feedback on Spark best practices and Azure data service integration patterns.",
+        "Assembled monitoring dashboards in Azure Monitor that tracked data pipeline health and data quality metrics, enabling proactive issue identification for public health systems."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Databricks",
+        "Delta Lake",
+        "Azure Synapse",
+        "SQL Server",
+        "Spark",
+        "HIPAA Compliance",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Built financial fraud detection models using PySpark and MLlib that analyzed transaction patterns in real-time, reducing false positives by 40% while maintaining detection accuracy.",
+        "Created data processing pipelines with Azure HDInsight that transformed raw financial transaction data into features for machine learning models with PCI-DSS compliant encryption.",
+        "Supported regulatory reporting requirements by developing data aggregation pipelines that compiled transaction data from multiple banking systems with complete audit trails.",
+        "Assisted in the design of customer segmentation models using clustering algorithms that identified distinct customer behavior patterns for targeted marketing campaigns.",
+        "Prepared data for compliance reporting by implementing data validation checks and reconciliation procedures that ensured accuracy for financial regulatory submissions.",
+        "Organized data science workflows with Azure Machine Learning pipelines that automated model training and deployment processes for fraud detection systems.",
+        "Monitored model performance in production using Azure Application Insights, detecting data drift and triggering retraining workflows when accuracy metrics degraded.",
+        "Updated feature engineering pipelines to incorporate new data sources and transformation logic that improved model performance for credit risk assessment.",
+        "Modified Spark ML models to handle class imbalance in fraud detection datasets using sampling techniques and cost-sensitive learning that improved minority class recall.",
+        "Configured Azure Data Lake Storage with hierarchical namespace and access policies that secured financial data while enabling analytical access for authorized users."
+      ],
+      "environment": [
+        "PySpark",
+        "MLlib",
+        "Azure HDInsight",
+        "Azure Machine Learning",
+        "PCI-DSS Compliance",
+        "Azure Data Lake",
+        "Azure Application Insights"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Learned Hadoop ecosystem fundamentals through hands-on project work, developing MapReduce jobs and Hive queries for client data processing requirements in consulting engagements.",
+        "Participated in data warehouse migration projects, assisting senior engineers in ETL process documentation and data validation for financial services clients.",
+        "Collaborated with cross-functional teams to gather business requirements and translate them into technical specifications for data integration solutions.",
+        "Helped optimize Informatica workflows by identifying performance bottlenecks and suggesting improvements to mapping configurations and session parameters.",
+        "Shadowed experienced data architects during client meetings, learning how to balance technical requirements with business constraints in solution design.",
+        "Observed production deployment procedures for data pipelines, understanding the importance of testing and validation in enterprise data environments.",
+        "Studied data modeling techniques and normalization principles, applying them to design staging databases for ETL processes in healthcare projects.",
+        "Explored Sqoop for data transfer between relational databases and Hadoop, configuring incremental load patterns for efficient data synchronization."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "Hive",
+        "Data Warehousing",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

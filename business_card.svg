@@ -1,0 +1,100 @@
+<svg width="1024" height="1360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1f3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f1419;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2afadf;stop-opacity:1" />
+      <stop offset="45%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#FF6B6B;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glowGradient" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#2afadf;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#2afadf;stop-opacity:0" />
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(42, 250, 223, 0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1024" height="1360" fill="url(#bgGradient)" rx="16"/>
+  
+  <!-- Grid pattern overlay -->
+  <rect width="1024" height="1360" fill="url(#gridPattern)" rx="16" opacity="0.4"/>
+  
+  <!-- Glow effect background -->
+  <ellipse cx="512" cy="100" rx="400" ry="80" fill="url(#glowGradient)" opacity="0.5"/>
+  
+  <!-- Decorative border with gradient -->
+  <rect x="20" y="20" width="984" height="1320" fill="none" stroke="url(#accentGradient)" stroke-width="3" rx="12" opacity="0.8"/>
+  <rect x="25" y="25" width="974" height="1310" fill="none" stroke="rgba(42, 250, 223, 0.2)" stroke-width="1" rx="10"/>
+  
+  <!-- Header Section with glow -->
+  <text x="512" y="95" font-family="Arial, sans-serif" font-size="68" font-weight="bold" fill="#2afadf" text-anchor="middle" filter="url(#glow)">WE ARE HIRING</text>
+  <text x="512" y="145" font-family="Arial, sans-serif" font-size="40" fill="#b0c3d9" text-anchor="middle">For Recent Graduates &amp; Job Seekers</text>
+  
+  <!-- Elegant divider with gradient -->
+  <line x1="50" y1="180" x2="974" y2="180" stroke="url(#accentGradient)" stroke-width="3" opacity="0.6"/>
+  <line x1="50" y1="183" x2="974" y2="183" stroke="rgba(42, 250, 223, 0.2)" stroke-width="1" opacity="0.4"/>
+  
+  <!-- Left Column: Open Roles -->
+  <rect x="50" y="200" width="280" height="680" fill="rgba(42, 250, 223, 0.05)" rx="8" stroke="rgba(42, 250, 223, 0.2)" stroke-width="1"/>
+  <text x="60" y="235" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#2afadf">Open Roles:</text>
+  <text x="70" y="290" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Gen AI Engineer</text>
+  <text x="70" y="345" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Data Scientist</text>
+  <text x="70" y="400" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Data Engineer</text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Data Analyst</text>
+  <text x="70" y="510" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Business Analyst</text>
+  <text x="70" y="565" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• SAP Consultant</text>
+  <text x="70" y="620" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Network Engineer</text>
+  <text x="70" y="675" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Cybersecurity Consultant</text>
+  <text x="70" y="730" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• ServiceNow Specialist</text>
+  <text x="70" y="785" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• .NET Developer</text>
+  <text x="70" y="840" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Java Developer</text>
+  
+  <!-- Middle Column: Why Join Us -->
+  <rect x="350" y="200" width="280" height="680" fill="rgba(74, 144, 226, 0.05)" rx="8" stroke="rgba(74, 144, 226, 0.2)" stroke-width="1"/>
+  <text x="360" y="235" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#4A90E2">Why Join Us?</text>
+  <text x="370" y="290" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">✓ 100% FREE program</text>
+  <text x="370" y="345" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">✓ Personalized recruiter</text>
+  <text x="370" y="400" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">✓ Strong client/vendor</text>
+  <text x="370" y="455" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">✓ Weekend availability</text>
+  <text x="370" y="510" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">✓ H1B filing assistance</text>
+  
+  <!-- Right Column: Eligibility -->
+  <rect x="650" y="200" width="324" height="680" fill="rgba(255, 107, 107, 0.05)" rx="8" stroke="rgba(255, 107, 107, 0.2)" stroke-width="1"/>
+  <text x="660" y="235" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#FF6B6B">Eligibility:</text>
+  <text x="670" y="290" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• CPT/OPT/H1B visa</text>
+  <text x="670" y="345" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Good English</text>
+  <text x="670" y="400" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• No experience needed</text>
+  <text x="670" y="455" font-family="Arial, sans-serif" font-size="28" fill="#f7fbff">• Willingness to learn</text>
+  
+  <!-- Contact Section with enhanced styling -->
+  <rect x="50" y="1100" width="924" height="220" fill="rgba(42, 250, 223, 0.15)" rx="12" stroke="url(#accentGradient)" stroke-width="3" opacity="0.9"/>
+  <rect x="55" y="1105" width="914" height="210" fill="rgba(42, 250, 223, 0.05)" rx="10" stroke="rgba(42, 250, 223, 0.3)" stroke-width="1"/>
+  <text x="512" y="1180" font-family="Arial, sans-serif" font-size="68" font-weight="bold" fill="#2afadf" text-anchor="middle" filter="url(#glow)">Contact Us</text>
+  <text x="512" y="1250" font-family="Arial, sans-serif" font-size="62" fill="#f7fbff" text-anchor="middle">+1 816-982-4062</text>
+  
+  <!-- Enhanced decorative elements -->
+  <circle cx="1004" cy="50" r="40" fill="url(#accentGradient)" opacity="0.25"/>
+  <circle cx="1004" cy="50" r="25" fill="rgba(42, 250, 223, 0.3)" opacity="0.4"/>
+  <circle cx="50" cy="1310" r="35" fill="url(#accentGradient)" opacity="0.2"/>
+  <circle cx="50" cy="1310" r="20" fill="rgba(255, 107, 107, 0.3)" opacity="0.3"/>
+  <circle cx="974" cy="1310" r="30" fill="url(#accentGradient)" opacity="0.2"/>
+  <circle cx="974" cy="1310" r="18" fill="rgba(74, 144, 226, 0.3)" opacity="0.3"/>
+  
+  <!-- Additional accent lines -->
+  <line x1="50" y1="900" x2="974" y2="900" stroke="rgba(42, 250, 223, 0.1)" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="50" y1="1050" x2="974" y2="1050" stroke="rgba(74, 144, 226, 0.1)" stroke-width="1" stroke-dasharray="5,5"/>
+</svg>
+

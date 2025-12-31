@@ -1,0 +1,316 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Analyst & Data Governance Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Senior Data Analysis, specializing in healthcare, insurance, government, and finance domains, with deep expertise in data extraction, validation, and complex source system investigation.",
+    "Leveraging SQL and advanced data querying techniques to perform end-to-end data lifecycle analysis, I traced data movement across disparate systems to uncover hidden relationships and dependencies impacting business reporting.",
+    "Executing comprehensive data flow analysis from source to target systems, I documented intricate data lineage and mapping to create a durable knowledge repository for future analytical reference and business process understanding.",
+    "Employing backend data analysis methodologies, I validated reporting system outputs against original complex data sources, ensuring accuracy and reliability for critical business decisions and regulatory compliance.",
+    "Conducting independent data investigations, I identified subtle data anomalies and performed root cause analysis, collaborating with both business and IT teams to implement corrective actions and prevent recurrence.",
+    "Translating intricate business requirements into actionable data insights, I acted as the primary liaison between technical and non-technical stakeholders, bridging communication gaps with strong interpersonal skills.",
+    "Developing detailed technical documentation for data lineage, mapping, and governance frameworks, I established reusable templates that enhanced team productivity and ensured consistent metadata management practices.",
+    "Analyzing business processes alongside data dependencies, I recommended optimization opportunities that streamlined data workflows and improved the overall quality of enterprise data warehouses and BI platforms.",
+    "Utilizing data quality assessment frameworks, I designed validation rules and monitoring checks that proactively flagged issues before they impacted downstream consumers and external reporting obligations.",
+    "Orchestrating stakeholder collaboration sessions, I gathered ambiguous requirements and transformed them into clear data investigation plans, managing expectations and delivering findings through structured presentations.",
+    "Applying analytical thinking to unfamiliar data landscapes, I rapidly decomposed complex data sources into understandable components, enabling faster onboarding of team members and reducing knowledge silos.",
+    "Implementing metadata management protocols, I catalogued critical data elements and their business definitions, creating a searchable inventory that accelerated data discovery for new analytical initiatives.",
+    "Examining ETL processes and data transformation logic, I pinpointed inefficiencies and potential failure points, proposing architectural improvements that enhanced performance and maintainability of data pipelines.",
+    "Demonstrating meticulous attention to detail, I scrutinized large datasets for inconsistencies, often spending hours in focused analysis to uncover patterns that automated checks initially missed or misinterpreted.",
+    "Facilitating knowledge-sharing workshops, I transferred specialized data domain expertise to broader team members, fostering a culture of continuous learning and collective ownership over data assets.",
+    "Synthesizing findings from complex data investigations into clear, articulate summaries, I presented technical discoveries to executive audiences, highlighting business impacts and recommended strategic actions.",
+    "Advocating for data governance principles, I integrated quality controls and stewardship responsibilities into existing workflows, promoting sustainable data management without impeding analytical velocity.",
+    "Mastering the translation of technical data concepts into business-relevant narratives, I enabled stakeholders to make informed decisions based on a thorough understanding of data strengths and limitations."
+  ],
+  "technical_skills": {
+    "Data Analysis & Validation": [
+      "Senior Data Analysis",
+      "Data Validation",
+      "Data Anomaly Detection",
+      "Root Cause Analysis",
+      "Data Quality Assessment",
+      "Business Process Analysis"
+    ],
+    "Data Querying & Extraction": [
+      "SQL",
+      "Data Extraction",
+      "Data Retrieval",
+      "Complex Query Development",
+      "Source System Analysis",
+      "Backend Data Analysis"
+    ],
+    "Data Governance & Lineage": [
+      "Data Lineage Documentation",
+      "Data Mapping Documentation",
+      "Metadata Management",
+      "Data Governance Frameworks",
+      "Knowledge Repository Documentation"
+    ],
+    "Data Flow & Systems": [
+      "Data Flow Analysis",
+      "Source-to-Target Mapping",
+      "Reporting Systems Understanding",
+      "Enterprise Data Warehouses",
+      "End-to-End Data Lifecycle"
+    ],
+    "Business Intelligence": [
+      "BI Platforms",
+      "Reporting Analytics",
+      "Data Insights Translation",
+      "Stakeholder Reporting",
+      "Business Requirement Analysis"
+    ],
+    "ETL & Data Pipelines": [
+      "ETL Processes",
+      "Data Movement Tracing",
+      "Data Pipeline Analysis",
+      "Data Transformation",
+      "Integration Workflows"
+    ],
+    "Cloud Data Services (AWS)": [
+      "AWS S3",
+      "AWS Glue",
+      "AWS Redshift",
+      "AWS RDS",
+      "Data Storage & Processing"
+    ],
+    "Cloud Data Services (Azure)": [
+      "Azure Data Factory",
+      "Azure SQL Database",
+      "Azure Databricks",
+      "Azure Synapse",
+      "Cloud Analytics"
+    ],
+    "Data Investigation Tools": [
+      "Data Lineage Tools",
+      "Data Profiling Software",
+      "Data Catalog Solutions",
+      "Data Visualization for Analysis"
+    ],
+    "Collaboration & Documentation": [
+      "Stakeholder Collaboration",
+      "Technical Documentation",
+      "Interpersonal Communication",
+      "Requirements Gathering",
+      "Knowledge Transfer"
+    ],
+    "Domain Data Regulations": [
+      "HIPAA Compliance (Healthcare)",
+      "Insurance Data Regulations",
+      "Government Data Standards",
+      "PCI DSS (Finance)",
+      "Data Privacy Frameworks"
+    ],
+    "Core Databases & Platforms": [
+      "Oracle",
+      "MySQL",
+      "PostgreSQL",
+      "DB2",
+      "SQL Server",
+      "Snowflake",
+      "Teradata",
+      "Netezza"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Using SQL and advanced data querying to investigate a critical discrepancy in patient supply chain reports, I traced data lineage from Epic source systems through AWS Glue transformations to Redshift, identifying a flawed join condition and correcting it to restore report accuracy for HIPAA-compliant analytics.",
+        "Leveraging data lineage tools to map the complex flow of clinical trial data, I documented dependencies between operational systems and the research data warehouse, creating a knowledge repository that reduced investigation time for new team members from weeks to mere days.",
+        "Applying senior data analysis techniques to an unfamiliar provider billing dataset, I conducted independent data validation against backend source systems, uncovering systemic ingestion errors that were causing revenue leakage and leading the design of new quality checks in the AWS pipeline.",
+        "Employing data extraction methodologies from HL7 feeds, I analyzed raw message streams to validate the ETL logic built on Crew AI agents, meticulously comparing source counts with target tables and resolving subtle parsing issues that impacted downstream inventory forecasts.",
+        "Orchestrating a data flow analysis for real-time device tracking data, I collaborated with IT teams to diagram source-to-target mappings, identifying a performance bottleneck in a Lambda function and refactoring it to handle peak hospital admission events without delay.",
+        "Implementing a data anomaly detection framework using Python and LangGraph for multi-agent coordination, I designed rules to flag outliers in surgical kit usage patterns, which later helped identify a potential supplier quality issue before it affected patient care.",
+        "Documenting intricate data relationships within a new physician preference card system, I created detailed data mapping specifications that bridged business requirements with technical implementation, facilitating a smoother agile development process for the engineering team.",
+        "Leading a complex data investigation into inventory shrinkage, I utilized AWS S3 access logs and Redshift query history to trace user activity, discovering a reporting permission flaw and working with security to realign roles with the principle of least privilege.",
+        "Examining the data lineage of sensitive PHI elements across analytical datasets, I validated that all masking and tokenization rules were correctly applied, ensuring full HIPAA compliance for a new multi-agent Gen AI proof of concept exploring predictive restocking.",
+        "Facilitating daily stand-ups to discuss data quality issues, I translated technical findings about Model Context Protocol implementations into business impacts for supply chain leaders, helping them prioritize backend fixes based on financial exposure.",
+        "Synthesizing findings from a deep dive into purchase order data, I prepared a clear presentation that explained how legacy system constraints were creating data dependencies, advocating for a strategic investment in modernizing the core procurement platform.",
+        "Validating the outputs of a new predictive model for bed demand, I traced its training data back to admission/discharge/transfer feeds, ensuring the model's assumptions aligned with actual hospital workflows and regulatory reporting needs.",
+        "Architecting a metadata management layer for the enterprise data catalog, I defined business glossaries and technical data dictionaries, enabling faster discovery of trusted datasets for cross-functional analytics initiatives.",
+        "Mentoring junior analysts on data investigation techniques, I shared my approach to tackling unfamiliar source systems, emphasizing patience and systematic validation when initial hypotheses about data relationships prove incorrect.",
+        "Reviewing code for new data ingestion jobs built with agentic frameworks, I focused on data validation logic and error handling, suggesting improvements that made the pipelines more robust to source system schema changes.",
+        "Troubleshooting a sudden drop in report completeness, I spent hours comparing daily extracts, eventually pinpointing a timezone conversion bug in a Crew AI agent that was silently discarding records from late-night transactions."
+      ],
+      "environment": [
+        "Senior Data Analysis",
+        "SQL",
+        "Data Extraction",
+        "Data Lineage Documentation",
+        "AWS Glue",
+        "AWS Redshift",
+        "AWS S3",
+        "Data Validation",
+        "HIPAA",
+        "Crew AI",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Data Governance",
+        "Data Mapping",
+        "Python",
+        "Data Anomaly Detection",
+        "Root Cause Analysis",
+        "Metadata Management"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Utilizing SQL and complex data querying to analyze member eligibility discrepancies, I performed source-to-target validation between mainframe systems and the AWS Redshift claims warehouse, rectifying a misaligned refresh cycle that resolved thousands of member service inquiries.",
+        "Conducting end-to-end data lifecycle analysis for a new premium billing system, I documented data lineage and business transformations, creating mapping documents that served as the single source of truth for auditors and downstream reporting teams.",
+        "Executing a deep data investigation into outlier claim amounts, I traced high-cost transactions back to specific provider contracts and procedure codes, identifying a data entry pattern that triggered a broader fraud, waste, and abuse review by the special investigations unit.",
+        "Developing a data quality assessment framework for ingested provider data, I designed SQL validation scripts that ran in AWS Glue jobs, flagging records with missing taxonomy codes or invalid addresses before they polluted the master data management system.",
+        "Leading the research of complex data sources for a risk adjustment initiative, I analyzed relationships between clinical diagnosis codes from EHRs and submitted claims, uncovering gaps in data capture that informed a provider education campaign.",
+        "Applying data flow analysis techniques to the adjudication engine outputs, I mapped how denial reasons flowed to member communications, streamlining a confusing dependency that reduced call center volume related to explanation of benefits statements.",
+        "Collaborating with business stakeholders to translate actuarial requirements into data insights, I built detailed SQL queries that extracted cohorts for rate modeling, ensuring the underlying data accurately reflected population health trends and insurance regulations.",
+        "Implementing data anomaly detection for pharmacy benefit manager feeds, I configured alerts for sudden shifts in drug utilization or cost, enabling prompt investigation into potential benefit design issues or manufacturer pricing changes.",
+        "Documenting the data lineage of financial reserve calculations, I created visual flowcharts that connected claim detail to aggregated ledger entries, greatly simplifying the annual audit process for external accounting firms.",
+        "Examining backend data structures of a legacy policy administration system, I deciphered cryptic field meanings and documented them in a shared wiki, accelerating the migration of this logic to a modern cloud-based platform on AWS.",
+        "Participating in agile ceremonies as the data subject matter expert, I clarified acceptance criteria for user stories involving data integrations, ensuring test scenarios adequately covered edge cases and regulatory reporting boundaries.",
+        "Troubleshooting a recurring error in agent commission reports, I traced the issue to a late-arriving dimension in a slowly changing history table, and proposed a revised update logic that maintained accuracy without impacting payroll timeliness.",
+        "Advocating for metadata management within the data lake, I contributed to the design of a business glossary that standardized terms like 'member', 'subscriber', and 'dependent' across all analytical products and reporting systems.",
+        "Guiding a proof of concept using Crew AI to automate routine data validation tasks, I defined the scope and success metrics, helping the team demonstrate a significant reduction in manual effort for monthly financial closing reports."
+      ],
+      "environment": [
+        "Data Analysis",
+        "SQL",
+        "Data Validation",
+        "AWS Redshift",
+        "AWS Glue",
+        "Data Lineage",
+        "Data Mapping",
+        "Insurance Regulations",
+        "Data Investigation",
+        "Root Cause Analysis",
+        "Data Quality",
+        "ETL Processes",
+        "Business Intelligence",
+        "Crew AI",
+        "LangGraph",
+        "Data Governance",
+        "Metadata",
+        "Stakeholder Collaboration"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Employing SQL for data extraction and retrieval from legacy unemployment systems, I validated the accuracy of weekly benefit calculations during the pandemic surge, identifying and correcting a logic error that affected thousands of claims and ensuring compliance with federal CARES Act provisions.",
+        "Performing data analysis on public assistance program enrollment, I traced data flow from county intake systems into the central Azure SQL Data Warehouse, documenting dependencies that were critical for a statewide modernization initiative aimed at reducing benefit duplication.",
+        "Implementing data validation checks within Azure Data Factory pipelines, I designed routines to flag anomalies in SNAP and TANF case data, enabling caseworkers to proactively address discrepancies and maintain strict adherence to federal and state government regulations.",
+        "Documenting data lineage for cross-agency reporting to the federal government, I created detailed mapping specifications that showed how citizen data was transformed from operational systems into HHS-mandated formats, streamlining the arduous annual reporting process.",
+        "Investigating a complex data issue where voter registration addresses did not match DMV records, I analyzed the source systems and reconciliation logic, proposing a revised matching algorithm that improved linkage accuracy without compromising citizen privacy.",
+        "Analyzing backend data structures of a decades-old child support enforcement system, I deciphered complex relationships to support its decommissioning, ensuring all historical data required for legal proceedings was successfully migrated to a new Azure-based platform.",
+        "Supporting the research of data sources for a public health dashboard, I collaborated with epidemiologists to understand the provenance and latency of lab test result feeds, enabling accurate tracking of disease incidence rates across counties.",
+        "Translating business requirements from policy analysts into technical data insights, I developed SQL queries that extracted cohorts for program effectiveness studies, directly informing budget allocation decisions for social services.",
+        "Building a knowledge repository for the data engineering team, I documented common data investigation patterns and system quirks, which significantly reduced the onboarding time for new contractors joining the government digital transformation office.",
+        "Participating in data governance working groups, I contributed to the development of statewide data standards and definitions, promoting consistency and interoperability across disparate agency databases and reporting systems.",
+        "Troubleshooting performance issues in a public-facing transparency portal, I analyzed the underlying queries and materialized view refresh processes, optimizing them to ensure citizens could access spending data without timeout errors.",
+        "Conducting data anomaly detection on education funding distributions, I spotted an irregular pattern in district allocations, which upon deeper investigation revealed a misinterpretation of a statutory funding formula that was subsequently corrected."
+      ],
+      "environment": [
+        "SQL",
+        "Data Extraction",
+        "Data Analysis",
+        "Azure Data Factory",
+        "Azure SQL Data Warehouse",
+        "Data Validation",
+        "Government Regulations",
+        "Data Lineage",
+        "Data Mapping",
+        "Root Cause Analysis",
+        "Data Investigation",
+        "Stakeholder Collaboration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Leveraging SQL for complex data querying within the card transaction data lake, I performed data validation to ensure the accuracy of merchant category code assignments, which was crucial for calculating accurate cashback rewards and ensuring compliance with PCI DSS standards.",
+        "Executing data flow analysis for the new fraud detection model inputs, I traced transaction attributes from authorization systems through Azure Databricks transformations, identifying and resolving a latency issue that improved model performance by capturing more real-time fraud patterns.",
+        "Applying data extraction techniques to legacy mainframe customer statements, I designed a process to retrieve and validate historical data for a regulatory stress testing scenario, ensuring the models had a complete and accurate view of portfolio risk.",
+        "Implementing data anomaly detection routines on daily account balance feeds, I built checks within Azure Data Factory that alerted the finance team to unusual settlement activity, helping to prevent potential accounting errors before month-end closing.",
+        "Documenting the data lineage of key financial ratios reported to investors, I created clear mappings from raw general ledger entries to aggregated SEC filing components, enhancing the auditability and transparency of external disclosures.",
+        "Analyzing backend data from the customer service interaction system, I investigated relationships between call reasons and subsequent card usage, providing insights that helped design targeted retention offers and reduce voluntary attrition.",
+        "Collaborating with risk analysts to translate business requirements for loss forecasting, I developed SQL queries that extracted clean, validated data cohorts, forming the reliable foundation for predictive models estimating credit loss reserves.",
+        "Supporting the research of complex data sources for a new digital wallet feature, I analyzed data dependencies between tokenization services and transaction platforms, ensuring the implementation met both security standards and user experience goals.",
+        "Troubleshooting a recurring discrepancy in monthly transaction volume reports, I compared counts across multiple staging layers in Azure, eventually tracing the issue to a deduplication logic flaw in an upstream ingestion job.",
+        "Participating in code reviews for new PySpark jobs in Databricks, I focused on data validation logic and error handling, emphasizing the importance of data quality for downstream financial reporting and regulatory compliance."
+      ],
+      "environment": [
+        "SQL",
+        "Data Analysis",
+        "Data Validation",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Data Extraction",
+        "Data Lineage",
+        "PCI DSS",
+        "Finance Regulations",
+        "Data Investigation",
+        "Root Cause Analysis",
+        "Data Quality",
+        "ETL Processes"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Using SQL and data querying skills to extract and analyze digital pathology image metadata from Oracle databases, I validated the consistency of annotations against diagnostic reports, ensuring data integrity for machine learning model training in a HIPAA-compliant research environment.",
+        "Performing data analysis on lab instrument output files, I investigated relationships between image resolution, staining quality, and subsequent algorithmic performance, documenting findings that informed standard operating procedures for data acquisition technicians.",
+        "Assisting in data flow analysis for the AI diagnosis pipeline, I helped map how raw scanned slides were processed, features were extracted, and results were stored, contributing to the overall system documentation for clinical research partners.",
+        "Conducting data validation for a critical training dataset update, I meticulously compared new patient cohort statistics with previous versions, flagging demographic shifts that required review by the medical team to prevent model bias.",
+        "Supporting the documentation of data lineage from biopsy to digital report, I helped create visual maps that illustrated each data transformation step, which was essential for explaining the system's operation to regulatory and ethics review boards.",
+        "Learning to identify data anomalies in large sets of image-derived features, I developed Python scripts to flag outliers for manual review by pathologists, improving the overall cleanliness of the ground truth data used for model evaluation.",
+        "Collaborating with software engineers to translate research requirements into data insights, I specified the necessary SQL queries and output formats needed to generate performance reports for different disease subtypes.",
+        "Troubleshooting occasional mismatches between case IDs in the database and file storage system, I performed manual audits and helped implement a more robust reconciliation process that prevented future data integrity issues."
+      ],
+      "environment": [
+        "SQL",
+        "Data Analysis",
+        "Data Validation",
+        "Oracle",
+        "Python",
+        "Data Extraction",
+        "HIPAA",
+        "Healthcare Data",
+        "Data Investigation",
+        "Data Querying",
+        "Research Data Management"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

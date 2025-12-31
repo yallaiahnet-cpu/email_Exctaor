@@ -1,0 +1,345 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior GCP Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a seasoned data engineering professional with over ten years of specialized experience in designing and implementing robust, scalable data solutions on Google Cloud Platform, with deep expertise across Insurance, Healthcare, and Banking domains.",
+    "Leveraging Google BigQuery to tackle complex data warehousing challenges by implementing advanced partitioning and clustering strategies that significantly improved query performance while maintaining strict cost control measures for large-scale datasets.",
+    "Utilizing Cloud Dataflow and Apache Beam to architect and deploy high-throughput real-time data processing pipelines that transformed legacy batch ETL workflows into streaming-first architectures for immediate business insights.",
+    "Applying Cloud Composer and Apache Airflow to orchestrate complex data workflows across multiple teams, developing reusable DAGs that standardized ETL processes and improved overall data pipeline reliability and monitoring capabilities.",
+    "Implementing Cloud Dataproc with PySpark to migrate and modernize existing SSIS and Informatica ETL jobs, carefully refactoring complex business logic while ensuring data quality and compliance with industry-specific regulations.",
+    "Designing and building enterprise-grade data lakes on Cloud Storage that served as the foundation for analytics and machine learning initiatives, implementing proper data governance and security controls across all data assets.",
+    "Developing serverless data processing solutions with Cloud Functions and Pub/Sub to handle event-driven data ingestion patterns, creating responsive systems that could scale automatically with fluctuating data volumes.",
+    "Creating comprehensive data security frameworks using GCP IAM and data governance tools to ensure compliance with HIPAA, PCI-DSS, and insurance regulatory requirements while maintaining data accessibility for authorized users.",
+    "Building CI/CD pipelines with Terraform and Cloud Build to automate the deployment and management of data infrastructure, enabling rapid iteration and consistent environments across development, staging, and production.",
+    "Optimizing BigQuery performance through continuous query analysis and tuning, implementing cost monitoring dashboards that provided transparency into data usage patterns and helped teams make informed decisions.",
+    "Collaborating closely with Data Scientists to productionize machine learning models by building feature stores and inference pipelines that integrated seamlessly with existing data infrastructure and business applications.",
+    "Migrating complex SSIS packages to cloud-native solutions on GCP, carefully preserving business logic while improving scalability and reducing maintenance overhead through automated monitoring and alerting systems.",
+    "Implementing data quality frameworks and monitoring systems that proactively identified data issues before they impacted business operations, reducing data-related incidents and improving trust in analytics outputs.",
+    "Designing and documenting data models and schema designs that balanced performance requirements with business flexibility, creating scalable foundations that could evolve with changing business needs over time.",
+    "Leading knowledge sharing sessions and mentoring junior team members on GCP best practices and data engineering patterns, fostering a culture of continuous learning and technical excellence within the team.",
+    "Troubleshooting complex data pipeline failures by analyzing Cloud Monitoring metrics and logs, developing systematic approaches to incident resolution that minimized downtime and data loss risks.",
+    "Implementing data lineage tracking and cataloging solutions that provided end-to-end visibility into data flows, helping teams understand data provenance and impact analysis for changes.",
+    "Staying current with emerging GCP services and data engineering trends through continuous learning and hands-on experimentation, always looking for opportunities to improve existing systems and processes."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilizing Google BigQuery to address slow-performing insurance claims analytics queries by implementing partitioning by date and clustering by policy type, which dramatically improved query response times for business analysts.",
+        "Leveraging Cloud Dataflow with Apache Beam to transform legacy batch policy data processing into real-time streaming pipelines, enabling immediate fraud detection and reducing insurance claim processing delays significantly.",
+        "Implementing Cloud Composer to orchestrate complex ETL workflows across multiple insurance domains, creating reusable Airflow DAGs that standardized data processing while maintaining compliance with state insurance regulations.",
+        "Applying Cloud Dataproc with PySpark to migrate intricate SSIS packages handling policy premium calculations, carefully preserving actuarial logic while improving scalability during high-volume enrollment periods.",
+        "Designing Pub/Sub and Cloud Functions to handle real-time insurance application events, creating serverless architectures that automatically scaled during peak business hours without manual intervention.",
+        "Building comprehensive data security frameworks using GCP IAM to protect sensitive policyholder information, implementing fine-grained access controls that met strict insurance compliance requirements.",
+        "Developing Terraform modules to automate deployment of data infrastructure across environments, enabling consistent configuration management and rapid provisioning of new analytics projects.",
+        "Creating Cloud Storage-based data lakes for insurance analytics, implementing proper data partitioning and lifecycle policies that optimized storage costs while maintaining data accessibility.",
+        "Implementing CI/CD pipelines with Cloud Build to automate testing and deployment of data transformation code, reducing manual errors and improving development team productivity significantly.",
+        "Optimizing BigQuery cost performance by analyzing query patterns and implementing usage monitoring dashboards, helping business teams understand their data consumption and make cost-aware decisions.",
+        "Collaborating with insurance actuaries to productionize premium calculation models, building feature stores and inference pipelines that integrated with policy administration systems.",
+        "Troubleshooting complex data pipeline failures in claims processing workflows by analyzing Stackdriver logs and metrics, developing systematic resolution procedures that minimized business impact.",
+        "Migrating legacy Informatica workflows to cloud-native GCP solutions, carefully mapping complex transformations to Dataflow jobs while ensuring data quality and business logic preservation.",
+        "Implementing data quality monitoring frameworks for policy data, creating automated checks that proactively identified data issues before they impacted underwriting decisions.",
+        "Designing insurance data models that balanced analytical flexibility with regulatory requirements, creating scalable schemas that could accommodate new insurance products and reporting needs.",
+        "Leading code review sessions for data engineering team members, fostering knowledge sharing and ensuring consistent implementation of insurance data governance standards."
+      ],
+      "environment": [
+        "GCP BigQuery",
+        "Cloud Dataflow",
+        "Apache Beam",
+        "Cloud Composer",
+        "Airflow",
+        "Cloud Dataproc",
+        "PySpark",
+        "Pub/Sub",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Terraform",
+        "Cloud Build",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilizing AWS SageMaker to address healthcare prediction model deployment challenges by implementing automated training pipelines that reduced model refresh cycles from weeks to days for public health analytics.",
+        "Leveraging AWS Glue to transform and prepare Medicaid claims data for machine learning, creating ETL jobs that handled complex healthcare data transformations while maintaining HIPAA compliance requirements.",
+        "Implementing Apache Airflow on AWS to orchestrate healthcare data pipelines, developing DAGs that coordinated data extraction from multiple sources and ensured timely updates for public health reporting.",
+        "Applying AWS Redshift to build healthcare analytics data warehouses, designing schemas that supported both operational reporting and advanced analytics while meeting strict data governance standards.",
+        "Building AWS Lambda functions to process real-time public health data streams, creating serverless architectures that could scale during health emergencies and pandemic response situations.",
+        "Designing S3 data lakes for healthcare information management, implementing proper access controls and encryption to protect sensitive patient data according to HIPAA regulations.",
+        "Creating Terraform configurations to manage AWS data infrastructure, enabling reproducible environments for healthcare analytics projects across development and production setups.",
+        "Developing CI/CD pipelines with GitHub Actions to automate deployment of healthcare machine learning models, ensuring consistent testing and validation before production release.",
+        "Optimizing AWS Redshift query performance for healthcare analytics, implementing distribution styles and sort keys that improved query performance for complex public health reporting requirements.",
+        "Collaborating with epidemiologists to productionize disease prediction models, building feature engineering pipelines that transformed raw healthcare data into meaningful predictors.",
+        "Troubleshooting data pipeline issues in public health reporting systems by analyzing CloudWatch metrics and logs, developing incident response procedures for critical healthcare data flows.",
+        "Implementing data quality frameworks for healthcare datasets, creating automated validation checks that ensured data accuracy for public health decision-making.",
+        "Designing healthcare data models that supported both operational reporting and research needs, creating flexible schemas that could accommodate evolving public health requirements.",
+        "Mentoring junior team members on AWS data services and healthcare data compliance, fostering knowledge sharing and ensuring consistent implementation of data governance standards."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "Apache Airflow",
+        "AWS Redshift",
+        "AWS Lambda",
+        "S3",
+        "Terraform",
+        "GitHub Actions",
+        "Python",
+        "SQL",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": " New York, New York.",
+      "responsibilities": [
+        "Utilizing AWS Redshift to address slow-performing financial risk analytics queries by implementing appropriate distribution keys and sort styles, which improved query performance for compliance reporting.",
+        "Leveraging AWS Glue to transform and prepare banking transaction data for fraud detection models, creating ETL jobs that handled complex financial data transformations while maintaining PCI-DSS compliance.",
+        "Implementing Apache Airflow on AWS to orchestrate financial data pipelines, developing DAGs that coordinated data extraction from multiple banking systems and ensured timely risk reporting.",
+        "Applying AWS SageMaker to build and deploy credit risk prediction models, implementing automated training pipelines that refreshed models regularly with new transaction data.",
+        "Building AWS Lambda functions to process real-time transaction alerts, creating serverless architectures that could scale during high-volume banking periods and holiday seasons.",
+        "Designing S3 data lakes for financial analytics, implementing proper encryption and access controls to protect sensitive banking information according to regulatory requirements.",
+        "Creating Terraform configurations to manage AWS analytics infrastructure, enabling consistent environments for financial modeling projects across different banking divisions.",
+        "Developing CI/CD pipelines with Jenkins to automate deployment of financial machine learning models, ensuring proper testing and validation before integration with banking systems.",
+        "Optimizing AWS Redshift performance for financial reporting, implementing query tuning techniques that improved performance for complex regulatory compliance calculations.",
+        "Collaborating with risk analysts to productionize fraud detection models, building feature engineering pipelines that transformed raw transaction data into meaningful risk indicators."
+      ],
+      "environment": [
+        "AWS Redshift",
+        "AWS Glue",
+        "Apache Airflow",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "S3",
+        "Terraform",
+        "Jenkins",
+        "Python",
+        "SQL",
+        "Scikit-Learn"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilizing Hadoop to address large-scale data processing challenges for client analytics projects by implementing MapReduce jobs that transformed raw data into structured formats for business intelligence.",
+        "Leveraging Informatica to build ETL workflows that extracted data from multiple source systems, creating reusable transformations that standardized data processing across different client engagements.",
+        "Applying Sqoop to migrate data between relational databases and Hadoop, developing incremental load strategies that minimized data transfer times and ensured data consistency.",
+        "Implementing Hive queries to analyze large datasets for client reporting, creating optimized tables and partitions that improved query performance for business analytics.",
+        "Building data validation frameworks using shell scripts and SQL, creating automated checks that ensured data quality and integrity throughout ETL processes.",
+        "Designing star schema data models for client data warehouses, creating dimensions and facts that supported flexible reporting and analysis requirements.",
+        "Collaborating with business analysts to understand data requirements, translating business needs into technical specifications for ETL development and data modeling.",
+        "Troubleshooting ETL job failures and performance issues, developing systematic approaches to problem resolution that minimized impact on client reporting timelines."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "MapReduce",
+        "SQL",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

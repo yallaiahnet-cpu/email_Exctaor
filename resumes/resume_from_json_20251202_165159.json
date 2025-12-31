@@ -1,0 +1,220 @@
+{
+  "name": "Singam Sanjana",
+  "title": ".NET Full Stack Developer",
+  "contact": {
+    "email": "sanjanar2704@gmail.com",
+    "phone": "+1 (314)-380-4211",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 5 years of experience in .NET development with MS SQL Server and Transact SQL across Government, Healthcare, and Insurance domains, focusing on API integration and MVC architecture for enterprise applications.",
+    "Built RESTful APIs using MS .NET and C# for government licensing systems, integrated with MS SQL Server databases using Transact SQL stored procedures, and deployed solutions to support regulatory compliance and data integrity requirements.",
+    "Worked with AWS Aurora for database migration projects in healthcare systems, ensuring HIPAA-compliant data handling patterns and reliable connectivity between distributed services while maintaining optimal query performance.",
+    "Configured API based integrations to connect multiple third-party services and internal systems, which helped streamline approval processes and reduce processing delays across government and healthcare applications significantly.",
+    "Developed MVC code model applications using ASP.NET for .NET web applications, creating responsive user interfaces that interact with backend APIs and provide real-time data updates to end users across different platforms.",
+    "Used source code management tools like Git to track application performance and manage version control, setting up branching strategies and pull request workflows that help maintain code quality and collaboration standards.",
+    "Participated in code reviews and pair programming sessions with development team and business partners, helping unblock technical issues related to SQL Server configurations, API authentication problems, and database connectivity challenges.",
+    "Migrated on-premise SQL Server databases to AWS Aurora, refactoring stored procedures and Transact SQL queries to adopt cloud-native architecture principles while maintaining backward compatibility with existing integrations and systems.",
+    "Set up CI/CD pipelines using source code management tools, automating build processes and implementing automated testing stages to catch bugs early and ensure consistent deployment across development and production environments.",
+    "Collaborated with business partners and technical support teams to gather requirements for new features, translated functional specifications into technical designs using MS .NET and MS SQL Server that align with regulatory requirements."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "Transact SQL",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "Frameworks & Libraries": [
+      "MS .NET",
+      ".NET Core",
+      ".NET Framework",
+      "ASP.NET Core",
+      "Entity Framework Core",
+      "ASP.NET MVC"
+    ],
+    "Frontend Development": [
+      "MVC code model",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "jQuery"
+    ],
+    "Backend Development & API": [
+      "MS .NET",
+      "C#",
+      "API based integrations",
+      "RESTful APIs",
+      "Web API",
+      "Microservices Architecture"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "AWS Aurora",
+      "Azure SQL Database",
+      "Azure App Services",
+      "AWS RDS"
+    ],
+    "DevOps & CI/CD": [
+      "Source code management tools",
+      "Git",
+      "Azure DevOps",
+      "Azure Pipelines",
+      "GitHub",
+      "Jenkins"
+    ],
+    "Database Technologies": [
+      "MS SQL Server",
+      "Transact SQL",
+      "AWS Aurora",
+      "Azure SQL Database",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "Testing Tools": [
+      "xUnit",
+      "NUnit",
+      "Postman",
+      "Swagger",
+      "MSTest"
+    ],
+    "Monitoring & Logging": [
+      "Azure Monitor",
+      "Application Insights",
+      "SQL Profiler",
+      "CloudWatch"
+    ],
+    "Version Control & Collaboration": [
+      "Source code management tools",
+      "Git",
+      "GitHub",
+      "JIRA",
+      "Confluence",
+      "Visual Studio"
+    ],
+    "Security & Compliance": [
+      "OAuth 2.0",
+      "JWT",
+      "Azure Key Vault",
+      "HIPAA",
+      "GDPR"
+    ],
+    "Additional Skills": [
+      "Agile Methodologies",
+      "Scrum",
+      "DevOps practices",
+      "SQL Server Integration Services"
+    ]
+  },
+  "experience": [
+    {
+      "role": ".NET Full Stack Developer",
+      "client": "State of Washington \u2013 Department of Licensing (DOL)",
+      "duration": "2024-Sep - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on building MS .NET applications using C# for driver licensing systems, integrating MS SQL Server databases with Transact SQL stored procedures to handle complex business logic and ensure government compliance throughout the architecture design.",
+        "Created API based integrations to automate license renewal workflows, connecting third-party identity verification services with internal systems, which reduced manual processing time and improved accuracy for thousands of daily transactions submitted by citizens.",
+        "Implemented MVC code model endpoints using ASP.NET that handle real-time license verification requests from frontend, applied SQL Server caching strategies to minimize latency and handle around 8000 concurrent user sessions daily without performance issues.",
+        "Fixed authentication issues in API integrations that connect to third-party services, updated OAuth 2.0 token refresh logic using C# and added retry policies to handle intermittent network failures during business hours and peak traffic times.",
+        "Used source code management tools like Git to deploy MS .NET applications across development and production environments, configured branching strategies with automated testing gates and manual approval steps for production releases to ensure quality.",
+        "Maintained MS SQL Server database schemas for citizen records data, wrote Transact SQL stored procedures and triggers to support new regulatory reporting requirements while preserving data integrity and complete audit trails for compliance reviews.",
+        "Participated in daily standup meetings with government operations team and business partners, helped unblock junior developers who struggled with SQL Server integration and explained how to optimize Transact SQL queries without causing deadlocks.",
+        "Refactored legacy ASP.NET code to modern MVC code model architecture, broke down monolithic application into smaller modules communicating through API based integrations for better maintainability and flexibility in future enhancements.",
+        "Configured Azure Monitor dashboards to track MS SQL Server performance metrics, set up custom alerts for long-running Transact SQL queries and generated notifications that inform technical support teams when database response times exceed normal thresholds.",
+        "Documented technical specifications for new MS .NET API implementations, included database schema diagrams and Transact SQL query examples so other development team members could understand data flow patterns and integration points without confusion.",
+        "Tested MVC code model components that display license status reports, verified C# business logic calculations match MS SQL Server stored procedure results, and fixed data binding issues where UI didn't reflect updated information correctly.",
+        "Attended weekly architecture review sessions where we discussed migrating more data to AWS Aurora, evaluated trade-offs between on-premise MS SQL Server versus cloud database services for different use cases and future scalability needs."
+      ],
+      "environment": [
+        "C#",
+        "MS .NET",
+        ".NET Core",
+        "ASP.NET",
+        "MVC code model",
+        "MS SQL Server",
+        "Transact SQL",
+        "AWS Aurora",
+        "API based integrations",
+        "Azure",
+        "Source code management tools",
+        "Git",
+        "Visual Studio",
+        "Azure DevOps",
+        "JIRA",
+        "OAuth 2.0",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": ".NET Full Stack Developer",
+      "client": "Optum (United Health Group)",
+      "duration": "2022-Nov - 2024-Aug",
+      "location": "",
+      "responsibilities": [
+        "Designed RESTful API based integrations using MS .NET for healthcare claims processing system, handled patient data with HIPAA compliance requirements, connected MS SQL Server databases through Transact SQL queries to decouple claim submission from validation workflows.",
+        "Assembled MVC code model workflows that automated insurance eligibility verification by calling external provider APIs using C#, transformed response data formats, and stored results in MS SQL Server using optimized Transact SQL insert statements for downstream processing.",
+        "Updated frontend MVC applications for healthcare providers to view claim status in real-time, connected JavaScript calls to MS .NET backend APIs and added error handling for timeout scenarios during high traffic periods when SQL Server was under load.",
+        "Migrated on-premise MS SQL Server databases to AWS Aurora, planned the cutover strategy with minimal downtime, tested Transact SQL compatibility after migration and verified that connection strings worked correctly without modifying existing stored procedures.",
+        "Deployed MS .NET microservices using source code management tools with automated unit tests written in xUnit, ensured code coverage thresholds were met before allowing merges to master branch and caught several SQL injection bugs early in development cycle.",
+        "Monitored MS SQL Server logs to troubleshoot production incidents, filtered through thousands of Transact SQL execution plans to identify root causes when API based integrations failed due to missing indexes or poorly optimized queries causing timeouts.",
+        "Coordinated with technical support teams to optimize MS SQL Server performance, analyzed Transact SQL query execution plans and added appropriate indexes, though we eventually decided some tables needed partitioning for better data retrieval speeds.",
+        "Validated HIPAA compliance for all database resources, enabled encryption at rest for MS SQL Server, configured network security groups to restrict access using firewall rules, and documented security controls in compliance audit spreadsheets for annual reviews.",
+        "Resolved merge conflicts in source code management tools when multiple developers modified the same C# service classes, reviewed pull requests for code quality and ensured Transact SQL naming conventions followed team standards before approving changes.",
+        "Generated weekly status reports showing API performance metrics and claim processing volumes, used complex Transact SQL join queries to extract data from multiple MS SQL Server tables and presented findings during stakeholder meetings with business partners."
+      ],
+      "environment": [
+        "C#",
+        "MS .NET",
+        ".NET Core",
+        "ASP.NET",
+        "MVC code model",
+        "MS SQL Server",
+        "Transact SQL",
+        "AWS Aurora",
+        "API based integrations",
+        "Azure",
+        "Source code management tools",
+        "Git",
+        "xUnit",
+        "Visual Studio",
+        "HIPAA",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": ".NET Developer",
+      "client": "Juric Insurance Group",
+      "duration": "2020-Apr - 2022-Oct",
+      "location": "",
+      "responsibilities": [
+        "Developed REST API based integrations using MS .NET for insurance policy management, applied security standards to protect customer data, used C# and Transact SQL to implement validation logic and integrated with MS SQL Server database for policy storage.",
+        "Automated claim approval workflows using MVC code model, connected to internal risk assessment services and external fraud detection systems using API integrations, transformed XML responses to JSON format for easier consumption by MS .NET backend services.",
+        "Analyzed business requirements from insurance clients and business partners, translated functional specs into technical designs for MS .NET applications, documented Transact SQL stored procedures and shared with development team for integration planning and execution.",
+        "Established CI/CD pipelines using source code management tools for MS .NET projects, configured build triggers on Git commits, added automated testing stages using NUnit, and streamlined the deployment process to reduce manual errors and deployment time.",
+        "Queried MS SQL Server database using complex Transact SQL join statements to generate compliance reports for regulatory audits, consolidated policy data from multiple tables, exported results to Excel spreadsheets and shared with compliance team for review.",
+        "Supported production troubleshooting when MS SQL Server experienced deadlocks, increased timeout settings for long-running Transact SQL queries, optimized C# code by reducing database round trips, and verified improvements through SQL Profiler metrics and execution plans."
+      ],
+      "environment": [
+        "C#",
+        "MS .NET",
+        ".NET Core",
+        "ASP.NET MVC",
+        "MVC code model",
+        "MS SQL Server",
+        "Transact SQL",
+        "API based integrations",
+        "Source code management tools",
+        "Git",
+        "Visual Studio",
+        "NUnit",
+        "SQL Profiler",
+        "Azure DevOps"
+      ]
+    }
+  ]
+}

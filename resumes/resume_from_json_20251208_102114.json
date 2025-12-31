@@ -1,0 +1,209 @@
+{
+  "name": "Aravind Datla",
+  "title": "MS Access Developer & Data Integration Specialist",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Developed comprehensive MS Access solutions for healthcare data management, implementing VBA modules and ActiveX Data Objects to ensure HIPAA compliance while maintaining seamless data flow between legacy systems and modern platforms.",
+    "Engineered database splitting techniques for healthcare applications, separating front-end and back-end components to enhance performance and security, enabling multiple users to access patient information simultaneously without data corruption.",
+    "Translated complex business logic from MS Access macros and queries to optimized SQL Server stored procedures, significantly improving data processing speed for healthcare analytics while preserving all original functionality.",
+    "Migrated critical healthcare data from MS Access to SQL Server, implementing proper data validation and transformation processes to ensure patient information integrity during the transition period.",
+    "Converted legacy MS Access forms and reports to web-based applications using modern frameworks, providing healthcare professionals with remote access to patient data while maintaining strict security protocols.",
+    "Utilized Visual Basic for Applications to create custom automation tools for healthcare billing systems, reducing manual data entry errors and streamlining the insurance claims processing workflow.",
+    "Designed and implemented ETL processes for healthcare data integration, using MS Access as the staging environment before moving data to enterprise data warehouses for comprehensive analysis.",
+    "Developed secure data access controls in MS Access applications, implementing role-based permissions to ensure only authorized healthcare personnel could view or modify sensitive patient information.",
+    "Created complex MS Access queries with optimized joins and filters to extract meaningful insights from large healthcare datasets, supporting clinical decision-making and research initiatives.",
+    "Implemented ActiveX Data Objects connectivity between MS Access and various healthcare systems, enabling real-time data synchronization and eliminating manual data transfer processes.",
+    "Built custom reporting solutions in MS Access for healthcare compliance monitoring, automating the generation of regulatory reports required by HIPAA and other healthcare governing bodies.",
+    "Architected a hybrid solution combining MS Access front-end with SQL Server back-end for a major healthcare provider, balancing user familiarity with enterprise-level data management capabilities.",
+    "Developed data validation routines using VBA to ensure data quality in healthcare applications, implementing checks for completeness, accuracy, and consistency before allowing data entry.",
+    "Designed user-friendly MS Access interfaces for healthcare professionals with limited technical expertise, creating intuitive forms and navigation systems that required minimal training.",
+    "Implemented version control practices for MS Access applications, creating a systematic approach to database updates that ensured all changes were properly documented and tested before deployment.",
+    "Created automated data archiving solutions for MS Access healthcare databases, implementing rules-based systems to move historical patient data to appropriate storage while maintaining accessibility.",
+    "Optimized MS Access database performance through proper indexing, query refinement, and relationship management, ensuring responsive application performance even with large datasets.",
+    "Established comprehensive documentation standards for MS Access healthcare applications, creating detailed technical guides that facilitated knowledge transfer and future maintenance."
+  ],
+  "technical_skills": {
+    "Database Technologies": [
+      "MS Access",
+      "SQL Server",
+      "ActiveX Data Objects (ADO)",
+      "MS Access SQL",
+      "Stored Procedures",
+      "PL/SQL",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "Programming Languages": [
+      "Visual Basic for Applications (VBA)",
+      "Python",
+      "SQL"
+    ],
+    "Development Tools": [
+      "QuickBase Rapid Application Development Platform",
+      "Talend",
+      "Apache Airflow",
+      "Tableau"
+    ],
+    "Data Integration": [
+      "ETL Processes",
+      "Data Migration",
+      "Data Transformation",
+      "Data Validation"
+    ],
+    "Application Development": [
+      "Front-End/Back-End Database Splitting",
+      "Web Application Conversion",
+      "Form and Report Development",
+      "Query Design"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior MS Access Developer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered a comprehensive MS Access solution for pharmacy inventory management, implementing VBA modules with ActiveX Data Objects to connect with multiple healthcare systems while ensuring HIPAA compliance throughout the data flow.",
+        "Developed a sophisticated database splitting strategy for the patient management system, separating front-end and back-end components to improve performance and security, allowing approximately 200 pharmacists to access data simultaneously.",
+        "Translated complex business logic from legacy MS Access macros to optimized SQL Server stored procedures, reducing data processing time for prescription fulfillment by implementing proper indexing and query optimization techniques.",
+        "Migrated critical patient data from multiple MS Access databases to a centralized SQL Server environment, creating custom VBA validation routines to ensure data integrity during the transition period.",
+        "Converted legacy MS Access forms and reports to a web-based application using .NET framework, providing healthcare professionals with secure remote access to patient information while maintaining all original functionality.",
+        "Utilized Visual Basic for Applications to create custom automation tools for insurance claim processing, implementing complex business rules that reduced manual intervention by around 70% in the claims workflow.",
+        "Designed and implemented ETL processes using MS Access as the staging environment, creating data transformation routines that prepared healthcare data for integration with enterprise analytics platforms.",
+        "Developed role-based security controls in MS Access applications, implementing user authentication systems that ensured only authorized healthcare personnel could access sensitive patient information.",
+        "Created complex MS Access queries with optimized joins and subqueries to extract meaningful insights from prescription data, supporting clinical research initiatives and identifying potential drug interactions.",
+        "Implemented ActiveX Data Objects connectivity between MS Access and various pharmacy management systems, enabling real-time data synchronization and eliminating manual data transfer processes.",
+        "Built custom reporting solutions in MS Access for healthcare compliance monitoring, automating the generation of regulatory reports required by HIPAA and other healthcare governing bodies.",
+        "Architected a hybrid solution combining MS Access front-end with SQL Server back-end for the pharmacy chain, balancing user familiarity with enterprise-level data management capabilities.",
+        "Developed data validation routines using VBA to ensure data quality in pharmacy applications, implementing checks for prescription accuracy, dosage limits, and patient allergies before allowing data entry.",
+        "Designed user-friendly MS Access interfaces for pharmacy staff with varying technical expertise, creating intuitive forms and navigation systems that required minimal training and reduced errors.",
+        "Implemented version control practices for MS Access healthcare applications, creating a systematic approach to database updates that ensured all changes were properly documented and tested before deployment.",
+        "Created automated data archiving solutions for MS Access pharmacy databases, implementing rules-based systems to move historical prescription data to appropriate storage while maintaining accessibility.",
+        "Optimized MS Access database performance through proper indexing, query refinement, and relationship management, ensuring responsive application performance even with large patient datasets.",
+        "Established comprehensive documentation standards for MS Access healthcare applications, creating detailed technical guides that facilitated knowledge transfer and future maintenance by the development team."
+      ],
+      "environment": [
+        "MS Access",
+        "SQL Server",
+        "Visual Basic for Applications (VBA)",
+        "ActiveX Data Objects (ADO)",
+        "MS Access SQL",
+        "Stored Procedures",
+        "HIPAA Compliance Frameworks",
+        "Azure"
+      ]
+    },
+    {
+      "role": "MS Access Developer & Data Integration Specialist",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "bresponsibilities": [
+        "Implemented MS Access solutions for banking data management, creating VBA modules with ActiveX Data Objects to connect with financial systems while ensuring PCI DSS compliance throughout all data transactions.",
+        "Split complex banking databases into front-end and back-end components, improving performance and security for approximately 300 banking professionals who needed simultaneous access to customer financial data.",
+        "Converted intricate business logic from MS Access macros to SQL Server stored procedures, optimizing data processing for loan applications and credit assessments while maintaining all original business rules.",
+        "Migrated sensitive financial data from legacy MS Access systems to SQL Server, implementing comprehensive data validation and transformation processes to ensure accuracy during the transition.",
+        "Developed web-based alternatives to MS Access forms and reports using modern frameworks, providing banking staff with secure remote access to financial data while maintaining strict security protocols.",
+        "Created custom VBA automation tools for financial reporting, implementing complex calculations and data aggregation that reduced manual report preparation time by approximately 60%.",
+        "Designed ETL processes using MS Access as the staging environment, creating data transformation routines that prepared banking data for integration with enterprise analytics platforms.",
+        "Implemented sophisticated security controls in MS Access applications, creating role-based permissions that ensured only authorized banking personnel could access sensitive customer information.",
+        "Developed complex MS Access queries with optimized joins and filters to extract meaningful insights from financial datasets, supporting risk assessment and fraud detection initiatives.",
+        "Utilized ActiveX Data Objects to establish connectivity between MS Access and various banking systems, enabling real-time data synchronization and eliminating manual data transfer processes.",
+        "Built custom reporting solutions in MS Access for regulatory compliance, automating the generation of financial reports required by banking regulators and internal audit teams.",
+        "Created a hybrid solution combining MS Access front-end with SQL Server back-end for the banking division, balancing user familiarity with enterprise-level data management capabilities.",
+        "Developed data validation routines using VBA to ensure data quality in banking applications, implementing checks for completeness, accuracy, and consistency before allowing data entry.",
+        "Designed user-friendly MS Access interfaces for banking staff with varying technical expertise, creating intuitive forms and navigation systems that required minimal training.",
+        "Implemented systematic version control for MS Access banking applications, creating documentation standards that facilitated knowledge transfer and future maintenance by the development team."
+      ],
+      "environment": [
+        "MS Access",
+        "SQL Server",
+        "Visual Basic for Applications (VBA)",
+        "ActiveX Data Objects (ADO)",
+        "MS Access SQL",
+        "Stored Procedures",
+        "PCI DSS Compliance Frameworks",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed MS Access solutions for automotive data management, creating VBA modules with ActiveX Data Objects to connect with manufacturing systems while ensuring compliance with automotive industry standards.",
+        "Split automotive databases into front-end and back-end components, improving performance and security for approximately 150 engineers who needed simultaneous access to vehicle production data.",
+        "Translated business logic from MS Access macros to SQL Server stored procedures, optimizing data processing for quality control and production tracking while maintaining all original functionality.",
+        "Migrated automotive data from legacy MS Access systems to SQL Server, implementing data validation and transformation processes to ensure accuracy during the transition period.",
+        "Converted MS Access forms and reports to web-based applications, providing automotive staff with remote access to production data while maintaining all original functionality.",
+        "Created custom VBA automation tools for automotive reporting, implementing complex calculations and data aggregation that reduced manual report preparation time.",
+        "Designed ETL processes using MS Access as the staging environment, creating data transformation routines that prepared automotive data for integration with enterprise analytics platforms.",
+        "Implemented security controls in MS Access applications, creating role-based permissions that ensured only authorized personnel could access sensitive automotive data.",
+        "Developed complex MS Access queries with optimized joins and filters to extract meaningful insights from automotive datasets, supporting production analysis and quality initiatives.",
+        "Utilized ActiveX Data Objects to establish connectivity between MS Access and various automotive systems, enabling real-time data synchronization and eliminating manual data transfer processes.",
+        "Built custom reporting solutions in MS Access for automotive compliance, automating the generation of production reports required by internal and external stakeholders.",
+        "Created a hybrid solution combining MS Access front-end with SQL Server back-end for the automotive division, balancing user familiarity with enterprise-level data management capabilities."
+      ],
+      "environment": [
+        "MS Access",
+        "SQL Server",
+        "Visual Basic for Applications (VBA)",
+        "ActiveX Data Objects (ADO)",
+        "MS Access SQL",
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "GCP"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Assisted in developing MS Access solutions for consulting projects, creating VBA modules with ActiveX Data Objects to connect with client systems while ensuring data security throughout all processes.",
+        "Supported database splitting initiatives for consulting applications, helping to separate front-end and back-end components to improve performance and security for multiple users.",
+        "Contributed to translating business logic from MS Access macros to SQL Server stored procedures, learning to optimize data processing while maintaining original business rules.",
+        "Participated in migrating client data from MS Access systems to SQL Server, assisting with data validation and transformation processes to ensure accuracy during transitions.",
+        "Helped convert MS Access forms and reports to web-based applications, providing clients with remote access to their data while maintaining all original functionality.",
+        "Worked on custom VBA automation tools for client reporting, implementing calculations and data aggregation that reduced manual report preparation time.",
+        "Contributed to ETL processes using MS Access as the staging environment, assisting with data transformation routines that prepared client data for integration with analytics platforms.",
+        "Supported implementation of security controls in MS Access applications, helping to create role-based permissions that ensured only authorized personnel could access sensitive client data.",
+        "Assisted in developing MS Access queries with joins and filters to extract insights from client datasets, supporting analysis and reporting initiatives.",
+        "Helped establish connectivity between MS Access and various client systems using ActiveX Data Objects, enabling data synchronization and reducing manual data transfer processes."
+      ],
+      "environment": [
+        "MS Access",
+        "SQL Server",
+        "Visual Basic for Applications (VBA)",
+        "ActiveX Data Objects (ADO)",
+        "MS Access SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

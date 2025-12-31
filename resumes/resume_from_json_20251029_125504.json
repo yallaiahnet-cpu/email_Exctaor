@@ -1,0 +1,378 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Power BI & AI Analytics Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in Power BI analytics and AI-driven business intelligence with deep expertise in Azure data services, data modeling, and transforming complex data into actionable insights.",
+    "Using Power BI and DAX to address complex insurance analytics challenges by developing interactive dashboards that transformed multi-source data into executive insights while ensuring regulatory compliance.",
+    "Leveraging SQL and Azure SQL to design robust data models that processed insurance claims data through star schema architectures, enabling efficient query performance and accurate reporting.",
+    "Implementing ETL processes with Azure Data Factory that automated data extraction from multiple insurance systems, creating reliable pipelines that maintained data quality and audit trails.",
+    "Building Synapse Analytics solutions that handled large-scale insurance data processing, creating dedicated SQL pools that supported complex analytical queries for business intelligence.",
+    "Designing Azure Data Lake storage architectures that organized structured and unstructured insurance data, creating centralized repositories for analytics and reporting requirements.",
+    "Developing SSIS packages that transformed legacy insurance data into modern analytics formats, migrating historical records while maintaining data integrity and business logic.",
+    "Creating API integrations that connected Power BI dashboards with real-time insurance data sources, enabling live updates and dynamic reporting for operational decision-making.",
+    "Implementing Row-Level Security with DAX that controlled data access in insurance reports based on user roles and regional permissions, ensuring compliance with data privacy regulations.",
+    "Building Excel integration frameworks that exported Power BI insights into familiar formats for insurance business users, enabling ad-hoc analysis and executive reporting.",
+    "Designing data modeling solutions with star and snowflake schemas that optimized insurance data relationships, creating efficient structures for complex business analytics.",
+    "Developing Power Query transformations that cleaned and shaped raw insurance data into analysis-ready formats, implementing data quality checks and validation rules.",
+    "Creating Model Context Protocol integrations that enhanced Power BI data models with AI-driven metadata, enabling intelligent data discovery and automated insight generation.",
+    "Implementing Agent-to-Agent communication frameworks that coordinated multiple AI systems for automated insurance data processing and analytics workflow orchestration.",
+    "Building LangChain and LangGraph integrations that connected Power BI with AI language models, enabling natural language querying and automated report generation.",
+    "Developing AI-enhanced ETL pipelines that used machine learning to automatically detect data quality issues and optimize transformation logic for insurance analytics.",
+    "Creating intelligent datamarts with AI integration that learned from user interactions and automatically suggested relevant insights and visualizations.",
+    "Implementing automated analytics systems that combined Power BI with AI agents to proactively identify insurance trends and generate predictive business insights."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Power BI and DAX to address complex insurance analytics challenges by developing interactive dashboards that transformed multi-source data into executive insights while ensuring regulatory compliance.",
+        "Leveraging SQL and Azure SQL to design robust data models that processed insurance claims data through star schema architectures, enabling efficient query performance and accurate reporting.",
+        "Implementing ETL processes with Azure Data Factory that automated data extraction from multiple insurance systems, creating reliable pipelines that maintained data quality standards.",
+        "Building Synapse Analytics solutions that handled large-scale insurance data processing, creating dedicated SQL pools that supported complex analytical queries for business intelligence.",
+        "Designing Azure Data Lake storage architectures that organized structured and unstructured insurance data, creating centralized repositories for analytics and compliance reporting.",
+        "Developing SSIS packages that transformed legacy insurance data into modern analytics formats, migrating historical records while maintaining data integrity and business logic.",
+        "Creating API integrations that connected Power BI dashboards with real-time insurance data sources, enabling live updates and dynamic reporting for operational decision-making.",
+        "Implementing Row-Level Security with DAX that controlled data access in insurance reports based on user roles and regional permissions, ensuring compliance with privacy regulations.",
+        "Building Model Context Protocol integrations that enhanced Power BI data models with AI-driven metadata, enabling intelligent data discovery and automated insight generation for insurance analytics.",
+        "Creating Agent-to-Agent communication frameworks that coordinated multiple AI systems for automated insurance data processing and analytics workflow orchestration across business units.",
+        "Developing LangChain and LangGraph integrations that connected Power BI with AI language models, enabling natural language querying and automated report generation for insurance stakeholders.",
+        "Building AI-enhanced ETL pipelines that used machine learning to automatically detect data quality issues and optimize transformation logic for insurance analytics workflows.",
+        "Designing intelligent datamarts with AI integration that learned from user interactions and automatically suggested relevant insurance insights and visualizations.",
+        "Implementing automated analytics systems that combined Power BI with AI agents to proactively identify insurance trends and generate predictive business insights for decision-making.",
+        "Creating collaborative analytics environments that enabled cross-functional insurance teams to access and interact with AI-enhanced business intelligence insights securely.",
+        "Developing KPI tracking systems that monitored insurance business performance across multiple dimensions, creating actionable metrics enhanced by AI-driven pattern recognition."
+      ],
+      "environment": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Azure SQL",
+        "Azure Data Factory",
+        "Synapse Analytics",
+        "Azure Data Lake",
+        "SSIS",
+        "APIs",
+        "Excel",
+        "Row-Level Security",
+        "Model Context Protocol",
+        "Agent-to-Agent",
+        "LangChain",
+        "LangGraph"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Power BI and DAX to address healthcare analytics challenges by developing interactive dashboards that transformed clinical data into insights while ensuring HIPAA compliance.",
+        "Leveraging SQL and Azure SQL to design data models that processed healthcare information through optimized schemas, enabling efficient reporting and analysis.",
+        "Implementing ETL processes with Azure Data Factory that automated data extraction from healthcare systems, creating pipelines that maintained data privacy and security.",
+        "Building Synapse Analytics solutions that handled healthcare data processing, creating SQL pools that supported complex analytical queries for clinical research.",
+        "Designing Azure Data Lake storage that organized healthcare data, creating secure repositories for analytics and research reporting with proper access controls.",
+        "Developing SSIS packages that transformed healthcare data into analytics formats, migrating records while maintaining data integrity and patient privacy.",
+        "Creating API integrations that connected Power BI dashboards with healthcare data sources, enabling secure data access and dynamic reporting for clinical teams.",
+        "Implementing Row-Level Security with DAX that controlled healthcare data access based on user roles and clinical permissions, ensuring HIPAA compliance.",
+        "Building Model Context Protocol integrations that enhanced healthcare data models with AI metadata, enabling intelligent data discovery and automated clinical insights.",
+        "Creating Agent-to-Agent frameworks that coordinated AI systems for automated healthcare data processing and analytics workflow management.",
+        "Developing LangChain integrations that connected Power BI with healthcare AI models, enabling natural language querying of clinical data and research findings.",
+        "Building AI-enhanced ETL pipelines that used machine learning to optimize healthcare data transformation and ensure data quality for clinical analytics.",
+        "Designing intelligent datamarts that learned from healthcare user interactions and automatically suggested relevant clinical insights and research patterns.",
+        "Implementing automated analytics systems that combined Power BI with AI agents to proactively identify healthcare trends and generate predictive clinical insights."
+      ],
+      "environment": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Azure SQL",
+        "Azure Data Factory",
+        "Synapse Analytics",
+        "Azure Data Lake",
+        "SSIS",
+        "APIs",
+        "Row-Level Security",
+        "Model Context Protocol",
+        "Agent-to-Agent",
+        "LangChain",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using AWS QuickSight to address public health analytics challenges by developing dashboards that transformed health data into insights while ensuring HIPAA compliance.",
+        "Leveraging SQL and Redshift to design data models that processed public health information through optimized schemas, enabling efficient reporting and analysis.",
+        "Implementing ETL processes with AWS Glue that automated data extraction from health systems, creating pipelines that maintained data privacy and security.",
+        "Building Redshift solutions that handled public health data processing, creating clusters that supported analytical queries for health department reporting.",
+        "Designing S3 storage that organized public health data, creating secure repositories for analytics and research with proper access controls.",
+        "Developing data transformation processes that converted health data into analytics formats, maintaining data integrity and individual privacy.",
+        "Creating API integrations that connected analytics dashboards with health data sources, enabling secure data access and dynamic reporting.",
+        "Implementing security controls that managed health data access based on user roles and departmental permissions, ensuring regulatory compliance.",
+        "Building data export frameworks that delivered insights to public health users, enabling analysis while maintaining data security.",
+        "Designing data modeling solutions that optimized public health data relationships, creating efficient structures for health analytics.",
+        "Developing data transformation workflows that cleaned health data into analysis-ready formats, implementing privacy safeguards.",
+        "Creating AWS data solutions that integrated health systems with analytics platforms, establishing secure connections and compliance."
+      ],
+      "environment": [
+        "AWS QuickSight",
+        "SQL",
+        "Redshift",
+        "AWS Glue",
+        "S3",
+        "APIs",
+        "Public health data",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Tableau to address financial analytics challenges by developing dashboards that transformed banking data into insights while ensuring PCI compliance.",
+        "Leveraging SQL and AWS databases to design data models that processed financial information through optimized schemas, enabling efficient reporting.",
+        "Implementing ETL processes with AWS Glue that automated data extraction from banking systems, creating pipelines that maintained data security.",
+        "Building Redshift solutions that handled financial data processing, creating clusters that supported analytical queries for business intelligence.",
+        "Designing S3 storage that organized financial data, creating secure repositories for analytics with proper access controls.",
+        "Developing data transformation processes that converted financial data into analytics formats, maintaining data integrity and security.",
+        "Creating API integrations that connected analytics dashboards with financial data sources, enabling secure data access and reporting.",
+        "Implementing security controls that managed financial data access based on user roles and business permissions, ensuring regulatory compliance.",
+        "Building data export frameworks that delivered insights to financial users, enabling analysis while maintaining data security.",
+        "Designing data modeling solutions that optimized financial data relationships, creating efficient structures for business analytics."
+      ],
+      "environment": [
+        "Tableau",
+        "SQL",
+        "Redshift",
+        "AWS Glue",
+        "S3",
+        "APIs",
+        "Financial data",
+        "PCI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that handled large datasets from multiple business systems for consulting projects.",
+        "Leveraging Informatica to develop ETL processes that transformed client data into analysis-ready formats, creating reusable mappings that accelerated project delivery.",
+        "Implementing data integration pipelines with Sqoop that transferred data between relational databases and Hadoop clusters, ensuring data consistency and completeness.",
+        "Designing data storage solutions with HDFS that organized client project data, creating accessible repositories for analysis and reporting requirements.",
+        "Building data processing workflows that automated ETL operations for client engagements, ensuring timely data availability for consulting analysis.",
+        "Developing data quality checks that validated client data integrity throughout processing pipelines, identifying data issues that needed client resolution.",
+        "Creating data documentation standards that captured source system details and transformation logic for client knowledge transfer and project continuity.",
+        "Implementing basic data security measures that protected client information during processing and analysis, maintaining confidentiality for consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Relational databases",
+        "ETL processes",
+        "Data quality",
+        "Client consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

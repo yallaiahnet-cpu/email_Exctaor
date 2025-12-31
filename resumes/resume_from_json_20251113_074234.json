@@ -1,0 +1,328 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Software Engineer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "linkedin.com/in/hari-krishna-kosana"
+  },
+  "professional_summary": [
+    "Using C# and ASP.NET to address enterprise application challenges, I built scalable backend services that improved system reliability and performance across multiple domains. This involved implementing SOLID principles and design patterns to create maintainable codebases that could evolve with business needs.",
+    "With VB.NET for legacy system modernization, I migrated outdated applications to current .NET frameworks while preserving business logic and ensuring compatibility with existing enterprise infrastructure. This required careful analysis of dependencies and gradual refactoring approaches.",
+    "Applying SQL databases to complex data management problems, I developed optimized stored procedures and database schemas that enhanced query performance and data integrity for high-transaction systems in healthcare and financial domains.",
+    "Using Azure cloud services to solve scalability challenges, I deployed and configured web applications, API services, and SQL databases that automatically adjusted to fluctuating workloads while maintaining cost efficiency and security compliance.",
+    "With AWS cloud environments for distributed systems, I implemented EC2 instances and RDS databases that supported global application deployment, focusing on high availability and disaster recovery strategies for critical business operations.",
+    "Through .NET Core for modern application development, I created cross-platform services that integrated with existing enterprise systems while providing improved performance and deployment flexibility compared to traditional framework approaches.",
+    "Applying Entity Framework for data access layer optimization, I designed repository patterns and unit of work implementations that simplified database interactions and reduced development time for complex business applications.",
+    "Using Angular and React for user interface challenges, I built responsive web applications that provided consistent user experiences across devices while maintaining clean separation between frontend and backend responsibilities.",
+    "With microservices architecture for system decomposition, I broke down monolithic applications into focused services that could be developed, deployed, and scaled independently while maintaining clear communication protocols.",
+    "Through CI/CD pipelines in Azure DevOps, I automated build and deployment processes that reduced manual errors and accelerated delivery timelines while ensuring consistent environments across development and production.",
+    "Applying design patterns to software architecture problems, I implemented factory, strategy, and observer patterns that made code more flexible and easier to maintain as requirements evolved over multiple development cycles.",
+    "Using ASP.NET Web API for service integration challenges, I created RESTful endpoints that enabled seamless data exchange between different systems while implementing proper authentication and authorization mechanisms.",
+    "With PowerShell for automation tasks, I developed deployment scripts that streamlined environment setup and configuration management, reducing manual intervention and potential human errors in critical processes.",
+    "Through T-SQL and PL/SQL for database development, I wrote complex queries and procedures that handled business logic at the database level, improving performance for data-intensive operations in enterprise applications.",
+    "Applying Docker for containerization needs, I packaged applications and their dependencies into portable containers that ensured consistent behavior across different environments from development to production.",
+    "Using Git for version control management, I implemented branching strategies that supported parallel development efforts while maintaining code quality and enabling efficient collaboration across distributed teams.",
+    "With Agile methodologies for project execution, I participated in iterative development cycles that delivered incremental value to stakeholders while adapting to changing requirements and priorities.",
+    "Through problem-solving approaches for technical challenges, I analyzed root causes of system issues and implemented sustainable solutions that addressed underlying problems rather than just surface symptoms.",
+    "Applying attention to detail in code review processes, I identified potential issues early in development cycles and provided constructive feedback that improved overall code quality and maintainability.",
+    "With communication skills for cross-team collaboration, I facilitated discussions between technical and non-technical stakeholders to ensure clear understanding of requirements and constraints across project boundaries."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "VB.NET",
+      "Python",
+      "PowerShell",
+      "T-SQL",
+      "PL/SQL",
+      "Java"
+    ],
+    "Web Technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "TypeScript",
+      "XML",
+      "JSON",
+      "SOAP",
+      "REST"
+    ],
+    "Frameworks & Libraries": [
+      "ASP.NET",
+      ".NET Core",
+      "MVC",
+      "Web API",
+      "Microservices",
+      "ADO.NET",
+      "LINQ",
+      "Entity Framework",
+      ".NET MAUI",
+      "Angular",
+      "React",
+      "Bootstrap",
+      "Kendo UI"
+    ],
+    "Databases": [
+      "SQL Server",
+      "PostgreSQL",
+      "MongoDB",
+      "Cosmos DB"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "AWS",
+      "GCP"
+    ],
+    "Development Tools": [
+      "Azure DevOps",
+      "AWS Code Pipeline",
+      "Postman",
+      "Swagger",
+      "Protractor",
+      "NUnit",
+      "Selenium",
+      "JMeter",
+      "IIS"
+    ],
+    "Methodologies": [
+      "Object-Oriented Programming",
+      "Design Patterns",
+      "SOLID Principles",
+      "Agile Development",
+      "CI/CD",
+      "Microservices Architecture"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "BookedBy",
+      "duration": "Jan 2025 - Present",
+      "responsibilities": [
+        "Using C# and .NET Core to address booking system scalability challenges, I architected microservices that handled peak traffic loads while maintaining sub-second response times for critical reservation operations.",
+        "With ASP.NET Web API for service integration needs, I designed RESTful endpoints that connected booking engines with payment processors and inventory management systems while ensuring data consistency across distributed transactions.",
+        "Applying SQL Server for data persistence requirements, I optimized database schemas and indexing strategies that supported complex query patterns for availability checking and pricing calculations across multiple property types.",
+        "Through Azure cloud services for application deployment, I configured auto-scaling rules and load balancing that automatically adjusted resource allocation based on seasonal demand patterns and promotional events.",
+        "Using Entity Framework Core for data access optimization, I implemented repository patterns with efficient change tracking that minimized database round trips while maintaining clear separation of concerns in the data layer.",
+        "With Angular for user interface development, I built responsive booking components that provided seamless experiences across desktop and mobile devices while integrating with backend services through well-defined APIs.",
+        "Through Azure DevOps for continuous integration, I established build pipelines that automatically tested code changes and deployed validated builds to staging environments, reducing manual deployment efforts by significant margins.",
+        "Applying design patterns to complex business logic, I implemented strategy patterns for pricing calculations and factory patterns for reservation creation that made the system adaptable to different property types and booking scenarios.",
+        "Using PowerShell for deployment automation, I created scripts that provisioned Azure resources and configured application settings across environments, ensuring consistency between development, testing, and production setups.",
+        "With application monitoring tools, I set up alerting mechanisms that detected performance degradation and system errors proactively, enabling quick response to issues before they impacted customer experiences.",
+        "Through code review processes, I provided detailed feedback on implementation approaches and identified potential improvements in areas like error handling, logging, and maintainability for long-term code health.",
+        "Applying security best practices, I implemented authentication and authorization mechanisms that protected customer data and payment information while complying with industry standards for online transactions.",
+        "Using caching strategies for performance optimization, I configured distributed caching that reduced database load for frequently accessed data like property details and availability calendars.",
+        "With message queues for asynchronous processing, I designed background job systems that handled email notifications and reporting generation without blocking primary booking workflows.",
+        "Through database optimization techniques, I analyzed query performance and created appropriate indexes that improved response times for search operations involving multiple filters and sorting options.",
+        "Applying testing methodologies, I developed comprehensive unit tests that covered critical business logic and integration tests that verified service interactions across the distributed system architecture.",
+        "Using configuration management approaches, I implemented feature toggles and environment-specific settings that allowed controlled rollouts of new functionality and easy configuration changes without code deployments.",
+        "With collaboration skills, I worked closely with product managers to clarify requirements and with quality assurance teams to establish testing strategies that ensured delivered features met business expectations.",
+        "Through performance tuning exercises, I identified bottlenecks in data access layers and service communications, implementing optimizations that improved overall system throughput and resource utilization.",
+        "Applying containerization concepts, I packaged services into Docker containers that could be deployed consistently across different environments while simplifying dependency management and deployment processes.",
+        "Using monitoring and logging tools, I established comprehensive observability that provided insights into system behavior and user interactions, enabling data-driven decisions for future improvements.",
+        "With legacy system integration challenges, I designed adaptation layers that connected modern microservices with existing systems while gradually migrating functionality to new architectures."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET",
+        "SQL Server",
+        "Azure",
+        "Angular",
+        "Entity Framework",
+        "Azure DevOps",
+        "Microservices",
+        "Docker",
+        "PowerShell",
+        "REST API",
+        "Git"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Mayo Clinic",
+      "duration": "Jan 2024 \u2013 Dec 2024",
+      "responsibilities": [
+        "Using ASP.NET Core for healthcare application development, I built patient management systems that handled sensitive medical data while complying with HIPAA regulations and security requirements.",
+        "With C# for business logic implementation, I developed modules for appointment scheduling and medical record access that ensured proper authorization checks and audit trails for compliance purposes.",
+        "Applying SQL Server for healthcare data storage, I designed database schemas that organized patient information efficiently while supporting complex reporting needs and research data extraction.",
+        "Through Entity Framework for data access, I created models that mapped clinical entities to database tables while implementing validation rules that maintained data integrity across medical workflows.",
+        "Using React for user interface components, I built responsive forms and dashboards that healthcare providers used for patient interactions while ensuring accessibility standards were met for diverse user needs.",
+        "With Azure cloud services for application hosting, I deployed web applications and APIs that scaled to handle varying patient loads while maintaining high availability for critical healthcare operations.",
+        "Through security implementation, I configured authentication systems that verified user identities and authorization mechanisms that controlled access to sensitive medical information based on roles and permissions.",
+        "Applying HIPAA compliance requirements, I implemented encryption for data at rest and in transit, along with detailed audit logging that tracked access to protected health information for compliance reporting.",
+        "Using Web API for service integration, I created endpoints that connected clinical systems with laboratory results and imaging reports while ensuring data consistency and reliability in critical healthcare workflows.",
+        "With performance optimization techniques, I improved database query performance and application response times that affected healthcare provider productivity and patient care delivery efficiency.",
+        "Through collaboration with clinical teams, I gathered requirements and feedback that shaped application features to better support actual healthcare workflows and user preferences.",
+        "Applying testing approaches, I developed comprehensive test cases that verified application behavior under various scenarios, including edge cases that could impact patient safety or data accuracy.",
+        "Using Agile methodologies, I participated in sprint planning and review sessions that aligned development efforts with clinical priorities and delivered incremental value to healthcare operations.",
+        "With problem-solving skills, I analyzed production issues and implemented fixes that resolved problems quickly while identifying root causes to prevent similar issues in future developments.",
+        "Through code quality practices, I maintained clean, well-documented code that facilitated knowledge sharing among team members and supported long-term maintainability of healthcare applications.",
+        "Applying integration patterns, I connected new applications with existing electronic health record systems using standardized interfaces and data formats that ensured interoperability across clinical systems.",
+        "Using monitoring tools, I set up health checks and performance metrics that provided visibility into application behavior and alerted teams to potential issues before they affected clinical operations.",
+        "With deployment automation, I created scripts that streamlined the release process and reduced manual errors while ensuring consistent configurations across different healthcare environment tiers."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET Core",
+        "SQL Server",
+        "Entity Framework",
+        "React",
+        "Azure",
+        "Web API",
+        "HIPAA",
+        "REST",
+        "Agile",
+        "Git",
+        "PowerShell",
+        "JavaScript"
+      ]
+    },
+    {
+      "role": "Senior Software Developer",
+      "client": "Delta Airlines",
+      "duration": "Aug 2021 \u2013 Dec 2023",
+      "responsibilities": [
+        "Using .NET technologies for airline systems development, I built flight booking modules that processed reservation requests and managed seat inventory across multiple aircraft configurations and fare classes.",
+        "With C# for backend service implementation, I developed real-time flight status tracking that aggregated data from various sources and provided accurate departure and arrival information to customers and operations staff.",
+        "Applying SQL Server for airline data management, I designed database structures that stored flight schedules, passenger manifests, and booking transactions while ensuring data consistency across distributed systems.",
+        "Through Web API development, I created services that integrated booking engines with payment gateways and loyalty programs while handling high volumes of transactions during peak travel periods.",
+        "Using Angular for customer-facing applications, I built responsive interfaces that allowed travelers to search flights, manage bookings, and check flight status across different device types and screen sizes.",
+        "With performance optimization techniques, I improved system response times for flight search operations that involved complex pricing rules and availability checks across connecting flight options.",
+        "Through integration challenges, I connected airline systems with partner airlines and code-share operations, ensuring seamless booking experiences and consistent data exchange across different carrier systems.",
+        "Applying security measures, I implemented authentication systems that protected customer accounts and payment information while complying with airline industry standards for data protection.",
+        "Using messaging systems for asynchronous processing, I designed notification services that sent booking confirmations, flight updates, and check-in reminders to passengers through multiple communication channels.",
+        "With problem-solving approaches, I analyzed production issues in booking workflows and implemented solutions that restored system functionality while addressing underlying causes to prevent recurrence.",
+        "Through collaboration with operations teams, I developed features that supported airport operations and crew management while ensuring system reliability for critical airline functions.",
+        "Applying Agile methodologies, I participated in feature planning and iteration reviews that aligned technical development with business priorities in the dynamic airline industry environment.",
+        "Using monitoring tools, I established performance baselines and alerting mechanisms that detected system anomalies and enabled proactive maintenance before issues affected customer experiences.",
+        "With database optimization skills, I improved query performance for complex reporting needs that supported business intelligence and operational decision-making across airline departments.",
+        "Through code quality practices, I maintained well-structured, testable code that facilitated team collaboration and supported the evolution of airline systems over multiple development cycles.",
+        "Applying cloud services, I migrated certain applications to Azure infrastructure that provided scalability for seasonal demand fluctuations and improved disaster recovery capabilities for critical airline operations."
+      ],
+      "environment": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "Angular",
+        "Web API",
+        "Azure",
+        "Entity Framework",
+        "REST",
+        "Agile",
+        "Git",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "role": "Software Programmer",
+      "client": "State of PA",
+      "duration": "Mar 2019 \u2013 July 2021",
+      "responsibilities": [
+        "Using .NET Framework for government system development, I built portal applications that provided citizens with access to public services and information while ensuring accessibility compliance.",
+        "With C# for business logic implementation, I developed modules for license applications and permit processing that automated workflow steps and reduced manual processing time for government staff.",
+        "Applying SQL Server for data management, I designed database structures that stored citizen information and transaction records while implementing security measures appropriate for government data classification.",
+        "Through Web Forms development, I created interactive pages that guided users through complex application processes while providing clear instructions and validation feedback at each step.",
+        "With integration requirements, I connected government systems with external agencies and payment processors while ensuring data accuracy and transaction security across organizational boundaries.",
+        "Using security protocols, I implemented authentication systems that verified user identities and authorization mechanisms that controlled access to sensitive government information based on roles and clearances.",
+        "Through collaboration with government stakeholders, I gathered requirements and feedback that shaped application features to better serve citizen needs and operational efficiency goals.",
+        "Applying testing methodologies, I developed test cases that verified application functionality across different user scenarios and compliance requirements specific to government operations.",
+        "With documentation practices, I created technical specifications and user guides that supported system maintenance and user adoption across different government departments and staff roles.",
+        "Using problem-solving skills, I analyzed system issues reported by users and implemented fixes that resolved problems while maintaining system stability and data integrity.",
+        "Through performance optimization, I improved application response times for data-intensive operations that involved complex business rules and multiple data validation checks.",
+        "Applying version control practices, I managed code changes and releases that supported parallel development efforts and coordinated deployments across different government environment tiers.",
+        "With support responsibilities, I assisted operations staff with system usage questions and technical issues, building understanding of actual user experiences and common challenges."
+      ],
+      "environment": [
+        ".NET Framework",
+        "C#",
+        "SQL Server",
+        "Web Forms",
+        "ADO.NET",
+        "JavaScript",
+        "IIS",
+        "Git",
+        "HTML",
+        "CSS",
+        "REST",
+        "SOAP"
+      ]
+    },
+    {
+      "role": "Software Programmer",
+      "client": "Wells Fargo",
+      "duration": "Nov 2017\u2013 Feb 2019",
+      "responsibilities": [
+        "Using C# for financial application development, I built transaction processing modules that handled banking operations while implementing business rules for compliance and risk management.",
+        "With ASP.NET for web application creation, I developed internal tools that supported banking operations and customer service functions while ensuring data security and access controls.",
+        "Applying SQL Server for financial data storage, I worked with database structures that stored account information and transaction records while maintaining data integrity across banking operations.",
+        "Through collaboration with senior developers, I learned banking domain concepts and regulatory requirements that influenced technical implementation decisions and system design approaches.",
+        "Using testing frameworks, I wrote unit tests that verified business logic correctness and helped identify issues early in the development cycle before deployment to production environments.",
+        "With version control systems, I managed code changes and participated in code review processes that improved code quality and knowledge sharing across the development team.",
+        "Through support activities, I assisted with production issue investigation and resolution, gaining understanding of real-world system behavior and customer impact considerations.",
+        "Applying documentation practices, I created technical documentation that described system functionality and implementation details for future maintenance and enhancement work.",
+        "Using problem-solving approaches, I analyzed assigned tasks and developed implementation plans that addressed requirements while following established coding standards and architectural guidelines.",
+        "With learning mindset, I acquired knowledge of financial systems architecture and banking operations that informed my technical decisions and implementation approaches."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET",
+        "SQL Server",
+        "ADO.NET",
+        "JavaScript",
+        "IIS",
+        "Git",
+        "HTML",
+        "CSS",
+        "NUnit"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "Oct 2015 \u2013 Aug 2017",
+      "responsibilities": [
+        "Using .NET technologies for telecommunications systems, I assisted with billing application development that calculated charges and generated invoices for mobile service customers.",
+        "With C# for module implementation, I worked on customer management features that handled account information and service subscriptions while learning telecommunications business processes.",
+        "Applying SQL Server for data operations, I wrote queries and stored procedures that retrieved customer data and service usage records for billing and reporting purposes.",
+        "Through collaboration with team members, I participated in design discussions and implementation planning that distributed work across developers while maintaining system consistency.",
+        "Using development tools, I learned debugging techniques and problem-solving approaches that helped identify and resolve issues in assigned development tasks.",
+        "With version control systems, I managed my code contributions and learned branching strategies that supported parallel development across team members.",
+        "Through testing activities, I verified functionality of assigned components and participated in integration testing that ensured different system parts worked together correctly.",
+        "Applying documentation practices, I recorded implementation details and technical decisions that supported knowledge transfer and future maintenance activities.",
+        "With learning focus, I acquired understanding of telecommunications systems architecture and how different components interacted to deliver customer services.",
+        "Using support responsibilities, I assisted with issue investigation and learned how to reproduce problems reported by users or identified through monitoring systems."
+      ],
+      "environment": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "ADO.NET",
+        "JavaScript",
+        "IIS",
+        "Git",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "Microsoft Azure Fundamentals (AZ-900)",
+    "Microsoft Azure Data Fundamentals (DP-900)",
+    "Microsoft Azure AI Fundamentals (AI-900)",
+    "Microsoft Azure Database Administrator Associate (DP-300)",
+    "Microsoft Azure Data Engineer Associate (DP-203)"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Master Data Management (MDM) Architect & Data Engineering Leader",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-scale Master Data Management platforms, financial reference data systems, and data governance solutions across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Architected IBM MDM platforms to centralize customer and product master data, resolving duplicate records through survivorship rules, which improved data quality scores and reduced manual reconciliation effort across business units.",
+    "Built real-time data pipelines using Kafka and PySpark to stream financial reference data from Bloomberg and Reuters feeds into Snowflake, ensuring compliance with BCBS 239 reporting standards and reducing data latency for risk management teams.",
+    "Designed GraphQL microservices to expose master data APIs for downstream applications, replacing legacy REST endpoints, which accelerated integration timelines and improved query response times for trading desks and compliance systems.",
+    "Implemented Azure Data Factory orchestration workflows to automate ETL processes for counterparty and party master data, integrating ADLS storage with Databricks for data transformations, which streamlined regulatory reporting and audit trails.",
+    "Configured Airflow DAGs to schedule data quality checks and metadata lineage tracking across master data domains, ensuring data privacy standards and enabling governance teams to monitor data flows end-to-end with automated alerting.",
+    "Migrated on-premise MDM systems to Azure Databricks, optimizing PySpark jobs for distributed computing, which reduced processing time for large-scale data matching operations and improved resource utilization across the data platform.",
+    "Developed data modeling frameworks for customer, product, and counterparty domains, defining entity-relationship models and reference data hierarchies, which aligned business stakeholders and technical teams on data definitions and governance policies.",
+    "Established CI/CD pipelines using Git version control and Jenkins to automate deployment of MDM configurations and microservices, which minimized manual errors and accelerated release cycles for data platform updates across environments.",
+    "Collaborated with data architects to define master data matching algorithms and survivorship rules, handling edge cases in duplicate detection, which improved match accuracy and reduced false positives in customer and party data consolidation.",
+    "Integrated Informatica Data Quality tools with IBM MDM to validate incoming data feeds, applying business rules for data standardization, which ensured compliance with AML and KYC regulations and reduced data cleansing overhead.",
+    "Worked closely with DevOps teams to implement security standards including encryption, IAM policies, and RBAC controls for MDM platforms, ensuring SOX compliance and protecting sensitive financial data from unauthorized access.",
+    "Facilitated requirements gathering sessions with business stakeholders to understand master data needs for trading, risk, and compliance functions, translating business requirements into technical specifications and data governance frameworks.",
+    "Presented architecture designs to governance committees, explaining data lineage flows and metadata management strategies, which helped secure buy-in from leadership and aligned data strategies to meet business needs across divisions.",
+    "Mentored data engineers on best practices for PySpark optimization, Kafka event-driven architecture, and Snowflake performance tuning, which built team capabilities and improved code quality across master data management projects.",
+    "Troubleshot production issues in real-time data pipelines, debugging PySpark transformations and Kafka consumer lag, which minimized downtime and maintained SLA commitments for critical financial reference data feeds.",
+    "Participated in code reviews to ensure adherence to data governance standards, data quality checks, and metadata documentation practices, which improved consistency and maintainability of MDM codebase across teams.",
+    "Automated workflow monitoring using Azure Monitor and custom alerting scripts, tracking data pipeline health and MDM system performance, which enabled proactive issue resolution and reduced mean time to recovery for incidents."
+  ],
+  "technical_skills": {
+    "Master Data Management Platforms": [
+      "IBM MDM",
+      "Informatica MDM",
+      "Master Data Matching",
+      "Survivorship Rules",
+      "Data Stewardship",
+      "Golden Record Management"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Big Data & Processing Frameworks": [
+      "PySpark",
+      "Apache Spark",
+      "Apache Kafka",
+      "Databricks",
+      "Distributed Computing",
+      "Event-Driven Architecture"
+    ],
+    "Cloud Data Platforms": [
+      "Snowflake",
+      "Azure Databricks",
+      "Azure Data Factory (ADF)",
+      "ADLS Gen2",
+      "AWS S3"
+    ],
+    "Data Orchestration & Workflow": [
+      "Apache Airflow",
+      "Astronomer",
+      "Azure Data Factory",
+      "Workflow Automation"
+    ],
+    "Data Governance & Quality": [
+      "Data Governance Frameworks",
+      "Data Quality Management",
+      "Metadata Management",
+      "Data Lineage Tools",
+      "Informatica IDQ",
+      "Collibra"
+    ],
+    "API & Microservices": [
+      "GraphQL",
+      "REST APIs",
+      "Microservices Architecture"
+    ],
+    "Data Modeling & Architecture": [
+      "ER Modeling",
+      "Reference Data Models",
+      "Master Data Architecture",
+      "Data Domain Design"
+    ],
+    "Financial Reference Data Systems": [
+      "Bloomberg Data Feeds",
+      "Reuters EDM",
+      "Counterparty Data",
+      "Party Master Data"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "CI/CD Pipelines",
+      "Azure DevOps"
+    ],
+    "Security & Compliance": [
+      "Encryption Standards",
+      "IAM",
+      "RBAC",
+      "BCBS 239",
+      "AML/KYC",
+      "SOX Compliance"
+    ],
+    "Databases": [
+      "SQL Server",
+      "PostgreSQL",
+      "Snowflake",
+      "Azure SQL Database"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Build IBM MDM platform for insurance policy and customer master data domains, configuring survivorship rules to handle duplicate records from legacy systems, which improves data quality for underwriting and claims processing teams.",
+        "Create PySpark jobs in Azure Databricks to process large-scale insurance policy data, applying transformations for master data consolidation, which reduces data processing time and enables real-time analytics for risk assessment.",
+        "Integrate Kafka streams to capture policy change events from core insurance systems, routing data to Snowflake for master data updates, which ensures data consistency across quoting, billing, and claims platforms.",
+        "Develop GraphQL microservices to expose customer and policy master data APIs, enabling mobile and web applications to query golden records, which accelerates application development and improves customer experience.",
+        "Configure Azure Data Factory pipelines to orchestrate ETL workflows for insurance reference data, moving data from ADLS to Databricks for cleansing and enrichment, which streamlines regulatory reporting and compliance tracking.",
+        "Set up Airflow DAGs to schedule data quality validation and metadata lineage updates across master data domains, ensuring compliance with insurance regulations and data privacy standards including GDPR.",
+        "Optimize distributed computing performance for PySpark transformations, tuning partition sizes and broadcast joins, which reduces cluster costs and improves processing efficiency for master data matching operations.",
+        "Design entity-relationship models for policy, customer, and agent master data, defining reference data hierarchies and data governance policies, which aligns business stakeholders on data definitions and usage standards.",
+        "Implement CI/CD pipelines using Git and Azure DevOps to automate deployment of MDM configurations and data pipeline code, which minimizes manual errors and accelerates release cycles for platform updates.",
+        "Collaborate with data governance teams to define master data matching algorithms for customer deduplication, handling edge cases in name and address matching, which improves match accuracy and reduces false positives.",
+        "Validate incoming insurance policy feeds using data quality rules in Informatica IDQ, standardizing address and contact information, which ensures compliance with insurance regulations and reduces data cleansing overhead.",
+        "Apply security standards including encryption, IAM policies, and RBAC controls for MDM platform access, ensuring SOX compliance and protecting sensitive customer and policy data from unauthorized access.",
+        "Gather requirements from insurance business stakeholders to understand master data needs for claims, underwriting, and customer service functions, translating business requirements into technical specifications.",
+        "Present architecture designs to insurance leadership, explaining data lineage flows and metadata management strategies, which secures buy-in for master data initiatives and aligns data strategies to business needs.",
+        "Mentor data engineers on PySpark optimization techniques, Kafka event-driven patterns, and Snowflake best practices, which builds team capabilities and improves code quality across insurance data projects.",
+        "Troubleshoot production issues in real-time policy data pipelines, debugging PySpark transformations and Kafka consumer lag, which minimizes downtime and maintains SLA commitments for critical insurance operations."
+      ],
+      "environment": [
+        "IBM MDM",
+        "Python",
+        "PySpark",
+        "Apache Kafka",
+        "Azure Databricks",
+        "Snowflake",
+        "Azure Data Factory",
+        "Apache Airflow",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "Azure DevOps",
+        "CI/CD",
+        "ADLS Gen2",
+        "Informatica IDQ",
+        "Data Governance",
+        "Master Data Matching",
+        "Survivorship Rules",
+        "Insurance Domain",
+        "GDPR",
+        "SOX Compliance"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Architected IBM MDM platform for healthcare product and patient master data domains, configuring survivorship rules to consolidate records from clinical trial and supply chain systems, which improved data quality for regulatory submissions.",
+        "Built PySpark pipelines in Azure Databricks to process healthcare product data, applying transformations for master data consolidation, which reduced data processing time and enabled real-time reporting for FDA compliance.",
+        "Integrated Kafka streams to capture patient consent and product event data from electronic health record systems, routing data to Snowflake for master data updates, which ensured HIPAA compliance and data consistency.",
+        "Developed GraphQL microservices to expose product and patient master data APIs for clinical trial applications, replacing legacy REST endpoints, which accelerated integration timelines and improved query response times.",
+        "Configured Azure Data Factory pipelines to orchestrate ETL workflows for healthcare reference data, moving data from ADLS to Databricks for cleansing and enrichment, which streamlined regulatory reporting and audit trails.",
+        "Set up Airflow DAGs to schedule data quality checks and metadata lineage tracking across healthcare master data domains, ensuring compliance with HIPAA, FDA, and GDPR standards with automated alerting.",
+        "Optimized distributed computing performance for PySpark transformations, tuning cluster configurations and partition strategies, which reduced processing costs and improved efficiency for large-scale healthcare data matching.",
+        "Designed entity-relationship models for product, patient, and clinical trial master data, defining reference data hierarchies and governance policies, which aligned stakeholders on data definitions and usage standards.",
+        "Implemented CI/CD pipelines using Git and Jenkins to automate deployment of MDM configurations and microservices, which minimized manual errors and accelerated release cycles for healthcare data platform updates.",
+        "Collaborated with data architects to define master data matching algorithms for patient deduplication, handling edge cases in patient identifier matching, which improved match accuracy and reduced false positives.",
+        "Validated incoming healthcare product feeds using Informatica Data Quality tools, applying business rules for data standardization, which ensured regulatory compliance and reduced data cleansing overhead.",
+        "Applied security standards including encryption, IAM policies, and RBAC controls for MDM platform access, ensuring HIPAA compliance and protecting sensitive patient and product data from unauthorized access.",
+        "Gathered requirements from healthcare business stakeholders to understand master data needs for clinical trials, supply chain, and regulatory reporting, translating requirements into technical specifications.",
+        "Presented architecture designs to healthcare governance committees, explaining data lineage flows and metadata management strategies, which secured buy-in from leadership and aligned data strategies to business needs."
+      ],
+      "environment": [
+        "IBM MDM",
+        "Python",
+        "PySpark",
+        "Apache Kafka",
+        "Azure Databricks",
+        "Snowflake",
+        "Azure Data Factory",
+        "Apache Airflow",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "Jenkins",
+        "CI/CD",
+        "ADLS Gen2",
+        "Informatica Data Quality",
+        "Data Governance",
+        "Master Data Matching",
+        "Survivorship Rules",
+        "Healthcare Domain",
+        "HIPAA",
+        "FDA",
+        "GDPR"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed data pipelines using PySpark on AWS EMR to process healthcare eligibility and claims data, applying transformations for master data consolidation, which reduced data processing time for state healthcare reporting.",
+        "Integrated Kafka streams to capture patient enrollment events from state healthcare systems, routing data to Snowflake for master data updates, which ensured HIPAA compliance and data consistency across programs.",
+        "Built REST APIs using Python Flask to expose healthcare master data for state portal applications, enabling eligibility verification and claims lookup, which improved citizen experience and reduced call center volume.",
+        "Configured Airflow workflows to orchestrate ETL processes for healthcare reference data, moving data from AWS S3 to EMR for cleansing and enrichment, which streamlined regulatory reporting for state healthcare programs.",
+        "Set up data quality validation rules using Python scripts to standardize patient demographic and provider information, which ensured compliance with state healthcare regulations and reduced data cleansing overhead.",
+        "Optimized PySpark job performance by tuning executor memory and partition configurations, which reduced cluster costs and improved processing efficiency for large-scale healthcare data transformations.",
+        "Designed entity-relationship models for patient, provider, and claims master data, defining reference data hierarchies and governance policies, which aligned state agency stakeholders on data definitions and usage standards.",
+        "Implemented version control using Git and automated deployment scripts to manage data pipeline code releases, which minimized manual errors and accelerated release cycles for state healthcare data platform updates.",
+        "Collaborated with state healthcare policy teams to define data quality rules for patient eligibility verification, handling edge cases in income and residency validation, which improved eligibility determination accuracy.",
+        "Applied security standards including encryption and IAM policies for AWS infrastructure, ensuring HIPAA compliance and protecting sensitive patient and claims data from unauthorized access across state healthcare systems.",
+        "Gathered requirements from state healthcare administrators to understand master data needs for Medicaid, CHIP, and public health reporting, translating requirements into technical specifications and data models.",
+        "Troubleshot production issues in healthcare data pipelines, debugging PySpark transformations and Kafka consumer errors, which minimized downtime and maintained SLA commitments for critical state healthcare operations."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Apache Kafka",
+        "AWS EMR",
+        "Snowflake",
+        "Apache Airflow",
+        "REST APIs",
+        "Flask",
+        "Git",
+        "AWS S3",
+        "Data Quality Management",
+        "Master Data Consolidation",
+        "Healthcare Domain",
+        "HIPAA",
+        "CHIP",
+        "Medicaid"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Built data pipelines using PySpark on AWS EMR to process customer and account master data, applying transformations for data consolidation, which reduced data processing time for banking risk reporting and compliance.",
+        "Integrated Kafka streams to capture transaction events from core banking systems, routing data to Snowflake for master data updates, which ensured PCI-DSS compliance and data consistency across digital banking platforms.",
+        "Developed REST APIs using Python Flask to expose customer and account master data for mobile banking applications, enabling balance inquiries and transaction history lookup, which improved customer experience.",
+        "Configured Airflow workflows to orchestrate ETL processes for banking reference data, moving data from AWS S3 to EMR for cleansing and enrichment, which streamlined regulatory reporting for financial compliance teams.",
+        "Set up data quality validation rules using Python scripts to standardize customer demographic and account information, which ensured compliance with banking regulations and reduced data cleansing overhead for operations.",
+        "Optimized PySpark job performance by tuning cluster configurations and partition strategies, which reduced processing costs and improved efficiency for large-scale customer data matching and deduplication operations.",
+        "Designed entity-relationship models for customer, account, and transaction master data, defining reference data hierarchies and governance policies, which aligned business stakeholders on data definitions and usage standards.",
+        "Implemented version control using Git and automated deployment scripts to manage data pipeline code releases, which minimized manual errors and accelerated release cycles for banking data platform updates across environments.",
+        "Collaborated with banking compliance teams to define data quality rules for customer identity verification, handling edge cases in KYC and AML validation, which improved identity verification accuracy and reduced false positives.",
+        "Applied security standards including encryption and IAM policies for AWS infrastructure, ensuring PCI-DSS and SOX compliance and protecting sensitive customer and transaction data from unauthorized access across systems."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Apache Kafka",
+        "AWS EMR",
+        "Snowflake",
+        "Apache Airflow",
+        "REST APIs",
+        "Flask",
+        "Git",
+        "AWS S3",
+        "Data Quality Management",
+        "Master Data Consolidation",
+        "Banking Domain",
+        "PCI-DSS",
+        "KYC",
+        "AML",
+        "SOX Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built ETL pipelines using Informatica PowerCenter to extract data from Oracle databases, transform customer and product master data, and load into Hadoop clusters for analytics, which enabled reporting for business stakeholders.",
+        "Configured Sqoop jobs to import data from relational databases into HDFS, optimizing parallel import settings, which reduced data transfer time and improved efficiency for large-scale data ingestion operations.",
+        "Developed Hive queries to process and aggregate master data stored in Hadoop, creating summary tables for downstream reporting applications, which enabled business intelligence teams to analyze customer and product trends.",
+        "Set up data quality validation rules in Informatica to standardize customer demographic information, which ensured compliance with data governance policies and reduced data cleansing overhead for operations teams.",
+        "Collaborated with business analysts to understand master data requirements for customer segmentation and product analytics, translating requirements into ETL specifications and data models for implementation.",
+        "Implemented version control using Git to manage Informatica workflow configurations and SQL scripts, which improved collaboration and minimized errors during ETL code releases across development and production environments.",
+        "Optimized Hadoop MapReduce jobs by tuning mapper and reducer configurations, which reduced processing time and improved resource utilization for large-scale data transformations on consulting projects.",
+        "Learned data modeling techniques for customer and product master data, defining entity-relationship models and reference data hierarchies, which built foundational knowledge for enterprise data architecture practices."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Apache Sqoop",
+        "Hive",
+        "MapReduce",
+        "Oracle",
+        "Git",
+        "ETL",
+        "Data Quality",
+        "Master Data",
+        "Consulting Domain"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

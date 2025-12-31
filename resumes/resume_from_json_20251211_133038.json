@@ -1,0 +1,401 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/GenAI Platform Architect",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Bring 10 years of hands-on experience across Insurance, Healthcare, Banking, and Consulting domains, delivering AI platforms, RAG architectures, and GenAI solutions that modernize enterprise workflows and automate business processes.",
+    "Design scalable RAG frameworks using LangChain, LangGraph, and Vector databases like Pinecone, Weaviate, and ChromaDB to power retrieval pipelines for document-heavy financial and healthcare applications running on AWS and Azure cloud environments.",
+    "Build multi-agent systems using Model Context Protocol and Agent-to-Agent frameworks to orchestrate complex workflows, enabling autonomous task execution and inter-agent communication for insurance claims processing and healthcare data retrieval.",
+    "Develop proof-of-concept prototypes for GenAI applications leveraging Vertex AI, Hugging Face models, and AWS Bedrock to validate business use cases before full-scale deployment across banking and insurance platforms.",
+    "Implement distributed data processing pipelines with PySpark, Snowflake, and Databricks to handle large-scale datasets, ensuring efficient ETL workflows and real-time analytics for enterprise banking systems and insurance underwriting models.",
+    "Configure Airflow DAGs to orchestrate end-to-end ML pipelines, managing dependencies between data ingestion, feature engineering, model training, and deployment stages across multi-cloud environments for healthcare and financial institutions.",
+    "Apply prompt engineering techniques including zero-shot, few-shot, Chain-of-Thought, ReAct, and PAL to optimize LLM responses for specific business contexts, improving accuracy and reducing hallucinations in customer-facing chatbots and document analysis tools.",
+    "Deploy agentic workflows using LangGraph and AutoGen to create autonomous AI agents that handle multi-step reasoning tasks, integrate with external APIs, and maintain conversation state for insurance policy inquiries and healthcare appointment scheduling.",
+    "Integrate Graph RAG architectures to enhance knowledge retrieval by leveraging relationships between entities stored in vector databases and graph structures, improving context-aware responses for complex financial regulatory queries and medical record analysis.",
+    "Optimize LLM performance through fine-tuning methods like LoRA, QLoRA, SFT, and RLHF, adapting foundation models to domain-specific vocabularies and compliance requirements for banking fraud detection and healthcare diagnosis support systems.",
+    "Establish evaluation frameworks using RAGAS, TruLens, and DeepEval to measure RAG pipeline quality, tracking metrics like context relevance, answer faithfulness, and retrieval accuracy to ensure production-ready GenAI systems meet business SLAs.",
+    "Architect cloud-native AI solutions on AWS using SageMaker for model training, Bedrock for managed LLM access, S3 for data lakes, Lambda for serverless compute, and EKS for containerized microservices that support real-time prediction APIs.",
+    "Manage MLOps workflows with MLflow for experiment tracking, Kubeflow for pipeline orchestration, and SageMaker Pipelines for automated model retraining, ensuring reproducible and auditable ML lifecycle management in regulated financial environments.",
+    "Support multimodal AI pipelines processing text, audio, video, and images using pre-trained models from Hugging Face and custom-trained networks, enabling use cases like insurance claim photo analysis and patient medical imaging interpretation.",
+    "Collaborate with data engineering teams to design API-first microservices using REST principles, Docker containerization, and Kubernetes orchestration, facilitating seamless integration between AI models and downstream business applications.",
+    "Maintain observability across AI platforms using OpenTelemetry, Prometheus, and Grafana to monitor model latency, throughput, error rates, and resource utilization, quickly identifying bottlenecks and ensuring high availability for mission-critical banking services.",
+    "Ensure compliance with financial regulations like PCI-DSS and healthcare standards like HIPAA through data governance practices, encryption at rest and in transit, and audit logging mechanisms embedded within AI pipeline architectures.",
+    "Troubleshoot production issues in distributed systems by analyzing logs, profiling code performance, and coordinating with cloud architecture teams to resolve infrastructure bottlenecks, keeping AI services running smoothly during peak transaction periods."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "R",
+      "Java"
+    ],
+    "GenAI & LLM Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "Vertex AI",
+      "Hugging Face Transformers",
+      "AWS Bedrock",
+      "OpenAI APIs",
+      "Crew AI",
+      "AutoGen",
+      "Claude AI",
+      "Model Context Protocol",
+      "Agent-to-Agent"
+    ],
+    "Prompt Engineering & Agentic AI": [
+      "Zero-shot Prompting",
+      "Few-shot Prompting",
+      "Chain-of-Thought",
+      "ReAct",
+      "PAL",
+      "Agentic Workflows",
+      "Multi-Agent Systems",
+      "Structured Output Control"
+    ],
+    "RAG & Knowledge Systems": [
+      "Retrieval-Augmented Generation",
+      "Graph RAG",
+      "Vector Databases",
+      "Embedding Models",
+      "AWS KnowledgeBase",
+      "Document Retrieval Pipelines"
+    ],
+    "Vector Databases": [
+      "Pinecone",
+      "Weaviate",
+      "ChromaDB",
+      "Milvus",
+      "Qdrant",
+      "OpenSearch",
+      "Elasticsearch"
+    ],
+    "LLM Optimization & Evaluation": [
+      "LoRA",
+      "QLoRA",
+      "SFT",
+      "RLHF",
+      "Model Distillation",
+      "RAGAS",
+      "TruLens",
+      "DeepEval",
+      "Fine-tuning LLMs"
+    ],
+    "Big Data & Processing": [
+      "PySpark",
+      "Apache Spark",
+      "Databricks",
+      "Snowflake",
+      "Apache Hadoop",
+      "Apache Kafka",
+      "Spark Streaming",
+      "Hive"
+    ],
+    "ETL & Orchestration": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "dbt",
+      "Informatica"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock, EKS)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (BigQuery, Vertex AI)"
+    ],
+    "MLOps & Experimentation": [
+      "MLflow",
+      "Kubeflow",
+      "SageMaker Pipelines",
+      "DVC",
+      "Model Registry"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "EKS",
+      "AKS"
+    ],
+    "Machine Learning & Deep Learning": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost",
+      "CNNs",
+      "RNNs",
+      "LSTMs",
+      "Transformers"
+    ],
+    "API & Microservices": [
+      "REST APIs",
+      "Flask",
+      "FastAPI",
+      "Django",
+      "Microservice Architecture"
+    ],
+    "Databases & Data Warehouses": [
+      "PostgreSQL",
+      "MySQL",
+      "Snowflake",
+      "MongoDB",
+      "Redis",
+      "AWS RDS",
+      "BigQuery",
+      "Oracle"
+    ],
+    "Observability & Monitoring": [
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Azure Monitor"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Data Governance & Security": [
+      "PCI-DSS",
+      "HIPAA",
+      "GDPR",
+      "Data Encryption",
+      "Audit Logging",
+      "Model Risk Management"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architect a centralized GenAI platform using AWS Bedrock, LangGraph, and Pinecone to serve insurance underwriting teams, enabling automated policy document analysis and risk assessment through RAG pipelines that retrieve relevant clauses from knowledge bases.",
+        "Prototype multi-agent systems with Model Context Protocol to coordinate tasks between claim intake agents, fraud detection agents, and customer service agents, reducing manual handoffs and accelerating claim resolution timelines for policyholders.",
+        "Implement PySpark-based ETL pipelines on Databricks to process terabytes of insurance transaction data stored in Snowflake, transforming raw records into feature sets for training LLMs and embedding models used in downstream RAG applications.",
+        "Configure Airflow workflows to orchestrate daily model retraining jobs, data quality checks, and vector database index updates, ensuring fresh embeddings are available for real-time policy recommendation engines accessed by underwriters.",
+        "Deploy Agent-to-Agent communication patterns using LangChain to enable collaborative reasoning between specialized agents, where one agent gathers customer information while another assesses coverage eligibility based on state-specific insurance regulations.",
+        "Optimize prompt templates using few-shot and Chain-of-Thought techniques to improve LLM accuracy when extracting structured data from unstructured claim documents, reducing errors in automated form-filling systems by validating outputs against business rules.",
+        "Integrate Graph RAG with Weaviate to model relationships between insurance products, customer segments, and regulatory requirements, allowing agents to traverse knowledge graphs and provide contextually relevant policy recommendations during customer interactions.",
+        "Fine-tune Hugging Face models using LoRA on domain-specific insurance terminology and legal language, adapting pre-trained LLMs to better understand policy clauses and generate accurate summaries for agent review and customer communications.",
+        "Establish evaluation pipelines with RAGAS to measure retrieval precision and answer faithfulness in RAG systems, running automated tests after each model update to catch regressions before deploying changes to production environments.",
+        "Build REST APIs using FastAPI and containerize them with Docker for deployment on AWS EKS, exposing GenAI capabilities to legacy insurance systems through well-documented endpoints that handle authentication, rate limiting, and error handling.",
+        "Monitor AI platform performance using Prometheus and Grafana dashboards, tracking metrics like model latency, token usage, and vector search times to identify bottlenecks and optimize resource allocation across SageMaker endpoints and Lambda functions.",
+        "Collaborate with insurance compliance teams to embed PCI-DSS controls into AI pipelines, ensuring customer payment data is encrypted and audit trails are maintained for all model predictions affecting premium calculations and claim approvals.",
+        "Troubleshoot production incidents involving failed vector database queries and stale embeddings by reviewing CloudWatch logs, coordinating with AWS support, and implementing retry logic to maintain system uptime during peak claim filing periods.",
+        "Conduct code reviews and pair programming sessions with junior developers to ensure best practices in prompt engineering, agentic workflow design, and MLOps standards are followed across all proof-of-concept projects and production deployments.",
+        "Research emerging techniques in multimodal AI to plan future enhancements where agents can analyze photos from accident scenes alongside textual claim descriptions, preparing architecture proposals for integrating vision models into existing GenAI infrastructure.",
+        "Document technical decisions, architecture diagrams, and runbooks for GenAI platform components, maintaining a centralized wiki that helps onboard new team members and provides reference materials for incident response and capacity planning."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Snowflake",
+        "Databricks",
+        "Airflow",
+        "LangChain",
+        "LangGraph",
+        "Model Context Protocol",
+        "Agent-to-Agent",
+        "Multi-Agent Systems",
+        "AWS Bedrock",
+        "AWS SageMaker",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS EKS",
+        "Pinecone",
+        "Weaviate",
+        "ChromaDB",
+        "Vertex AI",
+        "Hugging Face",
+        "LoRA",
+        "QLoRA",
+        "RAGAS",
+        "TruLens",
+        "FastAPI",
+        "Docker",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "MLflow",
+        "REST APIs",
+        "PCI-DSS",
+        "CloudWatch"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Delivered RAG architectures for clinical trial document analysis, combining LangChain with OpenSearch vector stores to retrieve relevant medical literature and regulatory guidelines, helping researchers quickly locate precedents for study protocol design under HIPAA constraints.",
+        "Constructed multi-agent frameworks using AutoGen and Crew AI to automate patient data processing workflows, where one agent extracted symptoms from electronic health records while another cross-referenced drug interaction databases to flag potential safety concerns.",
+        "Processed petabytes of patient healthcare data using PySpark on AWS EMR, writing Spark jobs that cleaned, anonymized, and aggregated medical records into structured datasets compliant with HIPAA regulations for training supervised ML models.",
+        "Orchestrated end-to-end ML pipelines with Airflow on AWS, scheduling tasks that ingested patient vitals from IoT devices, computed risk scores using XGBoost models, and pushed alerts to clinician dashboards through SNS notifications.",
+        "Trained LangGraph-based agentic systems to handle multi-turn conversations with healthcare providers, maintaining state across interactions where agents asked clarifying questions about patient history before recommending treatment pathways based on FDA guidelines.",
+        "Applied Chain-of-Thought prompting to guide LLMs through complex diagnostic reasoning, breaking down symptom analysis into intermediate steps that mirrored clinical decision trees and improved transparency for medical staff reviewing AI-generated recommendations.",
+        "Connected Graph RAG implementations to Neo4j databases storing relationships between diseases, symptoms, medications, and patient demographics, enabling agents to traverse health knowledge graphs and surface non-obvious correlations during differential diagnosis.",
+        "Refined Hugging Face BioBERT models using QLoRA for medical entity recognition tasks, adapting pre-trained transformers to accurately identify drug names, dosages, and adverse reactions within unstructured clinical notes and discharge summaries.",
+        "Validated RAG pipeline outputs with DeepEval, measuring context precision and hallucination rates in generated medical summaries, establishing quality gates that prevented low-confidence predictions from reaching healthcare providers without human review.",
+        "Exposed AI models as microservices via Flask APIs deployed on AWS Lambda, handling asynchronous requests from hospital information systems and returning predictions within milliseconds to support time-sensitive triage and diagnostic support tools.",
+        "Tracked model drift and data quality issues using MLflow experiments, comparing performance metrics across different patient cohorts to detect when models needed retraining due to shifts in disease prevalence or changes in clinical practice patterns.",
+        "Secured patient data pipelines with HIPAA-compliant encryption using AWS KMS, implementing role-based access controls and audit logging to ensure only authorized personnel could access sensitive health information through AI applications and data warehouses.",
+        "Resolved performance bottlenecks in vector similarity searches by tuning OpenSearch index settings, adjusting shard counts and replica configurations to maintain sub-second query latencies even as medical literature collections grew to millions of documents.",
+        "Participated in weekly sprint planning and retrospectives with cross-functional teams including clinicians, data engineers, and regulatory specialists, aligning AI development priorities with clinical trial timelines and healthcare compliance requirements."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "AWS EMR",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS SNS",
+        "Snowflake",
+        "Airflow",
+        "LangChain",
+        "LangGraph",
+        "AutoGen",
+        "Crew AI",
+        "OpenSearch",
+        "Neo4j",
+        "Hugging Face BioBERT",
+        "QLoRA",
+        "DeepEval",
+        "Flask",
+        "MLflow",
+        "XGBoost",
+        "AWS KMS",
+        "HIPAA",
+        "FDA",
+        "GDPR",
+        "REST APIs",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Modernized Medicaid claims processing by building ML models in Azure ML Studio that predicted claim approval likelihood, reducing manual review backlogs for state healthcare administrators while ensuring compliance with federal HIPAA and CHIP regulations.",
+        "Extracted features from historical claims data stored in Azure SQL Database using Python and Pandas, creating derived variables like claim frequency, provider history, and diagnosis code patterns to train random forest classifiers for fraud detection.",
+        "Scheduled Azure Data Factory pipelines to ingest daily claims feeds from legacy mainframe systems, transforming fixed-width files into normalized tables and loading them into Azure Synapse Analytics for downstream analytics and model training.",
+        "Trained scikit-learn models to classify high-risk claims requiring detailed audits, balancing precision and recall to minimize false positives that would overburden limited investigative resources in the state's fraud prevention unit.",
+        "Evaluated model performance using cross-validation and holdout test sets, documenting accuracy, F1 scores, and confusion matrices in technical reports shared with state officials to justify deployment decisions and budget allocations for AI initiatives.",
+        "Deployed predictive models as Azure Functions triggered by queue messages, allowing real-time scoring of incoming claims and automatic routing of suspicious cases to human reviewers through email alerts and case management system integrations.",
+        "Monitored model predictions through Azure Application Insights, setting up alerts for anomalies like sudden drops in prediction confidence or spikes in fraud scores that could indicate data quality issues or changes in provider billing patterns.",
+        "Collaborated with state legal counsel to document model logic and decision criteria, preparing materials for audits and ensuring transparency in how AI systems influenced benefit determinations for low-income residents covered by public health programs.",
+        "Cleaned and validated datasets by handling missing values, removing duplicates, and standardizing medical codes using ICD-10 and CPT mappings, reducing noise in training data that previously degraded model generalization across different provider types.",
+        "Prototyped dashboard visualizations in Power BI showing claim volumes, approval rates, and model prediction distributions, giving program managers actionable insights to adjust policies and allocate staff during seasonal enrollment spikes.",
+        "Participated in knowledge transfer sessions with state IT staff, explaining model architectures, feature engineering logic, and retraining procedures to ensure the Maine team could maintain AI systems after contractor engagement concluded.",
+        "Adhered to state procurement and security policies when handling sensitive beneficiary data, following approved data handling protocols and completing mandatory training on patient privacy laws and ethical AI use in government services."
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure Synapse Analytics",
+        "Azure Functions",
+        "Azure Application Insights",
+        "Power BI",
+        "HIPAA",
+        "CHIP",
+        "ICD-10",
+        "CPT",
+        "Random Forest",
+        "Logistic Regression"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Predicted credit card default risk using logistic regression and gradient boosting models trained on customer transaction histories, account balances, and payment patterns, helping risk management teams set appropriate credit limits and interest rates.",
+        "Aggregated transactional data from Azure Cosmos DB and SQL Server using Python scripts, joining tables across customer profiles, merchant categories, and geographic regions to create unified datasets for model training and reporting.",
+        "Transformed raw banking data with feature engineering techniques like binning, log transforms, and interaction terms, improving model AUC scores by capturing non-linear relationships between income levels, spending habits, and default probabilities.",
+        "Validated model assumptions through statistical hypothesis testing, checking for multicollinearity among predictors and verifying proportional hazards assumptions in survival models used to estimate customer lifetime value for retention campaigns.",
+        "Productionized scoring pipelines using Azure Machine Learning Service, packaging trained models into Docker containers deployed on Azure Kubernetes Service to serve real-time predictions via REST endpoints accessed by loan origination systems.",
+        "Investigated model fairness and bias by stratifying performance metrics across demographic groups, identifying disparities in false positive rates and working with compliance teams to adjust cutoff thresholds to meet regulatory fairness standards.",
+        "Maintained version control of model artifacts and training code in GitHub, following branching strategies that allowed parallel development of experimental features while keeping production models stable and traceable for audit purposes.",
+        "Analyzed A/B test results from marketing campaigns targeting customers with personalized offers, calculating statistical significance of conversion rate differences and recommending which segments should receive tailored credit card promotions.",
+        "Debugged data pipeline failures caused by schema changes in upstream systems, coordinating with database administrators to understand new field definitions and updating ETL logic to handle backward compatibility during system migrations.",
+        "Presented modeling insights to business stakeholders through slide decks and Excel reports, translating technical metrics like precision-recall curves into business terms that executives could use to make decisions about risk appetite and portfolio strategy."
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "XGBoost",
+        "Logistic Regression",
+        "Azure Cosmos DB",
+        "Azure SQL Server",
+        "Azure Machine Learning Service",
+        "Azure Kubernetes Service",
+        "Docker",
+        "GitHub",
+        "REST APIs",
+        "PCI-DSS",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Ingested client datasets from relational databases into Hadoop clusters using Sqoop, writing shell scripts that automated nightly extract jobs and loaded data into HDFS for batch processing by MapReduce jobs.",
+        "Transformed raw data files with Informatica PowerCenter, creating mappings that standardized date formats, cleansed address fields, and applied business rules before loading records into data warehouses for reporting and analytics.",
+        "Executed SQL queries on Hive tables to aggregate sales metrics, customer counts, and revenue summaries, providing business analysts with pre-computed views that improved dashboard load times and reduced ad-hoc query costs.",
+        "Supported data quality initiatives by writing Python scripts that validated row counts, checked for null values, and compared source-to-target reconciliations, catching discrepancies early before bad data propagated to downstream systems.",
+        "Learned Hadoop ecosystem components through online tutorials and internal workshops, gradually taking on more complex tasks like tuning MapReduce job parameters and troubleshooting YARN resource allocation issues during batch processing windows.",
+        "Documented ETL workflows in Confluence pages, capturing source system details, transformation logic, and data lineage diagrams that helped team members understand dependencies when modifying pipelines or investigating data anomalies.",
+        "Attended daily standup meetings to report progress on assigned tickets, flagging blockers like missing credentials or unclear requirements and asking senior engineers for guidance when encountering unfamiliar error messages.",
+        "Tested pipeline changes in development environments before promoting to production, verifying output record counts matched expectations and coordinating with QA team to validate business logic in transformed datasets."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "MapReduce",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "Python",
+        "SQL",
+        "Bash/Shell",
+        "YARN",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

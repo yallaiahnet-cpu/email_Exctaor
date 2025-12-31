@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sent Emails Archive</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #00c9ff;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            min-width: 150px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        
+        .stat-card h3 {
+            font-size: 2em;
+            margin-bottom: 5px;
+        }
+        
+        .stat-card p {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .search-box {
+            flex: 1;
+            min-width: 200px;
+            padding: 12px;
+            border: 2px solid #00c9ff;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+        
+        .filter-btn {
+            padding: 12px 20px;
+            background: #00c9ff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .filter-btn:hover {
+            background: #0099cc;
+            transform: translateY(-2px);
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        thead {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.95em;
+            border-bottom: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e1e5e9;
+            font-size: 0.9em;
+        }
+        
+        tbody tr:hover {
+            background: #f8f9fa;
+            transition: background 0.2s ease;
+        }
+        
+        tbody tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .email-cell {
+            max-width: 200px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        
+        .name-cell {
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .subject-cell {
+            max-width: 300px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        
+        .timestamp-cell {
+            color: #666;
+            font-size: 0.85em;
+            white-space: nowrap;
+        }
+        
+        .phone-cell {
+            color: #00c9ff;
+            font-weight: 500;
+        }
+        
+        .resume-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #28a745;
+            color: white;
+            border-radius: 12px;
+            font-size: 0.75em;
+            font-weight: 600;
+        }
+        
+        .no-resume {
+            color: #999;
+            font-style: italic;
+        }
+        
+        .body-preview {
+            max-width: 400px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            color: #666;
+            font-size: 0.85em;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 1.2em;
+        }
+        
+        .error {
+            text-align: center;
+            padding: 40px;
+            color: #e74c3c;
+            font-size: 1.2em;
+        }
+        
+        .refresh-btn {
+            padding: 12px 24px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .refresh-btn:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -20px -20px 20px -20px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <h1>📧 Sent Emails Archive</h1>
+        <p class="subtitle">View all sent emails with metadata</p>
+        
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <h3 id="total-emails">0</h3>
+                <p>Total Emails</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="with-resume">0</h3>
+                <p>With Resume</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="with-phone">0</h3>
+                <p>With Phone</p>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <input type="text" id="searchBox" class="search-box" placeholder="Search by name, email, subject, or phone...">
+            <button class="filter-btn" onclick="filterTable()">🔍 Search</button>
+            <button class="refresh-btn" onclick="loadEmails()">🔄 Refresh</button>
+        </div>
+        
+        <div class="table-container">
+            <div id="loading" class="loading">Loading emails...</div>
+            <div id="error" class="error" style="display: none;"></div>
+            <table id="emailsTable" style="display: none;">
+                <thead>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>To (Name)</th>
+                        <th>To (Email)</th>
+                        <th>Phone</th>
+                        <th>From Email</th>
+                        <th>Subject</th>
+                        <th>Body Preview</th>
+                        <th>Resume</th>
+                    </tr>
+                </thead>
+                <tbody id="emailsTableBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script>
+        let allEmails = [];
+        
+        function formatTimestamp(timestamp) {
+            try {
+                const date = new Date(timestamp);
+                return date.toLocaleString('en-US', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                });
+            } catch (e) {
+                return timestamp;
+            }
+        }
+        
+        function loadEmails() {
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('error').style.display = 'none';
+            document.getElementById('emailsTable').style.display = 'none';
+            
+            fetch('/sent_emails_data')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('loading').style.display = 'none';
+                    
+                    if (data.error) {
+                        document.getElementById('error').textContent = data.error;
+                        document.getElementById('error').style.display = 'block';
+                        return;
+                    }
+                    
+                    // Sort by timestamp (latest first)
+                    allEmails = data.emails.sort((a, b) => {
+                        const dateA = new Date(a.timestamp || 0);
+                        const dateB = new Date(b.timestamp || 0);
+                        return dateB - dateA; // Latest first
+                    });
+                    
+                    updateStats();
+                    renderTable(allEmails);
+                })
+                .catch(error => {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('error').textContent = 'Error loading emails: ' + error.message;
+                    document.getElementById('error').style.display = 'block';
+                });
+        }
+        
+        function updateStats() {
+            const total = allEmails.length;
+            const withResume = allEmails.filter(e => e.resume_attached).length;
+            const withPhone = allEmails.filter(e => e.phone && e.phone.trim()).length;
+            
+            document.getElementById('total-emails').textContent = total;
+            document.getElementById('with-resume').textContent = withResume;
+            document.getElementById('with-phone').textContent = withPhone;
+        }
+        
+        function renderTable(emails) {
+            const tbody = document.getElementById('emailsTableBody');
+            tbody.innerHTML = '';
+            
+            if (emails.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 40px; color: #999;">No emails found</td></tr>';
+                document.getElementById('emailsTable').style.display = 'table';
+                return;
+            }
+            
+            emails.forEach(email => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td class="timestamp-cell">${formatTimestamp(email.timestamp || '')}</td>
+                    <td class="name-cell">${escapeHtml(email.name || 'N/A')}</td>
+                    <td class="email-cell">${escapeHtml(email.to_email || '')}</td>
+                    <td class="phone-cell">${escapeHtml(email.phone || '') || '<span style="color: #999; font-style: italic;">-</span>'}</td>
+                    <td class="email-cell">${escapeHtml(email.from_email || '')}</td>
+                    <td class="subject-cell">${escapeHtml(email.subject || '')}</td>
+                    <td class="body-preview">${escapeHtml((email.body || '').substring(0, 100))}${(email.body || '').length > 100 ? '...' : ''}</td>
+                    <td>${email.resume_attached ? '<span class="resume-badge">✓ Resume</span>' : '<span class="no-resume">No Resume</span>'}</td>
+                `;
+                tbody.appendChild(row);
+            });
+            
+            document.getElementById('emailsTable').style.display = 'table';
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        function filterTable() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase().trim();
+            
+            if (!searchTerm) {
+                renderTable(allEmails);
+                return;
+            }
+            
+            const filtered = allEmails.filter(email => {
+                const name = (email.name || '').toLowerCase();
+                const toEmail = (email.to_email || '').toLowerCase();
+                const fromEmail = (email.from_email || '').toLowerCase();
+                const subject = (email.subject || '').toLowerCase();
+                const phone = (email.phone || '').toLowerCase();
+                const body = (email.body || '').toLowerCase();
+                
+                return name.includes(searchTerm) ||
+                       toEmail.includes(searchTerm) ||
+                       fromEmail.includes(searchTerm) ||
+                       subject.includes(searchTerm) ||
+                       phone.includes(searchTerm) ||
+                       body.includes(searchTerm);
+            });
+            
+            renderTable(filtered);
+        }
+        
+        // Allow Enter key to trigger search
+        document.getElementById('searchBox').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                filterTable();
+            }
+        });
+        
+        // Load emails on page load
+        loadEmails();
+    </script>
+</body>
+</html>
+

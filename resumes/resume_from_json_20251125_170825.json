@@ -1,0 +1,328 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Principal AI Engineer - Agentic AI & LLM Orchestration",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and deploying production-grade agentic AI systems across Insurance, Healthcare, Banking, and Consulting domains, specializing in LLM orchestration and multi-agent frameworks.",
+    "Architected RAG pipelines using Claude models with extended context windows, integrating vector databases like Pinecone and FAISS to handle complex financial risk assessments and regulatory compliance workflows in real-time production environments.",
+    "Developed multi-agent systems using LangGraph and Model Context Protocol, coordinating autonomous agents for trading signal generation, investment portfolio optimization, and automated risk management decision-making across distributed AWS infrastructure.",
+    "Fine-tuned large language models including OpenAI GPT, Gemini, Llama, Qwen, and Claude using PEFT, LoRA, and QLoRA techniques, achieving domain-specific performance improvements for financial document analysis and healthcare compliance monitoring.",
+    "Implemented prompt engineering strategies for chatbot systems, researching advanced techniques to optimize response accuracy and reduce hallucination rates in insurance claims processing and patient data interpretation scenarios.",
+    "Orchestrated LLM-based tool-using agents with function calling capabilities through LangChain, CrewAI, and AutoGen frameworks, enabling autonomous workflow execution for trade reconciliation and medical record summarization tasks.",
+    "Deployed containerized ML workloads on AWS ECS and EKS using Docker and Kubernetes, establishing CI/CD pipelines with Terraform and CloudFormation for automated model versioning and rollback strategies in high-availability financial systems.",
+    "Configured AWS Bedrock for serverless LLM inference, integrating with Lambda functions and Step Functions to process structured and unstructured data pipelines for real-time fraud detection and investment opportunity identification.",
+    "Managed vector database operations across production environments, optimizing embedding storage and retrieval mechanisms using Chroma and FAISS to support semantic search capabilities for regulatory document repositories.",
+    "Integrated NLP frameworks including spaCy and HuggingFace Transformers with API development using FastAPI and Flask, creating scalable endpoints for financial sentiment analysis and healthcare entity recognition services.",
+    "Established MLOps practices with SageMaker, implementing model monitoring through Prometheus and Grafana dashboards to track drift detection, latency metrics, and throughput performance for trading algorithm predictions.",
+    "Coordinated cross-functional collaboration with infrastructure, ML research, and business stakeholders, translating complex AI/ML results into actionable insights for leadership decision-making on technology investments and risk mitigation strategies.",
+    "Structured LLM outputs using JSON schemas and validation frameworks, ensuring consistent data formats for downstream consumption by trading systems, compliance reporting tools, and executive dashboard visualizations.",
+    "Processed large-scale datasets using PySpark on AWS EMR, building feature engineering pipelines that fed into TensorFlow and PyTorch models for credit risk scoring and insurance premium calculation engines.",
+    "Secured production LLM deployments with guardrails and policy enforcement mechanisms, implementing AWS Secrets Manager for credential management and ensuring HIPAA, PCI-DSS, and FDA regulatory compliance across healthcare and banking projects.",
+    "Troubleshot runtime issues in complex agentic AI environments, diagnosing performance bottlenecks in distributed agent communication patterns and resolving memory leaks in long-running LLM inference services.",
+    "Researched emerging techniques in agent-to-agent communication protocols and multi-agent coordination patterns, prototyping proof-of-concept implementations to evaluate feasibility for next-generation automated trading desk operations.",
+    "Maintained Git repositories with excellent version control practices, conducting code reviews and participating in architectural discussions to reduce operational risk and cost of managing large-scale production AI environments."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "Scala",
+      "R",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "LLM & Generative AI": [
+      "Claude",
+      "OpenAI GPT",
+      "Gemini",
+      "Llama",
+      "Qwen",
+      "Prompt Engineering",
+      "Fine-tuning (PEFT, LoRA, QLoRA, RLHF)",
+      "HuggingFace Transformers",
+      "Structured Output Generation"
+    ],
+    "Agentic AI Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "Model Context Protocol",
+      "Multi-Agent Systems",
+      "Tool-Using Agents",
+      "Function Calling"
+    ],
+    "Machine Learning Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "MLlib"
+    ],
+    "NLP & RAG Architecture": [
+      "spaCy",
+      "NLTK",
+      "BERT",
+      "RAG Pipelines",
+      "Vector Databases (Pinecone, FAISS, Chroma)",
+      "Semantic Search",
+      "Llama Index",
+      "Embedding Models"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (ECS, EKS, Lambda, S3, DynamoDB, Redshift, Step Functions, Bedrock, SageMaker, EMR, Secrets Manager)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Hadoop",
+      "Apache Kafka",
+      "Apache Airflow",
+      "Hive",
+      "MapReduce",
+      "Databricks"
+    ],
+    "MLOps & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CloudFormation",
+      "MLflow",
+      "CI/CD Pipelines",
+      "Model Monitoring (Prometheus, Grafana)",
+      "Feature Stores"
+    ],
+    "API Development": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "REST APIs",
+      "React.js"
+    ],
+    "Databases & Data Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Snowflake",
+      "Elasticsearch",
+      "AWS RDS",
+      "DynamoDB",
+      "Cassandra"
+    ],
+    "DevOps & Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Jenkins",
+      "GitHub Actions",
+      "Bitbucket"
+    ],
+    "Domain Expertise": [
+      "Financial Services (Trading, Investment, Risk Management)",
+      "Insurance Regulations & Compliance",
+      "Healthcare (HIPAA, FDA, GDPR)",
+      "Banking (PCI-DSS)",
+      "Production System Optimization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Build multi-agent proof-of-concept systems using LangGraph and Model Context Protocol, coordinating autonomous agents to diagnose policy coverage gaps and recommend tailored insurance products while maintaining compliance with state regulations.",
+        "Configure Claude models with extended context windows to process entire policy documents, claims histories, and regulatory filings in single inference calls, reducing processing time for underwriting decisions from hours to minutes in production workflows.",
+        "Prototype agent-to-agent communication frameworks inspired by Google's research, enabling collaborative reasoning between risk assessment agents and fraud detection agents to identify suspicious claims patterns across distributed AWS Lambda functions.",
+        "Deploy RAG architectures on AWS Bedrock, integrating Pinecone vector databases to retrieve relevant insurance policy clauses and precedent cases during customer service interactions, improving first-call resolution rates for complex coverage questions.",
+        "Fine-tune Llama models using LoRA techniques on insurance-specific datasets, adapting base models to understand domain terminology around actuarial science, loss ratios, and catastrophe modeling for automated report generation tasks.",
+        "Orchestrate PySpark jobs on AWS EMR to preprocess structured claims data and unstructured adjuster notes, feeding embeddings into FAISS indexes that power semantic search capabilities for historical claims analysis and trend identification.",
+        "Integrate LangChain with AWS Step Functions to create stateful agentic workflows, managing long-running policy renewal processes that require human-in-the-loop approvals while maintaining audit trails for regulatory examinations.",
+        "Debug multi-agent coordination issues where agents occasionally contradicted each other during complex underwriting scenarios, implementing consensus mechanisms and confidence scoring to resolve conflicting recommendations in real-time production systems.",
+        "Establish MLOps pipelines using Terraform, automating deployment of containerized LLM inference services to EKS clusters with blue-green deployment strategies, enabling zero-downtime updates for customer-facing chatbot applications.",
+        "Monitor production LLM performance through Grafana dashboards, tracking token usage, latency percentiles, and error rates to identify degradation patterns and trigger automated rollbacks when response quality metrics fall below thresholds.",
+        "Collaborate with cross-functional teams during weekly architecture reviews, presenting proof-of-concept results to AI leadership and gathering feedback from actuarial staff on practical applicability of agentic AI recommendations for risk pricing models.",
+        "Implement prompt engineering experiments comparing few-shot, chain-of-thought, and retrieval-augmented prompting strategies, documenting performance differences across various insurance use cases to establish best practices for production deployments.",
+        "Secure agent communication channels using AWS Secrets Manager for API key rotation, implementing guardrails to prevent agents from accessing unauthorized customer PII during autonomous decision-making processes in compliance with data governance policies.",
+        "Process customer interaction logs through spaCy NLP pipelines, extracting sentiment signals and intent classifications that inform prompt templates for more empathetic and context-aware responses from insurance chatbot agents.",
+        "Troubleshoot Docker containerization challenges when packaging complex multi-agent applications with conflicting dependency versions, resolving issues through careful layer optimization and multi-stage build strategies to reduce image sizes.",
+        "Research emerging agentic AI patterns from academic papers and vendor whitepapers, synthesizing findings into technical recommendations for leadership on future investments in CrewAI and AutoGen frameworks for claims automation initiatives."
+      ],
+      "environment": [
+        "Python",
+        "LangGraph",
+        "LangChain",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "Claude",
+        "Llama",
+        "PySpark",
+        "AWS (Bedrock, Lambda, S3, EMR, EKS, Step Functions, Secrets Manager)",
+        "Pinecone",
+        "FAISS",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Grafana",
+        "spaCy",
+        "LoRA",
+        "RAG Architecture"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed multi-agent healthcare compliance systems using LangChain and experimental CrewAI frameworks, coordinating specialized agents for HIPAA violation detection, patient data anonymization, and clinical trial document review across pharmaceutical research workflows.",
+        "Constructed proof-of-concept RAG pipelines integrating HuggingFace Transformers with Chroma vector databases, enabling medical researchers to query decades of clinical trial results and adverse event reports through natural language interfaces.",
+        "Adapted OpenAI GPT models through QLoRA fine-tuning on proprietary drug interaction databases and FDA submission documents, improving accuracy of automated safety signal detection in post-market surveillance systems.",
+        "Formulated prompt engineering standards for medical chatbot applications, iterating through multiple template designs to balance empathetic patient communication with strict adherence to HIPAA privacy requirements and clinical accuracy guidelines.",
+        "Assembled AWS infrastructure using CloudFormation templates, provisioning ECS clusters for containerized LLM services that processed patient intake forms and generated preliminary diagnosis suggestions for physician review.",
+        "Evaluated semantic search performance across different embedding models, comparing sentence-transformers and BioBERT variants to optimize retrieval precision for medical literature recommendations surfaced to healthcare providers.",
+        "Consolidated disparate healthcare data sources using AWS Glue ETL pipelines, transforming unstructured physician notes and structured EHR records into unified formats suitable for training domain-specific language models.",
+        "Participated in code review sessions with ML research teams, catching potential data leakage issues in training pipelines and suggesting architectural improvements to multi-agent coordination logic for clinical decision support systems.",
+        "Measured model drift in production LLM deployments through custom Prometheus metrics, detecting performance degradation when medical terminology evolved with new drug approvals and triggering retraining workflows automatically.",
+        "Attended cross-functional planning meetings with HIPAA compliance officers, translating regulatory requirements into technical guardrails that prevented LLM agents from inappropriately disclosing protected health information.",
+        "Validated agent outputs against gold-standard medical knowledge bases, implementing scoring functions that compared AI-generated clinical recommendations to peer-reviewed literature and flagged discrepancies for human expert review.",
+        "Containerized PyTorch-based medical image analysis models using Docker multi-stage builds, optimizing layer caching strategies to accelerate CI/CD pipelines deploying updates to radiology AI assistants.",
+        "Synchronized batch inference jobs with Apache Airflow DAGs, scheduling overnight processing of clinical trial enrollment data and generating summary reports for research coordinators by morning working hours.",
+        "Investigated LangGraph features for stateful medical workflows, prototyping patient journey tracking systems that maintained conversation context across multiple clinical visits and coordinated between triage, diagnosis, and treatment planning agents."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "CrewAI",
+        "AutoGen",
+        "OpenAI GPT",
+        "HuggingFace Transformers",
+        "PyTorch",
+        "AWS (ECS, Glue, S3, Lambda, RDS, DynamoDB)",
+        "Chroma",
+        "Docker",
+        "CloudFormation",
+        "Prometheus",
+        "Apache Airflow",
+        "QLoRA",
+        "BioBERT",
+        "HIPAA Compliance",
+        "RAG Pipelines"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed Azure-based ML pipelines for Medicaid eligibility determination, training TensorFlow models on historical application data to predict approval likelihood and flag cases requiring manual review by state healthcare administrators.",
+        "Preprocessed sensitive patient records using spaCy named entity recognition to redact PII before feeding data into clustering algorithms that identified patterns in healthcare utilization across rural Maine populations.",
+        "Deployed Docker containers to Azure Kubernetes Service, packaging scikit-learn models that classified medical billing codes and detected potential fraud in Medicare reimbursement claims submitted by healthcare providers.",
+        "Extracted features from unstructured case worker notes using BERT embeddings, feeding vector representations into XGBoost models that prioritized urgent public health interventions for at-risk individuals.",
+        "Collaborated with state government stakeholders during biweekly sprint reviews, explaining model predictions in plain language and adjusting confidence thresholds based on feedback from social services case managers.",
+        "Tuned hyperparameters for recurrent neural networks analyzing time-series prescription data, identifying opioid overprescribing patterns that informed state policy decisions on controlled substance monitoring programs.",
+        "Transformed Azure Data Factory workflows to handle HIPAA-compliant data transfers between on-premise state databases and cloud-based analytics environments, implementing encryption at rest and in transit.",
+        "Monitored model performance through Azure ML Studio dashboards, tracking prediction accuracy degradation during seasonal flu outbreak periods when patient demographics shifted unexpectedly.",
+        "Documented training procedures and model architectures in Confluence wikis, ensuring knowledge transfer to state IT staff who would maintain systems after consulting engagement concluded.",
+        "Investigated bias in healthcare access prediction models, discovering underrepresentation of Native American populations in training data and recommending targeted data collection initiatives to improve model fairness.",
+        "Coordinated with Azure support teams to troubleshoot Cosmos DB performance issues when querying large medical claims datasets, optimizing partition key strategies to reduce query latency.",
+        "Validated GDPR and CHIP regulatory compliance requirements with state legal counsel, implementing data retention policies that automatically purged sensitive patient information after statutory periods."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "scikit-learn",
+        "spaCy",
+        "BERT",
+        "XGBoost",
+        "Azure (Kubernetes Service, Data Factory, ML Studio, Cosmos DB)",
+        "Docker",
+        "HIPAA Compliance",
+        "GDPR",
+        "CHIP"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Trained gradient boosting models using XGBoost on Azure infrastructure to predict credit card transaction fraud, processing millions of daily transactions and flagging suspicious patterns for security team investigation.",
+        "Cleaned transactional datasets with Pandas, handling missing values in merchant category codes and normalizing currency conversions across international payment networks to ensure consistent model inputs.",
+        "Visualized customer segmentation results using Tableau dashboards, presenting spending behavior clusters to marketing teams who tailored promotional offers based on predicted lifetime value scores.",
+        "Experimented with LSTM networks in PyTorch for sequential fraud detection, attempting to capture temporal patterns in transaction sequences but ultimately reverting to simpler models due to interpretability requirements from compliance auditors.",
+        "Migrated on-premise SAS analytics workloads to Azure Databricks, rewriting legacy statistical procedures in PySpark and validating numerical consistency between old and new implementations.",
+        "Attended security review meetings with PCI-DSS compliance officers, demonstrating that ML models did not inadvertently store raw credit card numbers in model artifacts or training logs.",
+        "Analyzed A/B test results for new mobile banking features, calculating statistical significance of conversion rate differences and recommending feature rollout strategies to product management teams.",
+        "Struggled initially with Azure Active Directory authentication configurations when connecting Jupyter notebooks to secure SQL Server databases, eventually working with IT security to establish proper service principal permissions.",
+        "Optimized SQL queries against Azure SQL Data Warehouse to reduce feature engineering pipeline runtime, adding appropriate indexes and partitioning strategies based on query execution plan analysis.",
+        "Collaborated with frontend developers to integrate model predictions into customer-facing mobile apps, designing JSON API responses that balanced real-time latency requirements with prediction accuracy goals."
+      ],
+      "environment": [
+        "Python",
+        "XGBoost",
+        "Pandas",
+        "PyTorch",
+        "PySpark",
+        "Azure (Databricks, SQL Server, SQL Data Warehouse, Active Directory)",
+        "Tableau",
+        "SAS",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Ingested client data from various sources using Apache Sqoop, transferring relational database tables into Hadoop HDFS clusters for downstream analytics processing by consulting project teams.",
+        "Scheduled Informatica PowerCenter workflows for nightly ETL jobs, transforming raw CSV exports into normalized dimensional models stored in Hive tables accessible to business intelligence analysts.",
+        "Wrote MapReduce jobs in Java to aggregate log files from web applications, calculating daily active user metrics and error rate statistics that informed infrastructure capacity planning decisions.",
+        "Learned Hadoop ecosystem fundamentals through hands-on experimentation, initially making mistakes with HDFS replication factors before understanding durability trade-offs in distributed storage systems.",
+        "Supported production ETL failures during on-call rotations, troubleshooting Sqoop connection timeouts and restarting failed Informatica sessions after investigating root cause issues in source database locks.",
+        "Documented data lineage for regulatory audit requirements, mapping upstream source systems through transformation logic to final reporting tables consumed by client executives.",
+        "Participated in team knowledge sharing sessions, presenting learnings about Hadoop cluster tuning parameters and best practices for optimizing MapReduce job performance.",
+        "Assisted senior engineers with capacity planning for Hadoop clusters, monitoring HDFS disk usage trends and recommending hardware expansion when storage utilization approached thresholds."
+      ],
+      "environment": [
+        "Hadoop",
+        "Apache Sqoop",
+        "Informatica PowerCenter",
+        "Hive",
+        "MapReduce",
+        "Java",
+        "HDFS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

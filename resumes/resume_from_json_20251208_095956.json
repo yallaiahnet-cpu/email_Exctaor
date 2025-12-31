@@ -1,0 +1,288 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Solutions Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building Python-based applications and AI agentic integrations across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Construct enterprise-grade AI solutions using the Model Context Protocol and OpenAI SDK to build agentic workflows that comply with industry-specific regulations like HIPAA and PCI-DSS.",
+    "Assemble scalable Python microservices with FastAPI, ensuring they integrate securely with existing enterprise APIs using OAuth2 and JWT tokens for authentication.",
+    "Formulate automated testing strategies using pytest to maintain code quality across AI-driven applications, collaborating with cross-functional teams during code reviews.",
+    "Establish on-prem solution deployment pipelines for AI agentic platforms, working closely with engineering teams to meet strict enterprise security requirements.",
+    "Prepare detailed API documentation with Swagger and Postman, facilitating smooth integration between AI services and existing enterprise software systems.",
+    "Compile optimized data processing workflows using PySpark on Databricks within Azure, handling large-scale datasets for real-time AI predictions.",
+    "Launch containerized Python services using Docker and Kubernetes, enabling scalable deployment of multi-agent systems across cloud environments.",
+    "Combine LangGraph with the Kore Agentic Platform to design complex AI workflows, focusing on creating maintainable and observable production systems.",
+    "Record comprehensive logging using OpenTelemetry for AI agent interactions, troubleshooting performance issues in multi-tenant enterprise environments.",
+    "Connect various data sources through custom API integrations, transforming JSON/XML payloads to feed into AI models for business automation.",
+    "Operate within Azure AI Foundry to develop and deploy machine learning models, ensuring they align with enterprise architecture and scalability goals.",
+    "Measure application performance using Prometheus metrics, identifying optimization opportunities in Python microservices handling high-volume API requests.",
+    "Navigate complex healthcare regulations while implementing AI solutions, ensuring patient data security through encrypted API exchanges and strict access controls.",
+    "Present technical designs to product owners and integration specialists, explaining how agentic AI platforms can automate specific business processes.",
+    "Schedule CI/CD pipelines using GitHub Actions, automating the testing and deployment of Python applications that utilize advanced AI frameworks.",
+    "Verify code security through regular audits and penetration testing, addressing vulnerabilities in API endpoints that handle sensitive financial or healthcare data.",
+    "Guide junior team members on best practices for AI integration, sharing knowledge about MCP implementation and effective use of the OpenAI SDK."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "PySpark",
+      "FastAPI",
+      "asyncio",
+      "TypeScript"
+    ],
+    "AI & Machine Learning Platforms": [
+      "OpenAI SDK",
+      "Azure AI Foundry",
+      "Kore Agentic Platform",
+      "LangChain",
+      "LangGraph"
+    ],
+    "AI Protocols & Agent Systems": [
+      "Model Context Protocol (MCP)",
+      "Multi-Agent Systems",
+      "Agentic Workflows"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure (Databricks, AI Services)",
+      "AWS (SageMaker, Lambda)",
+      "On-prem Deployment"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "API Development & Integration": [
+      "REST APIs",
+      "API Design",
+      "OAuth2/JWT",
+      "JSON/XML",
+      "Postman",
+      "Swagger"
+    ],
+    "Data Engineering & Big Data": [
+      "Databricks",
+      "Apache Spark",
+      "Hadoop",
+      "ETL Pipelines"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "Automated Testing (pytest)"
+    ],
+    "Observability & Monitoring": [
+      "OpenTelemetry",
+      "Prometheus",
+      "ELK Stack",
+      "Logging"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Vector Databases"
+    ],
+    "Security & Compliance": [
+      "HIPAA Compliance",
+      "PCI-DSS",
+      "Secure Coding",
+      "API Authentication"
+    ],
+    "Software Architecture": [
+      "Microservices",
+      "Scalable Systems",
+      "Enterprise Integration",
+      "Application Optimization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Design AI-driven software solutions using the Model Context Protocol to allow different insurance policy analysis agents to share context securely across Azure services.",
+        "Build Python-based applications with the OpenAI SDK that integrate with existing claim processing APIs, transforming complex insurance forms into structured JSON data for automation.",
+        "Create agentic AI workflows on the Kore platform where one agent assesses claim damage from images while another checks policy coverage, speeding up processing by hours.",
+        "Develop scalable Python microservices with FastAPI to host these AI agents, deploying them in Docker containers managed by Kubernetes on Azure for high availability.",
+        "Write integration code that connects our AI services to legacy policy databases, using PySpark on Databricks to process large batches of historical claim data efficiently.",
+        "Implement automated tests using pytest for every new AI agent feature, spending mornings fixing bugs found during nightly test runs before daily standup meetings.",
+        "Conduct code reviews for team members working on multi-agent systems, focusing on how they handle errors when agents communicate through the MCP standard.",
+        "Debug performance issues in production where an agent occasionally timed out, adding more detailed OpenTelemetry logging to trace the slow API call.",
+        "Attend architecture meetings to plan the expansion of our agentic platform, proposing how new AI models could automate underwriting risk assessment calculations.",
+        "Optimize a slow policy comparison service by rewriting its data access layer with asyncio, reducing response times from several seconds to under a second.",
+        "Construct proof-of-concept multi-agent systems that simulate complex insurance scenarios, demonstrating how agents collaborate to handle a multi-vehicle accident claim.",
+        "Establish API security using OAuth2 tokens, ensuring that only authorized internal systems could invoke our AI agents that process sensitive customer information.",
+        "Prepare deployment documentation for on-prem installations of our AI platform, working with infrastructure teams to configure network access and firewall rules.",
+        "Configure CI/CD pipelines with GitHub Actions to automatically test and deploy updates to our FastAPI services, catching integration issues early.",
+        "Validate that all AI agent outputs comply with state insurance regulations, writing specific validation rules into the agent response handlers.",
+        "Demonstrate new agent capabilities to product owners, showing how the system could automatically flag potentially fraudulent claims for human review."
+      ],
+      "environment": [
+        "Python",
+        "Model Context Protocol (MCP)",
+        "OpenAI SDK",
+        "Kore Agentic Platform",
+        "FastAPI",
+        "PySpark",
+        "Databricks",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "pytest",
+        "Git",
+        "JSON/XML",
+        "OAuth2/JWT",
+        "asyncio",
+        "LangGraph",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Architected healthcare data processing pipelines using PySpark on Azure Databricks, ensuring PHI remained encrypted throughout AI model training for clinical trial analysis.",
+        "Integrated OpenAI models through the SDK into a patient support application, building a LangChain-based agent that answered medication questions while respecting HIPAA constraints.",
+        "Fabricated a multi-agent system with LangGraph where one agent extracted information from medical literature PDFs while another summarized findings for researchers.",
+        "Deployed containerized AI services using Docker on Azure Kubernetes, configuring network policies to isolate services handling sensitive patient demographic data.",
+        "Tested API integrations between our AI platform and electronic health record systems, using Postman collections to verify data formats matched healthcare standards.",
+        "Reviewed peer code for new agent capabilities, suggesting improvements to error handling when APIs returned unexpected XML response formats.",
+        "Troubleshot a production issue where an agent occasionally duplicated responses, tracing it to a race condition in the async event handling logic.",
+        "Participated in daily scrums with the AI platform team, discussing progress on a proof-of-concept for automated adverse event report analysis.",
+        "Enhanced an existing clinical document processing service by adding a FastAPI endpoint that allowed real-time interaction with the AI agent.",
+        "Streamlined the deployment process by creating Helm charts for our Kubernetes deployments, reducing setup time for new development environments from days to hours.",
+        "Documented the agent communication patterns using Swagger, making it easier for other teams to understand how to integrate with our AI services.",
+        "Secured API endpoints with JWT tokens validated against Azure Active Directory, ensuring only authenticated healthcare providers could access patient-facing agents.",
+        "Monitored system performance with Prometheus dashboards, setting up alerts for when agent response times exceeded service level agreements.",
+        "Collaborated with compliance officers to validate that our AI agent workflows met all HIPAA requirements for data access logging and audit trails."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "OpenAI SDK",
+        "FastAPI",
+        "PySpark",
+        "Azure Databricks",
+        "Docker",
+        "Kubernetes",
+        "pytest",
+        "Postman",
+        "Swagger",
+        "OAuth2/JWT",
+        "JSON/XML",
+        "Multi-Agent Systems",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Programmed data preprocessing workflows in Python for public health datasets, using AWS SageMaker to train models predicting healthcare service demand across counties.",
+        "Assembled REST APIs with Flask (pre-FastAPI adoption) that allowed state health department analysts to query model predictions through a secure web interface.",
+        "Installed monitoring with AWS CloudWatch on our ML services, tracking API call volumes and model inference latency for performance reporting.",
+        "Examined code from junior engineers implementing new data validation checks, ensuring they properly handled missing values in elderly patient care records.",
+        "Solved a data quality issue where zip code mismatches caused incorrect county assignments, adding preprocessing steps to validate geographic consistency.",
+        "Joined weekly meetings with public health officials, explaining technical limitations when they requested real-time predictions from historical batch data.",
+        "Improved model deployment reliability by containerizing services with Docker, allowing consistent execution between development and production AWS environments.",
+        "Trained department staff on using the new API system, creating simple Python script examples they could adapt for their specific reporting needs.",
+        "Protected patient privacy by implementing strict access controls and audit logging on all API endpoints handling sensitive public health information.",
+        "Updated legacy data pipelines to output JSON instead of CSV, enabling easier consumption by our new machine learning services through standardized API calls.",
+        "Verified that all system components met Maine's specific healthcare data regulations, working with legal staff to document compliance measures.",
+        "Maintained thorough documentation of API endpoints and data schemas, helping internal IT teams support the system after our project concluded."
+      ],
+      "environment": [
+        "Python",
+        "AWS SageMaker",
+        "Flask",
+        "REST APIs",
+        "Docker",
+        "JSON",
+        "CloudWatch",
+        "HIPAA Compliance",
+        "Public Health Data",
+        "Batch Processing"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Crafted fraud detection models using Python and Scikit-Learn, processing transaction data through AWS EC2 instances while maintaining PCI-DSS compliance requirements.",
+        "Produced batch prediction jobs that ran overnight, outputting risk scores to a PostgreSQL database for morning review by fraud investigation teams.",
+        "Installed basic API endpoints with Flask to allow manual scoring of suspicious transactions during investigator reviews of potential fraudulent activity.",
+        "Inspected model performance degradation over time, retraining models monthly with updated transaction data to adapt to changing fraud patterns.",
+        "Fixed data pipeline failures where transaction records sometimes arrived with malformed timestamps, adding robust datetime parsing with extensive logging.",
+        "Met with compliance officers regularly to ensure our models didn't create unfair bias in transaction flagging, documenting validation procedures thoroughly.",
+        "Upgraded data processing scripts to use more efficient Pandas operations, reducing runtime for daily model scoring from hours to under an hour.",
+        "Protected sensitive financial data through encryption at rest and in transit, implementing AWS KMS for managing encryption keys securely.",
+        "Learned about banking regulations affecting model deployment, attending training sessions on fair lending practices and anti-money laundering requirements.",
+        "Supported production systems during business hours, being on call to restart services if they failed and documenting each incident for process improvement."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "Pandas",
+        "Flask",
+        "AWS EC2",
+        "PostgreSQL",
+        "JSON",
+        "PCI-DSS Compliance",
+        "Batch Processing",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed ETL processes with Informatica to extract data from client CRM systems, transforming it for loading into Hadoop data lakes for consulting analytics.",
+        "Generated daily data quality reports using SQL queries against the processed data, identifying inconsistencies for client business teams to address.",
+        "Learned about large-scale data processing challenges while working with Sqoop jobs that transferred data between relational databases and HDFS.",
+        "Assisted senior engineers during performance tuning of Hadoop MapReduce jobs, observing how different data partitioning strategies affected run times.",
+        "Discovered a recurring data type mismatch in source files that caused job failures, proposing a preprocessing fix that was implemented across projects.",
+        "Attended client requirement sessions, taking notes on how different business units planned to use the consolidated data for decision making.",
+        "Practiced writing cleaner Python scripts for data validation, receiving feedback from team leads on error handling and logging practices.",
+        "Followed established deployment checklists for moving ETL jobs to production, ensuring all dependencies were documented and tested thoroughly."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Lakes",
+        "Batch Processing",
+        "Data Quality"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

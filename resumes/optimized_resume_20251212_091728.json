@@ -1,0 +1,330 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Snowflake Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Snowflake and Databricks to build scalable data pipelines, optimizing compute and storage costs while ensuring data quality and lineage.",
+    "Designed and implemented ETL/ELT processes using SQL and Python, improving data ingestion and transformation efficiency.",
+    "Applied dimensional modeling techniques to create star and snowflake schemas, enhancing data accessibility and query performance.",
+    "Managed database design, schema management, and access control policies in Snowflake, ensuring data security and compliance.",
+    "Implemented data monitoring frameworks to track data quality and pipeline performance, reducing errors and downtime.",
+    "Collaborated with cross-functional teams to design scalable and reliable data architectures, aligning with business objectives.",
+    "Optimized data transformation processes using advanced SQL and Python, reducing processing time and improving data accuracy.",
+    "Developed and maintained data pipelines in Databricks, leveraging Spark for large-scale data processing tasks.",
+    "Integrated Power BI and Sigma Computing for data visualization, enabling stakeholders to make data-driven decisions.",
+    "Led the migration of on-premises data warehouses to Snowflake, improving scalability and reducing operational costs.",
+    "Implemented data validation processes to ensure data integrity and compliance with regulatory standards.",
+    "Worked on system design and solution architecture, focusing on scalability, reliability, and maintainability.",
+    "Managed user roles and permissions in Snowflake, ensuring secure access to sensitive data.",
+    "Automated data workflows using SQL and Python, reducing manual intervention and improving efficiency.",
+    "Conducted code reviews and provided feedback to team members, ensuring best practices and high-quality code.",
+    "Troubleshot and resolved complex data pipeline issues, minimizing downtime and ensuring data availability.",
+    "Participated in agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.",
+    "Mentored junior team members on data engineering best practices and technologies, fostering team growth and development."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built scalable data pipelines using Snowflake and Databricks, optimizing compute and storage costs while ensuring data quality and lineage.",
+        "Designed and implemented ETL/ELT processes using SQL and Python, improving data ingestion and transformation efficiency.",
+        "Applied dimensional modeling techniques to create star and snowflake schemas, enhancing data accessibility and query performance.",
+        "Managed database design, schema management, and access control policies in Snowflake, ensuring data security and compliance.",
+        "Implemented data monitoring frameworks to track data quality and pipeline performance, reducing errors and downtime.",
+        "Collaborated with cross-functional teams to design scalable and reliable data architectures, aligning with business objectives.",
+        "Optimized data transformation processes using advanced SQL and Python, reducing processing time and improving data accuracy.",
+        "Developed and maintained data pipelines in Databricks, leveraging Spark for large-scale data processing tasks.",
+        "Integrated Power BI and Sigma Computing for data visualization, enabling stakeholders to make data-driven decisions.",
+        "Led the migration of on-premises data warehouses to Snowflake, improving scalability and reducing operational costs.",
+        "Implemented data validation processes to ensure data integrity and compliance with regulatory standards.",
+        "Worked on system design and solution architecture, focusing on scalability, reliability, and maintainability.",
+        "Managed user roles and permissions in Snowflake, ensuring secure access to sensitive data.",
+        "Automated data workflows using SQL and Python, reducing manual intervention and improving efficiency.",
+        "Conducted code reviews and provided feedback to team members, ensuring best practices and high-quality code.",
+        "Troubleshot and resolved complex data pipeline issues, minimizing downtime and ensuring data availability."
+      ],
+      "environment": [
+        "Snowflake, Databricks, SQL, Python, Power BI, Sigma Computing, AWS"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed and implemented ETL pipelines using Snowflake and Databricks, improving data processing efficiency.",
+        "Applied data modeling techniques to create dimensional models, enhancing query performance and data accessibility.",
+        "Managed Snowflake administration tasks, including database design, schema management, and access control policies.",
+        "Implemented data lineage and quality frameworks, ensuring data integrity and compliance with regulatory standards.",
+        "Optimized compute and storage costs in Snowflake and Databricks environments, reducing operational expenses.",
+        "Developed SQL scripts for data transformation and automation, improving data processing workflows.",
+        "Integrated reporting tools like Power BI for data visualization, enabling stakeholders to gain insights.",
+        "Collaborated with teams to design scalable data architectures, aligning with business goals.",
+        "Conducted code reviews and provided feedback to ensure high-quality code and best practices.",
+        "Troubleshot and resolved data pipeline issues, ensuring minimal downtime and data availability.",
+        "Participated in agile ceremonies, contributing to sprint planning and daily stand-ups.",
+        "Mentored junior team members on data engineering best practices and technologies.",
+        "Implemented data validation processes to ensure data accuracy and compliance.",
+        "Automated data workflows using Python and SQL, reducing manual intervention and improving efficiency."
+      ],
+      "environment": [
+        "Snowflake, Databricks, SQL, Python, Power BI, AWS"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built data pipelines using Snowflake and Databricks, improving data processing efficiency.",
+        "Applied dimensional modeling techniques to create star schemas, enhancing query performance.",
+        "Managed Snowflake administration tasks, including schema management and access control policies.",
+        "Implemented data monitoring frameworks to track data quality and pipeline performance.",
+        "Optimized data transformation processes using SQL and Python, reducing processing time.",
+        "Developed and maintained data pipelines in Databricks, leveraging Spark for large-scale processing.",
+        "Integrated Power BI for data visualization, enabling stakeholders to make data-driven decisions.",
+        "Collaborated with teams to design scalable data architectures, aligning with business objectives.",
+        "Conducted code reviews and provided feedback to ensure high-quality code.",
+        "Troubleshot and resolved data pipeline issues, ensuring minimal downtime.",
+        "Participated in agile ceremonies, contributing to sprint planning and daily stand-ups.",
+        "Mentored junior team members on data engineering best practices."
+      ],
+      "environment": [
+        "Snowflake, Databricks, SQL, Python, Power BI, GCP"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed data pipelines using Snowflake, improving data processing efficiency.",
+        "Applied data modeling techniques to create dimensional models, enhancing query performance.",
+        "Managed Snowflake administration tasks, including schema management and access control.",
+        "Implemented data quality frameworks to ensure data integrity and compliance.",
+        "Optimized data transformation processes using SQL, reducing processing time.",
+        "Integrated reporting tools for data visualization, enabling stakeholders to gain insights.",
+        "Collaborated with teams to design scalable data architectures.",
+        "Conducted code reviews and provided feedback to ensure high-quality code.",
+        "Troubleshot and resolved data pipeline issues, ensuring minimal downtime.",
+        "Participated in agile ceremonies, contributing to sprint planning."
+      ],
+      "environment": [
+        "Snowflake, SQL, Python, Azure"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built data pipelines using SQL and Python, improving data processing efficiency.",
+        "Applied data modeling techniques to create dimensional models, enhancing query performance.",
+        "Managed database administration tasks, including schema management and access control.",
+        "Implemented data monitoring frameworks to track data quality and pipeline performance.",
+        "Optimized data transformation processes using SQL, reducing processing time.",
+        "Integrated reporting tools for data visualization, enabling stakeholders to gain insights.",
+        "Collaborated with teams to design scalable data architectures.",
+        "Conducted code reviews and provided feedback to ensure high-quality code.",
+        "Troubleshot and resolved data pipeline issues, ensuring minimal downtime."
+      ],
+      "environment": [
+        "SQL, Python, Azure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

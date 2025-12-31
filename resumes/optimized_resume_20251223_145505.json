@@ -1,0 +1,328 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Gen AI/Agentic AI Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Python and LangChain to build a healthcare claims processing agent, reducing manual effort by automating claim validation and fraud detection, ensuring HIPAA compliance throughout the process.",
+    "Implemented Google ADK for secure data retrieval in an insurance policy recommendation system, enhancing data accuracy and customer satisfaction by providing personalized policy suggestions.",
+    "Developed a banking chatbot using LangChain and Python, integrating with AWS services to handle customer inquiries, reducing response times and improving user experience.",
+    "Engineered a healthcare virtual assistant with LangChain, enabling patients to schedule appointments and access medical records securely, adhering to GDPR regulations.",
+    "Applied Python and LangChain to create a fraud detection system for banking transactions, leveraging AWS Lambda for real-time processing, significantly reducing fraudulent activities.",
+    "Built a healthcare provider search tool using LangChain and Python, allowing patients to find specialists based on insurance coverage, improving accessibility and user engagement.",
+    "Deployed a claims processing automation system in the insurance sector using Python and LangChain, streamlining workflows and reducing processing times by automating repetitive tasks.",
+    "Developed a banking loan approval assistant with LangChain, integrating with Azure services to assess creditworthiness, enhancing decision-making accuracy and customer satisfaction.",
+    "Implemented a healthcare diagnosis assistant using LangChain and Python, assisting doctors in diagnosing conditions based on patient symptoms, improving diagnostic accuracy and efficiency.",
+    "Created a policy comparison tool for insurance customers using Python and LangChain, enabling side-by-side policy comparisons, enhancing transparency and customer trust.",
+    "Engineered a banking transaction monitoring system with LangChain, detecting anomalies in real-time using AWS services, ensuring PCI compliance and security.",
+    "Built a healthcare patient engagement platform using LangChain and Python, allowing patients to track health metrics and receive personalized recommendations, improving patient outcomes.",
+    "Utilized Python and LangChain to develop a banking customer segmentation model, integrating with Azure services to tailor marketing strategies, increasing campaign effectiveness.",
+    "Implemented a healthcare claims fraud detection system with LangChain, leveraging Google ADK for secure data access, reducing fraudulent claims and operational costs.",
+    "Developed an insurance policy renewal assistant using Python and LangChain, automating renewal reminders and processing, improving customer retention and operational efficiency.",
+    "Created a banking risk assessment tool with LangChain, integrating with Azure services to evaluate loan risks, enhancing risk management and decision-making processes.",
+    "Deployed a healthcare appointment scheduling system using LangChain and Python, enabling patients to book appointments seamlessly, reducing wait times and improving patient satisfaction."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized Python and LangChain to develop an insurance claim processing agent, automating claim validation and reducing manual effort while ensuring HIPAA compliance.",
+        "Integrated Google ADK for secure data retrieval in policy recommendation systems, enhancing data accuracy and customer satisfaction with personalized suggestions.",
+        "Built a fraud detection system using Python and LangChain, leveraging AWS Lambda for real-time processing, significantly reducing fraudulent activities.",
+        "Developed a policy comparison tool with Python and LangChain, enabling customers to compare policies side-by-side, improving transparency and trust.",
+        "Implemented a claims processing automation system using Python and LangChain, streamlining workflows and reducing processing times by automating repetitive tasks.",
+        "Created a policy renewal assistant with Python and LangChain, automating renewal reminders and processing, improving customer retention and operational efficiency.",
+        "Engineered a customer segmentation model using Python and LangChain, integrating with AWS services to tailor marketing strategies, increasing campaign effectiveness.",
+        "Deployed a chatbot for customer inquiries using Python and LangChain, integrating with AWS services to handle queries, reducing response times and improving user experience.",
+        "Developed a risk assessment tool with Python and LangChain, integrating with AWS services to evaluate policy risks, enhancing risk management and decision-making processes.",
+        "Implemented a transaction monitoring system using Python and LangChain, detecting anomalies in real-time with AWS services, ensuring PCI compliance and security.",
+        "Built a customer engagement platform with Python and LangChain, allowing customers to track policy details and receive personalized recommendations, improving engagement.",
+        "Utilized Python and LangChain to create a loan approval assistant, integrating with AWS services to assess creditworthiness, enhancing decision-making accuracy and customer satisfaction.",
+        "Developed a diagnosis assistant for healthcare claims using Python and LangChain, assisting in claim assessment based on medical conditions, improving accuracy and efficiency.",
+        "Created a provider search tool with Python and LangChain, allowing customers to find healthcare providers based on insurance coverage, improving accessibility and user engagement.",
+        "Implemented a patient engagement platform using Python and LangChain, enabling patients to track health metrics and receive personalized recommendations, improving outcomes.",
+        "Engineered a banking transaction monitoring system with Python and LangChain, detecting anomalies in real-time using AWS services, ensuring security and compliance."
+      ],
+      "environment": [
+        "Python, LangChain, Google ADK, AWS (Lambda, S3, EC2), HIPAA, PCI Compliance"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed a healthcare virtual assistant using Python and LangChain, enabling patients to schedule appointments and access records securely, adhering to GDPR regulations.",
+        "Implemented a diagnosis assistant with Python and LangChain, assisting doctors in diagnosing conditions based on symptoms, improving diagnostic accuracy and efficiency.",
+        "Built a patient engagement platform using Python and LangChain, allowing patients to track health metrics and receive personalized recommendations, improving outcomes.",
+        "Utilized Python and LangChain to create a claims processing automation system, streamlining workflows and reducing processing times by automating repetitive tasks.",
+        "Developed a fraud detection system with Python and LangChain, leveraging AWS services for real-time processing, significantly reducing fraudulent activities.",
+        "Created a provider search tool using Python and LangChain, allowing patients to find specialists based on insurance coverage, improving accessibility and user engagement.",
+        "Implemented a claims fraud detection system with Python and LangChain, leveraging Google ADK for secure data access, reducing fraudulent claims and operational costs.",
+        "Engineered a patient scheduling system using Python and LangChain, enabling seamless appointment booking, reducing wait times and improving patient satisfaction.",
+        "Built a healthcare chatbot with Python and LangChain, integrating with AWS services to handle patient inquiries, reducing response times and improving user experience.",
+        "Developed a risk assessment tool for healthcare providers using Python and LangChain, integrating with AWS services to evaluate patient risks, enhancing risk management.",
+        "Utilized Python and LangChain to create a customer segmentation model, integrating with AWS services to tailor marketing strategies, increasing campaign effectiveness.",
+        "Implemented a transaction monitoring system using Python and LangChain, detecting anomalies in real-time with AWS services, ensuring security and compliance.",
+        "Created a loan approval assistant with Python and LangChain, integrating with AWS services to assess creditworthiness, enhancing decision-making accuracy and customer satisfaction.",
+        "Deployed a policy comparison tool using Python and LangChain, enabling customers to compare policies side-by-side, improving transparency and trust."
+      ],
+      "environment": [
+        "Python, LangChain, Google ADK, AWS (Lambda, S3, EC2), GDPR Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed a healthcare claims processing agent using Python and LangChain, automating claim validation and reducing manual effort while ensuring HIPAA compliance.",
+        "Implemented a fraud detection system with Python and LangChain, leveraging GCP services for real-time processing, significantly reducing fraudulent activities.",
+        "Built a patient engagement platform using Python and LangChain, allowing patients to track health metrics and receive personalized recommendations, improving outcomes.",
+        "Utilized Python and LangChain to create a diagnosis assistant, assisting doctors in diagnosing conditions based on symptoms, improving diagnostic accuracy and efficiency.",
+        "Developed a provider search tool with Python and LangChain, allowing patients to find specialists based on insurance coverage, improving accessibility and user engagement.",
+        "Created a claims processing automation system using Python and LangChain, streamlining workflows and reducing processing times by automating repetitive tasks.",
+        "Implemented a patient scheduling system with Python and LangChain, enabling seamless appointment booking, reducing wait times and improving patient satisfaction.",
+        "Engineered a healthcare chatbot using Python and LangChain, integrating with GCP services to handle patient inquiries, reducing response times and improving user experience.",
+        "Developed a risk assessment tool for healthcare providers using Python and LangChain, integrating with GCP services to evaluate patient risks, enhancing risk management.",
+        "Utilized Python and LangChain to create a customer segmentation model, integrating with GCP services to tailor marketing strategies, increasing campaign effectiveness.",
+        "Implemented a transaction monitoring system using Python and LangChain, detecting anomalies in real-time with GCP services, ensuring security and compliance.",
+        "Created a loan approval assistant with Python and LangChain, integrating with GCP services to assess creditworthiness, enhancing decision-making accuracy and customer satisfaction."
+      ],
+      "environment": [
+        "Python, LangChain, Google ADK, GCP (Big Query, Vertex AI), HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed a banking chatbot using Python and LangChain, integrating with Azure services to handle customer inquiries, reducing response times and improving user experience.",
+        "Implemented a fraud detection system with Python and LangChain, leveraging Azure services for real-time processing, significantly reducing fraudulent activities.",
+        "Built a customer segmentation model using Python and LangChain, integrating with Azure services to tailor marketing strategies, increasing campaign effectiveness.",
+        "Utilized Python and LangChain to create a loan approval assistant, integrating with Azure services to assess creditworthiness, enhancing decision-making accuracy and customer satisfaction.",
+        "Developed a transaction monitoring system with Python and LangChain, detecting anomalies in real-time using Azure services, ensuring PCI compliance and security.",
+        "Created a risk assessment tool for banking using Python and LangChain, integrating with Azure services to evaluate loan risks, enhancing risk management and decision-making processes.",
+        "Implemented a customer engagement platform using Python and LangChain, allowing customers to track account details and receive personalized recommendations, improving engagement.",
+        "Engineered a banking virtual assistant using Python and LangChain, enabling customers to perform transactions and access account information securely, adhering to PCI compliance.",
+        "Developed a policy comparison tool with Python and LangChain, enabling customers to compare banking products side-by-side, improving transparency and trust.",
+        "Utilized Python and LangChain to create a claims processing automation system, streamlining workflows and reducing processing times by automating repetitive tasks."
+      ],
+      "environment": [
+        "Python, LangChain, Azure (ML Studio, Data Factory), PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed a data pipeline using Python and LangChain, integrating with Azure services to process and analyze large datasets, improving data accessibility and insights.",
+        "Implemented a data warehousing solution with Python and LangChain, leveraging Azure services to store and manage structured and unstructured data, enhancing data retrieval efficiency.",
+        "Built an ETL process using Python and LangChain, integrating with Azure Data Factory to transform and load data into a centralized repository, improving data consistency.",
+        "Utilized Python and LangChain to create a data visualization dashboard, enabling stakeholders to gain insights from complex datasets, enhancing decision-making processes.",
+        "Developed a data quality monitoring system with Python and LangChain, integrating with Azure services to detect and resolve data anomalies, ensuring data integrity.",
+        "Created a data integration solution using Python and LangChain, combining data from multiple sources into a unified view, improving data analysis and reporting.",
+        "Implemented a data security framework with Python and LangChain, leveraging Azure services to encrypt and protect sensitive data, ensuring compliance with GDPR regulations.",
+        "Engineered a data migration tool using Python and LangChain, facilitating the seamless transfer of data between systems, reducing downtime and improving efficiency."
+      ],
+      "environment": [
+        "Python, LangChain, Azure (Data Factory, Cosmos DB), GDPR Compliance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

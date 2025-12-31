@@ -1,0 +1,252 @@
+{
+  "name": "Aravind Datla",
+  "title": "AWS Cloud Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "AWS Cloud Engineer with 7+ years of experience designing, implementing, and maintaining scalable cloud infrastructure solutions across Healthcare, Banking, Automotive, and Consulting domains, specializing in AWS services including EC2, S3, Lambda, and IAM.",
+    "Expertise in Infrastructure as Code using Terraform and AWS CloudFormation to automate resource provisioning and ensure consistent, repeatable deployments across multiple environments while maintaining compliance with industry standards.",
+    "Proficient in Python scripting for automation tasks, including resource deployment, monitoring, and cost optimization, with a focus on creating efficient, reusable scripts that reduce manual intervention by approximately 80%.",
+    "Skilled in containerization using Docker and orchestration with Kubernetes to create scalable, portable application environments that improve resource utilization and simplify deployment processes.",
+    "Experienced in implementing CI/CD pipelines using AWS CodePipeline, Jenkins, and GitLab CI to automate testing, building, and deployment processes, reducing deployment time by around 60% and increasing release frequency.",
+    "Demonstrated ability to optimize AWS infrastructure costs without compromising performance through rightsizing, reserved instances, and automated resource scheduling, resulting in approximately 30% cost reduction across multiple projects.",
+    "Strong understanding of AWS security best practices, including IAM policies, VPC configuration, security groups, and encryption, ensuring compliance with HIPAA in healthcare, PCI DSS in banking, and other industry regulations.",
+    "Proficient in monitoring and logging using AWS CloudWatch, CloudTrail, and ELK Stack to proactively identify and resolve performance issues, improve system reliability, and maintain audit trails for compliance requirements.",
+    "Collaborative team player with excellent communication skills, able to explain complex technical concepts to non-technical stakeholders and work effectively with cross-functional teams to deliver cloud solutions that meet business requirements.",
+    "Experienced in migrating on-premise applications to AWS with minimal downtime, using strategies such as rehosting, replatforming, and refactoring based on application requirements and business goals.",
+    "Knowledgeable in serverless architecture using AWS Lambda, API Gateway, and DynamoDB to build cost-effective, scalable applications that automatically adjust to workload demands and reduce operational overhead.",
+    "Skilled in implementing disaster recovery and business continuity solutions using AWS services like S3, Glacier, and CloudFormation, ensuring data protection and rapid recovery in case of system failures.",
+    "Proficient in database management on AWS, including RDS, DynamoDB, and Redshift, with experience in performance tuning, backup strategies, and migration from traditional database systems.",
+    "Experienced in implementing DevOps practices to improve collaboration between development and operations teams, including version control with Git, automated testing, and continuous integration/deployment.",
+    "Knowledgeable in AWS networking, including VPC design, subnets, route tables, NAT gateways, and VPN connections, to create secure, highly available network architectures that meet specific business requirements.",
+    "Skilled in using AWS Well-Architected Framework to evaluate and improve cloud architectures, ensuring they follow best practices for operational excellence, security, reliability, performance efficiency, and cost optimization.",
+    "Experienced in managing multi-account AWS environments using AWS Organizations, Service Control Policies, and cross-account roles to maintain separation of concerns while enabling centralized governance.",
+    "Continuous learner who stays updated with the latest AWS services and features, regularly pursuing AWS certifications and participating in AWS communities to enhance technical skills and knowledge."
+  ],
+  "technical_skills": {
+    "Cloud Platforms": [
+      "AWS",
+      "EC2",
+      "S3",
+      "Lambda",
+      "VPC",
+      "IAM",
+      "CloudFormation",
+      "CloudWatch",
+      "CloudTrail"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "Bash",
+      "PowerShell",
+      "Node.js"
+    ],
+    "Infrastructure as Code": [
+      "Terraform",
+      "AWS CloudFormation",
+      "AWS CDK"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "ECS",
+      "EKS"
+    ],
+    "CI/CD & DevOps": [
+      "AWS CodePipeline",
+      "AWS CodeBuild",
+      "Jenkins",
+      "GitLab CI",
+      "Ansible"
+    ],
+    "Databases": [
+      "RDS",
+      "DynamoDB",
+      "Redshift",
+      "Aurora"
+    ],
+    "Security & Compliance": [
+      "AWS IAM",
+      "AWS Security Hub",
+      "AWS Inspector",
+      "HIPAA",
+      "PCI DSS",
+      "GDPR"
+    ],
+    "Monitoring & Logging": [
+      "AWS CloudWatch",
+      "ELK Stack",
+      "Prometheus",
+      "Grafana"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AWS Cloud Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "AWS Lambda to address HIPAA-compliant data processing requirements, implemented serverless architecture with encrypted data storage and VPC endpoints, ensuring secure handling of sensitive patient information while reducing infrastructure costs by around 40%.",
+        "Terraform to solve inconsistent environment deployments across development, testing, and production, created modular infrastructure code with version control and automated testing, achieving standardized deployments that passed compliance audits with zero exceptions.",
+        "AWS IAM and Cognito to resolve complex access control challenges in a multi-application healthcare environment, designed role-based access policies with least privilege principles, improving security posture and successfully passing multiple security assessments.",
+        "Python scripting to automate repetitive manual tasks in AWS resource management, developed custom scripts for backup verification, log analysis, and cost monitoring, saving approximately 20 hours of manual work per week and reducing human errors.",
+        "AWS CloudWatch and CloudTrail to address lack of comprehensive monitoring in healthcare applications, implemented centralized logging with custom alerts for security events, enabling faster incident response and maintaining compliance with audit requirements.",
+        "Docker containers to solve application dependency issues in the healthcare data processing pipeline, containerized legacy applications with proper isolation and resource limits, improving deployment consistency and reducing environment-specific bugs by around 70%.",
+        "AWS S3 with lifecycle policies to address growing storage costs for healthcare data, implemented intelligent tiering and automated archiving based on data access patterns, optimizing storage expenses while maintaining immediate access to critical patient information.",
+        "Kubernetes to orchestrate microservices-based healthcare applications, designed self-healing clusters with proper resource allocation and scaling policies, improving application uptime to 99.9% and reducing manual intervention during peak usage periods.",
+        "AWS CodePipeline to streamline the deployment process for healthcare applications, created automated CI/CD pipelines with security scanning and compliance checks, reducing deployment time from days to hours while ensuring all regulatory requirements were met.",
+        "AWS VPC with proper network segmentation to resolve security concerns between different healthcare applications, designed isolated environments with controlled traffic flow, successfully passing multiple penetration tests and security audits.",
+        "AWS RDS with encryption and proper backup strategies to address database security requirements for patient data, implemented automated backups with point-in-time recovery and cross-region replication, ensuring data protection and business continuity.",
+        "AWS Cost Explorer and Budgets to solve unexpected cloud spending issues, implemented detailed cost allocation tags and automated alerts, providing visibility into resource usage and enabling proactive cost management across multiple healthcare projects.",
+        "AWS Secrets Manager to address secure credential storage challenges in healthcare applications, integrated automated rotation of database credentials and API keys, improving security posture and reducing the risk of credential exposure in development environments.",
+        "AWS API Gateway with proper throttling and authorization to handle API security for patient data access, implemented request validation and usage plans, preventing abuse and ensuring fair resource allocation among different healthcare applications.",
+        "AWS Step Functions to coordinate complex healthcare data processing workflows, designed visual workflows with error handling and retry logic, improving reliability of multi-step processes and providing better visibility into execution status.",
+        "AWS X-Ray to troubleshoot performance issues in microservices-based healthcare applications, implemented distributed tracing with detailed performance metrics, identifying bottlenecks and reducing response times by approximately 50%.",
+        "AWS CloudFormation to solve infrastructure consistency issues across multiple healthcare environments, created nested stacks with proper parameterization and resource dependencies, enabling reproducible deployments that passed compliance requirements.",
+        "AWS Elastic Beanstalk to simplify deployment of healthcare applications while maintaining security controls, configured environments with custom extensions for logging and monitoring, reducing deployment complexity while ensuring all HIPAA requirements were met."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "Lambda",
+        "EC2",
+        "S3",
+        "RDS",
+        "VPC",
+        "IAM",
+        "CloudWatch",
+        "CloudFormation",
+        "CodePipeline",
+        "API Gateway"
+      ]
+    },
+    {
+      "role": "AWS Cloud Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "AWS EC2 and Auto Scaling Groups to address fluctuating demand for banking applications, implemented dynamic scaling based on custom metrics, improving system responsiveness during peak periods while optimizing costs during low usage times.",
+        "AWS Lambda and API Gateway to create serverless microservices for customer authentication, designed secure token-based authentication with proper logging and monitoring, reducing infrastructure maintenance by around 60% and improving developer productivity.",
+        "Terraform modules to solve inconsistent infrastructure deployments across banking environments, created reusable components with proper variable validation, standardizing resource provisioning and reducing deployment errors by approximately 75%.",
+        "Python with Boto3 to automate routine AWS management tasks for banking systems, developed scripts for security group auditing, resource tagging, and compliance checking, saving approximately 15 hours per week of manual administrative work.",
+        "AWS CloudTrail and S3 to address audit trail requirements for banking applications, implemented centralized logging with immutable storage and proper access controls, successfully meeting regulatory audit requirements and simplifying compliance reporting.",
+        "Docker containers to solve application deployment consistency issues in banking environments, containerized Java applications with proper health checks and resource limits, improving deployment reliability and reducing environment-specific configuration issues.",
+        "AWS CodePipeline and CodeBuild to create automated CI/CD pipelines for banking applications, implemented security scanning and automated testing stages, reducing manual deployment effort by around 80% and improving release frequency.",
+        "AWS KMS to address encryption requirements for sensitive banking data, implemented envelope encryption with proper key rotation policies, meeting regulatory requirements for data protection at rest and in transit.",
+        "AWS RDS with Multi-AZ deployment to solve database availability issues for critical banking applications, configured automated failover and backup strategies, improving database uptime to 99.95% and reducing recovery time objectives.",
+        "AWS WAF and Shield to protect banking applications from common web vulnerabilities, configured rule sets based on OWASP Top 10 risks and implemented DDoS protection, preventing multiple security incidents and maintaining application availability.",
+        "AWS VPC with proper network segmentation to isolate different banking application environments, designed secure network architecture with controlled traffic flow and private connectivity, successfully passing multiple security assessments.",
+        "AWS CloudWatch alarms and notifications to address proactive monitoring of banking systems, configured custom metrics and thresholds with automated response actions, reducing mean time to detection for issues by approximately 50%.",
+        "AWS Config Rules to enforce compliance requirements for banking infrastructure, implemented automated compliance checks with remediation actions, ensuring consistent security configurations across all AWS resources and reducing manual audit efforts.",
+        "AWS Elasticache to improve performance of frequently accessed banking data, implemented Redis clusters with proper replication and failover, reducing database load and improving application response times by around 40%.",
+        "AWS SQS and SNS to decouple components in banking transaction processing systems, designed asynchronous messaging patterns with proper error handling and dead letter queues, improving system resilience and handling peak transaction volumes."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Terraform",
+        "Docker",
+        "Lambda",
+        "EC2",
+        "S3",
+        "RDS",
+        "VPC",
+        "IAM",
+        "CloudWatch",
+        "CloudFormation",
+        "CodePipeline",
+        "KMS",
+        "WAF",
+        "Shield",
+        "Elasticache",
+        "SQS",
+        "SNS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Apache Kafka to address real-time data processing requirements in automotive telematics, implemented streaming data pipelines with proper serialization and error handling, enabling processing of approximately 1 million events per day from vehicle sensors.",
+        "AWS S3 and Glue to solve data lake challenges for automotive analytics, created partitioned data storage with automated ETL processes, improving query performance and enabling data scientists to access vehicle data more efficiently.",
+        "Apache Airflow to orchestrate complex automotive data processing workflows, designed DAGs with proper dependency management and error handling, improving reliability of data processing jobs and reducing manual intervention by around 70%.",
+        "Python with Pandas and NumPy to analyze vehicle performance data, developed data processing scripts for identifying patterns and anomalies, helping engineers identify potential issues before they became critical problems.",
+        "AWS EC2 instances with proper auto-scaling to handle variable workloads in automotive data processing, implemented scaling policies based on queue length and CPU utilization, optimizing costs while maintaining processing performance.",
+        "Tableau dashboards to visualize automotive manufacturing metrics, created interactive visualizations with drill-down capabilities, enabling managers to identify production bottlenecks and make data-driven decisions.",
+        "AWS Lambda functions to process IoT data from connected vehicles, implemented serverless data processing with proper error handling and retry logic, reducing infrastructure costs and improving scalability of the data ingestion pipeline.",
+        "Hadoop ecosystem to store and process large volumes of vehicle telemetry data, configured HDFS with proper replication and YARN for resource management, enabling storage and processing of petabytes of historical vehicle data.",
+        "AWS Kinesis to handle real-time streaming of vehicle sensor data, implemented Kinesis Data Streams with proper shard allocation and consumer applications, enabling near real-time analysis of vehicle performance metrics.",
+        "AWS DynamoDB to store vehicle configuration data with high availability and low latency access, designed tables with proper partition keys and global secondary indexes, supporting millions of read/write requests per day.",
+        "AWS EMR to run distributed data processing jobs on automotive datasets, configured Spark clusters with optimized resource allocation and job scheduling, reducing processing time for complex analytics queries by around 60%.",
+        "AWS API Gateway to expose RESTful APIs for vehicle data access, implemented proper authentication and rate limiting, enabling secure access to vehicle information for authorized applications and partners."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "AWS",
+        "EC2",
+        "S3",
+        "Lambda",
+        "Glue",
+        "Kinesis",
+        "DynamoDB",
+        "EMR",
+        "API Gateway"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "MySQL database optimization to address performance issues in consulting client applications, implemented query optimization and proper indexing, reducing average query response time by around 60% and improving user satisfaction.",
+        "PostgreSQL with proper partitioning to handle large datasets in consulting projects, designed database schema with appropriate constraints and relationships, improving data integrity and enabling more efficient reporting capabilities.",
+        "Talend ETL processes to solve data integration challenges for consulting clients, created data pipelines with proper transformation and validation logic, reducing manual data preparation time by approximately 70% and improving data quality.",
+        "Apache Airflow to automate data processing workflows for consulting projects, scheduled and monitored ETL jobs with proper error handling and notifications, improving reliability of data delivery and reducing manual intervention.",
+        "Python scripts to automate report generation for consulting clients, developed reusable templates with dynamic data population, reducing report creation time from hours to minutes and enabling more frequent updates.",
+        "Tableau visualizations to present complex consulting data insights, created interactive dashboards with filters and drill-down capabilities, helping clients understand their data better and make more informed business decisions.",
+        "AWS EC2 instances to host consulting client applications, configured security groups and proper monitoring, improving application availability and reducing infrastructure management overhead by around 40%.",
+        "AWS S3 to store and backup consulting project data, implemented lifecycle policies and cross-region replication, ensuring data durability and meeting client requirements for data retention and disaster recovery.",
+        "AWS Lambda functions to process incoming data from various client sources, implemented serverless data validation and transformation, reducing infrastructure costs and improving scalability of data ingestion processes.",
+        "AWS RDS to replace on-premise databases for consulting applications, migrated data with minimal downtime and implemented proper backup strategies, improving database performance and reducing administrative overhead."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "AWS",
+        "EC2",
+        "S3",
+        "Lambda",
+        "RDS"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

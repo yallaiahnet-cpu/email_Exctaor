@@ -1,0 +1,318 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Full-Stack Generative AI Engineer",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a senior AI/ML engineer with over 10 years of experience specializing in full-stack development and production-grade AI systems, blending backend architecture with frontend React.js interfaces for healthcare and insurance domains.",
+    "Architected scalable backend systems using Node.js and TypeScript to serve TensorFlow and scikit-learn models via REST APIs, ensuring HIPAA-compliant data handling across multiple healthcare applications and real-time analytics platforms.",
+    "Engineered responsive React.js frontends with complex state management to visualize AI-driven insights, collaborating closely with UX designers to translate patient data into intuitive dashboards for clinical decision support systems.",
+    "Integrated LangChain and Crew AI frameworks to build multi-agent proof-of-concept systems that automate medical document processing, significantly reducing manual data entry errors while maintaining strict regulatory compliance.",
+    "Deployed machine learning models into AWS cloud environments using SageMaker and Lambda, focusing on performance optimization and security to meet enterprise healthcare standards for data privacy and system availability.",
+    "Developed end-to-end web applications that embed AI workflows into user-facing insurance platforms, leveraging Python and FastAPI to create microservices for claims prediction and fraud detection analytics.",
+    "Orchestrated the full lifecycle of generative AI models, from initial development with TensorFlow to production deployment, ensuring robust model serving and seamless integration with existing enterprise data pipelines.",
+    "Designed secure AI applications by implementing authentication, encryption, and audit logging within Node.js backends, addressing specific HIPAA and PHI security requirements for protected health information.",
+    "Optimized application performance by conducting thorough code reviews, debugging memory leaks in React components, and implementing caching strategies that improved dashboard load times for healthcare providers.",
+    "Collaborated cross-functionally with data scientists to operationalize their research models, building the necessary TypeScript interfaces and API contracts to serve predictions within scalable web platforms.",
+    "Translated complex product requirements for AI-powered features into technical specifications, documenting APIs and workflow diagrams to align engineering teams with business objectives in fast-paced agile environments.",
+    "Led troubleshooting sessions for full-stack systems, diagnosing issues ranging from database query performance in PostgreSQL to frontend routing problems in React Router, ensuring system reliability.",
+    "Implemented model context protocol (MCP) standards to facilitate agent-to-agent communication within multi-agent systems, enabling more sophisticated orchestration of AI tasks across distributed services.",
+    "Managed the integration of Azure ML services into government-facing applications during earlier career phases, gaining experience with cloud AI platforms and their application to public sector challenges.",
+    "Applied machine learning frameworks to solve domain-specific problems in finance, developing risk assessment models while ensuring PCI DSS compliance and secure handling of sensitive financial data.",
+    "Participated in the complete software development lifecycle for AI-enabled applications, from initial brainstorming and prototyping to final testing and deployment using CI/CD pipelines and Docker containers.",
+    "Demonstrated a problem-solving mindset when tackling integration challenges, such as connecting legacy healthcare databases with modern AI services, often spending hours debugging data format mismatches.",
+    "Maintained a passion for cutting-edge generative AI technologies, continuously experimenting with new frameworks like LangGraph and staying current with advancements in large language model applications."
+  ],
+  "technical_skills": {
+    "Generative AI & LLM Engineering": [
+      "LangChain",
+      "Crew AI",
+      "LangGraph",
+      "Model Context Protocol",
+      "Multi-Agent Systems",
+      "RAG Pipelines",
+      "OpenAI APIs",
+      "Generative Model Development"
+    ],
+    "Full-Stack Development": [
+      "Node.js",
+      "TypeScript",
+      "React.js",
+      "REST API Development",
+      "Component-Based Architecture",
+      "State Management",
+      "Responsive UI",
+      "Scalable Backend Architecture"
+    ],
+    "Machine Learning & AI Frameworks": [
+      "TensorFlow",
+      "Scikit-learn",
+      "Production AI Deployment",
+      "Model Orchestration",
+      "Machine Learning Development",
+      "AI Workflow Integration"
+    ],
+    "Cloud AI & Infrastructure": [
+      "AWS SageMaker",
+      "AWS Lambda",
+      "AWS EC2",
+      "AWS RDS",
+      "Azure ML",
+      "Cloud Model Deployment",
+      "Performance Optimization",
+      "Security Implementation"
+    ],
+    "Backend Technologies": [
+      "Python",
+      "FastAPI",
+      "API Development",
+      "Microservices",
+      "Serverless Functions",
+      "Database Optimization",
+      "Authentication Systems",
+      "Encryption Protocols"
+    ],
+    "Frontend Technologies": [
+      "React.js",
+      "TypeScript",
+      "Routing",
+      "UI Component Libraries",
+      "Dashboard Development",
+      "Data Visualization",
+      "Frontend Performance",
+      "Cross-Browser Compatibility"
+    ],
+    "Data Engineering & Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "AWS RDS",
+      "Data Pipelines",
+      "ETL Processes",
+      "Data Modeling",
+      "Query Optimization",
+      "HIPAA-Compliant Storage"
+    ],
+    "DevOps & MLOps": [
+      "Docker",
+      "CI/CD Pipelines",
+      "Model Versioning",
+      "Containerization",
+      "Deployment Automation",
+      "Monitoring",
+      "Logging",
+      "Git Workflows"
+    ],
+    "Security & Compliance": [
+      "HIPAA Compliance",
+      "PHI Security",
+      "API Security",
+      "Data Encryption",
+      "Audit Logging",
+      "Access Controls",
+      "Regulatory Standards",
+      "Secure Design"
+    ],
+    "Collaboration & Methodology": [
+      "Agile Development",
+      "Cross-Functional Teams",
+      "Technical Documentation",
+      "Code Reviews",
+      "System Design",
+      "Requirement Translation",
+      "Stakeholder Communication"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Using LangChain and React.js to address inefficient medical supply chain forecasting, I constructed a multi-agent generative AI system that automates inventory predictions, reducing manual planning efforts by forty percent for healthcare facilities.",
+        "Implementing Node.js and TypeScript to solve slow response times in patient data APIs, I engineered a scalable backend architecture with Redis caching, dramatically improving dashboard performance for real-time clinical decision support.",
+        "Leveraging TensorFlow and AWS SageMaker to tackle inaccurate predictive maintenance models, I developed and deployed enhanced machine learning algorithms that increased equipment failure prediction accuracy across hospital networks.",
+        "Applying Crew AI framework to overcome disjointed medical documentation processes, I orchestrated a proof-of-concept multi-agent system that automates HIPAA-compliant note generation, saving clinicians substantial administrative time.",
+        "Utilizing React.js with complex state management to address confusing user interfaces, I redesigned the medication tracking dashboard with responsive components, significantly enhancing usability for nursing staff across multiple facilities.",
+        "Employing Python and FastAPI to resolve insecure data exchanges, I built a robust REST API layer with end-to-end encryption, ensuring all PHI transmissions meet stringent healthcare compliance regulations and audit requirements.",
+        "Adopting Model Context Protocol to fix poor inter-agent communication, I established standardized protocols for our multi-agent AI systems, enabling more coherent orchestration of diagnostic assistance workflows and data retrieval tasks.",
+        "Incorporating TypeScript across full-stack development to eliminate type-related runtime errors, I enforced strict typing in both frontend React components and backend services, reducing production bugs related to data format mismatches.",
+        "Deploying Docker containers to address inconsistent development environments, I containerized our generative AI applications and their dependencies, streamlining deployment processes and improving team collaboration on microservices.",
+        "Implementing comprehensive logging to troubleshoot elusive performance bottlenecks, I instrumented our Node.js services to capture detailed metrics, identifying and resolving memory leaks that affected real-time data processing.",
+        "Designing secure AI application architecture to combat potential PHI exposure risks, I integrated advanced authentication and granular access controls, ensuring our systems maintain complete HIPAA compliance during all AI operations.",
+        "Orchestrating LangGraph for complex workflow management challenges, I modeled patient journey analytics as directed graphs, enabling more sophisticated tracking and prediction of healthcare outcomes across integrated hospital systems.",
+        "Constructing scalable backend services to handle increased user load, I architected a microservices-based platform using AWS Lambda, supporting concurrent access by thousands of healthcare providers without performance degradation.",
+        "Developing responsive UI components to improve mobile clinician experience, I crafted React.js views that adapt to various tablet and desktop screens, facilitating point-of-care data entry and review during patient rounds.",
+        "Optimizing machine learning model deployment to accelerate inference speeds, I refactored TensorFlow serving configurations and implemented request batching, reducing prediction latency for real-time diagnostic support tools.",
+        "Facilitating cross-functional collaboration between data scientists and frontend developers, I translated complex model outputs into actionable UI specifications, bridging the gap between algorithmic research and clinical application."
+      ],
+      "environment": [
+        "Node.js",
+        "TypeScript",
+        "React.js",
+        "Python",
+        "TensorFlow",
+        "LangChain",
+        "Crew AI",
+        "LangGraph",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "FastAPI",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "REST API",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Using scikit-learn and Python to improve claims fraud detection accuracy, I developed ensemble machine learning models that analyze historical patterns, flagging suspicious activities with greater precision for insurance investigators.",
+        "Implementing React.js and TypeScript to modernize legacy member portals, I rebuilt the frontend with responsive design principles, creating an intuitive interface for policyholders to manage benefits and submit digital claims.",
+        "Leveraging Node.js backend services to address slow claim processing times, I optimized database queries and implemented asynchronous processing queues, significantly reducing average adjudication cycle durations.",
+        "Applying REST API development practices to integrate disparate insurance systems, I designed a unified API gateway that connects underwriting, claims, and customer service platforms, enhancing data flow consistency.",
+        "Utilizing scalable backend architecture to handle seasonal enrollment peaks, I designed and deployed auto-scaling AWS EC2 instances that maintain performance during high-volume insurance registration periods.",
+        "Employing performance optimization techniques to troubleshoot sluggish premium calculation dashboards, I conducted profiling and code refactoring, improving the responsiveness for actuarial teams performing complex analyses.",
+        "Adopting secure AI application design principles to protect sensitive member data, I implemented encryption at rest and in transit for all AI model inputs and outputs, meeting strict insurance data protection standards.",
+        "Incorporating AI workflow integration to automate manual claim coding, I built a proof-of-concept using LangChain that extracts and categorizes procedure codes from submitted documents, reducing administrative overhead.",
+        "Deploying machine learning models to AWS cloud environments for real-time scoring, I containerized fraud detection algorithms using Docker and orchestrated their serving through AWS ECS with health monitoring.",
+        "Implementing state management solutions in React.js to manage complex policy data, I utilized Redux Toolkit to create predictable state flows across multi-step insurance application and claims submission workflows.",
+        "Designing component-based architecture for reusable insurance UI elements, I constructed a library of React components for common patterns like deductible calculators and coverage summary displays, accelerating feature development.",
+        "Orchestrating Crew AI frameworks to explore automated denial reasoning, I led a proof-of-concept project where multi-agent systems analyze claim denial patterns and generate explanatory narratives for member communications.",
+        "Constructing API-based AI model serving infrastructure to support various business units, I created a centralized prediction service that multiple frontend applications consume for risk assessment and customer segmentation.",
+        "Developing debugging procedures for full-stack insurance systems, I established systematic troubleshooting protocols that combine log analysis, database query examination, and frontend state inspection to resolve production issues."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "Node.js",
+        "TypeScript",
+        "React.js",
+        "AWS EC2",
+        "AWS RDS",
+        "Docker",
+        "REST API",
+        "LangChain",
+        "Crew AI",
+        "Redux",
+        "PostgreSQL",
+        "Insurance Regulations",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Using Azure ML and Python to enhance public service forecasting, I developed time series models that predict unemployment benefit claim volumes, assisting government agencies in resource allocation planning.",
+        "Implementing scalable backend architecture with Node.js to modernize citizen portal APIs, I migrated legacy monolithic services to microservices, improving maintainability and enabling independent scaling of government digital services.",
+        "Leveraging TypeScript and React.js to rebuild outdated public assistance application interfaces, I created responsive and accessible web forms that comply with government digital accessibility standards for all residents.",
+        "Applying REST API development to integrate disparate state agency databases, I designed secure data exchange endpoints that enable authorized information sharing while maintaining strict privacy controls for citizen data.",
+        "Utilizing performance optimization techniques on slow reporting dashboards, I analyzed and refactored database queries and implemented server-side pagination, reducing load times for public health statistics displays.",
+        "Employing secure application design principles for handling sensitive citizen information, I implemented role-based access controls and comprehensive audit trails that meet state government security and compliance mandates.",
+        "Adopting AI workflow integration to automate document processing for permit applications, I built a proof-of-concept using Python and OCR services that extracts and validates information from submitted PDF forms.",
+        "Incorporating machine learning model development to improve fraud detection in benefit programs, I collaborated with data scientists to productionize algorithms that identify suspicious patterns while minimizing false positives.",
+        "Deploying applications to Azure cloud environments to increase system reliability, I migrated on-premise government services to Azure App Services with automated scaling, enhancing availability during peak usage periods.",
+        "Implementing debugging methodologies for government web applications, I conducted systematic root cause analysis on production issues, documenting solutions in knowledge bases for other engineering team members.",
+        "Designing component-based architecture for reusable government UI patterns, I developed a shared React component library for common elements like address verification and identity confirmation interfaces.",
+        "Orchestrating model lifecycle management for regulatory compliance, I established version control and documentation practices for all AI models used in public-facing applications, ensuring transparency and accountability."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML",
+        "Node.js",
+        "TypeScript",
+        "React.js",
+        "Azure App Services",
+        "REST API",
+        "Government Regulations",
+        "Accessibility Standards",
+        "Microservices",
+        "OCR",
+        "Model Lifecycle Management"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Using Python and scikit-learn to develop credit risk assessment models, I implemented machine learning algorithms that analyze transaction patterns, supporting more accurate underwriting decisions while maintaining PCI compliance.",
+        "Implementing scalable data pipelines to process high-volume financial transactions, I designed Apache Spark workflows on Azure Databricks that transform and enrich raw transaction data for fraud detection analytics.",
+        "Leveraging REST API development to expose financial insights to customer-facing applications, I built secure endpoints that serve personalized spending analysis while protecting sensitive account information.",
+        "Applying backend development with Python to create microservices for real-time fraud alerts, I developed FastAPI services that process streaming transaction data and trigger immediate notifications for suspicious activities.",
+        "Utilizing performance optimization techniques on financial reporting systems, I tuned database queries and implemented caching layers that reduced monthly statement generation times for millions of cardholders.",
+        "Employing secure application design for financial data protection, I integrated encryption and tokenization throughout data flows, ensuring all Personally Identifiable Information (PII) meets stringent financial industry standards.",
+        "Adopting AI integration approaches to enhance customer service chatbots, I collaborated on incorporating natural language understanding capabilities that improved automated resolution of common account inquiries.",
+        "Incorporating debugging skills to resolve data pipeline failures, I analyzed Spark job logs and Python exceptions to identify and fix issues in ETL processes that affected daily financial reporting deadlines.",
+        "Deploying applications to Azure cloud infrastructure, I configured Azure Kubernetes Service clusters for containerized financial services, implementing proper networking and security groups for production workloads.",
+        "Designing component-based architecture for internal financial dashboards, I developed React.js visualization components that present complex risk metrics in accessible formats for analysts and compliance officers."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "Apache Spark",
+        "Azure Databricks",
+        "FastAPI",
+        "React.js",
+        "Azure Kubernetes",
+        "PCI Compliance",
+        "Financial Regulations",
+        "REST API",
+        "Microservices",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Using Python and SQL to analyze medical imaging data, I developed scripts that extract and transform diagnostic information from healthcare databases, supporting early AI research for pathological condition detection.",
+        "Implementing data visualization with Power BI to communicate analytical findings, I created interactive dashboards that present healthcare metrics to clinical research teams, facilitating data-driven decision making.",
+        "Leveraging statistical analysis to validate research hypotheses, I applied scikit-learn for preliminary machine learning experiments on anonymized patient datasets while strictly adhering to healthcare data privacy protocols.",
+        "Applying database skills to optimize healthcare data storage, I designed and implemented PostgreSQL schemas that efficiently organize medical test results and patient demographic information for research purposes.",
+        "Utilizing Python programming to automate routine data quality checks, I built validation scripts that identify inconsistencies in medical datasets, improving the reliability of inputs for machine learning model training.",
+        "Employing collaborative approaches with healthcare domain experts, I participated in regular meetings to understand clinical requirements and translate them into technical specifications for data analysis projects.",
+        "Adopting troubleshooting techniques for data pipeline issues, I diagnosed problems in ETL processes that transferred medical data between systems, ensuring research teams had access to current and accurate information.",
+        "Incorporating documentation practices for analytical workflows, I maintained detailed records of data transformations and analysis methodologies, supporting reproducibility and knowledge sharing across the research organization."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "scikit-learn",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Analysis",
+        "Statistical Methods",
+        "Data Visualization",
+        "ETL Processes",
+        "Medical Research"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

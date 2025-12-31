@@ -1,0 +1,264 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Lead Snowflake Data Engineer | Cloud Data Warehouse Architect",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 12+ years of experience in data engineering, specializing in cloud data warehousing, with deep expertise in Snowflake development, dimensional modeling, and building scalable ELT pipelines using dbt.",
+    "Leveraging Snowflake Scripting and PL/SQL to architect a healthcare data platform that ingested real-time patient encounter data, which improved data freshness from daily batches to near-real-time updates for clinical dashboards.",
+    "Orchestrating Snowflake Tasks and Streams to automate incremental data loads from AWS S3, solving latency issues in Medicare claims processing and reducing pipeline runtime by forty percent for the analytics team.",
+    "Implementing Snowflake Time Travel and Zero-Copy Cloning for development environments, enabling our team to test schema changes safely without impacting production data governed by strict HIPAA regulations.",
+    "Applying expert-level SQL to optimize micro-partitioning and clustering keys on large fact tables, which dramatically improved query performance for complex healthcare analytics while controlling compute costs.",
+    "Designing and enforcing data modeling standards for dimensional and relational schemas, ensuring consistency across the enterprise data warehouse and facilitating better cross-functional collaboration.",
+    "Establishing metadata management practices by building comprehensive data dictionaries in a central repository, which improved data discovery and lineage tracking for auditing and compliance reporting.",
+    "Utilizing dbt to transform raw healthcare data into a curated, business-ready analytics layer, implementing modular SQL models that improved code reusability and simplified maintenance for the engineering team.",
+    "Conducting rigorous query performance tuning sessions, analyzing execution plans to identify bottlenecks, and implementing materialized views that accelerated dashboard load times for business users.",
+    "Guiding cost optimization strategies for Snowflake by implementing auto-suspension policies and right-sizing virtual warehouses, leading to a significant reduction in monthly cloud spend without sacrificing performance.",
+    "Architecting Snowflake pipelines using Snowpipe for continuous data ingestion from AWS, ensuring reliable and scalable data flows to support enterprise-wide business intelligence and reporting needs.",
+    "Mentoring junior data engineers on Snowflake best practices, SQL optimization techniques, and data warehouse design patterns, fostering a culture of technical excellence and knowledge sharing.",
+    "Collaborating with platform leads and architects to define the future state of our data infrastructure, advocating for modern data stack tools and design patterns that align with long-term business goals.",
+    "Translating complex business logic from healthcare operations into robust SQL modeling layers, ensuring data accuracy for critical reporting on patient outcomes and resource utilization.",
+    "Developing and documenting data engineering design patterns to standardize pipeline development across teams, improving project velocity and reducing errors in production deployments.",
+    "Implementing robust error-handling and monitoring for Snowflake Tasks using custom alerting, which minimized data pipeline failures and improved overall system reliability for our stakeholders.",
+    "Driving schema evolution and version control strategies for dbt models, enabling seamless collaboration across multiple developers and ensuring smooth deployments through CI/CD pipelines.",
+    "Providing technical leadership and hands-on development for large-scale Snowflake implementations, delivering scalable data solutions that meet stringent security, performance, and compliance requirements."
+  ],
+  "technical_skills": {
+    "Data Warehousing & Cloud Platforms": [
+      "Snowflake",
+      "AWS (S3, Redshift, EC2, Glue)",
+      "Data Lakes",
+      "Snowflake Warehouse Architecture"
+    ],
+    "Data Modeling & Design": [
+      "Dimensional Modeling",
+      "Relational Modeling",
+      "Multidimensional Modeling",
+      "Design Patterns",
+      "Schema Evolution"
+    ],
+    "Data Engineering Tools": [
+      "dbt (Data Build Tool)",
+      "Snowflake Scripting",
+      "PL/SQL",
+      "SQL (Expert-Level)",
+      "Snowpipe",
+      "Streams & Tasks"
+    ],
+    "Pipeline & Orchestration": [
+      "Snowflake Pipelines",
+      "ELT Patterns",
+      "CI/CD for Data Deployments",
+      "Metadata Management"
+    ],
+    "Performance & Optimization": [
+      "Query Performance Tuning",
+      "Cost Optimization",
+      "Micro-partitioning",
+      "Clustering Keys",
+      "Compute Sizing"
+    ],
+    "Data Management": [
+      "Data Dictionaries",
+      "Data Lineage Tracking",
+      "Version Control for SQL",
+      "Impact Analysis"
+    ],
+    "Snowflake Administration": [
+      "Warehouse Administration",
+      "Time Travel",
+      "Zero-Copy Cloning",
+      "Roles & RBAC",
+      "Security"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "PL/SQL",
+      "Snowflake Scripting",
+      "Bash/Shell"
+    ],
+    "Integration & Storage": [
+      "AWS S3 Integration",
+      "Cloud Storage",
+      "Data Ingestion Patterns"
+    ],
+    "Collaboration & Leadership": [
+      "Cross-functional Collaboration",
+      "Technical Guidance",
+      "Mentoring",
+      "Communication",
+      "Leadership"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a new Snowflake data platform on AWS to consolidate disparate healthcare datasets, employing dimensional modeling techniques to create a single source of truth for patient supply chain analytics.",
+        "Engineered scalable ELT pipelines using dbt and Snowflake Scripting to transform raw EHR and inventory data, implementing incremental models that reduced processing time by over fifty percent.",
+        "Implemented Snowflake Time Travel for critical financial reporting tables, enabling our team to recover from accidental data deletions during testing without violating HIPAA-mandated data retention policies.",
+        "Designed and tuned Snowflake virtual warehouses, selecting appropriate compute sizes and scaling policies to handle peak loads during month-end closing while optimizing for cost-efficiency.",
+        "Built a metadata management framework using custom dbt documentation hooks, automatically generating data dictionaries that improved lineage tracking for FDA audit preparedness.",
+        "Utilized Snowflake Zero-Copy Cloning to provision isolated development and testing environments, allowing parallel work on schema changes without duplicating terabytes of sensitive patient data.",
+        "Orchestrated complex data workflows using Snowflake Tasks and Streams, automating the ingestion of real-time shipment data from AWS S3 via Snowpipe for operational dashboards.",
+        "Conducted deep query performance analysis on physician preference card reports, optimizing clustering keys and materialized views to achieve sub-second response times for clinical users.",
+        "Established a CI/CD pipeline for dbt model deployments using GitHub Actions, enforcing code reviews and integration testing before promoting changes to our production Snowflake environment.",
+        "Mentored a team of three junior engineers on Snowflake best practices, reviewing their SQL code and guiding them through debugging session failures in our healthcare data pipelines.",
+        "Spearheaded a cost optimization initiative by analyzing warehouse usage patterns, implementing auto-suspend policies that reduced our Snowflake spend by thirty-five percent quarterly.",
+        "Collaborated with data architects to define a new data modeling standard for clinical analytics, incorporating slowly changing dimensions to track historical changes in provider data.",
+        "Developed a proof-of-concept using agentic frameworks (Crew AI) to automate data quality checks, creating multi-agent systems that monitored pipeline health and alerted engineers to anomalies.",
+        "Troubleshot a persistent data latency issue in our Medicare claims pipeline, redesigning the micro-partitioning strategy to improve Snowpipe performance during high-volume ingestion windows.",
+        "Guided the analytics team in translating complex business logic for patient cohort analysis into efficient SQL models, ensuring accurate reporting for healthcare compliance requirements.",
+        "Led the design and implementation of a new data lake architecture on AWS S3, integrating it with Snowflake External Tables to provide raw data access for advanced ML research teams."
+      ],
+      "environment": [
+        "Snowflake",
+        "dbt",
+        "AWS S3",
+        "Snowpipe",
+        "Snowflake Scripting",
+        "PL/SQL",
+        "GitHub Actions",
+        "Dimensional Modeling",
+        "Streams & Tasks",
+        "Time Travel",
+        "Zero-Copy Cloning",
+        "Crew AI",
+        "LangGraph"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed a centralized Snowflake data warehouse for member eligibility and claims processing, implementing robust data modeling to support complex insurance reimbursement analytics.",
+        "Constructed dbt transformation layers that standardized disparate data formats from multiple payer systems, ensuring consistency in reporting for state insurance regulatory submissions.",
+        "Employed Snowflake's cloning capabilities to create snapshot environments for testing premium calculation logic, enabling validation without impacting live production data.",
+        "Optimized large-scale queries on claims fact tables by refining clustering keys, which accelerated adjudication reporting and reduced average execution time from minutes to seconds.",
+        "Administered Snowflake virtual warehouses, monitoring performance metrics and adjusting scaling policies to manage unpredictable loads during open enrollment periods effectively.",
+        "Integrated AWS Glue jobs with Snowpipe for continuous ingestion of provider demographic data, building resilient pipelines that handled schema evolution gracefully over time.",
+        "Documented the entire data lineage from source systems to curated marts using dbt's documentation features, creating transparency for compliance audits and impact analysis.",
+        "Coordinated with business analysts to design a multidimensional data model for risk adjustment scoring, translating actuarial logic into optimized SQL within the dbt framework.",
+        "Resolved a critical data duplication issue by implementing SQL-based deduplication in our dbt staging models, ensuring accurate member counts for CMS reporting requirements.",
+        "Guided a peer through debugging a failing Streams process, identifying a transaction isolation issue that was causing missing data in our daily claims incremental loads.",
+        "Established a role-based access control (RBAC) strategy in Snowflake, securing sensitive PHI data according to HIPAA guidelines while providing appropriate access to analyst teams.",
+        "Piloted a proof-of-concept using multi-agent systems to automate the generation of data quality reports, exploring how AI could augment our manual monitoring processes.",
+        "Participated in daily stand-ups and sprint planning sessions, providing technical estimates and identifying dependencies for upcoming data pipeline development work.",
+        "Reviewed and refactored legacy PL/SQL stored procedures, migrating them to Snowflake Scripting UDFs to improve maintainability and execution performance within the cloud platform."
+      ],
+      "environment": [
+        "Snowflake",
+        "dbt",
+        "AWS S3",
+        "AWS Glue",
+        "SQL",
+        "PL/SQL",
+        "Data Modeling",
+        "RBAC",
+        "Streams",
+        "Cloning",
+        "Data Lineage"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Migrated on-premise SQL Server data marts to Azure Synapse, laying the groundwork for a future Snowflake adoption by implementing cloud-based dimensional data models.",
+        "Engineered SQL-based ETL processes to consolidate citizen data from multiple state agencies, ensuring data quality and consistency for public health reporting initiatives.",
+        "Assisted in designing a data lake architecture on Azure Blob Storage, creating external tables that allowed preliminary analytics before formal warehouse implementation.",
+        "Supported the development of a metadata repository to track data lineage for government transparency initiatives, documenting source-to-target mappings for key datasets.",
+        "Optimized slow-running queries on budget allocation reports by analyzing execution plans and proposing index changes, improving performance for fiscal year-end reporting.",
+        "Collaborated with security teams to implement data access controls, classifying sensitive information according to state data governance and public records laws.",
+        "Developed PowerShell scripts to automate the deployment of database schema changes, reducing manual errors during our bi-weekly release cycles.",
+        "Participated in code review sessions for fellow engineers, providing constructive feedback on SQL logic and error handling in our Azure Data Factory pipelines.",
+        "Troubleshot data latency issues in our nightly batch processes, identifying network bottlenecks between on-premise sources and our cloud data warehouse.",
+        "Created basic data dictionaries for newly onboarded datasets, documenting field definitions and business rules for the analytics community.",
+        "Attended requirements gathering meetings with program managers, translating business needs for unemployment claims analysis into technical specifications.",
+        "Learned the fundamentals of cloud data warehousing concepts through online courses and hands-on experimentation with Azure's data services during this project."
+      ],
+      "environment": [
+        "Azure Synapse",
+        "Azure Data Factory",
+        "Azure Blob Storage",
+        "SQL Server",
+        "SQL",
+        "PowerShell",
+        "Data Modeling",
+        "ETL"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Supported the development of fraud detection data pipelines on Azure Databricks, processing transaction data and creating features for machine learning models.",
+        "Wrote complex SQL queries to analyze credit card transaction patterns, helping the data science team identify characteristics associated with fraudulent activity.",
+        "Assisted in implementing data quality checks within our ETL workflows, ensuring the accuracy of financial data used for regulatory PCI DSS compliance reporting.",
+        "Participated in the design of a relational data model for customer behavior analytics, contributing to dimension table designs under the guidance of senior architects.",
+        "Monitored daily batch job executions, responding to failures and coordinating with upstream teams to resolve data feed issues impacting our processing timelines.",
+        "Documented technical specifications for new data sources being ingested into our platform, capturing source system details and transformation logic for future reference.",
+        "Performed basic query tuning on recurring analytical reports, suggesting index additions that reduced runtimes during peak business hours.",
+        "Attended training sessions on cloud data warehouse concepts, beginning to learn about Snowflake as an emerging technology in the data landscape.",
+        "Collaborated with business analysts to clarify requirements for customer segmentation reports, ensuring our SQL logic accurately reflected the intended business rules.",
+        "Gained exposure to data governance principles, helping to classify data elements based on sensitivity for our organization's information security framework."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "SQL",
+        "ETL",
+        "Data Modeling",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed pathology lab data from Oracle databases using SQL, preparing datasets for analysis of diagnostic patterns and test outcomes.",
+        "Created basic dimensional models for healthcare analytics, designing star schemas that organized patient test results for reporting in Power BI dashboards.",
+        "Assisted senior engineers with documentation tasks, helping to maintain data dictionaries that described laboratory test codes and medical terminology.",
+        "Learned fundamental data warehousing concepts through hands-on work with on-premise databases, understanding the basics of fact and dimension table relationships.",
+        "Supported the development of simple ETL scripts in Python to move data between systems, gaining initial exposure to data pipeline construction.",
+        "Participated in requirements discussions with healthcare researchers, taking notes and helping to translate their analytical needs into technical questions.",
+        "Performed data validation checks on migrated datasets, comparing record counts and key values to ensure accuracy during system transitions.",
+        "Began exploring query performance concepts by observing how different SQL join approaches affected execution times on our patient demographic queries."
+      ],
+      "environment": [
+        "Oracle",
+        "SQL",
+        "Python",
+        "Power BI",
+        "Data Modeling",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

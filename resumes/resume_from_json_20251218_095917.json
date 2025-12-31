@@ -1,0 +1,342 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Conversational AI & Vertex AI Solutions Architect",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and deploying enterprise-grade conversational AI platforms, with specialized focus on Healthcare, Insurance, Government, and Finance domains using Google Cloud Platform and Vertex AI ecosystems.",
+    "Architected a HIPAA-compliant virtual agent solution on Vertex AI Agent Engine for Medline, integrating Dialogflow CX with multi-agent Crew AI frameworks to handle complex medical supply inquiries, significantly reducing manual support tickets.",
+    "Engineered a Contact Center AI platform for Blue Cross Blue Shield using Dialogflow ES and Google ADK, implementing advanced intent detection and slot filling to process insurance claims, achieving higher first-contact resolution rates.",
+    "Led the development of a Retrieval Augmented Generation pipeline on Vertex AI for Arizona government services, fine-tuning transformer models on policy documents to power a citizen-facing chatbot with accurate response generation.",
+    "Deployed a custom LLM using PyTorch and Hugging Face libraries within Vertex AI Pipelines for Discover Financial, enabling text summarization of transaction disputes while maintaining strict PCI-DSS compliance standards.",
+    "Designed a cloud-native chatbot architecture on GCP using Cloud Run and Cloud Functions for real-time data processing, implementing Pub/Sub for asynchronous messaging between fulfillment modules and backend services.",
+    "Built a scalable context management system for multi-turn healthcare dialogues using Vertex AI, employing entity extraction and NLP techniques to maintain conversation state across clinical triage conversations.",
+    "Implemented MLOps best practices for conversational AI lifecycle management at Medline, establishing CI/CD workflows with Cloud Build to automate model training, evaluation, and deployment of virtual agents.",
+    "Optimized performance of production-grade virtual agents using Kubernetes for orchestration, implementing monitoring and logging solutions to track intent classification accuracy and system latency metrics.",
+    "Developed REST APIs and gRPC services for seamless integration between Dialogflow CX fulfillment and legacy healthcare systems, enabling secure exchange of PHI data for personalized patient interactions.",
+    "Created analytics and reporting dashboards using BigQuery to measure chatbot effectiveness, tracking metrics like containment rate and user satisfaction across different healthcare service lines.",
+    "Established model lifecycle management protocols for transformer-based models, versioning each iteration in Cloud Storage and evaluating performance impacts before promoting to production environments.",
+    "Collaborated with clinical stakeholders to design Agent Assist functionality for healthcare providers, integrating knowledge base systems with Generative AI frameworks to suggest relevant medical coding information.",
+    "Implemented secure API integrations between conversational AI platforms and EHR systems, ensuring all data exchanges complied with healthcare regulations through encrypted channels and audit logging.",
+    "Optimized cloud costs for large-scale chatbot deployments by right-sizing Vertex AI resources and implementing auto-scaling policies based on conversational demand patterns throughout the day.",
+    "Mentored cross-functional teams on conversational AI best practices, conducting code reviews and pair programming sessions to elevate overall system design quality and maintainability.",
+    "Documented complete AI system architectures and workflows for enterprise virtual agents, creating runbooks for production support teams to troubleshoot common issues with intent detection failures.",
+    "Owned end-to-end delivery of a Vertex AI-based conversational platform from proof-of-concept through production deployment, coordinating with security teams to ensure compliance with industry-specific regulations."
+  ],
+  "technical_skills": {
+    "Conversational AI Platforms": [
+      "Google Cloud Contact Center AI (CCAI)",
+      "Dialogflow CX",
+      "Dialogflow ES",
+      "Google Agent Development Kit (ADK)",
+      "Vertex AI Agent Engine",
+      "Virtual Agent Frameworks"
+    ],
+    "Generative AI & LLMs": [
+      "Vertex AI Pipelines",
+      "Large Language Models",
+      "Generative AI",
+      "Retrieval Augmented Generation",
+      "Transformer Model Fine-tuning",
+      "Custom LLM Deployment",
+      "Gemini/PaLM Frameworks"
+    ],
+    "Natural Language Processing": [
+      "Intent Detection & Classification",
+      "Entity Extraction",
+      "Context Management",
+      "Slot Filling",
+      "Text Summarization",
+      "Response Generation",
+      "Natural Language Processing"
+    ],
+    "Cloud Platform (GCP)": [
+      "Vertex AI",
+      "Cloud Functions",
+      "Cloud Run",
+      "Pub/Sub",
+      "Cloud Storage",
+      "BigQuery",
+      "Cloud Build",
+      "Kubernetes Engine"
+    ],
+    "Programming & ML Libraries": [
+      "Python (Advanced)",
+      "TensorFlow",
+      "PyTorch",
+      "Hugging Face Transformers",
+      "Scikit-learn",
+      "SpaCy",
+      "NLTK"
+    ],
+    "Chatbot Architecture": [
+      "Conversational AI Design",
+      "Fulfillment Design",
+      "Bot Framework Architecture",
+      "Multi-agent Systems",
+      "Agent-to-Agent Communication",
+      "Model Context Protocol"
+    ],
+    "MLOps & DevOps": [
+      "CI/CD Workflows",
+      "Docker",
+      "Kubernetes",
+      "Model Lifecycle Management",
+      "Versioning",
+      "Monitoring & Logging for ML",
+      "MLOps Best Practices"
+    ],
+    "Cloud-Native Development": [
+      "Cloud-Native Applications",
+      "Real-time Data Processing",
+      "Serverless Architectures",
+      "Microservices",
+      "Containerization",
+      "Auto-scaling Systems"
+    ],
+    "API & Integration": [
+      "REST API Development",
+      "gRPC",
+      "JSON-based Integrations",
+      "Secure API Design",
+      "CRM Integrations",
+      "Knowledge Base Integrations",
+      "Live Agent Handoffs"
+    ],
+    "Data & Analytics": [
+      "BigQuery",
+      "Data Processing",
+      "Analytics & Reporting",
+      "Performance Optimization",
+      "Cost Optimization",
+      "System Metrics Tracking"
+    ],
+    "Enterprise Systems": [
+      "Healthcare Systems Integration",
+      "Insurance Platforms",
+      "Government Systems",
+      "Financial Systems",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "GDPR Compliance"
+    ],
+    "Development Tools": [
+      "Git",
+      "Cloud Build",
+      "Artifact Registry",
+      "Container Registry",
+      "VS Code",
+      "Jupyter Notebooks",
+      "Postman",
+      "Swagger"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized Vertex AI Agent Engine to address inconsistent patient inquiry handling by architecting a multi-agent Crew AI system with specialized roles for triage, scheduling, and FAQ management, improving response accuracy by 40%.",
+        "Implemented Dialogflow CX with advanced intent detection to solve medication information requests complexity by designing a hierarchical intent structure with context management across multi-turn healthcare conversations under HIPAA constraints.",
+        "Deployed Contact Center AI platform to reduce clinical staff burden by integrating Agent Assist functionality that surfaces relevant medical supply information during live agent conversations, cutting average handle time by 25%.",
+        "Engineered a Retrieval Augmented Generation pipeline using Vertex AI Search to tackle inaccurate responses to rare medical device questions by connecting Dialogflow fulfillment to updated FDA-cleared product databases.",
+        "Developed custom LLM deployment strategy on Vertex AI to address lengthy clinical protocol explanations by fine-tuning PaLM models on healthcare documentation and implementing text summarization for concise patient communications.",
+        "Built Cloud Functions and Cloud Run services to solve real-time insurance verification delays by creating asynchronous processing workflows that check patient coverage while maintaining conversation flow, reducing wait times significantly.",
+        "Designed Pub/Sub messaging architecture to handle sporadic high-volume inquiry periods by implementing event-driven scaling that automatically provisions additional Vertex AI resources during peak hospital hours.",
+        "Created monitoring and logging framework using Cloud Operations to identify intent classification failures by tracking confidence scores and conversation fallbacks, enabling proactive model retraining before user impact.",
+        "Established MLOps best practices with Vertex AI Pipelines to streamline model updates by automating the training and evaluation of transformer models for medical terminology recognition, ensuring consistent performance.",
+        "Implemented secure API integrations with EHR systems to solve data silo issues by developing gRPC services that retrieve patient history with proper consent management for personalized healthcare conversations.",
+        "Optimized Cloud Storage costs for conversation logs by designing tiered storage policies that automatically archive older interactions while keeping recent data accessible for analytics and compliance auditing.",
+        "Led cross-functional collaboration with clinical teams to enhance fulfillment design by incorporating provider feedback into slot filling logic for appointment scheduling, reducing miscommunication-related reschedules.",
+        "Architected Kubernetes deployment for scalable virtual agents to handle concurrent user loads by implementing horizontal pod autoscaling based on Pub/Sub queue depth metrics from healthcare portal integrations.",
+        "Conducted daily code reviews and troubleshooting sessions to maintain system reliability, spending hours debugging context management issues where patient identifiers were incorrectly carried between conversation threads.",
+        "Documented complete conversational AI architecture for enterprise knowledge transfer, creating detailed runbooks for production support teams to handle common issues with entity extraction from medical abbreviations.",
+        "Managed end-to-end project delivery of the virtual agent platform from proof-of-concept to production, coordinating security assessments to ensure all data flows complied with strict healthcare privacy regulations."
+      ],
+      "environment": [
+        "Google Cloud Platform",
+        "Vertex AI Agent Engine",
+        "Vertex AI Pipelines",
+        "Dialogflow CX",
+        "Contact Center AI",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Model Context Protocol",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "Cloud Functions",
+        "Cloud Run",
+        "Pub/Sub",
+        "Cloud Storage",
+        "BigQuery",
+        "Kubernetes",
+        "Docker",
+        "Git",
+        "gRPC",
+        "REST APIs",
+        "Healthcare Regulations",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Leveraged Dialogflow ES to improve insurance claim status inquiries by designing intent detection models that accurately classified member questions across 15 different plan types, reducing misrouting incidents.",
+        "Built Google Agent Development Kit prototypes to address complex benefit explanation requests by creating custom fulfillment that connected to policy databases, providing personalized coverage details to members.",
+        "Implemented entity extraction pipelines using spaCy and Vertex AI to solve inconsistent data capture from member conversations by developing insurance-specific entity recognition for deductibles, copays, and provider networks.",
+        "Designed context management system for multi-turn insurance dialogues to maintain member eligibility context across different conversation topics, preventing redundant verification questions during single sessions.",
+        "Created slot filling mechanisms for policy change requests that guided members through required information collection while validating inputs against insurance regulations and plan constraints in real-time.",
+        "Developed response generation templates using Generative AI frameworks to provide consistent explanations of insurance terminology, ensuring members received accurate information about coverage limitations.",
+        "Integrated knowledge base systems with conversational AI platform to address uncommon insurance scenarios by implementing RAG architecture that retrieved relevant policy clauses during member conversations.",
+        "Established evaluation frameworks for virtual agent performance by designing test suites that measured intent accuracy and completion rates across different insurance product lines and member demographics.",
+        "Optimized real-time data processing for eligibility checks by implementing streaming pipelines that verified member status while conversations progressed, maintaining responsive interaction experiences.",
+        "Designed analytics dashboards using BigQuery to track virtual agent effectiveness across insurance lines, identifying patterns where members frequently escalated to human agents for clarification.",
+        "Implemented secure API integrations with core insurance systems using OAuth and client certificates, ensuring member data protection during transmission between conversational platform and policy databases.",
+        "Conducted regular model retraining cycles based on conversation analytics, manually reviewing misclassified intents to improve training data quality for insurance-specific language patterns.",
+        "Collaborated with compliance teams to ensure all conversational flows adhered to insurance regulations, documenting decision trees for sensitive topics like claim denials and pre-authorization requirements.",
+        "Mentored junior team members on insurance domain nuances for conversational AI, conducting pair programming sessions to refine entity recognition models for medical procedure coding terminology."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Lambda",
+        "Dialogflow ES",
+        "Google ADK",
+        "Vertex AI",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "spaCy",
+        "REST APIs",
+        "JSON",
+        "BigQuery",
+        "Cloud Functions",
+        "Insurance Regulations",
+        "HIPAA Compliance",
+        "Multi-agent Systems",
+        "Crew AI",
+        "LangGraph"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Utilized conversational AI platforms to address citizen service accessibility by deploying virtual agents for common government inquiries, reducing call center volumes during peak tax season periods.",
+        "Implemented intent classification models to categorize diverse citizen requests across 20+ government departments, creating hierarchical intent structures that efficiently routed questions to appropriate knowledge bases.",
+        "Designed context management for multi-department inquiries where citizens asked about interconnected services, maintaining conversation state across topic transitions related to permits, licenses, and registrations.",
+        "Built entity extraction systems for government ID recognition, developing custom models to accurately capture case numbers, license plates, and permit identifiers from conversational text inputs.",
+        "Created fulfillment designs that connected virtual agents to legacy government databases, implementing API gateways that securely accessed citizen records while maintaining data privacy regulations.",
+        "Developed text summarization capabilities for lengthy government policy documents, enabling virtual agents to provide concise explanations of complex regulations during citizen conversations.",
+        "Implemented monitoring systems to track virtual agent performance metrics, establishing baselines for intent accuracy and citizen satisfaction scores across different government service categories.",
+        "Designed training data collection pipelines from historical citizen service transcripts, anonymizing personal information while preserving linguistic patterns for model training purposes.",
+        "Integrated knowledge management systems with conversational AI platforms, ensuring virtual agents accessed current policy information across frequently changing government regulations.",
+        "Established evaluation protocols for virtual agent updates, conducting A/B testing of new intent models against historical conversations to measure improvement before production deployment.",
+        "Collaborated with accessibility teams to ensure conversational interfaces met government standards for citizens with disabilities, implementing voice options and simplified language pathways.",
+        "Documented complete system architecture for government audit purposes, creating detailed data flow diagrams that showed how citizen information was protected throughout conversational interactions."
+      ],
+      "environment": [
+        "AWS Lex",
+        "AWS Comprehend",
+        "Python",
+        "TensorFlow",
+        "NLTK",
+        "REST APIs",
+        "JSON",
+        "SQL",
+        "PostgreSQL",
+        "Government Systems",
+        "Security Compliance",
+        "Data Privacy Regulations",
+        "AWS Lambda",
+        "AWS S3"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Leveraged natural language processing techniques to analyze customer service transcripts, implementing text classification models that identified emerging fraud patterns from conversational data.",
+        "Built entity recognition systems for financial transaction descriptions, developing models that extracted merchant names, amounts, and dates from customer dispute conversations with high accuracy.",
+        "Designed data pipelines for conversational analytics, processing millions of customer service interactions to identify common pain points and opportunities for automated virtual agent solutions.",
+        "Implemented text summarization for lengthy dispute resolution notes, creating concise summaries that helped agents quickly understand case histories during live customer conversations.",
+        "Developed intent classification prototypes for financial customer inquiries, categorizing questions into billing, fraud, account management, and product information domains for routing efficiency.",
+        "Created monitoring dashboards for conversational data quality, tracking metrics like transcription accuracy and sentiment trends across different customer segments and product lines.",
+        "Integrated analytics systems with customer relationship management platforms, ensuring conversational insights informed agent training and process improvements for financial services.",
+        "Designed secure data handling protocols for financial conversations, implementing encryption and access controls that complied with PCI-DSS regulations for payment information protection.",
+        "Collaborated with compliance teams to ensure all conversational data analyses adhered to financial regulations, documenting data usage policies and retention schedules for audit purposes.",
+        "Established data governance frameworks for conversational analytics, defining quality standards and validation rules for training data used in financial NLP model development."
+      ],
+      "environment": [
+        "Azure Cognitive Services",
+        "Azure Machine Learning",
+        "Python",
+        "scikit-learn",
+        "NLTK",
+        "SQL",
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "Financial Regulations",
+        "PCI-DSS Compliance",
+        "Azure Databricks",
+        "Power BI"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare conversation transcripts to identify patterns in patient inquiries, categorizing questions into appointment scheduling, medication information, symptom checking, and billing clarification domains.",
+        "Processed clinical dialogue datasets to support early conversational AI development, cleaning and annotating medical conversations for training healthcare-specific natural language understanding models.",
+        "Developed SQL queries to extract conversational metrics from healthcare interaction databases, tracking inquiry volumes and resolution rates across different medical specialties and patient demographics.",
+        "Created data visualization dashboards using Power BI to present conversation analytics to clinical teams, highlighting trends in patient questions and identifying opportunities for automated response systems.",
+        "Implemented data quality checks for healthcare conversation transcripts, validating accuracy of medical terminology transcription and patient information anonymization for compliance with privacy regulations.",
+        "Collaborated with clinical subject matter experts to develop annotation guidelines for medical conversations, ensuring consistent labeling of intents and entities across healthcare dialogue datasets.",
+        "Designed database schemas for storing conversational data, structuring tables to efficiently support querying by date ranges, medical specialties, and conversation outcomes for analytical reporting.",
+        "Documented data processing workflows for healthcare conversation analytics, creating standard operating procedures for extracting insights while maintaining compliance with medical data protection standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "DB2",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Analysis",
+        "Statistical Methods",
+        "Data Visualization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

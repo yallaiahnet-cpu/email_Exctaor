@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java to build scalable backend systems for insurance claim processing, integrating REST APIs for seamless data flow, which improved claim settlement times and reduced manual errors.",
+    "Implemented GitHub Copilot across teams, configuring org-wide policies and IDE extensions, enhancing developer productivity by streamlining code writing and reducing PR cycle times.",
+    "Defined and enforced acceptable-use policies for AI assistants, ensuring compliance with HIPAA and GDPR standards in healthcare data handling.",
+    "Optimized repository hygiene by updating READMEs and documentation, making it easier for AI tools to provide accurate context and guidance, improving code quality.",
+    "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+    "Instrumented telemetry and monitoring for GitHub Copilot, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+    "Delivered a proof-of-concept for agentic automation, orchestrating tasks with robust guardrails, laying the foundation for future automation solutions in insurance workflows.",
+    "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+    "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+    "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+    "Leveraged AWS services like Lambda and S3 to build scalable data pipelines for healthcare analytics, ensuring HIPAA compliance and data security.",
+    "Worked with Azure DevOps to automate CI/CD pipelines, reducing deployment times and improving code reliability in banking applications.",
+    "Applied Java and Spring Boot to develop microservices for insurance policy management, improving system scalability and reducing downtime.",
+    "Integrated AI-powered code review tools to identify potential issues early, enhancing code quality and reducing post-deployment bugs.",
+    "Supported junior developers by creating reusable assets and documentation, boosting productivity and accelerating their onboarding process.",
+    "Utilized Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+    "Implemented monitoring solutions using Prometheus and Grafana to track application performance, enabling proactive issue resolution.",
+    "Conducted code reviews and provided feedback to team members, fostering a culture of continuous improvement and knowledge sharing."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Engineered a Java-based backend system for insurance claim processing using Spring Boot, integrating REST APIs to streamline data flow, reducing claim settlement times by improving data accuracy.",
+        "Configured GitHub Copilot across the organization, setting up policies and IDE extensions, which enhanced developer productivity by reducing code writing time and PR cycle times.",
+        "Defined and implemented acceptable-use policies for AI assistants, ensuring compliance with HIPAA and GDPR standards in handling sensitive insurance data.",
+        "Optimized repository hygiene by updating READMEs and documentation, making it easier for AI tools to provide accurate context, improving code quality and maintainability.",
+        "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+        "Instrumented telemetry and monitoring for GitHub Copilot using Prometheus and Grafana, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+        "Delivered a proof-of-concept for agentic automation, orchestrating tasks with robust guardrails, laying the foundation for future automation solutions in insurance workflows.",
+        "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+        "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+        "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+        "Utilized AWS services like Lambda and S3 to build scalable data pipelines for insurance analytics, ensuring data security and compliance.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+        "Implemented monitoring solutions to track application performance, enabling proactive issue resolution and improving system reliability.",
+        "Conducted code reviews and provided feedback to team members, fostering a culture of continuous improvement and knowledge sharing.",
+        "Supported junior developers by creating reusable assets and documentation, boosting productivity and accelerating their onboarding process."
+      ],
+      "environment": [
+        "Java, Spring Boot, GitHub Copilot, AWS (Lambda, S3), Docker, Kubernetes, Prometheus, Grafana, REST APIs, HIPAA, GDPR"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Implemented GitHub Copilot for healthcare application development, configuring org-wide policies and IDE extensions, improving developer productivity by reducing code writing time.",
+        "Defined and enforced acceptable-use policies for AI assistants, ensuring compliance with HIPAA standards in healthcare data handling.",
+        "Optimized repository hygiene by updating documentation and templates, enhancing AI tool effectiveness and code quality.",
+        "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+        "Instrumented telemetry and monitoring for GitHub Copilot, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+        "Delivered a proof-of-concept for agentic automation, orchestrating tasks with robust guardrails, laying the foundation for future automation solutions in healthcare workflows.",
+        "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+        "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+        "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+        "Utilized AWS services like Lambda and S3 to build scalable data pipelines for healthcare analytics, ensuring HIPAA compliance and data security.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+        "Implemented monitoring solutions using Prometheus and Grafana to track application performance, enabling proactive issue resolution.",
+        "Conducted code reviews and provided feedback to team members, fostering a culture of continuous improvement and knowledge sharing.",
+        "Supported junior developers by creating reusable assets and documentation, boosting productivity and accelerating their onboarding process."
+      ],
+      "environment": [
+        "Java, GitHub Copilot, AWS (Lambda, S3), Docker, Kubernetes, Prometheus, Grafana, REST APIs, HIPAA"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed Java-based microservices for healthcare policy management using Spring Boot, improving system scalability and reducing downtime.",
+        "Implemented GitHub Copilot for healthcare application development, configuring org-wide policies and IDE extensions, improving developer productivity.",
+        "Defined and enforced acceptable-use policies for AI assistants, ensuring compliance with HIPAA standards in healthcare data handling.",
+        "Optimized repository hygiene by updating documentation and templates, enhancing AI tool effectiveness and code quality.",
+        "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+        "Instrumented telemetry and monitoring for GitHub Copilot, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+        "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+        "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+        "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+        "Utilized GCP services like BigQuery and Vertex AI to build scalable data pipelines for healthcare analytics, ensuring HIPAA compliance and data security.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+        "Implemented monitoring solutions using Prometheus and Grafana to track application performance, enabling proactive issue resolution.",
+        "Conducted code reviews and provided feedback to team members, fostering a culture of continuous improvement and knowledge sharing."
+      ],
+      "environment": [
+        "Java, Spring Boot, GitHub Copilot, GCP (BigQuery, Vertex AI), Docker, Kubernetes, Prometheus, Grafana, REST APIs, HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed Java-based backend systems for banking applications using Spring Boot, integrating REST APIs for seamless data flow, improving transaction processing times.",
+        "Implemented GitHub Copilot for banking application development, configuring org-wide policies and IDE extensions, improving developer productivity.",
+        "Defined and enforced acceptable-use policies for AI assistants, ensuring compliance with PCI standards in banking data handling.",
+        "Optimized repository hygiene by updating documentation and templates, enhancing AI tool effectiveness and code quality.",
+        "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+        "Instrumented telemetry and monitoring for GitHub Copilot, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+        "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+        "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+        "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+        "Utilized Azure services like Data Factory and Databricks to build scalable data pipelines for banking analytics, ensuring PCI compliance and data security.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+        "Implemented monitoring solutions using Prometheus and Grafana to track application performance, enabling proactive issue resolution."
+      ],
+      "environment": [
+        "Java, Spring Boot, GitHub Copilot, Azure (Data Factory, Databricks), Docker, Kubernetes, Prometheus, Grafana, REST APIs, PCI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed Java-based backend systems for consulting projects using Spring Boot, integrating REST APIs for seamless data flow, improving data processing times.",
+        "Implemented GitHub Copilot for consulting application development, configuring org-wide policies and IDE extensions, improving developer productivity.",
+        "Defined and enforced acceptable-use policies for AI assistants, ensuring compliance with data handling standards.",
+        "Optimized repository hygiene by updating documentation and templates, enhancing AI tool effectiveness and code quality.",
+        "Created prompt patterns and workflow templates for AI interactions, standardizing development processes and accelerating onboarding for new team members.",
+        "Instrumented telemetry and monitoring for GitHub Copilot, tracking effectiveness and ensuring safe, compliant usage across the organization.",
+        "Collaborated with cross-functional teams to integrate AI tools into existing workflows, reducing manual effort in code reviews and debugging.",
+        "Enhanced code consistency by developing standardized templates, which were adopted across multiple projects, improving maintainability and reducing bugs.",
+        "Managed deliverables independently, ensuring timely completion of AI integration tasks with minimal supervision, while maintaining high-quality standards.",
+        "Utilized Azure services like Data Factory and Databricks to build scalable data pipelines for consulting analytics, ensuring data security.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across environments.",
+        "Implemented monitoring solutions using Prometheus and Grafana to track application performance, enabling proactive issue resolution."
+      ],
+      "environment": [
+        "Java, Spring Boot, GitHub Copilot, Azure (Data Factory, Databricks), Docker, Kubernetes, Prometheus, Grafana, REST APIs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

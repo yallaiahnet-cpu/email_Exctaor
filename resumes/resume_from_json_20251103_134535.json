@@ -1,0 +1,325 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI and Automation Solutions Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With over 10 years of specialized experience in AI-driven automation, RPA development, and enterprise solutions engineering across insurance, healthcare, banking, and consulting domains, delivering transformative business outcomes through cutting-edge technologies.",
+    "Leveraging Azure OpenAI Services to architect intelligent automation workflows that reduced manual processing time by 70% while maintaining strict compliance with industry-specific regulations and security requirements across diverse enterprise environments.",
+    "Developing sophisticated prompt engineering frameworks using MCP protocols for agent-to-agent communication, enabling contextual orchestration across multi-agent AI systems while ensuring response accuracy and operational reliability.",
+    "Implementing end-to-end RPA solutions with Microsoft Power Automate that automated complex business processes, integrating with existing enterprise systems through RESTful APIs and custom connectors for seamless workflow integration.",
+    "Designing AI-powered computer vision systems using OpenCV and Azure Cognitive Services that automated document processing and validation tasks, significantly reducing manual intervention while improving accuracy rates.",
+    "Building enterprise-grade automation solutions with Power Apps and Dataverse, creating custom business applications that streamlined operations and provided intuitive interfaces for business users across departments.",
+    "Engineering machine learning models with Python, Scikit-learn, and TensorFlow to predict business outcomes and optimize automation workflows, incorporating feature engineering and model validation techniques.",
+    "Developing natural language processing pipelines using SpaCy and Hugging Face Transformers to extract insights from unstructured data, enabling intelligent document processing and customer interaction analysis.",
+    "Creating robust data integration solutions with SQL and Azure Data Factory, ensuring reliable data flow between automation systems and enterprise databases while maintaining data integrity and security.",
+    "Implementing CI/CD pipelines with Azure DevOps and Git for automation solutions, enabling continuous deployment and version control while maintaining solution quality and rapid iteration capabilities.",
+    "Designing and deploying Azure Functions and Logic Apps to create serverless automation workflows, reducing infrastructure costs while improving scalability and maintenance efficiency.",
+    "Developing custom .NET applications with Visual Basic .NET to extend automation capabilities, integrating with legacy systems and providing additional functionality beyond standard RPA tools.",
+    "Implementing AI Builder models within Power Platform solutions to add cognitive capabilities to business processes, enabling intelligent form processing, object detection, and prediction scenarios.",
+    "Creating comprehensive business process mapping documentation and workflow designs that identified automation opportunities and provided clear implementation roadmaps for cross-functional teams.",
+    "Leading Agile development teams through Scrum methodologies, facilitating sprint planning, daily standups, and retrospectives to ensure timely delivery of automation solutions meeting business requirements.",
+    "Developing PowerShell and Bash scripting solutions for Windows and Linux administration tasks, automating deployment processes and system maintenance activities across hybrid environments.",
+    "Implementing OAuth authentication and API security protocols for automation solutions, ensuring secure integration with enterprise systems while maintaining compliance with organizational security policies.",
+    "Conducting thorough QA testing and debugging of automation workflows, identifying edge cases and performance bottlenecks to ensure reliable operation in production environments across diverse scenarios."
+  ],
+  "technical_skills": {
+    "AI and Machine Learning": [
+      "Azure OpenAI Services",
+      "Prompt Engineering",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP (NLTK, SpaCy, Hugging Face)",
+      "AI Builder",
+      "MCP Protocols"
+    ],
+    "RPA and Automation": [
+      "Microsoft Power Automate",
+      "Power Automate Desktop",
+      "Cloud Flows",
+      "RPA Development",
+      "Workflow Design",
+      "Business Process Mapping"
+    ],
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "C#",
+      "Java",
+      "Visual Basic .NET",
+      "SQL",
+      "HTML/CSS",
+      "PowerShell/Bash"
+    ],
+    "Microsoft Power Platform": [
+      "Power Apps",
+      "Dataverse",
+      "AI Builder",
+      "Power Automate",
+      "Canvas Apps",
+      "Model-Driven Apps"
+    ],
+    "Cloud Services": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Active Directory",
+      "ARM Templates",
+      "Azure DevOps",
+      "Azure Storage"
+    ],
+    "Data Processing and Analysis": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "SQL",
+      "JSON",
+      "Data Visualization"
+    ],
+    "API Integration": [
+      "RESTful APIs",
+      "SOAP APIs",
+      "OAuth",
+      "API Keys",
+      "Webhooks",
+      "Middleware Integration"
+    ],
+    "Development Frameworks": [
+      ".NET Framework",
+      "FastAPI",
+      "Flask",
+      "React.js",
+      "Node.js"
+    ],
+    "Containerization and Deployment": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Git",
+      "Azure DevOps"
+    ],
+    "Operating Systems and Administration": [
+      "Windows Administration",
+      "Linux Administration",
+      "PowerShell Scripting",
+      "Bash Scripting",
+      "System Configuration"
+    ],
+    "Database Management": [
+      "SQL Server",
+      "Dataverse",
+      "Cosmos DB",
+      "PostgreSQL",
+      "MySQL",
+      "Data Modeling"
+    ],
+    "Development Tools": [
+      "Visual Studio Code",
+      "Jupyter Notebooks",
+      "Git",
+      "Postman",
+      "Azure Portal",
+      "Power Platform Admin Center"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Azure OpenAI Services to address complex insurance claim processing bottlenecks, I developed intelligent prompt engineering workflows that automated document analysis and decision support, reducing manual review time by 65% while maintaining compliance.",
+        "Implementing Microsoft Power Automate for insurance policy administration workflows, I designed cloud flows that integrated with legacy systems through RESTful APIs, eliminating 40 hours of weekly manual data entry and improving data accuracy significantly.",
+        "Developing computer vision solutions with Python and OpenCV to process insurance damage assessment images, I created automated damage classification models that accelerated claims processing while reducing human error in visual inspections.",
+        "Architecting NLP pipelines using SpaCy and Hugging Face Transformers for insurance document processing, I built custom entity recognition models that extracted key information from complex policy documents with 92% accuracy across varied formats.",
+        "Creating Power Apps solutions for insurance agent portals, I designed intuitive interfaces that integrated with Dataverse, enabling real-time policy management and customer data access while ensuring HIPAA and insurance regulatory compliance.",
+        "Implementing Azure Functions for serverless insurance data processing, I developed Python-based functions that handled peak load scenarios during catastrophe events, ensuring system reliability while optimizing cloud resource utilization.",
+        "Designing MCP protocols for multi-agent AI communication in insurance fraud detection, I established contextual orchestration between detection agents, improving fraud pattern identification by 45% through collaborative intelligence.",
+        "Building SQL-based data validation frameworks for insurance automation systems, I created comprehensive testing procedures that ensured data integrity across policy administration, claims processing, and customer service workflows.",
+        "Developing PowerShell automation scripts for Windows server maintenance, I automated routine system checks and backup procedures, reducing administrative overhead by 30 hours monthly while improving system reliability.",
+        "Implementing OAuth security protocols for insurance API integrations, I established secure authentication flows that protected sensitive customer data while enabling seamless system interoperability across enterprise applications.",
+        "Creating business process mapping documentation for insurance workflows, I identified 15 automation opportunities that collectively saved over 200 personnel hours weekly through streamlined digital transformation initiatives.",
+        "Designing Azure Logic Apps for insurance notification systems, I built orchestration workflows that coordinated email, SMS, and portal alerts, improving customer communication timeliness by 75% during critical claim events.",
+        "Developing .NET applications with Visual Basic .NET for insurance calculation engines, I extended legacy system capabilities to support new product offerings while maintaining backward compatibility with existing policy data.",
+        "Implementing Git version control for insurance automation projects, I established branching strategies and code review processes that improved team collaboration and reduced deployment issues by 60% through better change management.",
+        "Creating Python data analysis scripts with Pandas and NumPy for insurance risk assessment, I developed analytical models that processed historical claim data to identify emerging risk patterns and inform underwriting decisions.",
+        "Designing comprehensive testing frameworks for insurance automation solutions, I implemented QA procedures that validated workflow reliability across edge cases, ensuring consistent performance during high-volume processing periods."
+      ],
+      "environment": [
+        "Azure OpenAI Services",
+        "Microsoft Power Automate",
+        "Python",
+        "SpaCy",
+        "Hugging Face",
+        "Power Apps",
+        "Dataverse",
+        "Azure Functions",
+        "SQL",
+        ".NET Framework",
+        "RESTful APIs",
+        "OAuth",
+        "Git",
+        "PowerShell",
+        "Windows",
+        "Docker",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Implementing Azure OpenAI for healthcare compliance documentation, I developed prompt engineering solutions that automated regulatory reporting, reducing manual effort by 50% while ensuring HIPAA compliance across all generated content.",
+        "Using Microsoft Power Automate for clinical trial data processing, I designed automated workflows that coordinated data collection from multiple sources, accelerating trial timelines while maintaining data integrity and audit trails.",
+        "Developing computer vision applications with Python for medical imaging analysis, I created preprocessing pipelines that standardized image formats and quality, improving downstream AI model performance by 35% across diagnostic applications.",
+        "Building NLP systems with NLTK and SpaCy for patient feedback analysis, I implemented sentiment analysis and topic modeling that identified emerging healthcare trends, informing product development and patient support initiatives.",
+        "Creating Power Apps solutions for healthcare inventory management, I designed mobile applications that tracked medical supplies in real-time, reducing stockouts by 45% through predictive replenishment algorithms.",
+        "Implementing Azure Logic Apps for healthcare data integration, I orchestrated complex ETL processes that consolidated patient data from disparate systems, enabling comprehensive analytics while maintaining strict privacy controls.",
+        "Designing AI Builder models for healthcare form processing, I developed custom AI models that extracted structured data from clinical documents, reducing manual data entry by 60 hours weekly across nursing stations.",
+        "Developing Python machine learning models for patient outcome prediction, I implemented ensemble methods that combined clinical data with treatment histories, providing early intervention alerts to healthcare providers.",
+        "Building RESTful API integrations for healthcare system interoperability, I created secure data exchange protocols that connected electronic health records with research databases, facilitating collaborative medical studies.",
+        "Implementing Dataverse for healthcare data management, I designed entity relationships and business rules that enforced data quality standards, ensuring reliable analytics reporting for clinical decision support.",
+        "Creating JavaScript components for healthcare web applications, I developed interactive visualizations that presented complex medical data in accessible formats, improving clinician understanding of patient trends.",
+        "Designing Azure Functions for healthcare data processing, I implemented serverless architectures that handled variable workloads during peak clinical hours, optimizing resource utilization while maintaining performance.",
+        "Developing SQL queries and stored procedures for healthcare analytics, I created reporting solutions that aggregated patient outcomes across treatment modalities, supporting evidence-based practice improvements.",
+        "Implementing comprehensive testing strategies for healthcare automation, I validated system reliability across diverse clinical scenarios, ensuring uninterrupted operation during critical healthcare delivery periods."
+      ],
+      "environment": [
+        "Azure OpenAI Services",
+        "Microsoft Power Automate",
+        "Python",
+        "Computer Vision",
+        "NLTK",
+        "SpaCy",
+        "Power Apps",
+        "Azure Logic Apps",
+        "AI Builder",
+        "RESTful APIs",
+        "Dataverse",
+        "JavaScript",
+        "Azure Functions",
+        "SQL",
+        "HIPAA Compliance",
+        "Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implementing AWS SageMaker for public health prediction models, I developed machine learning pipelines that analyzed epidemiological data, providing early warnings for disease outbreaks while ensuring data privacy compliance.",
+        "Using Python with Pandas and NumPy for healthcare data analysis, I created data processing workflows that cleaned and standardized public health records, improving data quality for analytical modeling and reporting.",
+        "Developing NLP solutions with Hugging Face Transformers for healthcare documentation, I built text classification models that categorized medical reports, accelerating public health surveillance and response coordination.",
+        "Building computer vision applications for medical document processing, I implemented OCR and image analysis pipelines that digitized historical health records, making decades of public health data accessible for analysis.",
+        "Creating RESTful APIs with Flask for healthcare data access, I developed secure endpoints that enabled authorized researchers to access anonymized public health data for community health studies.",
+        "Implementing SQL databases for healthcare information management, I designed schema optimizations that improved query performance for public health reporting, reducing report generation time from hours to minutes.",
+        "Developing data visualization dashboards with Matplotlib and Plotly, I created interactive reports that presented public health trends to stakeholders, supporting data-driven policy decisions.",
+        "Building AWS Lambda functions for healthcare data processing, I implemented serverless architectures that handled variable data volumes during public health emergencies, ensuring scalable processing capacity.",
+        "Designing machine learning feature engineering pipelines, I created automated processes that transformed raw healthcare data into model-ready features, improving prediction accuracy for public health interventions.",
+        "Implementing model validation frameworks for healthcare predictions, I established testing protocols that ensured model reliability before deployment to production environments serving public health programs.",
+        "Developing data integration solutions for healthcare systems, I created ETL processes that consolidated information from multiple public health departments, enabling comprehensive community health assessment.",
+        "Creating documentation and training materials for healthcare analytics, I educated public health staff on using AI tools for community health assessment, building internal capabilities for sustained program impact."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Hugging Face",
+        "Computer Vision",
+        "Flask",
+        "RESTful APIs",
+        "SQL",
+        "Matplotlib",
+        "AWS Lambda",
+        "Healthcare Data",
+        "Public Health Systems",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developing machine learning models with Python for financial fraud detection, I implemented anomaly detection algorithms that identified suspicious transaction patterns, reducing false positives by 40% while maintaining detection sensitivity.",
+        "Using Pandas and NumPy for financial data analysis, I created data processing pipelines that transformed raw transaction data into features for risk modeling, improving model performance through careful feature engineering.",
+        "Implementing SQL queries for financial data extraction, I developed complex queries that aggregated customer behavior data across multiple banking products, supporting comprehensive risk assessment and customer segmentation.",
+        "Building data visualization dashboards with Matplotlib, I created interactive reports that presented fraud trends to security teams, enabling proactive response to emerging threat patterns in financial transactions.",
+        "Developing RESTful API integrations for financial data sources, I created secure data connections that fed real-time transaction data into fraud detection models, reducing detection latency from hours to seconds.",
+        "Implementing model validation frameworks for financial predictions, I established testing protocols that ensured model reliability across diverse customer segments and transaction types in banking operations.",
+        "Creating feature engineering pipelines for financial machine learning, I developed automated processes that transformed transactional data into predictive features, improving model accuracy for credit risk assessment.",
+        "Building data quality monitoring systems for financial analytics, I implemented validation checks that identified data anomalies in banking transactions, ensuring reliable inputs for downstream analytical processes.",
+        "Developing documentation for financial machine learning systems, I created comprehensive guides that enabled operational teams to understand model outputs and take appropriate action on fraud alerts.",
+        "Implementing collaborative development practices with Git, I established code review processes that improved model quality and knowledge sharing across the financial analytics team."
+      ],
+      "environment": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Matplotlib",
+        "RESTful APIs",
+        "Financial Data",
+        "Fraud Detection",
+        "Risk Modeling",
+        "AWS",
+        "Git",
+        "Banking Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Implementing Hadoop ecosystems for consulting client data processing, I developed MapReduce jobs that transformed large-scale business data, enabling comprehensive analytics across multiple client engagements.",
+        "Using Informatica for ETL processes in consulting projects, I designed data integration workflows that consolidated information from client systems, creating unified data views for business intelligence reporting.",
+        "Developing Sqoop scripts for data transfer between relational databases and Hadoop, I automated data movement processes that supported analytical processing for client business optimization initiatives.",
+        "Building data validation frameworks for consulting data pipelines, I implemented quality checks that ensured data accuracy throughout ETL processes, maintaining client trust in analytical deliverables.",
+        "Creating documentation for consulting data architecture, I developed comprehensive guides that explained data flows and transformation logic, enabling client teams to maintain systems after project completion.",
+        "Implementing performance optimization for data processing jobs, I tuned Hadoop configurations and Informatica workflows that reduced processing time by 35% for large-scale client data analytics.",
+        "Developing data extraction routines for diverse client systems, I created customized connectors that handled varied data formats and structures across consulting engagements in multiple industries.",
+        "Building collaborative development practices for data engineering, I established version control and code review processes that improved team efficiency and knowledge sharing across consulting projects."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Warehousing",
+        "Business Intelligence",
+        "Data Integration",
+        "Consulting",
+        "Client Delivery",
+        "Data Architecture"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

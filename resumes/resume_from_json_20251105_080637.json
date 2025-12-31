@@ -1,0 +1,300 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI Architect & Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of specialized experience in AI engineering and distributed systems, I've built production-grade Agentic AI applications across Insurance, Healthcare, and Banking domains using cutting-edge technologies.",
+    "Architected and delivered LLM-powered insurance claim processing systems using LangChain and Azure AI Search, reducing manual review time by integrating RAG pipelines with real-time policy document retrieval capabilities.",
+    "Led the design of multi-agent AI systems for healthcare compliance monitoring, implementing LangGraph workflows that automated HIPAA validation checks across patient data processing pipelines.",
+    "Engineered Kafka-based event streaming architectures for real-time fraud detection in banking applications, processing millions of transactions daily while maintaining PCI compliance standards.",
+    "Implemented distributed AI training pipelines on Kubernetes clusters, optimizing resource utilization and reducing model training time through efficient container orchestration and auto-scaling policies.",
+    "Designed and deployed FastAPI microservices for insurance underwriting AI systems, ensuring high availability and low-latency responses for real-time risk assessment calculations.",
+    "Built comprehensive MLOps frameworks using Azure Machine Learning and Datadog monitoring, enabling continuous deployment of SML models while maintaining strict version control and experiment tracking.",
+    "Developed cognitive services integrations for educational content personalization, creating intelligent recommendation engines that adapted to individual learning patterns and preferences.",
+    "Orchestrated complex data engineering workflows using Azure Data Factory and Cosmos DB, building scalable ETL pipelines that processed terabytes of structured and unstructured data.",
+    "Implemented vector search capabilities using Azure AI Search for semantic document retrieval, enhancing RAG system performance for insurance policy query resolution and customer support automation.",
+    "Led cross-functional technical teams in building Agentic AI applications, mentoring junior engineers while collaborating with product owners to align technical delivery with business objectives.",
+    "Designed and optimized prompt engineering strategies for OpenAI APIs, creating reusable templates that improved response quality and consistency across multiple insurance domain applications.",
+    "Built Angular-based frontend interfaces for AI-powered analytics dashboards, providing intuitive visualization of model performance metrics and business intelligence insights.",
+    "Implemented comprehensive CI/CD pipelines using Azure DevOps, automating testing and deployment of AI models while ensuring security compliance and regulatory requirements.",
+    "Architected containerized AI applications using Docker and Kubernetes, enabling seamless scaling across development, staging, and production environments with zero downtime deployments.",
+    "Developed real-time monitoring solutions using Datadog and custom metrics, providing visibility into model drift, data quality issues, and system performance across distributed AI infrastructure.",
+    "Engineered fault-tolerant distributed systems using Kafka streams and microservices architecture, ensuring high reliability for critical insurance claim processing workflows.",
+    "Led the implementation of cognitive search solutions for healthcare documentation, enabling natural language querying of medical records while maintaining strict HIPAA compliance standards."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "Java",
+      "TypeScript",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "AI/ML Technologies": [
+      "LLMs",
+      "SMLs",
+      "LangChain",
+      "LangGraph",
+      "OpenAI APIs",
+      "RAG Pipelines",
+      "Multi-agent Systems",
+      "Prompt Engineering"
+    ],
+    "Cloud & DevOps": [
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Terraform",
+      "Azure DevOps",
+      "Datadog"
+    ],
+    "Data Engineering & Databases": [
+      "Kafka",
+      "Cosmos DB",
+      "Azure AI Search",
+      "Data Engineering",
+      "Distributed Systems",
+      "SQL/NoSQL"
+    ],
+    "Backend Architecture": [
+      "FastAPI",
+      "Microservices",
+      "RESTful APIs",
+      "Distributed Systems",
+      "Event-driven Architecture"
+    ],
+    "Machine Learning Operations": [
+      "MLOps",
+      "Model Deployment",
+      "Model Monitoring",
+      "Experiment Tracking",
+      "Version Control"
+    ],
+    "Frontend Technologies": [
+      "Angular",
+      "React",
+      "TypeScript",
+      "REST APIs"
+    ],
+    "Cognitive Services": [
+      "Azure Cognitive Services",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Speech Recognition"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Container Registry"
+    ],
+    "Monitoring & Observability": [
+      "Datadog",
+      "Azure Monitor",
+      "Log Analytics",
+      "Application Insights"
+    ],
+    "Message Brokers & Streaming": [
+      "Kafka",
+      "Event Hubs",
+      "Message Queuing",
+      "Real-time Processing"
+    ],
+    "Search & Retrieval Systems": [
+      "Azure AI Search",
+      "Vector Databases",
+      "Semantic Search",
+      "Document Retrieval"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using LangChain to address complex insurance policy document retrieval challenges, I implemented a multi-agent RAG system that reduced claim processing time by automating document classification and extraction workflows.",
+        "Architected a Kafka-based event streaming platform for real-time fraud detection, designing microservices that processed insurance claims while maintaining compliance with state insurance regulations and data privacy requirements.",
+        "Implemented Azure Kubernetes Service clusters for distributed AI model inference, optimizing resource allocation across multiple insurance domains including auto, home, and life insurance policy validation systems.",
+        "Led the development of FastAPI microservices for insurance underwriting AI, creating RESTful endpoints that integrated with legacy mainframe systems while ensuring data consistency and transaction integrity.",
+        "Designed and deployed Azure AI Search solutions for semantic policy document retrieval, implementing vector embeddings that improved search accuracy for complex insurance terminology and clause matching.",
+        "Built comprehensive monitoring using Datadog to track AI model performance across production insurance systems, creating custom dashboards that alerted on data drift and model degradation in real-time.",
+        "Implemented LangGraph workflows for multi-step insurance claim validation, orchestrating sequential AI agents that verified policy coverage, assessed damage estimates, and flagged potential fraudulent activities.",
+        "Developed Azure Cosmos DB data models for customer policy management, designing document structures that supported flexible schema evolution while maintaining ACID compliance for financial transactions.",
+        "Created CI/CD pipelines using Azure DevOps for automated testing and deployment of AI models, implementing security scans and compliance checks specific to insurance industry regulations and standards.",
+        "Led technical design sessions with product owners to translate insurance business requirements into AI architecture specifications, balancing technical feasibility with regulatory compliance constraints.",
+        "Mentored junior AI engineers on insurance domain knowledge and technical best practices, conducting code reviews that emphasized clean architecture and maintainable distributed systems design.",
+        "Implemented prompt engineering strategies for OpenAI APIs in insurance applications, developing reusable templates that consistently generated accurate policy explanations and coverage summaries.",
+        "Optimized Docker container configurations for AI model serving, reducing cold start times and improving resource utilization across Kubernetes pods running insurance inference workloads.",
+        "Designed fault-tolerant distributed systems using Kafka consumer groups, ensuring high availability for critical insurance claim processing even during peak load periods and system maintenance.",
+        "Integrated Azure Cognitive Services for document processing automation, implementing OCR and text extraction pipelines that converted scanned insurance forms into structured data for AI analysis.",
+        "Conducted performance tuning of RAG pipelines for insurance knowledge bases, optimizing chunking strategies and embedding models to improve response accuracy for complex policy coverage questions."
+      ],
+      "environment": [
+        "Python",
+        "Java",
+        "Kafka",
+        "FastAPI",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "LangChain",
+        "LangGraph",
+        "OpenAI APIs",
+        "Cosmos DB",
+        "Azure AI Search",
+        "Cognitive Services",
+        "CI/CD",
+        "Datadog",
+        "Angular"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Azure Machine Learning to address clinical trial data processing bottlenecks, I built automated feature engineering pipelines that accelerated drug discovery workflows while maintaining HIPAA compliance.",
+        "Implemented Kafka streams for real-time healthcare data integration, designing event-driven architectures that processed patient records from multiple hospital systems with strict data governance controls.",
+        "Developed FastAPI services for medical imaging AI inference, creating REST endpoints that served deep learning models for diagnostic assistance while ensuring patient data privacy and security.",
+        "Designed and deployed Kubernetes clusters for healthcare AI applications, implementing namespace isolation and network policies that separated development, testing, and production environments.",
+        "Built RAG systems using Azure AI Search for medical literature retrieval, implementing semantic search capabilities that helped researchers quickly access relevant clinical studies and drug interactions.",
+        "Created comprehensive monitoring solutions with Datadog for healthcare AI systems, tracking model performance metrics and data quality indicators across pharmaceutical research applications.",
+        "Implemented LangChain workflows for automated medical document processing, developing AI agents that extracted key information from clinical trial reports and research papers.",
+        "Designed Cosmos DB data models for patient outcome tracking, creating flexible document structures that accommodated diverse healthcare data formats while maintaining audit trails.",
+        "Developed CI/CD pipelines for healthcare AI model deployment, implementing rigorous testing protocols that validated model accuracy and regulatory compliance before production release.",
+        "Led the integration of OpenAI APIs for medical transcription enhancement, creating prompt templates that improved accuracy of clinical note generation from doctor-patient conversations.",
+        "Mentored healthcare data scientists on software engineering best practices, conducting pair programming sessions that improved code quality and system reliability across research teams.",
+        "Optimized Docker images for healthcare AI applications, reducing image sizes and improving security by implementing multi-stage builds and vulnerability scanning in CI pipelines.",
+        "Implemented Azure Cognitive Services for medical image analysis, developing computer vision pipelines that assisted radiologists in detecting anomalies while maintaining diagnostic accuracy standards.",
+        "Designed event-driven architectures using Kafka for real-time patient monitoring, creating systems that processed sensor data from clinical trials and alerted researchers to significant events."
+      ],
+      "environment": [
+        "Python",
+        "Java",
+        "Kafka",
+        "FastAPI",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "LangChain",
+        "OpenAI APIs",
+        "Cosmos DB",
+        "Azure AI Search",
+        "Cognitive Services",
+        "CI/CD",
+        "Datadog",
+        "React"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker to build predictive models for public health monitoring, I implemented machine learning pipelines that analyzed healthcare utilization patterns while ensuring HIPAA compliance.",
+        "Developed data engineering workflows for healthcare dataset integration, creating ETL processes that consolidated information from multiple state agencies into unified analytics platforms.",
+        "Implemented containerized ML applications using Docker, packaging models and dependencies into portable images that could be deployed across different state government environments.",
+        "Built RESTful APIs with FastAPI for healthcare data access, creating secure endpoints that served aggregated statistics to public health officials and researchers.",
+        "Designed monitoring systems for healthcare AI applications, tracking model performance and data quality metrics across public health surveillance and reporting systems.",
+        "Created data validation pipelines for healthcare datasets, implementing quality checks that identified anomalies and missing values in patient demographic and treatment information.",
+        "Developed feature engineering workflows for public health prediction models, creating reusable transformations that prepared healthcare data for machine learning algorithms.",
+        "Implemented model versioning and experiment tracking systems, maintaining organized records of ML model iterations and their performance across different public health scenarios.",
+        "Built data visualization components for healthcare analytics dashboards, creating interactive charts that helped public health officials understand disease trends and resource allocation needs.",
+        "Optimized ML inference performance for real-time public health applications, reducing latency for models that processed streaming healthcare data from multiple sources.",
+        "Designed secure data access patterns for sensitive healthcare information, implementing authentication and authorization controls that protected patient privacy while enabling necessary analysis.",
+        "Created documentation and training materials for healthcare AI systems, helping state government staff understand and effectively use machine learning tools in their public health work."
+      ],
+      "environment": [
+        "Python",
+        "AWS",
+        "Docker",
+        "FastAPI",
+        "Machine Learning",
+        "Data Engineering",
+        "Healthcare Analytics",
+        "REST APIs",
+        "Data Visualization"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and machine learning libraries to develop fraud detection models, I built classification algorithms that analyzed transaction patterns while maintaining PCI DSS compliance standards.",
+        "Implemented data pipelines for financial risk assessment, creating ETL processes that consolidated customer transaction data from multiple banking systems into centralized analytics platforms.",
+        "Developed feature engineering workflows for credit scoring models, creating variables that captured customer behavior patterns while ensuring fairness and regulatory compliance.",
+        "Built statistical models for customer segmentation, implementing clustering algorithms that grouped banking customers based on transaction behavior and product usage patterns.",
+        "Created data validation frameworks for financial datasets, implementing quality checks that identified anomalies in transaction records and customer information.",
+        "Developed visualization dashboards for business intelligence, creating interactive reports that helped banking executives understand customer behavior and product performance.",
+        "Implemented A/B testing frameworks for marketing campaign optimization, designing experiments that measured the effectiveness of different customer engagement strategies.",
+        "Built predictive models for customer churn prevention, developing algorithms that identified at-risk customers and recommended retention interventions.",
+        "Created documentation for regulatory compliance, maintaining detailed records of model development processes and validation results for banking auditors.",
+        "Collaborated with business stakeholders to translate financial requirements into technical specifications, ensuring that data science projects addressed real business needs and opportunities."
+      ],
+      "environment": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistical Modeling",
+        "AWS",
+        "Data Visualization",
+        "ETL",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop to process large-scale client data, I built MapReduce jobs that transformed and aggregated business information for consulting analytics and reporting applications.",
+        "Implemented Informatica workflows for data integration projects, creating ETL processes that consolidated information from multiple client systems into unified data warehouses.",
+        "Developed Sqoop scripts for data transfer between relational databases and Hadoop clusters, optimizing import and export operations for consulting client data migration projects.",
+        "Built data validation frameworks using Hadoop ecosystem tools, creating quality checks that ensured accuracy and completeness of client business data during transformation processes.",
+        "Designed data models for client analytics platforms, creating database schemas that supported business intelligence reporting and ad-hoc analysis requirements.",
+        "Implemented performance optimization techniques for Hadoop clusters, tuning MapReduce jobs and Hive queries to improve processing efficiency for large consulting datasets.",
+        "Created documentation for data engineering processes, maintaining detailed records of ETL workflows and data transformation logic for client knowledge transfer.",
+        "Collaborated with consulting teams to understand business requirements, translating client needs into technical specifications for data pipeline development and implementation."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "ETL",
+        "Data Warehousing",
+        "Data Modeling",
+        "Business Intelligence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

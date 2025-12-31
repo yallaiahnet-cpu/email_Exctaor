@@ -1,0 +1,255 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Palantir Foundry Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "[https://www.linkedin.com/in/yalleshaiengineer/](https://www.linkedin.com/in/yalleshaiengineer/)",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and building scalable data engineering pipelines leveraging Palantir Foundry, Python, PySpark, and SQL to support enterprise-grade analytics and governance initiatives across Insurance, Banking, and Healthcare domains.",
+    "Skilled in Palantir Foundry datasets and transforms, I have implemented optimized ETL/ELT frameworks ensuring high data lineage integrity, schema versioning, and access control aligned with organizational compliance and data governance policies.",
+    "With hands-on Foundry Code Repository experience, I designed version-controlled workflows and CI/CD integration using Git and Jenkins for automated data pipeline deployments and consistent schema management across production environments.",
+    "Involved in developing Python and PySpark transformations within Foundry to handle large-scale insurance data ingestion while ensuring adherence to data provenance, data quality validation, and regulatory requirements.",
+    "Implemented robust data modeling techniques using Foundry ontology and SQL transformations to standardize cross-domain datasets, improving reusability and enabling self-service analytics for business stakeholders.",
+    "Leveraged Foundry\u2019s transform framework to orchestrate data pipelines with distributed processing and Spark optimizations, ensuring low latency and high availability for business-critical data feeds.",
+    "Collaborated with governance teams to define schema standards, lineage documentation, and dataset access control frameworks, reinforcing data security and audit readiness across Foundry workspaces.",
+    "Applied strong DevOps practices by integrating Foundry repositories with Git-based workflows and CI/CD automation pipelines, minimizing manual intervention and increasing data reliability during deployments.",
+    "Developed custom data validation layers and operational monitoring scripts to track anomalies in insurance claims data, ensuring high data quality and reliability for reporting systems.",
+    "Utilized Azure cloud integrations with Foundry to enhance scalability and elasticity for big data workloads, improving cost efficiency and operational transparency in large-scale enterprise deployments.",
+    "Built PySpark-based ETL frameworks within Foundry for Healthcare data, aligning with HIPAA regulations and ensuring secure processing, lineage tracking, and audit trail preservation.",
+    "Led Foundry data governance workshops to document best practices, transform patterns, and ontology modeling conventions across enterprise data teams for standardization.",
+    "Integrated data quality checks and alert mechanisms in Foundry pipelines using Python scripts and Foundry monitoring APIs to ensure operational readiness and early error detection.",
+    "Participated in troubleshooting Foundry transform execution failures, optimized Spark partitioning strategies, and applied caching for performance improvements in production datasets.",
+    "Worked closely with business analysts to translate evolving requirements into scalable data models within Foundry, aligning governance-driven reporting structures across departments.",
+    "Enabled granular dataset access policies through Foundry\u2019s security configurations to maintain compliance and prevent unauthorized data exposure during inter-team collaboration.",
+    "Documented key learnings and created reusable Foundry transform templates and governance artifacts to accelerate onboarding for new data engineers within the enterprise ecosystem.",
+    "Continuously optimized Foundry pipelines through iterative performance tuning and schema refactoring while mentoring junior engineers on Foundry architecture and best practices."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "PySpark",
+      "Java",
+      "Bash"
+    ],
+    "Big Data & Foundry Tools": [
+      "Palantir Foundry",
+      "Foundry Datasets",
+      "Foundry Transforms",
+      "Foundry Code Repositories",
+      "Apache Spark",
+      "Apache Airflow"
+    ],
+    "Data Engineering & Modeling": [
+      "ETL/ELT Design",
+      "Data Modeling",
+      "Data Lineage",
+      "Schema Management",
+      "Data Provenance",
+      "Data Quality Validation"
+    ],
+    "Cloud Platforms": [
+      "Azure (Data Factory, Databricks, Blob Storage, Synapse)"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "GitLab",
+      "Terraform",
+      "Foundry CI/CD",
+      "Bitbucket"
+    ],
+    "Governance & Security": [
+      "Access Control Policies",
+      "Data Governance",
+      "Ontology Modeling",
+      "Audit Compliance",
+      "Data Cataloging"
+    ],
+    "Streaming & Real-time": [
+      "Apache Kafka",
+      "Kinesis",
+      "Spark Streaming"
+    ],
+    "Visualization & Reporting": [
+      "Tableau",
+      "Power BI",
+      "Foundry Ontology Applications"
+    ],
+    "Automation & Monitoring": [
+      "Python Automation Scripts",
+      "Foundry Monitoring APIs",
+      "Azure Monitor"
+    ],
+    "Containerization & Infrastructure": [
+      "Docker",
+      "Kubernetes",
+      "Infrastructure as Code"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Palantir Foundry to manage large-scale insurance data ingestion pipelines, I designed schema definitions and ETL processes ensuring compliance with regulatory standards while improving overall data availability and governance reliability.",
+        "Applied PySpark in Foundry transforms to optimize slow-performing insurance data aggregation processes, fine-tuning cluster configurations to reduce latency and enhance real-time analytics for claim validation systems.",
+        "Leveraged Foundry Code Repositories to enforce version control, enabling Git-integrated CI/CD pipelines for automated deployment of data models, ensuring consistent schema updates across production and test environments.",
+        "Developed data quality monitoring scripts in Python within Foundry to validate claim records and alert on inconsistencies, reducing manual inspection time and ensuring reliable downstream analytics.",
+        "Implemented Foundry dataset access controls using governance configurations to secure sensitive insurance policyholder data and comply with enterprise privacy frameworks.",
+        "Created ontology-driven semantic models in Foundry to unify data definitions across underwriting, claims, and policy domains, improving cross-departmental analytical consistency.",
+        "Collaborated with cross-functional teams to translate actuarial requirements into Foundry transforms that supported business-critical pricing models and fraud detection dashboards.",
+        "Configured Azure Data Factory integrations with Foundry pipelines to automate data ingestion from external APIs and on-premise insurance systems, streamlining multi-source harmonization.",
+        "Participated in performance debugging sessions to analyze transform execution bottlenecks, applying Spark optimization techniques like partition tuning and broadcast joins to accelerate pipelines.",
+        "Contributed to Foundry governance documentation by defining reusable patterns for schema evolution, dataset naming conventions, and version control best practices across teams.",
+        "Developed Python scripts for Foundry monitoring automation, alerting operational teams during data drift or schema change detection events in production.",
+        "Collaborated in sprint reviews with data governance leads to align Foundry dataset lineage mapping with enterprise metadata repositories, ensuring complete traceability.",
+        "Deployed Foundry pipelines handling sensitive insurance data through CI/CD automation, incorporating pre-deployment validation checks to avoid schema regressions.",
+        "Participated in Foundry training sessions, mentoring new developers in Foundry transforms and data governance standards to maintain consistency across projects.",
+        "Facilitated integration of Foundry datasets with Tableau dashboards for executive insurance reporting, ensuring lineage traceability from raw ingestion to curated analytics layers.",
+        "Authored Foundry code templates and reusable Spark modules to accelerate pipeline creation, simplifying onboarding for new developers in State Farm\u2019s data engineering team."
+      ],
+      "environment": [
+        "Palantir Foundry",
+        "Python",
+        "PySpark",
+        "SQL",
+        "Azure",
+        "Git",
+        "Jenkins",
+        "Apache Airflow",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Used Palantir Foundry to build healthcare data pipelines integrating hospital records and regulatory datasets, ensuring compliance with HIPAA while maintaining lineage and schema consistency.",
+        "Developed PySpark transformations within Foundry for patient analytics, addressing complex healthcare data quality issues through validation and deduplication scripts.",
+        "Implemented CI/CD pipelines connected to Foundry Code Repositories to automate schema versioning and dataset promotion, reducing manual intervention and improving reliability.",
+        "Configured dataset access policies in Foundry to protect sensitive medical data, ensuring only authorized users could access patient-level datasets under HIPAA rules.",
+        "Optimized data pipelines in Foundry using Spark performance tuning techniques to improve throughput of daily patient encounter data streams.",
+        "Collaborated with governance teams to create Foundry documentation templates for dataset lineage tracking and ontology management across healthcare analytics divisions.",
+        "Used Python to automate Foundry transform dependency checks, ensuring pipeline stability before deployment to production environments.",
+        "Integrated Foundry monitoring tools with Azure logging services to track pipeline execution status and send proactive alerts for data quality exceptions.",
+        "Contributed to ontology-driven healthcare models in Foundry to standardize treatment and diagnosis data across hospitals, improving analytical consistency.",
+        "Worked closely with doctors and analysts to convert clinical research metrics into Foundry transform logic for predictive healthcare applications.",
+        "Participated in debugging and data discrepancy sessions to troubleshoot Foundry transform errors in production, improving data correctness and reliability.",
+        "Designed Foundry transform patterns reusable by other teams, focusing on parameterized schema management and transformation modularity.",
+        "Supported CI/CD deployments integrating Git workflows with Foundry releases, improving deployment traceability and audit readiness.",
+        "Documented best practices and mentored junior engineers in Foundry data governance and compliance-driven pipeline development."
+      ],
+      "environment": [
+        "Palantir Foundry",
+        "Python",
+        "PySpark",
+        "Azure",
+        "Git",
+        "CI/CD",
+        "Kafka"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Leveraged Palantir Foundry to process healthcare datasets related to public health compliance, ensuring lineage traceability and secure schema management for HIPAA adherence.",
+        "Applied PySpark transforms to resolve inconsistent patient data ingestion patterns within Foundry, improving pipeline accuracy and reducing data processing delays.",
+        "Developed Foundry transforms integrated with AWS S3 for scalable data ingestion workflows, aligning ETL steps with healthcare reporting requirements.",
+        "Configured dataset security rules in Foundry to restrict unauthorized access to sensitive medical datasets, maintaining compliance with healthcare privacy policies.",
+        "Collaborated with analytics teams to translate medical metrics into Foundry ontology models for patient treatment analytics and operational insights.",
+        "Implemented validation scripts in Python to automate Foundry data quality checks, flagging outliers and missing values across healthcare datasets.",
+        "Integrated AWS Lambda triggers with Foundry pipelines to automate ingestion and transformation sequences, reducing manual intervention.",
+        "Participated in debugging sessions for Spark job failures in Foundry, applying optimized partitioning strategies for improved execution reliability.",
+        "Created documentation for healthcare dataset lineage within Foundry to facilitate data governance audits and compliance reviews.",
+        "Worked closely with the data governance team to establish schema evolution processes for Foundry datasets across multiple hospital systems.",
+        "Supported CI/CD pipeline integration for Foundry projects with Git workflows, streamlining version-controlled deployments.",
+        "Mentored junior data engineers on Foundry dataset structure and healthcare data modeling principles during cross-team collaboration."
+      ],
+      "environment": [
+        "Palantir Foundry",
+        "AWS",
+        "Python",
+        "PySpark",
+        "Git",
+        "Airflow"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Used Python and SQL within Palantir Foundry to build banking data pipelines for credit analytics while adhering to PCI and internal governance standards.",
+        "Developed Foundry transforms to standardize financial transaction data from multiple systems, ensuring schema consistency and data lineage documentation.",
+        "Configured dataset access controls in Foundry to maintain strict financial data security aligned with regulatory requirements.",
+        "Applied Spark optimizations to reduce data processing time for loan approval models, enhancing operational efficiency for underwriting teams.",
+        "Integrated Foundry datasets with Power BI dashboards to visualize financial performance metrics across divisions with complete lineage traceability.",
+        "Automated Foundry deployment workflows through Git-integrated CI/CD pipelines, ensuring seamless data schema updates without downtime.",
+        "Collaborated with governance officers to define documentation templates for financial dataset traceability within Foundry.",
+        "Developed validation scripts in Python to identify transaction anomalies, reducing reporting discrepancies in financial statements.",
+        "Participated in peer code reviews of Foundry transform logic, ensuring data consistency and adherence to internal governance standards.",
+        "Supported operational debugging for failed Foundry transforms, documenting root causes and implementing long-term fixes for stability."
+      ],
+      "environment": [
+        "Palantir Foundry",
+        "Python",
+        "SQL",
+        "Spark",
+        "AWS",
+        "Power BI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Used Hadoop to handle batch processing of client consulting datasets, designing efficient ETL jobs for downstream analytics and governance.",
+        "Leveraged Informatica PowerCenter for data extraction and transformation workflows, ensuring schema consistency across multiple source systems.",
+        "Developed Sqoop scripts for data migration between Hadoop and relational databases, improving integration speed and reducing dependency errors.",
+        "Created Hive queries to validate consulting project metrics and perform data aggregation for performance monitoring.",
+        "Participated in data cleansing initiatives using Informatica to handle inconsistent data from multiple client repositories.",
+        "Assisted senior developers in debugging Hadoop MapReduce jobs and tuning configurations for improved cluster efficiency.",
+        "Documented ETL workflows and lineage maps to maintain clarity for consulting data governance audits.",
+        "Learned early principles of data modeling and schema versioning that later evolved into advanced Foundry practices."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Oracle"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

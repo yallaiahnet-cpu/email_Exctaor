@@ -1,0 +1,329 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior GCP Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering with deep specialization in Google Cloud Platform, real-time data processing, and enterprise-scale ETL pipeline development across insurance, healthcare, and financial domains.",
+    "Using BigQuery to address complex insurance claims analytics challenges by implementing partitioned tables and clustering strategies that significantly improved query performance while maintaining strict data governance and compliance requirements.",
+    "Leveraging Cloud Dataflow with Apache Beam to transform legacy SSIS workflows into real-time streaming pipelines that process insurance policy data with enhanced reliability and reduced operational overhead for business intelligence teams.",
+    "Implementing Cloud Composer workflows to orchestrate complex ETL processes across multiple insurance domains while ensuring HIPAA compliance through proper IAM roles and security configurations for sensitive healthcare data handling.",
+    "Designing Cloud Dataproc clusters with optimized Spark configurations to handle large-scale insurance risk modeling datasets while collaborating with data scientists to productionize machine learning models for claims prediction.",
+    "Developing Python-based Cloud Functions to automate data validation checks and error handling procedures within insurance data pipelines, reducing manual intervention and improving overall system reliability for critical business operations.",
+    "Architecting Pub/Sub messaging systems for real-time insurance event processing that enabled instant fraud detection capabilities while maintaining data consistency across multiple consumer applications and analytics platforms.",
+    "Optimizing Cloud Storage strategies for insurance document archival and retrieval systems by implementing lifecycle policies and access controls that balanced performance requirements with cost efficiency for long-term data retention.",
+    "Building Terraform modules to provision GCP data infrastructure with proper security configurations and compliance controls for insurance regulatory requirements while establishing reusable patterns for future project deployments.",
+    "Establishing CI/CD pipelines using Cloud Build to automate testing and deployment of data transformation code, enabling faster iteration cycles and more reliable releases for critical insurance analytics applications.",
+    "Creating comprehensive data models and schema designs for insurance policy administration systems that supported both operational reporting and analytical workloads while ensuring data integrity across distributed GCP services.",
+    "Migrating complex Informatica ETL processes to native GCP solutions by redesigning transformation logic using Cloud Dataflow and BigQuery, maintaining data quality standards while improving processing efficiency for insurance domains.",
+    "Implementing performance tuning strategies for BigQuery tables through careful partitioning and clustering selections that accelerated insurance reporting dashboards while optimizing resource utilization and controlling costs.",
+    "Developing real-time data processing architectures using Pub/Sub and Dataflow to handle streaming insurance claim events, enabling near-instant analytics for fraud detection and risk assessment applications.",
+    "Designing secure data access patterns using GCP IAM policies and service accounts that enforced proper data governance for sensitive insurance information while enabling appropriate access for analytics teams.",
+    "Building monitoring and alerting systems using Cloud Monitoring to track pipeline health and data quality metrics across insurance data platforms, enabling proactive issue detection and rapid incident response.",
+    "Collaborating with data scientists to productionize machine learning models on GCP infrastructure, creating scalable inference pipelines that integrated seamlessly with existing insurance data ecosystems.",
+    "Establishing data governance frameworks and security best practices for insurance data assets on GCP, ensuring compliance with industry regulations while maintaining flexibility for analytical exploration and innovation."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using BigQuery to address slow insurance claims reporting by implementing partitioned tables and clustering strategies that transformed query performance while maintaining strict data governance for sensitive policyholder information.",
+        "Leveraging Cloud Dataflow to migrate complex SSIS ETL processes for policy administration systems, redesigning batch workflows into real-time streaming pipelines that improved data freshness for underwriting decisions and risk assessment.",
+        "Architecting Cloud Composer workflows to orchestrate cross-domain insurance data pipelines while implementing comprehensive IAM security controls that ensured proper data access governance across multiple business units and regulatory requirements.",
+        "Designing Cloud Dataproc clusters with optimized Spark configurations to process terabyte-scale insurance risk modeling datasets, enabling data scientists to build more accurate predictive models for claims forecasting and fraud detection.",
+        "Developing Python-based Cloud Functions to automate data quality validation for insurance policy transactions, creating self-healing pipelines that reduced manual data correction efforts and improved overall system reliability.",
+        "Implementing Pub/Sub messaging systems for real-time insurance event processing that enabled instant fraud detection capabilities while maintaining data consistency across policy administration and claims processing applications.",
+        "Building Terraform modules to provision GCP data infrastructure with insurance-specific security configurations, establishing reusable patterns that accelerated project deployments while ensuring compliance with industry regulations.",
+        "Establishing CI/CD pipelines using Cloud Build to automate testing and deployment of data transformation code, enabling faster iteration cycles and more reliable releases for critical insurance analytics applications.",
+        "Creating comprehensive data models for insurance policy administration systems that supported both operational reporting and analytical workloads while ensuring data integrity across distributed GCP services and applications.",
+        "Optimizing BigQuery performance through careful partitioning and clustering strategies that accelerated insurance reporting dashboards while implementing cost control measures through query optimization and resource management.",
+        "Developing real-time data processing architectures using Pub/Sub and Dataflow to handle streaming insurance claim events, enabling near-instant analytics for fraud detection and risk assessment applications across state jurisdictions.",
+        "Designing secure data access patterns using GCP IAM policies that enforced proper data governance for sensitive insurance information while enabling appropriate access for claims analysts and business intelligence teams.",
+        "Building monitoring systems using Cloud Monitoring to track pipeline health across insurance data platforms, creating custom dashboards that provided visibility into data quality metrics and system performance for stakeholders.",
+        "Collaborating with data scientists to productionize machine learning models on GCP infrastructure, creating scalable inference pipelines that integrated seamlessly with existing insurance data ecosystems and applications.",
+        "Implementing data governance frameworks for insurance data assets on GCP, ensuring compliance with state regulations while maintaining flexibility for analytical exploration and business innovation initiatives.",
+        "Migrating complex Informatica ETL processes to native GCP solutions by redesigning transformation logic using Cloud Dataflow, maintaining data quality standards while improving processing efficiency for policy administration systems."
+      ],
+      "environment": [
+        "GCP BigQuery, Cloud Dataflow, Cloud Composer, Cloud Dataproc, Cloud Functions, Pub/Sub, Cloud Storage, Terraform, Cloud Build, Python, SQL, Apache Beam, Spark, IAM, Cloud Monitoring"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using BigQuery to address healthcare analytics challenges by implementing partitioned clinical data tables that improved query performance for research teams while maintaining strict HIPAA compliance through proper security configurations.",
+        "Leveraging Cloud Dataflow to process streaming healthcare device data, transforming batch ETL processes into real-time pipelines that enabled faster insights for clinical trial monitoring and medical device performance analytics.",
+        "Architecting Cloud Composer workflows to orchestrate pharmaceutical data pipelines across multiple research domains while implementing IAM security controls that ensured proper access governance for sensitive clinical trial information.",
+        "Designing Cloud Dataproc clusters with optimized Spark configurations to handle large-scale healthcare research datasets, enabling data scientists to build predictive models for drug efficacy and patient outcome analysis.",
+        "Developing Python-based Cloud Functions to automate data validation for healthcare supply chain operations, creating reliable data pipelines that reduced manual intervention and improved inventory management accuracy.",
+        "Implementing Pub/Sub messaging systems for real-time healthcare monitoring data that enabled instant alerting for clinical trial anomalies while maintaining data consistency across research and regulatory applications.",
+        "Building Terraform modules to provision GCP healthcare data infrastructure with HIPAA-compliant security configurations, establishing reusable patterns that accelerated research project deployments across different therapeutic areas.",
+        "Establishing CI/CD pipelines using Cloud Build to automate testing and deployment of healthcare data transformation code, enabling faster iteration cycles for clinical research analytics applications.",
+        "Creating comprehensive data models for pharmaceutical research systems that supported both operational reporting and analytical workloads while ensuring data integrity across distributed GCP services and applications.",
+        "Optimizing BigQuery performance through partitioning strategies that accelerated healthcare research dashboards while implementing cost control measures through query optimization and resource management practices.",
+        "Developing real-time data processing architectures using Pub/Sub and Dataflow to handle streaming clinical trial data, enabling near-instant analytics for patient safety monitoring and regulatory compliance reporting.",
+        "Designing secure data access patterns using GCP IAM policies that enforced proper data governance for sensitive healthcare information while enabling appropriate access for research teams and regulatory compliance staff.",
+        "Building monitoring systems using Cloud Monitoring to track pipeline health across healthcare data platforms, creating custom dashboards that provided visibility into data quality metrics for clinical research operations.",
+        "Collaborating with healthcare data scientists to productionize machine learning models on GCP infrastructure, creating scalable inference pipelines that integrated with clinical trial management systems and research applications."
+      ],
+      "environment": [
+        "GCP BigQuery, Cloud Dataflow, Cloud Composer, Cloud Dataproc, Cloud Functions, Pub/Sub, Cloud Storage, Terraform, Cloud Build, Python, SQL, Apache Beam, Spark, IAM, Cloud Monitoring"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using AWS Redshift to address healthcare analytics performance issues by implementing distribution styles and sort keys that improved query performance for public health reporting while maintaining HIPAA compliance requirements.",
+        "Leveraging AWS Glue to migrate healthcare ETL processes from traditional data warehouses, transforming batch workflows into serverless pipelines that improved data processing efficiency for state health department applications.",
+        "Architecting AWS Step Functions to orchestrate public health data pipelines across multiple departments while implementing IAM security controls that ensured proper access governance for sensitive patient information.",
+        "Designing EMR clusters with optimized Spark configurations to process large-scale public health datasets, enabling analytics teams to build surveillance models for disease outbreak detection and prevention programs.",
+        "Developing Python-based Lambda functions to automate data validation for healthcare eligibility systems, creating reliable data pipelines that reduced manual intervention and improved accuracy for public assistance programs.",
+        "Implementing Kinesis streams for real-time public health monitoring data that enabled instant alerting for disease surveillance while maintaining data consistency across state health department applications.",
+        "Building CloudFormation templates to provision AWS healthcare data infrastructure with HIPAA-compliant security configurations, establishing reusable patterns for public health project deployments across different programs.",
+        "Establishing CI/CD pipelines using CodePipeline to automate testing and deployment of healthcare data transformation code, enabling faster iteration cycles for public health analytics applications.",
+        "Creating comprehensive data models for public health systems that supported both operational reporting and analytical workloads while ensuring data integrity across distributed AWS services and applications.",
+        "Optimizing Redshift performance through distribution and sort key strategies that accelerated public health reporting dashboards while implementing cost control measures through query optimization techniques.",
+        "Developing real-time data processing architectures using Kinesis and Glue Streaming to handle public health surveillance data, enabling near-instant analytics for disease monitoring and outbreak response coordination.",
+        "Designing secure data access patterns using AWS IAM policies that enforced proper data governance for sensitive healthcare information while enabling appropriate access for public health officials and researchers."
+      ],
+      "environment": [
+        "AWS Redshift, Glue, EMR, Step Functions, Lambda, Kinesis, S3, CloudFormation, CodePipeline, Python, SQL, Spark, IAM, CloudWatch"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": " New York, New York.",
+      "responsibilities": [
+        "Using AWS Redshift to address financial analytics performance challenges by implementing distribution styles that improved query performance for risk reporting while maintaining PCI DSS compliance through proper security configurations.",
+        "Leveraging AWS Glue to process financial transaction data, transforming traditional ETL workflows into serverless pipelines that improved data processing efficiency for fraud detection and compliance monitoring applications.",
+        "Architecting Step Functions to orchestrate financial data pipelines across multiple business units while implementing IAM security controls that ensured proper access governance for sensitive customer financial information.",
+        "Designing EMR clusters with optimized Spark configurations to handle large-scale transaction datasets, enabling analytics teams to build predictive models for credit risk assessment and customer behavior analysis.",
+        "Developing Python-based Lambda functions to automate data validation for financial reporting systems, creating reliable data pipelines that reduced manual intervention and improved accuracy for regulatory compliance.",
+        "Implementing Kinesis streams for real-time financial transaction monitoring that enabled instant fraud detection alerts while maintaining data consistency across banking applications and compliance systems.",
+        "Building CloudFormation templates to provision AWS financial data infrastructure with PCI-compliant security configurations, establishing reusable patterns for banking project deployments across different business lines.",
+        "Establishing CI/CD pipelines using CodePipeline to automate testing and deployment of financial data transformation code, enabling faster iteration cycles for risk analytics and regulatory reporting applications.",
+        "Creating comprehensive data models for banking systems that supported both operational reporting and analytical workloads while ensuring data integrity across distributed AWS services and applications.",
+        "Optimizing Redshift performance through careful distribution key selections that accelerated financial reporting dashboards while implementing cost control measures through query optimization and resource management."
+      ],
+      "environment": [
+        "AWS Redshift, Glue, EMR, Step Functions, Lambda, Kinesis, S3, CloudFormation, CodePipeline, Python, SQL, Spark, IAM, CloudWatch"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that transformed legacy ETL workflows into distributed processing pipelines, improving throughput for consulting analytics applications.",
+        "Leveraging Informatica to migrate client data integration processes from traditional approaches, designing reusable transformation workflows that improved data quality and consistency across multiple consulting engagements.",
+        "Implementing Sqoop to transfer data between relational databases and Hadoop clusters, optimizing connection parameters and parallel processing to improve data movement efficiency for client data warehouse projects.",
+        "Designing Hive tables with optimized partitioning strategies to improve query performance for client reporting applications while learning how to troubleshoot performance issues in distributed computing environments.",
+        "Developing shell scripts to automate data pipeline monitoring and error handling procedures, creating reliable data processing workflows that reduced manual intervention for consulting team deliverables.",
+        "Building data validation frameworks using Python and Hadoop streaming to ensure data quality across client data migrations, implementing checks that identified data inconsistencies early in the processing pipeline.",
+        "Creating data models for client analytics platforms that supported both operational reporting and analytical workloads while ensuring data integrity across Hadoop ecosystem components and traditional databases.",
+        "Optimizing Hive query performance through partitioning and bucketing strategies that accelerated client reporting dashboards while learning cost control measures through resource management and query optimization techniques."
+      ],
+      "environment": [
+        "Hadoop, Informatica, Sqoop, Hive, MapReduce, Python, Shell Scripting, SQL, Traditional RDBMS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

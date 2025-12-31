@@ -1,0 +1,228 @@
+{
+  "name": "Yallaiah O",
+  "title": "Senior Database Engineer",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Built enterprise-grade Postgres database solutions for healthcare applications while ensuring strict HIPAA compliance through encrypted data storage and access control mechanisms that protected patient health information across multiple clinical systems and applications.",
+    "Engineered real-time data access API layers using Hasura GraphQL to provide seamless data retrieval for healthcare providers, reducing API response times significantly while maintaining data integrity and security compliance across distributed clinical environments.",
+    "Deployed and configured AWS RDS Postgres instances with automated backup strategies and disaster recovery protocols, ensuring 99.9% uptime for critical healthcare applications that processed millions of patient records daily across hospital networks.",
+    "Applied Azure Database services to extend healthcare data capabilities across hybrid cloud environments, implementing data synchronization between on-premise EHR systems and cloud analytics platforms while maintaining regulatory compliance.",
+    "Integrated Salesforce Cloud with Postgres databases to streamline patient data management workflows, developing custom data pipelines that automated patient record updates and reduced manual data entry errors by substantial margins.",
+    "Utilized advanced SQL optimization techniques to improve query performance for complex healthcare reporting systems, rewriting inefficient stored procedures and implementing indexing strategies that accelerated data retrieval for clinical decision support.",
+    "Operationalized database monitoring solutions using AWS CloudWatch and custom scripts to track performance metrics and identify potential issues before they impacted healthcare operations, setting up automated alerts for database health indicators.",
+    "Worked closely with development teams to design data models for new healthcare applications, conducting schema reviews and providing recommendations that balanced performance requirements with regulatory compliance needs.",
+    "Collaborated with security teams to implement database encryption and access control policies that met HIPAA requirements, configuring row-level security and audit logging for sensitive patient data across all healthcare database systems.",
+    "Contributed to agile development processes by participating in sprint planning and code reviews, providing database expertise that helped teams estimate work accurately and deliver features on schedule for healthcare clients.",
+    "Helped troubleshoot production database issues during critical healthcare system outages, analyzing query performance and locking conflicts to restore normal operations quickly while minimizing impact on patient care activities.",
+    "Got hands-on experience with database migration projects, moving legacy healthcare systems from older database platforms to modern Postgres implementations while ensuring data accuracy and maintaining business continuity.",
+    "Worked with cross-functional teams to implement data governance policies for healthcare organizations, establishing standards for data quality, documentation, and change management processes across all database systems.",
+    "Led database design sessions for new healthcare analytics platforms, creating entity-relationship diagrams and data flow documentation that guided development teams through complex implementation requirements."
+  ],
+  "technical_skills": {
+    "Database Technologies": [
+      "PostgreSQL",
+      "AWS RDS",
+      "Azure Database Services",
+      "Hasura GraphQL Engine",
+      "SQL Optimization",
+      "Database Migration",
+      "Data Modeling",
+      "Performance Tuning"
+    ],
+    "Cloud Platforms & Integration": [
+      "AWS (RDS, CloudWatch, IAM)",
+      "Azure (Database Services, Storage)",
+      "Salesforce Cloud Integration",
+      "Hybrid Cloud Architecture",
+      "Cloud Migration"
+    ],
+    "Development & API Technologies": [
+      "Linux/Unix Systems",
+      "Git Version Control",
+      "RESTful APIs",
+      "GraphQL",
+      "Spring Boot",
+      "JavaScript",
+      "ServiceNow Integration"
+    ],
+    "Healthcare Compliance & Security": [
+      "HIPAA Compliance",
+      "Data Encryption",
+      "Access Control",
+      "Audit Logging",
+      "Data Governance",
+      "Security Protocols"
+    ],
+    "Monitoring & Operations": [
+      "Performance Monitoring",
+      "Backup & Recovery",
+      "Disaster Recovery",
+      "AWS CloudWatch",
+      "Automated Alerts",
+      "Capacity Planning"
+    ],
+    "Manufacturing & Consulting": [
+      "ServiceNow IRM",
+      "Quality Management Systems",
+      "ETL Processes",
+      "Data Warehousing",
+      "Business Intelligence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Database Engineer",
+      "client": "Cardinal Health",
+      "duration": "2025-Jan - Present",
+      "location": "Dublin, Ohio, USA",
+      "responsibilities": [
+        "Built highly available Postgres clusters on AWS RDS to support critical healthcare supply chain applications, implementing multi-AZ deployments and automated failover mechanisms that ensured continuous operations for hospital inventory management systems during regional outages.",
+        "Engineered Hasura GraphQL APIs for real-time data access across healthcare distribution networks, creating optimized query patterns that reduced data retrieval latency for pharmacy inventory tracking while maintaining strict access controls for sensitive medication information.",
+        "Applied advanced Postgres partitioning strategies to manage billions of healthcare transaction records, designing time-based partitioning schemes that improved query performance for regulatory reporting while simplifying data archiving processes for compliance requirements.",
+        "Utilized AWS CloudWatch and custom monitoring scripts to track database performance metrics across healthcare systems, setting up automated alerts for capacity thresholds and performance degradation that allowed proactive maintenance before issues affected clinical operations.",
+        "Integrated Salesforce Cloud with healthcare databases to streamline customer relationship management, developing data synchronization workflows that automatically updated patient service records while maintaining HIPAA-compliant audit trails for all data access activities.",
+        "Operationalized database security measures including encryption-at-rest and SSL connections for all healthcare data transfers, working with security teams to implement comprehensive protection strategies that met pharmaceutical industry compliance standards.",
+        "Worked closely with application developers to design efficient data models for new healthcare analytics platforms, providing database expertise that helped teams avoid common performance pitfalls while ensuring scalability for growing data volumes.",
+        "Collaborated with infrastructure teams to plan database capacity for seasonal healthcare demand fluctuations, analyzing usage patterns and provisioning additional resources ahead of peak vaccination periods to maintain consistent system performance.",
+        "Contributed to incident response procedures for database-related healthcare system issues, developing runbooks and troubleshooting guides that helped operations teams quickly resolve problems affecting patient care delivery systems.",
+        "Helped migrate legacy healthcare databases from older systems to modern Postgres implementations, carefully planning data migration sequences that minimized downtime for critical medical supply chain applications during transition periods.",
+        "Got involved in database performance tuning for complex healthcare reporting queries, analyzing execution plans and implementing strategic indexes that dramatically improved response times for regulatory compliance dashboards.",
+        "Worked with data governance teams to establish database standards for healthcare applications, creating documentation templates and review processes that ensured consistent data management practices across multiple development teams.",
+        "Led knowledge sharing sessions on Postgres best practices for healthcare data management, mentoring junior team members on database design principles and performance optimization techniques specific to regulated medical environments.",
+        "Developed automated backup verification procedures for critical healthcare databases, creating validation scripts that confirmed data recoverability and gave operations teams confidence in disaster recovery capabilities for patient information systems."
+      ],
+      "environment": [
+        "PostgreSQL",
+        "AWS RDS",
+        "Hasura GraphQL",
+        "AWS CloudWatch",
+        "Salesforce Cloud",
+        "Linux Systems",
+        "HIPAA Compliance",
+        "Data Encryption",
+        "SQL Optimization",
+        "Database Partitioning"
+      ]
+    },
+    {
+      "role": "Database Engineer",
+      "client": "Milwaukee Tool",
+      "duration": "2024-Jun - 2025-Jan",
+      "location": "Brookfield, Wisconsin, USA",
+      "responsibilities": [
+        "Built manufacturing data warehouses using Postgres to consolidate production metrics from multiple factory systems, designing ETL processes that transformed raw manufacturing data into structured formats for operational reporting and quality analysis.",
+        "Engineered ServiceNow IRM integrations with manufacturing databases to track tool production risks and compliance issues, developing custom workflows that automated risk assessment reporting and alerted quality teams about potential production deviations.",
+        "Applied JavaScript and REST APIs to create data access layers for manufacturing execution systems, building middleware services that connected shop floor data collection devices with central quality management databases in real-time.",
+        "Utilized Angular JS frontends for manufacturing dashboards that visualized production line performance, working with UI developers to ensure efficient data loading patterns that provided responsive user experiences for factory operations teams.",
+        "Operationalized database performance monitoring for manufacturing systems using custom scripts and ServiceNow alerts, tracking query performance and resource utilization to identify optimization opportunities in high-volume production environments.",
+        "Worked closely with manufacturing engineers to design database schemas for new product lines, creating data models that captured detailed production specifications while maintaining flexibility for engineering change orders and process improvements.",
+        "Collaborated with quality assurance teams to implement data validation rules in manufacturing databases, developing constraint checks and data quality monitors that prevented incorrect production parameters from affecting tool manufacturing processes.",
+        "Contributed to manufacturing compliance reporting by optimizing database queries for regulatory submissions, restructuring complex joins and adding strategic indexes that accelerated data extraction for safety certification documentation.",
+        "Helped troubleshoot database connectivity issues between manufacturing plants and corporate systems, analyzing network configurations and database connection pools to resolve intermittent timeout problems affecting production data synchronization.",
+        "Got experience with database security implementations for manufacturing intellectual property, configuring access controls that protected proprietary tool designs and production processes while allowing appropriate access for authorized engineering teams."
+      ],
+      "environment": [
+        "PostgreSQL",
+        "ServiceNow",
+        "ServiceNow IRM",
+        "JavaScript",
+        "REST APIs",
+        "Angular JS",
+        "Manufacturing Systems",
+        "Data Warehousing",
+        "ETL Processes",
+        "Quality Management"
+      ]
+    },
+    {
+      "role": "Associate Database Engineer",
+      "client": "Spartex AI",
+      "duration": "2023-Aug - 2024-Jan",
+      "location": "Austin, Texas, USA",
+      "responsibilities": [
+        "Built Spring Boot applications with Postgres backends for AI training data management, creating RESTful APIs that handled large volumes of annotated datasets while maintaining data consistency across distributed machine learning pipelines.",
+        "Engineered database schemas for AI model metadata and performance tracking, designing relational models that captured training parameters, validation results, and model versioning information for machine learning operations workflows.",
+        "Applied OAuth security implementations to protect AI platform databases, configuring token-based authentication that secured sensitive training data while allowing appropriate access for data science teams and automated processing jobs.",
+        "Utilized SQL query optimization techniques to improve performance for AI data retrieval operations, analyzing execution plans and implementing appropriate indexes that accelerated feature extraction from large training datasets.",
+        "Operationalized database backup strategies for critical AI research data, implementing automated snapshot policies and point-in-time recovery capabilities that protected against data loss during model experimentation and development cycles.",
+        "Worked closely with data scientists to understand database requirements for machine learning experiments, providing database support that enabled efficient data access patterns for feature engineering and model training activities.",
+        "Collaborated with DevOps teams to containerize database environments for AI development, creating Docker configurations that provided consistent Postgres instances across development, testing, and production environments.",
+        "Contributed to API documentation for AI platform data services, creating clear examples and usage guidelines that helped application developers integrate database functionality into their machine learning applications effectively."
+      ],
+      "environment": [
+        "Java",
+        "PostgreSQL",
+        "Spring Boot",
+        "RESTful APIs",
+        "OAuth",
+        "AI/ML Platforms",
+        "Docker",
+        "SQL Optimization",
+        "Data Modeling",
+        "API Documentation"
+      ]
+    },
+    {
+      "role": "Junior Database Developer",
+      "client": "L&T Technology Services",
+      "duration": "2018 Jan - 2023-Jul",
+      "location": "Texas-Austin",
+      "responsibilities": [
+        "Built basic database structures for engineering consulting projects, creating tables, views, and stored procedures that supported various client applications while learning proper database design principles from senior team members.",
+        "Engineered simple data access layers using basic SQL queries and application integrations, developing my understanding of how databases connect to frontend applications and business logic layers in enterprise consulting environments.",
+        "Applied fundamental database security concepts by implementing user roles and permissions, working under guidance to configure access controls that met client security requirements for sensitive engineering project data.",
+        "Utilized basic monitoring tools to track database performance for consulting applications, learning how to identify slow queries and simple optimization opportunities through observation and mentorship from experienced database developers.",
+        "Operationalized routine database maintenance tasks including backups and index rebuilds, following established procedures to ensure database health while developing my understanding of database administration fundamentals.",
+        "Worked closely with senior developers on database design for consulting projects, absorbing knowledge about data modeling best practices and gradually taking on more responsibility for smaller database components over time."
+      ],
+      "environment": [
+        "PostgreSQL",
+        "Basic SQL",
+        "Database Design",
+        "Stored Procedures",
+        "User Management",
+        "Backup Procedures",
+        "Performance Monitoring",
+        "Consulting Projects"
+      ]
+    },
+    {
+      "role": "Database Developer",
+      "client": "Tata Consultancy Services (TCS)",
+      "duration": "2015-Feb - 2017-Dec",
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Built my first database applications under close supervision, creating simple tables and queries for internal business systems while learning fundamental database concepts and development methodologies in a structured corporate environment.",
+        "Engineered basic data retrieval operations for reporting needs, writing straightforward SQL queries that extracted information from operational systems and formatted it for business analysis purposes as part of my initial training.",
+        "Applied version control practices to database script management, learning how to properly track changes to database objects and collaborate with team members on shared database development projects in my first professional role.",
+        "Utilized documentation templates for database design specifications, developing habits for thorough documentation that would become important throughout my career as I worked on increasingly complex database systems.",
+        "Operationalized my understanding of software development lifecycles by participating in team meetings and code reviews, absorbing knowledge about how database development integrates with broader application development processes in enterprise settings."
+      ],
+      "environment": [
+        "Basic PostgreSQL",
+        "SQL Fundamentals",
+        "Version Control",
+        "Documentation",
+        "Development Lifecycle",
+        "Team Collaboration",
+        "Business Systems",
+        "Reporting Queries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

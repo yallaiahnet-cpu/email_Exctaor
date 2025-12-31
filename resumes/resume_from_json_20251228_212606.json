@@ -1,0 +1,289 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Engineer | Healthcare Data Infrastructure Specialist",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "Linked In",
+    "github": ""
+  },
+  "professional_summary": [
+    "Having 6 years of experience building production-grade data pipelines and ETL systems across Insurance, Technology, Transportation, and Banking domains with strong focus on reliability, scalability, and data quality.",
+    "Developed data warehouse architectures using Databricks Delta Lake and SQL optimization techniques to process healthcare claims data while ensuring HIPAA compliance and maintaining data lineage across complex multi-source integrations.",
+    "Implemented robust ETL pipelines leveraging DBT for transformation logic and Airflow orchestration to automate incremental data processing workflows reducing manual intervention and improving pipeline reliability for mission-critical analytics.",
+    "Utilized Apache Kafka for real-time streaming ingestion of clinical events and Apache Spark for distributed batch processing enabling scalable big data analytics on petabyte-scale datasets with optimized partition strategies.",
+    "Configured Databricks Unity Catalog for centralized metadata management and data governance establishing role-based access controls and audit trails to meet regulatory compliance requirements across enterprise data platforms.",
+    "Integrated HL7 and FHIR healthcare data standards into pipeline architectures to normalize disparate clinical system outputs ensuring interoperability between EHR systems and downstream analytics consumers.",
+    "Applied Python and PySpark for custom data transformation logic handling complex business rules and data quality validations while maintaining code modularity and reusability across multiple pipeline implementations.",
+    "Deployed CI/CD automation using GitHub Actions for data pipeline testing and deployment implementing automated data quality checks with Great Expectations framework catching anomalies before production release.",
+    "Managed Azure Data Lake Storage and Synapse Analytics infrastructure for cloud-based data warehousing optimizing storage costs through intelligent tiering and compression strategies while maintaining query performance.",
+    "Collaborated with data scientists and analytics teams to understand downstream requirements translating business logic into efficient SQL queries and dimensional data models following Kimball methodology for star schema designs.",
+    "Monitored production pipelines using Datadog and CloudWatch implementing proactive alerting for pipeline failures and performance degradation enabling rapid incident response and minimizing data SLA violations.",
+    "Handled error recovery and retry logic in Dagster workflows ensuring idempotent operations and graceful failure handling for transient issues in distributed data processing environments.",
+    "Optimized database performance through indexing strategies and query tuning reducing compute costs and improving end-user query response times for high-volume analytical workloads on healthcare datasets.",
+    "Secured sensitive PHI data using encryption at rest and in transit implementing secrets management with Azure Key Vault and maintaining comprehensive audit logs for compliance verification during regulatory reviews."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Java",
+      "TypeScript",
+      "PySpark",
+      "Scala"
+    ],
+    "ETL & Orchestration Tools": [
+      "DBT",
+      "Airflow",
+      "Dagster",
+      "Azure Data Factory",
+      "Databricks Workflows",
+      "Apache NiFi"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Kafka Connect",
+      "Hadoop",
+      "Parquet",
+      "ORC"
+    ],
+    "Data Warehouse & Databases": [
+      "Databricks",
+      "Delta Lake",
+      "Azure Synapse Analytics",
+      "Snowflake",
+      "PostgreSQL",
+      "SQL Server",
+      "MongoDB"
+    ],
+    "Cloud Platforms": [
+      "Azure Data Lake Storage",
+      "Azure Blob Storage",
+      "AWS S3",
+      "AWS Glue",
+      "AWS Lambda",
+      "Azure Functions"
+    ],
+    "Data Governance & Catalog": [
+      "Databricks Unity Catalog",
+      "Azure Purview",
+      "Data Lineage Tools",
+      "Metadata Management"
+    ],
+    "Healthcare Data Standards": [
+      "HL7",
+      "FHIR",
+      "HIPAA Compliance",
+      "PHI Data Protection",
+      "Healthcare Interoperability"
+    ],
+    "Data Quality & Testing": [
+      "Great Expectations",
+      "Soda",
+      "DBT Tests",
+      "Data Validation Frameworks"
+    ],
+    "DevOps & CI/CD": [
+      "GitHub Actions",
+      "GitLab CI",
+      "Terraform",
+      "Infrastructure as Code",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Monitoring & Observability": [
+      "Datadog",
+      "Azure Monitor",
+      "CloudWatch",
+      "PagerDuty",
+      "Grafana",
+      "Prometheus"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "GitHub",
+      "Bitbucket",
+      "Code Review Practices"
+    ],
+    "LLM Frameworks & AI": [
+      "LangChain",
+      "LlamaIndex",
+      "Guardrails AI",
+      "Model Context Protocol",
+      "RAG Systems",
+      "Agentic Workflows"
+    ]
+  },
+  "experience": [
+    {
+      "client": "Northwestern Mutual",
+      "role": "AI Developer",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Built scalable ETL pipelines using DBT and Airflow orchestration to process insurance claims data from multiple sources ensuring HIPAA compliance through encrypted data transmission and audit logging mechanisms.",
+        "Configured Databricks Unity Catalog for enterprise data governance establishing role-based permissions and metadata lineage tracking across insurance product datasets enabling regulatory compliance verification during audits.",
+        "Integrated Apache Kafka streams for real-time ingestion of policy transaction events processing high-volume message queues with fault-tolerant consumer groups reducing data latency from hours to near real-time.",
+        "Deployed Python-based data quality validation frameworks using Great Expectations to catch schema drift and anomalies in upstream insurance systems preventing downstream analytics failures and maintaining SLA commitments.",
+        "Optimized SQL queries on Azure Synapse Analytics reducing query execution time for actuarial reporting workloads through intelligent indexing and partition pruning strategies lowering compute costs significantly.",
+        "Collaborated with insurance domain experts to translate complex underwriting business rules into dimensional star schema models in Delta Lake enabling self-service analytics for risk assessment teams.",
+        "Managed incremental data processing patterns using DBT snapshots and merge operations handling slowly changing dimensions for customer policy history while maintaining data consistency across fact tables.",
+        "Implemented CI/CD pipelines with GitHub Actions automating DBT model testing and deployment to production environments ensuring code quality standards and reducing manual release errors.",
+        "Applied PySpark for distributed transformation of large-scale claims datasets utilizing broadcast joins and repartitioning techniques to handle skewed data distributions and improve processing throughput.",
+        "Monitored production data pipelines using Azure Monitor and Datadog setting up proactive alerts for pipeline failures and data freshness violations enabling rapid incident response and root cause analysis.",
+        "Secured sensitive policyholder information using Azure Key Vault for secrets management and implementing column-level encryption for PHI data fields meeting stringent insurance regulatory requirements.",
+        "Developed custom Python UDFs in Databricks to handle complex premium calculation logic and rate adjustments consolidating scattered business rules into maintainable reusable functions.",
+        "Leveraged LangChain and RAG systems to create AI-powered chatbots for internal insurance policy lookup automating information retrieval from unstructured policy documents reducing manual research time.",
+        "Facilitated cross-functional collaboration with actuarial and analytics teams conducting code reviews and documentation sessions ensuring knowledge transfer and maintaining pipeline maintainability standards."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "SQL",
+        "DBT",
+        "Airflow",
+        "Dagster",
+        "Apache Kafka",
+        "Apache Spark",
+        "PySpark",
+        "Databricks",
+        "Delta Lake",
+        "Unity Catalog",
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Data Lake Storage",
+        "Azure Key Vault",
+        "Azure Monitor",
+        "Datadog",
+        "GitHub Actions",
+        "Great Expectations",
+        "Parquet",
+        "HIPAA Compliance",
+        "LangChain",
+        "LlamaIndex",
+        "Guardrails AI",
+        "Model Context Protocol",
+        "RAG",
+        "Agentic Workflows",
+        "Multi-agent Systems"
+      ]
+    },
+    {
+      "client": "Spartex AI",
+      "role": "LLM Developer",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Constructed end-to-end data pipelines using Airflow DAGs and DBT models to extract transform and load customer interaction data from REST APIs into AWS S3 data lake supporting ML model training workflows.",
+        "Established data quality testing framework with Soda implementing automated validation checks on input datasets catching schema violations and null value anomalies before they propagated to downstream systems.",
+        "Utilized Apache Spark on AWS EMR for batch processing of petabyte-scale log data applying custom aggregation logic and window functions to derive user behavior metrics for product analytics dashboards.",
+        "Designed dimensional data warehouse schema in Databricks following Kimball methodology creating fact and dimension tables for customer engagement metrics enabling efficient OLAP query performance.",
+        "Automated infrastructure provisioning using Terraform defining reusable modules for Databricks clusters S3 buckets and IAM policies reducing manual configuration effort and ensuring environment consistency.",
+        "Processed streaming event data with Kafka Connect integrating multiple source connectors to capture real-time application logs and user activity enabling low-latency analytics and monitoring capabilities.",
+        "Tuned SQL query performance on AWS Athena analyzing query execution plans and implementing partition pruning strategies reducing scan volumes and improving query response times for business intelligence reports.",
+        "Coordinated with data science teams to understand feature engineering requirements translating analytical specifications into efficient PySpark transformations generating training datasets for recommendation algorithms.",
+        "Incorporated LlamaIndex for document indexing and retrieval workflows building semantic search capabilities over technical documentation corpus improving developer productivity through intelligent information access.",
+        "Maintained comprehensive data lineage documentation tracking data flow from source systems through transformation layers to final consumption points facilitating impact analysis during schema change discussions."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "SQL",
+        "PySpark",
+        "DBT",
+        "Airflow",
+        "Apache Spark",
+        "Apache Kafka",
+        "Kafka Connect",
+        "Databricks",
+        "Delta Lake",
+        "AWS S3",
+        "AWS EMR",
+        "AWS Athena",
+        "AWS Glue",
+        "AWS Lambda",
+        "Terraform",
+        "Soda",
+        "Parquet",
+        "REST APIs",
+        "LangChain",
+        "LlamaIndex",
+        "Guardrails AI",
+        "Model Context Protocol",
+        "RAG",
+        "Agentic Workflows",
+        "Prompt Orchestration"
+      ]
+    },
+    {
+      "client": "Ola",
+      "role": "Machine Learning Engineer",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "Assembled batch ETL workflows using Python scripts and Airflow orchestration extracting ride-hailing transaction data from PostgreSQL databases transforming records through validation rules and loading into AWS S3 partitioned structures.",
+        "Produced real-time streaming pipelines with Apache Kafka consuming GPS location events from mobile devices and applying geospatial transformations using PySpark enabling dynamic surge pricing calculations.",
+        "Standardized data ingestion patterns across multiple transportation service verticals implementing reusable Airflow operators and Python libraries reducing duplicate code and improving pipeline development velocity.",
+        "Analyzed query performance bottlenecks in ride analytics database optimizing join operations and creating covering indexes cutting report generation time enabling faster decision-making for operations teams.",
+        "Supported data migration initiatives moving historical ride data from on-premise Hadoop clusters to AWS cloud infrastructure using AWS Glue jobs ensuring data integrity through checksum validation.",
+        "Transformed raw driver behavioral data into aggregated metrics using Spark SQL window functions computing rolling averages and percentile ranks supporting driver performance evaluation systems.",
+        "Documented technical architecture and data flow diagrams for transportation analytics platform maintaining runbooks for common pipeline failure scenarios improving team knowledge sharing and reducing resolution time.",
+        "Debugged production data quality issues investigating root causes of duplicate records and missing timestamps in ride completion events implementing idempotent processing logic to handle reprocessing scenarios."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PySpark",
+        "Airflow",
+        "Apache Kafka",
+        "Apache Spark",
+        "AWS S3",
+        "AWS Glue",
+        "AWS Lambda",
+        "PostgreSQL",
+        "Parquet",
+        "REST APIs",
+        "Geospatial Analytics"
+      ]
+    },
+    {
+      "client": "ICICI Bank",
+      "role": "Azure Data Engineer",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Generated batch data pipelines using Azure Data Factory to extract banking transaction data from SQL Server databases applying transformation rules for regulatory reporting and loading into Azure Data Lake Storage.",
+        "Validated data quality for customer account information implementing Python validation scripts checking referential integrity and business rule compliance preventing downstream analytics errors.",
+        "Organized incremental load patterns for transaction history tables using watermark columns and merge logic in Azure Synapse Analytics reducing full table scans and optimizing nightly batch processing windows.",
+        "Assisted database administrators with performance tuning efforts analyzing slow-running queries and recommending index modifications improving reporting dashboard load times for business users.",
+        "Configured Azure Key Vault integration for secure credential management in data pipelines eliminating hardcoded passwords and meeting banking security audit requirements.",
+        "Participated in code review sessions for data pipeline changes providing feedback on SQL query optimization and error handling patterns helping team members improve code quality standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Data Lake Storage",
+        "Azure Key Vault",
+        "SQL Server",
+        "Parquet"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

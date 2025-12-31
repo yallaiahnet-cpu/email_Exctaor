@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #00c9ff;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .upload-section {
+            background: #f8f9fa;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+            border: 2px dashed #00c9ff;
+        }
+        
+        .upload-section h2 {
+            margin-bottom: 20px;
+            color: #333;
+            font-size: 1.3em;
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+        
+        .input-group input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            cursor: pointer;
+        }
+        
+        .input-group textarea {
+            width: 100%;
+            min-height: 200px;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            resize: vertical;
+        }
+        
+        .input-group textarea:focus {
+            outline: none;
+            border-color: #00c9ff;
+            box-shadow: 0 0 0 3px rgba(0, 201, 255, 0.1);
+        }
+        
+        .radio-group {
+            display: flex;
+            gap: 20px;
+            margin-top: 10px;
+        }
+        
+        .radio-group label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            font-weight: normal;
+        }
+        
+        .radio-group input[type="radio"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+        
+        button {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 201, 255, 0.4);
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 201, 255, 0.6);
+        }
+        
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .error {
+            color: #dc3545;
+            margin-top: 15px;
+            padding: 12px;
+            background: #f8d7da;
+            border-radius: 8px;
+            border-left: 4px solid #dc3545;
+            display: none;
+        }
+        
+        .success {
+            color: #28a745;
+            margin-top: 15px;
+            padding: 12px;
+            background: #d4edda;
+            border-radius: 8px;
+            border-left: 4px solid #28a745;
+            display: none;
+        }
+        
+        .download-section {
+            margin-top: 30px;
+            padding: 20px;
+            background: #e8f5e9;
+            border-radius: 12px;
+            display: none;
+        }
+        
+        .download-section h3 {
+            color: #2e7d32;
+            margin-bottom: 15px;
+        }
+        
+        .download-links {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .download-btn {
+            background: #28a745;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        
+        .download-btn:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #00c9ff;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .info-text {
+            font-size: 0.85em;
+            color: #666;
+            margin-top: 5px;
+            font-style: italic;
+        }
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -24px -24px 20px -24px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <h1>📄 Resume Generator</h1>
+        <p class="subtitle">Upload JSON resume or paste JSON content to generate DOCX and PDF</p>
+        
+        <div class="upload-section">
+            <h2>Resume JSON Input</h2>
+            
+            <div class="input-group">
+                <label for="resumeFile">Option 1: Upload Resume JSON File</label>
+                <input type="file" id="resumeFile" accept=".json">
+                <div class="info-text">Select a JSON file from your computer</div>
+            </div>
+            
+            <div style="text-align: center; margin: 20px 0; color: #999;">OR</div>
+            
+            <div class="input-group">
+                <label for="resumeJson">Option 2: Paste JSON Content</label>
+                <textarea id="resumeJson" placeholder='Paste your resume JSON here...'></textarea>
+                <div class="info-text">Paste the complete JSON resume data directly</div>
+            </div>
+            
+            <div class="input-group">
+                <label>Output Format:</label>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="format" value="both" checked>
+                        Both DOCX & PDF
+                    </label>
+                    <label>
+                        <input type="radio" name="format" value="docx">
+                        DOCX Only
+                    </label>
+                    <label>
+                        <input type="radio" name="format" value="pdf">
+                        PDF Only
+                    </label>
+                </div>
+            </div>
+            
+            <button id="generateBtn" onclick="generateResume()">🚀 Generate Resume</button>
+            
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Generating resume... Please wait</p>
+            </div>
+            
+            <div id="errorMsg" class="error"></div>
+            <div id="successMsg" class="success"></div>
+        </div>
+        
+        <div class="download-section" id="downloadSection">
+            <h3>✅ Resume Generated Successfully!</h3>
+            <div class="download-links" id="downloadLinks"></div>
+        </div>
+    </div>
+    
+    <script>
+        async function generateResume() {
+            const resumeFile = document.getElementById('resumeFile').files[0];
+            const resumeJson = document.getElementById('resumeJson').value.trim();
+            const format = document.querySelector('input[name="format"]:checked').value;
+            const generateBtn = document.getElementById('generateBtn');
+            const loading = document.getElementById('loading');
+            const errorMsg = document.getElementById('errorMsg');
+            const successMsg = document.getElementById('successMsg');
+            const downloadSection = document.getElementById('downloadSection');
+            const downloadLinks = document.getElementById('downloadLinks');
+            
+            // Reset UI
+            errorMsg.style.display = 'none';
+            successMsg.style.display = 'none';
+            downloadSection.style.display = 'none';
+            downloadLinks.innerHTML = '';
+            
+            // Validate input
+            if (!resumeFile && !resumeJson) {
+                errorMsg.textContent = 'Please either upload a JSON file or paste JSON content';
+                errorMsg.style.display = 'block';
+                return;
+            }
+            
+            // Show loading
+            generateBtn.disabled = true;
+            loading.style.display = 'block';
+            
+            try {
+                let jsonData;
+                
+                if (resumeFile) {
+                    // Read file
+                    const fileContent = await readFileAsText(resumeFile);
+                    jsonData = JSON.parse(fileContent);
+                } else {
+                    // Parse pasted JSON
+                    jsonData = JSON.parse(resumeJson);
+                }
+                
+                // Create FormData
+                const formData = new FormData();
+                formData.append('resume_json', JSON.stringify(jsonData));
+                formData.append('format', format);
+                
+                // Send to backend
+                const response = await fetch('/generate_resume_from_json_advanced', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok && result.success) {
+                    // Show success
+                    successMsg.textContent = 'Resume generated successfully!';
+                    successMsg.style.display = 'block';
+                    
+                    // Show download links
+                    downloadSection.style.display = 'block';
+                    
+                    if (result.docx_path) {
+                        const docxLink = document.createElement('a');
+                        docxLink.href = `/download_resume?path=${encodeURIComponent(result.docx_path)}`;
+                        docxLink.className = 'download-btn';
+                        docxLink.textContent = '📥 Download DOCX';
+                        docxLink.download = result.docx_path.split('/').pop();
+                        downloadLinks.appendChild(docxLink);
+                    }
+                    
+                    if (result.pdf_path) {
+                        const pdfLink = document.createElement('a');
+                        pdfLink.href = `/download_resume?path=${encodeURIComponent(result.pdf_path)}`;
+                        pdfLink.className = 'download-btn';
+                        pdfLink.textContent = '📥 Download PDF';
+                        pdfLink.download = result.pdf_path.split('/').pop();
+                        downloadLinks.appendChild(pdfLink);
+                    }
+                } else {
+                    throw new Error(result.error || 'Failed to generate resume');
+                }
+            } catch (error) {
+                errorMsg.textContent = `Error: ${error.message}`;
+                errorMsg.style.display = 'block';
+            } finally {
+                generateBtn.disabled = false;
+                loading.style.display = 'none';
+            }
+        }
+        
+        function readFileAsText(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = (e) => resolve(e.target.result);
+                reader.onerror = (e) => reject(new Error('Failed to read file'));
+                reader.readAsText(file);
+            });
+        }
+        
+        // Auto-fill JSON from file upload
+        document.getElementById('resumeFile').addEventListener('change', async function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                try {
+                    const content = await readFileAsText(file);
+                    document.getElementById('resumeJson').value = content;
+                } catch (error) {
+                    console.error('Error reading file:', error);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+

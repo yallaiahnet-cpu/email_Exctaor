@@ -1,0 +1,265 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Frontend Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "Utilized React.js to build scalable user interfaces for insurance claim processing, improving user experience by addressing slow loading times through code splitting and lazy loading.",
+    "Developed reusable React components for healthcare dashboards, ensuring compliance with HIPAA regulations and reducing development time by 40%.",
+    "Integrated RESTful APIs using Axios in a banking application, enhancing data retrieval efficiency and improving transaction processing speed.",
+    "Implemented Redux for state management in a fintech platform, streamlining data flow and reducing bugs related to state inconsistencies.",
+    "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+    "Ensured code quality through Jest unit testing and ESLint in a consulting project, achieving 95% test coverage and minimizing runtime errors.",
+    "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+    "Used Webpack and Babel to bundle and transpile code, reducing bundle size by 30% and improving application load times.",
+    "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+    "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in a large-scale project.",
+    "Integrated Material UI components to standardize design across applications, reducing UI development time by 50%.",
+    "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+    "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+    "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+    "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+    "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+    "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience.",
+    "Stayed updated with latest frontend trends and technologies, continuously improving skills and contributing to team growth."
+  ],
+  "technical_skills": {
+    "Frontend Development": [
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "TypeScript",
+      "Next.js",
+      "React Native"
+    ],
+    "State Management": [
+      "Redux",
+      "Context API",
+      "Zustand",
+      "MobX"
+    ],
+    "Build Tools": [
+      "Webpack",
+      "Babel",
+      "Vite"
+    ],
+    "Testing": [
+      "Jest",
+      "React Testing Library",
+      "ESLint"
+    ],
+    "UI Libraries": [
+      "Material UI",
+      "Tailwind CSS",
+      "shadcn/ui"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub"
+    ],
+    "APIs & Integration": [
+      "REST APIs",
+      "GraphQL",
+      "Axios"
+    ],
+    "DevOps": [
+      "CI/CD",
+      "Docker",
+      "GitHub Actions"
+    ],
+    "Backend Basics": [
+      "Node.js",
+      "Express"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using React.js, built scalable user interfaces for insurance claim processing, addressing slow loading times through code splitting and lazy loading, improving user experience.",
+        "Integrated RESTful APIs with Axios to enhance data retrieval efficiency, reducing API call latency by 30% in real-time claim processing systems.",
+        "Implemented Redux for state management, streamlining data flow and reducing state-related bugs by 40% in complex insurance workflows.",
+        "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+        "Ensured code quality through Jest unit testing and ESLint, achieving 95% test coverage and minimizing runtime errors in critical insurance modules.",
+        "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+        "Used Webpack and Babel to bundle and transpile code, reducing bundle size by 30% and improving application load times.",
+        "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+        "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in large-scale insurance projects.",
+        "Integrated Material UI components to standardize design across applications, reducing UI development time by 50%.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+        "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+        "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+        "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+        "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+        "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "Redux",
+        "Webpack",
+        "Jest",
+        "Material UI",
+        "TypeScript",
+        "Docker",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed reusable React components for healthcare dashboards, ensuring compliance with HIPAA regulations and reducing development time by 40%.",
+        "Integrated RESTful APIs using Axios in a healthcare application, enhancing data retrieval efficiency and improving patient data processing speed.",
+        "Implemented Context API for state management, simplifying data flow and reducing bugs related to state inconsistencies in healthcare workflows.",
+        "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+        "Ensured code quality through Jest unit testing and ESLint, achieving 95% test coverage and minimizing runtime errors in critical healthcare modules.",
+        "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+        "Used Vite for faster development and build times, improving developer experience and reducing feedback loops.",
+        "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+        "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in large-scale healthcare projects.",
+        "Integrated Tailwind CSS for rapid UI development, reducing styling time by 50% and ensuring consistent design.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+        "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+        "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+        "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+        "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+        "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "Context API",
+        "Vite",
+        "Jest",
+        "Tailwind CSS",
+        "TypeScript",
+        "Docker",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built user-facing features using React.js for a government healthcare portal, improving user experience through responsive design and accessibility.",
+        "Integrated RESTful APIs using Axios to fetch and display real-time healthcare data, ensuring accurate and up-to-date information for users.",
+        "Implemented Zustand for state management, simplifying data flow and reducing bugs related to state inconsistencies in healthcare workflows.",
+        "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+        "Ensured code quality through Jest unit testing and ESLint, achieving 95% test coverage and minimizing runtime errors in critical healthcare modules.",
+        "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+        "Used Webpack and Babel to bundle and transpile code, reducing bundle size by 30% and improving application load times.",
+        "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+        "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in large-scale healthcare projects.",
+        "Integrated shadcn/ui components for rapid UI development, reducing styling time by 50% and ensuring consistent design.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+        "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+        "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+        "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+        "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+        "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "Zustand",
+        "Webpack",
+        "Jest",
+        "shadcn/ui",
+        "TypeScript",
+        "Docker",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed user-facing features using React.js for a banking application, improving user experience through responsive design and accessibility.",
+        "Integrated RESTful APIs using Axios to fetch and display real-time banking data, ensuring accurate and up-to-date information for users.",
+        "Implemented MobX for state management, simplifying data flow and reducing bugs related to state inconsistencies in banking workflows.",
+        "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+        "Ensured code quality through Jest unit testing and ESLint, achieving 95% test coverage and minimizing runtime errors in critical banking modules.",
+        "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+        "Used Webpack and Babel to bundle and transpile code, reducing bundle size by 30% and improving application load times.",
+        "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+        "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in large-scale banking projects.",
+        "Integrated Material UI components for rapid UI development, reducing styling time by 50% and ensuring consistent design.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+        "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+        "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+        "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+        "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+        "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "MobX",
+        "Webpack",
+        "Jest",
+        "Material UI",
+        "TypeScript",
+        "Docker",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built user-facing features using React.js for a consulting firm\u2019s client portal, improving user experience through responsive design and accessibility.",
+        "Integrated RESTful APIs using Axios to fetch and display real-time client data, ensuring accurate and up-to-date information for users.",
+        "Implemented Context API for state management, simplifying data flow and reducing bugs related to state inconsistencies in consulting workflows.",
+        "Collaborated with backend teams to optimize GraphQL queries, improving API response times and enhancing overall application performance.",
+        "Ensured code quality through Jest unit testing and ESLint, achieving 95% test coverage and minimizing runtime errors in critical consulting modules.",
+        "Participated in code reviews and pair programming sessions, sharing knowledge and improving team productivity by 25%.",
+        "Used Webpack and Babel to bundle and transpile code, reducing bundle size by 30% and improving application load times.",
+        "Implemented responsive design using CSS Grid and Flexbox, ensuring seamless user experience across devices and browsers.",
+        "Worked with TypeScript to enhance code maintainability and catch errors early, improving development efficiency in large-scale consulting projects.",
+        "Integrated Tailwind CSS for rapid UI development, reducing styling time by 50% and ensuring consistent design.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes and reducing manual effort.",
+        "Used Docker to containerize React applications, ensuring consistent environments across development, testing, and production.",
+        "Optimized frontend performance using Lighthouse audits, improving page load times and enhancing user satisfaction.",
+        "Collaborated with UX designers to implement user-centric designs, improving user engagement by 35%.",
+        "Documented code and development processes, facilitating knowledge transfer and onboarding for new team members.",
+        "Troubleshot and debugged complex frontend issues, ensuring smooth application functionality and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "Context API",
+        "Webpack",
+        "Jest",
+        "Tailwind CSS",
+        "TypeScript",
+        "Docker",
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

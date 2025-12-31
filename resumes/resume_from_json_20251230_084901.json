@@ -1,0 +1,328 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Engineer - Healthcare & Enterprise Applications",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Application Engineering and Data Engineering, specializing in building and supporting enterprise healthcare IT systems with a focus on HIPAA-compliant data processing and real-time analytics using cloud platforms.",
+    "Leveraging Python and SQL Server to architect batch ETL pipelines and streaming data solutions for healthcare care management systems, ensuring data integrity across legacy and modern microservices architectures while supporting production applications.",
+    "Implementing Apache Spark and Databricks on AWS to transform complex healthcare datasets, enabling advanced analytics and reporting through Power BI while maintaining strict adherence to regulatory requirements like HIPAA and FDA guidelines.",
+    "Designing and deploying RESTful Services using ASP.NET Web API to facilitate seamless data exchange between healthcare applications, improving interoperability and supporting HL7 and FHIR standards for patient data management.",
+    "Developing containerized microservices with Docker to enhance the scalability and reliability of enterprise healthcare applications, integrating Kafka for real-time data ingestion from various medical devices and messaging platforms.",
+    "Orchestrating CI/CD automation pipelines to streamline the deployment of healthcare data solutions, incorporating unit testing and integration testing to ensure robust performance in regulated production environments.",
+    "Applying Domain Driven Design principles to model complex healthcare domains, collaborating with cross-functional teams to deliver value-driven solutions that meet evolving business needs and compliance mandates.",
+    "Engineering scalable data solutions on AWS cloud services to handle high-volume healthcare data, optimizing Spark SQL and T-SQL queries for performance and ensuring data security throughout the processing lifecycle.",
+    "Building robust data integration frameworks to connect legacy healthcare systems with modern cloud-based applications, troubleshooting data inconsistencies and implementing corrective measures to ensure accuracy.",
+    "Leading the full design-to-support lifecycle for enterprise healthcare applications, providing second-level application support, conducting root cause analysis, and documenting solutions for knowledge sharing.",
+    "Utilizing Agile and Scrum methodologies to manage project deliverables, adapting to changing priorities in fast-paced healthcare IT environments while maintaining a focus on continuous delivery and quality.",
+    "Architecting streaming data processing systems using Kafka and Spark Streaming to enable real-time monitoring of healthcare metrics, supporting critical decision-making for care management and operational efficiency.",
+    "Collaborating with business stakeholders to analyze requirements and design technical solutions for healthcare data challenges, translating complex regulations into implementable system specifications and data models.",
+    "Mentoring junior engineers on best practices for object-oriented design and production application support in healthcare settings, fostering a culture of technical excellence and compliance awareness.",
+    "Exploring and implementing proof-of-concept solutions using agentic frameworks like Crew AI and LangGraph to automate complex healthcare data workflows, enhancing productivity and system intelligence.",
+    "Optimizing data warehouse performance and ETL processing routines to handle large-scale healthcare datasets, ensuring timely availability of data for reporting and analytical purposes across the organization.",
+    "Integrating messaging platforms and protocols, including RCS and SMS, into healthcare notification systems to improve patient communication and engagement while maintaining data privacy standards.",
+    "Driving the adoption of modern software engineering practices and Azure tools within AWS-centric environments, leveraging cross-platform knowledge to design hybrid solutions that meet specific project constraints."
+  ],
+  "technical_skills": {
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "T-SQL",
+      "Spark SQL",
+      "Scala",
+      "Java",
+      "TypeScript",
+      "Bash/Shell"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (S3, EC2, Lambda, Glue, Redshift)",
+      "Microsoft Azure Tools",
+      "Azure Databricks",
+      "Cloud-Native Architecture"
+    ],
+    "Big Data & Streaming Frameworks": [
+      "Apache Spark",
+      "Apache Kafka",
+      "Spark Streaming",
+      "Apache Flink",
+      "Databricks",
+      "dbt"
+    ],
+    "Databases & Data Warehouses": [
+      "SQL Server",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "AWS RDS",
+      "Google BigQuery"
+    ],
+    "ETL & Data Pipeline Tools": [
+      "AWS Glue",
+      "Apache Airflow",
+      "Informatica",
+      "SSIS",
+      "Batch ETL Processing",
+      "Streaming Data Processing"
+    ],
+    "Web & API Development": [
+      "RESTful Services",
+      "ASP.NET",
+      "Web API",
+      "Microservices Architecture",
+      "Docker",
+      "Flask",
+      "FastAPI"
+    ],
+    "Software Engineering Practices": [
+      "Agile / Scrum",
+      "CI/CD Pipelines",
+      "Domain Driven Design",
+      "Object-Oriented Design",
+      "Unit Testing",
+      "Git"
+    ],
+    "Healthcare IT & Compliance": [
+      "HL7",
+      "FHIR",
+      "HIPAA",
+      "Healthcare Care Management Systems",
+      "Regulated Data Environments"
+    ],
+    "Messaging & Integration": [
+      "Kafka-based Ingestion",
+      "Cisco Messaging Products",
+      "RCS Messaging",
+      "SMS Messaging",
+      "Legacy System Integration"
+    ],
+    "BI, Analytics & Reporting": [
+      "Power BI",
+      "Google Looker",
+      "Tableau",
+      "Data Visualization",
+      "Root Cause Analysis"
+    ],
+    "Containerization & DevOps": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Production Application Support"
+    ],
+    "Application Support & Collaboration": [
+      "Troubleshooting",
+      "L2/L3 Support",
+      "Cross-functional Collaboration",
+      "Requirements Analysis",
+      "Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized Python and Apache Spark on AWS to address slow batch processing of HIPAA-sensitive patient supply chain data, developing optimized ETL pipelines that reduced data refresh cycles from 8 hours to 90 minutes for critical care management reports.",
+        "Architected a microservices-based notification system using Docker and RESTful Web API to resolve unreliable patient communication, implementing Kafka for streaming lab result alerts which improved delivery reliability to 99.8% and supported HL7 message standards.",
+        "Orchestrated CI/CD pipelines with Jenkins and Git to tackle inconsistent deployment of healthcare analytics modules, automating integration testing which cut deployment failures by 70% and accelerated feature releases for enterprise application support.",
+        "Engineered a real-time data ingestion framework using Kafka and Spark Streaming to process high-volume medical device telemetry, constructing windowed aggregates that enabled Power BI dashboards for operational monitoring and HIPAA-compliant audit trails.",
+        "Spearheaded the migration of legacy SQL Server stored procedures to AWS Glue and Python scripts, transforming complex T-SQL logic into modular jobs that enhanced maintainability and performance for financial and inventory reporting needs.",
+        "Championed Domain Driven Design workshops to untangle convoluted healthcare supply chain domains, defining bounded contexts and microservice boundaries that streamlined development and improved cross-functional team alignment on project goals.",
+        "Implemented object-oriented design patterns in Python to refactor a monolithic patient data application, extracting discrete services that boosted scalability and simplified troubleshooting during peak hospital order volumes.",
+        "Pioneered a proof-of-concept using Crew AI and LangGraph agentic frameworks to automate the mapping of vendor data to FHIR resources, creating a multi-agent system that reduced manual mapping effort by 40 hours per week.",
+        "Diagnosed persistent latency in a critical HL7 message processing service, conducting root cause analysis that identified inefficient database queries, rewriting them with optimized Spark SQL joins which slashed response time by 65%.",
+        "Constructed a comprehensive monitoring solution for production microservices using AWS CloudWatch and custom metrics, establishing alerts that provided the support team with faster incident response and reduced system downtime.",
+        "Integrated Cisco messaging protocols into an existing patient notification workflow to expand communication channels, adding RCS and SMS capabilities that increased patient engagement rates for prescription reminders by 25%.",
+        "Led agile sprint planning and daily standups for a team developing a new care management module, fostering collaboration that delivered the feature ahead of schedule while adhering to strict regulatory healthcare data environments.",
+        "Authored detailed technical documentation and runbooks for newly deployed ETL processes and Kafka streams, empowering Level 2 support teams to handle common issues and reducing escalation calls to the engineering team by half.",
+        "Mentored two junior data engineers on Spark optimization techniques and HIPAA compliance requirements, reviewing their code for data handling which improved overall team output and reduced security review iterations.",
+        "Configured and tuned AWS Glue jobs to handle incremental loads from legacy hospital procurement systems, designing a change data capture mechanism that ensured data consistency and supported near-real-time reporting.",
+        "Facilitated knowledge-sharing sessions on streaming data patterns and microservices troubleshooting, drawing from personal experiences debugging Kafka consumer lag which helped the team resolve similar future issues independently."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "T-SQL",
+        "Spark SQL",
+        "SQL Server",
+        "ETL",
+        "AWS",
+        "Apache Spark",
+        "Kafka",
+        "Docker",
+        "RESTful Services",
+        "ASP.NET",
+        "Web API",
+        "CI/CD",
+        "Microservices",
+        "Agile",
+        "Object-Oriented Design",
+        "HL7",
+        "FHIR",
+        "HIPAA",
+        "Power BI",
+        "Production Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Employed Azure Databricks and Spark SQL within an AWS environment to solve claim adjudication data latency, building unified data lake tables that accelerated reporting for insurance compliance audits by 50%.",
+        "Developed a series of ASP.NET Web API microservices to integrate disparate member eligibility checks, containerizing them with Docker to achieve high availability and seamless scaling during open enrollment periods.",
+        "Assembled a CI/CD pipeline using GitHub Actions to automate testing of insurance data transformations, incorporating unit tests that increased code coverage to 85% and reduced post-deployment defects significantly.",
+        "Formulated a streaming data solution with Kafka to ingest real-time provider transaction feeds, applying Spark-based transformations that populated a operational data store for fraud detection analytics.",
+        "Overhauled a legacy batch ETL process for policyholder data using Python and AWS Glue, implementing incremental loading patterns that cut runtime by 60% and ensured timely daily extracts for actuarial teams.",
+        "Guided the adoption of Agile ceremonies and Domain Driven Design thinking for a new premium billing project, breaking down complex insurance domains into manageable services that aligned technical and business models.",
+        "Evaluated and optimized complex T-SQL procedures in SQL Server for medical loss ratio reporting, rewriting them with window functions and proper indexing which improved query performance by over 70%.",
+        "Investigated a critical outage in a member portal data feed, performing root cause analysis that pinpointed a memory leak in a custom .NET application, patching the code to restore service within the SLA.",
+        "Established a robust logging and monitoring pattern for insurance microservices using AWS X-Ray and CloudWatch, enabling the support team to trace transactions and quickly isolate failures in claim processing.",
+        "Synthesized requirements from underwriters and actuaries to design a new data mart for risk assessment, creating dimensional models in Snowflake on AWS that supported advanced analytical models.",
+        "Compiled comprehensive support documentation and training materials for newly implemented data pipelines, conducting sessions with operations staff to ensure smooth handover and second-level support capability.",
+        "Partnered with security architects to enforce data governance policies across insurance data assets, implementing column-level encryption for sensitive member information to meet state insurance regulations.",
+        "Refactored an object-oriented policy calculation engine to improve its testability and maintainability, introducing dependency injection and a repository pattern that simplified future modifications.",
+        "Supported the integration of a third-party telehealth platform by developing REST API adapters, ensuring secure and reliable data exchange while maintaining compliance with healthcare privacy standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "T-SQL",
+        "Spark SQL",
+        "SQL Server",
+        "ETL",
+        "AWS",
+        "Apache Spark",
+        "Kafka",
+        "Docker",
+        "RESTful Services",
+        "ASP.NET",
+        "Web API",
+        "CI/CD",
+        "Microservices",
+        "Agile",
+        "Object-Oriented Design",
+        "Production Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Applied Python and Azure Data Factory to consolidate fragmented public health datasets from county agencies, constructing reliable ETL pipelines that supported statewide pandemic response dashboards and government reporting.",
+        "Created RESTful APIs using ASP.NET Core to expose unemployment claim statistics, enabling authorized external agencies to access near-real-time data while adhering to strict government data sharing agreements.",
+        "Configured Azure DevOps CI/CD pipelines for automated deployment of data processing scripts, reducing manual intervention and ensuring consistent execution across development, test, and production environments.",
+        "Supported the development of a microservices architecture for a new vehicle registration system, contributing to service design and implementation that improved system modularity and fault isolation.",
+        "Enhanced existing SQL Server data warehouses with optimized T-SQL queries and indexing strategies, addressing performance bottlenecks in citizen service reports and reducing report generation time by 40%.",
+        "Participated in Agile sprint teams to deliver enhancements to social services applications, collaborating with business analysts to translate complex government regulations into technical user stories.",
+        "Modified an object-oriented .NET application for processing business license applications, extending its functionality to handle new fee structures and improving its data validation logic.",
+        "Assisted in troubleshooting a data discrepancy in a statewide education funding report, tracing the issue to a misaligned join in a Spark SQL job and correcting the logic to ensure accurate budget allocations.",
+        "Contributed to the documentation of data lineage and transformation rules for critical government datasets, creating diagrams and descriptions that aided in audit preparations and compliance reviews.",
+        "Learned the intricacies of legacy mainframe data extracts to facilitate their migration to Azure-based storage, working alongside senior engineers to decode COBOL copybooks and map data elements.",
+        "Attended daily standups and sprint retrospectives, providing updates on assigned tasks and suggesting process improvements based on challenges encountered during development and testing cycles.",
+        "Performed code reviews for peers working on ETL components, offering constructive feedback on Python scripting and SQL query efficiency to maintain high code quality and performance standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "T-SQL",
+        "SQL Server",
+        "ETL",
+        "Azure",
+        "Azure Data Factory",
+        "RESTful Services",
+        "ASP.NET",
+        "CI/CD",
+        "Microservices",
+        "Agile",
+        "Object-Oriented Design",
+        "Production Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Operated Apache Spark on Azure Databricks to process large-scale credit card transaction data, developing batch jobs that cleansed and aggregated data for fraud detection models while meeting PCI DSS requirements.",
+        "Built a prototype streaming application with Kafka to monitor real-time transaction authorization events, generating alerts for suspicious patterns that enhanced the security team's ability to respond to potential fraud.",
+        "Assisted in setting up a Jenkins-based CI/CD pipeline for financial data applications, automating build and deployment steps that reduced manual errors and improved release consistency.",
+        "Expanded a monolithic financial reporting application by adding new microservices for customer spending analytics, following domain-driven design principles to ensure clear service boundaries and data ownership.",
+        "Improved the performance of critical ETL jobs loading data into Azure SQL Data Warehouse, optimizing Spark configurations and partition strategies which decreased job durations and controlled cloud costs.",
+        "Joined Agile development teams working on customer-facing digital banking features, contributing to sprint tasks and learning the complexities of financial system integration and regulatory compliance.",
+        "Debugged a recurring issue in an object-oriented service calculating reward points, analyzing logs to identify a race condition and implementing thread-safe code to resolve the inaccuracy.",
+        "Provided second-level support for a production application generating monthly statements, investigating user-reported discrepancies and applying hotfixes to correct data processing logic.",
+        "Collaborated with data analysts to understand their reporting needs from new data sources, writing SQL queries and building datasets in Azure that served as the foundation for their dashboards.",
+        "Documented the technical specifications and operational procedures for newly developed financial data pipelines, creating guides that helped the operations team monitor and troubleshoot the processes."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Spark SQL",
+        "ETL",
+        "Azure",
+        "Azure Databricks",
+        "Apache Spark",
+        "Kafka",
+        "CI/CD",
+        "Microservices",
+        "Agile",
+        "Object-Oriented Design",
+        "Production Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Used Python and SQL to extract and analyze medical imaging metadata from legacy databases, creating cleansed datasets that accelerated the training of diagnostic AI models for healthcare applications.",
+        "Wrote complex SQL queries against Oracle and PostgreSQL databases to generate ad-hoc reports on lab test results for clinical researchers, helping them identify trends and correlations in patient data.",
+        "Supported the development of internal dashboards using Power BI to visualize operational metrics for the pathology workflow, making data more accessible to non-technical stakeholders and management.",
+        "Learned the basics of ETL concepts by assisting senior engineers in migrating patient data from on-premise MySQL servers to a centralized data warehouse, performing data validation checks at each stage.",
+        "Gained exposure to healthcare data regulations by participating in discussions about data anonymization techniques for research datasets, ensuring compliance with privacy guidelines during analysis.",
+        "Attended team meetings and code reviews, absorbing feedback on scripting techniques and best practices for writing maintainable and efficient data extraction code in a regulated environment.",
+        "Troubleshot simple data discrepancies in analytical reports by tracing numbers back to source systems, learning to navigate database schemas and understanding data lineage fundamentals.",
+        "Contributed to project documentation by maintaining logs of data issues found during analysis and the steps taken to resolve them, building a knowledge base for future reference."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Power BI",
+        "ETL Concepts",
+        "Healthcare Data",
+        "Reporting",
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

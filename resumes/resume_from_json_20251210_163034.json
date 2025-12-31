@@ -1,0 +1,286 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Healthcare AI/NLP Engineer & LLM Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "An experienced professional with 10 years in Insurance, Healthcare, Banking, and Consulting, now focusing on building Databricks and Azure Cognitive Services solutions to process clinical text and transform unstructured data into structured healthcare information using fine-tuned LLMs and NLP frameworks like spaCy and Hugging Face.",
+    "Initiated development of a clinical data extraction pipeline using Azure Databricks and PySpark to process unstructured healthcare documents, integrating Azure Cognitive Services for entity recognition which improved initial data processing accuracy for downstream model training.",
+    "Formulated a strategy to deploy offline open-weight LLMs within a secure Azure environment for healthcare text processing, ensuring HIPAA compliance while enabling advanced inference capabilities without external API dependencies for sensitive patient data.",
+    "Constructed a production-ready NLP model serving architecture using MLflow and Databricks Model Serving, which automated model deployment and versioning for clinical text extraction models, reducing manual deployment time and improving reliability.",
+    "Orchestrated the integration of third-party pre-trained NLP libraries from Hugging Face with custom healthcare tokenizers in spaCy, enhancing clinical named entity recognition for insurance claim processing and medical note analysis.",
+    "Established a vector database retrieval pipeline using Pinecone within Azure to support RAG workflows for LLMs, enabling efficient similarity search across millions of clinical text embeddings for accurate information retrieval in healthcare applications.",
+    "Pioneered the use of Databricks foundational model integrations to benchmark custom fine-tuned clinical BERT models against industry standards, providing quantitative performance metrics for stakeholder reviews and model selection decisions.",
+    "Arranged collaborative sessions with clinical SMEs to iteratively refine prompt engineering approaches for LLMs processing unstructured healthcare data, translating domain expertise into effective system prompts that improved extraction accuracy.",
+    "Devised a comprehensive ETL workflow using Azure Data Factory and Databricks to prepare structured and unstructured healthcare data from SQL Server sources, ensuring data quality and consistency for NLP model training pipelines.",
+    "Assembled a monitoring framework using Datadog and custom logging to track production NLP model performance and data drift in clinical text processing systems, enabling proactive model retraining and maintaining extraction quality.",
+    "Integrated FHIR/HL7 data standards awareness into clinical text processing pipelines, ensuring extracted structured information could be seamlessly mapped to standardized healthcare data models for interoperability with electronic health record systems.",
+    "Coordinated with data engineers to implement CI/CD pipelines using GitHub Actions for automated testing and deployment of NLP models, ensuring smooth transitions from development to production environments for healthcare applications.",
+    "Guided the implementation of privacy and security measures for healthcare data handling, incorporating HIPAA compliance checks into data processing workflows and model inference services to protect sensitive patient information.",
+    "Charted the adoption of MLOps best practices using MLflow for experiment tracking and model registry management, creating reproducible NLP workflows for clinical text extraction projects across multiple healthcare domains.",
+    "Administered the fine-tuning process for LLMs on specialized healthcare corpora using PyTorch and Hugging Face transformers, optimizing model parameters for clinical concept extraction and medical relationship identification tasks.",
+    "Operated within Agile development cycles to deliver iterative improvements to healthcare NLP solutions, regularly presenting progress to product owners and stakeholders and incorporating feedback into subsequent development phases.",
+    "Mobilized technical teams to troubleshoot production issues with deployed NLP models, conducting root cause analysis for extraction inaccuracies and implementing fixes that restored system performance and stakeholder confidence.",
+    "Navigated ambiguous unstructured healthcare data challenges by developing systematic text processing solutions using NLTK and custom rule-based components, creating structured outputs that met clinical SME validation requirements."
+  ],
+  "technical_skills": {
+    "Programming Languages & SQL": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "AI/ML Platforms & Services": [
+      "Azure Databricks",
+      "Azure Cognitive Services",
+      "Databricks Model Serving",
+      "MLflow"
+    ],
+    "Large Language Models & NLP": [
+      "LLM Fine-tuning",
+      "LLM Inference",
+      "Prompt Engineering",
+      "Offline Open-weight Models",
+      "spaCy",
+      "Hugging Face",
+      "NLTK",
+      "Third-party Pre-trained NLP Libraries"
+    ],
+    "Healthcare & Clinical Data": [
+      "Clinical Text Processing",
+      "FHIR/HL7 Awareness",
+      "HIPAA Compliance",
+      "Healthcare Data Security"
+    ],
+    "Vector Databases & RAG": [
+      "Pinecone",
+      "RAG Workflows",
+      "Vector Embeddings",
+      "Semantic Search"
+    ],
+    "Cloud Infrastructure": [
+      "Azure",
+      "Azure Data Factory",
+      "SQL Server"
+    ],
+    "ETL/ELT & Data Pipelines": [
+      "Azure Data Factory",
+      "Databricks",
+      "PySpark",
+      "ETL Workflows"
+    ],
+    "DevOps & MLOps": [
+      "Git/GitHub",
+      "CI/CD Pipelines",
+      "MLflow",
+      "Model Deployment"
+    ],
+    "Model Deployment & Serving": [
+      "Databricks Model Serving",
+      "MLflow",
+      "Production Deployment"
+    ],
+    "Monitoring & Observability": [
+      "Datadog",
+      "Logging",
+      "Model Performance Monitoring"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "I currently design the planning phase for a multi-agent insurance document processing system using LangGraph and PySpark on Azure Databricks, addressing complex insurance regulation compliance by orchestrating specialized agents for different extraction tasks.",
+        "During implementation, I build Azure Cognitive Services integrations with custom LLM pipelines to parse unstructured insurance claims, initially struggling with accuracy but improving through iterative prompt engineering and stakeholder feedback sessions.",
+        "For deployment, I prepare Databricks Model Serving configurations for fine-tuned insurance NLP models, working through several failed deployments before establishing reliable rollback procedures and health checks for production systems.",
+        "In the monitoring phase, I watch model performance metrics and data drift indicators for insurance text processing systems, setting up alerts for regulatory compliance violations and scheduling meetings with compliance officers to review findings.",
+        "Throughout optimization, I adjust LLM inference parameters and RAG pipeline configurations using Pinecone vector databases, experimenting with different chunking strategies to improve retrieval accuracy for insurance policy documents.",
+        "When troubleshooting, I examine failed extraction cases from the Model Context Protocol implementation, spending late nights debugging agent communication issues before identifying and fixing serialization problems in the multi-agent system.",
+        "During code reviews, I check PySpark transformations for insurance data processing, suggesting improvements to handle edge cases in messy unstructured inputs like handwritten claim forms and scanned policy documents.",
+        "For stakeholder collaboration, I present proof-of-concept demonstrations of multi-agent systems processing complex insurance forms, incorporating feedback from insurance SMEs to refine extraction rules and output formats.",
+        "I now construct data validation pipelines using SQL Server and Databricks to ensure extracted insurance data meets regulatory requirements, adding automated checks for required fields and formatting standards before downstream consumption.",
+        "In security implementation, I establish HIPAA-compliant data handling procedures for any healthcare-adjacent insurance data, configuring Azure security groups and encryption for data at rest and in transit within our processing pipelines.",
+        "During team coordination, I facilitate daily standups and sprint planning sessions, helping junior engineers overcome challenges with LangGraph state management and agent orchestration for insurance workflow automation.",
+        "For technology evaluation, I assess different open-weight LLMs for offline insurance document processing, running benchmarks on Azure VMs to compare extraction accuracy, inference speed, and resource requirements for production deployment.",
+        "I currently document the entire multi-agent system architecture and data flow, creating diagrams and runbooks that help new team members understand the complex interplay between different components in our insurance processing platform.",
+        "In performance tuning, I modify PySpark job configurations and Databricks cluster settings to handle peak insurance claim processing volumes, testing different worker node configurations to balance cost and processing speed effectively.",
+        "During integration testing, I verify that extracted insurance data correctly flows to downstream systems, writing test cases that simulate real-world scenarios including missing data, formatting errors, and regulatory edge cases.",
+        "For continuous improvement, I organize retrospectives after each major release, gathering team feedback on what worked well and what challenges we faced with the multi-agent system and Model Context Protocol implementations."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "PySpark",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Model Context Protocol",
+        "Azure Cognitive Services",
+        "SQL Server",
+        "LLM Fine-tuning",
+        "Offline Open-weight Models",
+        "Python",
+        "spaCy",
+        "Hugging Face",
+        "NLTK",
+        "Pinecone",
+        "MLflow",
+        "GitHub",
+        "CI/CD",
+        "Databricks Model Serving",
+        "HIPAA Compliance",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned the architecture for clinical trial document processing using LangChain and Azure Databricks, mapping out components for HIPAA-compliant extraction of patient data from unstructured medical reports and research documents.",
+        "Implemented a healthcare text extraction pipeline with spaCy and Hugging Face models on Azure, initially facing challenges with medical terminology but improving accuracy through collaboration with clinical SMEs and iterative model refinement.",
+        "Deployed fine-tuned clinical BERT models using Databricks Model Serving, establishing a blue-green deployment strategy that allowed safe rollbacks when extraction accuracy metrics dropped below acceptable thresholds for healthcare applications.",
+        "Monitored production NLP models processing clinical text, configuring Datadog dashboards to track entity recognition performance and setting up alerts for when confidence scores fell below established baselines for critical medical concepts.",
+        "Optimized prompt engineering approaches for LLMs analyzing medical literature, experimenting with different instruction formats and few-shot examples to improve consistency in extracting structured clinical trial outcomes from research papers.",
+        "Troubleshot performance issues in RAG pipelines using Crew AI frameworks, discovering that inefficient chunking of long medical documents was causing relevant context to be missed during retrieval for LLM question answering.",
+        "Conducted code reviews for healthcare data processing scripts, paying particular attention to PHI handling and HIPAA compliance in the data transformation logic applied to clinical text before model inference.",
+        "Presented proof-of-concept demonstrations of multi-agent systems for medical document analysis to product owners, explaining how different specialized agents could handle distinct aspects of clinical text processing workflows.",
+        "Built data validation rules for extracted healthcare information, implementing checks in SQL Server to ensure consistency with clinical data standards and flagging anomalies for manual review by medical experts.",
+        "Established security protocols for handling sensitive patient data in Azure, configuring network isolation, encryption, and access controls that met stringent healthcare regulatory requirements for clinical data processing.",
+        "Coordinated with data engineers on ETL workflows for preparing training data, defining schemas for structured outputs from unstructured clinical text that balanced completeness with practical implementation constraints.",
+        "Evaluated third-party pre-trained NLP libraries for medical concept extraction, running comparative tests on annotated clinical text corpora to select the best starting point for fine-tuning on J&J specific medical terminology.",
+        "Documented the clinical text processing system architecture and data flows, creating maintenance guides that enabled smooth knowledge transfer when team members rotated to other healthcare AI projects within the organization.",
+        "Improved inference latency for clinical NLP models by optimizing Databricks cluster configurations and implementing model caching strategies, reducing average processing time for medical documents while maintaining accuracy standards."
+      ],
+      "environment": [
+        "Azure",
+        "Azure Databricks",
+        "LangChain",
+        "Crew AI",
+        "Azure Cognitive Services",
+        "SQL Server",
+        "LLM Fine-tuning",
+        "Python",
+        "spaCy",
+        "Hugging Face",
+        "NLTK",
+        "Third-party Pre-trained NLP Libraries",
+        "MLflow",
+        "GitHub",
+        "CI/CD",
+        "FHIR/HL7",
+        "HIPAA Compliance",
+        "Healthcare Text Processing",
+        "Clinical Data Extraction"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed the AWS SageMaker pipeline for processing public health department text data, accounting for state healthcare regulations and HIPAA requirements while structuring unstructured public health reports for analysis.",
+        "Developed NLP models using spaCy and Hugging Face transformers to extract information from state healthcare forms, working through initial accuracy issues by creating custom tokenizers for Maine-specific medical facility terminology.",
+        "Launched production models on AWS SageMaker endpoints for batch processing of healthcare text data, implementing canary deployments to minimize risk when updating models that processed sensitive public health information.",
+        "Observed model performance across different regions of Maine, noticing variation in extraction accuracy due to differences in how rural versus urban healthcare providers documented patient information in text forms.",
+        "Enhanced ETL workflows using AWS Glue to prepare training data from SQL Server databases, dealing with messy real-world healthcare data that required extensive cleaning and normalization before model training.",
+        "Diagnosed data quality issues in extracted healthcare information, tracing problems back to inconsistent formatting in source documents and working with state agencies to establish better data collection standards.",
+        "Reviewed peer code for healthcare data processing components, focusing on error handling and data validation logic to ensure robustness when processing unpredictable unstructured text from various state healthcare sources.",
+        "Demonstrated text extraction capabilities to state healthcare administrators, explaining technical concepts in accessible language and incorporating their domain feedback to improve practical usefulness of the structured outputs.",
+        "Created validation frameworks for extracted public health data, implementing rule-based checks in Python that flagged potential errors or inconsistencies for manual review by state healthcare data quality teams.",
+        "Configured AWS security settings for healthcare data processing, establishing IAM roles, S3 bucket policies, and encryption standards that met Maine state government security requirements for protected health information.",
+        "Collaborated with state data engineers on healthcare data pipeline architecture, balancing technical requirements with practical constraints of existing state IT systems and legacy data formats.",
+        "Tested different pre-trained NLP models on Maine healthcare text, selecting and fine-tuning a BERT variant that performed best on the specific language patterns found in state public health documentation."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "SQL Server",
+        "Python",
+        "spaCy",
+        "Hugging Face",
+        "NLTK",
+        "Third-party Pre-trained NLP Libraries",
+        "Healthcare Text Processing",
+        "Clinical Data Extraction",
+        "ETL Workflows",
+        "HIPAA Compliance",
+        "State Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Architected text processing solutions for financial document analysis using AWS Comprehend and custom NLP models, addressing PCI-DSS compliance requirements while extracting structured information from unstructured banking documents.",
+        "Produced NLP pipelines for processing loan applications and financial reports, implementing text classification and entity recognition models that helped automate manual review processes in banking compliance workflows.",
+        "Released machine learning models to production AWS environments for batch processing of financial documents, establishing monitoring for model drift and scheduling regular retraining to maintain extraction accuracy over time.",
+        "Tracked model performance across different banking document types, identifying specific categories where extraction accuracy lagged and prioritizing improvement efforts for those high-impact document types.",
+        "Refined feature engineering approaches for financial text data, experimenting with different vectorization techniques and embedding strategies to better capture semantic meaning in banking and financial terminology.",
+        "Solved data pipeline failures in financial document processing workflows, investigating root causes that often involved encoding issues with scanned documents or unexpected document structure changes from different banking divisions.",
+        "Assessed peer implementations of text processing components, providing feedback on code efficiency and maintainability while ensuring financial regulatory requirements were properly addressed in the data handling logic.",
+        "Showed text extraction results to banking compliance officers, adapting presentation content based on their feedback to highlight the information most relevant for regulatory reporting and compliance monitoring purposes.",
+        "Fabricated data quality checks for extracted financial information, implementing business rule validation in Python that caught inconsistencies before data reached downstream banking systems and regulatory reports.",
+        "Applied AWS security configurations for financial data processing, ensuring all text processing pipelines complied with banking industry standards for data protection and access control throughout the document lifecycle."
+      ],
+      "environment": [
+        "AWS Comprehend",
+        "AWS SageMaker",
+        "Python",
+        "spaCy",
+        "NLTK",
+        "SQL",
+        "NLP Models",
+        "Financial Text Processing",
+        "PCI-DSS Compliance",
+        "Banking Regulations",
+        "ETL Workflows"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Drafted ETL architecture for client data migration projects using Hadoop and Informatica, learning to balance performance requirements with practical implementation constraints during consulting engagements across different industries.",
+        "Assembled data pipelines using Sqoop and Informatica to move and transform client data between systems, overcoming initial challenges with data type conversions and performance optimization for large-scale data transfers.",
+        "Delivered ETL solutions to client production environments, following detailed deployment checklists and conducting post-deployment validation to ensure data accuracy and pipeline reliability for critical business processes.",
+        "Watched pipeline performance metrics in client environments, learning to identify early warning signs of potential failures and proactively addressing issues before they impacted downstream reporting and analytics.",
+        "Boosted ETL job performance through query optimization and parallel processing techniques in Informatica, gradually improving my skills in performance tuning through trial and error and guidance from senior team members.",
+        "Fixed data quality issues in client ETL pipelines, tracing problems through complex transformation logic to identify where data corruption or loss was occurring during multi-step processing workflows.",
+        "Examined peer ETL designs during team code reviews, asking questions to understand design decisions and learning different approaches to solving common data integration challenges in consulting projects.",
+        "Illustrated data pipeline designs to client stakeholders using simple diagrams and explanations, practicing how to communicate technical concepts effectively to non-technical audiences during consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Pipelines",
+        "SQL",
+        "Data Warehousing",
+        "Consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

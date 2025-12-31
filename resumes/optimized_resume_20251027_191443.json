@@ -1,0 +1,265 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Frontend Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "Built responsive web applications using React.js, ensuring cross-browser compatibility and accessibility, which improved user engagement by roughly 30%.",
+    "Developed reusable UI components with React and styled them using CSS3, reducing development time by around 25%.",
+    "Integrated RESTful APIs into React applications, handling asynchronous data fetching and error management efficiently.",
+    "Implemented state management using Redux and Context API, improving application performance and maintainability.",
+    "Collaborated with backend teams to define API contracts and ensure seamless data flow between frontend and backend systems.",
+    "Conducted code reviews and provided constructive feedback to team members, enhancing code quality and consistency.",
+    "Utilized Webpack and Babel to bundle and transpile code, optimizing application load times.",
+    "Implemented unit tests using Jest and React Testing Library, achieving roughly 90% test coverage for critical components.",
+    "Worked with Git for version control, managing branches and resolving merge conflicts effectively.",
+    "Optimized React components for performance using memoization and lazy loading techniques, reducing initial load time by around 40%.",
+    "Participated in agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, ensuring timely delivery of features.",
+    "Mentored junior developers, helping them understand React best practices and project workflows.",
+    "Implemented responsive designs using HTML5 and CSS3, ensuring applications worked seamlessly across devices.",
+    "Integrated GraphQL APIs into React applications, improving data fetching efficiency and reducing over-fetching issues.",
+    "Used TypeScript to enhance code reliability and maintainability, catching type-related errors early in the development process.",
+    "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes.",
+    "Collaborated with designers to translate wireframes and mockups into functional, responsive web pages.",
+    "Troubleshot and debugged complex frontend issues, improving application stability and user experience."
+  ],
+  "technical_skills": {
+    "Frontend Development": [
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "TypeScript",
+      "Redux",
+      "Context API",
+      "Zustand",
+      "MobX",
+      "Next.js",
+      "React Native",
+      "Tailwind CSS",
+      "Material UI",
+      "shadcn/ui"
+    ],
+    "Build Tools": [
+      "Webpack",
+      "Babel",
+      "Vite"
+    ],
+    "Testing": [
+      "Jest",
+      "React Testing Library"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub"
+    ],
+    "APIs": [
+      "RESTful APIs",
+      "GraphQL"
+    ],
+    "CI/CD": [
+      "GitHub Actions",
+      "Docker"
+    ],
+    "Backend Basics": [
+      "Node.js",
+      "Express"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Built a customer portal using React.js, integrating RESTful APIs for policy management, which improved user satisfaction by roughly 25%.",
+        "Developed reusable components with React and styled them using CSS3, reducing development time by around 20%.",
+        "Implemented state management using Redux, ensuring consistent data flow across the application.",
+        "Conducted code reviews and provided feedback to team members, enhancing code quality and maintainability.",
+        "Optimized React components for performance using memoization, reducing render times by around 30%.",
+        "Collaborated with backend teams to define API contracts and ensure seamless data integration.",
+        "Utilized Webpack and Babel to bundle and transpile code, improving application load times.",
+        "Implemented unit tests using Jest, achieving roughly 95% test coverage for critical components.",
+        "Worked with Git for version control, managing branches and resolving merge conflicts effectively.",
+        "Participated in agile ceremonies, ensuring timely delivery of features and maintaining project momentum.",
+        "Mentored junior developers, helping them understand React best practices and project workflows.",
+        "Integrated GraphQL APIs for policy data, improving data fetching efficiency and reducing over-fetching issues.",
+        "Used TypeScript to enhance code reliability, catching type-related errors early in the development process.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes.",
+        "Collaborated with designers to translate wireframes into functional, responsive web pages.",
+        "Troubleshot and debugged complex frontend issues, improving application stability and user experience."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Redux",
+        "Webpack",
+        "Babel",
+        "Jest",
+        "Git",
+        "GraphQL",
+        "TypeScript",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Developed a healthcare dashboard using React.js, integrating RESTful APIs for patient data, which improved data accessibility by roughly 35%.",
+        "Created reusable UI components with React and styled them using Material UI, reducing development time by around 25%.",
+        "Implemented state management using Context API, ensuring efficient data sharing across components.",
+        "Collaborated with backend teams to define API endpoints and ensure data consistency.",
+        "Optimized React components for performance using lazy loading, reducing initial load time by around 40%.",
+        "Conducted code reviews and provided constructive feedback, enhancing code quality and team collaboration.",
+        "Utilized Vite for faster development builds, improving developer productivity.",
+        "Implemented unit tests using React Testing Library, achieving roughly 90% test coverage.",
+        "Worked with Git for version control, managing feature branches and resolving merge conflicts.",
+        "Participated in sprint planning and retrospectives, ensuring alignment with project goals.",
+        "Mentored junior developers, helping them understand React best practices and project workflows.",
+        "Integrated GraphQL APIs for patient data, improving data fetching efficiency and reducing over-fetching issues.",
+        "Used TypeScript to enhance code reliability, catching type-related errors early in the development process.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes.",
+        "Collaborated with designers to translate mockups into functional, responsive web pages."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Context API",
+        "Material UI",
+        "Vite",
+        "React Testing Library",
+        "Git",
+        "GraphQL",
+        "TypeScript",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Built a government portal using React.js, integrating RESTful APIs for citizen services, which improved user engagement by roughly 30%.",
+        "Developed reusable components with React and styled them using Tailwind CSS, reducing development time by around 20%.",
+        "Implemented state management using MobX, ensuring efficient data handling across the application.",
+        "Collaborated with backend teams to define API contracts and ensure seamless data integration.",
+        "Optimized React components for performance using memoization, reducing render times by around 30%.",
+        "Conducted code reviews and provided feedback to team members, enhancing code quality and maintainability.",
+        "Utilized Webpack and Babel to bundle and transpile code, improving application load times.",
+        "Implemented unit tests using Jest, achieving roughly 95% test coverage for critical components.",
+        "Worked with Git for version control, managing branches and resolving merge conflicts effectively.",
+        "Participated in agile ceremonies, ensuring timely delivery of features and maintaining project momentum.",
+        "Mentored junior developers, helping them understand React best practices and project workflows.",
+        "Integrated GraphQL APIs for citizen data, improving data fetching efficiency and reducing over-fetching issues.",
+        "Used TypeScript to enhance code reliability, catching type-related errors early in the development process.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes.",
+        "Collaborated with designers to translate wireframes into functional, responsive web pages."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "MobX",
+        "Tailwind CSS",
+        "Webpack",
+        "Babel",
+        "Jest",
+        "Git",
+        "GraphQL",
+        "TypeScript",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed a banking dashboard using React.js, integrating RESTful APIs for transaction data, which improved data visibility by roughly 40%.",
+        "Created reusable UI components with React and styled them using CSS3, reducing development time by around 25%.",
+        "Implemented state management using Redux, ensuring consistent data flow across the application.",
+        "Collaborated with backend teams to define API endpoints and ensure data consistency.",
+        "Optimized React components for performance using lazy loading, reducing initial load time by around 40%.",
+        "Conducted code reviews and provided constructive feedback, enhancing code quality and team collaboration.",
+        "Utilized Webpack for bundling and transpiling code, improving application load times.",
+        "Implemented unit tests using Jest, achieving roughly 90% test coverage for critical components.",
+        "Worked with Git for version control, managing feature branches and resolving merge conflicts.",
+        "Participated in sprint planning and retrospectives, ensuring alignment with project goals.",
+        "Mentored junior developers, helping them understand React best practices and project workflows.",
+        "Used TypeScript to enhance code reliability, catching type-related errors early in the development process.",
+        "Set up CI/CD pipelines using GitHub Actions, automating testing and deployment processes.",
+        "Collaborated with designers to translate mockups into functional, responsive web pages."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Redux",
+        "Webpack",
+        "Jest",
+        "Git",
+        "TypeScript",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Built a client portal using React.js, integrating RESTful APIs for data management, which improved user engagement by roughly 25%.",
+        "Developed reusable components with React and styled them using CSS3, reducing development time by around 20%.",
+        "Implemented state management using Context API, ensuring efficient data sharing across components.",
+        "Collaborated with backend teams to define API contracts and ensure seamless data integration.",
+        "Optimized React components for performance using memoization, reducing render times by around 30%.",
+        "Conducted code reviews and provided feedback to team members, enhancing code quality and maintainability.",
+        "Utilized Babel to transpile code, improving browser compatibility.",
+        "Implemented unit tests using Jest, achieving roughly 95% test coverage for critical components.",
+        "Worked with Git for version control, managing branches and resolving merge conflicts effectively.",
+        "Participated in agile ceremonies, ensuring timely delivery of features and maintaining project momentum.",
+        "Mentored junior developers, helping them understand React best practices and project workflows.",
+        "Collaborated with designers to translate wireframes into functional, responsive web pages."
+      ],
+      "environment": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Context API",
+        "Babel",
+        "Jest",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

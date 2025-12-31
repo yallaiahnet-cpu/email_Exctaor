@@ -1,0 +1,363 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Full-Stack AI Engineer ",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full-stack AI application development, specializing in generative AI platforms, LLM integration, and scalable web solutions across Insurance, Healthcare, Banking, and Consulting domains.",
+    "Built production-grade AI applications using Python FastAPI backends integrated with Azure OpenAI and AWS Bedrock, serving millions of students through accessible Angular frontends while maintaining SLA-driven availability targets.",
+    "Designed REST APIs connecting Node.js microservices with Azure AI Search for semantic retrieval, resolving latency issues in educational platforms by implementing Redis caching strategies that improved response times across distributed systems.",
+    "Integrated Salesforce and SAP systems with FastAPI middleware using OAuth2 authentication, solving data synchronization challenges between legacy CRM platforms and modern AI-powered student management portals through custom API gateway patterns.",
+    "Developed accessibility-compliant Angular components following WCAG standards, fixing navigation issues for screen readers while coordinating with UX teams to ensure inclusive design across all AI-generated content interfaces.",
+    "Configured AWS ECS clusters running Dockerized Python services connected to RDS PostgreSQL databases, troubleshooting deployment failures during peak traffic periods by optimizing container resource allocation and database connection pooling.",
+    "Implemented TypeScript-based frontend architectures consuming embeddings from HuggingFace Transformers, addressing model latency through prompt engineering techniques that reduced token usage while maintaining response quality for educational queries.",
+    "Orchestrated CI/CD pipelines using CircleCI and GitHub Actions with Terraform infrastructure-as-code, debugging build failures in SonarQube quality gates while mentoring junior engineers on secure deployment practices and code review standards.",
+    "Managed AWS Lambda serverless functions for real-time data processing connected to DynamoDB tables, resolving cold start issues that affected student assessment submissions by implementing connection warming strategies and function optimization.",
+    "Monitored distributed systems using New Relic and Datadog observability stacks, investigating performance degradation across microservices during system load tests while collaborating with SRE teams to establish alerting thresholds and incident response procedures.",
+    "Architected vector database solutions using Pinecone for retrieval-augmented generation systems, fixing relevance scoring problems in educational content recommendations by tuning similarity search parameters and implementing hybrid search approaches.",
+    "Coordinated cross-functional initiatives through JIRA workflow automation and Confluence documentation, facilitating sprint planning meetings via Zoom while resolving blockers between product management and engineering teams using Office 365 collaboration tools.",
+    "Evaluated LLM outputs using custom scoring metrics to reduce hallucinations in student-facing chatbots, iterating through multiple prompt templates during debugging sessions to improve factual accuracy while balancing generation speed requirements.",
+    "Provisioned AWS infrastructure including ECS Fargate tasks, RDS MySQL instances, and Lambda triggers using Terraform modules, handling permission issues between services by configuring IAM roles and security groups that maintained least-privilege access patterns.",
+    "Collaborated with distributed engineering teams across time zones to integrate Azure AI Search indexes with Angular search interfaces, working through API versioning conflicts while ensuring backward compatibility for existing student and educator workflows.",
+    "Maintained Docker containerization standards for Python and Node.js applications, troubleshooting image build failures in CircleCI pipelines while establishing best practices for multi-stage builds that reduced deployment artifact sizes and improved startup times.",
+    "Applied data privacy compliance requirements including FERPA regulations to AI application architectures, reviewing security audit findings during code review sessions while implementing encryption at rest and in transit for sensitive student information.",
+    "Contributed to feature flag implementations supporting A/B testing of AI-powered features, analyzing user engagement metrics through event-driven architecture patterns while coordinating gradual rollout strategies with product management stakeholders."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "Bash/Shell",
+      "Node.js"
+    ],
+    "AI & Machine Learning": [
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "HuggingFace Transformers",
+      "Embeddings",
+      "Prompt Engineering",
+      "Model Evaluation",
+      "Azure OpenAI",
+      "AWS Bedrock",
+      "RAG Architectures"
+    ],
+    "Backend Frameworks & APIs": [
+      "FastAPI",
+      "Node.js",
+      "REST APIs",
+      "API Gateway Patterns",
+      "OAuth2/JWT",
+      "Microservices Architecture"
+    ],
+    "Frontend Technologies": [
+      "Angular",
+      "TypeScript",
+      "HTML5/CSS3",
+      "Responsive Design",
+      "WCAG Accessibility Standards"
+    ],
+    "Cloud Platforms - AWS": [
+      "AWS ECS",
+      "AWS Lambda",
+      "AWS RDS",
+      "AWS Bedrock",
+      "AWS S3",
+      "AWS DynamoDB",
+      "AWS Elasticache",
+      "AWS EKS"
+    ],
+    "Cloud Platforms - Azure": [
+      "Azure OpenAI",
+      "Azure AI Search",
+      "Azure Functions",
+      "Azure SQL Database"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "DynamoDB",
+      "Redis",
+      "Vector Databases (Pinecone, Weaviate, FAISS)"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Terraform",
+      "CircleCI",
+      "GitHub Actions",
+      "SonarQube",
+      "Feature Flags"
+    ],
+    "Monitoring & Observability": [
+      "New Relic",
+      "Datadog",
+      "Application Performance Monitoring",
+      "Logging Patterns",
+      "Distributed Tracing"
+    ],
+    "Enterprise Integration": [
+      "Salesforce Integration",
+      "SAP Integration",
+      "Event-Driven Architecture",
+      "Message Queues"
+    ],
+    "Testing & Quality": [
+      "PyTest",
+      "Jest",
+      "Unit Testing",
+      "Integration Testing",
+      "A/B Testing Frameworks"
+    ],
+    "Collaboration Tools": [
+      "JIRA",
+      "Confluence",
+      "Slack",
+      "Zoom",
+      "Office 365",
+      "GitHub"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect multi-agent systems using LangGraph frameworks connected to AWS Bedrock Claude models, coordinating proof-of-concept demonstrations for insurance claims automation while debugging agent-to-agent communication patterns.",
+        "Build FastAPI microservices integrating PySpark data pipelines with AWS Lambda functions for real-time policy risk assessment, troubleshooting state management issues in agentic workflows that process insurance regulation compliance checks.",
+        "Deploy Dockerized Python applications on AWS ECS Fargate clusters connected to RDS PostgreSQL databases, resolving container orchestration challenges during peak claim submission periods while maintaining availability requirements for customer-facing portals.",
+        "Implement Model Context Protocol specifications for insurance domain agents, testing multi-agent coordination scenarios through iterative proof-of-concept cycles while documenting workflow patterns in Confluence for distributed team collaboration.",
+        "Configure Angular frontends consuming REST APIs from Node.js services that interface with generative AI backends, fixing TypeScript compilation errors and WCAG accessibility violations discovered during UX team reviews of claims processing interfaces.",
+        "Integrate Salesforce CRM data with FastAPI middleware using OAuth2 authentication flows, addressing data synchronization delays between policy management systems and AI-powered customer service chatbots through custom caching strategies in Redis.",
+        "Monitor AWS infrastructure using New Relic dashboards tracking ECS task health and Lambda execution metrics, investigating memory spikes in PySpark jobs processing large insurance datasets while coordinating with SRE teams via Slack channels.",
+        "Test prompt engineering strategies for insurance domain LLMs, iterating through multiple template variations during debugging sessions to reduce hallucinations in policy explanation generators while balancing response accuracy against token consumption costs.",
+        "Provision AWS resources using Terraform modules including ECS services, RDS instances, and Lambda triggers, handling IAM permission conflicts discovered during CircleCI pipeline deployments while ensuring security group configurations meet compliance standards.",
+        "Collaborate with product management stakeholders through JIRA workflow tracking and Zoom sprint planning sessions, resolving conflicting requirements between business analysts and engineering teams for AI feature prioritization in insurance applications.",
+        "Evaluate multi-agent system performance using custom scoring metrics, analyzing interaction logs from agent-to-agent communication patterns while refining orchestration logic in LangGraph to improve claim routing accuracy across insurance product categories.",
+        "Develop proof-of-concept prototypes demonstrating agentic AI capabilities for insurance underwriting automation, working through technical feasibility challenges with leadership teams while documenting lessons learned from failed experiments in team retrospectives.",
+        "Maintain CI/CD pipelines using CircleCI and GitHub Actions with SonarQube quality gates, debugging Python dependency conflicts during containerization while mentoring junior developers on secure coding practices for handling sensitive insurance customer data.",
+        "Apply insurance regulatory compliance requirements to AI application architectures, reviewing security audit findings during code review sessions while implementing data encryption patterns that satisfy state and federal privacy regulations for policyholder information.",
+        "Connect AWS DynamoDB tables with Lambda event triggers for processing insurance claim submissions, troubleshooting eventual consistency issues in distributed data access patterns while optimizing read capacity units during high-traffic enrollment periods.",
+        "Coordinate cross-functional initiatives between engineering, UX, and business teams using Office 365 collaboration tools, facilitating knowledge transfer sessions about agentic AI architectures while addressing concerns about system reliability and customer impact."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "PySpark",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "AWS Bedrock",
+        "AWS ECS",
+        "AWS Lambda",
+        "AWS RDS PostgreSQL",
+        "AWS DynamoDB",
+        "Redis",
+        "Node.js",
+        "TypeScript",
+        "Angular",
+        "Docker",
+        "Terraform",
+        "CircleCI",
+        "GitHub",
+        "SonarQube",
+        "New Relic",
+        "JIRA",
+        "Confluence",
+        "Slack",
+        "Zoom",
+        "Office 365",
+        "REST APIs",
+        "OAuth2",
+        "Salesforce Integration",
+        "WCAG Standards"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed LangChain-based retrieval pipelines integrated with AWS Bedrock for healthcare document processing, working through HIPAA compliance requirements while debugging medical terminology extraction accuracy issues in proof-of-concept prototypes.",
+        "Created FastAPI services connecting Python backends to AWS RDS MySQL databases for patient data management, fixing query performance bottlenecks discovered during load testing while ensuring all data access patterns satisfied healthcare regulatory audit trails.",
+        "Constructed multi-agent frameworks using LangGraph orchestration for clinical trial data analysis automation, testing agent coordination logic through iterative cycles while collaborating with medical research teams to validate output accuracy against domain expertise.",
+        "Assembled Angular web applications with TypeScript components consuming healthcare APIs, resolving WCAG accessibility compliance issues identified during user acceptance testing with medical staff while maintaining responsive design standards across device form factors.",
+        "Configured AWS ECS container deployments running Dockerized Python microservices, addressing container startup failures during blue-green deployment rollouts while coordinating with DevOps teams through Slack to minimize downtime for critical healthcare applications.",
+        "Established AWS Lambda functions processing real-time patient monitoring data streams, debugging timeout errors in serverless execution environments while optimizing DynamoDB query patterns to reduce latency in emergency alerting systems for nursing staff.",
+        "Incorporated HuggingFace Transformers for medical text classification tasks, experimenting with different embedding models during proof-of-concept phases while documenting performance trade-offs between accuracy and inference speed in JIRA tickets.",
+        "Organized CI/CD workflows using GitHub Actions and Terraform infrastructure provisioning, troubleshooting CircleCI pipeline failures caused by dependency version conflicts while mentoring team members on container security scanning practices for healthcare applications.",
+        "Connected Node.js middleware services with Salesforce Health Cloud APIs, handling OAuth2 authentication challenges during system integration testing while implementing retry logic for transient network failures in distributed healthcare service architectures.",
+        "Validated LLM-generated clinical summaries against medical accuracy standards, iterating through prompt engineering variations during debugging sessions with clinical advisors while implementing safety filters to prevent hallucinations in patient-facing documentation.",
+        "Monitored AWS infrastructure metrics using Datadog dashboards tracking Lambda invocation counts and RDS connection pools, investigating performance degradation patterns during peak hospital admission hours while coordinating incident response procedures with SRE teams.",
+        "Experimented with Crew AI and Autogen frameworks for healthcare workflow automation proofs-of-concept, documenting framework evaluation findings in Confluence while presenting technical trade-off analyses to architecture review boards via Zoom meetings.",
+        "Enforced HIPAA data privacy controls across AI application layers, reviewing encryption implementations during security audits while fixing vulnerabilities discovered in SonarQube code quality scans that could expose protected health information.",
+        "Tuned vector database configurations in Pinecone for medical literature search systems, adjusting similarity scoring thresholds based on user feedback from healthcare providers while balancing recall requirements against query response time constraints."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Crew AI",
+        "Autogen",
+        "AWS Bedrock",
+        "AWS ECS",
+        "AWS Lambda",
+        "AWS RDS MySQL",
+        "AWS DynamoDB",
+        "HuggingFace Transformers",
+        "Node.js",
+        "TypeScript",
+        "Angular",
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "CircleCI",
+        "SonarQube",
+        "Datadog",
+        "Pinecone",
+        "REST APIs",
+        "OAuth2",
+        "Salesforce Health Cloud",
+        "HIPAA Compliance",
+        "WCAG Standards",
+        "JIRA",
+        "Confluence",
+        "Slack",
+        "Zoom"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed Python-based machine learning pipelines on Azure infrastructure for public health data analysis, addressing HIPAA compliance requirements while troubleshooting data quality issues in state healthcare reporting systems during weekly team meetings.",
+        "Built FastAPI backend services connected to Azure SQL databases for healthcare eligibility verification, fixing authentication errors in OAuth2 integration flows while ensuring API response times met state government service level agreements.",
+        "Deployed containerized applications using Docker on Azure Container Instances, resolving resource allocation conflicts during testing phases while working with state IT security teams to satisfy public sector network restrictions and firewall configurations.",
+        "Programmed TypeScript Angular interfaces for healthcare provider enrollment portals, correcting WCAG accessibility violations discovered during state compliance audits while coordinating with UX designers to improve form validation feedback for end users.",
+        "Configured Azure AI Search indexes for medical provider directory lookups, tuning relevance scoring parameters based on user search pattern analysis while debugging synchronization delays between primary databases and search index updates.",
+        "Established REST API endpoints using Node.js middleware layers, handling rate limiting implementation challenges while integrating with legacy state mainframe systems through custom adapter patterns that translated between modern JSON and COBOL data formats.",
+        "Automated infrastructure provisioning with Terraform scripts for Azure resources, debugging permission errors in service principal configurations while documenting deployment procedures in Confluence for state IT operations team handoff requirements.",
+        "Monitored application performance using Azure Monitor and custom logging implementations, investigating sporadic timeout errors reported by healthcare case workers while optimizing database query execution plans that processed Medicaid eligibility determinations.",
+        "Collaborated with state healthcare policy experts through JIRA ticket workflows, translating regulatory requirements into technical specifications while participating in Zoom meetings to clarify ambiguous business rules for benefits calculation algorithms.",
+        "Secured patient data transmission channels using encryption protocols, fixing certificate validation failures in production environments while ensuring all data handling procedures satisfied state and federal healthcare privacy regulations including HIPAA and CHIP.",
+        "Tested machine learning model predictions against historical healthcare outcomes data, iterating through feature engineering experiments while debugging overfitting issues that affected prediction reliability for vulnerable population risk assessments.",
+        "Maintained CI/CD pipelines using Azure DevOps, troubleshooting build failures caused by environment configuration drift while mentoring junior team members on version control practices and code review standards for government software projects."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "Machine Learning",
+        "Azure AI Search",
+        "Azure SQL Database",
+        "Azure Container Instances",
+        "Azure Monitor",
+        "Node.js",
+        "TypeScript",
+        "Angular",
+        "Docker",
+        "Terraform",
+        "Azure DevOps",
+        "REST APIs",
+        "OAuth2",
+        "HIPAA Compliance",
+        "CHIP Compliance",
+        "WCAG Standards",
+        "JIRA",
+        "Confluence",
+        "Zoom"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Analyzed customer transaction patterns using Python scikit-learn models on Azure SQL databases, discovering feature correlations during exploratory data analysis sessions while working with risk management teams to validate fraud detection model assumptions.",
+        "Constructed predictive models for credit risk assessment using XGBoost algorithms, iterating through hyperparameter tuning experiments while debugging model bias issues that affected lending decisions across different demographic customer segments.",
+        "Generated REST API endpoints with FastAPI frameworks serving real-time scoring predictions, handling concurrent request load challenges while implementing caching strategies in Redis to reduce database query overhead during peak banking transaction hours.",
+        "Processed large transaction datasets using Pandas data manipulation libraries, troubleshooting memory overflow errors in data transformation pipelines while optimizing processing workflows to complete nightly batch jobs within allocated maintenance windows.",
+        "Visualized financial metrics using Tableau dashboards connected to Azure SQL data sources, fixing data refresh synchronization problems while collaborating with business analysts via Office 365 tools to refine executive reporting requirements.",
+        "Implemented TypeScript Angular components for internal banking tools, addressing browser compatibility issues discovered during user acceptance testing while ensuring PCI-DSS compliance standards for handling sensitive cardholder information in web interfaces.",
+        "Automated model retraining workflows using Azure Data Factory orchestration, debugging pipeline failures caused by schema changes in upstream data sources while documenting data lineage requirements in Confluence for regulatory audit trail purposes.",
+        "Evaluated classification model performance using A/B testing frameworks, analyzing conversion metrics from feature flag experiments while presenting findings to product management stakeholders through JIRA dashboards and scheduled Zoom review sessions.",
+        "Secured API authentication mechanisms using OAuth2 token validation, fixing authorization logic errors in role-based access control implementations while ensuring all endpoints satisfied bank security policy requirements for customer data protection.",
+        "Collaborated with compliance officers to implement financial regulatory requirements, reviewing model documentation during audit preparation while incorporating feedback about transparency and explainability standards for machine learning predictions affecting customer accounts."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "XGBoost",
+        "Pandas",
+        "FastAPI",
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "Redis",
+        "TypeScript",
+        "Angular",
+        "Tableau",
+        "REST APIs",
+        "OAuth2",
+        "PCI-DSS Compliance",
+        "A/B Testing",
+        "JIRA",
+        "Confluence",
+        "Zoom",
+        "Office 365"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Extracted data from multiple source systems using Sqoop import jobs into Hadoop HDFS clusters, learning distributed file system concepts while troubleshooting connection timeout errors during initial project onboarding with senior team members.",
+        "Transformed client datasets using Informatica PowerCenter workflows, debugging mapping logic errors during testing phases while attending daily standup meetings to report progress on ETL pipeline development tasks assigned by project leads.",
+        "Loaded processed data into relational databases using SQL scripts, fixing constraint violation errors discovered during data validation cycles while coordinating with database administrators to optimize table indexing strategies for query performance.",
+        "Maintained Hadoop cluster configurations, working through NameNode failover scenarios during training exercises while documenting troubleshooting steps in team knowledge base articles for future reference by other junior engineers.",
+        "Participated in code review sessions using version control systems, incorporating feedback about data quality checks from experienced developers while gradually taking ownership of smaller ETL modules within larger data integration projects.",
+        "Monitored batch job execution schedules, investigating failed job runs during overnight processing windows while escalating complex issues to senior engineers through JIRA ticket workflows and learning incident response procedures.",
+        "Validated data accuracy between source and target systems, running reconciliation reports while collaborating with business analysts to understand data transformation requirements and domain-specific validation rules for consulting client deliverables.",
+        "Attended technical training sessions about big data technologies, practicing Hadoop command-line operations while working toward understanding distributed computing concepts that would support future career development in data engineering roles."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "SQL",
+        "ETL Pipelines",
+        "Data Validation",
+        "JIRA",
+        "Version Control"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

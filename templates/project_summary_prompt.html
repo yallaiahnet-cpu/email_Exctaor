@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Summary Prompt Generator</title>
+    <script src="https://unpkg.com/mammoth@1.6.0/mammoth.browser.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%); 
+            min-height: 100vh; 
+            padding: 10px; 
+            margin: 0; 
+        }
+        .container { 
+            max-width: 1400px; 
+            margin: 0 auto; 
+            background: white; 
+            border-radius: 20px; 
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); 
+            overflow: hidden; 
+            display: flex; 
+            flex-direction: column; 
+            min-height: calc(100vh - 20px);
+        }
+        .header { 
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%); 
+            color: white; 
+            padding: 20px; 
+            text-align: center; 
+        }
+        .header h1 { 
+            margin: 0; 
+            font-size: 2rem; 
+            font-weight: 600; 
+        }
+        .main-content { 
+            padding: 30px; 
+            display: grid; 
+            grid-template-columns: 1fr 1fr; 
+            gap: 30px; 
+            flex: 1; 
+            overflow-y: auto;
+        }
+        .left-panel, .right-panel { 
+            display: flex; 
+            flex-direction: column; 
+            gap: 20px;
+        }
+        .form-section { 
+            background: #f8f9fa; 
+            border-radius: 15px; 
+            padding: 20px; 
+            border: 2px solid #e1e5e9;
+        }
+        .form-section h2 { 
+            color: #333; 
+            margin-bottom: 15px; 
+            font-size: 1.3rem; 
+            border-bottom: 2px solid #00c9ff; 
+            padding-bottom: 10px;
+        }
+        .form-group { 
+            margin-bottom: 20px; 
+        }
+        label { 
+            display: block; 
+            margin-bottom: 8px; 
+            font-weight: 600; 
+            color: #333; 
+            font-size: 0.95rem;
+        }
+        input[type="file"], 
+        input[type="text"], 
+        textarea { 
+            width: 100%; 
+            padding: 12px; 
+            border: 2px solid #e1e5e9; 
+            border-radius: 8px; 
+            font-size: 14px; 
+            font-family: inherit; 
+            transition: border-color 0.3s ease; 
+        }
+        input[type="file"] {
+            padding: 8px;
+            cursor: pointer;
+        }
+        textarea { 
+            min-height: 150px; 
+            resize: vertical; 
+            font-family: 'Courier New', monospace;
+        }
+        textarea:focus, 
+        input:focus { 
+            outline: none; 
+            border-color: #00c9ff; 
+        }
+        .input-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .toggle-btn {
+            padding: 8px 16px;
+            border: 2px solid #00c9ff;
+            background: white;
+            color: #00c9ff;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .toggle-btn.active {
+            background: #00c9ff;
+            color: white;
+        }
+        .toggle-btn:hover {
+            background: #00c9ff;
+            color: white;
+        }
+        .input-section {
+            display: none;
+        }
+        .input-section.active {
+            display: block;
+        }
+        .btn { 
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%); 
+            color: white; 
+            border: none; 
+            padding: 15px 40px; 
+            border-radius: 10px; 
+            font-size: 16px; 
+            font-weight: 600; 
+            cursor: pointer; 
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            width: 100%;
+        }
+        .btn:hover { 
+            transform: translateY(-2px); 
+            box-shadow: 0 5px 15px rgba(0, 201, 255, 0.4); 
+        }
+        .btn:active { 
+            transform: translateY(0); 
+        }
+        .results-section { 
+            background: #f8f9fa; 
+            border-radius: 15px; 
+            padding: 20px; 
+            border: 2px solid #e1e5e9;
+        }
+        .results-section h2 { 
+            color: #333; 
+            margin-bottom: 15px; 
+            font-size: 1.3rem; 
+            border-bottom: 2px solid #00c9ff; 
+            padding-bottom: 10px;
+        }
+        .generated-prompt { 
+            background: white; 
+            border: 2px solid #e1e5e9; 
+            border-radius: 8px; 
+            padding: 20px; 
+            min-height: 300px; 
+            font-family: 'Courier New', monospace; 
+            font-size: 14px; 
+            line-height: 1.6; 
+            white-space: pre-wrap; 
+            word-wrap: break-word;
+            overflow-y: auto;
+            max-height: 600px;
+        }
+        .copy-btn {
+            margin-top: 15px;
+            background: #28a745;
+            padding: 10px 20px;
+            font-size: 14px;
+        }
+        .copy-btn:hover {
+            background: #218838;
+            box-shadow: 0 5px 15px rgba(40, 167, 69, 0.4);
+        }
+        .info-text {
+            color: #666;
+            font-size: 0.85rem;
+            margin-top: 5px;
+            font-style: italic;
+        }
+        .file-info {
+            margin-top: 10px;
+            padding: 10px;
+            background: #e7f3ff;
+            border-radius: 5px;
+            font-size: 0.9rem;
+            color: #0066cc;
+        }
+        
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            padding: 12px 20px;
+            margin: -20px -20px 20px -20px;
+            border-radius: 20px 20px 0 0;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .nav-btn {
+            padding: 8px 14px;
+            background: rgba(255,255,255,0.9) !important;
+            color: #000000 !important;
+            border: 2px solid rgba(0,0,0,0.1) !important;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,1) !important;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Bar -->
+        <div class="nav-bar">
+            <a href="/" class="nav-btn">📧 Email Extractor</a>
+            <a href="/job_scraper" class="nav-btn">🔍 Job Scraper</a>
+            <a href="/prompt_generator" class="nav-btn">🎯 AI Developer State Farm</a>
+            <a href="/dotnet_prompt_generator" class="nav-btn">💻 .NET Resume Prompt</a>
+            <a href="/fullstack_prompt_generator" class="nav-btn">🌐 Cleveland+Health</a>
+            <a href="/resume_prompt_generator" class="nav-btn">📝 .NET State Farm + Role Change</a>
+            <a href="/resume_generator" class="nav-btn">📄 Resume Document Builder</a>
+            <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
+            <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
+            <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+        </div>
+        
+        <div class="header">
+            <h1>📋 Project Summary Prompt Generator</h1>
+            <p style="margin-top: 10px; opacity: 0.9;">Combine your resume and data files to generate a comprehensive project summary prompt</p>
+            <div style="display: flex; gap: 8px; justify-content: center; margin-top: 15px; flex-wrap: wrap;">
+                <a href="/" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">📧 Email Extractor</a>
+                <a href="/job_scraper" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">🔍 Job Scraper</a>
+                <a href="/prompt_generator" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">🎯 Generate Prompt</a>
+                <a href="/dotnet_prompt_generator" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">💻 .NET Prompt</a>
+                <a href="/resume_prompt_generator" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">📝 Resume Prompt</a>
+                <a href="/resume_generator" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">📄 Resume Generator</a>
+                <a href="/fulltime" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 600; cursor: pointer; text-decoration: none; transition: all 0.3s ease; white-space: nowrap;">🚀 Full-Time Optimizer</a>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="left-panel">
+                <!-- Resume Input Section -->
+                <div class="form-section">
+                    <h2>📄 Your Resume</h2>
+                    <div class="input-toggle">
+                        <button type="button" class="toggle-btn active" data-target="resume-file">Upload File</button>
+                        <button type="button" class="toggle-btn" data-target="resume-text">Paste Text</button>
+                    </div>
+                    
+                    <div class="input-section active" id="resume-file">
+                        <div class="form-group">
+                            <label for="resumeFile">Upload Resume File (PDF, DOCX, TXT)</label>
+                            <input type="file" id="resumeFile" accept=".pdf,.docx,.txt,.doc">
+                            <div class="info-text">Supported formats: PDF, DOCX, TXT, DOC</div>
+                            <div id="resumeFileInfo" class="file-info" style="display: none;"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="input-section" id="resume-text">
+                        <div class="form-group">
+                            <label for="resumeText">Paste Resume Content</label>
+                            <textarea id="resumeText" placeholder="Paste your resume content here..."></textarea>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Data Files/Text Input Section -->
+                <div class="form-section">
+                    <h2>📊 Data Files or Text</h2>
+                    <div class="input-toggle">
+                        <button type="button" class="toggle-btn active" data-target="data-file">Upload Files</button>
+                        <button type="button" class="toggle-btn" data-target="data-text">Paste Text</button>
+                    </div>
+                    
+                    <div class="input-section active" id="data-file">
+                        <div class="form-group">
+                            <label for="dataFiles">Upload Data Files (Multiple files allowed)</label>
+                            <input type="file" id="dataFiles" multiple accept=".txt,.pdf,.docx,.doc,.json,.csv">
+                            <div class="info-text">You can select multiple files. Supported: TXT, PDF, DOCX, DOC, JSON, CSV</div>
+                            <div id="dataFilesInfo" class="file-info" style="display: none;"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="input-section" id="data-text">
+                        <div class="form-group">
+                            <label for="dataText">Paste Data/Project Information</label>
+                            <textarea id="dataText" placeholder="Paste your project data, requirements, or any relevant information here..."></textarea>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Prompt Input Section -->
+                <div class="form-section">
+                    <h2>✍️ Your Prompt</h2>
+                    <div class="form-group">
+                        <label for="userPrompt">Enter your prompt or instructions</label>
+                        <textarea id="userPrompt" placeholder="Enter your prompt here. This will be combined with your resume and data files to generate the final prompt..."></textarea>
+                        <div class="info-text">This prompt will be combined with your resume and data files</div>
+                    </div>
+                </div>
+                
+                <button class="btn" id="generateBtn">🚀 Generate Combined Prompt</button>
+            </div>
+            
+            <div class="right-panel">
+                <div class="results-section">
+                    <h2>✨ Generated Prompt</h2>
+                    <div id="generatedPrompt" class="generated-prompt">
+                        <div style="text-align: center; color: #999; padding: 50px;">
+                            Your generated prompt will appear here...
+                        </div>
+                    </div>
+                    <button class="btn copy-btn" id="copyBtn" style="display: none;">📋 Copy to Clipboard</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Toggle between file upload and text input
+        document.querySelectorAll('.toggle-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const targetId = this.dataset.target;
+                const section = this.closest('.form-section');
+                
+                // Update button states
+                section.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                // Update input sections
+                section.querySelectorAll('.input-section').forEach(s => s.classList.remove('active'));
+                section.querySelector(`#${targetId}`).classList.add('active');
+            });
+        });
+        
+        // File input change handlers
+        document.getElementById('resumeFile').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            const infoDiv = document.getElementById('resumeFileInfo');
+            if (file) {
+                infoDiv.textContent = `Selected: ${file.name} (${(file.size / 1024).toFixed(2)} KB)`;
+                infoDiv.style.display = 'block';
+            } else {
+                infoDiv.style.display = 'none';
+            }
+        });
+        
+        document.getElementById('dataFiles').addEventListener('change', function(e) {
+            const files = e.target.files;
+            const infoDiv = document.getElementById('dataFilesInfo');
+            if (files.length > 0) {
+                const fileList = Array.from(files).map(f => `${f.name} (${(f.size / 1024).toFixed(2)} KB)`).join(', ');
+                infoDiv.textContent = `Selected ${files.length} file(s): ${fileList}`;
+                infoDiv.style.display = 'block';
+            } else {
+                infoDiv.style.display = 'none';
+            }
+        });
+        
+        // Read file content
+        async function readFileContent(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = (e) => resolve(e.target.result);
+                reader.onerror = reject;
+                
+                if (file.type === 'application/pdf') {
+                    // For PDF, we'll just return the filename for now
+                    // In a real implementation, you'd use a PDF parser
+                    resolve(`[PDF File: ${file.name}]`);
+                } else {
+                    reader.readAsText(file);
+                }
+            });
+        }
+        
+        // Read DOCX file using mammoth.js
+        async function readDocxFile(file) {
+            try {
+                // Check if mammoth is available
+                if (typeof mammoth === 'undefined' || !mammoth.extractRawText) {
+                    // Fallback: try backend endpoint
+                    return await readDocxFileBackend(file);
+                }
+                
+                const arrayBuffer = await file.arrayBuffer();
+                const result = await mammoth.extractRawText({ arrayBuffer: arrayBuffer });
+                
+                if (result.value) {
+                    return result.value;
+                } else {
+                    throw new Error('No text extracted from DOCX');
+                }
+            } catch (error) {
+                console.error('Error reading DOCX with mammoth:', error);
+                // Fallback to backend
+                return await readDocxFileBackend(file);
+            }
+        }
+        
+        // Backend fallback for DOCX extraction
+        async function readDocxFileBackend(file) {
+            try {
+                const formData = new FormData();
+                formData.append('file', file);
+                
+                const response = await fetch('/extract_docx_text', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    return data.text || `[Error: Could not extract text from ${file.name}]`;
+                } else {
+                    throw new Error('Backend extraction failed');
+                }
+            } catch (error) {
+                console.error('Error with backend DOCX extraction:', error);
+                return `[Error: Could not extract text from ${file.name}. Please use text input or ensure the file is not corrupted.]`;
+            }
+        }
+        
+        // Generate combined prompt
+        document.getElementById('generateBtn').addEventListener('click', async function() {
+            const generateBtn = this;
+            const resultDiv = document.getElementById('generatedPrompt');
+            const copyBtn = document.getElementById('copyBtn');
+            
+            generateBtn.disabled = true;
+            generateBtn.textContent = '⏳ Generating...';
+            resultDiv.innerHTML = '<div style="text-align: center; color: #00c9ff; padding: 50px;">Generating prompt...</div>';
+            
+            try {
+                let resumeContent = '';
+                let dataContent = '';
+                let userPrompt = document.getElementById('userPrompt').value.trim();
+                
+                // Get resume content
+                const resumeFileInput = document.getElementById('resumeFile');
+                const resumeTextInput = document.getElementById('resumeText');
+                const resumeFileSection = document.getElementById('resume-file');
+                
+                if (resumeFileSection.classList.contains('active') && resumeFileInput.files.length > 0) {
+                    const file = resumeFileInput.files[0];
+                    if (file.name.toLowerCase().endsWith('.docx') || file.name.toLowerCase().endsWith('.doc')) {
+                        resumeContent = await readDocxFile(file);
+                    } else if (file.type.includes('pdf') || file.name.toLowerCase().endsWith('.pdf')) {
+                        // PDF extraction would require a PDF parser library
+                        resumeContent = `[PDF File: ${file.name} - PDF text extraction requires additional setup. Please use the "Paste Text" option and copy-paste the content from your PDF, or convert the PDF to DOCX/TXT format.]`;
+                    } else {
+                        resumeContent = await readFileContent(file);
+                    }
+                } else if (resumeTextInput.value.trim()) {
+                    resumeContent = resumeTextInput.value.trim();
+                }
+                
+                // Get data content
+                const dataFilesInput = document.getElementById('dataFiles');
+                const dataTextInput = document.getElementById('dataText');
+                const dataFileSection = document.getElementById('data-file');
+                
+                if (dataFileSection.classList.contains('active') && dataFilesInput.files.length > 0) {
+                    const files = Array.from(dataFilesInput.files);
+                    const fileContents = await Promise.all(
+                        files.map(async (file) => {
+                            if (file.name.toLowerCase().endsWith('.docx') || file.name.toLowerCase().endsWith('.doc')) {
+                                return `\n--- File: ${file.name} ---\n${await readDocxFile(file)}\n`;
+                            } else if (file.type.includes('pdf') || file.name.toLowerCase().endsWith('.pdf')) {
+                                return `\n--- File: ${file.name} ---\n[PDF File - PDF text extraction requires additional setup. Please use the "Paste Text" option or convert to DOCX/TXT format.]\n`;
+                            } else {
+                                return `\n--- File: ${file.name} ---\n${await readFileContent(file)}\n`;
+                            }
+                        })
+                    );
+                    dataContent = fileContents.join('\n');
+                } else if (dataTextInput.value.trim()) {
+                    dataContent = dataTextInput.value.trim();
+                }
+                
+                // Validate inputs
+                if (!resumeContent && !dataContent && !userPrompt) {
+                    throw new Error('Please provide at least one input: Resume, Data Files/Text, or Prompt');
+                }
+                
+                // Generate combined prompt
+                let combinedPrompt = '';
+                
+                if (userPrompt) {
+                    combinedPrompt += `PROMPT/INSTRUCTIONS:\n${userPrompt}\n\n`;
+                }
+                
+                if (resumeContent) {
+                    combinedPrompt += `=== RESUME CONTENT ===\n${resumeContent}\n\n`;
+                }
+                
+                if (dataContent) {
+                    combinedPrompt += `=== DATA/PROJECT INFORMATION ===\n${dataContent}\n\n`;
+                }
+                
+                if (resumeContent || dataContent) {
+                    combinedPrompt += `\n=== INSTRUCTIONS ===\nBased on the above resume and data/project information, generate a comprehensive project summary that:\n`;
+                    combinedPrompt += `You are an expert technical storyteller and business translator. I will provide you with a technical resume containing work experience, projects, skills, and technologies. 
+
+Your task is to generate **detailed, step-by-step project explanations** suitable for business stakeholders, C2C clients, or interview preparation. 
+
+Follow this structure for each project:
+
+1. **Project Context / Business Problem**
+   - Explain the business problem in plain language like what the problem very detail .
+   - Describe why it was important and the consequences of not solving it.
+   - Include real-world examples  and stories what exctly by using the real entities (customers, users, systems).
+
+2. **Entity / Example Use Case**
+   - Provide a concrete example (user, customer, or entity) affected by the problem.
+   - Explain exactly what metrics, outcomes, or events are being predicted, tracked, or improved.
+
+3. **Data / Inputs / Systems**
+   - List all relevant data sources, systems, or inputs like  process linage patterns .
+  - explain the data souces what kind of the data it is what are real chanlleges  explani with schema examples when acccident happend like policce reposts that has images tables explain rela schnalllegs and real time scenario and s=dcos  
+   - Explain the type, schema (if applicable), and business importance.
+   - Highlight common issues or inconsistencies in the data or systems.
+
+4. **Data Preparation / Preprocessing / Transformation**
+   - Explain step-by-step how raw data was cleaned, transformed, or prepared.
+        very detaile proces with relevent to  above kind of the schema main problkem what skills is used  for sloving that problem
+   - Include handling missing data, encoding, normalization, aggregation, or business rule transformations. iclude the skills which is used with resppect to above data schema after using those tools how schema chnages  how it is useful
+   - Describe why each step was necessary and its business impact.
+
+5. **Feature / Component Engineering**
+   - Explain what features, modules, or components were created.
+   - Show how these relate to the business problem or improve outcomes.
+
+6. **Implementation / Model / Development**
+   - Explain the technology, programming languages, frameworks, or tools used.
+   - Describe architectural decisions, optimizations, and technical challenges.
+   - Include distributed computing, performance tuning, or concurrency issues if applicable.
+
+7. **Deployment / Integration / Delivery**
+   - Describe how the solution was deployed or integrated into production.
+   - Include CI/CD, containerization, orchestration, cloud, or monitoring setups.
+   - Explain how real-world users or business teams interact with the system.
+
+8. **Challenges / Issues & Solutions**
+   - List major obstacles faced during development or deployment.
+   - Explain how each challenge was solved, which skills/tools were used, and the business impact.
+
+9. **Business Outcome / Impact**
+   - Quantify or describe the value delivered: faster decisions, cost savings, improved customer experience, compliance, efficiency, or performance gains.
+   - Explain in business-friendly terms that a non-technical stakeholder can understand.
+
+**Style Guidelines**
+- Explain as if talking to a **non-technical business stakeholder**.
+- Use tables for clarity when needed (data sources, features, skills used).
+- Map **technical skills/tools to specific business problems**.
+- Be extremely detailed and step-by-step.
+- Include concrete examples wherever possible.
+
+i will provide the resume 
+
+make above prompt more detailed explain the prompt and give the final promptn`;
+                
+                }
+                
+                // Display result
+                resultDiv.textContent = combinedPrompt;
+                copyBtn.style.display = 'block';
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<div style="color: #dc3545; padding: 20px;">❌ Error: ${error.message}</div>`;
+                copyBtn.style.display = 'none';
+            } finally {
+                generateBtn.disabled = false;
+                generateBtn.textContent = '🚀 Generate Combined Prompt';
+            }
+        });
+        
+        // Copy to clipboard
+        document.getElementById('copyBtn').addEventListener('click', function() {
+            const promptText = document.getElementById('generatedPrompt').textContent;
+            navigator.clipboard.writeText(promptText).then(() => {
+                const originalText = this.textContent;
+                this.textContent = '✅ Copied!';
+                setTimeout(() => {
+                    this.textContent = originalText;
+                }, 2000);
+            }).catch(err => {
+                alert('Failed to copy to clipboard. Please select and copy manually.');
+            });
+        });
+    </script>
+</body>
+</html>
+

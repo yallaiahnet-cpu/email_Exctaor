@@ -1,0 +1,322 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Cloudera Data Engineer & AI Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering and AI development with deep expertise in Cloudera ecosystem, real-time data processing, and multi-agent AI systems across insurance, healthcare, and banking domains.",
+    "Using Cloudera CDP to address complex data governance challenges in insurance compliance by implementing Apache Ranger policies and Kerberos security, ensuring State Farm met strict regulatory requirements while maintaining data accessibility.",
+    "Leveraging Spark Scala for optimizing real-time claim processing pipelines that initially struggled with performance bottlenecks, implementing custom KStream transformations that reduced data latency by significant margins.",
+    "Applying NiFi and Kafka integration techniques to build resilient data flows for healthcare data at Johnson & Johnson, overcoming initial HIPAA compliance hurdles through careful TLS/SSL encryption implementation.",
+    "Utilizing Cloudera Manager to monitor and troubleshoot distributed clusters across multiple projects, learning through trial and error how to balance resource allocation between HBase, Solr, and Spark workloads effectively.",
+    "Implementing disaster recovery strategies using AWS CloudFormation templates that automated backup procedures for critical Hive metastore and HBase tables, ensuring business continuity during system failures.",
+    "Developing Scala-based Spark streaming applications that integrated with Kafka Streams API, initially struggling with state management but eventually creating robust KTable operations for real-time analytics.",
+    "Building multi-agent AI systems using Crew AI and LangGraph frameworks at State Farm, creating proof-of-concept implementations that coordinated multiple AI agents for complex insurance claim processing workflows.",
+    "Designing data quality management frameworks using Python automation scripts that validated data across Hive, HBase, and MongoDB storage layers, catching data inconsistencies early in the pipeline.",
+    "Configuring Oozie workflows to orchestrate complex ETL processes across the Cloudera stack, learning how to handle dependency management and error handling in multi-stage data pipelines.",
+    "Implementing model context protocol for agent-to-agent communication in Google's multi-agent framework, enabling seamless coordination between AI systems processing insurance underwriting data.",
+    "Optimizing YARN resource allocation for Spark applications running on CDSW, balancing memory and CPU resources through iterative tuning sessions that improved cluster utilization significantly.",
+    "Developing Flume configurations for log data collection from distributed systems, troubleshooting initial connectivity issues with Kafka before establishing reliable data ingestion channels.",
+    "Creating Hue interfaces for business analysts to query Hive and Impala data, simplifying complex SQL operations through intuitive visualizations that reduced training time for new team members.",
+    "Building real-time data pipelines using Kafka Connect with HBase sinks, ensuring data consistency across systems while maintaining low latency for insurance claim processing applications.",
+    "Implementing TLS/SSL certificates across Cloudera clusters to secure data in transit, working through certificate rotation challenges that initially caused service disruptions during maintenance.",
+    "Developing Python automation scripts for Cloudera Manager APIs that monitored cluster health and automatically scaled resources based on workload patterns, reducing manual intervention needs.",
+    "Designing data governance frameworks with Apache Ranger that enforced column-level security on sensitive healthcare data, ensuring HIPAA compliance while maintaining analytical capabilities."
+  ],
+  "technical_skills": {
+    "Cloudera Ecosystem": [
+      "Cloudera CDP",
+      "CDH",
+      "Cloudera Manager",
+      "CDSW",
+      "Hue",
+      "Oozie",
+      "Apache Ranger"
+    ],
+    "Big Data Processing": [
+      "Apache Spark",
+      "Hive",
+      "HBase",
+      "YARN",
+      "MapReduce",
+      "Spark Streaming"
+    ],
+    "Data Integration & Streaming": [
+      "Apache Kafka",
+      "Kafka Streams",
+      "KStream",
+      "KTable",
+      "Apache NiFi",
+      "Flume"
+    ],
+    "Programming Languages": [
+      "Scala",
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, IAM, CloudWatch, CloudFormation)",
+      "Azure (Data Factory, Databricks)"
+    ],
+    "Search & Analytics": [
+      "Apache Solr",
+      "MongoDB",
+      "Elasticsearch"
+    ],
+    "Security & Governance": [
+      "Kerberos",
+      "TLS/SSL",
+      "Apache Ranger",
+      "Data Governance",
+      "Data Quality Management"
+    ],
+    "AI & Machine Learning": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "CDSW"
+    ],
+    "Operating Systems": [
+      "Linux/Unix",
+      "System Troubleshooting"
+    ],
+    "Automation & Scripting": [
+      "Python Scripting",
+      "Bash Automation",
+      "CloudFormation",
+      "Disaster Recovery Scripts"
+    ],
+    "Data Pipelines": [
+      "ETL Processes",
+      "Real-time Streaming",
+      "Batch Processing",
+      "Data Validation"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Cloudera CDP to address insurance data governance challenges by implementing Apache Ranger policies that enforced column-level security on sensitive claim data while maintaining analytical accessibility for authorized users.",
+        "Leveraging Spark Scala with Kafka Streams API to build real-time fraud detection systems that processed insurance claims through KStream transformations, initially struggling with state management but eventually achieving stable processing.",
+        "Implementing multi-agent AI frameworks using Crew AI and LangGraph to coordinate claim processing workflows where different AI agents specialized in validation, documentation, and approval tasks, improving processing efficiency significantly.",
+        "Configuring NiFi data flows to integrate with Kafka topics containing real-time insurance application data, ensuring smooth data movement between external systems and our Cloudera-based analytics platform with proper error handling.",
+        "Developing Scala-based Spark applications that consumed from Kafka topics and wrote processed results to HBase tables, creating efficient pipelines for insurance risk assessment calculations with minimal latency requirements.",
+        "Using Cloudera Manager to monitor cluster performance and troubleshoot resource contention issues between Spark jobs and HBase regionservers, learning to balance workloads through careful YARN configuration adjustments.",
+        "Implementing disaster recovery strategies with AWS CloudFormation that automated backup of critical Hive metastore and Ranger policies, ensuring quick recovery during unexpected system outages affecting insurance operations.",
+        "Building Oozie workflows that orchestrated complex ETL processes across the insurance data landscape, coordinating Hive queries, Spark jobs, and HBase operations in sequence with proper dependency management.",
+        "Developing Python automation scripts that interacted with Cloudera Manager APIs to automatically scale clusters based on insurance claim processing volumes, reducing manual monitoring efforts during peak periods.",
+        "Configuring Kerberos authentication across the Cloudera cluster to secure access to insurance data, working through initial ticket renewal issues that caused service interruptions during long-running Spark jobs.",
+        "Implementing TLS/SSL encryption for data in transit between NiFi, Kafka, and Spark components, ensuring all insurance data met security compliance standards while maintaining processing performance.",
+        "Using CDSW to develop and deploy machine learning models for insurance risk prediction, integrating with Spark MLlib through Scala APIs and ensuring models could scale to handle large claim datasets efficiently.",
+        "Building Hue interfaces that enabled business analysts to query insurance data through intuitive SQL interfaces, reducing the learning curve for new team members joining the claim analytics team.",
+        "Developing Flume configurations to collect application logs from insurance processing systems into HDFS, then building Solr indexes for efficient log search and troubleshooting capabilities across distributed systems.",
+        "Creating data quality management frameworks using Python that validated insurance data across Hive, HBase, and external systems, catching inconsistencies early and preventing faulty analytics results.",
+        "Implementing model context protocol for agent communication in multi-agent AI systems, enabling seamless coordination between specialized AI agents processing different aspects of insurance claims simultaneously."
+      ],
+      "environment": [
+        "Cloudera CDP",
+        "CDH",
+        "CDSW",
+        "Cloudera Manager",
+        "Apache Spark",
+        "Scala",
+        "Kafka",
+        "KStream",
+        "KTable",
+        "NiFi",
+        "HBase",
+        "Hive",
+        "Oozie",
+        "Hue",
+        "YARN",
+        "Apache Ranger",
+        "Kerberos",
+        "TLS/SSL",
+        "AWS EC2",
+        "S3",
+        "CloudFormation",
+        "Crew AI",
+        "LangGraph",
+        "Python",
+        "Solr",
+        "Flume",
+        "MongoDB"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Spark Scala to process healthcare research data stored in Hive tables, implementing complex transformations that handled sensitive patient information while maintaining HIPAA compliance through careful data anonymization.",
+        "Leveraging Kafka Streams with Scala to build real-time monitoring systems for clinical trial data, creating KTable aggregations that tracked patient responses and alerted researchers to significant pattern changes.",
+        "Implementing NiFi data flows that integrated electronic health records from multiple healthcare systems into our Cloudera data lake, ensuring data consistency and proper handling of HIPAA-protected information.",
+        "Configuring Apache Ranger policies to enforce fine-grained access control on healthcare data, ensuring only authorized researchers could access specific patient datasets based on their research protocols and approvals.",
+        "Developing Python automation scripts that monitored data quality in HBase tables containing clinical trial results, flagging inconsistencies for manual review and maintaining data integrity across research studies.",
+        "Using Cloudera Manager to optimize cluster performance for mixed healthcare workloads, balancing resources between batch processing of historical data and real-time analysis of streaming clinical information.",
+        "Building Oozie workflows that coordinated ETL processes for healthcare analytics, ensuring proper sequencing of data validation, transformation, and loading steps with comprehensive error handling and notifications.",
+        "Implementing TLS/SSL encryption for all data movement between healthcare systems and our Cloudera platform, meeting strict security requirements for protecting patient information during transmission.",
+        "Developing Hue interfaces that enabled healthcare researchers to explore clinical data through intuitive SQL queries, reducing their dependency on technical team members for routine data exploration tasks.",
+        "Configuring Flume agents to collect sensor data from medical devices into Kafka topics, then building Spark streaming applications that processed this data for real-time patient monitoring and alert generation.",
+        "Using CDSW to develop machine learning models for predicting patient outcomes, integrating with Spark MLlib and ensuring models could handle the volume and variety of healthcare data available.",
+        "Implementing disaster recovery procedures for critical healthcare data in HBase and Hive, creating automated backup processes that ensured research continuity during any system failures or data corruption events.",
+        "Building multi-agent AI systems using Crew AI frameworks to coordinate analysis of healthcare data, where different AI agents specialized in data validation, pattern recognition, and report generation tasks.",
+        "Developing Scala applications that processed streaming healthcare data through Kafka and Spark Streaming, implementing complex event processing logic that detected significant clinical patterns in real-time."
+      ],
+      "environment": [
+        "Cloudera CDH",
+        "Cloudera Manager",
+        "Spark Scala",
+        "Kafka",
+        "KStreams",
+        "NiFi",
+        "HBase",
+        "Hive",
+        "Oozie",
+        "Hue",
+        "YARN",
+        "Apache Ranger",
+        "Kerberos",
+        "TLS/SSL",
+        "AWS EC2",
+        "S3",
+        "CloudWatch",
+        "Python",
+        "CDSW",
+        "Solr",
+        "Flume",
+        "MongoDB",
+        "Crew AI"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Azure Data Factory to orchestrate ETL processes that moved healthcare data from source systems into our Cloudera environment, ensuring HIPAA compliance through proper data handling and encryption protocols.",
+        "Leveraging Spark with Python to process public health data stored in Hive tables, implementing analytics that tracked disease patterns and helped healthcare officials make informed policy decisions.",
+        "Configuring NiFi data flows to integrate COVID-19 testing data from multiple healthcare providers, ensuring consistent data formats and proper handling of sensitive patient information across different source systems.",
+        "Implementing Apache Ranger policies to control access to sensitive healthcare datasets, ensuring only authorized public health officials could access detailed patient information for legitimate public health purposes.",
+        "Developing Python scripts that automated data quality checks on healthcare datasets, flagging inconsistencies for manual review and maintaining the integrity of public health reporting and analysis.",
+        "Using Cloudera Manager to monitor cluster health and performance, troubleshooting issues with HBase region servers that initially struggled with the volume of healthcare data being processed daily.",
+        "Building Oozie workflows that coordinated batch processing of historical health data, ensuring proper sequencing of data validation, transformation, and reporting steps with comprehensive error handling.",
+        "Implementing TLS/SSL certificates to secure data transmission between healthcare providers and our analytics platform, meeting strict security requirements for protecting patient health information.",
+        "Developing Hue interfaces that enabled public health analysts to explore healthcare data through SQL queries, supporting their efforts to identify health trends and allocate resources effectively.",
+        "Configuring Flume to collect log data from healthcare applications into HDFS, then building search indexes with Solr to support troubleshooting and operational monitoring across distributed systems.",
+        "Using Spark MLlib to develop predictive models for healthcare resource allocation, analyzing historical data to predict future needs for medical supplies and personnel across different regions.",
+        "Implementing data governance frameworks that documented healthcare data lineage and quality metrics, supporting transparency and accountability in public health data analysis and reporting."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Cloudera CDH",
+        "Spark Python",
+        "Hive",
+        "HBase",
+        "NiFi",
+        "Oozie",
+        "Hue",
+        "YARN",
+        "Apache Ranger",
+        "TLS/SSL",
+        "Linux",
+        "Python",
+        "Solr",
+        "Flume",
+        "MLlib"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Azure Databricks with Spark to analyze financial transaction data for fraud detection patterns, implementing machine learning algorithms that identified suspicious activities while minimizing false positives.",
+        "Leveraging Hive queries to process large volumes of banking transaction data stored in HDFS, developing analytics that helped identify customer behavior patterns and support targeted marketing campaigns.",
+        "Implementing data quality frameworks using Python that validated financial data across different source systems, ensuring accuracy in regulatory reporting and customer account management.",
+        "Configuring Oozie workflows to orchestrate daily ETL processes for financial data, coordinating data extraction from source systems, transformation in Spark, and loading into analytical databases.",
+        "Developing Hue interfaces that enabled business analysts to explore banking data through SQL queries, supporting their efforts to understand customer behavior and develop new financial products.",
+        "Using Spark MLlib to build credit risk assessment models that analyzed customer transaction history and demographic information, supporting loan approval decisions with data-driven insights.",
+        "Implementing data governance procedures that documented financial data lineage and quality metrics, ensuring compliance with banking regulations and supporting audit requirements.",
+        "Building Python automation scripts that monitored data pipelines for financial reporting, alerting team members to processing failures or data quality issues that required immediate attention.",
+        "Configuring TLS/SSL encryption for data transmission between banking systems and our analytics platform, ensuring all financial data met security standards for protecting customer information.",
+        "Developing data validation frameworks that checked financial data consistency across Hive tables and external databases, maintaining data integrity for critical banking operations and reporting."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Spark",
+        "Hive",
+        "HDFS",
+        "Oozie",
+        "Hue",
+        "Python",
+        "MLlib",
+        "TLS/SSL",
+        "Linux"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop MapReduce to process large datasets for consulting clients, implementing custom reducers that aggregated business data and generated insights for strategic decision-making support.",
+        "Leveraging Informatica PowerCenter to build ETL processes that extracted data from client source systems, transformed it according to business rules, and loaded it into data warehouses for reporting.",
+        "Configuring Sqoop jobs to transfer data between relational databases and HDFS, ensuring efficient movement of large datasets while maintaining data consistency and handling incremental updates properly.",
+        "Developing Hive queries to analyze client data stored in Hadoop, creating reports that helped consulting teams understand business performance and identify improvement opportunities.",
+        "Implementing data validation scripts using Python that checked data quality across different systems, ensuring accuracy in client reporting and analytical results.",
+        "Building Oozie workflows that coordinated data processing tasks across the Hadoop ecosystem, learning how to manage dependencies and error handling in multi-stage data pipelines.",
+        "Configuring Hue interfaces that enabled client business users to explore their data through SQL queries, supporting self-service analytics and reducing dependency on technical team members.",
+        "Developing automation scripts that monitored Hadoop cluster performance and data processing jobs, alerting team members to issues that required investigation and resolution."
+      ],
+      "environment": [
+        "Hadoop",
+        "MapReduce",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "HDFS",
+        "Oozie",
+        "Hue",
+        "Python",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Big Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm bringing 10 years of specialized experience in enterprise big data engineering, focusing on designing and deploying scalable data platforms across insurance, healthcare, banking, and consulting domains.",
+    "Using Cloudera Data Platform to address complex data processing challenges in insurance compliance workflows, implementing optimized cluster configurations that improved data validation throughput for regulatory reporting.",
+    "Leveraging MapR and Hortonworks ecosystems to solve enterprise data lake governance issues, developing automated monitoring solutions that enhanced data quality and compliance with insurance industry standards.",
+    "Implementing Dremio data virtualization tools to streamline data access for insurance analytics teams, creating unified data layers that reduced query times and improved business intelligence capabilities.",
+    "Deploying JupyterHub environments on OpenShift platforms to support data science workflows, configuring multi-tenant architectures that enabled collaborative analysis while maintaining security boundaries.",
+    "Utilizing AtScale for semantic layer development in healthcare data environments, building consistent business metrics that accelerated reporting and reduced data interpretation errors across teams.",
+    "Applying platform engineering principles to automate big data infrastructure deployment, developing scripting solutions that reduced manual configuration efforts and improved environment consistency.",
+    "Leading technical efforts in enterprise data platform modernization, guiding teams through complex migrations from legacy Hadoop distributions to modern CDP implementations.",
+    "Designing data lake architectures with built-in governance frameworks for insurance compliance, implementing metadata management and lineage tracking to meet regulatory requirements.",
+    "Troubleshooting performance bottlenecks in large-scale Hadoop clusters, conducting root cause analysis to identify resource contention issues and implementing optimization strategies.",
+    "Collaborating with IT infrastructure teams to integrate big data platforms with enterprise security systems, ensuring proper authentication and authorization mechanisms were in place.",
+    "Developing automation scripts for cluster maintenance and monitoring, creating proactive alerting systems that reduced downtime and improved platform reliability for critical business operations.",
+    "Supporting data engineers and scientists with platform tools and best practices, providing technical guidance on optimal usage patterns and performance optimization techniques.",
+    "Implementing containerized big data solutions using OpenShift deployment patterns, creating scalable environments that could efficiently handle variable workloads.",
+    "Managing multi-tenant data virtualization environments with proper resource allocation and security controls, ensuring different business units could access data without conflicts.",
+    "Conducting proof-of-concept testing for new platform components and tools, evaluating performance characteristics and integration requirements before enterprise deployment.",
+    "Documenting platform configurations and operational procedures, creating comprehensive runbooks that enabled efficient support and knowledge transfer across teams.",
+    "Mentoring junior engineers on big data platform management and DevOps practices, fostering skill development and promoting consistent implementation approaches across projects."
+  ],
+  "technical_skills": {
+    "Big Data Platforms": [
+      "MapR",
+      "Hortonworks",
+      "Cloudera Data Platform",
+      "CDP",
+      "Hadoop Ecosystem"
+    ],
+    "Data Virtualization Tools": [
+      "Dremio",
+      "JupyterHub",
+      "AtScale",
+      "Data Virtualization"
+    ],
+    "Cloud & Container Platforms": [
+      "AWS",
+      "OpenShift",
+      "OCP",
+      "Containerized Environments"
+    ],
+    "Platform Engineering & DevOps": [
+      "Automation Scripting",
+      "Bash",
+      "Python",
+      "Troubleshooting",
+      "Root Cause Analysis"
+    ],
+    "Data Processing Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "MapReduce",
+      "Hive",
+      "HBase"
+    ],
+    "Data Pipeline & ETL Tools": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Informatica",
+      "Sqoop"
+    ],
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "OpenShift"
+    ],
+    "Databases & Data Warehouses": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake"
+    ],
+    "Monitoring & Performance Tools": [
+      "Cluster Monitoring",
+      "Performance Tuning",
+      "Capacity Utilization"
+    ],
+    "AI/ML Integration Tools": [
+      "JupyterHub",
+      "Model Deployment",
+      "Data Science Support"
+    ],
+    "Enterprise Integration": [
+      "IT Infrastructure Integration",
+      "Stakeholder Collaboration",
+      "Technical Leadership"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Cloudera Data Platform to address insurance data processing bottlenecks, implementing optimized cluster configurations that improved claims data validation throughput while maintaining compliance with state insurance regulations.",
+        "Leveraging Dremio data virtualization to solve cross-departmental data access challenges, creating unified data layers that enabled real-time analytics for insurance risk assessment and fraud detection workflows.",
+        "Implementing JupyterHub on OpenShift platforms to support insurance data science teams, configuring secure multi-tenant environments that facilitated collaborative analysis of customer behavior patterns and policy optimization.",
+        "Applying MapR ecosystem capabilities to enhance insurance data lake governance, developing automated data quality checks that ensured compliance with NAIC regulations and state-specific insurance requirements.",
+        "Utilizing platform engineering principles to automate insurance data platform deployment, creating infrastructure-as-code solutions that reduced environment setup time and improved configuration consistency.",
+        "Leading technical design sessions for insurance data architecture modernization, guiding teams through complex migrations from legacy systems to modern CDP-based solutions with proper data governance.",
+        "Troubleshooting performance issues in large-scale insurance data processing pipelines, conducting root cause analysis on cluster resource contention and implementing optimization strategies for better throughput.",
+        "Developing automation scripts for insurance data cluster maintenance, creating proactive monitoring solutions that alerted teams to potential issues before they impacted critical policy processing workflows.",
+        "Collaborating with IT security teams to integrate big data platforms with enterprise authentication systems, ensuring proper access controls for sensitive insurance customer data and claims information.",
+        "Implementing Crew AI frameworks with multi-agent systems to automate insurance document processing, creating intelligent workflows that extracted and validated policy information from complex documents.",
+        "Using LangGraph for insurance knowledge graph development, building interconnected data relationships that enhanced underwriting decision support and risk assessment capabilities.",
+        "Deploying model context protocol for insurance AI applications, ensuring consistent model behavior across different business units and maintaining audit trails for regulatory compliance.",
+        "Conducting proof-of-concept testing for new insurance data platform components, evaluating performance characteristics and integration requirements before full-scale enterprise deployment.",
+        "Mentoring data engineering teams on insurance domain best practices, fostering skill development in data governance, regulatory compliance, and ethical data usage principles.",
+        "Documenting insurance data platform configurations and operational procedures, creating comprehensive runbooks that enabled efficient support and knowledge transfer across distributed teams.",
+        "Integrating multi-agent AI systems with existing insurance workflows, developing coordination protocols that enabled seamless handoffs between different business process automation components."
+      ],
+      "environment": [
+        "Cloudera Data Platform",
+        "MapR",
+        "Dremio",
+        "JupyterHub",
+        "OpenShift",
+        "AWS",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Hortonworks data platform to address healthcare data integration challenges, implementing optimized data pipelines that processed clinical trial data while maintaining HIPAA compliance and patient privacy protections.",
+        "Leveraging AtScale for healthcare analytics semantic layer development, creating consistent business metrics that accelerated clinical research reporting and reduced data interpretation errors across global teams.",
+        "Implementing data virtualization solutions with Dremio to streamline access to healthcare research data, creating unified data views that enabled cross-study analysis and collaborative research initiatives.",
+        "Applying Cloudera Data Platform capabilities to enhance healthcare data lake governance, developing metadata management systems that tracked data lineage from source systems to research applications.",
+        "Utilizing platform engineering practices to automate healthcare data infrastructure deployment, creating reproducible environments that supported clinical trial data processing and research analytics.",
+        "Leading technical implementation of healthcare data platform upgrades, coordinating with research teams to minimize disruption to ongoing clinical studies and data analysis workflows.",
+        "Troubleshooting performance bottlenecks in healthcare data processing pipelines, identifying resource contention issues and implementing optimization strategies for better research data throughput.",
+        "Developing automation scripts for healthcare data cluster operations, creating monitoring solutions that alerted teams to potential issues affecting clinical research data availability.",
+        "Collaborating with healthcare IT teams to integrate big data platforms with clinical systems, ensuring proper data security controls and access management for sensitive patient information.",
+        "Implementing Crew AI frameworks for healthcare research automation, creating multi-agent systems that coordinated data collection, analysis, and reporting across different research domains.",
+        "Using proof-of-concept development to validate new healthcare data platform approaches, testing integration patterns and performance characteristics before production deployment.",
+        "Supporting data scientists with healthcare platform tools and best practices, providing technical guidance on optimal usage patterns for clinical data analysis and research workflows.",
+        "Documenting healthcare data platform configurations and compliance procedures, creating operational guidelines that ensured consistent implementation of data governance and security controls.",
+        "Mentoring junior developers on healthcare data engineering principles, fostering understanding of regulatory requirements and ethical considerations in medical research data handling."
+      ],
+      "environment": [
+        "Hortonworks",
+        "Cloudera Data Platform",
+        "Dremio",
+        "AtScale",
+        "AWS",
+        "OpenShift",
+        "Crew AI",
+        "Multi-agent Systems"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Azure Data Factory to address healthcare data integration challenges, implementing ETL pipelines that processed public health data while maintaining HIPAA compliance and data security requirements.",
+        "Leveraging Hadoop ecosystem tools for healthcare analytics data processing, developing data transformation workflows that supported public health reporting and epidemiological studies.",
+        "Implementing data virtualization approaches to streamline healthcare data access, creating unified views that enabled cross-agency collaboration on public health initiatives and program evaluation.",
+        "Applying platform engineering principles to healthcare data infrastructure, automating deployment processes that reduced setup time and improved environment consistency for analytical workloads.",
+        "Utilizing containerized environments with Azure Kubernetes Service to deploy healthcare data applications, creating scalable platforms that could handle variable public health data processing demands.",
+        "Troubleshooting performance issues in healthcare data pipelines, conducting root cause analysis on processing bottlenecks and implementing optimization strategies for better throughput.",
+        "Developing automation scripts for healthcare data platform operations, creating monitoring solutions that alerted teams to data quality issues and processing failures in public health datasets.",
+        "Collaborating with public health teams to integrate data platforms with existing systems, ensuring proper data governance and access controls for sensitive health information.",
+        "Supporting healthcare data analysts with platform tools and best practices, providing technical guidance on data access patterns and analytical workflow optimization.",
+        "Documenting healthcare data platform configurations and operational procedures, creating comprehensive documentation that enabled efficient support and knowledge transfer.",
+        "Implementing data quality monitoring for public health datasets, developing validation checks that ensured data accuracy and completeness for critical healthcare reporting.",
+        "Mentoring junior team members on healthcare data engineering concepts, fostering understanding of public health data requirements and regulatory compliance considerations."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Hadoop",
+        "Azure Kubernetes",
+        "Data Virtualization",
+        "Healthcare Data Platforms"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Azure Databricks to address financial data processing challenges, implementing Spark-based analytics pipelines that processed transaction data while maintaining PCI DSS compliance requirements.",
+        "Leveraging Hadoop ecosystem for financial risk analysis data processing, developing data transformation workflows that supported fraud detection and credit risk assessment models.",
+        "Implementing data virtualization techniques to streamline financial data access, creating unified views that enabled cross-functional analysis and regulatory reporting capabilities.",
+        "Applying platform engineering approaches to financial data infrastructure, automating data pipeline deployment processes that improved reliability and reduced operational overhead.",
+        "Utilizing containerized solutions with Azure Container Instances to deploy analytical applications, creating scalable environments for financial modeling and risk assessment workloads.",
+        "Troubleshooting data processing issues in financial analytics pipelines, identifying performance bottlenecks and implementing optimization strategies for better model training throughput.",
+        "Developing automation scripts for financial data platform operations, creating monitoring solutions that tracked data quality and processing status for critical risk management datasets.",
+        "Collaborating with banking compliance teams to ensure data platforms met regulatory requirements, implementing proper data governance and access controls for financial information.",
+        "Supporting financial analysts with data platform tools and analytical best practices, providing technical guidance on data access patterns and model development workflows.",
+        "Documenting financial data platform configurations and operational procedures, creating documentation that enabled efficient support and regulatory compliance auditing."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Hadoop",
+        "Azure Containers",
+        "Data Virtualization",
+        "Financial Data Platforms"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop ecosystem to address client data integration challenges, implementing MapReduce jobs that processed large datasets for consulting analytics and business intelligence applications.",
+        "Leveraging Informatica for ETL pipeline development, creating data transformation workflows that supported client reporting requirements and analytical dashboard development.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop clusters, developing efficient data movement patterns that minimized impact on source systems.",
+        "Applying data platform engineering principles to client environments, automating deployment processes that reduced setup time and improved configuration consistency.",
+        "Utilizing Hadoop cluster administration tools for platform management, monitoring cluster health and performance to ensure reliable data processing for client applications.",
+        "Troubleshooting data processing issues in client environments, identifying performance bottlenecks and implementing optimization strategies for better throughput.",
+        "Developing automation scripts for data platform operations, creating monitoring solutions that tracked data quality and processing status for client datasets.",
+        "Collaborating with consulting teams to understand client data requirements, implementing data solutions that met business needs while maintaining proper data governance."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "Data Platform Engineering"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

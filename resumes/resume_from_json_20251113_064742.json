@@ -1,0 +1,285 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data & AI Engineer - GCP Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm a data engineer with 10 years of experience specializing in Python-based data pipeline development and cloud data solutions across insurance, healthcare, and financial domains.",
+    "Leveraging Apache Airflow to orchestrate complex data workflows that transformed State Farm's insurance claim processing system, reducing manual intervention by automating data validation and quality checks.",
+    "Implementing Python data pipelines with Pandas and PySpark for Johnson & Johnson's healthcare analytics, ensuring HIPAA compliance while processing sensitive patient data for research purposes.",
+    "Designing and deploying Google Cloud Data Services including BigQuery and Cloud Storage to handle petabytes of banking transaction data at Bank of America with optimized cost-performance ratios.",
+    "Developing advanced SQL queries with window functions and complex joins to analyze insurance risk patterns, enabling State Farm to refine their premium calculation models and risk assessment strategies.",
+    "Building real-time data processing systems using Redis caching layers to accelerate insurance policy lookup operations, significantly improving customer service response times during peak loads.",
+    "Creating scalable data ingestion frameworks with Python that processed millions of healthcare records daily while maintaining strict data governance and regulatory compliance standards.",
+    "Orchestrating multi-agent AI systems using Crew AI and LangGraph for intelligent document processing at State Farm, automating insurance claim document analysis and validation workflows.",
+    "Optimizing BigQuery performance through strategic partitioning and clustering techniques, reducing query costs by 40% while maintaining sub-second response times for analytical queries.",
+    "Implementing data quality monitoring with Python libraries to ensure accuracy in financial reporting data, establishing automated alerts for data anomalies in banking transaction pipelines.",
+    "Designing cloud-native data architectures on GCP using Dataflow and Dataproc for distributed processing of insurance telematics data, enabling real-time risk assessment capabilities.",
+    "Developing Python-based ETL frameworks with comprehensive error handling and retry mechanisms, ensuring reliable data delivery for critical healthcare analytics and reporting systems.",
+    "Building collaborative data solutions by working closely with data scientists and business analysts to understand insurance domain requirements and translate them into technical specifications.",
+    "Creating reusable data pipeline components in Python that accelerated development of new data products while maintaining consistency across State Farm's data ecosystem.",
+    "Implementing data security measures and access controls in GCP environments to protect sensitive healthcare information, ensuring compliance with HIPAA and other regulatory requirements.",
+    "Troubleshooting complex data pipeline failures by analyzing Airflow DAG runs and Python execution logs, quickly identifying root causes and implementing preventive measures.",
+    "Mentoring junior data engineers on Python best practices and data engineering patterns, fostering knowledge sharing and maintaining code quality across development teams.",
+    "Staying current with evolving data technologies through continuous learning, recently exploring advanced multi-agent systems and their applications in insurance data processing workflows."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Java",
+      "Scala",
+      "Bash/Shell"
+    ],
+    "Data Engineering Tools": [
+      "Apache Airflow",
+      "Apache Spark",
+      "PySpark",
+      "Pandas",
+      "dbt"
+    ],
+    "Cloud Data Services": [
+      "Google BigQuery",
+      "Cloud Storage",
+      "Dataflow",
+      "Dataproc",
+      "Cloud Composer",
+      "GKE"
+    ],
+    "Database Technologies": [
+      "Redis",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "GKE"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "Python",
+      "PySpark",
+      "Apache Beam"
+    ],
+    "AI/ML Frameworks": [
+      "Crew AI",
+      "LangGraph",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub Actions",
+      "Terraform",
+      "Jenkins"
+    ],
+    "Data Processing": [
+      "Apache Spark",
+      "PySpark",
+      "Pandas",
+      "Dask",
+      "Apache Beam"
+    ],
+    "Monitoring & Observability": [
+      "Stackdriver",
+      "Cloud Monitoring",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Python and Apache Airflow to address complex insurance data pipeline orchestration challenges, I designed and implemented DAGs that automated claim processing workflows while ensuring regulatory compliance and data quality standards.",
+        "Leveraging PySpark and BigQuery to process massive volumes of insurance telematics data, I developed distributed data processing pipelines that transformed raw sensor data into actionable insights for risk assessment teams.",
+        "Implementing Redis caching solutions to optimize insurance policy lookup operations, I reduced API response times during peak traffic periods while maintaining data consistency across distributed systems.",
+        "Through Python data structures and Pandas transformations, I engineered data validation frameworks that automatically detected anomalies in insurance claim submissions, preventing fraudulent claims from entering processing systems.",
+        "Using Google Cloud Data Services including Dataflow and Dataproc, I built scalable data ingestion pipelines that handled real-time streaming of insurance transaction data with exactly-once processing semantics.",
+        "Developing advanced SQL queries with window functions and complex joins, I created analytical views that provided State Farm underwriters with comprehensive risk profiles and policy performance metrics.",
+        "Orchestrating multi-agent AI systems with Crew AI and LangGraph, I designed intelligent document processing workflows that automated insurance claim validation while learning from adjuster feedback loops.",
+        "Implementing Cloud Composer for managing Airflow environments, I established reliable workflow orchestration that coordinated data pipelines across multiple GCP services while monitoring SLA compliance.",
+        "Using Python libraries and GKE container orchestration, I deployed scalable microservices that processed insurance images and documents through computer vision models for automated damage assessment.",
+        "Through strategic partitioning and clustering in BigQuery, I optimized data warehouse performance for insurance analytics, enabling faster reporting while controlling cloud infrastructure costs effectively.",
+        "Developing Python-based data quality frameworks with comprehensive testing, I ensured accuracy in insurance financial reporting by implementing automated validation rules and anomaly detection algorithms.",
+        "Leveraging Apache Airflow sensors and operators, I created dynamic workflow dependencies that adapted to changing data availability patterns in State Farm's multi-source insurance data ecosystem.",
+        "Implementing data security measures in GCP environments, I protected sensitive customer information through encryption and access controls while maintaining compliance with insurance industry regulations.",
+        "Using PySpark for distributed data processing, I transformed raw insurance application data into structured formats suitable for machine learning models that predicted policyholder risk scores.",
+        "Through Python script development and containerization with Docker, I created reusable data pipeline components that accelerated development of new insurance data products across different business units.",
+        "Collaborating with data scientists and business analysts, I translated insurance domain requirements into technical specifications for data pipelines that supported advanced analytics and AI applications."
+      ],
+      "environment": [
+        "Python",
+        "Apache Airflow",
+        "PySpark",
+        "Pandas",
+        "Redis",
+        "SQL",
+        "Google BigQuery",
+        "Cloud Storage",
+        "Dataflow",
+        "Dataproc",
+        "Cloud Composer",
+        "GKE",
+        "Docker",
+        "Kubernetes",
+        "Crew AI",
+        "LangGraph",
+        "Git",
+        "Terraform",
+        "Stackdriver"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Python and Apache Airflow to orchestrate healthcare data pipelines, I developed DAGs that processed clinical trial data while maintaining strict HIPAA compliance and data privacy standards throughout the workflow.",
+        "Leveraging PySpark and Pandas for healthcare data transformation, I built ETL processes that normalized patient records from multiple source systems into standardized formats for research analytics.",
+        "Implementing BigQuery as the central data warehouse, I designed schemas and query patterns that enabled fast analysis of pharmaceutical research data while optimizing for cost-performance efficiency.",
+        "Through Python data structures and Redis caching, I accelerated access to frequently queried medical reference data, improving response times for clinical research applications and analytics dashboards.",
+        "Using Google Cloud Data Services including Cloud Storage and Dataflow, I created data ingestion pipelines that handled streaming IoT data from medical devices with robust error handling and recovery mechanisms.",
+        "Developing complex SQL queries with window functions and aggregates, I generated healthcare analytics reports that tracked patient outcomes and treatment effectiveness across different demographic segments.",
+        "Implementing data quality frameworks with Python validation libraries, I ensured accuracy in clinical trial data by establishing automated checks for data completeness, consistency, and regulatory compliance.",
+        "Leveraging Apache Airflow for workflow coordination, I managed dependencies between data processing tasks that transformed raw healthcare data into analysis-ready datasets for research teams.",
+        "Using PySpark for distributed computing, I processed large-scale genomic data sets, enabling researchers to identify patterns and correlations in pharmaceutical efficacy studies across diverse populations.",
+        "Through Python script development and GKE deployment, I containerized data processing applications that scaled dynamically based on healthcare data volumes and research project requirements.",
+        "Implementing data security protocols in GCP environments, I protected sensitive patient health information through encryption, access controls, and audit trails that met HIPAA compliance standards.",
+        "Developing Python-based data integration solutions, I connected disparate healthcare data sources into unified views that supported comprehensive patient journey analysis and treatment outcome studies.",
+        "Using Cloud Composer for Airflow environment management, I established reliable orchestration of healthcare data pipelines while monitoring performance and addressing operational issues proactively.",
+        "Collaborating with healthcare researchers and data scientists, I translated clinical study requirements into technical data pipeline specifications that supported evidence-based medical research and analysis."
+      ],
+      "environment": [
+        "Python",
+        "Apache Airflow",
+        "PySpark",
+        "Pandas",
+        "Redis",
+        "SQL",
+        "Google BigQuery",
+        "Cloud Storage",
+        "Dataflow",
+        "Cloud Composer",
+        "GKE",
+        "Docker",
+        "Git",
+        "Stackdriver",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Python and AWS Glue to process healthcare data, I developed ETL pipelines that transformed public health records into analysis-ready formats while maintaining data privacy and security standards.",
+        "Leveraging PySpark and Pandas for data manipulation, I created processing workflows that aggregated healthcare statistics from multiple sources for public health reporting and analysis.",
+        "Implementing Redshift as the data warehouse solution, I designed schemas and query patterns that enabled efficient analysis of population health data across different regions and demographics.",
+        "Through Python data structures and SQL optimization, I developed analytical queries that tracked healthcare outcomes and resource utilization patterns across state healthcare facilities.",
+        "Using AWS data services including S3 and Lambda, I built serverless data processing pipelines that handled healthcare data ingestion with automatic scaling based on data volume fluctuations.",
+        "Developing data validation frameworks with Python, I ensured accuracy in public health reporting by implementing automated quality checks and anomaly detection for healthcare datasets.",
+        "Implementing data security measures in AWS environments, I protected sensitive health information through proper access controls and encryption that complied with HIPAA requirements.",
+        "Leveraging Python for data transformation tasks, I processed healthcare claims data into standardized formats that supported analysis of treatment patterns and healthcare cost trends.",
+        "Using SQL window functions and complex joins, I created analytical views that provided insights into public health trends and healthcare service utilization across different population segments.",
+        "Developing Python scripts for data integration, I connected disparate healthcare data sources into unified datasets that supported comprehensive public health analysis and policy planning.",
+        "Implementing data quality monitoring with Python libraries, I established automated checks that validated healthcare data completeness and consistency before loading into analytical systems.",
+        "Collaborating with public health analysts and researchers, I translated healthcare domain requirements into technical data pipeline specifications that supported evidence-based public health initiatives."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Pandas",
+        "SQL",
+        "AWS Glue",
+        "Redshift",
+        "S3",
+        "Lambda",
+        "Docker",
+        "Git",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and SQL to analyze banking transaction data, I developed data processing pipelines that transformed raw financial records into features for fraud detection machine learning models.",
+        "Leveraging Pandas for data manipulation and analysis, I created feature engineering workflows that extracted meaningful patterns from transaction data for risk assessment and customer behavior analysis.",
+        "Implementing Redis for real-time data caching, I accelerated access to frequently queried customer profile data, improving response times for fraud detection systems during high-volume transaction periods.",
+        "Through Python data structures and statistical analysis, I developed algorithms that identified anomalous transaction patterns indicative of fraudulent activity while minimizing false positives.",
+        "Using AWS data services including S3 and EC2, I built data processing environments that handled large volumes of financial transaction data with proper security and access controls.",
+        "Developing SQL queries with window functions and aggregates, I created analytical views that tracked customer transaction behaviors and identified patterns relevant to credit risk assessment.",
+        "Implementing data quality frameworks with Python validation, I ensured accuracy in financial reporting data by establishing automated checks for data completeness and regulatory compliance.",
+        "Leveraging Python for data visualization and reporting, I created dashboards that communicated insights about transaction patterns and fraud detection model performance to business stakeholders.",
+        "Using statistical techniques with Python libraries, I analyzed customer segmentation data that informed targeted marketing strategies and personalized banking service recommendations.",
+        "Collaborating with risk management teams and business analysts, I translated financial domain requirements into technical specifications for data pipelines that supported regulatory reporting and analytics."
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Redis",
+        "AWS S3",
+        "EC2",
+        "Docker",
+        "Git",
+        "Financial Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop and Informatica for data processing, I developed ETL workflows that transformed client data from multiple sources into consolidated data warehouses for business intelligence reporting.",
+        "Leveraging Sqoop for data transfer between relational databases and Hadoop, I created data ingestion pipelines that efficiently moved large datasets between different storage and processing systems.",
+        "Implementing Python scripts for data validation, I developed automated checks that ensured data quality and consistency throughout the ETL process for client data integration projects.",
+        "Through SQL query development and optimization, I created data extraction routines that gathered information from source systems while minimizing performance impact on operational databases.",
+        "Using Informatica PowerCenter for workflow orchestration, I designed ETL processes that transformed and loaded client data according to business rules and data quality requirements.",
+        "Developing data mapping specifications with Python, I documented transformation logic and data flow patterns that guided ETL development and supported future maintenance activities.",
+        "Implementing data processing routines with Hadoop MapReduce, I handled large-scale data transformation tasks that prepared client data for analytical processing and reporting purposes.",
+        "Collaborating with business analysts and client stakeholders, I translated business requirements into technical specifications for data integration solutions that met client reporting needs."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "MapReduce"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

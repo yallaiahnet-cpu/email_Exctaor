@@ -1,0 +1,244 @@
+{
+  "name": "Yallaiah Yallaiah",
+  "title": "Senior .Net Microservices Engineer",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 5 years of experience across Insurance, Technology, and Transportation domains, specializing in building scalable .Net Core microservices and ASP.NET Core Web APIs using C# with Entity Framework for enterprise-level applications.",
+    "Delivered RESTful APIs with gRPC communication for real-time claims processing workflows, integrating SQL databases and Git version control to maintain code quality through xUnit test coverage and NSubstitute mocking frameworks in agile sprints.",
+    "Optimized API performance by refactoring legacy .Net Framework applications into containerized ASP.NET Core services, applying TDD principles with unit testing frameworks to validate business logic while collaborating with DevOps teams on CI/CD automation.",
+    "Configured Docker containers and Kubernetes orchestration for .Net microservices deployment on Azure cloud infrastructure, establishing observability through Application Insights monitoring and implementing OAuth2 security protocols for authenticated endpoints.",
+    "Resolved production incidents in insurance policy management systems by debugging async/await patterns in C# codebases, conducting thorough code reviews with GitHub pull requests, and troubleshooting SQL query bottlenecks during peak transaction periods.",
+    "Built event-driven systems using Azure Service Bus message queues for decoupled microservice communication, documenting API contracts with Swagger/OpenAPI specifications and validating request payloads through Postman integration testing suites.",
+    "Enhanced system reliability by implementing load testing strategies with JMeter tools, analyzing performance metrics under stress conditions, and tuning Entity Framework queries to reduce database latency in high-volume insurance claim submission workflows.",
+    "Automated build pipelines using Azure DevOps for continuous integration of .Net Core applications, establishing branching strategies in Git repositories, and coordinating deployment schedules with QA teams to ensure seamless production releases across environments.",
+    "Improved code maintainability by adopting interface-based design principles in C# service layers, refactoring tightly coupled components into testable modules, and mentoring junior developers on OWASP security best practices during technical design review sessions.",
+    "Facilitated cross-functional alignment between product owners and engineering teams through clear communication of technical constraints, translating business requirements into actionable API specifications, and adapting quickly to shifting priorities in fast-paced development cycles."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      ".Net Core",
+      ".Net Framework",
+      "SQL",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "Frameworks & Libraries": [
+      "ASP.NET Core Web API",
+      "Entity Framework",
+      "gRPC",
+      "NSubstitute",
+      "xUnit",
+      "NUnit",
+      "MSTest"
+    ],
+    "Frontend Development": [
+      "React",
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "Bootstrap"
+    ],
+    "Backend & API Design": [
+      "RESTful APIs",
+      "Microservices Architecture",
+      "Interface-based design",
+      "Async/await",
+      "Swagger/OpenAPI",
+      "API Gateway"
+    ],
+    "Databases": [
+      "SQL Server",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Azure App Services",
+      "Azure Functions",
+      "Azure Service Bus",
+      "AWS",
+      "GCP"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "Azure DevOps",
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Testing Tools": [
+      "TDD (Test-Driven Development)",
+      "Unit Testing",
+      "Integration Testing",
+      "Postman",
+      "JMeter",
+      "Locust"
+    ],
+    "Monitoring & Observability": [
+      "Application Insights",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "Splunk"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket"
+    ],
+    "Security & Compliance": [
+      "OAuth2",
+      "OWASP",
+      "HIPAA",
+      "GDPR",
+      "JWT",
+      "SSL/TLS"
+    ],
+    "Message Queues": [
+      "RabbitMQ",
+      "Azure Service Bus",
+      "Kafka",
+      "MSMQ"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior .Net Microservices Developer",
+      "client": "HealthTech Solutions Inc.",
+      "duration": "2025-Feb - Present",
+      "location": "Remote",
+      "responsibilities": [
+        "Develop ASP.NET Core Web API microservices using C# and Entity Framework for insurance claims adjudication platform, implementing async/await patterns to handle concurrent policy validation requests while maintaining HIPAA compliance across distributed systems.",
+        "Integrate gRPC communication protocols between .Net Core services for real-time premium calculation workflows, utilizing interface-based design to decouple business logic from data access layers and ensure testability through xUnit and NSubstitute mocking frameworks.",
+        "Refactor monolithic .Net Framework insurance enrollment modules into containerized microservices using Docker, applying TDD methodology with unit testing to validate regulatory business rules and coordinating with QA teams on regression test coverage across environments.",
+        "Deploy Kubernetes clusters on Azure cloud infrastructure for orchestrating .Net Core API services, configuring horizontal pod autoscaling to handle peak enrollment periods, and establishing CI/CD pipelines through Azure DevOps for automated build and deployment workflows.",
+        "Monitor production API health using Application Insights observability tools, analyzing telemetry data to identify performance bottlenecks in SQL query execution, and troubleshooting memory leaks in C# async operations during late-night on-call rotations with support teams.",
+        "Document RESTful API contracts with Swagger/OpenAPI specifications for third-party insurance provider integrations, conducting Postman testing to verify OAuth2 authentication flows, and collaborating with product managers to finalize endpoint requirements in sprint planning sessions.",
+        "Secure API endpoints by implementing OAuth2 token-based authentication using Azure Active Directory, applying OWASP security guidelines to prevent injection vulnerabilities, and conducting code reviews to enforce secure coding standards across the .Net Core codebase.",
+        "Automate load testing scenarios with JMeter tools to validate API performance under simulated high-traffic conditions, tuning Entity Framework LINQ queries to reduce database round trips, and presenting optimization findings to engineering leadership during review meetings.",
+        "Establish event-driven messaging patterns using Azure Service Bus queues for decoupled claim submission workflows, serializing C# objects for reliable message delivery, and debugging message processing failures by analyzing dead-letter queue logs in production environments.",
+        "Maintain Git version control hygiene by enforcing branch protection rules in GitHub repositories, reviewing pull requests for code quality and adherence to interface-based design patterns, and resolving merge conflicts during collaborative feature development with distributed team members.",
+        "Participate in daily standup meetings to communicate blockers related to Entity Framework migration issues, pair programming with colleagues to debug complex async/await threading problems, and adapting technical approaches based on feedback from senior reviewers.",
+        "Update legacy insurance policy management APIs from .Net Framework to ASP.NET Core, migrating SQL stored procedures to Entity Framework Core queries, and coordinating deployment windows with DevOps engineers to minimize downtime for critical production services."
+      ],
+      "environment": [
+        "C#",
+        ".Net Core",
+        "ASP.NET Core Web API",
+        "Entity Framework",
+        "SQL Server",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "GitHub",
+        "gRPC",
+        "Async/await",
+        "xUnit",
+        "NSubstitute",
+        "Azure DevOps",
+        "Application Insights",
+        "OAuth2",
+        "Swagger/OpenAPI",
+        "Postman",
+        "JMeter",
+        "Azure Service Bus",
+        "HIPAA",
+        "TDD"
+      ]
+    },
+    {
+      "role": ".Net API Engineer",
+      "client": "Community Health Systems",
+      "duration": "2024-Apr - 2025-Feb",
+      "location": "Hybrid",
+      "responsibilities": [
+        "Constructed RESTful Web APIs with ASP.NET Core and C# for electronic health record integration platform, implementing Entity Framework database access patterns and async/await concurrency to process patient admission records across SQL Server backend systems.",
+        "Validated API functionality through comprehensive xUnit test suites with NSubstitute dependency injection mocking, applying interface-based design to isolate service layer logic from controller endpoints, and submitting code changes via Git pull requests for peer review cycles.",
+        "Containerized .Net Core microservices using Docker images for consistent deployment across development and staging environments, writing Dockerfile configurations and collaborating with DevOps teams to integrate Kubernetes orchestration for automated scaling during traffic spikes.",
+        "Automated CI/CD workflows using GitHub Actions to compile C# projects, execute unit tests with code coverage reporting, and deploy ASP.NET Core applications to Azure App Services, reducing manual deployment efforts and accelerating release velocity for technology platform features.",
+        "Diagnosed production API errors by analyzing Application Insights telemetry logs, identifying slow SQL queries caused by missing database indexes, and working closely with database administrators to optimize Entity Framework LINQ expressions for improved response times.",
+        "Designed gRPC service contracts for inter-service communication between patient scheduling and billing modules, serializing protocol buffer messages in C#, and documenting API specifications with Swagger annotations to facilitate integration testing by external vendor partners.",
+        "Strengthened API security by integrating OAuth2 authorization middleware in ASP.NET Core pipeline, validating JWT bearer tokens against Azure Active Directory claims, and conducting Postman security tests to verify endpoint access controls aligned with OWASP best practices.",
+        "Performed load testing using Locust framework to simulate concurrent patient record requests, measuring API throughput under stress conditions, and tuning async/await configuration parameters in C# controllers to prevent thread pool exhaustion during peak usage hours.",
+        "Migrated legacy SOAP services from .Net Framework to modern RESTful APIs built with .Net Core, refactoring XML serialization logic to JSON with Entity Framework models, and coordinating cutover plans with QA teams to validate backward compatibility for dependent systems.",
+        "Assisted junior developers during code review sessions by explaining interface-based design benefits, demonstrating NSubstitute mock setup techniques for unit testing isolated components, and sharing debugging strategies for resolving Entity Framework lazy loading exceptions in development environments."
+      ],
+      "environment": [
+        "C#",
+        ".Net Core",
+        "ASP.NET Core Web API",
+        "Entity Framework",
+        "SQL Server",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "GitHub",
+        "GitHub Actions",
+        "Azure",
+        "Application Insights",
+        "gRPC",
+        "Async/await",
+        "xUnit",
+        "NSubstitute",
+        "OAuth2",
+        "Swagger/OpenAPI",
+        "Postman",
+        "Locust",
+        "JWT",
+        "OWASP"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "m-Pledge",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Onsite",
+      "responsibilities": [
+        "Created ASP.NET Core APIs using C# for transportation logistics tracking system, querying SQL databases with Entity Framework to retrieve shipment status data, and implementing async/await operations to handle multiple concurrent route optimization requests from mobile applications.",
+        "Tested API endpoints with xUnit framework and NSubstitute mocking library to verify business logic correctness in C# service classes, committing tested code to Git repositories, and participating in sprint retrospectives to discuss improvement areas for development processes.",
+        "Configured Docker containers for .Net Core transportation management services deployed on GCP cloud infrastructure, setting up Kubernetes deployment manifests for container orchestration, and monitoring application logs to troubleshoot runtime exceptions during initial rollout phases.",
+        "Prepared Swagger documentation for RESTful APIs consumed by driver mobile apps, defining request/response schemas with OpenAPI specifications, and conducting Postman integration tests to validate GPS coordinate data serialization between C# backend services and frontend clients.",
+        "Addressed production bugs related to Entity Framework database connection timeouts in SQL Server, analyzing transaction logs to identify long-running queries, and optimizing LINQ expressions in C# code to reduce query complexity and improve API response latency metrics.",
+        "Collaborated with transportation domain experts to translate fleet management requirements into technical API specifications, attending daily standup meetings to report progress on gRPC service development, and adjusting implementation timelines based on shifting business priorities."
+      ],
+      "environment": [
+        "C#",
+        ".Net Core",
+        "ASP.NET Core Web API",
+        "Entity Framework",
+        "SQL Server",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "gRPC",
+        "Async/await",
+        "xUnit",
+        "NSubstitute",
+        "Swagger/OpenAPI",
+        "Postman"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": []
+}

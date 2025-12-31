@@ -1,0 +1,308 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Head of LLM Engineering & Machine Learning Platform",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Machine Learning Engineering, LLM Engineering, and Natural Language Processing with deep expertise in deploying large-scale AI systems within highly regulated Healthcare, Insurance, Government, and Finance domains.",
+    "Leveraging PyTorch and Hugging Face transformers, I architected a multi-agent LLM system using Crew AI and LangGraph to automate clinical documentation, overcoming HIPAA compliance challenges through rigorous data anonymization techniques and secure AWS deployment.",
+    "Utilizing DeepSpeed and distributed model training strategies, I optimized the fine-tuning of BERT-based models on GPU clusters for insurance claim processing, which significantly improved model accuracy while managing cloud compute costs effectively.",
+    "Applying expert-level Python programming and TensorFlow, I constructed a real-time fraud detection LLM pipeline for financial transactions, integrating Model Context Protocol to ensure strict PCI-DSS compliance and robust data security across Azure services.",
+    "Implementing MLOps best practices with MLflow and Kubeflow, I established a complete model lifecycle management system for government services, enabling experiment tracking, model versioning, and governance alignment with public sector data policies.",
+    "Designing scalable AI system architecture on AWS SageMaker and Bedrock, I led the end-to-end development of a healthcare chatbot that reduced patient inquiry resolution time by leveraging RAG pipelines and responsible AI standards.",
+    "Orchestrating production deployment of LLM models via CI/CD automation for ML, I engineered robust Docker containers and Kubernetes manifests that ensured high availability and seamless A/B testing for mission-critical insurance applications.",
+    "Directing data collection and preparation workflows, I spearheaded the creation of a massive, curated dataset for fine-tuning clinical LLMs, addressing inherent biases and ensuring model fairness through extensive evaluation metrics.",
+    "Managing cross-functional team collaboration between research scientists and infrastructure engineers, I translated novel Transformer architectures into enterprise-grade applications, balancing innovation with operational stability and budget constraints.",
+    "Establishing model evaluation frameworks and monitoring protocols, I instituted comprehensive performance dashboards that provided stakeholders with clear insights into model drift, accuracy, and business impact for executive-level reporting.",
+    "Guiding ML engineering team leadership and mentoring initiatives, I cultivated a high-performance culture focused on deep learning research, distributed systems design, and the strategic execution of AI roadmaps aligned to organizational goals.",
+    "Executing compute resource management and GPU optimization strategies, I devised a dynamic scaling policy for training jobs that reduced cloud expenditure by leveraging spot instances and automated job scheduling based on priority.",
+    "Championing data security and responsible AI standards, I conducted thorough audits of all model inputs and outputs, implementing encryption-in-transit and at-rest for protected health information within our AWS environment.",
+    "Pioneering distributed model training at scale, I resolved critical bottlenecks in our data parallel training runs by refactoring data loaders and implementing gradient checkpointing, which accelerated our experimentation cycle substantially.",
+    "Formulating strategic objectives, milestones, and success metrics for AI initiatives, I aligned the technical delivery of our LLM platform with key business outcomes, ensuring measurable value from proof-of-concept to production rollout.",
+    "Leading enterprise-grade ML deployment and model governance, I created a centralized registry that standardized the approval process for model promotions, enforcing compliance checks and documentation before any live deployment.",
+    "Facilitating stakeholder communication and risk management, I regularly presented technical deep-dives and delivery tracking updates to senior leadership, translating complex AI concepts into actionable business intelligence.",
+    "Owning the large-scale LLM platform's entire development lifecycle, I coordinated with product and infrastructure teams to design a fault-tolerant, high-performance system that supported millions of daily inferences for healthcare providers."
+  ],
+  "technical_skills": {
+    "Programming & Core Languages": [
+      "Python (Expert Level)",
+      "SQL",
+      "Bash/Shell Scripting",
+      "Java",
+      "R"
+    ],
+    "Machine Learning & Deep Learning Frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "Keras",
+      "Scikit-learn",
+      "DeepSpeed"
+    ],
+    "LLM & NLP Specialization": [
+      "Large Language Models (LLMs)",
+      "Transformer Architectures",
+      "BERT/GPT Families",
+      "Fine-tuning & Prompt Engineering",
+      "RAG Pipelines",
+      "Multi-Agent Systems"
+    ],
+    "MLOps & Platform Engineering": [
+      "MLflow",
+      "Kubeflow",
+      "Model Lifecycle Management",
+      "Experiment Tracking",
+      "CI/CD Automation for ML",
+      "Model Versioning",
+      "Monitoring & Observability"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (SageMaker, Bedrock, EC2, S3, Lambda, RDS)",
+      "Azure (ML Studio, Data Factory, Cosmos DB)",
+      "Vertex AI"
+    ],
+    "Distributed Computing & Optimization": [
+      "Distributed Model Training",
+      "GPU/TPU Optimization",
+      "High-Performance Model Optimization",
+      "Scalable AI System Architecture"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Data Engineering & Pipelines": [
+      "Data Collection & Preparation",
+      "Apache Spark",
+      "Apache Airflow",
+      "ETL Design"
+    ],
+    "Development Tools & DevOps": [
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform",
+      "Jupyter Notebook"
+    ],
+    "Model Deployment & Integration": [
+      "Production Deployment of ML/LLM Models",
+      "REST APIs",
+      "FastAPI",
+      "Streamlit"
+    ],
+    "Governance & Security": [
+      "Responsible AI Standards",
+      "Model Governance",
+      "Data Security",
+      "HIPAA/GDPR/PCI Compliance"
+    ],
+    "Leadership & Project Management": [
+      "ML Engineering Team Leadership",
+      "Cross-functional Collaboration",
+      "Mentoring",
+      "Strategic AI Initiative Execution",
+      "Stakeholder Communication"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilizing PyTorch and Hugging Face libraries, I confronted the challenge of creating a HIPAA-compliant LLM for clinical note generation by architecting a multi-agent system with Crew AI and LangGraph, which securely processed PHI and reduced manual documentation time.",
+        "Implementing distributed model training with DeepSpeed on an AWS GPU cluster, I tackled the slow fine-tuning of a clinical BERT model by optimizing ZeRO stages and gradient checkpointing, cutting training time by 40% while maintaining strict data privacy.",
+        "Designing a scalable AI system architecture on AWS SageMaker, I addressed the need for real-time inference by building a serverless endpoint pipeline with autoscaling, which handled unpredictable patient data query loads during peak hospital hours.",
+        "Establishing MLOps practices using MLflow, I solved experiment reproducibility issues across our team by creating a centralized tracking server and standardizing project templates, ensuring all model iterations were logged with full hyperparameters and metrics.",
+        "Leading the ML engineering team, I guided the strategic execution of our AI roadmap by defining quarterly objectives and success metrics, fostering a culture of innovation while tracking project risks and resource allocation for executive reviews.",
+        "Applying expert-level Python for model evaluation, I developed a comprehensive testing suite that measured clinical accuracy, bias, and hallucination rates, providing stakeholders with clear reports to govern model deployment decisions.",
+        "Orchestrating production deployment with CI/CD automation for ML, I automated the containerization and promotion of LLM models using GitHub Actions and AWS ECR, enabling safe and rapid updates to our live healthcare chatbot service.",
+        "Pioneering agentic frameworks like Model Context Protocol, I engineered a proof-of-concept for agent-to-agent communication that allowed specialized diagnostic assistants to collaborate, improving the overall diagnostic suggestion accuracy.",
+        "Managing compute resource management and budget optimization, I analyzed our AWS SageMaker training costs and implemented a tagging strategy and automated shutdown of idle instances, achieving a 25% reduction in monthly cloud spend.",
+        "Directing data collection and preparation workflows, I coordinated with medical experts to curate and anonymize a massive dataset of clinical texts, overcoming data scarcity and ensuring our LLM training adhered to ethical AI standards.",
+        "Architecting a monitoring and observability stack for ML systems, I integrated CloudWatch metrics with custom model performance dashboards, allowing our team to quickly detect and troubleshoot accuracy drifts in production models.",
+        "Facilitating stakeholder communication with research and product teams, I translated complex technical constraints into actionable product requirements during weekly syncs, ensuring alignment between model capabilities and healthcare user needs.",
+        "Mentoring data scientists on deep learning architectures and Transformer nuances, I conducted hands-on code reviews and debugging sessions, helping junior engineers resolve gradient vanishing issues in their custom attention layers.",
+        "Championing responsible AI standards and model governance, I instituted a mandatory review checklist for all model deployments, requiring fairness audits and impact assessments to ensure compliance with healthcare regulations.",
+        "Executing high-performance model optimization techniques, I profiled inference latency using PyTorch Profiler and optimized kernel operations, achieving the sub-second response times required for real-time clinical decision support.",
+        "Formulating a disaster recovery plan for our LLM platform, I designed and tested a blue-green deployment strategy on AWS EKS, ensuring high availability and minimal downtime for critical healthcare applications during system updates."
+      ],
+      "environment": [
+        "PyTorch",
+        "TensorFlow",
+        "Hugging Face",
+        "DeepSpeed",
+        "AWS SageMaker",
+        "AWS Bedrock",
+        "EC2",
+        "S3",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "MLflow",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "Python",
+        "Transformers",
+        "LLMs",
+        "Multi-Agent Systems",
+        "CI/CD",
+        "MLOps"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Leveraging TensorFlow and Keras, I addressed the complexity of insurance claim fraud detection by designing and fine-tuning a Transformer-based model that analyzed narrative fields, improving fraudulent pattern identification by 30%.",
+        "Constructing a natural language processing pipeline with spaCy and Hugging Face, I solved the problem of extracting structured data from unstructured physician notes, automating a manual process and accelerating claim adjudication timelines.",
+        "Implementing model lifecycle management with a nascent MLOps approach, I established a basic model registry using MLflow to track versions of our risk prediction models, bringing order to previously ad-hoc deployment practices.",
+        "Applying distributed model training concepts on AWS EC2 instances with multiple GPUs, I parallelized the training of a large claim classification model using PyTorch DataParallel, reducing iteration time and allowing faster hypothesis testing.",
+        "Developing a proof-of-concept for a multi-agent system using Crew AI, I explored automating the multi-step insurance inquiry process, where different agents handled eligibility checks, claim status, and explanation of benefits.",
+        "Guiding a small team of ML engineers, I mentored them on best practices for code review, debugging Tensor graph issues, and writing production-ready Python code for our insurance analytics services.",
+        "Designing data collection and preparation strategies for model training, I worked with actuaries to define relevant features from historical claims data, ensuring our datasets were representative and complied with insurance regulations.",
+        "Establishing foundational model evaluation protocols, I created a validation framework that measured precision and recall against business-defined fraud thresholds, providing clearer metrics for stakeholder reviews.",
+        "Orchestrating the production deployment of an ML model for the first time in the team, I containerized a scikit-learn model with Docker and deployed it as a REST API on AWS ECS, documenting the process for future repetitions.",
+        "Utilizing AWS cloud services for compute resource management, I set up automated alerts for training job costs and performance, initiating conversations about budget optimization with project managers.",
+        "Collaborating with cross-functional teams including compliance officers, I integrated data security requirements into our model development pipeline, ensuring all PII was masked before being used for training.",
+        "Pioneering the use of LangGraph for structuring deterministic workflows within our POC, I modeled the sequential decision paths an insurance claim follows, improving the explainability of our automated systems.",
+        "Conducting extensive troubleshooting of a model serving endpoint that suffered from memory leaks, I profiled the application, identified a issue with batch prediction logic, and patched it, restoring service stability.",
+        "Facilitating knowledge sharing sessions on LLMs and their potential in insurance, I prepared presentations explaining Transformer architectures and RAG to business stakeholders, bridging the gap between technical and domain teams."
+      ],
+      "environment": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Hugging Face",
+        "spaCy",
+        "AWS EC2",
+        "S3",
+        "ECS",
+        "MLflow",
+        "Docker",
+        "Crew AI",
+        "LangGraph",
+        "Python",
+        "Scikit-learn",
+        "Transformer Models",
+        "NLP",
+        "Model Deployment",
+        "Data Preparation"
+      ]
+    },
+    {
+      "role": " Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Employing Azure ML Studio and Python, I tackled the challenge of predicting public service program uptake by building and evaluating logistic regression and gradient boosting models, supporting data-driven policy adjustments.",
+        "Building natural language processing capabilities for citizen feedback analysis, I implemented a basic sentiment analysis tool using NLTK and TF-IDF, categorizing thousands of survey responses for various government departments.",
+        "Supporting data collection and preparation for a statewide analytics initiative, I engineered Azure Data Factory pipelines to consolidate data from disparate sources, ensuring compliance with government data retention laws.",
+        "Assisting in the model training and fine-tuning of a time-series forecasting model for resource allocation, I experimented with Facebook Prophet on Azure Databricks to predict demand for social services.",
+        "Developing scripts for model evaluation and performance reporting, I automated the generation of accuracy and confusion matrix reports, which were submitted as part of mandatory governance documentation.",
+        "Participating in cross-functional team collaboration with policy analysts, I translated their domain expertise into actionable features for our models, learning the intricacies of government service delivery.",
+        "Implementing basic model versioning practices by organizing code and trained model artifacts in Azure Blob Storage with clear naming conventions, establishing the groundwork for better MLOps.",
+        "Learning the principles of responsible AI and data security specific to public sector data, I attended workshops on GDPR-like principles for citizen data and applied anonymization techniques to our datasets.",
+        "Conducting routine debugging and maintenance of existing data pipelines in Azure, I resolved job failures related to data schema changes, ensuring uninterrupted data flow for analytical reporting.",
+        "Contributing to documentation of ML systems and processes, I created runbooks for model retraining and deployment steps, improving knowledge sharing within our growing analytics team.",
+        "Attending meetings with infrastructure teams to understand Azure's security and networking constraints, I designed model endpoints that operated within the government's secure virtual network perimeter.",
+        "Exploring the emerging field of deep learning through online courses and small-scale experiments, I built a simple image classifier for digitizing form submissions using TensorFlow and Keras on Azure VMs."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Blob Storage",
+        "NLTK",
+        "Scikit-learn",
+        "TensorFlow",
+        "Keras",
+        "Facebook Prophet",
+        "SQL",
+        "Data Pipelines",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Utilizing Apache Spark MLlib on Azure Databricks, I helped address credit risk modeling by assisting in feature engineering for gradient boosted tree models, working under the guidance of senior data scientists.",
+        "Building and maintaining ETL data pipelines with Azure Data Factory, I solved data quality issues that impacted model training by implementing data validation checks and automated cleansing routines.",
+        "Supporting the data preparation phase for machine learning projects, I wrote complex SQL queries to extract and transform transactional data from Azure SQL Data Warehouse, ensuring PCI compliance.",
+        "Learning the fundamentals of model deployment by containerizing a simple fraud scoring model with Docker and deploying it to an Azure Container Instance for testing purposes.",
+        "Assisting in model evaluation tasks by executing pre-defined validation scripts and compiling performance results into spreadsheets for the model governance review meetings.",
+        "Participating in code reviews for data processing scripts, I learned to write more efficient PySpark code and better handle edge cases in financial transaction data.",
+        "Contributing to data security efforts by ensuring all sensitive financial data accessed for model development was encrypted and followed strict access control protocols within Azure.",
+        "Troubleshooting failed Spark jobs on Azure Databricks clusters, I learned to interpret logs and optimize cluster configurations to manage compute costs for large-scale data processing.",
+        "Documenting the data lineage and transformations applied to features used in models, creating clear diagrams and descriptions for audit and compliance purposes.",
+        "Attending training sessions on machine learning concepts and financial regulations, building my foundational knowledge of how AI applied within the constraints of the finance industry."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure SQL DW",
+        "Apache Spark",
+        "PySpark",
+        "MLlib",
+        "Python",
+        "SQL",
+        "Docker",
+        "ETL",
+        "Data Pipelines",
+        "Data Preparation"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Applying Python and SQL for data analysis, I supported healthcare research by querying and cleaning anonymized patient data from Oracle databases, ensuring all handling complied with data privacy norms.",
+        "Developing basic data visualizations with Power BI and matplotlib, I created dashboards that helped researchers identify patterns in lab test results, contributing to preliminary hypothesis generation.",
+        "Assisting senior team members with data collection and preparation tasks for early machine learning experiments, such as formatting image data for diagnostic algorithm training.",
+        "Learning the importance of data quality and governance in healthcare, I meticulously documented data sources and any transformations applied, understanding its critical role in medical research.",
+        "Participating in team meetings where project challenges were discussed, I began to understand the complexities of building AI for healthcare, including regulatory hurdles and ethical considerations.",
+        "Conducting exploratory data analysis on various healthcare datasets using pandas in Jupyter notebooks, producing summary statistics and correlation reports for the data science team.",
+        "Supporting the maintenance of existing PostgreSQL databases containing research metadata, writing scripts to backup data and perform integrity checks.",
+        "Troubleshooting basic issues with data extraction scripts, learning to debug Python errors and optimize slow-running SQL queries against large patient datasets."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "PostgreSQL",
+        "Power BI",
+        "matplotlib",
+        "pandas",
+        "Jupyter Notebook",
+        "Data Analysis",
+        "Data Visualization",
+        "Healthcare Data"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,344 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Data Governance Engineer - MS Purview & Cloud Data Management",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise data governance, metadata management, and cloud data platforms with focus on MS Purview implementation across Insurance, Healthcare, and Banking domains using Python and PySpark frameworks.",
+    "Configured MS Purview for data cataloging and lineage tracking in Insurance environments, connecting Azure SQL and Synapse sources while maintaining RBAC policies for regulatory compliance with automated classification workflows using Python scripts.",
+    "Established data governance frameworks using Informatica AXON alongside MS Purview to manage metadata repositories, creating custom data lineage mappings that connected Azure Data Factory pipelines with Databricks Unity Catalog for Insurance claim processing systems.",
+    "Automated data masking policies across Healthcare datasets using PySpark and MS Purview APIs, implementing row-level security controls that protected PHI data in Azure Cosmos DB while maintaining audit trails for HIPAA compliance reviews and regulatory reporting.",
+    "Integrated Unity Catalog with MS Purview using REST APIs and Python automation scripts, synchronizing metadata between Databricks workspaces and enterprise catalogs to enable cross-platform data discovery for Insurance risk assessment teams and actuarial analysts.",
+    "Maintained data classification taxonomies in MS Purview for Banking transaction data, tagging PII and financial attributes across Azure SQL databases while creating automated workflows that triggered security alerts when sensitive data patterns were detected in Power BI reports.",
+    "Collaborated with Data Stewards and BI teams to define data quality rules in MS Purview, building Python-based validation frameworks that scanned Azure Data Factory outputs and flagged anomalies before data reached Tableau dashboards for business consumption.",
+    "Delivered demos to business users showing MS Purview catalog search capabilities, walking through data lineage views from source systems to Power BI reports while explaining how governance policies ensured data accuracy and regulatory compliance in Insurance operations.",
+    "Implemented RBAC configurations in Unity Catalog and MS Purview for Healthcare projects, coordinating with Security teams to map Active Directory groups to data access levels while documenting permission matrices that aligned with GDPR and HIPAA requirements.",
+    "Created metadata ingestion pipelines using Python and Azure DevOps, pulling schema definitions from Azure Synapse and Databricks into MS Purview catalogs with automated scheduling that refreshed lineage graphs nightly to reflect data transformation changes.",
+    "Designed data governance workflows in MS Purview that routed approval requests to Data Stewards when critical data elements were modified, integrating notification systems that sent alerts via Azure Functions whenever compliance thresholds were breached in production environments.",
+    "Worked with Data Architecture teams to standardize naming conventions and metadata tags across Insurance data platforms, using MS Purview glossaries to define business terms that connected technical assets with regulatory documentation for audit readiness.",
+    "Built PySpark scripts that extracted data quality metrics from Databricks tables and pushed results into MS Purview dashboards, helping Data Engineering teams monitor completeness and accuracy scores for Healthcare patient records and financial transaction datasets.",
+    "Configured data lineage in MS Purview by parsing Azure Data Factory JSON definitions and Databricks notebook logs, tracing data flows from rawIngestionIngestion zones through transformation layers to final Power BI semantic models used by Insurance underwriting teams.",
+    "Documented governance policies and procedures for MS Purview adoption, creating runbooks that explained how to register data sources, apply sensitivity labels, and troubleshoot metadata sync issues with Unity Catalog and Azure cloud storage services.",
+    "Managed cross-functional meetings with Data Engineers and BI developers to resolve data discovery gaps, using MS Purview search analytics to identify unused datasets and recommend archival strategies that reduced Azure storage costs while maintaining compliance audit trails.",
+    "Developed Python automation scripts that compared metadata between Informatica AXON and MS Purview, identifying inconsistencies in data ownership assignments and triggering reconciliation workflows that ensured both platforms reflected accurate stewardship information for regulatory reviews.",
+    "Tested MS Purview integration with Power BI and Tableau by validating that report-level lineage captured all upstream dependencies, troubleshooting cases where data masking rules broke dashboard visualizations and adjusting RBAC settings to restore access for authorized business users."
+  ],
+  "technical_skills": {
+    "Data Governance Platforms": [
+      "MS Purview",
+      "Informatica AXON",
+      "Informatica DG",
+      "Unity Catalog",
+      "Collibra",
+      "Ataccama"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "PySpark",
+      "SQL",
+      "Bash/Shell",
+      "Scala",
+      "R"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure Data Factory",
+      "Azure Synapse",
+      "Azure SQL",
+      "Azure Cosmos DB",
+      "Databricks",
+      "AWS S3",
+      "AWS Glue",
+      "AWS RDS"
+    ],
+    "Metadata & Catalog Management": [
+      "MS Purview Catalog",
+      "Unity Catalog",
+      "Data Lineage Creation",
+      "Metadata Management",
+      "Data Classification",
+      "Business Glossary"
+    ],
+    "Security & Access Control": [
+      "RBAC",
+      "Data Masking",
+      "Row-Level Security",
+      "Azure Active Directory",
+      "IAM",
+      "Managed Identities"
+    ],
+    "ETL & Data Integration": [
+      "Azure Data Factory",
+      "Informatica PowerCenter",
+      "Apache Airflow",
+      "Databricks Workflows",
+      "Apache NiFi"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Hadoop",
+      "Hive",
+      "Sqoop",
+      "Apache Kafka"
+    ],
+    "BI & Visualization Tools": [
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "Plotly",
+      "Seaborn"
+    ],
+    "Databases & Data Warehouses": [
+      "Azure SQL",
+      "Synapse Analytics",
+      "Cosmos DB",
+      "PostgreSQL",
+      "MySQL",
+      "Snowflake",
+      "Oracle",
+      "Teradata"
+    ],
+    "DevOps & Version Control": [
+      "Git",
+      "Azure DevOps",
+      "GitHub",
+      "Jenkins",
+      "Terraform",
+      "CI/CD Pipelines"
+    ],
+    "APIs & Integration": [
+      "REST APIs",
+      "MS Purview APIs",
+      "Azure Functions",
+      "Flask",
+      "Fast API"
+    ],
+    "Compliance & Standards": [
+      "HIPAA",
+      "GDPR",
+      "PCI-DSS",
+      "SOX",
+      "FDA",
+      "Data Quality Frameworks"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Configure MS Purview data catalog for Insurance policy datasets stored in Azure SQL and Synapse, registering sources through Python automation scripts that scan metadata nightly and update classification tags based on sensitivity patterns detected in claims data.",
+        "Build data lineage mappings in MS Purview by parsing Azure Data Factory pipeline definitions and Databricks notebook logs, tracing Insurance underwriting data flows from raw ingestion through PySpark transformations to final Power BI dashboards consumed by actuarial teams.",
+        "Implement RBAC policies in Unity Catalog and MS Purview for multi-agent systems accessing Insurance risk models, coordinating with Security teams to map Azure Active Directory groups to data access levels while maintaining audit logs that track all governance policy changes.",
+        "Develop PySpark scripts that extract metadata from Databricks tables and push results into MS Purview catalogs using REST APIs, automating synchronization tasks that previously required manual updates and reduced metadata staleness from days to hours for business users.",
+        "Create data masking rules in MS Purview for PII fields in Insurance customer databases, testing masking effectiveness by running sample queries in Azure SQL and verifying that unauthorized users see obfuscated values while authorized analysts access plaintext data.",
+        "Maintain data classification taxonomies in MS Purview by collaborating with Data Stewards to define Insurance-specific labels for regulatory compliance, updating glossary terms quarterly and ensuring all Azure Cosmos DB collections inherit proper sensitivity tags for audit readiness.",
+        "Integrate MS Purview with LangGraph-based multi-agent workflows using Python APIs, enabling AI agents to query data lineage before processing Insurance claims and automatically verify that source datasets meet governance standards for regulatory reporting tasks.",
+        "Present demos to business stakeholders showing MS Purview search capabilities and data lineage views, walking through examples of how governance policies protect sensitive Insurance data while explaining troubleshooting steps for common metadata sync issues with Unity Catalog.",
+        "Automate data quality validation workflows in Azure Data Factory that trigger MS Purview scans after ETL jobs complete, using Python scripts to parse validation results and send alerts when Insurance transaction datasets fail completeness or accuracy thresholds.",
+        "Document MS Purview implementation procedures for Insurance data governance, writing runbooks that explain how to register new Azure sources, apply classification tags, and resolve conflicts when metadata definitions differ between Informatica AXON and MS Purview catalogs.",
+        "Collaborate with BI teams to troubleshoot Power BI report lineage gaps in MS Purview, investigating cases where upstream Azure Data Factory dependencies were missing from lineage graphs and manually reconstructing data flow paths using pipeline execution logs.",
+        "Test Unity Catalog integration with MS Purview in proof-of-concept environments, validating that metadata sync jobs accurately transfer schema definitions and table descriptions from Databricks to Azure catalogs without losing Insurance domain-specific annotations.",
+        "Manage cross-functional meetings with Data Engineering and Architecture teams to prioritize MS Purview adoption roadmap items, tracking governance policy implementation progress in Azure DevOps and adjusting timelines when technical blockers impact Insurance compliance deadlines.",
+        "Develop Python automation frameworks that compare MS Purview metadata with Informatica AXON records, identifying inconsistencies in data ownership assignments and generating reconciliation reports that Data Stewards review during monthly governance committee meetings for Insurance operations.",
+        "Implement row-level security in Azure Synapse using MS Purview sensitivity labels as input, writing SQL functions that filter Insurance claims data based on user roles and maintaining documentation that maps RBAC policies to regulatory compliance requirements.",
+        "Optimize MS Purview scan performance by adjusting resource allocation in Azure and fine-tuning PySpark jobs that process metadata extraction tasks, reducing catalog refresh times and allowing business users to discover newly added Insurance datasets within hours instead of days."
+      ],
+      "environment": [
+        "MS Purview",
+        "Python",
+        "PySpark",
+        "Unity Catalog",
+        "Azure Data Factory",
+        "Databricks",
+        "Azure SQL",
+        "Synapse",
+        "Cosmos DB",
+        "Power BI",
+        "REST APIs",
+        "RBAC",
+        "Data Masking",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Azure DevOps",
+        "Git",
+        "Azure Active Directory",
+        "Informatica AXON"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Established MS Purview data governance framework for Healthcare patient records stored in Azure SQL databases, registering PHI sources and applying sensitivity labels that triggered automatic data masking policies to protect patient identities during analytics workflows.",
+        "Generated data lineage documentation in MS Purview by tracing Healthcare data flows from Azure Data Factory ingestion pipelines through PySpark transformation jobs in Databricks to final Tableau reports used by clinical research teams for HIPAA-compliant outcome analysis.",
+        "Deployed Unity Catalog in Databricks environments and synchronized metadata with MS Purview using Python REST API clients, ensuring Healthcare research datasets maintained consistent classification tags and access controls across both platforms for regulatory audit requirements.",
+        "Coordinated with Data Stewards to define data quality rules in MS Purview for Healthcare claims processing, building validation frameworks that scanned Azure Synapse tables nightly and flagged records with missing diagnosis codes before they impacted downstream reporting.",
+        "Assembled metadata ingestion pipelines using Azure Data Factory and Python scripts, pulling schema definitions from Healthcare source systems into MS Purview catalogs with automated scheduling that refreshed data lineage graphs to reflect nightly ETL job changes.",
+        "Conducted demos for Healthcare business users showing MS Purview catalog search and data discovery features, explaining how governance policies ensured HIPAA compliance while walking through lineage views that traced patient data from clinical systems to Power BI dashboards.",
+        "Applied RBAC configurations in MS Purview and Unity Catalog for Healthcare projects, mapping Azure Active Directory security groups to data access tiers and documenting permission matrices that aligned with FDA and GDPR regulatory requirements for clinical trial data.",
+        "Validated data masking effectiveness in MS Purview by running test queries against Healthcare databases, verifying that unauthorized users received obfuscated patient identifiers while authorized clinicians accessed unmasked PHI for legitimate treatment and research purposes.",
+        "Formulated data classification taxonomies in MS Purview specific to Healthcare regulations, tagging medical record attributes across Azure Cosmos DB collections and creating automated workflows that sent alerts when sensitive data patterns appeared in unsecured Power BI reports.",
+        "Debugged MS Purview integration issues with LangChain-based Healthcare chatbots, troubleshooting cases where metadata API calls failed during proof-of-concept demos and adjusting authentication tokens to restore connectivity between AI agents and Azure governance services.",
+        "Monitored data quality metrics in MS Purview dashboards built with PySpark aggregations from Databricks, tracking completeness scores for Healthcare patient records and presenting monthly reports to Data Engineering teams during governance review meetings for compliance tracking.",
+        "Participated in cross-functional meetings with BI developers to resolve data discovery gaps in MS Purview, analyzing search analytics to identify unused Healthcare datasets and recommending archival strategies that reduced Azure storage costs while maintaining audit trails.",
+        "Constructed Python automation scripts that reconciled metadata differences between Informatica AXON and MS Purview, generating comparison reports that highlighted inconsistencies in Healthcare data ownership and triggering review workflows for Data Stewardship teams.",
+        "Refined MS Purview scan schedules for Healthcare data sources to balance metadata freshness with Azure resource consumption, adjusting scan frequencies based on data update patterns and reducing overnight processing times without sacrificing governance visibility for business users."
+      ],
+      "environment": [
+        "MS Purview",
+        "Python",
+        "PySpark",
+        "Unity Catalog",
+        "Azure Data Factory",
+        "Databricks",
+        "Azure SQL",
+        "Synapse",
+        "Cosmos DB",
+        "Tableau",
+        "Power BI",
+        "RBAC",
+        "Data Masking",
+        "REST APIs",
+        "LangChain",
+        "Crew AI",
+        "Azure Active Directory",
+        "HIPAA",
+        "GDPR",
+        "FDA",
+        "Informatica AXON",
+        "Git",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Initialized data governance program for state Healthcare systems using metadata management best practices, cataloging Medicaid datasets in AWS RDS and documenting data lineage paths that connected source systems to business intelligence reports for regulatory compliance tracking.",
+        "Registered Healthcare data sources in centralized metadata repositories using Python automation, extracting schema definitions from AWS Glue catalogs and standardizing classification tags that identified PII and PHI attributes for HIPAA compliance across state health information exchanges.",
+        "Defined RBAC policies for Healthcare data access in AWS environments, coordinating with state IT security teams to map user roles to database permissions and maintaining documentation that explained how access controls protected patient privacy during public health analytics projects.",
+        "Prepared data quality assessment frameworks using PySpark on AWS EMR clusters, scanning Medicaid claims tables for completeness and accuracy issues and generating reports that helped Data Stewards prioritize cleanup efforts before quarterly state legislature budget reviews.",
+        "Traced data lineage for state Healthcare reporting pipelines by analyzing AWS Glue ETL job definitions and SQL query logs, creating visual documentation that showed how patient enrollment data flowed from source systems through transformation layers to final Tableau dashboards.",
+        "Organized training sessions for state employees on data governance concepts, explaining how metadata management improved data discovery and demonstrating search techniques that helped policy analysts locate relevant Healthcare datasets faster than previous manual documentation methods.",
+        "Reviewed data classification requirements with state Healthcare compliance officers, applying sensitivity labels to AWS RDS tables containing patient records and implementing database-level security controls that restricted access based on user departmental affiliations and job responsibilities.",
+        "Identified data masking opportunities for state Healthcare test environments, recommending Python-based obfuscation scripts that replaced real patient names with synthetic values and allowing developers to test applications without exposing PHI during development and QA cycles.",
+        "Standardized metadata documentation practices across state Healthcare IT teams, creating templates that captured data ownership, update frequency, and regulatory classification for all AWS data sources and ensuring consistency when teams registered new datasets in governance tracking systems.",
+        "Analyzed data quality metrics from Healthcare claims processing systems, calculating completeness percentages for diagnosis codes and provider identifiers and presenting findings to state program managers during monthly meetings that tracked Medicaid data accuracy improvement initiatives.",
+        "Examined AWS Glue catalog metadata to identify orphaned Healthcare datasets no longer used by state reporting applications, recommending archival procedures that reduced storage costs while maintaining copies required for seven-year HIPAA retention compliance periods.",
+        "Collaborated with state BI teams to document report lineage connections between AWS data sources and Tableau dashboards, creating reference materials that helped new analysts understand data flow paths when troubleshooting discrepancies in Healthcare statistics reports."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "AWS Glue",
+        "AWS RDS",
+        "AWS EMR",
+        "AWS S3",
+        "Tableau",
+        "SQL",
+        "RBAC",
+        "Data Masking",
+        "Metadata Management",
+        "Data Lineage",
+        "Data Classification",
+        "HIPAA",
+        "GDPR",
+        "Git",
+        "Bash"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Cataloged Banking transaction datasets in AWS data lakes, documenting metadata attributes that identified PCI-DSS sensitive fields and creating data dictionaries that helped Analytics teams understand credit card processing tables without requiring direct database access for exploration.",
+        "Tracked data lineage for financial reporting pipelines by parsing AWS Glue ETL configurations and SQL transformation logic, mapping how transaction records moved from source systems through aggregation layers to final compliance reports reviewed by federal banking regulators.",
+        "Supported RBAC implementation for Banking data warehouses in AWS Redshift, working with Security teams to define access policies that restricted sensitive financial data to authorized users and maintaining permission matrices that aligned with PCI-DSS audit requirements.",
+        "Evaluated data quality in Banking transaction tables using SQL queries on AWS RDS, calculating null percentages for required fields like merchant IDs and transaction amounts and documenting findings that helped Data Engineering teams prioritize data cleanup tasks before quarterly audits.",
+        "Captured metadata for Banking customer datasets by extracting schema definitions from AWS Glue catalogs, standardizing field descriptions that explained business meaning of technical column names and improving data discovery for Business Analysts building customer segmentation models.",
+        "Assisted with data classification initiatives for Banking applications, tagging PII attributes in customer profile databases and recommending data masking approaches that protected sensitive information in non-production environments while maintaining referential integrity for testing purposes.",
+        "Investigated data lineage gaps in Banking fraud detection pipelines, tracing transaction flows from real-time streaming sources through machine learning model scoring layers and documenting dependencies that helped Operations teams understand which upstream failures impacted fraud alert generation.",
+        "Contributed to data governance documentation for Banking projects, writing procedures that explained how to register new AWS data sources in metadata repositories and apply appropriate security classifications based on PCI-DSS requirements for payment card information.",
+        "Verified data masking rules for Banking test environments, running sample queries against obfuscated customer datasets and confirming that sensitive fields like account numbers were properly masked while maintaining data relationships needed for application testing and development work.",
+        "Attended cross-functional meetings with Banking BI teams to discuss data discovery challenges, suggesting improvements to metadata documentation that would help Report Developers locate transaction datasets faster and understand data refresh schedules without emailing Data Engineering teams."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "AWS Glue",
+        "AWS RDS",
+        "AWS Redshift",
+        "AWS S3",
+        "PySpark",
+        "Metadata Management",
+        "Data Lineage",
+        "Data Classification",
+        "RBAC",
+        "Data Masking",
+        "PCI-DSS",
+        "Git",
+        "Bash"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned Informatica PowerCenter fundamentals while building ETL workflows for client data integration projects, extracting data from Oracle databases using SQL queries and loading transformed records into Hadoop HDFS clusters for downstream analytics processing.",
+        "Transferred data between relational databases and Hadoop using Sqoop import jobs, scheduling nightly extraction tasks that moved client transaction records from MySQL sources into HDFS directories and troubleshooting connection timeouts when network issues interrupted data transfers.",
+        "Observed senior engineers implement metadata management practices in Informatica AXON, gaining exposure to data cataloging concepts while helping document source-to-target mappings for ETL workflows that processed client sales and inventory datasets.",
+        "Practiced writing PySpark scripts for data transformation tasks on Hadoop clusters, learning how to read CSV files from HDFS, apply basic cleansing logic like null handling and deduplication, and write results back to Parquet format for faster query performance.",
+        "Joined data quality discussions with project managers, understanding how missing values and duplicate records in client datasets impacted reporting accuracy and participating in team meetings where we planned validation checks to catch data issues before production deployments.",
+        "Explored Informatica PowerCenter debugging tools while troubleshooting failed ETL jobs, reviewing session logs to identify SQL errors and data type mismatches and asking team members for help when encountering unfamiliar error messages during workflow execution.",
+        "Followed data lineage documentation procedures established by senior team members, updating Excel spreadsheets that tracked how client data moved through multiple transformation steps and learning why lineage tracking mattered for impact analysis when source systems changed.",
+        "Gained familiarity with RBAC concepts during client onboarding tasks, helping configure user permissions in Informatica and Hadoop environments under supervision and beginning to understand how access controls protected sensitive client data from unauthorized access."
+      ],
+      "environment": [
+        "Informatica PowerCenter",
+        "Informatica AXON",
+        "Hadoop",
+        "Sqoop",
+        "Hive",
+        "PySpark",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "HDFS",
+        "Metadata Management",
+        "Data Lineage",
+        "RBAC",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

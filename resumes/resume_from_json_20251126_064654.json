@@ -1,0 +1,347 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Engineer - LLM/RAG Systems & Microservices",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building production-grade LLM applications, RAG systems, and AI-powered microservices across Insurance, Healthcare, Banking, and Consulting domains using Python, FastAPI, and cloud platforms.",
+    "Designed end-to-end RAG pipelines with vector databases and embedding models for financial data analytics, integrating AWS Bedrock and SageMaker to handle credit report queries with reduced latency and improved retrieval accuracy.",
+    "Built scalable FastAPI microservices for LLM-based fraud detection systems, implementing REST APIs with async Python patterns to process high-volume transactions while maintaining compliance with PCI-DSS and regulatory standards.",
+    "Developed multi-agent AI systems using LangGraph and Model Context Protocol for insurance claim automation, coordinating agent-to-agent workflows to validate policy data and streamline customer interactions with real-time responses.",
+    "Implemented production LLM applications on AWS Lambda and API Gateway, optimizing Docker containers for serverless deployment and integrating Redis caching layers to minimize API response times for identity verification workflows.",
+    "Created React.js and Next.js frontends connected to Python backends, using TypeScript for type-safe components and enabling users to interact with AI-powered credit scoring tools through intuitive dashboards with real-time updates.",
+    "Optimized embedding models and vector search performance using Pinecone and FAISS, fine-tuning retrieval strategies to handle complex financial document queries and reducing search times for compliance audits and fraud investigations.",
+    "Deployed AI agent frameworks including Crew AI and AutoGen for healthcare applications, orchestrating multi-step reasoning tasks to extract patient data insights while ensuring HIPAA compliance and secure data handling practices.",
+    "Configured AWS S3 and EC2 infrastructure for storing large-scale financial datasets, setting up IAM roles and security policies to protect sensitive credit information and maintain enterprise-grade access controls across distributed systems.",
+    "Integrated Azure OpenAI services with existing microservices architecture, calling GPT models via REST APIs to generate personalized financial advice and automate credit report summarization for end-users with improved accessibility.",
+    "Debugged production LLM systems experiencing timeout issues, analyzed CloudWatch logs to identify bottlenecks in data pipelines, and refactored code to improve throughput for real-time identity fraud detection with minimal downtime.",
+    "Established CI/CD pipelines using GitHub Actions and Jenkins, automating PyTest unit tests and Docker image builds to ensure consistent deployment of AI microservices across AWS environments with version-controlled API schemas.",
+    "Worked closely with ML teams to fine-tune HuggingFace transformers for domain-specific tasks, adjusting training parameters and validating model outputs to meet accuracy requirements for credit risk assessment and fraud pattern recognition.",
+    "Monitored production AI systems using Prometheus and Grafana dashboards, tracking API latency metrics and setting up alerts for anomalies to maintain uptime and quickly respond to performance degradation in financial data services.",
+    "Performed data preprocessing and ETL workflows for RAG ingestion pipelines, cleaning unstructured financial documents and chunking text to prepare vector embeddings that improved semantic search quality for regulatory compliance queries.",
+    "Collaborated with cloud engineers to implement rate limiting and API gateway patterns, preventing abuse of LLM endpoints and ensuring fair usage policies while maintaining fast response times for legitimate credit reporting requests.",
+    "Validated LLM outputs against business rules and compliance standards, implementing Pydantic schemas for request validation and error handling to catch data inconsistencies before reaching production fraud detection systems.",
+    "Participated in code reviews and pair programming sessions with backend engineers, sharing knowledge about async FastAPI patterns and suggesting improvements to microservice architectures that enhanced scalability for AI workloads."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "SQL",
+      "Bash/Shell",
+      "R"
+    ],
+    "LLM & AI Frameworks": [
+      "LangGraph",
+      "LangChain",
+      "Crew AI",
+      "AutoGen",
+      "HuggingFace Transformers",
+      "OpenAI APIs",
+      "Anthropic Claude",
+      "Model Context Protocol",
+      "Multi-Agent Systems"
+    ],
+    "Python Web Frameworks": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Pydantic",
+      "asyncio",
+      "REST APIs"
+    ],
+    "Frontend Technologies": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "AWS Cloud Services": [
+      "AWS Lambda",
+      "AWS S3",
+      "AWS EC2",
+      "AWS API Gateway",
+      "AWS Bedrock",
+      "AWS SageMaker",
+      "AWS RDS",
+      "AWS CloudWatch",
+      "AWS IAM"
+    ],
+    "Azure Cloud Services": [
+      "Azure OpenAI",
+      "Azure ML Studio",
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Cosmos DB"
+    ],
+    "Vector Databases & Embeddings": [
+      "Pinecone",
+      "FAISS",
+      "ChromaDB",
+      "Weaviate",
+      "Embedding Models",
+      "Semantic Search"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "SQL Server"
+    ],
+    "Microservices & DevOps": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "GitLab",
+      "API Gateway",
+      "Rate Limiting"
+    ],
+    "Big Data & ETL": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Kafka",
+      "Apache Airflow",
+      "Hadoop",
+      "Informatica"
+    ],
+    "Monitoring & Optimization": [
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Redis Caching",
+      "Performance Tuning",
+      "Production Support"
+    ],
+    "Development Tools": [
+      "Git",
+      "PyTest",
+      "Swagger/OpenAPI",
+      "VS Code",
+      "Jupyter Notebook",
+      "Postman"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Build LangGraph-based multi-agent systems for insurance claim processing, coordinating specialized agents that validate policy data, assess risk factors, and generate claim summaries with embedded compliance checks for regulatory requirements.",
+        "Develop FastAPI microservices on AWS Lambda to serve RAG pipelines, implementing async endpoints that query vector databases for policy document retrieval and returning contextual answers to customer service representatives with sub-second latency.",
+        "Integrate AWS Bedrock foundation models into proof-of-concept applications, testing different LLM configurations for insurance underwriting tasks and comparing response quality to identify optimal model-prompt combinations for production deployment.",
+        "Design agent-to-agent communication protocols using Model Context Protocol standards, enabling autonomous coordination between risk assessment agents and fraud detection agents to share findings and trigger escalation workflows when anomalies appear.",
+        "Configure AWS S3 buckets for storing insurance documents and claims data, setting lifecycle policies and encryption standards to comply with insurance regulations while maintaining fast access for RAG ingestion pipelines processing millions of records.",
+        "Optimize embedding models for insurance domain terminology, fine-tuning sentence transformers on policy language to improve semantic search accuracy when agents retrieve relevant clauses from complex insurance contracts stored in vector databases.",
+        "Construct React.js dashboards with TypeScript interfaces for claims adjusters to interact with AI agents, displaying real-time processing status and allowing users to override automated decisions with audit trails logged to AWS RDS databases.",
+        "Test multi-agent system reliability by simulating concurrent claim requests, identifying race conditions in shared state management and refactoring LangGraph flows to ensure consistent behavior under high load with proper error recovery mechanisms.",
+        "Deploy Docker containers to AWS ECS for running LLM microservices, configuring auto-scaling policies and health checks to maintain availability during peak claim submission periods while managing infrastructure costs through efficient resource allocation.",
+        "Troubleshoot production issues where RAG responses included outdated policy information, traced the problem to stale vector embeddings and implemented automated reindexing workflows using AWS Step Functions to keep knowledge bases current with policy updates.",
+        "Collaborate with frontend developers to define REST API contracts using OpenAPI specifications, ensuring consistent data schemas between Python backends and Next.js clients while handling authentication flows through AWS API Gateway with JWT validation.",
+        "Monitor agent performance metrics using CloudWatch dashboards, tracking token usage and response latencies to identify underperforming agents and iteratively improve prompt engineering strategies that balance accuracy with cost efficiency for insurance workflows.",
+        "Implement Redis caching for frequently accessed policy documents, reducing vector database query load and improving response times for common customer inquiries about coverage details with cache invalidation logic synced to policy management systems.",
+        "Validate insurance-specific compliance requirements in AI outputs, creating Pydantic validators that check generated claim summaries against state regulations and flag potential violations before documents reach human reviewers for final approval.",
+        "Participate in architecture reviews with senior engineers to evaluate trade-offs between different vector database solutions, presenting benchmarks on retrieval speed and accuracy for insurance document collections to inform infrastructure decisions.",
+        "Document agent system design patterns and deployment procedures, writing internal guides that help other developers understand LangGraph orchestration logic and troubleshoot common issues with multi-agent coordination in insurance claim workflows."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "AWS Lambda",
+        "AWS S3",
+        "AWS Bedrock",
+        "AWS SageMaker",
+        "AWS API Gateway",
+        "AWS ECS",
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Docker",
+        "Redis",
+        "Vector Databases",
+        "RAG",
+        "Embedding Models",
+        "CloudWatch",
+        "PostgreSQL",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed LangChain-based RAG applications for medical literature search, connecting HuggingFace embedding models with FAISS vector stores to help researchers find relevant clinical studies while maintaining HIPAA compliance through encrypted data transmission.",
+        "Implemented multi-agent proof-of-concept systems using Crew AI framework for drug safety monitoring, assigning specialized agents to scan adverse event reports and coordinate findings with regulatory submission teams tracking FDA requirements.",
+        "Created Flask REST APIs for serving LLM predictions on patient outcome forecasting, wrapping PyTorch models in production endpoints that integrated with electronic health record systems and returned risk scores validated against HIPAA privacy rules.",
+        "Configured AWS Lambda functions to process incoming patient queries through RAG pipelines, extracting relevant medical guidelines from vector databases and generating contextual responses that healthcare providers used for treatment planning decisions.",
+        "Established data preprocessing workflows for healthcare documents using Python scripts, cleaning clinical notes and structuring unstructured text into chunks suitable for embedding generation while removing personally identifiable information per HIPAA standards.",
+        "Deployed AutoGen agents for automated literature review tasks, programming agent interactions that summarized recent research papers and identified potential drug interaction patterns from published medical journals with citation tracking.",
+        "Integrated Azure OpenAI services into healthcare applications, calling GPT models through secure API connections to generate patient education materials and medication instructions customized to individual health profiles with accessibility considerations.",
+        "Managed AWS S3 storage for medical imaging metadata and clinical trial data, implementing bucket policies and IAM roles that restricted access to authorized personnel while enabling fast retrieval for machine learning model training workflows.",
+        "Debugged RAG pipeline failures caused by malformed healthcare documents, analyzed error logs to identify parsing issues with legacy PDF formats and wrote custom extraction logic that handled medical tables and charts more reliably.",
+        "Coordinated with compliance teams to audit AI-generated medical content, reviewing LLM outputs for accuracy against clinical guidelines and implementing feedback loops that improved model reliability for patient-facing healthcare information systems.",
+        "Optimized vector search performance for drug interaction databases, tuning FAISS index parameters and experimenting with different embedding dimensions to reduce query latency while maintaining recall rates needed for comprehensive safety checks.",
+        "Maintained Docker containerized deployments of LangChain applications on AWS ECS, updating container images with security patches and monitoring resource utilization to ensure stable operation of healthcare AI services with minimal interruption.",
+        "Collaborated with data engineers to build ETL pipelines using Apache Airflow, orchestrating daily updates to medical knowledge bases that fed RAG systems with latest treatment protocols and regulatory changes from FDA announcements.",
+        "Tested multi-agent systems under various failure scenarios, simulating network timeouts and agent crashes to validate error handling logic and ensure graceful degradation when processing critical patient safety alerts from monitoring systems."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "LangChain",
+        "Crew AI",
+        "AutoGen",
+        "AWS Lambda",
+        "AWS S3",
+        "AWS ECS",
+        "Azure OpenAI",
+        "HuggingFace",
+        "FAISS",
+        "RAG Pipelines",
+        "Docker",
+        "Apache Airflow",
+        "PostgreSQL",
+        "HIPAA Compliance",
+        "REST APIs",
+        "Git",
+        "PyTest"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Constructed machine learning pipelines for Medicaid claims analysis using Python and scikit-learn, training classification models that identified billing anomalies and flagged potential fraud cases for review by state healthcare investigators.",
+        "Processed large-scale healthcare datasets on Azure Databricks, writing PySpark jobs that cleaned Medicare enrollment records and aggregated patient visit patterns across state facilities while maintaining HIPAA-compliant data handling procedures.",
+        "Deployed Flask APIs serving predictive models for patient readmission risk, hosting endpoints on Azure App Service that returned probability scores to hospital case managers coordinating care transitions for high-risk populations.",
+        "Extracted features from electronic health records using Pandas and NumPy, transforming clinical codes and medication histories into model inputs that powered decision support tools helping providers identify patients needing preventive interventions.",
+        "Loaded healthcare data from Azure SQL Database into machine learning workflows, writing SQL queries that joined claims tables with provider directories and patient demographics for comprehensive analysis of state healthcare utilization trends.",
+        "Validated model predictions against historical outcomes, calculating performance metrics like precision and recall to ensure readmission forecasts met accuracy standards required by state healthcare administrators before production release.",
+        "Collaborated with Azure architects to design secure data access patterns, implementing service principals and managed identities that allowed ML pipelines to read protected health information without exposing credentials in application code.",
+        "Monitored deployed models for prediction drift using custom Python scripts, comparing recent model scores against baseline distributions and alerting data science teams when performance degraded beyond acceptable thresholds for clinical decision support.",
+        "Documented data preprocessing steps and model training procedures, creating technical specifications that enabled state IT staff to maintain ML systems and retrain models when healthcare policies changed or new data sources became available.",
+        "Trained junior analysts on machine learning concepts and Azure tools, conducting workshops that explained model interpretation techniques and demonstrated how to use Azure ML Studio for building basic classification models on healthcare datasets.",
+        "Automated reporting workflows using Python scripts scheduled with Azure Data Factory, generating monthly summaries of model performance metrics and fraud detection results that state healthcare officials presented to legislative oversight committees.",
+        "Troubleshot Azure pipeline failures related to data schema changes, investigated error messages in Azure Monitor logs and updated ETL jobs to handle new healthcare data formats introduced by electronic health record system upgrades."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Azure ML Studio",
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure App Service",
+        "PySpark",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "HIPAA Compliance",
+        "REST APIs",
+        "Git",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Analyzed credit card transaction patterns using Python and Pandas, identifying fraudulent activities through statistical anomaly detection techniques and presenting findings to risk management teams with visualizations created in matplotlib and Seaborn.",
+        "Trained XGBoost classification models on historical transaction data stored in Azure SQL Server, tuning hyperparameters to maximize fraud detection rates while minimizing false positives that disrupted legitimate customer purchases.",
+        "Prepared datasets for machine learning experiments by writing SQL queries against bank transaction databases, joining tables containing merchant information and customer profiles to create feature-rich training sets compliant with PCI-DSS standards.",
+        "Visualized transaction trends using Tableau dashboards connected to Azure data sources, building interactive reports that allowed bank executives to explore fraud patterns across different geographic regions and merchant categories.",
+        "Evaluated model fairness across customer demographics, calculating disparate impact metrics and adjusting classification thresholds to ensure fraud detection systems treated all customer segments equitably per banking regulations.",
+        "Automated model retraining workflows using Python scripts and Azure Automation, scheduling monthly jobs that updated fraud detection models with recent transaction data and redeployed improved versions to production scoring systems.",
+        "Supported production fraud detection systems by investigating false positive cases, reviewed flagged transactions to understand model mistakes and recommended feature engineering improvements that reduced customer friction from unnecessary alerts.",
+        "Documented modeling methodology and performance metrics in technical reports, explaining model decisions to compliance auditors and demonstrating that fraud detection systems met regulatory requirements for transparency and accountability.",
+        "Participated in data governance meetings with bank security teams, discussing data retention policies and encryption standards needed to protect sensitive financial information used in machine learning model development workflows.",
+        "Learned Azure cloud services through hands-on projects, gained experience with Azure ML Studio for model training and Azure Blob Storage for managing large datasets while working toward Azure certifications recommended by management."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Azure ML Studio",
+        "Azure SQL Server",
+        "Azure Blob Storage",
+        "Azure Automation",
+        "Pandas",
+        "NumPy",
+        "XGBoost",
+        "scikit-learn",
+        "SQL",
+        "Tableau",
+        "matplotlib",
+        "Seaborn",
+        "PCI-DSS Compliance",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Transferred large datasets between Hadoop clusters and relational databases using Apache Sqoop, scheduling incremental imports that synchronized customer data from MySQL sources into HDFS for downstream analytics processing.",
+        "Transformed raw data files using Informatica PowerCenter workflows, applying business rules and data quality checks to standardize client information across multiple source systems before loading into enterprise data warehouses.",
+        "Queried Hadoop datasets using Hive SQL, writing queries that aggregated sales metrics and generated monthly reports for business stakeholders tracking consulting project performance across different industry verticals.",
+        "Maintained ETL job schedules using Informatica Workflow Manager, monitored execution logs to catch failures early and restarted failed jobs to ensure data pipelines met service level agreements for report delivery.",
+        "Cleaned inconsistent data records using Python scripts, identifying duplicates and missing values in customer databases and working with data stewards to establish data quality rules that improved downstream analytics accuracy.",
+        "Loaded processed datasets into Oracle databases using SQL Loader utilities, validated row counts and data integrity after loads to confirm successful completion of ETL processes supporting financial reporting systems.",
+        "Assisted senior engineers in debugging Informatica mapping issues, learned troubleshooting techniques by reviewing session logs and understanding how transformation logic handled edge cases in complex data integration scenarios.",
+        "Participated in team meetings discussing project requirements with clients, took notes on data mapping specifications and helped document technical approaches for migrating legacy data systems to modern big data platforms."
+      ],
+      "environment": [
+        "Hadoop",
+        "Apache Sqoop",
+        "Informatica PowerCenter",
+        "Hive",
+        "Python",
+        "MySQL",
+        "Oracle",
+        "SQL",
+        "HDFS",
+        "ETL",
+        "Data Quality",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

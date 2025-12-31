@@ -1,0 +1,278 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Dynamics 365 CRM Software Engineer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building custom software solutions, with a recent focus on Dynamics 365 CRM and Azure integrations across different industries.",
+    "I design Dynamics 365 solutions using Custom Entities and Plugins with C# .NET to solve specific business problems, like managing guest data in hospitality or patient records in healthcare systems.",
+    "I configure Azure services such as Logic Apps and Azure Functions to connect CRM data with other systems, which helps automate workflows and reduce manual data entry for users.",
+    "I write JavaScript for form validations and business rules within Dynamics 365 to make sure data quality is high, which is very important for domains like banking and government.",
+    "I build Power Apps and Power Automate flows to create simple applications for business users, allowing them to update records or get approvals without needing deep technical knowledge.",
+    "I set up Azure DevOps pipelines for continuous integration and deployment of our CRM customizations, which makes the release process smoother and more reliable for the whole team.",
+    "I test my code thoroughly, including debugging plugins and custom workflows, to find issues early and ensure the system behaves as expected before it goes to production.",
+    "I fix performance problems in Dynamics 365, like slow-loading forms or inefficient plugins, by looking at the code and database queries to improve the user experience.",
+    "I apply software engineering practices such as code reviews and data structure planning when working on new CRM features, which helps maintain code quality in large projects.",
+    "I create technical documentation for the customizations and integrations I build, so that other team members can understand how the system works and support it later.",
+    "I participate in team meetings to plan and schedule our work, breaking down big features into smaller tasks that we can deliver in iterations following an Agile approach.",
+    "I collaborate with other developers and sometimes business analysts to figure out requirements and turn them into working software within the Dynamics 365 platform.",
+    "I learn new Azure services or Dynamics features on the job when a project needs them, which I find challenging but also a good way to grow my technical skills over time.",
+    "I assist in data migration tasks, moving customer or operational data into Dynamics 365 while checking for accuracy, which is critical for compliance in healthcare and finance.",
+    "I support the systems I build after they go live, investigating any issues users report and providing fixes or workarounds to minimize disruption to their daily work.",
+    "I follow security best practices in my code, especially for handling sensitive data in regulated industries, to help meet standards like PCI DSS or HIPAA where applicable.",
+    "I adapt my development approach based on the project domain, considering regulations like SOX for banking or FAA guidelines for transportation when designing solutions.",
+    "I value writing clean, maintainable code and sharing knowledge with colleagues, as I believe it makes the team stronger and leads to better long-term software outcomes."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      ".NET",
+      "JavaScript"
+    ],
+    "Dynamics 365 CRM": [
+      "Custom Entities",
+      "Plugins",
+      "Workflows",
+      "Business Rules",
+      "Form Customizations",
+      "Client-Side Scripting"
+    ],
+    "Microsoft Power Platform": [
+      "Power Apps",
+      "Power Automate",
+      "Dataverse"
+    ],
+    "Cloud Platform (Azure)": [
+      "Azure Functions",
+      "Logic Apps",
+      "Azure DevOps",
+      "Azure App Services",
+      "Azure API Management"
+    ],
+    "Development Practices": [
+      "Software Engineering",
+      "Data Structures",
+      "Algorithms",
+      "Testing",
+      "Debugging",
+      "Code Reviews"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "Data Modeling",
+      "Database Design"
+    ],
+    "Integration & APIs": [
+      "REST APIs",
+      "Service Integration",
+      "Azure Service Bus"
+    ],
+    "Version Control & CI/CD": [
+      "Git",
+      "Azure DevOps Pipelines",
+      "Continuous Integration",
+      "Continuous Deployment"
+    ],
+    "Methodologies": [
+      "Agile Development",
+      "Scrum"
+    ],
+    "Security & Compliance": [
+      "Data Security",
+      "GDPR Awareness",
+      "HIPAA Awareness"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "I develop custom Dynamics 365 CRM solutions for the hospitality sector, creating plugins with C# .NET to handle complex booking logic and guest data management, which improves reservation accuracy.",
+        "I built a suite of Power Automate flows that connect our CRM with external hotel management systems, automating confirmation emails and updating room status, saving front-desk staff several hours each week.",
+        "I work on JavaScript validations for CRM forms to ensure data entered for guest preferences and special requests meets our quality standards before it's saved to the database.",
+        "I designed a set of custom entities to track guest loyalty programs and service interactions, providing a unified view that helps personalize stays and follow hospitality regulations.",
+        "I configured Azure Logic Apps to sync booking data between Dynamics 365 and a legacy property management system, which was a bit tricky but finally got working after a few attempts.",
+        "I created Azure Functions in C# for processing real-time notifications from our booking engine, writing the logic to update CRM records and trigger alerts for the operations team.",
+        "I set up automated build and release pipelines in Azure DevOps for our CRM customization projects, which reduced deployment errors and made our release cycles more predictable.",
+        "I wrote unit tests for our custom plugins and workflows to catch bugs early; I also fixed a stubborn issue where a plugin sometimes failed during high-volume check-in periods.",
+        "I help with code reviews for other team members, focusing on Dynamics 365 best practices and performance considerations to keep our customizations efficient and maintainable.",
+        "I update our solution architecture documents to reflect new integrations, and I regularly meet with the product team to clarify requirements for upcoming features.",
+        "I troubleshoot performance problems in our CRM instance, like a slow-loading dashboard, by analyzing plugin execution and optimizing the underlying database queries.",
+        "I assembled a proof-of-concept using Power Apps for mobile staff to update housekeeping status, which the team liked and we plan to roll out to more properties soon.",
+        "I check security settings for our CRM and Azure resources to ensure guest personal data is handled properly, aligning with data protection expectations in the hospitality industry.",
+        "I put together deployment packages using the Dynamics 365 Solution Framework, making sure all dependencies are included for smooth installation across our development environments.",
+        "I started a new module to manage vendor contracts and compliance documents within CRM, defining the entity relationships and starting the plugin development last month.",
+        "I finished integrating a payment gateway API using a custom workflow activity, which now processes deposits automatically and posts the transaction record back to the guest's CRM account."
+      ],
+      "environment": [
+        "Dynamics 365 CRM",
+        "C# .NET",
+        "JavaScript",
+        "Power Apps",
+        "Power Automate",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "SQL Server",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "I constructed custom entities and plugins in Dynamics 365 to manage patient referral workflows for a healthcare project, ensuring the system complied with HIPAA data privacy rules.",
+        "I produced several Azure Functions that processed HL7 messages from lab systems, transforming the data and creating corresponding records in the CRM for care coordination teams.",
+        "I established business rules within Dynamics 365 forms to validate clinical data entry, reducing errors and helping maintain accurate patient information across the care continuum.",
+        "I formulated a data migration strategy to move historical patient interaction data into Dynamics 365, using .NET console applications and ensuring data integrity throughout the process.",
+        "I authored JavaScript for client-side form scripting to improve the user interface for medical staff, adding conditional field displays and real-time validation logic.",
+        "I assembled Power Apps for mobile clinicians to access patient schedules and update visit notes directly, which integrated seamlessly with the main Dynamics 365 backend.",
+        "I implemented a series of synchronous and asynchronous plugins to enforce complex business logic around patient consent and authorization tracking within the CRM.",
+        "I operated Azure API Management to expose secure endpoints for our CRM data, allowing other internal healthcare applications to retrieve patient demographic information safely.",
+        "I solved a difficult debugging issue where a plugin was timing out during bulk appointment creation; I refactored the code and added efficient data queries to fix it.",
+        "I contributed to the design of a provider directory module within Dynamics, defining the entity model and relationships to support search and filtering by specialty and location.",
+        "I verified all custom code met security standards for protected health information, conducting reviews and working with the compliance team to address any identified gaps.",
+        "I maintained the Azure DevOps repository for our project, managing branches and pull requests as our team worked on different features for the healthcare CRM implementation.",
+        "I coordinated with the testing team to plan test cycles for our customizations, providing them with documentation and assisting in the creation of test scenarios for user acceptance.",
+        "I delivered training sessions for super-users on how to use the new Dynamics 365 features, focusing on the referral workflow and the mobile app we built for clinical staff."
+      ],
+      "environment": [
+        "Dynamics 365 CRM",
+        "C# .NET",
+        "JavaScript",
+        "Azure Functions",
+        "Azure API Management",
+        "Power Apps",
+        "SQL Server",
+        "Azure DevOps",
+        "HL7"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "I programmed custom workflows and plugins in Dynamics 365 to handle customer service cases and frequent flyer account management for an airline transportation project.",
+        "I devised an integration using Azure Logic Apps to connect CRM with flight operations data, automating the creation of service cases for significant flight delays or cancellations.",
+        "I shaped the architecture for a customer feedback module, creating custom entities to track survey responses and link them to specific travel itineraries in the CRM.",
+        "I composed C# code for plugins that calculated loyalty points based on fare class and flight distance, updating member accounts in real-time within the Dynamics 365 system.",
+        "I installed and configured the Dynamics 365 Solution for our project, managing the deployment across development, testing, and production environments on schedule.",
+        "I repaired a critical issue in a legacy .NET web service that fed data into the CRM, improving its error handling and logging after it caused overnight data sync failures.",
+        "I tested all API integrations between our custom apps and Dynamics 365, using Postman to simulate various scenarios and ensure reliability for high-volume travel periods.",
+        "I organized the codebase for our CRM customizations, applying consistent naming conventions and folder structures so that new team members could understand the project quickly.",
+        "I examined performance bottlenecks in the CRM interface used by call center agents, optimizing view filters and indexed fields to reduce screen load times significantly.",
+        "I prepared technical specifications for new features requested by the business, such as baggage tracking integration, translating requirements into actionable development tasks.",
+        "I supported the go-live of the CRM enhancements, being on-call to address any immediate technical issues and providing quick fixes to keep the customer service operations running.",
+        "I documented the data flow and integration points between Dynamics 365 and other airline systems, creating diagrams that helped the infrastructure team understand the connections."
+      ],
+      "environment": [
+        "Dynamics 365 CRM",
+        "C# .NET",
+        "Azure Logic Apps",
+        "SQL Server",
+        "ASP.NET MVC",
+        "Web API",
+        "Azure App Service",
+        "Postman"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "I crafted .NET applications and Dynamics 365 customizations for a government project managing public service requests and citizen case management.",
+        "I introduced a plugin to automatically route service requests based on location and department, which helped streamline the assignment process for government agency staff.",
+        "I converted several manual paper-based processes into digital workflows within Dynamics 365, using out-of-the-box features and some custom JavaScript for form logic.",
+        "I administered the Azure DevOps project, setting up work items and sprint backlogs for our team as we followed an Agile methodology for the government CRM implementation.",
+        "I modernized an older .NET Web Forms application by migrating its core functions into a Dynamics 365 model-driven app, improving maintainability and user access control.",
+        "I validated data imports from legacy state systems into the new CRM, writing SQL scripts to clean and transform the data before it was loaded into the custom entities.",
+        "I safeguarded the application by implementing role-based security within Dynamics 365, ensuring users could only access data relevant to their specific agency and clearance level.",
+        "I trained a junior developer on the basics of Dynamics 365 customization and plugin development, pairing with them on a few simpler tasks to build their confidence.",
+        "I investigated a recurring error in a workflow that processed license applications, tracing it to a data type mismatch and correcting the code to resolve the issue.",
+        "I compiled deployment packages and release notes for each sprint, working with the state's IT operations team to schedule deployments during approved maintenance windows."
+      ],
+      "environment": [
+        "Dynamics 365 CRM",
+        "C# .NET",
+        "JavaScript",
+        "SQL Server",
+        "Azure DevOps",
+        ".NET Web Forms",
+        "Windows Server",
+        "IIS"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "I assisted in the development of .NET components that integrated with a financial services CRM to track customer interactions and product inquiries for a banking project.",
+        "I formatted and imported large sets of customer data from spreadsheets into the CRM system using .NET console applications I wrote, which helped with a one-time migration effort.",
+        "I learned the basics of Dynamics 365 customization on this job, starting with simple tasks like creating new fields and views before moving on to help with basic JavaScript scripting.",
+        "I monitored scheduled jobs that synchronized data between the CRM and a core banking system, checking logs and reporting any failures to the senior developer on the team.",
+        "I participated in daily stand-up meetings and sprint planning, which was my first real experience with Agile practices in a corporate software development environment.",
+        "I cleaned up old code in a shared library, removing unused methods and adding some comments to make it easier for others to use for future CRM integration work.",
+        "I reviewed basic functional requirements documents for new CRM features, asking questions to clarify details before starting my assigned coding tasks for the sprint.",
+        "I practiced writing unit tests for my .NET code using MSTest, initially finding it difficult but gradually getting better at it with help from more experienced team members."
+      ],
+      "environment": [
+        ".NET Framework",
+        "C#",
+        "SQL Server",
+        "JavaScript",
+        "Dynamics CRM 2016",
+        "Windows Services",
+        "MSTest"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "I worked on a .NET application for a telecommunications project that managed customer device inventory and supported field technician dispatches.",
+        "I added new features to an ASP.NET MVC web application based on change requests, such as enhanced search filters and export functionality for inventory reports.",
+        "I figured out how to fix bugs in the existing code, like a problem where the application sometimes displayed incorrect service plan details for a customer account.",
+        "I tried using AngularJS for a small front-end module to make a parts of the UI more interactive, which was my first exposure to a JavaScript framework at work.",
+        "I used ADO.NET for database operations in the application, writing stored procedures and calling them from the C# code to retrieve and update telecom inventory data.",
+        "I looked into performance complaints for a slow report, optimizing the SQL query and adding a database index which cut the report generation time down considerably."
+      ],
+      "environment": [
+        ".NET Framework",
+        "C#",
+        "ASP.NET MVC",
+        "AngularJS",
+        "SQL Server",
+        "ADO.NET",
+        "IIS",
+        "jQuery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

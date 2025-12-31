@@ -1,0 +1,206 @@
+{
+  "name": "Singam Sanjana",
+  "title": "Business Systems Analyst - Investment Data & IBOR Technologies",
+  "contact": {
+    "email": "sanjanar2704@gmail.com",
+    "phone": "+1 (314)-380-4211",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I work with SQL databases to pull investment data from Eagle and other systems, making sure data flows correctly into Charles River for portfolio management. Actually spent time learning equity and fixed income data structures on the job.",
+    "Built data integration workflows using Microsoft Azure cloud services to connect IBOR systems with Charles River. Had to figure out data mapping between different asset classes, which took some trial and error initially but got it working smoothly.",
+    "Analyzed derivatives data requirements across multiple source systems and documented technical specs for development teams. Worked closely with business stakeholders to understand their reporting needs and translate them into system requirements.",
+    "Used Agile framework to manage system enhancement projects, attending daily standups and sprint planning meetings. I'm responsible for gathering requirements from traders and operations teams, then writing user stories that developers can actually use.",
+    "Fixed data quality issues in equity holdings by writing SQL queries to identify discrepancies between Eagle and Charles River. Basically had to compare thousands of records daily to catch mismatches before they impacted client reporting.",
+    "Created data models for new fixed income instruments being added to the platform. Initially struggled with understanding bond pricing data flows, but learned by shadowing the operations team and asking lots of questions during their daily processes.",
+    "Collaborated with IT resources to troubleshoot data feed failures from upstream systems into Charles River. Sometimes it's just debugging configuration files or checking firewall rules, not always glamorous but necessary to keep things running.",
+    "Tested system changes in UAT environment before production releases, documenting test cases and results in JIRA. Also participated in code reviews with developers to make sure business logic matched what stakeholders actually needed implemented.",
+    "Gathered requirements for Azure-based data warehouse improvements by interviewing portfolio managers about their pain points. Turned those conversations into functional specifications that made sense to both business users and technical teams.",
+    "Maintained documentation for data lineage across equity, fixed income, and derivatives asset classes. Used Confluence to track how investment data moves from source systems through transformations and finally into Charles River for daily operations."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "SQL",
+      "Python",
+      "VBA",
+      "PowerShell"
+    ],
+    "Investment Systems": [
+      "Charles River",
+      "Eagle",
+      "IBOR",
+      "Bloomberg"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "Azure Data Factory",
+      "Azure SQL Database",
+      "Azure DevOps"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "Oracle",
+      "PostgreSQL",
+      "NoSQL"
+    ],
+    "Data Integration Tools": [
+      "Informatica",
+      "Talend",
+      "SSIS",
+      "Azure Data Factory"
+    ],
+    "Data Visualization": [
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "SSRS"
+    ],
+    "Agile & Project Management": [
+      "JIRA",
+      "Confluence",
+      "MS Visio",
+      "SharePoint"
+    ],
+    "Data Quality & Governance": [
+      "Collibra",
+      "Data Quality Frameworks",
+      "Master Data Management",
+      "Data Lineage"
+    ],
+    "Asset Classes Knowledge": [
+      "Equity",
+      "Fixed Income",
+      "Derivatives",
+      "Investment Data"
+    ],
+    "Version Control": [
+      "Git",
+      "Azure Repos",
+      "SVN",
+      "Bitbucket"
+    ],
+    "Financial Regulations": [
+      "SEC Compliance",
+      "SOX",
+      "GDPR",
+      "Risk Management"
+    ],
+    "DevOps Tools": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Finance Business Process Analyst",
+      "client": "Charles Schwab",
+      "duration": "2024-Sep - Present",
+      "location": "",
+      "responsibilities": [
+        "I write SQL queries daily to validate investment data flowing from Eagle into Charles River, checking equity positions match across systems. Sometimes the data doesn't reconcile and I have to dig through logs to find where transactions got dropped.",
+        "Set up Azure Data Factory pipelines to automate data feeds from multiple IBOR systems into our central data warehouse. Had to learn Azure services pretty much on the job since my previous projects didn't use cloud platforms heavily.",
+        "Attend requirements gathering sessions with portfolio managers to understand their fixed income reporting needs. Then I translate those business requirements into technical specs that developers can implement in Charles River system enhancements.",
+        "Troubleshoot derivatives data issues by comparing source system outputs with what actually landed in Charles River. Often it's just a matter of checking data type mismatches or finding null values that broke the ETL process during overnight batch runs.",
+        "Document business processes and data flows using MS Visio to show how investment data moves between systems. Also maintain this documentation in SharePoint so the whole team can reference it when onboarding new people or troubleshooting issues.",
+        "Participate in Agile sprint planning meetings where we prioritize system enhancements based on business impact. I'm responsible for writing user stories in JIRA and making sure acceptance criteria are clear enough for QA testing later.",
+        "Review SQL code changes from developers before they deploy to production, making sure business logic matches requirements. Actually caught a few bugs where equity calculations were using wrong market data fields that would've impacted client portfolios.",
+        "Support UAT testing cycles by coordinating with business users to execute test cases for new Charles River features. Also track defects in JIRA and work with dev team to verify fixes before final production release happens.",
+        "Extract investment data using SQL for ad-hoc reports requested by senior management, usually around month-end when they need portfolio performance metrics. Sometimes these requests come in late afternoon and need to be delivered same day.",
+        "Configured data quality checks in Azure to flag anomalies in equity and fixed income data before it reaches Charles River. Basically built validation rules that alert us when position quantities or pricing data falls outside expected ranges.",
+        "Collaborate with IT infrastructure team on Azure cloud resource provisioning for new data integration projects. Had to learn about virtual networks and security groups to make sure our IBOR data feeds stayed compliant with firm policies.",
+        "Update Confluence documentation after system changes go live, capturing what was modified and why. Plus I record lessons learned from production incidents so we don't repeat the same mistakes when troubleshooting similar data feed issues."
+      ],
+      "environment": [
+        "SQL",
+        "Charles River",
+        "Eagle",
+        "IBOR",
+        "Microsoft Azure",
+        "Azure Data Factory",
+        "Power BI",
+        "JIRA",
+        "Confluence",
+        "MS Visio",
+        "SharePoint",
+        "Excel",
+        "Python",
+        "Informatica",
+        "Bloomberg",
+        "Azure DevOps",
+        "Git"
+      ]
+    },
+    {
+      "role": "Business Process Analyst \u2013 Finance Operations",
+      "client": "United Health Care",
+      "duration": "2022-Nov - 2024-Aug",
+      "location": "",
+      "responsibilities": [
+        "Worked with SQL Server databases to extract healthcare claims data for financial reporting, making sure numbers matched between billing systems and general ledger. Sometimes had to rerun queries multiple times when data didn't reconcile properly.",
+        "Mapped business requirements from finance operations teams into functional specifications for system enhancements. Spent a lot of time in meetings figuring out what they actually needed versus what they initially asked for.",
+        "Generated monthly revenue reports using SQL and Excel by pulling data from multiple healthcare systems and consolidating it into management dashboards. Had to ensure HIPAA compliance throughout the entire data extraction process.",
+        "Coordinated with IT developers to implement process improvements in our finance workflow automation. Basically I'd write up what needed to change, review their code updates, and test everything in staging before production deployment.",
+        "Validated data integrity between source healthcare billing systems and downstream finance applications using SQL validation scripts. Caught discrepancies that would've caused audit issues if they made it into quarterly financial statements.",
+        "Facilitated requirements workshops with finance stakeholders to document their pain points around claims processing workflows. Turned those discussions into user stories that got prioritized in our Agile backlog for development sprints.",
+        "Maintained SharePoint documentation for finance operations procedures and data flow diagrams created in MS Visio. Actually had to update these constantly since healthcare regulations changed frequently and impacted our processes.",
+        "Performed root cause analysis when financial data loads failed between systems, checking logs and tracing data lineage to find where things broke. Fixed issues ranging from bad file formats to network timeouts during overnight batch processing.",
+        "Compared healthcare financial metrics across different reporting periods using SQL queries to identify trends for management review. Also built Excel pivot tables to make the data easier for non-technical finance users to understand.",
+        "Tracked project deliverables in JIRA during system upgrade initiatives, making sure testing milestones stayed on schedule. Worked closely with QA team to document test cases and verify that fixes actually resolved the reported defects."
+      ],
+      "environment": [
+        "SQL Server",
+        "MS Visio",
+        "SharePoint",
+        "Excel",
+        "JIRA",
+        "Python",
+        "HIPAA Compliance",
+        "Tableau",
+        "Claims Processing Systems",
+        "Healthcare Billing Systems",
+        "SSIS",
+        "PowerShell",
+        "Git"
+      ]
+    },
+    {
+      "role": "Business Analyst",
+      "client": "Mphasis",
+      "duration": "2020-Apr - 2022-Oct",
+      "location": "",
+      "responsibilities": [
+        "Pulled banking transaction data using SQL queries for monthly financial reconciliation reports. Had to learn SQL basics pretty quickly since my previous internship didn't involve much database work.",
+        "Helped document business requirements for a core banking system upgrade by interviewing branch operations staff about their daily workflows. Turned those notes into requirement documents that development team used for implementation.",
+        "Checked data quality issues in customer account records by running SQL validation scripts and reporting discrepancies to the data team. Sometimes it was just duplicate entries or missing fields that needed cleanup.",
+        "Assisted with UAT testing for new banking features, executing test cases in SharePoint and logging defects when things didn't work as expected. Also attended daily standup meetings to provide testing status updates.",
+        "Created MS Visio diagrams showing how customer data flowed between different banking applications for audit documentation. Updated these diagrams whenever system integrations changed during our quarterly release cycles.",
+        "Ran Python scripts to automate repetitive data extraction tasks that finance team needed for regulatory reporting. Basically saved them hours of manual work copying data between spreadsheets every month."
+      ],
+      "environment": [
+        "SQL",
+        "MS Visio",
+        "SharePoint",
+        "Python",
+        "Excel",
+        "Core Banking Systems",
+        "SOX Compliance",
+        "PCI DSS",
+        "JIRA",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, Bakersfield",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2022"
+    }
+  ],
+  "certifications": []
+}

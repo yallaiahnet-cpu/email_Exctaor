@@ -1,0 +1,319 @@
+{
+  "name": "Aravind Reddy",
+  "title": "VMware Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized VMware vSphere 7.x to design and implement virtualized environments, ensuring high availability and performance across multiple ESXi hosts.",
+    "Managed vCenter Server 7.0, overseeing the deployment and maintenance of over 100 virtual machines for critical applications.",
+    "Configured and optimized vMotion, DRS, and HA to ensure seamless workload migration and resource balancing.",
+    "Implemented vSAN for storage virtualization, improving data accessibility and reducing latency across clustered environments.",
+    "Maintained and updated VMware templates and snapshots, streamlining VM provisioning processes and reducing deployment times.",
+    "Integrated VMware infrastructure with NFS and iSCSI storage solutions, enhancing data management and backup workflows.",
+    "Applied security best practices, including role-based access control and encryption, to protect virtualized environments.",
+    "Collaborated with network teams to configure VLANs and optimize virtual networking for improved performance.",
+    "Automated routine tasks using PowerCLI scripts, reducing manual intervention and minimizing errors in VMware management.",
+    "Supported incident and problem management processes, aligning with ITIL standards to ensure rapid resolution of issues.",
+    "Performed regular upgrades and patching of VMware infrastructure, maintaining compatibility and security across all components.",
+    "Monitored resource utilization using vRealize Operations, identifying and resolving bottlenecks to optimize system performance.",
+    "Configured and managed VMware Horizon for virtual desktop infrastructure, supporting remote workforce needs.",
+    "Troubleshot complex issues related to ESXi hosts, vCenter Server, and virtual networking, ensuring minimal downtime.",
+    "Implemented disaster recovery solutions, including SRM, to ensure business continuity in case of outages.",
+    "Conducted training sessions for junior team members on VMware best practices and troubleshooting techniques.",
+    "Maintained documentation for VMware environments, including configurations, workflows, and incident resolution steps.",
+    "Participated in cross-functional projects, collaborating with systems and storage teams to deliver integrated solutions."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ],
+    "Virtualization Technologies": [
+      "VMware vSphere (ESXi, vCenter Server)",
+      "vMotion",
+      "DRS",
+      "HA",
+      "vSAN",
+      "VMware Horizon",
+      "NSX",
+      "vRealize Suite",
+      "SRM"
+    ],
+    "Storage Technologies": [
+      "NFS",
+      "iSCSI",
+      "Fibre Channel"
+    ],
+    "Scripting & Automation": [
+      "PowerCLI",
+      "PowerShell",
+      "Bash",
+      "Python"
+    ],
+    "Operating Systems": [
+      "Windows",
+      "Linux"
+    ],
+    "Networking": [
+      "TCP/IP",
+      "VLANs",
+      "DNS"
+    ]
+  },
+  "experience": [
+    {
+      "role": "VMware Engineer",
+      "client": "Tech Solutions Inc.",
+      "duration": "2020-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Utilized VMware vSphere 7.x to design and implement virtualized environments, ensuring high availability and performance across multiple ESXi hosts.",
+        "Managed vCenter Server 7.0, overseeing the deployment and maintenance of over 100 virtual machines for critical applications.",
+        "Configured and optimized vMotion, DRS, and HA to ensure seamless workload migration and resource balancing.",
+        "Implemented vSAN for storage virtualization, improving data accessibility and reducing latency across clustered environments.",
+        "Maintained and updated VMware templates and snapshots, streamlining VM provisioning processes and reducing deployment times.",
+        "Integrated VMware infrastructure with NFS and iSCSI storage solutions, enhancing data management and backup workflows.",
+        "Applied security best practices, including role-based access control and encryption, to protect virtualized environments.",
+        "Collaborated with network teams to configure VLANs and optimize virtual networking for improved performance.",
+        "Automated routine tasks using PowerCLI scripts, reducing manual intervention and minimizing errors in VMware management.",
+        "Supported incident and problem management processes, aligning with ITIL standards to ensure rapid resolution of issues.",
+        "Performed regular upgrades and patching of VMware infrastructure, maintaining compatibility and security across all components.",
+        "Monitored resource utilization using vRealize Operations, identifying and resolving bottlenecks to optimize system performance.",
+        "Configured and managed VMware Horizon for virtual desktop infrastructure, supporting remote workforce needs.",
+        "Troubleshot complex issues related to ESXi hosts, vCenter Server, and virtual networking, ensuring minimal downtime.",
+        "Implemented disaster recovery solutions, including SRM, to ensure business continuity in case of outages.",
+        "Conducted training sessions for junior team members on VMware best practices and troubleshooting techniques."
+      ],
+      "environment": [
+        "VMware vSphere 7.x, ESXi, vCenter Server, vSAN, vMotion, DRS, HA, PowerCLI, Python, NFS, iSCSI, VLANs, vRealize Operations, VMware Horizon, SRM"
+      ]
+    },
+    {
+      "role": "Systems Administrator",
+      "client": "Global IT Services",
+      "duration": "2016-Jun - 2019-Dec",
+      "location": "Dallas, Texas",
+      "responsibilities": [
+        "Administered Windows and Linux servers, ensuring optimal performance and security across the organization.",
+        "Managed VMware vSphere 6.5 environments, including ESXi hosts and vCenter Server, supporting over 50 virtual machines.",
+        "Configured and maintained storage solutions, including NFS and iSCSI, for efficient data management.",
+        "Implemented basic automation scripts using PowerShell to streamline server management tasks.",
+        "Monitored system performance and resolved issues related to server hardware and software.",
+        "Collaborated with network teams to troubleshoot connectivity issues and optimize network performance.",
+        "Maintained documentation for server configurations, workflows, and incident resolution steps.",
+        "Supported disaster recovery efforts by backing up critical data and testing recovery procedures.",
+        "Conducted regular security audits to ensure compliance with organizational policies.",
+        "Provided technical support to end-users, resolving hardware and software issues promptly.",
+        "Assisted in the migration of physical servers to virtual environments, improving resource utilization.",
+        "Participated in on-call rotations, ensuring 24/7 availability for critical systems.",
+        "Upgraded server hardware and software to meet evolving business needs.",
+        "Trained junior administrators on server management best practices and troubleshooting techniques."
+      ],
+      "environment": [
+        "Windows Server, Linux, VMware vSphere 6.5, ESXi, vCenter Server, NFS, iSCSI, PowerShell, TCP/IP, DNS, VLANs"
+      ]
+    },
+    {
+      "role": "IT Support Specialist",
+      "client": "Local Tech Solutions",
+      "duration": "2014-Mar - 2016-May",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Provided technical support to end-users, resolving hardware and software issues for desktops and laptops.",
+        "Managed user accounts and permissions in Active Directory, ensuring secure access to organizational resources.",
+        "Installed and configured software applications, including Microsoft Office and specialized industry tools.",
+        "Troubleshot network connectivity issues, ensuring stable access to internal and external resources.",
+        "Maintained inventory of IT assets, including hardware and software licenses.",
+        "Assisted in the setup and configuration of new employee workstations.",
+        "Conducted regular maintenance on computers, including updates and virus scans.",
+        "Supported printers and other peripheral devices, resolving issues promptly.",
+        "Documented common issues and solutions in a knowledge base for future reference.",
+        "Participated in IT projects, including office relocations and hardware upgrades.",
+        "Provided training to end-users on new software and hardware.",
+        "Monitored help desk tickets, ensuring timely resolution of all requests."
+      ],
+      "environment": [
+        "Windows 10, Active Directory, Microsoft Office, TCP/IP, DNS, Help Desk Software"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "year": "2014"
+    }
+  ],
+  "certifications": [
+    "VMware Certified Professional (VCP)",
+    "CompTIA Network+",
+    "ITIL Foundation Certification"
+  ]
+}

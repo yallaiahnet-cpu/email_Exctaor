@@ -1,0 +1,188 @@
+{
+  "name": "Aravind Datla",
+  "title": "Snowflake Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Experienced data professional with 8+ years across Healthcare, Banking, Automotive, and Consulting domains, now specializing in Snowflake platform optimization and configuration for enterprise-level data solutions.",
+    "Utilized Snowflake's advanced features to design HIPAA-compliant data architectures for healthcare systems, ensuring patient data security while maintaining query performance for analytical workloads.",
+    "Applied SQL performance tuning techniques across multiple domains to optimize data retrieval processes, reducing execution times for complex queries in banking transaction systems.",
+    "Implemented data security frameworks using Snowflake's role-based access controls, helping organizations maintain compliance with industry-specific regulations like PCI for banking.",
+    "Developed ETL/ELT processes using Snowflake's native capabilities, streamlining data integration from disparate sources in automotive manufacturing environments.",
+    "Configured Snowflake virtual warehouses to optimize resource allocation based on workload patterns, resulting in cost-efficient processing for consulting firm analytics.",
+    "Created comprehensive documentation for Snowflake implementations, enabling knowledge transfer and adherence to best practices across cross-functional teams.",
+    "Mentored junior data team members on Snowflake optimization techniques, sharing practical insights gained from hands-on experience with complex data challenges.",
+    "Designed observability frameworks for Snowflake environments using custom dashboards, providing real-time visibility into system performance and usage patterns.",
+    "Collaborated with InfoSec teams to implement Snowflake security features that align with organizational data governance policies and compliance requirements.",
+    "Applied cloud computing expertise to architect Snowflake solutions that leverage native cloud services for enhanced scalability and performance across different domains.",
+    "Engineered data models in Snowflake that support both transactional and analytical workloads, addressing diverse business needs in healthcare and financial sectors.",
+    "Resolved complex data integration challenges by leveraging Snowflake's semi-structured data capabilities, particularly useful for automotive sensor data analysis.",
+    "Facilitated cross-departmental collaboration to establish Snowflake best practices, creating standardized approaches to configuration and optimization across projects.",
+    "Continuously learning emerging Snowflake features and updates, adapting implementation strategies to incorporate new capabilities for improved data processing efficiency.",
+    "Partnered with business stakeholders to translate requirements into Snowflake-based solutions that deliver actionable insights while maintaining data security and compliance.",
+    "Applied problem-solving skills to troubleshoot performance issues in Snowflake environments, identifying root causes and implementing targeted solutions.",
+    "Integrated Snowflake with complementary technologies like Python and data visualization tools to create end-to-end data solutions for diverse business scenarios."
+  ],
+  "technical_skills": {
+    "Data Platforms": [
+      "Snowflake",
+      "Hadoop",
+      "Apache Kafka"
+    ],
+    "Programming Languages": [
+      "SQL",
+      "Python"
+    ],
+    "Data Integration": [
+      "Apache Airflow",
+      "Talend"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "Data Visualization": [
+      "Tableau"
+    ],
+    "Compliance Frameworks": [
+      "HIPAA",
+      "PCI",
+      "GDPR"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Snowflake Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Utilized Snowflake's secure data sharing capabilities to establish HIPAA-compliant data exchange protocols between CVS Health and external healthcare partners, enabling collaborative research while maintaining patient privacy.",
+        "Implemented Snowflake's data masking features to protect sensitive patient information in development environments, allowing developers to work with realistic data without compromising privacy regulations.",
+        "Configured Snowflake's multi-cluster warehouses to handle varying healthcare data processing loads throughout the day, ensuring consistent performance during peak prescription processing times.",
+        "Applied SQL performance tuning techniques to optimize complex healthcare analytics queries, reducing execution times for reports that track medication adherence across patient populations.",
+        "Developed automated monitoring solutions using Snowflake's resource monitors to track warehouse usage and costs, creating alerts when consumption exceeded predefined thresholds for budget control.",
+        "Created comprehensive documentation for Snowflake data models used in CVS Health's analytics platform, making it easier for new team members to understand the complex healthcare data relationships.",
+        "Designed Snowflake access control structures that align with CVS Health's internal security policies, implementing role-based permissions that reflect organizational hierarchies and data access needs.",
+        "Implemented Snowflake's time travel feature to create data recovery points for critical healthcare information, providing a safety net against accidental data modifications or deletions.",
+        "Collaborated with CVS Health's compliance team to ensure all Snowflake implementations met HIPAA requirements, conducting regular audits and making necessary adjustments to maintain compliance.",
+        "Mentored junior data engineers on Snowflake best practices specific to healthcare data management, sharing insights gained from resolving complex data integration challenges.",
+        "Optimized Snowflake's clustering keys for healthcare datasets based on common query patterns, significantly improving performance for analytical queries on patient records and prescription history.",
+        "Established data governance frameworks using Snowflake's object tagging features, enabling automated tracking of data lineage and classification for sensitive healthcare information.",
+        "Resolved performance bottlenecks in CVS Health's Snowflake environment by analyzing query execution plans and implementing targeted optimizations that addressed specific healthcare data access patterns.",
+        "Partnered with CVS Health's data science team to create Snowflake-based data marts that support machine learning models for predicting patient outcomes and identifying at-risk populations.",
+        "Implemented Snowflake's zero-copy cloning feature to create isolated environments for testing new healthcare analytics applications without duplicating data or impacting production systems.",
+        "Applied problem-solving skills to resolve complex data quality issues in CVS Health's Snowflake environment, developing validation rules that catch inconsistencies before they affect downstream processes.",
+        "Facilitated knowledge sharing sessions about Snowflake optimization techniques tailored to healthcare data, helping team members understand the unique challenges of working with medical information.",
+        "Evaluated emerging Snowflake features for potential application in CVS Health's healthcare analytics platform, conducting proof-of-concept tests to assess their impact on data processing workflows."
+      ],
+      "environment": [
+        "Snowflake",
+        "SQL",
+        "AWS",
+        "HIPAA",
+        "Python",
+        "Data Security Frameworks",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "role": "Snowflake Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Utilized Snowflake's secure views to implement row-level security for banking customer data, ensuring that users could only access information appropriate to their role and authorization level.",
+        "Applied SQL optimization techniques to improve performance of complex financial queries in Snowflake, reducing execution times for reports that analyze transaction patterns across millions of records.",
+        "Implemented Snowflake's data encryption features to protect sensitive banking information both at rest and in transit, aligning with Capital One's security requirements and industry standards.",
+        "Configured Snowflake virtual warehouses with auto-suspend and auto-resume features to optimize resource usage for banking data processing, reducing costs during periods of low activity.",
+        "Developed ETL processes using Snowflake's COPY INTO command to efficiently load large volumes of banking transaction data from various sources into the data warehouse.",
+        "Created monitoring dashboards using Snowflake's query history to track performance metrics and identify optimization opportunities for banking analytics workloads.",
+        "Collaborated with Capital One's compliance team to implement Snowflake solutions that meet PCI DSS requirements for handling credit card and payment information.",
+        "Designed Snowflake data models that support both real-time transaction processing and batch analytics for banking operations, balancing performance requirements across different use cases.",
+        "Mentored junior data team members on Snowflake best practices specific to financial data management, sharing practical insights gained from resolving banking data challenges.",
+        "Implemented Snowflake's materialized views to improve performance of frequently accessed banking reports, pre-computing complex aggregations to reduce query execution times.",
+        "Established automated data quality checks in Snowflake pipelines to ensure accuracy and consistency of banking data, implementing validation rules that detect anomalies in financial information.",
+        "Partnered with Capital One's business analysts to create Snowflake-based solutions that deliver actionable insights from banking data, supporting decision-making processes across the organization.",
+        "Resolved data integration challenges by leveraging Snowflake's semi-structured data capabilities to process JSON and XML formats commonly used in banking systems.",
+        "Applied performance tuning techniques to optimize Snowflake's resource utilization for banking workloads, adjusting warehouse sizes and cluster counts based on demand patterns.",
+        "Documented Snowflake architecture and configurations for Capital One's banking analytics platform, creating comprehensive guides that support knowledge transfer and onboarding."
+      ],
+      "environment": [
+        "Snowflake",
+        "SQL",
+        "AWS",
+        "PCI DSS",
+        "ETL/ELT Tools",
+        "Data Security Frameworks",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Utilized Apache Kafka to build real-time data pipelines for processing automotive sensor data, creating a foundation for vehicle performance analytics and predictive maintenance.",
+        "Applied Hadoop's distributed processing capabilities to analyze large volumes of manufacturing data, identifying patterns that helped optimize production line efficiency at Ford plants.",
+        "Implemented Apache Airflow workflows to orchestrate complex data processing tasks for automotive analytics, automating the extraction and transformation of vehicle performance metrics.",
+        "Developed Python scripts to clean and preprocess automotive telemetry data, preparing it for analysis while handling missing values and outliers that could skew results.",
+        "Created Tableau dashboards to visualize automotive performance data, enabling Ford engineers to identify trends and anomalies in vehicle operations through interactive data exploration.",
+        "Designed data models that supported both real-time monitoring and historical analysis of automotive systems, balancing immediate needs with long-term trend analysis requirements.",
+        "Collaborated with Ford's engineering teams to understand automotive data requirements, translating technical specifications into data processing solutions that delivered actionable insights.",
+        "Implemented data validation rules to ensure quality and consistency of automotive information, developing automated checks that flagged potential issues before they affected downstream processes.",
+        "Mentored junior team members on best practices for automotive data processing, sharing practical techniques for handling the unique challenges of vehicle-generated information.",
+        "Resolved performance bottlenecks in data processing pipelines by optimizing Hadoop jobs and Kafka configurations, significantly reducing processing times for large automotive datasets.",
+        "Partnered with Ford's quality assurance teams to develop data-driven approaches to vehicle testing, creating analytical frameworks that supported evidence-based decision making.",
+        "Applied problem-solving skills to address complex data integration challenges in the automotive environment, developing custom solutions for handling proprietary vehicle data formats."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "Data Modeling",
+        "Real-time Processing"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Utilized MySQL to design and implement relational database schemas for consulting projects, creating normalized structures that supported complex business requirements and ensured data integrity.",
+        "Applied PostgreSQL's advanced features to develop robust data solutions for consulting clients, leveraging its extensibility to address specific industry requirements and use cases.",
+        "Implemented Talend ETL processes to extract data from diverse client systems, transforming information according to business rules and loading it into target data warehouses.",
+        "Developed Apache Airflow DAGs to orchestrate complex data workflows for consulting projects, automating repetitive tasks and ensuring reliable execution of data processing pipelines.",
+        "Created Python scripts to perform custom data transformations that weren't supported by standard ETL tools, addressing unique client requirements with tailored solutions.",
+        "Designed Tableau visualizations that presented consulting insights in an accessible format, enabling clients to understand complex data relationships and make informed decisions.",
+        "Collaborated with consulting teams to understand client business requirements, translating them into technical specifications that guided data solution development.",
+        "Implemented data quality checks and validation rules to ensure accuracy of consulting deliverables, developing automated processes that identified and flagged potential data issues."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

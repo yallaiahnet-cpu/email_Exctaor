@@ -1,0 +1,257 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Java Backend Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java 8+ for building scalable backend systems, focusing on object-oriented design and functional programming to optimize performance in insurance claim processing systems.",
+    "Engineered microservices using Spring Boot and Spring Cloud, ensuring seamless integration with AWS services for healthcare data management, adhering to HIPAA compliance.",
+    "Designed and deployed RESTful APIs with OpenAPI/Swagger documentation, facilitating secure data exchange between banking systems and third-party services.",
+    "Managed dependencies and build processes using Maven, streamlining CI/CD pipelines for consulting projects to ensure efficient deployment.",
+    "Implemented schema design and query optimization in relational databases like MySQL and PostgreSQL, enhancing data retrieval speeds for insurance analytics platforms.",
+    "Integrated NoSQL databases such as MongoDB for handling unstructured data in healthcare applications, ensuring scalability and performance.",
+    "Collaborated with cross-functional teams to troubleshoot and resolve production issues in microservices, minimizing downtime for banking transaction systems.",
+    "Applied microservice patterns to design distributed systems, improving modularity and maintainability in consulting client projects.",
+    "Configured and managed Azure services for cloud-native applications, ensuring high availability and disaster recovery for banking solutions.",
+    "Developed and maintained unit tests using JUnit and Mockito, ensuring code reliability in insurance policy management systems.",
+    "Participated in code reviews and pair programming sessions to uphold code quality and share knowledge within the team.",
+    "Migrated monolithic applications to microservices architecture, reducing latency and improving scalability for healthcare patient portals.",
+    "Implemented transaction management and concurrency control in Java applications, ensuring data integrity in banking transaction systems.",
+    "Utilized Docker and Kubernetes for containerization and orchestration, deploying microservices in production environments for consulting clients.",
+    "Monitored application performance using tools like Prometheus and Grafana, identifying and resolving bottlenecks in insurance claim processing systems.",
+    "Documented technical designs and architecture decisions, ensuring knowledge transfer and maintainability of healthcare data platforms.",
+    "Mentored junior developers in Java best practices and Spring Framework, fostering a culture of continuous learning and improvement.",
+    "Adapted to evolving project requirements, learning new technologies and methodologies to deliver robust solutions in dynamic consulting environments."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java (8/11/17+)",
+      "JavaScript",
+      "Python"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Boot",
+      "Spring Cloud",
+      "Spring Data",
+      "Hibernate"
+    ],
+    "API Design & Integration": [
+      "RESTful APIs",
+      "OpenAPI/Swagger",
+      "GraphQL"
+    ],
+    "Build & Dependency Management": [
+      "Maven",
+      "Gradle"
+    ],
+    "Data Management": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Cassandra"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "AWS"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Monitoring & Logging": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack"
+    ],
+    "Testing & CI/CD": [
+      "JUnit",
+      "Mockito",
+      "Jenkins",
+      "GitLab CI"
+    ],
+    "DevOps Tools": [
+      "Git",
+      "Jenkins",
+      "SonarQube"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized Java 11 and Spring Boot to develop microservices for insurance claim processing, integrating AWS Lambda for serverless computing to handle peak loads.",
+        "Designed RESTful APIs with OpenAPI documentation, enabling seamless integration with external fraud detection services, ensuring PCI compliance.",
+        "Managed database schema design and query optimization in PostgreSQL, improving data retrieval speeds by roughly 30% for policy management systems.",
+        "Implemented Maven for dependency management and build automation, streamlining CI/CD pipelines and reducing deployment times.",
+        "Collaborated with the security team to ensure HIPAA compliance in data handling processes, conducting regular audits and vulnerability assessments.",
+        "Troubleshot and resolved production issues in microservices, minimizing downtime and ensuring high availability for customer-facing applications.",
+        "Applied microservice patterns to refactor monolithic applications, enhancing scalability and maintainability of the insurance platform.",
+        "Configured AWS services like S3 and RDS for data storage and management, ensuring data durability and disaster recovery.",
+        "Developed unit tests using JUnit and Mockito, achieving 95% code coverage and ensuring reliability in claim processing systems.",
+        "Participated in daily stand-ups and sprint planning meetings, aligning with Agile methodologies to deliver features on time.",
+        "Mentored junior developers in Java best practices and Spring Framework, fostering a culture of continuous learning and improvement.",
+        "Integrated Prometheus and Grafana for monitoring application performance, identifying and resolving bottlenecks in real-time.",
+        "Documented technical designs and architecture decisions, ensuring knowledge transfer and maintainability of the insurance platform.",
+        "Adapted to evolving project requirements, learning new technologies and methodologies to deliver robust solutions in a dynamic environment.",
+        "Worked closely with product managers to translate business requirements into technical specifications, ensuring alignment with project goals."
+      ],
+      "environment": [
+        "Java 11",
+        "Spring Boot",
+        "AWS",
+        "PostgreSQL",
+        "Maven",
+        "JUnit",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Engineered microservices using Spring Boot and Spring Cloud, ensuring seamless integration with AWS services for healthcare data management, adhering to HIPAA compliance.",
+        "Developed RESTful APIs with OpenAPI/Swagger documentation, facilitating secure data exchange between healthcare systems and third-party services.",
+        "Managed schema design and query optimization in MySQL, enhancing data retrieval speeds for patient record systems.",
+        "Configured Maven for dependency management, streamlining build processes and ensuring consistent deployments across environments.",
+        "Integrated MongoDB for handling unstructured medical data, ensuring scalability and performance in healthcare analytics platforms.",
+        "Collaborated with cross-functional teams to troubleshoot production issues, minimizing downtime for critical healthcare applications.",
+        "Applied microservice patterns to design distributed systems, improving modularity and maintainability of the healthcare platform.",
+        "Monitored application performance using Prometheus and Grafana, identifying and resolving performance bottlenecks.",
+        "Conducted code reviews and pair programming sessions to uphold code quality and share knowledge within the team.",
+        "Migrated monolithic applications to microservices architecture, reducing latency and improving scalability for patient portals.",
+        "Implemented transaction management in Java applications, ensuring data integrity in healthcare transaction systems.",
+        "Utilized Docker and Kubernetes for containerization and orchestration, deploying microservices in production environments.",
+        "Documented technical designs and architecture decisions, ensuring knowledge transfer and maintainability of the healthcare platform.",
+        "Mentored junior developers in Java and Spring Framework, fostering a culture of continuous learning and improvement.",
+        "Adapted to evolving project requirements, learning new technologies and methodologies to deliver robust solutions in a dynamic healthcare environment."
+      ],
+      "environment": [
+        "Java 8+",
+        "Spring Boot",
+        "Spring Cloud",
+        "AWS",
+        "MySQL",
+        "MongoDB",
+        "Maven",
+        "Prometheus",
+        "Grafana",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed microservices using Spring Boot, integrating with GCP services for healthcare data processing, ensuring HIPAA compliance.",
+        "Designed and deployed RESTful APIs with OpenAPI documentation, enabling secure data exchange between state healthcare systems.",
+        "Managed database schema design and query optimization in PostgreSQL, improving data retrieval speeds for patient management systems.",
+        "Configured Maven for dependency management, streamlining build processes and ensuring consistent deployments across environments.",
+        "Integrated MongoDB for handling unstructured healthcare data, ensuring scalability and performance in analytics platforms.",
+        "Collaborated with cross-functional teams to troubleshoot production issues, minimizing downtime for critical healthcare applications.",
+        "Applied microservice patterns to design distributed systems, improving modularity and maintainability of the healthcare platform.",
+        "Monitored application performance using Prometheus and Grafana, identifying and resolving performance bottlenecks.",
+        "Conducted code reviews and pair programming sessions to uphold code quality and share knowledge within the team.",
+        "Implemented transaction management in Java applications, ensuring data integrity in healthcare transaction systems.",
+        "Utilized Docker and Kubernetes for containerization and orchestration, deploying microservices in production environments.",
+        "Documented technical designs and architecture decisions, ensuring knowledge transfer and maintainability of the healthcare platform.",
+        "Mentored junior developers in Java and Spring Framework, fostering a culture of continuous learning and improvement.",
+        "Adapted to evolving project requirements, learning new technologies and methodologies to deliver robust solutions in a dynamic healthcare environment."
+      ],
+      "environment": [
+        "Java 8+",
+        "Spring Boot",
+        "GCP",
+        "PostgreSQL",
+        "MongoDB",
+        "Maven",
+        "Prometheus",
+        "Grafana",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed backend services using Java 8 and Spring Boot, integrating with Azure services for banking transaction processing.",
+        "Designed and deployed RESTful APIs with OpenAPI documentation, enabling secure data exchange between banking systems and third-party services.",
+        "Managed database schema design and query optimization in MySQL, improving data retrieval speeds for transaction management systems.",
+        "Configured Maven for dependency management, streamlining build processes and ensuring consistent deployments across environments.",
+        "Integrated MongoDB for handling unstructured banking data, ensuring scalability and performance in analytics platforms.",
+        "Collaborated with cross-functional teams to troubleshoot production issues, minimizing downtime for critical banking applications.",
+        "Applied microservice patterns to design distributed systems, improving modularity and maintainability of the banking platform.",
+        "Monitored application performance using Prometheus and Grafana, identifying and resolving performance bottlenecks.",
+        "Conducted code reviews and pair programming sessions to uphold code quality and share knowledge within the team.",
+        "Implemented transaction management in Java applications, ensuring data integrity in banking transaction systems.",
+        "Utilized Docker and Kubernetes for containerization and orchestration, deploying microservices in production environments."
+      ],
+      "environment": [
+        "Java 8+",
+        "Spring Boot",
+        "Azure",
+        "MySQL",
+        "MongoDB",
+        "Maven",
+        "Prometheus",
+        "Grafana",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed backend services using Java 8 and Spring Framework, integrating with on-premise databases for data processing.",
+        "Designed and deployed RESTful APIs with Swagger documentation, enabling data exchange between internal systems.",
+        "Managed database schema design and query optimization in MySQL, improving data retrieval speeds for reporting systems.",
+        "Configured Maven for dependency management, streamlining build processes and ensuring consistent deployments across environments.",
+        "Collaborated with cross-functional teams to troubleshoot production issues, minimizing downtime for critical applications.",
+        "Applied object-oriented design principles to develop scalable and maintainable backend systems.",
+        "Monitored application performance using logging tools, identifying and resolving performance bottlenecks.",
+        "Conducted code reviews and pair programming sessions to uphold code quality and share knowledge within the team.",
+        "Documented technical designs and architecture decisions, ensuring knowledge transfer and maintainability of the platform.",
+        "Adapted to evolving project requirements, learning new technologies and methodologies to deliver robust solutions in a dynamic environment."
+      ],
+      "environment": [
+        "Java 8+",
+        "Spring Framework",
+        "MySQL",
+        "Maven"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

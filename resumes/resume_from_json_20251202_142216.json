@@ -1,0 +1,345 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Full Stack .NET Developer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full stack .NET development with focus on C#, ASP.NET, Angular, and TypeScript across Hospitality, Healthcare, Transportation, Government, Banking, and Telecommunications domains.",
+    "I work on building complex web applications using C# and ASP.NET Core, where I create RESTful APIs and integrate them with Angular frontends to deliver responsive user experiences for hospitality booking systems.",
+    "Built full stack solutions with TypeScript and Angular where I design component-based architectures, connect them to ASP.NET backend services, and make sure data flows smoothly between frontend and SQL or CosmosDB databases.",
+    "Created microservices architecture using C# where I break down monolithic applications into smaller services, deploy them on Azure, and manage inter-service communication through message queues and HTTP protocols.",
+    "Developed AI-powered features using GenAI tools where I integrate machine learning models into .NET applications, train them on domain-specific data, and expose predictions through REST APIs for real-time decision making.",
+    "Worked closely with QA teams to write unit tests using xUnit and NUnit, participate in code reviews, fix bugs they reported, and automate testing pipelines using Azure DevOps to catch issues before production deployments.",
+    "Designed database schemas in SQL Server and CosmosDB where I normalize tables, create indexes for query optimization, write stored procedures, and migrate data between relational and NoSQL databases based on performance needs.",
+    "Implemented authentication and authorization using OAuth and JWT tokens where I secure ASP.NET APIs, configure role-based access control, integrate with Azure AD, and protect sensitive data in healthcare and banking applications.",
+    "Optimized application performance by profiling C# code with Visual Studio tools, identifying bottlenecks in database queries, adding caching layers using Redis, and reducing API response times from seconds to milliseconds.",
+    "Configured CI/CD pipelines in Azure DevOps where I automate build processes, run automated tests, deploy containerized applications to Azure App Services, and monitor releases to ensure zero-downtime deployments.",
+    "Integrated third-party APIs into ASP.NET applications where I consume REST services, handle authentication tokens, parse JSON responses, implement retry logic for failed requests, and log errors for troubleshooting.",
+    "Managed version control using Git where I create feature branches, merge pull requests, resolve conflicts, maintain clean commit history, and collaborate with distributed teams across different time zones.",
+    "Troubleshot production issues by analyzing application logs, debugging C# code in Visual Studio, reproducing bugs locally, fixing root causes, and deploying hotfixes quickly to minimize user impact.",
+    "Participated in agile ceremonies where I estimate user stories, break down complex tasks into manageable chunks, update sprint boards daily, and demonstrate completed features to stakeholders during sprint reviews.",
+    "Refactored legacy code in ASP.NET MVC applications where I modernize outdated patterns, migrate to .NET Core, improve code readability, add missing test coverage, and document changes for future maintainers.",
+    "Monitored application health using Azure Application Insights where I track performance metrics, set up alerts for exceptions, analyze user behavior patterns, and identify areas for improvement based on real usage data.",
+    "Collaborated with frontend developers to define API contracts where I document endpoints using Swagger, discuss data requirements, handle edge cases, version APIs properly, and ensure backward compatibility.",
+    "Learned new technologies on the job including GenAI frameworks where I experiment with different models, read documentation, attend team knowledge-sharing sessions, and apply learnings to solve business problems."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "Frameworks & Libraries": [
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      ".NET Framework",
+      "Angular",
+      "AngularJS",
+      "Entity Framework",
+      "Blazor"
+    ],
+    "Frontend Technologies": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "RxJS"
+    ],
+    "Backend & API Development": [
+      "ASP.NET Core Web API",
+      "REST APIs",
+      "Microservices",
+      "SignalR",
+      "gRPC",
+      "GraphQL"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "CosmosDB",
+      "Azure SQL Database",
+      "Entity Framework Core",
+      "ADO.NET",
+      "MongoDB"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Azure App Services",
+      "Azure Functions",
+      "Azure Storage",
+      "Azure Service Bus"
+    ],
+    "DevOps & CI/CD": [
+      "Azure DevOps",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Testing Frameworks": [
+      "xUnit",
+      "NUnit",
+      "MSTest",
+      "Moq",
+      "Selenium",
+      "Jasmine"
+    ],
+    "AI & Machine Learning": [
+      "GenAI",
+      "Azure OpenAI",
+      "ML.NET",
+      "TensorFlow"
+    ],
+    "Monitoring & Logging": [
+      "Azure Application Insights",
+      "Application Insights",
+      "Serilog",
+      "ELK Stack"
+    ],
+    "Security & Authentication": [
+      "OAuth",
+      "JWT",
+      "Azure AD",
+      "Identity Server"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "GitHub",
+      "Azure Repos",
+      "Bitbucket"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on the booking platform using C# and ASP.NET Core where I build APIs for reservation management, connect them to CosmosDB for fast data retrieval, and expose endpoints that Angular frontend consumes for real-time availability checks.",
+        "Built Angular components with TypeScript where I create reusable UI elements for hotel search, integrate them with ASP.NET backend services, handle user interactions, and make sure the booking flow works smoothly across desktop and mobile devices.",
+        "Created GenAI-powered recommendation engine using Azure OpenAI where I train models on historical booking data, integrate them into C# services, generate personalized suggestions, and display them to users during their search experience.",
+        "Designed SQL Server database schema where I normalize tables for bookings, guests, and properties, create foreign key relationships, add indexes on frequently queried columns, and write stored procedures for complex reporting requirements.",
+        "Implemented OAuth authentication in ASP.NET where I secure API endpoints, configure token validation middleware, integrate with third-party identity providers, and protect sensitive guest information according to hospitality data regulations.",
+        "Optimized API response times by adding Redis caching layer where I store frequently accessed data, reduce database calls, implement cache invalidation strategies, and improve booking search performance from 3 seconds to under 500 milliseconds.",
+        "Configured Azure DevOps pipelines where I automate builds, run xUnit tests, deploy containerized applications to Azure App Services, and monitor releases to catch issues before they affect production bookings.",
+        "Worked with QA team during sprint testing where I fix bugs they reported, attend daily standup meetings, demonstrate completed features, participate in regression testing sessions, and help them understand technical implementation details.",
+        "Integrated payment gateway APIs into ASP.NET backend where I handle credit card processing, implement PCI compliance measures, manage transaction callbacks, retry failed payments, and log all payment activities for audit purposes.",
+        "Refactored legacy AngularJS code to modern Angular where I migrate components one by one, update TypeScript syntax, replace deprecated libraries, add proper type definitions, and maintain backward compatibility during gradual migration.",
+        "Troubleshot production issues by analyzing Application Insights logs where I identify error patterns, reproduce bugs in local environment, fix root causes in C# code, deploy hotfixes quickly, and document solutions for future reference.",
+        "Participated in code reviews where I review pull requests from team members, suggest improvements, discuss design patterns, ensure coding standards are followed, and learn new approaches from senior developers.",
+        "Managed Git workflow where I create feature branches, write descriptive commit messages, resolve merge conflicts, squash commits before merging, and maintain clean repository history for better collaboration.",
+        "Monitored application performance using Azure Application Insights where I track API latency, set up alerts for exceptions, analyze user session data, identify bottlenecks, and provide recommendations for optimization.",
+        "Collaborated with frontend team to define API contracts where I document endpoints using Swagger, discuss request and response formats, handle edge cases, version APIs properly, and ensure smooth integration between layers.",
+        "Debugged complex issues in Visual Studio where I set breakpoints, inspect variable values, step through C# code execution, analyze stack traces, and figure out why certain booking scenarios fail intermittently."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET Core",
+        "Angular",
+        "TypeScript",
+        "CosmosDB",
+        "SQL Server",
+        "Azure",
+        "Azure DevOps",
+        "GenAI",
+        "Azure OpenAI",
+        "Redis",
+        "OAuth",
+        "JWT",
+        "Docker",
+        "xUnit",
+        "Application Insights",
+        "Git",
+        "Visual Studio",
+        "Swagger"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "Developed patient portal using C# and ASP.NET Core where I built secure APIs for medical records access, integrated them with Angular frontend, ensured HIPAA compliance, and enabled patients to view lab results and schedule appointments online.",
+        "Constructed Angular application with TypeScript where I designed component architecture for clinical workflows, connected forms to ASP.NET backend, validated medical data entry, and created responsive interfaces for doctors and nurses to use on tablets.",
+        "Established microservices architecture using C# where I decomposed monolithic healthcare system into smaller services, deployed them on Azure, managed service-to-service communication, and improved system reliability for critical patient care operations.",
+        "Architected SQL Server database where I normalized patient records, created relationships between diagnoses and treatments, added encryption for sensitive health information, and wrote queries to generate reports for clinical research teams.",
+        "Incorporated GenAI capabilities using Azure OpenAI where I built medical coding assistant, trained model on ICD-10 codes, integrated predictions into C# service, and helped billing team automate insurance claim submissions with accuracy.",
+        "Secured APIs using OAuth and JWT where I implemented role-based access control for doctors, nurses, and administrators, configured Azure AD integration, enforced HIPAA security policies, and protected patient data from unauthorized access.",
+        "Tuned application performance by profiling C# code where I identified slow database queries, added Entity Framework caching, optimized LINQ expressions, and reduced patient record loading time from 5 seconds to under 1 second.",
+        "Automated deployment using Azure DevOps where I created build pipelines, configured release gates, deployed to staging environment first, ran automated NUnit tests, and ensured zero downtime during production releases.",
+        "Partnered with QA team where I wrote unit tests for critical healthcare features, participated in integration testing, reproduced bugs in test environment, fixed issues before sprint end, and maintained test coverage above target levels.",
+        "Connected third-party lab systems using REST APIs where I consumed HL7 FHIR endpoints, parsed medical data formats, handled API authentication, implemented retry logic, and synchronized lab results into patient records automatically.",
+        "Maintained Git repositories where I reviewed code changes, enforced branching strategy, documented technical decisions, merged feature branches carefully, and coordinated deployments with operations team during maintenance windows.",
+        "Diagnosed production problems by examining logs where I traced error messages, debugged C# code in Visual Studio, identified configuration issues, applied fixes during off-hours, and verified solutions with stakeholders.",
+        "Attended agile ceremonies where I estimated story points, broke down epics into tasks, updated Jira board daily, demoed features to clinical staff, gathered feedback, and incorporated changes in next sprint.",
+        "Upgraded legacy ASP.NET MVC application where I migrated to .NET Core, modernized authentication patterns, replaced outdated libraries, added missing test coverage, and documented migration steps for other team members."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET Core",
+        "Angular",
+        "TypeScript",
+        "SQL Server",
+        "Azure",
+        "Azure AD",
+        "GenAI",
+        "Azure OpenAI",
+        "Entity Framework Core",
+        "OAuth",
+        "JWT",
+        "Azure DevOps",
+        "NUnit",
+        "HL7 FHIR",
+        "Git",
+        "Visual Studio",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "Assembled flight booking system using C# and ASP.NET where I created APIs for seat selection, integrated them with Angular frontend, processed real-time inventory updates, and handled thousands of concurrent booking requests during peak travel seasons.",
+        "Produced Angular application with TypeScript where I built dynamic forms for passenger information, connected components to ASP.NET backend, validated travel documents, and displayed flight options with pricing in user-friendly interface.",
+        "Composed microservices using C# where I separated booking, payment, and notification services, deployed them on Azure, coordinated transactions across services, and ensured data consistency for critical airline operations.",
+        "Formulated SQL Server database where I designed tables for flights, passengers, and reservations, created indexes for fast lookups, implemented stored procedures for complex queries, and maintained data integrity across multiple systems.",
+        "Applied GenAI for customer service chatbot where I integrated Azure OpenAI models into ASP.NET application, trained them on airline policies, automated common inquiries, and reduced support ticket volume significantly.",
+        "Protected APIs using OAuth where I configured token-based authentication, implemented authorization rules for different user roles, integrated with airline identity system, and secured passenger data according to transportation regulations.",
+        "Enhanced performance by analyzing C# code where I identified bottlenecks in booking flow, added caching for flight schedules, optimized database queries, and improved checkout completion time from 8 seconds to 2 seconds.",
+        "Deployed applications using Azure DevOps where I automated build process, ran xUnit tests in pipeline, deployed to Azure App Services, monitored deployment health, and rolled back releases when issues were detected.",
+        "Assisted QA team where I fixed defects they found during testing, attended bug triage meetings, reproduced issues locally, explained technical solutions, and verified fixes in staging environment before production release.",
+        "Consumed airline APIs where I integrated third-party services for baggage tracking, parsed XML responses, handled service timeouts, implemented fallback mechanisms, and synchronized data with internal booking system.",
+        "Handled Git workflow where I created branches for features, committed changes regularly, resolved conflicts during merges, reviewed colleague's code, and maintained repository organization for large development team.",
+        "Resolved production incidents by investigating Application Insights alerts where I analyzed error logs, debugged issues in Visual Studio, identified configuration problems, deployed fixes during maintenance windows, and communicated status to stakeholders."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET",
+        "Angular",
+        "TypeScript",
+        "SQL Server",
+        "Azure",
+        "Azure App Services",
+        "GenAI",
+        "Azure OpenAI",
+        "OAuth",
+        "Azure DevOps",
+        "xUnit",
+        "Application Insights",
+        "Git",
+        "Visual Studio"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "Generated citizen portal using C# and ASP.NET where I built APIs for license renewals, connected them with Angular frontend using TypeScript, processed government forms, and enabled residents to access services online without visiting offices.",
+        "Fabricated database schema in SQL Server where I normalized tables for permits, applications, and payments, created relationships between entities, added constraints for data validation, and wrote queries for compliance reporting.",
+        "Utilized GenAI tools where I explored machine learning models for document classification, integrated them into .NET application, automated form processing, and helped reduce manual data entry work for government staff.",
+        "Safeguarded APIs using JWT authentication where I implemented token validation, configured role-based permissions for employees, enforced government security standards, and protected citizen information from unauthorized access.",
+        "Improved API performance where I profiled C# code, identified slow endpoints, added caching for reference data, optimized SQL queries, and reduced page load times to meet accessibility requirements.",
+        "Automated testing using NUnit where I wrote unit tests for business logic, created integration tests for APIs, configured Azure DevOps to run tests automatically, and maintained code quality throughout development cycle.",
+        "Coordinated with QA team where I participated in test planning sessions, reproduced reported bugs, explained technical details, fixed issues promptly, and verified solutions met acceptance criteria.",
+        "Migrated legacy application to AWS where I containerized .NET services using Docker, deployed to AWS ECS, configured load balancers, monitored infrastructure, and ensured smooth transition from on-premise servers.",
+        "Maintained Git repository where I followed branching conventions, wrote clear commit messages, reviewed pull requests from junior developers, suggested code improvements, and kept documentation updated.",
+        "Investigated production errors by analyzing logs where I traced request flows, debugged C# code, identified root causes, applied hotfixes during business hours, and documented resolutions for knowledge base."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET",
+        "Angular",
+        "TypeScript",
+        "SQL Server",
+        "AWS",
+        "AWS ECS",
+        "GenAI",
+        "JWT",
+        "Docker",
+        "Azure DevOps",
+        "NUnit",
+        "Git",
+        "Visual Studio"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "Contributed to banking application using C# and ASP.NET MVC where I developed features for account management, connected to SQL Server database, processed transactions, and ensured PCI compliance for credit card data handling.",
+        "Prepared Angular components with TypeScript where I created forms for fund transfers, validated user inputs, connected to ASP.NET backend APIs, displayed account balances, and implemented responsive design for mobile banking.",
+        "Structured SQL Server database where I designed tables for accounts and transactions, created indexes for performance, wrote stored procedures for financial calculations, and maintained referential integrity across banking modules.",
+        "Fortified application security using OAuth where I implemented authentication flows, configured access controls for different user types, integrated with enterprise identity system, and protected sensitive financial data.",
+        "Tested features using xUnit where I wrote test cases for payment processing, verified edge cases, ran tests locally before commits, fixed failing tests, and contributed to overall code coverage goals.",
+        "Supported QA team where I clarified requirements, reproduced bugs in development environment, fixed defects quickly, participated in regression testing, and verified fixes before releasing to production.",
+        "Checked performance issues where I reviewed slow database queries, added appropriate indexes, optimized LINQ statements, reduced transaction processing time, and monitored application metrics using Azure Application Insights.",
+        "Learned Azure platform where I attended training sessions, experimented with cloud services, migrated development environment to Azure, deployed test applications, and gained hands-on experience with cloud technologies."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET MVC",
+        "Angular",
+        "TypeScript",
+        "SQL Server",
+        "Azure",
+        "OAuth",
+        "xUnit",
+        "Application Insights",
+        "Git",
+        "Visual Studio",
+        "PCI"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "Delivered telecom billing application using C# and ASP.NET MVC where I coded modules for invoice generation, queried SQL Server database for customer usage data, calculated charges, and displayed bills in web interface.",
+        "Fashioned AngularJS frontend where I created screens for customer self-service portal, connected forms to .NET backend using JavaScript, validated phone numbers, and enabled subscribers to view their account details online.",
+        "Shaped SQL Server tables where I designed schema for subscribers and call records, normalized data structure, wrote queries for billing reports, and ensured accurate data storage for telecommunications operations.",
+        "Verified features using manual testing where I executed test cases, reported bugs in tracking system, retested fixes, collaborated with senior developers, and learned about quality assurance processes.",
+        "Gained experience with ADO.NET where I wrote data access code, executed SQL commands from C#, handled database connections properly, processed result sets, and understood basics of working with relational databases.",
+        "Participated in team meetings where I discussed progress, asked questions when stuck, received guidance from mentors, shared learnings with peers, and slowly got comfortable with development workflows."
+      ],
+      "environment": [
+        "C#",
+        "ASP.NET MVC",
+        "AngularJS",
+        "SQL Server",
+        "ADO.NET",
+        "JavaScript",
+        "Visual Studio",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

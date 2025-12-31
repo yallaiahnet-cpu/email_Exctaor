@@ -1,0 +1,304 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Full Stack Developer - Agentic AI ",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full stack development with AI integration, specializing in Python, React, and Agentic AI frameworks for enterprise-scale applications across insurance, healthcare, and banking domains.",
+    "Using Langchain and Crew AI to address complex workflow automation challenges in insurance claims processing, implementing multi-agent systems that reduced manual intervention by streamlining document verification and fraud detection processes.",
+    "Leveraging Python backend development with React frontend to build AI-native applications for logistics platforms, creating seamless user experiences while integrating LLM reasoning capabilities for real-time decision making.",
+    "Implementing Agentic AI principles through autonomous goal-driven agent design in healthcare compliance systems, enabling HIPAA-compliant patient data processing while maintaining audit trails and regulatory requirements.",
+    "Developing RAG pipelines with vector stores and semantic search integration to enhance insurance policy document retrieval, improving accuracy of information extraction and customer service response times significantly.",
+    "Architecting microservices on AWS cloud infrastructure to support scalable AI-driven applications, utilizing SageMaker and Lambda for model deployment while ensuring high availability and fault tolerance.",
+    "Orchestrating multi-agent systems using Langchain framework for insurance underwriting workflows, coordinating specialized agents for risk assessment, document analysis, and compliance verification in real-time.",
+    "Building RESTful APIs with FastAPI and React frontends to expose AI capabilities to cross-functional teams, enabling product managers and domain experts to interact with autonomous agent workflows effectively.",
+    "Implementing CI/CD pipelines with GitHub Actions and Docker containers to streamline deployment of AI applications, reducing release cycles while maintaining quality through automated testing and validation.",
+    "Designing event-driven microservices architecture for healthcare data processing, ensuring HIPAA compliance through encrypted data flows and secure API gateways while maintaining system performance.",
+    "Utilizing OpenAI APIs and Hugging Face models to enhance reasoning capabilities in banking fraud detection systems, implementing semantic search for transaction pattern analysis and anomaly identification.",
+    "Developing containerized AI applications with Docker and Kubernetes orchestration, enabling scalable deployment of autonomous agents across multiple environments while maintaining resource efficiency.",
+    "Creating maintainable AI-driven application designs with proper monitoring using Prometheus and Grafana, establishing observability for agent performance and system reliability in production environments.",
+    "Integrating vector databases like FAISS and Pinecone with Langchain workflows for insurance document processing, enabling efficient similarity search and retrieval augmented generation for customer queries.",
+    "Applying Agile development practices with JIRA and sprint planning to coordinate AI application development across cross-functional teams, ensuring alignment between technical implementation and business requirements.",
+    "Building semantic search capabilities for healthcare knowledge bases using transformer models and vector embeddings, improving clinical decision support systems through context-aware information retrieval.",
+    "Implementing performance monitoring for AI agent workflows in banking applications, tracking response times and accuracy metrics to optimize system behavior and ensure regulatory compliance.",
+    "Designing scalable intelligent systems with cloud-native deployment on AWS, leveraging serverless architectures and container orchestration for cost-effective scaling of AI applications across domains."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Node.js"
+    ],
+    "AI/ML Frameworks & Libraries": [
+      "Langchain",
+      "Crew AI",
+      "OpenAI APIs",
+      "Hugging Face",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+    "Agentic AI & Automation": [
+      "Autonomous Agent Design",
+      "Multi-Agent Systems",
+      "Goal-Driven Workflows",
+      "Agent Orchestration",
+      "Reasoning Engines"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (SageMaker, Lambda, EC2, S3, RDS, Bedrock)",
+      "Azure (ML Studio, Data Factory)",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Data Management & Storage": [
+      "Vector Databases (FAISS, Pinecone)",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "AWS RDS"
+    ],
+    "DevOps & CI/CD": [
+      "GitHub Actions",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Prometheus",
+      "Grafana"
+    ],
+    "API Development & Integration": [
+      "RESTful APIs",
+      "GraphQL",
+      "Microservices",
+      "Event-Driven Architecture",
+      "API Gateway"
+    ],
+    "Generative AI Tools": [
+      "Retrieval-Augmented Generation",
+      "Semantic Search",
+      "LLM Fine-tuning",
+      "Prompt Engineering",
+      "Model Context Protocol"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Logging Frameworks",
+      "Performance Monitoring"
+    ],
+    "Development Methodologies": [
+      "Agile Development",
+      "Scrum",
+      "JIRA",
+      "Sprint Planning",
+      "Cross-functional Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Langchain and Crew AI to address inefficient insurance claims processing, implementing multi-agent systems that automated document verification and fraud detection while reducing manual workload by streamlining entire workflow cycles.",
+        "Leveraging Python backend with React frontend to build AI-native claims assessment platform, creating autonomous agent workflows that processed complex insurance regulations and policy details with improved accuracy and faster response times.",
+        "Implementing RAG pipelines with FAISS vector stores to enhance insurance policy document retrieval, solving information fragmentation issues by enabling semantic search across historical claims data and regulatory documentation.",
+        "Architecting microservices on AWS with SageMaker and Lambda to deploy autonomous agents for risk assessment, ensuring scalable processing of insurance claims while maintaining compliance with state-specific insurance regulations.",
+        "Developing multi-agent orchestration using Langchain framework for complex underwriting workflows, coordinating specialized agents that handled risk evaluation, document analysis, and compliance verification simultaneously.",
+        "Building RESTful APIs with FastAPI to expose AI capabilities to insurance adjusters, enabling seamless integration of autonomous decision-making into existing claims management systems and workflows.",
+        "Implementing CI/CD pipelines with GitHub Actions and Docker containers for AI application deployment, reducing release cycles while ensuring reliable updates to agentic systems in production environments.",
+        "Designing event-driven microservices for real-time insurance data processing, creating resilient architectures that handled peak claim volumes during natural disasters and catastrophic events effectively.",
+        "Utilizing OpenAI APIs to enhance reasoning capabilities in fraud detection systems, implementing semantic analysis of claim narratives that identified suspicious patterns and potential fraudulent activities.",
+        "Developing containerized AI applications with Kubernetes orchestration, enabling scalable deployment of autonomous agents across multiple regions while maintaining consistent performance and reliability.",
+        "Creating monitoring systems with Prometheus and Grafana for agent performance tracking, establishing observability into claim processing workflows and identifying bottlenecks in autonomous decision-making processes.",
+        "Integrating vector databases with Langchain workflows for insurance document processing, enabling efficient similarity search across policy documents and historical claims for precedent-based decision support.",
+        "Applying Agile development practices with JIRA to coordinate cross-functional teams, ensuring alignment between AI implementation and insurance domain requirements through iterative development cycles.",
+        "Building semantic search capabilities for insurance knowledge bases using transformer models, improving customer service responses through context-aware retrieval of policy information and coverage details.",
+        "Implementing performance monitoring for AI agent workflows in claims processing, tracking decision accuracy and processing times to optimize system behavior and ensure regulatory compliance standards.",
+        "Designing scalable intelligent systems with cloud-native deployment on AWS, leveraging serverless architectures for cost-effective scaling during high-volume claim events and seasonal fluctuations."
+      ],
+      "environment": [
+        "Python",
+        "React",
+        "Langchain",
+        "Crew AI",
+        "OpenAI APIs",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "FAISS",
+        "Prometheus",
+        "Grafana",
+        "GitHub Actions",
+        "RESTful APIs",
+        "Microservices",
+        "Vector Databases",
+        "RAG Pipelines",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Langchain and agentic AI frameworks to address HIPAA-compliant healthcare data processing challenges, implementing autonomous agents that handled patient data anonymization and clinical trial documentation securely.",
+        "Leveraging Python with React to build AI-native applications for pharmaceutical research, creating interfaces that enabled researchers to interact with autonomous agents for literature review and data analysis workflows.",
+        "Implementing RAG pipelines with semantic search for medical literature databases, solving information retrieval challenges by enabling context-aware search across clinical trial results and research publications.",
+        "Architecting microservices on AWS infrastructure for healthcare AI applications, ensuring compliance with HIPAA regulations through encrypted data flows and secure access controls for sensitive patient information.",
+        "Developing multi-agent systems using Crew AI for clinical trial matching, coordinating specialized agents that analyzed patient eligibility criteria and medical history to identify suitable trial candidates.",
+        "Building RESTful APIs with FastAPI to expose AI capabilities to healthcare researchers, enabling integration of autonomous literature analysis into existing research workflows and data management systems.",
+        "Implementing CI/CD pipelines with Docker and GitHub Actions for healthcare AI deployment, ensuring reliable updates to critical systems while maintaining compliance with FDA regulatory requirements.",
+        "Designing event-driven microservices for real-time healthcare data processing, creating systems that handled streaming patient data while maintaining audit trails for regulatory compliance purposes.",
+        "Utilizing Hugging Face models to enhance natural language processing of medical documents, implementing entity recognition that extracted relevant clinical information from unstructured physician notes.",
+        "Developing containerized applications with Kubernetes orchestration, enabling scalable deployment of healthcare AI agents across research facilities while maintaining data privacy and security standards.",
+        "Creating monitoring systems with Prometheus for healthcare AI performance tracking, establishing observability into clinical decision support systems and ensuring reliability for critical medical applications.",
+        "Integrating vector databases with Langchain for medical literature retrieval, enabling efficient semantic search across research papers and clinical guidelines for evidence-based decision support.",
+        "Applying Agile methodologies with cross-functional teams to align AI development with healthcare domain requirements, ensuring solutions met both technical specifications and clinical usability needs.",
+        "Building semantic search capabilities for pharmaceutical knowledge bases, improving drug discovery processes through context-aware retrieval of chemical compound data and research findings."
+      ],
+      "environment": [
+        "Python",
+        "React",
+        "Langchain",
+        "Crew AI",
+        "Hugging Face",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "RESTful APIs",
+        "Microservices",
+        "Vector Databases",
+        "RAG Pipelines",
+        "Semantic Search",
+        "HIPAA Compliance",
+        "GitHub Actions",
+        "Prometheus"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Azure ML Studio and Python to address healthcare data processing challenges for public health initiatives, implementing machine learning models that analyzed population health trends while maintaining HIPAA compliance.",
+        "Leveraging Azure Data Factory to build ETL pipelines for healthcare datasets, creating automated workflows that processed sensitive patient information with proper encryption and access controls.",
+        "Implementing semantic search capabilities for public health documentation, solving information retrieval challenges by enabling context-aware search across medical guidelines and public health policies.",
+        "Architecting microservices on Azure infrastructure for healthcare applications, ensuring compliance with state regulations through secure data handling and audit trails for all data processing activities.",
+        "Developing RESTful APIs with FastAPI to expose machine learning capabilities to public health officials, enabling data-driven decision making for resource allocation and intervention planning.",
+        "Building containerized applications with Docker for healthcare data processing, enabling portable deployment across state health departments while maintaining consistent security standards.",
+        "Implementing CI/CD pipelines with Azure DevOps for machine learning model deployment, ensuring reliable updates to public health forecasting systems used for epidemic monitoring and response.",
+        "Designing event-driven architecture for real-time health data processing, creating systems that handled streaming data from multiple healthcare providers while maintaining data integrity.",
+        "Utilizing Python for data analysis and visualization of public health trends, creating reports that informed policy decisions and resource allocation for healthcare initiatives.",
+        "Developing monitoring systems for healthcare AI applications, tracking model performance and data quality to ensure reliable operation of critical public health systems.",
+        "Integrating with existing healthcare data systems through API development, enabling seamless data exchange between state health departments and healthcare providers.",
+        "Applying Agile development practices to coordinate with public health domain experts, ensuring technical solutions aligned with healthcare requirements and regulatory constraints."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Docker",
+        "FastAPI",
+        "RESTful APIs",
+        "Microservices",
+        "Semantic Search",
+        "HIPAA Compliance",
+        "Azure DevOps",
+        "Healthcare Data",
+        "Public Health Systems"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and Azure machine learning services to address fraud detection challenges in banking transactions, implementing models that analyzed patterns and identified suspicious activities in real-time.",
+        "Leveraging Azure Data Factory to build data pipelines for financial datasets, creating automated workflows that processed transaction data while maintaining PCI compliance and security standards.",
+        "Implementing semantic analysis for banking customer communications, solving customer service challenges by enabling automated categorization and routing of inquiries based on content and intent.",
+        "Architecting data processing systems on Azure infrastructure for financial applications, ensuring compliance with banking regulations through secure data handling and audit capabilities.",
+        "Developing RESTful APIs with Python to expose analytical capabilities to banking applications, enabling real-time fraud detection and risk assessment for transaction processing systems.",
+        "Building containerized applications with Docker for financial data analysis, enabling consistent deployment across different banking environments while maintaining security standards.",
+        "Implementing CI/CD pipelines with Azure DevOps for model deployment, ensuring reliable updates to critical fraud detection systems used across banking operations.",
+        "Designing event-driven systems for real-time financial data processing, creating architectures that handled high-volume transaction streams while maintaining data integrity.",
+        "Utilizing Python for statistical analysis of banking trends, creating insights that informed risk management strategies and customer service improvements.",
+        "Developing monitoring systems for financial AI applications, tracking model performance and alerting on anomalies in transaction patterns or system behavior."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML",
+        "Azure Data Factory",
+        "Docker",
+        "RESTful APIs",
+        "PCI Compliance",
+        "Banking Systems",
+        "Fraud Detection",
+        "Financial Data",
+        "Azure DevOps",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop and Python to address data processing challenges in consulting projects, implementing ETL pipelines that handled large datasets from multiple client sources for analysis and reporting.",
+        "Leveraging Informatica for data integration across enterprise systems, creating workflows that transformed and loaded data into data warehouses while maintaining data quality and consistency.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop, solving data migration challenges by enabling efficient movement of structured data into big data platforms.",
+        "Architecting data pipelines with Hadoop ecosystem tools, ensuring reliable processing of client data while meeting project requirements for timeliness and accuracy.",
+        "Developing Python scripts for data validation and quality checks, creating automated processes that identified data issues and ensured reliability of analytical outputs.",
+        "Building ETL workflows with Informatica PowerCenter, enabling efficient data processing across multiple client projects with varying data formats and requirements.",
+        "Implementing data integration solutions for consulting clients, creating systems that consolidated information from disparate sources into unified data models.",
+        "Utilizing Hadoop MapReduce for large-scale data processing, enabling analysis of client data that informed business decisions and strategic recommendations."
+      ],
+      "environment": [
+        "Hadoop",
+        "Python",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Warehousing",
+        "MapReduce",
+        "Data Integration",
+        "Big Data",
+        "Data Pipelines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

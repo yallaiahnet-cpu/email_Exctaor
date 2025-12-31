@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Tableau Analytics Lead - Aerospace Data Solutions",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Bringing 10 years of experience across Insurance, Healthcare, Banking, and Consulting domains with focus on Tableau Desktop advanced dashboard development and SQL-driven data extraction for mission-critical analytics systems.",
+    "Architect interactive Tableau dashboards using calculated fields, LOD expressions, and parameters to transform complex aerospace data into actionable insights for executive decision-making and technical teams across DEV, QA, and PROD environments.",
+    "Build dimensional data models using star and snowflake schemas with Tableau Hyper extracts to optimize query performance for large-scale aerospace datasets while maintaining data accuracy through rigorous validation and testing protocols.",
+    "Configure Tableau Server administration including site setup, user role management, and row-level security implementation to govern Interactors and Viewers access patterns across functional teams and stakeholder groups.",
+    "Design ETL pipelines integrating SQL transformations with Tableau Prep workflows to cleanse, model, and prepare aerospace mission data from PostgreSQL, MySQL, and Oracle databases for real-time visualization and reporting needs.",
+    "Implement dashboard actions including filter, highlight, URL, and parameter interactions combined with sets and table calculations to enable dynamic cohort analysis and running totals for operational metrics tracking.",
+    "Coordinate release migrations across multi-environment deployments using workbook publishing best practices while maintaining version control and approval workflows for tier-1 support and troubleshooting scenarios.",
+    "Optimize Tableau performance through incremental refresh strategies, data extract tuning, and query optimization techniques to reduce dashboard load times and improve user experience for aerospace systems monitoring.",
+    "Establish data governance protocols integrating Collibra catalog with Tableau Data Management for metadata lineage tracking and compliance with manufacturing environment standards and regulatory requirements.",
+    "Facilitate requirements gathering sessions with business analysts and stakeholders to translate aerospace operational needs into technical specifications for dashboard development and data source connections.",
+    "Develop Python and R integration workflows to extend Tableau analytical capabilities with custom statistical models and predictive analytics for aerospace performance metrics and trend analysis.",
+    "Maintain dimensions and measures hierarchies with custom formatting, tooltips, and annotations to align with branding standards while ensuring intuitive navigation for executive leadership and technical teams.",
+    "Monitor usage metrics through Tableau REST API automation scripts written in PowerShell to track dashboard adoption patterns and identify optimization opportunities for mission-critical systems.",
+    "Apply joins, unions, and blending techniques to combine data from multiple aerospace data sources while preserving referential integrity and ensuring accurate cross-database analysis for decision support.",
+    "Execute context filters, dimension filters, measure filters, and top N filtering strategies to manage large aerospace datasets efficiently while maintaining responsive dashboard performance.",
+    "Configure live connections versus data extracts based on performance trade-off analysis for aerospace real-time monitoring systems versus historical trend analysis requirements.",
+    "Support Agile Scrum methodology participation including sprint planning, daily standups, and retrospectives while coordinating with DBAs, IT, and Tableau administrators for iterative dashboard enhancement.",
+    "Provide tier-1 troubleshooting support for Tableau Desktop and Server issues while documenting solutions and maintaining knowledge base for common aerospace analytics platform challenges and resolutions."
+  ],
+  "technical_skills": {
+    "Business Intelligence Platforms": [
+      "Tableau Desktop",
+      "Tableau Server",
+      "Tableau Online",
+      "Tableau Prep",
+      "Tableau Data Management",
+      "Power BI",
+      "Looker"
+    ],
+    "Data Visualization & Design": [
+      "Dashboard Design Principles",
+      "Visualization Best Practices",
+      "Calculated Fields",
+      "LOD Expressions (FIXED, INCLUDE, EXCLUDE)",
+      "Table Calculations",
+      "Parameters",
+      "Sets",
+      "Dashboard Actions"
+    ],
+    "Data Modeling & Architecture": [
+      "Dimensional Modeling",
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Source Connections",
+      "Joins and Unions",
+      "Blending",
+      "Dimensions and Measures"
+    ],
+    "Tableau Performance Optimization": [
+      "Tableau Hyper Extracts",
+      "Incremental Refresh",
+      "Query Optimization",
+      "Performance Tuning",
+      "Extract vs Live Connections",
+      "Data Engine Optimization"
+    ],
+    "Database & Query Languages": [
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "Snowflake",
+      "AWS RDS"
+    ],
+    "ETL & Data Preparation": [
+      "Tableau Prep",
+      "ETL Concepts",
+      "Data Cleaning",
+      "Data Transformation",
+      "Data Validation",
+      "Data Quality Assurance"
+    ],
+    "Tableau Administration & Security": [
+      "Tableau Server Administration",
+      "User Access Management",
+      "Row-Level Security",
+      "Site Setup",
+      "User Role Management",
+      "Interactors and Viewers Governance"
+    ],
+    "Data Governance & Compliance": [
+      "Collibra",
+      "Data Catalog",
+      "Metadata Management",
+      "Data Lineage",
+      "Data Governance Protocols",
+      "Manufacturing Standards"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "R",
+      "PowerShell",
+      "Tableau REST API",
+      "SQL Scripting"
+    ],
+    "Development Methodologies": [
+      "Agile",
+      "Scrum",
+      "Sprint Planning",
+      "Requirements Gathering",
+      "Release Coordination"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, RDS, Redshift)",
+      "Azure (Data Factory, SQL Database)"
+    ],
+    "Analytics & Statistics": [
+      "Statistical Analysis",
+      "Predictive Analytics",
+      "Trend Analysis",
+      "Usage Metrics",
+      "KPI Development"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect Tableau dashboards with calculated fields and LOD expressions using Databricks PySpark to process insurance claims data while implementing multi-agent systems with LangGraph for automated data quality validation across AWS S3 and Redshift.",
+        "Build dimensional data models in Tableau Desktop connecting to SQL databases with joins and unions to combine policyholder data from multiple sources while developing proof of concepts for Model Context Protocol integration with insurance risk assessment workflows.",
+        "Configure Tableau Server site administration including user role management and row-level security to govern access for 200+ Interactors and Viewers while coordinating agent-to-agent communication patterns for automated dashboard refresh notifications.",
+        "Design ETL pipelines using Tableau Prep to cleanse insurance regulatory data with parameters and filters while implementing multi-agent orchestration using Crew AI to validate compliance with state insurance regulations before visualization.",
+        "Optimize Tableau Hyper extract performance through incremental refresh strategies reducing dashboard load times from 45 seconds to 8 seconds while developing Python integration scripts to automate insurance fraud detection model outputs into visualizations.",
+        "Implement dashboard actions including filter, highlight, and parameter interactions with sets for dynamic cohort analysis of insurance claim patterns while building LangGraph workflows to process unstructured policy documents for insights extraction.",
+        "Coordinate workbook publishing across DEV, QA, and PROD environments using release approval workflows while developing proof of concept for autonomous agents to monitor Tableau usage metrics and suggest optimization recommendations.",
+        "Facilitate requirements gathering sessions with insurance actuaries translating business needs into Tableau technical specifications while implementing R integration for statistical risk modeling visualizations embedded in executive dashboards.",
+        "Maintain dimensions and measures hierarchies with custom tooltips and annotations aligned to State Farm branding while developing multi-agent systems using AutoGen to automate generation of insurance regulatory compliance reports from Tableau data sources.",
+        "Apply context filters and top N filtering to manage 50 million insurance transaction records efficiently while building AWS Lambda functions integrated with Tableau REST API to automate workbook deployment and metadata management tasks.",
+        "Troubleshoot Tableau Desktop connection issues with PostgreSQL databases documenting solutions for tier-1 support while implementing Model Context Protocol for seamless data exchange between insurance policy systems and analytics dashboards.",
+        "Monitor dashboard performance using table calculations for running totals of insurance premium trends while developing PySpark jobs in Databricks to pre-aggregate data for Tableau consumption reducing query execution times.",
+        "Configure blending techniques to combine insurance claims data from AWS RDS with policy data from Oracle databases while implementing agent-to-agent coordination using Google's multi-agent framework for cross-system data reconciliation.",
+        "Support Agile sprint planning sessions collaborating with DBAs and IT teams while developing proof of concepts for autonomous agents to perform automated testing of Tableau dashboards before production deployment.",
+        "Validate data accuracy across Tableau reports using SQL queries to verify insurance metrics integrity while implementing LangGraph pipelines to extract structured data from unstructured insurance claim adjuster notes for visualization.",
+        "Prepare training materials for new Tableau users covering dashboard navigation and self-service analytics while developing multi-agent systems to automate generation of insurance performance insights and anomaly detection alerts."
+      ],
+      "environment": [
+        "Tableau Desktop",
+        "Tableau Server",
+        "Tableau Prep",
+        "Tableau Hyper",
+        "SQL",
+        "PostgreSQL",
+        "Oracle",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Redshift",
+        "AWS Lambda",
+        "Databricks",
+        "PySpark",
+        "Python",
+        "R",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "Model Context Protocol",
+        "Tableau REST API",
+        "PowerShell",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Tableau dashboards with calculated fields to visualize healthcare patient outcomes data from PostgreSQL databases while implementing LangChain workflows to extract HIPAA-compliant insights from clinical trial documents stored in AWS S3 buckets.",
+        "Created dimensional data models using star schema design in Tableau Desktop connecting to MySQL with joins to combine patient demographics with treatment records while building proof of concepts for multi-agent systems to automate healthcare regulatory reporting.",
+        "Configured Tableau Server user access management with row-level security to restrict patient data visibility based on HIPAA requirements while implementing Crew AI agents to monitor data governance compliance across healthcare analytics dashboards.",
+        "Designed Tableau Prep workflows to cleanse pharmaceutical sales data with parameters for dynamic date filtering while developing LangGraph pipelines to process unstructured physician notes into structured formats for visualization in executive reports.",
+        "Optimized Tableau Hyper extracts using incremental refresh reducing healthcare dashboard load times by 60% while implementing Python scripts integrated with Databricks to pre-process genomic research data for clinical decision support visualizations.",
+        "Implemented dashboard actions with sets for patient cohort segmentation analysis while building AutoGen multi-agent systems to automate generation of FDA compliance reports from Tableau data sources with proper audit trail documentation.",
+        "Coordinated workbook publishing between QA and PROD Tableau environments following change management protocols while developing proof of concepts for autonomous agents to validate healthcare data quality before dashboard deployment.",
+        "Gathered requirements from healthcare business analysts translating clinical needs into Tableau technical specifications while implementing R integration to embed statistical survival analysis models into patient outcome dashboards.",
+        "Maintained LOD expressions for complex healthcare metrics calculations across multiple grain levels while developing LangChain agents to extract adverse event data from clinical trial reports and populate Tableau data sources automatically.",
+        "Applied dimension filters and measure filters to manage 30 million patient records efficiently while building AWS Glue jobs to transform EHR data into Tableau-ready formats ensuring HIPAA compliance and data accuracy.",
+        "Troubleshot Tableau Desktop performance issues with live connections to Oracle databases while implementing Model Context Protocol for secure healthcare data exchange between hospital systems and analytics platforms.",
+        "Monitored dashboard usage through Tableau REST API automation using PowerShell scripts while developing Databricks PySpark jobs to aggregate pharmaceutical trial data for real-time visualization of drug efficacy metrics.",
+        "Configured blending to combine patient satisfaction survey data from AWS RDS with clinical outcomes from SQL Server while implementing multi-agent coordination using Crew AI for cross-system healthcare data reconciliation.",
+        "Participated in Agile ceremonies collaborating with data engineers to optimize ETL pipelines feeding Tableau dashboards while developing proof of concepts for LangGraph-based agents to automate healthcare quality measure reporting."
+      ],
+      "environment": [
+        "Tableau Desktop",
+        "Tableau Server",
+        "Tableau Prep",
+        "Tableau Hyper",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Glue",
+        "Databricks",
+        "PySpark",
+        "Python",
+        "R",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "Tableau REST API",
+        "PowerShell",
+        "HIPAA Compliance",
+        "FDA Regulations"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built Tableau dashboards with table calculations to track Medicaid enrollment trends using Azure SQL Database connections while ensuring HIPAA compliance for state healthcare program reporting to legislative oversight committees.",
+        "Designed dimensional models in Tableau Desktop using snowflake schema connecting to PostgreSQL with unions to consolidate public health data from county health departments while implementing row-level security for sensitive patient demographics.",
+        "Configured Tableau Server administration including site setup and user role management for 150+ state employees while coordinating with Azure Data Factory to automate ETL processes feeding healthcare quality measure dashboards.",
+        "Created Tableau Prep workflows to validate state healthcare data quality using parameters for fiscal year selection while implementing Python scripts to identify duplicate patient records before loading into Azure SQL Database for visualization.",
+        "Optimized Tableau Hyper extract refresh schedules reducing overnight processing time from 4 hours to 45 minutes while coordinating with DBAs to tune SQL queries extracting Medicaid claims data from Oracle databases.",
+        "Implemented dashboard actions with highlights to enable drill-down analysis of state health insurance marketplace enrollment patterns while maintaining calculated fields for complex eligibility calculations across multiple program categories.",
+        "Coordinated workbook publishing following state IT security protocols and change control procedures while troubleshooting Tableau Desktop connection timeouts with Azure Cosmos DB through configuration adjustments and query optimization.",
+        "Gathered requirements from state healthcare policy analysts translating regulatory reporting needs into Tableau visualizations while implementing R integration to perform chi-square tests on public health survey data.",
+        "Maintained dimensions and measures for state healthcare KPIs with custom formatting aligned to Maine DHHS branding standards while applying context filters to segment data by county, age group, and income bracket.",
+        "Configured blending to combine state Medicaid data from Azure SQL with federal Medicare data from SQL Server while implementing LOD expressions to calculate program enrollment percentages at different geographic levels.",
+        "Monitored Tableau dashboard performance using administrative views to identify slow-loading workbooks while coordinating with Azure administrators to scale database resources during peak usage periods.",
+        "Validated data accuracy for state healthcare reports comparing Tableau calculations against source system totals while documenting data lineage and transformation logic for state audit compliance requirements."
+      ],
+      "environment": [
+        "Tableau Desktop",
+        "Tableau Server",
+        "Tableau Prep",
+        "Tableau Hyper",
+        "SQL",
+        "PostgreSQL",
+        "Oracle",
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "Azure Cosmos DB",
+        "Python",
+        "R",
+        "PowerShell",
+        "HIPAA Compliance",
+        "State Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Constructed Tableau dashboards with calculated fields to monitor credit card transaction fraud patterns using Azure SQL Database connections while ensuring PCI-DSS compliance for financial data visualization and executive reporting.",
+        "Developed dimensional models in Tableau Desktop connecting to SQL Server with joins to combine customer account data with transaction history while implementing row-level security to restrict access based on banking division and role.",
+        "Configured Tableau Server user permissions for 300+ banking analysts and managers while coordinating with Azure Data Factory to schedule nightly ETL jobs loading financial data into Tableau Hyper extracts for next-day reporting.",
+        "Designed Tableau Prep workflows to cleanse loan application data using parameters for product type filtering while implementing Python scripts to validate transaction amounts against regulatory limits before dashboard publication.",
+        "Optimized Tableau extract performance by partitioning large transaction tables reducing dashboard refresh time from 90 minutes to 20 minutes while maintaining data accuracy through SQL validation queries comparing totals.",
+        "Implemented dashboard actions with filters to enable branch managers to analyze customer deposit trends by region while maintaining LOD expressions to calculate account balance percentages at customer and portfolio levels.",
+        "Coordinated workbook deployment across test and production Tableau environments following banking IT change management procedures while troubleshooting connection issues between Tableau and Azure Synapse Analytics warehouses.",
+        "Gathered requirements from banking operations teams translating risk management needs into Tableau visualizations while implementing R integration to perform logistic regression models predicting loan default probabilities.",
+        "Maintained dimensions for financial metrics with custom tooltips showing regulatory thresholds while applying top N filters to highlight accounts exceeding transaction monitoring limits for anti-money laundering review.",
+        "Configured blending to combine internal banking data from Azure SQL with external credit bureau data from Oracle databases while implementing table calculations for running totals of monthly transaction volumes."
+      ],
+      "environment": [
+        "Tableau Desktop",
+        "Tableau Server",
+        "Tableau Prep",
+        "Tableau Hyper",
+        "SQL",
+        "SQL Server",
+        "Oracle",
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Python",
+        "R",
+        "PowerShell",
+        "PCI-DSS Compliance",
+        "Banking Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned Tableau Desktop fundamentals creating basic dashboards with dimensions and measures to visualize retail sales data from MySQL databases while understanding data source connections and extract refresh schedules for client reporting needs.",
+        "Assisted senior developers building dimensional models using simple star schemas in Hadoop environments while practicing SQL queries to validate data accuracy between source systems and Tableau visualizations for consulting projects.",
+        "Configured Tableau Server workbook publishing following deployment procedures while attending training sessions on calculated fields, parameters, and filters to enhance dashboard interactivity for business users.",
+        "Participated in Informatica ETL development loading data from Oracle databases into Hadoop HDFS using Sqoop while learning to create Tableau Prep flows for basic data cleansing and transformation tasks.",
+        "Supported dashboard maintenance activities troubleshooting user-reported issues with slow-loading reports while documenting solutions and working with DBAs to optimize SQL queries feeding Tableau data sources.",
+        "Collaborated with business analysts during requirements gathering sessions taking notes on desired metrics and KPIs while practicing dashboard design principles to improve visualization clarity and user experience.",
+        "Monitored Tableau extract refresh jobs checking logs for failures while escalating complex issues to senior team members and learning performance tuning techniques through shadowing and code reviews.",
+        "Gained exposure to Agile methodology participating in sprint planning and daily standups while contributing to team knowledge base documenting Tableau best practices and common troubleshooting steps for new hires."
+      ],
+      "environment": [
+        "Tableau Desktop",
+        "Tableau Server",
+        "Tableau Prep",
+        "SQL",
+        "MySQL",
+        "Oracle",
+        "Hadoop",
+        "HDFS",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Hive"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

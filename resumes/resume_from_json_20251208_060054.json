@@ -1,0 +1,238 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Enterprise AI Solutions Architect",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and deploying AI solutions across Insurance, Healthcare, Banking, and Consulting domains, with a current focus on enterprise-grade agentic AI systems.",
+    "Craft complex workflows within Microsoft Copilot Studio to build single-agent and multi-agent systems, integrating them with Azure OpenAI's GPT-4o models for commercial-grade digital transformation projects.",
+    "Map business processes from stakeholder discussions into technical AI workflows, documenting solution designs that align with enterprise requirements for automation and system integration.",
+    "Develop production-ready AI agents by applying prompt engineering techniques, including zero-shot and few-shot learning, to ensure reliable interactions and minimize hallucination in user conversations.",
+    "Establish connections between AI agents and enterprise systems using REST APIs and Power Automate flows, ensuring secure data exchange through OAuth2 and Entra ID authentication protocols.",
+    "Translate business analyst requirements into functional POC agents in Copilot Studio, demonstrating value before scaling to full production deployments with proper architecture documentation.",
+    "Fine-tune Azure OpenAI models on domain-specific data from Insurance and Healthcare sectors, improving response accuracy for complex queries about regulations and internal processes.",
+    "Implement Model Context Protocols (MCP) to manage the context window for agents handling lengthy insurance claims or detailed healthcare patient history interactions efficiently.",
+    "Collaborate with Azure architects to design the underlying infrastructure for AI agents, leveraging Azure Functions for serverless logic and Azure Cognitive Search for potential RAG implementations.",
+    "Test AI agent behaviors systematically, establishing evaluation frameworks and guardrails to control outputs, especially for sensitive domains requiring strict compliance and data security.",
+    "Use Git repositories in Azure DevOps to version control agent configurations, prompts, and integration logic, following enterprise ALM practices for the Power Platform and related assets.",
+    "Orchestrate multi-agent patterns using frameworks like LangGraph, designing systems where specialist agents collaborate on tasks like processing a claim from intake to fraud check to payout.",
+    "Embed agents into Power Apps interfaces, enabling business users to interact with AI through familiar applications for tasks like customer service inquiry resolution or document summarization.",
+    "Build agents capable of executing multi-step workflows, such as gathering information from a user, querying a policy database via an API, performing calculations, and generating a summary report.",
+    "Apply RAG concepts to enhance agent knowledge, setting up vector search prototypes that allow agents to pull answers from internal manuals, compliance documents, and procedural guides.",
+    "Guide Power Platform teams on integrating AI agent outputs into broader business process automations, connecting AI insights to actions in CRM systems or backend databases.",
+    "Solve integration challenges during deployment, troubleshooting authentication errors or API timeouts by reviewing logs and working with system owners to adjust endpoint configurations.",
+    "Maintain a focus on creating solutions that are not just technically sound but also align with commercial objectives, driving measurable improvements in process efficiency and user satisfaction."
+  ],
+  "technical_skills": {
+    "AI Agent Development & Orchestration": [
+      "Microsoft Copilot Studio",
+      "Agentic AI Patterns",
+      "Multi-agent Systems",
+      "LangChain",
+      "LangGraph",
+      "Crew AI",
+      "AutoGen",
+      "Workflow Automation",
+      "LLM Orchestration (ReAct, Planner-Executor)"
+    ],
+    "Large Language Models": [
+      "Azure OpenAI (GPT-4o, GPT-4 Turbo)",
+      "Fine-tuning",
+      "Prompt Engineering",
+      "System Prompt Design",
+      "Few-shot/Zero-shot Learning",
+      "Hallucination Control"
+    ],
+    "Microsoft Power Platform": [
+      "Power Automate",
+      "Power Apps",
+      "Power Platform ALM",
+      "Connector Development",
+      "UI Integration"
+    ],
+    "Cloud Services (Azure)": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure API Management",
+      "Azure Cognitive Search",
+      "Azure Databricks",
+      "Azure Data Factory",
+      "Entra ID (Azure AD)"
+    ],
+    "API & Integration": [
+      "REST APIs",
+      "GraphQL",
+      "OAuth2",
+      "Authentication/Authorization",
+      "Enterprise System Integration",
+      "Model Context Protocol (MCP)"
+    ],
+    "Data & Search": [
+      "Vector Search Concepts",
+      "RAG Pipelines",
+      "Azure Cognitive Search",
+      "SQL",
+      "Data Pipeline Integration"
+    ],
+    "Development & DevOps": [
+      "Python",
+      "Git",
+      "GitHub",
+      "Azure DevOps",
+      "Version Control",
+      "CI/CD",
+      "Testing & Evaluation Frameworks"
+    ],
+    "Solution Design & Documentation": [
+      "Architecture Documentation",
+      "Solution Design",
+      "POC Development",
+      "Production Deployment",
+      "Business Process Mapping"
+    ],
+    "Enterprise Compliance & Security": [
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "Data Security",
+      "Enterprise Authentication",
+      "Regulatory Workflow Design"
+    ],
+    "Project Frameworks": [
+      "Business Analysis Collaboration",
+      "Stakeholder Communication",
+      "Requirements Translation",
+      "Agile Development"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "I design agentic AI solutions using Microsoft Copilot Studio to automate complex insurance claim inquiries, integrating GPT-4o via Azure OpenAI to interpret policy language and provide accurate, compliant responses to customers and internal adjusters.",
+        "A current challenge involves managing context for lengthy claim discussions; I apply Model Context Protocol (MCP) to structure the conversation history, ensuring the agent maintains accuracy over long interactions without exceeding token limits.",
+        "To tackle fraud detection, I construct a multi-agent system with LangGraph where one agent analyzes claim patterns, another cross-references historical data, and a third flags inconsistencies, improving our preliminary fraud identification rate.",
+        "I connect our claim status agents to internal policy databases via secure REST APIs, writing Azure Functions that handle the data retrieval and formatting before sending a clean response back to the Copilot Studio conversation.",
+        "Deploying agents requires rigorous testing; I establish evaluation scripts that run hundreds of test queries to check for hallucinations or compliance breaches, refining prompts and fallback messages until the agent performs reliably.",
+        "My daily work includes debugging API integrations where an agent fails to fetch customer data; I examine Power Automate flow run histories, check Entra ID permissions, and collaborate with the data platform team to resolve connectivity issues.",
+        "I prepare architecture documents for each production agent, detailing the data flow from user prompt through Azure OpenAI, to internal systems, and back, which serves as a reference for audits and for new team members.",
+        "Building a POC for a claims processing assistant, I used few-shot prompts with examples of approved and denied claims to teach the Azure OpenAI model our specific decision rationale, which later formed the core of a larger system.",
+        "I facilitate meetings with business analysts from the underwriting department to translate their manual risk assessment checklist into a dynamic dialog path for an AI agent, capturing all necessary variables for a quote.",
+        "A recent task involved fine-tuning a GPT-4 Turbo model on a dataset of past insurance communications to adopt our brand's tone and specific terminology, which reduced the need for post-generation editing by the communications team.",
+        "I orchestrate multi-step workflows where an initial agent collects claimant information, then triggers a second agent specializing in damage assessment, using a planner-executor pattern to manage the handoff and data sharing between them.",
+        "Integrating with Power Apps, I embed a Copilot Studio agent into a mobile tool for field adjusters, allowing them to verbally describe damage and receive immediate guidance on estimating repair costs based on historical data.",
+        "I review code for API connectors built by other developers, suggesting improvements for error handling and logging to ensure our AI agents degrade gracefully when backend systems experience high latency or temporary outages.",
+        "To improve knowledge access, I prototype a RAG solution using Azure Cognitive Search, indexing our internal claims procedure manuals so agents can cite specific document sections when answering complex procedural questions.",
+        "I configure authentication for agents needing to access sensitive policyholder data, implementing OAuth2 flows with Entra ID to ensure only authorized requests are processed, meeting strict insurance regulatory standards.",
+        "My focus remains on moving agents from proof-of-concept to production, which involves coordinating with infrastructure teams for scaling, establishing monitoring dashboards, and creating user training materials for the new AI tools."
+      ],
+      "environment": [
+        "Microsoft Copilot Studio, Azure OpenAI (GPT-4o, GPT-4 Turbo), LangGraph, PySpark, Model Context Protocol (MCP), REST APIs, Azure Functions, Power Automate, Entra ID, Azure DevOps, Python"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "I built HIPAA-compliant AI agents in Copilot Studio for healthcare provider support, using Azure OpenAI to answer queries about medical device documentation while strictly filtering any protected health information from prompts and logs.",
+        "One project required a multi-agent system for clinical trial recruitment; I employed LangChain to create a coordinator agent that parsed eligibility criteria and delegated tasks to sub-agents for patient record screening and consent document explanation.",
+        "To ensure compliance, I implemented a strict prompt governance layer where every user query to the agent was first checked against a list of restricted health data keywords before being sent to the GPT-4 model for processing.",
+        "I developed several proof-of-concept agents for internal business teams, such as a supply chain query agent that connected to SAP via REST APIs to fetch inventory data and explain delivery timelines in natural language.",
+        "A significant portion of my time was spent in meetings with compliance officers, translating HIPAA technical safeguards into actionable rules for our AI agents, like automatic session timeouts and audit log generation for all interactions.",
+        "I integrated an agent with a Power App used by medical affairs staff, enabling them to ask complex questions about drug interaction datasets and receive summarized answers, which sped up their literature review process considerably.",
+        "For a patient education tool, I fine-tuned a model on approved educational content, then carefully engineered its system prompt to always suggest users consult their physician, never providing direct medical advice in its responses.",
+        "I constructed a workflow where a Copilot Studio agent gathered a user's request, triggered a Power Automate flow to fetch data from Azure SQL, and used an Azure Function to format the results before presenting a final answer.",
+        "Troubleshooting was common; I recall debugging an issue where agent responses were slow, ultimately tracing it to a downstream API call, and I worked with the backend team to add caching, which improved response times significantly.",
+        "I explored frameworks like CrewAI and AutoGen to design specialized agent teams for processing research documents, setting up a workflow where one agent summarized text while another extracted key data points into a structured form.",
+        "I authored detailed solution design documents for each deployed agent, outlining the data flow, security controls, and fallback mechanisms, which were essential for passing internal security and legal reviews before launch.",
+        "My role involved mentoring junior developers on prompt engineering techniques, showing them how to structure conversations and use few-shot examples to steer the AI toward accurate and helpful responses for healthcare professionals.",
+        "I established a testing protocol for all agents, creating a suite of test questions that probed for potential regulatory oversteps or hallucinations, and we ran this suite before every deployment to ensure ongoing compliance.",
+        "Before leaving, I handed over a fully documented agent architecture for a medical inquiry system, including the CI/CD pipeline in Azure DevOps that managed the deployment of Copilot Studio agents and their connected cloud components."
+      ],
+      "environment": [
+        "Microsoft Copilot Studio, Azure OpenAI, LangChain, LangGraph, Crew AI, AutoGen, REST APIs, Azure Functions, Power Apps, Power Automate, Azure SQL, Entra ID, Python, GitHub"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "I developed AWS-based data pipelines for public health data analysis, using SageMaker to train models that helped identify trends, while ensuring all data handling complied with state-level HIPAA regulations for patient privacy.",
+        "My primary task involved building and optimizing batch processing jobs with PySpark on EMR clusters to aggregate healthcare utilization data from various county sources, which fed into dashboards for state health officials.",
+        "A constant challenge was data quality from legacy systems; I spent considerable time writing data validation scripts and meeting with county IT staff to understand data discrepancies before building our cleaning and transformation logic.",
+        "I deployed machine learning models as RESTful endpoints using AWS Lambda and API Gateway, allowing other applications to call our prediction services for tasks like forecasting regional clinic resource needs.",
+        "To meet strict public sector security requirements, I configured all AWS services (S3 buckets, RDS instances) with encryption at rest and in transit, and I worked with the security team to document our architecture for annual audits.",
+        "I designed a system where streaming data from health reporting tools was ingested via Kinesis, processed in near-real-time, and stored in a Redshift data warehouse, enabling quicker insights for the epidemiology team.",
+        "Part of my role included debugging failed Airflow DAGs that scheduled our daily data jobs; I would examine logs, fix issues like memory limits on Spark workers, and re-run jobs to ensure data freshness for the analysts.",
+        "I created several proof-of-concept interactive dashboards in Tableau that incorporated model outputs, such as risk scores for disease outbreaks, presenting these to non-technical stakeholders to demonstrate the project's value.",
+        "I implemented a model monitoring framework that tracked prediction drift and data quality metrics for our production models, alerting the team if retraining might be necessary due to changes in underlying data patterns.",
+        "Working in the public sector required clear documentation; I produced technical specification documents for all data pipelines and models, which were used for knowledge transfer and for justifying project funding renewals.",
+        "I integrated our ML services with existing state healthcare applications via secure APIs, requiring careful coordination with external development teams to define contract specifications and error handling procedures.",
+        "Before the project ended, I trained two state employees on maintaining and monitoring the data pipelines, creating runbooks that explained common troubleshooting steps and escalation contacts for different types of failures."
+      ],
+      "environment": [
+        "AWS (SageMaker, EMR, Lambda, S3, RDS, Redshift, Kinesis, API Gateway), PySpark, Apache Airflow, Python, SQL, Tableau, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "I built and validated machine learning models for transaction monitoring, focusing on identifying patterns indicative of fraud while adhering to the bank's strict PCI-DSS compliance standards for data protection and model governance.",
+        "My daily work involved extracting and cleaning large datasets from Teradata using SQL and Python, then developing features in a secure SAS environment that were used to train gradient boosting models for risk scoring.",
+        "A key project required translating business rules from the fraud detection team into scalable model features; I worked closely with them in weekly meetings to understand subtle patterns in fraudulent transaction behavior.",
+        "I deployed models into a controlled AWS environment, containerizing them with Docker and using Flask to create APIs, which were then consumed by the main transaction processing system for real-time scoring of payment activities.",
+        "To ensure model fairness and avoid regulatory issues, I conducted extensive bias testing on our algorithms, analyzing outcomes across different customer segments and adjusting the training data and features accordingly.",
+        "I spent a lot of time in model performance reviews, explaining technical concepts like precision-recall trade-offs to business stakeholders, helping them understand why we tuned models for high precision in fraud detection.",
+        "I developed a prototype for a customer service insight tool that used NLP to categorize themes in customer feedback from chat logs, providing the service team with actionable areas for improvement.",
+        "Building data pipelines was part of the role; I used AWS Glue to orchestrate ETL jobs that prepared daily transaction data for model retraining, ensuring our fraud models adapted to new patterns over time.",
+        "Debugging model performance drops was a common task; I remember one instance where a sudden change in feature distribution caused false positives, and I had to trace it back to a change in the upstream data source system.",
+        "Before moving on, I documented the entire model lifecycle process\u2014from data sourcing and feature engineering to validation and deployment\u2014creating a playbook that was adopted by other teams in the organization."
+      ],
+      "environment": [
+        "AWS (S3, EC2, Glue, SageMaker), Python, SQL, SAS, TensorFlow, Scikit-learn, Docker, Flask, Teradata"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "I learned to build and maintain large-scale ETL pipelines using Informatica to extract data from various source systems like Oracle and SQL Server, transform it according to business rules, and load it into a centralized Hadoop data lake.",
+        "My initial tasks involved writing Sqoop scripts to incrementally import data from relational databases into HDFS, then scheduling these scripts via cron jobs and monitoring their execution for any failures that needed fixing.",
+        "I assisted senior engineers in performance tuning of Hive queries, learning how to partition data effectively and use appropriate file formats to speed up analytics jobs run by the client's business intelligence team.",
+        "A significant part of my role was data quality checks; I wrote validation scripts in Python that ran after each ETL batch, flagging records with missing values or format errors for the business team to review and correct.",
+        "I participated in client meetings with business analysts, taking notes on new reporting requirements and then helping translate those into technical specifications for new data mart tables or ETL job modifications.",
+        "I was responsible for creating basic documentation for the pipelines I worked on, including data lineage diagrams and job runbooks, which helped the support team understand the flow and troubleshoot issues.",
+        "On one project, I struggled with a recurring job failure due to network timeouts; after researching, I proposed and implemented a retry mechanism with exponential backoff in our Sqoop scripts, which resolved the issue.",
+        "This entry-level role provided a solid foundation in enterprise data management, teaching me the importance of reliable data pipelines, clear documentation, and close collaboration with both technical and business stakeholders."
+      ],
+      "environment": [
+        "Hadoop, Informatica PowerCenter, Sqoop, Hive, Oracle, SQL Server, Python, Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

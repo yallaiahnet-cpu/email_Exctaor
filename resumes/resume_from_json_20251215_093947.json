@@ -1,0 +1,290 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI & Search Modernization Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Leverage ten years of expertise across Insurance, Healthcare, Banking, and Consulting to modernize legacy keyword-based enterprise search into intelligent, semantic, and LLM-powered information retrieval platforms, directly aligning with business transformation goals.",
+    "Formulate and execute a comprehensive strategy to replace outdated regex and keyword-dependent search workflows with modern semantic and vector-based search capabilities, ensuring a high-precision, context-aware user experience across diverse enterprise domains.",
+    "Construct intelligent search systems using Elasticsearch and OpenSearch, integrating dense embedding models from Sentence Transformers and BERT to enable semantic understanding and move beyond traditional BM25 scoring limitations.",
+    "Establish end-to-end hybrid retrieval pipelines that combine the strengths of lexical (BM25) and semantic (vector) search, followed by sophisticated LLM-powered re-ranking to significantly improve relevance metrics like nDCG and MRR.",
+    "Integrate Retrieval-Augmented Generation (RAG) frameworks into search platforms, using LLMs like GPT-based models to generate concise, accurate answers grounded in retrieved enterprise documents, reducing manual information lookup time.",
+    "Develop robust cloud-native search APIs on AWS using Lambda, API Gateway, and ECS, implementing intelligent caching with Redis and failover strategies to guarantee real-time performance and high availability for mission-critical applications.",
+    "Operate MLOps and LLMOps pipelines with SageMaker and Docker to continuously deploy and monitor embedding models and ranking functions, enabling incremental updates and A/B testing for continuous search relevance improvement.",
+    "Create detailed search evaluation dashboards using CloudWatch and Kibana, tracking latency, throughput, and key relevance metrics to inform data-driven optimization decisions and demonstrate ROI to business stakeholders.",
+    "Design and implement query rewriting and expansion modules using analyzers, custom tokenizers, and synonym graphs to handle user query variability, improving recall for unstructured data searches in compliance-heavy environments.",
+    "Build metadata-aware search and filtering systems using knowledge graph principles, enabling complex faceted navigation across structured and unstructured data sources for enterprise use cases in regulated industries.",
+    "Configure and optimize Approximate Nearest Neighbor (ANN) indexes in vector databases for sub-second latency on million-scale document collections, balancing recall performance with strict throughput requirements.",
+    "Collaborate directly with product teams and business stakeholders to translate domain-specific needs\u2014like Insurance policy clauses or HIPAA-compliant patient data search\u2014into technical search features and boosting strategies.",
+    "Modernize legacy search platforms by migrating on-premise Elasticsearch clusters to Amazon OpenSearch Service, redesigning mappings and indexing strategies for cloud scalability and cost-efficiency.",
+    "Oversee the entire search lifecycle, from data preprocessing pipelines for embedding generation to the deployment of real-time search microservices, ensuring consistency and quality across the information retrieval workflow.",
+    "Mentor search engineers and ML engineers on semantic search concepts, dense retrieval techniques, and the integration of generative AI into traditional search stacks, fostering team capability development.",
+    "Apply rigorous evaluation frameworks using precision@k and recall to measure the impact of semantic search enhancements, validating improvements through controlled experiments before full production rollout.",
+    "Architect secure search solutions with IAM policies and encryption, ensuring that intelligent search capabilities adhere to strict industry regulations like HIPAA in healthcare and PCI-DSS in banking.",
+    "Partner with cloud and DevOps teams to establish CI/CD pipelines for search configuration management, enabling rapid, safe experimentation with new analyzers, ranking functions, and embedding models."
+  ],
+  "technical_skills": {
+    "Search & Information Retrieval": [
+      "Elasticsearch",
+      "OpenSearch",
+      "Okapi BM25",
+      "Semantic Search",
+      "Vector Search",
+      "Dense Retrieval",
+      "ANN",
+      "Re-Ranking",
+      "Query Rewriting/Expansion",
+      "Custom Analyzers/Tokenizers"
+    ],
+    "AI/ML & LLMs": [
+      "Generative AI (GenAI)",
+      "LLMs (GPT-based)",
+      "BERT/Sentence Transformers",
+      "Embeddings",
+      "RAG",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Multi-agent Systems",
+      "LangGraph",
+      "Crew AI/AutoGen"
+    ],
+    "Cloud (AWS)": [
+      "Amazon OpenSearch Service",
+      "Amazon SageMaker",
+      "AWS Lambda",
+      "Amazon S3",
+      "Amazon EC2",
+      "ECS/EKS",
+      "API Gateway",
+      "Amazon SQS",
+      "SNS",
+      "IAM"
+    ],
+    "Programming & APIs": [
+      "Python",
+      "Java",
+      "Scala",
+      "SQL",
+      "FastAPI",
+      "Flask",
+      "REST APIs",
+      "Search APIs"
+    ],
+    "Data Engineering & Orchestration": [
+      "Apache Spark",
+      "Databricks",
+      "Apache Kafka",
+      "ETL Pipelines",
+      "Unstructured Data Processing",
+      "Real-time Indexing",
+      "Incremental Updates"
+    ],
+    "MLOps & DevOps": [
+      "Docker",
+      "Containerization",
+      "MLOps",
+      "LLMOps",
+      "CI/CD",
+      "Git",
+      "Model Deployment",
+      "Monitoring"
+    ],
+    "Performance & Reliability": [
+      "Caching (Redis)",
+      "Failover Strategies",
+      "Latency Optimization",
+      "Throughput Optimization",
+      "Scoring Optimization"
+    ],
+    "Evaluation & Analytics": [
+      "Search Evaluation (nDCG, MRR, precision@k)",
+      "A/B Testing",
+      "CloudWatch",
+      "Kibana",
+      "Dashboard Development"
+    ],
+    "Data Stores": [
+      "Vector Databases",
+      "Embedding Stores",
+      "Structured & Unstructured Data",
+      "Metadata Management",
+      "Knowledge Graphs"
+    ],
+    "Enterprise Concepts": [
+      "Workflow Modernization",
+      "Legacy System Migration",
+      "Regulatory Compliance (HIPAA, PCI-DSS)",
+      "Business Intelligence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Spearhead the modernization of policy document search, planning a transition from legacy keyword search to a hybrid semantic system using OpenSearch and AWS, addressing limitations in finding complex insurance clauses.",
+        "Architect a proof-of-concept for a multi-agent search system using LangGraph and Databricks, where specialized agents handle query classification, retrieval, and summarization to improve adjuster efficiency.",
+        "Implement a dense retrieval pipeline with Sentence Transformer embeddings stored in a vector database, deploying the service on EKS to enable semantic similarity search across millions of policy documents.",
+        "Develop an LLM-powered re-ranker using a GPT-based model on SageMaker, which reorders initial BM25 results to boost the ranking of contextually relevant sections in claims reports.",
+        "Establish a Model Context Protocol (MCP) server to securely provide search agents with real-time access to internal underwriting data sources, enhancing answer accuracy in RAG workflows.",
+        "Build a real-time indexing workflow with Apache Kafka and Lambda, processing incremental document updates to keep the semantic search index current with the latest policy revisions.",
+        "Configure advanced OpenSearch analyzers and custom tokenizers for insurance-specific terminology, improving recall for acronyms and standardized insurance codes during the lexical search phase.",
+        "Design and execute A/B experiments to compare the new hybrid search against the old system, measuring a significant lift in nDCG by analyzing user interaction logs and relevance judgments.",
+        "Optimize search latency by implementing a Redis caching layer for frequent query embeddings and fine-tuning ANN parameters in OpenSearch to balance speed and recall for sub-second responses.",
+        "Create operational dashboards in CloudWatch to monitor search API health, tracking p95 latency and error rates to proactively address performance bottlenecks and ensure failover readiness.",
+        "Integrate metadata from the policy administration system as searchable filters, allowing agents to quickly narrow results by policy type, state jurisdiction, and effective date.",
+        "Troubleshoot relevance issues by analyzing query logs, identifying patterns where synonym expansion was needed, and updating the search dictionary to map common customer phrasing to formal terms.",
+        "Conduct weekly code reviews for the search engineering team, focusing on query DSL optimization and efficient use of OpenSearch aggregations for analytical search features.",
+        "Document the deployment process and scaling guidelines for the new search platform, preparing runbooks for the cloud operations team to manage the production EKS clusters.",
+        "Present the technical architecture and business impact of the semantic search initiative to engineering leadership, securing approval for the next phase of multi-modal search exploration.",
+        "Refine boosting strategies based on user feedback sessions, adjusting weights for recency and document type to better surface active policy documents over historical ones."
+      ],
+      "environment": [
+        "AWS (OpenSearch, SageMaker, EKS, Lambda, S3, Kafka)",
+        "Python",
+        "LangGraph",
+        "Sentence Transformers",
+        "GPT-4",
+        "Redis",
+        "Databricks",
+        "Multi-agent Systems",
+        "MCP",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Directed the enhancement of a clinical trial document search portal, aiming to replace a basic keyword interface with an intelligent, HIPAA-compliant semantic search for researchers.",
+        "Formulated a retrieval pipeline using Elasticsearch and BERT embeddings, deployed on AWS ECS, to allow scientists to find relevant trial protocols and adverse event reports using natural language.",
+        "Assembled a RAG prototype using LangChain and GPT models, where the LLM synthesized answers from retrieved clinical documents, reducing literature review time for medical affairs teams.",
+        "Engineered a query understanding module that expanded medical acronyms and synonyms using a curated healthcare ontology, significantly improving search recall for unstructured clinical notes.",
+        "Protected patient health information (PHI) in the search index by implementing strict IAM roles and encryption for embedding vectors, ensuring all workflows met HIPAA security requirements.",
+        "Evaluated multiple embedding models from Cohere and Sentence Transformers, selecting the best performer on a labeled dataset of medical queries to maximize precision@10 for the search system.",
+        "Orchestrated a weekly batch pipeline with SageMaker Processing Jobs to update document embeddings as new trial results were published, ensuring search freshness with incremental updates.",
+        "Devised a failover strategy for the search API using Lambda@Edge and a secondary OpenSearch cluster in a different AWS region, guaranteeing high availability for global research teams.",
+        "Analyzed search session logs to identify zero-result queries, leading to the development of a spell-checking and \u2018did-you-mean\u2019 suggestion feature powered by an in-index n-gram model.",
+        "Produced a set of search evaluation metrics dashboards using Kibana, allowing product managers to track weekly trends in MRR and user engagement with the new semantic features.",
+        "Collaborated with ML engineers to fine-tune a BioBERT model on J&J\u2019s proprietary medical corpus, enhancing the semantic relevance of embeddings for highly specialized therapeutic areas.",
+        "Explored frameworks like Crew AI and AutoGen for complex, multi-step search agents but prioritized a simpler, more robust RAG architecture for the initial production rollout.",
+        "Validated the search system\u2019s output with domain experts, holding calibration sessions to ensure that ranked documents were clinically relevant before launching the feature to all users.",
+        "Transitioned the search platform\u2019s configuration management to a Git-based CI/CD pipeline, allowing safe rollback of analyzer changes and promoting consistency across development environments."
+      ],
+      "environment": [
+        "AWS (ECS, SageMaker, Lambda, S3, IAM)",
+        "Elasticsearch",
+        "Python",
+        "BERT/BioBERT",
+        "LangChain",
+        "GPT",
+        "RAG",
+        "HIPAA Compliance",
+        "Docker",
+        "Kibana",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Overhauled the search functionality for a public health documentation system on Azure, migrating from a slow, SQL LIKE-based search to a fast, full-text search with semantic ranking.",
+        "Deployed an Azure Cognitive Search instance, designing custom skillsets with Python to embed public health bulletins using pre-trained SBERT models for improved semantic matching.",
+        "Configured Azure Data Factory pipelines to cleanse and structure incoming unstructured data from various health departments, preparing it for indexing while preserving critical metadata.",
+        "Established a secure search API with Azure API Management, implementing OAuth-based authentication to control access to sensitive healthcare data in compliance with state HIPAA regulations.",
+        "Tuned the hybrid scoring profile in Azure Cognitive Search, applying boosting functions to prioritize recent announcements and official guidelines during the COVID-19 pandemic response.",
+        "Monitored search performance and costs using Azure Monitor, setting up alerts for high latency and optimizing index partitioning strategies to stay within the public sector budget.",
+        "Debugged relevance issues by manually reviewing low-scoring search results for common public queries, adjusting the synonym map to link colloquial health terms with official medical phrases.",
+        "Built a simple re-ranker as an Azure Function, which used a lightweight ML model to adjust final result order based on user location data, personalizing results for different counties.",
+        "Authored technical documentation for state IT staff, detailing the search architecture, data flow, and procedures for updating the synonym list and boosting rules.",
+        "Conducted training sessions for public health employees on using advanced search filters and syntax, helping them find information faster during urgent situations.",
+        "Integrated search analytics into the state's Power BI reporting suite, providing visibility into top queries and uncovered information needs to guide future content creation.",
+        "Participated in weekly change advisory board meetings to get approval for production deployments, explaining the risk mitigation steps for each search system update."
+      ],
+      "environment": [
+        "Azure (Cognitive Search, Data Factory, Functions, API Management)",
+        "Python",
+        "SBERT",
+        "SQL",
+        "Power BI",
+        "HIPAA Compliance",
+        "Full-text Search"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Initiated a project to improve the internal search for financial research reports, analyzing pain points with the existing keyword system that missed conceptually related market analyses.",
+        "Developed a prototype semantic search using Elasticsearch's early vector support and custom Python scripts to generate document embeddings, demonstrating improved findability of unstructured reports.",
+        "Processed terabytes of historical PDF reports using PySpark on Azure Databricks, extracting text and metadata to build a unified search index while redacting sensitive client information.",
+        "Implemented field-level security and role-based access control within the search application, ensuring strict adherence to financial data governance and PCI-DSS compliance standards.",
+        "Crafted a business intelligence dashboard connected to the search backend, showing trending search topics and report popularity to inform the research team's editorial calendar.",
+        "Measured the prototype's success using a manual relevance assessment with a sample of financial analysts, calculating a baseline MRR to justify further investment in the technology.",
+        "Struggled initially with the performance of early embedding models on financial jargon, but improved it by fine-tuning on a domain-specific corpus of earnings call transcripts.",
+        "Worked closely with the cloud team to design the Azure infrastructure, using Azure Kubernetes Service (AKS) for the embedding service and Azure Cache for Redis for query caching.",
+        "Prepared a cost-benefit analysis for scaling the prototype, comparing managed versus self-hosted Elasticsearch options on Azure and presenting recommendations to the project sponsors.",
+        "Documented the data lineage and model versioning for the search pipeline, establishing reproducible workflows for a regulated banking environment before handing off the project."
+      ],
+      "environment": [
+        "Azure (Databricks, AKS, Redis, Blob Storage)",
+        "Elasticsearch",
+        "Python",
+        "PySpark",
+        "BERT Embeddings",
+        "PCI-DSS Compliance",
+        "Financial Data"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Supported a consulting client's data warehouse migration, extracting data from legacy systems using Informatica and Sqoop for loading into a new Hadoop data lake.",
+        "Learned to build and optimize Hive queries to create aggregated datasets that would later feed into business reporting tools, focusing on data quality and processing speed.",
+        "Assisted senior engineers in designing a simple full-text search index for log files using Apache Solr, gaining initial exposure to information retrieval concepts beyond database queries.",
+        "Wrote Python scripts to clean and standardize unstructured text data from customer feedback forms before ingestion, an early task that sparked my interest in NLP.",
+        "Attended daily stand-up meetings to report on ETL job status and troubleshoot failures in the Hadoop cluster, often working with the infrastructure team to resolve issues.",
+        "Participated in code reviews for Sqoop ingestion jobs, learning best practices for handling incremental data loads and managing job dependencies in a production environment.",
+        "Created basic monitoring dashboards to track data pipeline health, which helped the team identify bottlenecks in the Informatica workflows.",
+        "Researched emerging big data tools and presented a summary to the team, exploring how newer technologies could improve the client's data processing workflows in the future."
+      ],
+      "environment": [
+        "Hadoop",
+        "Hive",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "Apache Solr",
+        "ETL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

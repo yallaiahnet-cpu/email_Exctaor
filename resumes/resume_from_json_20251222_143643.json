@@ -1,0 +1,296 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Engineer - ETL & Cloud Data Pipeline Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Data Engineering, specializing in designing and optimizing complex ETL pipelines, with deep expertise in Oracle, PL/SQL, Informatica, and AWS cloud services across Healthcare, Insurance, Government, and Finance domains.",
+    "Architected and implemented robust data pipelines using Informatica PowerCenter and IICS to migrate critical on-premise healthcare data to AWS cloud, ensuring HIPAA compliance and data integrity throughout the extraction, transformation, and loading processes.",
+    "Developed advanced PL/SQL packages, procedures, and functions with complex queries and analytic functions to transform raw insurance data into actionable business intelligence, significantly improving query performance and reporting accuracy.",
+    "Engineered Python automation scripts utilizing pandas and SQLAlchemy for data validation and reconciliation tasks, reducing manual effort by 60% while enhancing data quality assurance for financial reporting systems.",
+    "Designed and deployed serverless data integration workflows on AWS using Lambda and Glue to process real-time healthcare data streams, enabling faster insights while maintaining strict data security protocols.",
+    "Optimized Oracle database performance through strategic indexing, execution plan analysis, and query tuning, resolving chronic performance bottlenecks in large-scale government data warehouse environments.",
+    "Led the complete ETL lifecycle from requirements gathering to production deployment for insurance claims processing systems, collaborating with business analysts to translate complex regulations into technical solutions.",
+    "Implemented comprehensive data quality frameworks with automated ETL QA validation, test case design, and defect tracking mechanisms to ensure accuracy and consistency across all integrated data sources.",
+    "Built scalable data pipeline architectures on AWS integrating S3, RDS, and Redshift services to support analytical reporting needs while maintaining data consistency and implementing secure data handling practices.",
+    "Conducted root cause analysis for production data issues in financial systems, developing systematic troubleshooting approaches and error recovery strategies to minimize downtime and data loss.",
+    "Created detailed technical documentation for data flows, ETL mappings, and operational procedures, ensuring knowledge transfer and compliance with both technical standards and regulatory requirements.",
+    "Managed the scheduling, parameterization, and monitoring of critical ETL jobs using Informatica, establishing proactive alerting systems to detect and address data pipeline failures before business impact.",
+    "Spearheaded on-prem to cloud data integration initiatives for healthcare organizations, migrating legacy Oracle databases to AWS while maintaining data validation and reconciliation throughout the transition.",
+    "Collaborated with cross-functional teams to design star and snowflake schema data models that supported complex business intelligence needs while optimizing for query performance and storage efficiency.",
+    "Applied data warehousing concepts to structure insurance data for analytical consumption, implementing dimension and fact tables that improved report generation speed and business user satisfaction.",
+    "Utilized advanced SQL features including joins, subqueries, and window functions to solve complex data transformation challenges in government databases, ensuring accurate aggregation and reporting.",
+    "Integrated data from multiple source systems including SQL Server and PostgreSQL into centralized Oracle data warehouses, developing sophisticated ETL logic to handle data inconsistencies and formatting variations.",
+    "Established ETL job monitoring and troubleshooting procedures that reduced mean time to resolution for data pipeline issues by 40%, implementing systematic logging and notification systems across all environments."
+  ],
+  "technical_skills": {
+    "Database Technologies": [
+      "Oracle Database",
+      "PL/SQL",
+      "SQL Server",
+      "PostgreSQL",
+      "Snowflake",
+      "MySQL",
+      "DB2"
+    ],
+    "ETL & Data Integration": [
+      "Informatica PowerCenter",
+      "Informatica IICS",
+      "AWS Glue",
+      "Data Pipeline Development",
+      "On-prem to Cloud Migration"
+    ],
+    "Cloud Platform - AWS": [
+      "S3",
+      "RDS",
+      "Redshift",
+      "Lambda",
+      "Glue",
+      "IAM"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "PL/SQL",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Data Processing Libraries": [
+      "pandas",
+      "pyodbc",
+      "SQLAlchemy",
+      "NumPy"
+    ],
+    "Data Quality & Testing": [
+      "ETL QA Validation",
+      "Data Quality Assurance",
+      "Test Planning",
+      "Test Case Design",
+      "Defect Tracking"
+    ],
+    "Database Optimization": [
+      "Query Optimization",
+      "Performance Tuning",
+      "Execution Plans",
+      "Indexing Strategies",
+      "Complex Queries"
+    ],
+    "Data Modeling & Warehousing": [
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Warehousing",
+      "Data Modeling"
+    ],
+    "Development Methodologies": [
+      "Agile/Scrum",
+      "CI/CD Pipelines",
+      "Technical Documentation",
+      "Root Cause Analysis"
+    ],
+    "Monitoring & Operations": [
+      "ETL Job Monitoring",
+      "Troubleshooting",
+      "Error Handling",
+      "Recovery Strategies",
+      "Parameterization"
+    ],
+    "Data Security & Compliance": [
+      "Secure Data Handling",
+      "HIPAA Compliance",
+      "Data Consistency Checks",
+      "Accuracy Validation"
+    ],
+    "Collaboration Tools": [
+      "Business Requirements Translation",
+      "Stakeholder Collaboration",
+      "Data Flow Documentation",
+      "Mapping Specifications"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected end-to-end ETL pipelines using Informatica IICS to migrate sensitive healthcare data from on-premise Oracle systems to AWS cloud, implementing robust data validation checks to ensure HIPAA compliance throughout the transfer process.",
+        "Developed complex PL/SQL packages with advanced analytic functions and window operations to process patient medical records, transforming raw clinical data into structured formats suitable for analytical reporting and machine learning applications.",
+        "Engineered Python data processing utilities with pandas and pyodbc libraries to automate the reconciliation of pharmaceutical inventory data across multiple source systems, reducing manual validation efforts by approximately 70% weekly.",
+        "Designed multi-agent AI systems using Crew AI and LangGraph frameworks to automate ETL monitoring tasks, creating intelligent agents that could detect data anomalies and trigger corrective workflows without human intervention.",
+        "Implemented AWS Lambda functions integrated with S3 event triggers to process real-time healthcare data streams, ensuring immediate availability of critical patient information while maintaining strict access controls through IAM policies.",
+        "Optimized Oracle database performance by analyzing execution plans and implementing strategic indexing strategies on large medical claims tables, reducing query response times from minutes to seconds for critical reports.",
+        "Built comprehensive data quality frameworks with automated ETL validation scripts that performed consistency checks across source and target systems, significantly improving the accuracy of healthcare analytics outputs.",
+        "Created parameterized Informatica workflows with sophisticated error handling and recovery mechanisms, enabling reliable scheduling of critical data loads that processed millions of healthcare transactions nightly.",
+        "Led troubleshooting sessions for production ETL failures in medication tracking systems, conducting root cause analysis that identified data type mismatches and implementing permanent fixes to prevent recurrence.",
+        "Collaborated with healthcare business analysts to translate complex regulatory reporting requirements into technical ETL specifications, ensuring data pipelines produced outputs compliant with industry standards.",
+        "Developed proof-of-concept multi-agent systems using Model Context Protocol to autonomously manage ETL job dependencies, experimenting with different coordination patterns to optimize pipeline execution sequences.",
+        "Documented complete data flows and transformation logic for pharmaceutical supply chain systems, creating detailed mapping specifications that served as reference materials for both technical teams and auditors.",
+        "Configured AWS Glue jobs to transform and load healthcare provider data into Redshift data warehouses, implementing star schema designs that optimized analytical query performance for business intelligence tools.",
+        "Conducted code reviews for PL/SQL procedures handling sensitive patient information, ensuring all data access patterns followed least-privilege principles and maintained appropriate audit trails for compliance verification.",
+        "Participated in daily scrum meetings to coordinate ETL development activities across distributed teams, resolving integration challenges between legacy healthcare systems and modern cloud data platforms.",
+        "Experimented with agent-to-agent communication frameworks by Google to create self-healing data pipelines, where monitoring agents could diagnose ETL issues and dispatch repair agents to implement corrective actions automatically."
+      ],
+      "environment": [
+        "Oracle Database",
+        "PL/SQL",
+        "Informatica IICS",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS Glue",
+        "AWS RDS",
+        "AWS Redshift",
+        "Python",
+        "pandas",
+        "SQLAlchemy",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "Healthcare Data",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Constructed insurance claims processing pipelines using Informatica PowerCenter that extracted data from multiple source systems, applied complex business transformation rules, and loaded results into centralized Oracle data warehouses.",
+        "Enhanced PL/SQL functions and procedures to calculate insurance premium adjustments based on regulatory requirements, implementing sophisticated business logic that handled edge cases and exception scenarios effectively.",
+        "Formulated AWS-based data integration solutions utilizing S3 as a landing zone for incoming claim files and Redshift as the analytical repository, establishing efficient data movement patterns that minimized processing latency.",
+        "Assembled Python automation scripts for data quality assurance, creating validation utilities that cross-referenced insurance policy information across operational and analytical systems to identify discrepancies proactively.",
+        "Generated complex SQL queries with multiple joins and correlated subqueries to analyze patterns in insurance claim denials, providing insights that helped reduce improper payment rates through better data understanding.",
+        "Administered Oracle database performance tuning activities focused on insurance transaction tables, reorganizing partitions and rebuilding indexes to maintain acceptable response times as data volumes grew substantially.",
+        "Established ETL QA validation procedures with comprehensive test case designs covering functional, regression, and integration testing scenarios for insurance rate calculation modules, ensuring calculation accuracy.",
+        "Produced technical documentation detailing data mapping specifications for insurance products, creating reference materials that accelerated onboarding of new team members and facilitated knowledge sharing.",
+        "Executed root cause analysis for data inconsistencies in member enrollment systems, tracing issues back to source system changes and implementing corrective ETL logic to restore data integrity promptly.",
+        "Championed the adoption of Agile methodologies for ETL development projects, breaking down large insurance data initiatives into manageable sprints with clear deliverables and acceptance criteria.",
+        "Operated Informatica workflow monitoring dashboards to track ETL job performance across insurance domains, identifying bottlenecks and implementing optimizations that improved overall throughput significantly.",
+        "Directed data reconciliation efforts following major system upgrades, comparing outputs from old and new insurance processing platforms to verify functional equivalence before cutting over to production.",
+        "Customized AWS Glue ETL jobs to handle semi-structured insurance documents, extracting relevant data points from JSON-formatted claim attachments and integrating them with traditional relational data sources.",
+        "Programmed multi-agent proof-of-concept systems using Crew AI frameworks to automate the detection of anomalous insurance claim patterns, exploring how AI could enhance traditional rule-based fraud detection approaches."
+      ],
+      "environment": [
+        "Oracle Database",
+        "PL/SQL",
+        "Informatica PowerCenter",
+        "AWS S3",
+        "AWS Redshift",
+        "AWS Glue",
+        "Python",
+        "pandas",
+        "SQL",
+        "Insurance Data",
+        "Regulatory Compliance",
+        "Data Quality Assurance",
+        "ETL Testing"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Fabricated Azure-based data pipelines that integrated information from various government agencies into centralized data repositories, ensuring proper data governance and access controls were maintained throughout.",
+        "Composed PL/SQL packages to process citizen service data, implementing complex business rules for eligibility determination while maintaining audit trails required for government compliance and reporting.",
+        "Instituted data validation frameworks for government benefit programs, creating automated checks that verified data consistency across interconnected systems and flagged discrepancies for manual review.",
+        "Adapted existing ETL processes to accommodate new regulatory reporting requirements, modifying transformation logic and output formats to satisfy updated government data submission standards.",
+        "Synthesized data from SQL Server and PostgreSQL source systems into Oracle data warehouses, developing unified dimensional models that supported cross-agency analytics and performance measurement.",
+        "Guided the optimization of slow-running queries on voter registration databases, analyzing execution plans and recommending indexing strategies that improved report generation times during election periods.",
+        "Measured ETL performance metrics across government data integration projects, establishing baseline measurements and tracking improvements resulting from various optimization techniques applied over time.",
+        "Authored technical specifications for data flows between state agencies, documenting transformation rules and data quality checks that ensured accurate information exchange while protecting citizen privacy.",
+        "Reviewed legacy ETL code written in Informatica PowerCenter, refactoring complex mappings into more maintainable components with better error handling and logging capabilities.",
+        "Translated business requirements for public health reporting into technical ETL designs, creating data pipelines that aggregated COVID-19 statistics from multiple healthcare providers for government dashboards.",
+        "Validated data migration results during system consolidation projects, comparing source and target data sets to ensure complete and accurate transfer of historical government records.",
+        "Modernized on-premise data integration workflows by introducing cloud-ready design patterns, preparing government systems for eventual migration to cloud platforms while maintaining current operations."
+      ],
+      "environment": [
+        "Oracle Database",
+        "PL/SQL",
+        "SQL Server",
+        "PostgreSQL",
+        "Informatica PowerCenter",
+        "Azure Data Services",
+        "SQL",
+        "Data Governance",
+        "Government Data",
+        "Regulatory Reporting",
+        "Data Integration"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Manufactured financial data pipelines using Informatica to extract credit card transaction data from operational systems, transform it according to business rules, and load it into analytical databases for reporting.",
+        "Calculated complex financial metrics using advanced SQL analytic functions, creating queries that performed window operations across transaction sequences to identify patterns and anomalies for fraud detection.",
+        "Standardized data quality checks across multiple financial products, implementing validation rules that ensured consistency in how transaction data was processed and reported across different business units.",
+        "Restructured ETL jobs handling sensitive payment card information, enhancing security controls and audit trails to maintain PCI DSS compliance throughout data movement and transformation processes.",
+        "Coordinated with business analysts to understand financial reporting requirements, translating complex regulatory calculations into technical specifications for ETL development and implementation.",
+        "Audited existing data warehouse performance, identifying poorly performing queries on financial transaction tables and recommending indexing improvements that reduced report generation times significantly.",
+        "Illustrated data flow diagrams for financial reconciliation processes, creating visual representations that helped both technical and business stakeholders understand complex data integration patterns.",
+        "Balanced performance considerations with regulatory requirements when designing financial data architectures, ensuring systems could handle high transaction volumes while maintaining complete audit trails.",
+        "Strengthened error handling in financial ETL processes, implementing recovery mechanisms that preserved data integrity even when source systems provided malformed or incomplete transaction records.",
+        "Exchanged knowledge with database administrators about financial data modeling approaches, collaborating on star schema designs that optimized query performance for monthly financial reporting cycles."
+      ],
+      "environment": [
+        "Oracle Database",
+        "PL/SQL",
+        "Informatica",
+        "SQL",
+        "Financial Data",
+        "PCI Compliance",
+        "Data Warehousing",
+        "ETL Development",
+        "Data Quality",
+        "Azure Cloud Services"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted medical diagnostic data from various healthcare source systems using SQL queries, preparing datasets for analysis by data scientists developing AI models for disease detection and diagnosis.",
+        "Cleansed and transformed healthcare data using Python scripts with pandas library, handling missing values and standardizing medical terminology across different hospital information systems.",
+        "Supported ETL development activities by writing basic PL/SQL functions and procedures that performed initial data validation checks on incoming medical test results before further processing.",
+        "Examined database performance issues related to healthcare analytics queries, learning to interpret execution plans and suggest simple indexing improvements under guidance from senior team members.",
+        "Assisted in designing star schema data models for healthcare analytics, creating dimension and fact tables that organized medical data for efficient querying and reporting applications.",
+        "Participated in data quality assurance activities for healthcare systems, executing test cases and documenting defects in ETL processes that handled sensitive patient information requiring HIPAA compliance.",
+        "Contributed to technical documentation efforts, helping to maintain data dictionaries and mapping specifications for healthcare data integration projects as they evolved over time.",
+        "Observed senior engineers troubleshooting production ETL failures in medical data systems, learning systematic approaches to root cause analysis and problem resolution in healthcare IT environments."
+      ],
+      "environment": [
+        "Oracle Database",
+        "SQL",
+        "Python",
+        "pandas",
+        "PL/SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

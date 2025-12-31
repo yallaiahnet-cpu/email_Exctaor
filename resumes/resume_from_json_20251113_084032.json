@@ -1,0 +1,319 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Full Stack Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full stack development with Python backend systems and JavaScript frontend frameworks, specializing in scalable application development across insurance, healthcare, banking, and consulting domains.",
+    "Using Python and React to address complex business requirements by developing full stack applications that integrate with MongoDB and PostgreSQL databases, ensuring data consistency across insurance policy management systems.",
+    "Leveraging Docker containerization to solve deployment challenges in Linux environments, creating reproducible builds that reduced environment configuration issues by streamlining development workflows.",
+    "Implementing RESTful APIs with FastAPI to handle high-performance computing requirements, integrating with existing AWS infrastructure for scalable microservices architecture in insurance applications.",
+    "Applying Agile development methodologies through JIRA sprint planning and daily stand-ups, collaborating with cross-functional teams to deliver features aligned with engineering initiatives and business objectives.",
+    "Developing responsive UI components with React and Angular frameworks, ensuring cross-platform compatibility while maintaining compliance with insurance industry regulations and accessibility standards.",
+    "Utilizing MongoDB for NoSQL data storage in real-time applications, designing schemas that optimized query performance for insurance policy documents and customer data management.",
+    "Integrating relational databases like PostgreSQL with Python applications, implementing complex joins and transactions to maintain data integrity across healthcare patient records systems.",
+    "Building CI/CD pipelines with GitHub Actions to automate testing and deployment processes, reducing manual intervention while ensuring code quality in high-performance computing environments.",
+    "Creating unit tests with PyTest and Jest frameworks to validate backend and frontend functionality, catching regression issues early in the development cycle for financial applications.",
+    "Participating in whiteboarding sessions and code reviews to architect scalable solutions, collaborating with UI/UX designers to implement user interfaces that met stakeholder requirements.",
+    "Deploying applications on AWS cloud infrastructure using EC2 and S3 services, configuring load balancers and auto-scaling groups to handle variable workloads in semiconductor design tools.",
+    "Developing multi-agent systems using Crew AI and LangGraph frameworks, creating proof-of-concept applications that demonstrated autonomous decision-making capabilities for insurance claims processing.",
+    "Implementing model context protocol for agent-to-agent communication in Google's multi-agent framework, enabling complex workflow orchestration across distributed insurance systems.",
+    "Troubleshooting production issues in Linux/Unix environments, using Git version control to track changes and maintain code quality across full stack development projects.",
+    "Collaborating with business owners and stakeholders to gather requirements, translating engineering initiatives into technical specifications for scalable application development.",
+    "Mentoring junior developers on best practices for Python backend development and JavaScript frontend implementation, fostering knowledge sharing within Agile team structures.",
+    "Optimizing database performance through indexing and query optimization in MongoDB and PostgreSQL, reducing response times for high-performance computing applications in insurance analytics."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Java",
+      "Bash/Shell"
+    ],
+    "Frontend Frameworks": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "HTML5",
+      "CSS3",
+      "Bootstrap"
+    ],
+    "Backend Frameworks": [
+      "FastAPI",
+      "Django",
+      "Flask",
+      "Node.js",
+      "Express.js"
+    ],
+    "Databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "AWS RDS"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, Lambda, RDS)",
+      "Azure (ML Studio, Data Factory)"
+    ],
+    "Containerization & DevOps": [
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "GitHub",
+      "Jenkins",
+      "GitHub Actions"
+    ],
+    "API Development": [
+      "RESTful APIs",
+      "GraphQL",
+      "OpenAPI",
+      "Swagger",
+      "Postman"
+    ],
+    "Testing Frameworks": [
+      "PyTest",
+      "Jest",
+      "Mocha",
+      "Chai",
+      "Selenium"
+    ],
+    "Development Tools": [
+      "JIRA",
+      "Linux/Unix",
+      "VS Code",
+      "PyCharm",
+      "Jupyter Notebook"
+    ],
+    "AI/ML Frameworks": [
+      "Crew AI",
+      "LangGraph",
+      "TensorFlow",
+      "PyTorch",
+      "Hugging Face"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark",
+      "Hadoop",
+      "Kafka",
+      "Apache Airflow"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "AWS CloudWatch",
+      "ELK Stack"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Python and FastAPI to address slow insurance policy processing times by implementing asynchronous endpoints with connection pooling, reducing API response latency for high-volume policy management systems.",
+        "Leveraging React with TypeScript to rebuild the customer portal interface, creating reusable components that improved development velocity while maintaining compliance with insurance industry regulations.",
+        "Implementing MongoDB aggregation pipelines to handle complex insurance claims analytics, designing efficient data models that processed millions of documents without performance degradation.",
+        "Applying Docker containerization to standardize development environments across teams, creating multi-stage builds that reduced image sizes and improved deployment reliability in AWS ECS.",
+        "Developing RESTful APIs with comprehensive documentation using OpenAPI specifications, enabling seamless integration with third-party insurance verification services and partner systems.",
+        "Using AWS Lambda functions to process real-time insurance application data, implementing event-driven architectures that scaled automatically during peak enrollment periods.",
+        "Creating unit tests with PyTest for backend services and Jest for frontend components, establishing testing patterns that caught regression issues before production deployment.",
+        "Participating in daily Agile stand-ups and sprint planning sessions, collaborating with UX designers to implement responsive interfaces that worked across desktop and mobile devices.",
+        "Implementing multi-agent systems using Crew AI framework for automated insurance claims routing, creating proof-of-concept that demonstrated intelligent workflow orchestration capabilities.",
+        "Using LangGraph for complex decision trees in policy underwriting processes, developing state machines that handled exception cases and manual review requirements effectively.",
+        "Configuring GitHub Actions for CI/CD pipelines that automated testing and deployment, reducing manual intervention while ensuring code quality across microservices architecture.",
+        "Debugging production issues in Linux environments by analyzing application logs and MongoDB query performance, implementing indexes that resolved slow policy search functionality.",
+        "Conducting code reviews for team members using GitHub pull requests, providing constructive feedback on Python backend architecture and React component design patterns.",
+        "Integrating PostgreSQL for relational data storage of policyholder information, implementing complex joins that maintained data consistency across distributed insurance systems.",
+        "Collaborating with business stakeholders to gather requirements for new features, translating insurance industry regulations into technical specifications for development teams.",
+        "Using React hooks and context API to manage application state across insurance policy workflows, creating maintainable code that handled complex user interactions efficiently."
+      ],
+      "environment": [
+        "Python",
+        "JavaScript",
+        "React",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "FastAPI",
+        "RESTful APIs",
+        "Linux",
+        "Git",
+        "JIRA",
+        "Crew AI",
+        "LangGraph",
+        "TypeScript",
+        "Agile",
+        "PyTest",
+        "Jest",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Python with Django REST framework to develop healthcare data management APIs, implementing authentication middleware that enforced HIPAA compliance for patient information access.",
+        "Leveraging Angular with RxJS to create real-time dashboards for clinical trial data visualization, building responsive components that worked across different screen sizes and devices.",
+        "Implementing MongoDB document storage for unstructured healthcare research data, designing flexible schemas that accommodated evolving data collection requirements from clinical studies.",
+        "Applying Docker Compose for local development environments, creating service definitions that included database seeding and mock healthcare data for testing purposes.",
+        "Developing RESTful APIs that integrated with existing electronic health record systems, implementing data transformation layers that normalized information from multiple healthcare sources.",
+        "Using AWS EC2 instances to deploy healthcare applications, configuring security groups and IAM roles that protected sensitive patient data according to regulatory requirements.",
+        "Creating comprehensive test suites with PyTest for backend services, implementing fixture patterns that simulated healthcare data scenarios and edge cases effectively.",
+        "Participating in sprint retrospectives and planning meetings, collaborating with healthcare domain experts to understand clinical workflow requirements and constraints.",
+        "Implementing proof-of-concept multi-agent systems for patient outreach coordination, using Crew AI to automate appointment scheduling and follow-up communication processes.",
+        "Using LangGraph for clinical decision support systems, creating knowledge graphs that connected symptoms, treatments, and patient history for healthcare providers.",
+        "Configuring Jenkins pipelines for continuous integration, automating build processes that included security scanning for healthcare compliance requirements.",
+        "Troubleshooting performance issues in healthcare data processing pipelines, optimizing MongoDB queries and adding appropriate indexes for frequently accessed clinical information.",
+        "Conducting peer programming sessions with junior developers, sharing knowledge about Python best practices and healthcare data security considerations.",
+        "Integrating React components with existing Angular applications, creating wrapper patterns that enabled gradual migration from legacy healthcare management systems."
+      ],
+      "environment": [
+        "Python",
+        "JavaScript",
+        "Angular",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Django",
+        "RESTful APIs",
+        "Linux",
+        "Git",
+        "JIRA",
+        "Crew AI",
+        "LangGraph",
+        "RxJS",
+        "HIPAA",
+        "PyTest",
+        "Jenkins",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Python with Flask to develop healthcare analytics APIs, implementing JWT authentication that secured access to sensitive public health information according to HIPAA guidelines.",
+        "Leveraging React with Redux for state management in public health reporting dashboards, creating data visualization components that displayed epidemiological trends effectively.",
+        "Implementing PostgreSQL for relational storage of healthcare provider information, designing normalized schemas that maintained referential integrity across public health systems.",
+        "Applying Azure Container Instances for application deployment, creating Docker images that included all dependencies for healthcare data processing workloads.",
+        "Developing RESTful APIs that served COVID-19 testing and vaccination data to public health partners, implementing rate limiting and caching to handle high request volumes.",
+        "Using Azure Data Factory for ETL processes that transformed healthcare data from multiple sources, creating pipelines that cleaned and standardized information for analysis.",
+        "Creating unit tests with PyTest for data validation functions, implementing test cases that verified healthcare data quality and completeness requirements.",
+        "Participating in daily stand-ups with public health stakeholders, translating epidemiological requirements into technical features for healthcare data systems.",
+        "Debugging data synchronization issues between different healthcare databases, implementing reconciliation processes that identified and resolved data inconsistencies.",
+        "Conducting code reviews for healthcare data processing scripts, ensuring compliance with public health reporting standards and data privacy regulations.",
+        "Integrating React frontend applications with Python backend services, creating API clients that handled authentication and error scenarios gracefully.",
+        "Using Git for version control of healthcare application code, establishing branching strategies that supported multiple development streams for public health initiatives."
+      ],
+      "environment": [
+        "Python",
+        "JavaScript",
+        "React",
+        "PostgreSQL",
+        "Docker",
+        "Azure",
+        "Flask",
+        "RESTful APIs",
+        "Linux",
+        "Git",
+        "JIRA",
+        "Redux",
+        "HIPAA",
+        "PyTest",
+        "Azure Data Factory",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python with Pandas to process financial transaction data, implementing data validation rules that detected anomalies and potential fraud patterns in banking systems.",
+        "Leveraging React with Chart.js for financial data visualization dashboards, creating interactive components that helped analysts identify trends in customer transaction behavior.",
+        "Implementing MySQL for relational storage of customer financial profiles, designing schemas that supported complex queries for risk assessment and credit scoring models.",
+        "Applying Azure ML Studio for machine learning model deployment, creating scoring endpoints that integrated with existing banking applications for real-time predictions.",
+        "Developing RESTful APIs that served financial analytics to internal business units, implementing role-based access control that complied with banking security regulations.",
+        "Using Azure Blob Storage for large financial datasets, implementing data partitioning strategies that optimized query performance for historical transaction analysis.",
+        "Creating unit tests for data preprocessing pipelines, verifying that financial data transformations maintained accuracy and compliance with banking regulations.",
+        "Participating in requirements gathering sessions with financial analysts, translating business questions into technical specifications for data science applications.",
+        "Debugging data quality issues in financial reporting systems, implementing data cleansing routines that improved accuracy of regulatory compliance reports.",
+        "Integrating React applications with Python backend services for customer segmentation tools, creating responsive interfaces that worked across different banking platforms."
+      ],
+      "environment": [
+        "Python",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "Azure",
+        "Pandas",
+        "RESTful APIs",
+        "Linux",
+        "Git",
+        "JIRA",
+        "Chart.js",
+        "PCI Compliance",
+        "Azure ML Studio",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Python with Hadoop Streaming to process large consulting project datasets, implementing MapReduce jobs that extracted insights from client engagement records and deliverables.",
+        "Leveraging Informatica for ETL processes that transformed consulting firm data, creating mappings that standardized information from multiple client engagement tracking systems.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop clusters, creating ingestion pipelines that populated data lakes with consulting project metadata.",
+        "Applying Python scripts for data quality validation in consulting analytics, creating checks that verified completeness and accuracy of client billing and resource allocation data.",
+        "Developing data processing workflows that integrated Hadoop with existing consulting applications, creating bridges that enabled historical analysis of project performance metrics.",
+        "Using Informatica PowerCenter for data warehouse population, creating transformations that prepared consulting data for business intelligence reporting and analysis.",
+        "Creating Python utilities for data profiling and documentation, generating reports that helped consulting teams understand data quality and availability for client engagements.",
+        "Participating in client requirement sessions for data integration projects, translating consulting business needs into technical specifications for ETL development and data pipeline design."
+      ],
+      "environment": [
+        "Python",
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "Linux",
+        "SQL",
+        "Data Warehousing",
+        "ETL",
+        "Business Intelligence",
+        "Consulting Analytics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

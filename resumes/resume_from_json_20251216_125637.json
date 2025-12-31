@@ -1,0 +1,242 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Azure Synapse & Data Intelligence",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With ten years of specialized experience across Insurance, Healthcare, Banking, and Consulting domains, now applying AI/ML expertise to public-sector transportation data, integrating Azure Synapse, SAP data pipelines, and modern data intelligence frameworks.",
+    "Designed enterprise-scale data warehousing solutions using Azure Synapse Dedicated SQL Pools, implementing HASH and ROUND_ROBIN table distributions for optimized performance across star and snowflake schemas supporting transportation analytics.",
+    "Built multi-agent AI systems using LangGraph and the Model Context Protocol to automate complex business workflows, enabling intelligent agent-to-agent communication for processing unstructured audit and maintenance documents.",
+    "Developed PySpark data processing frameworks within Databricks on Azure, transforming raw CSV, JSON, and Parquet files from toll operations into cleansed Delta tables for machine learning consumption.",
+    "Orchestrated complex ETL/ELT workflows using Azure Synapse Pipelines (ADF) to consolidate data from SAP ERP, SQL Server, and external vendors into a centralized Azure Data Lake Storage Gen2 repository.",
+    "Implemented columnstore indexing and partitioning strategies on large fact tables within Synapse, significantly improving query performance for real-time reporting on finance and traffic operations.",
+    "Applied T-SQL performance tuning techniques including query plan analysis and statistics updates to optimize slow-running reports, reducing execution times for critical maintenance dashboards.",
+    "Configured Azure Active Directory security with Row-Level and Column-Level Security policies to ensure compliant data access for different user groups across audit and operations teams.",
+    "Created proof-of-concept AI applications using LangChain to build Retrieval-Augmented Generation pipelines, extracting insights from lengthy contract and compliance documentation.",
+    "Monitored and optimized Azure Synapse serverless and dedicated pool usage, implementing cost-control measures and alerts to maintain budget adherence for cloud data operations.",
+    "Established CI/CD pipelines using Azure DevOps to automate the deployment of Synapse notebooks, SQL scripts, and PySpark jobs, ensuring consistent environments from development to production.",
+    "Integrated Power BI datasets with Synapse SQL endpoints, building semantic models that provided interactive visualizations for leadership to analyze toll revenue and infrastructure costs.",
+    "Troubleshooted data pipeline failures by analyzing Spark pool logs and ADF activity runs, quickly identifying issues with source file formats or missing dependencies to restore operations.",
+    "Documented technical designs and operational procedures for all deployed AI models and data workflows, creating knowledge articles that enabled effective handover to support teams.",
+    "Collaborated with SAP functional teams to understand data semantics from FI/CO modules, mapping business entities to analytical models for accurate financial forecasting and reporting.",
+    "Experimented with various machine learning frameworks including scikit-learn and TensorFlow within Synapse notebooks to prototype predictive models for equipment maintenance and traffic patterns.",
+    "Maintained deployed AI applications by applying bug fixes and model retraining cycles based on performance monitoring and feedback from business users in operations departments.",
+    "Consolidated disparate data sources using external tables and OPENROWSET in Synapse serverless pools, providing a unified query layer for analysts to explore raw data before transformation."
+  ],
+  "technical_skills": {
+    "Azure Synapse Analytics": [
+      "Dedicated SQL Pools",
+      "Serverless SQL Pools",
+      "Synapse Pipelines (ADF)",
+      "Spark Pools",
+      "PySpark",
+      "Spark SQL",
+      "Table Distribution",
+      "Columnstore Indexing",
+      "Partitioning",
+      "External Tables",
+      "OPENROWSET",
+      "Cost Optimization"
+    ],
+    "Artificial Intelligence & Machine Learning": [
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "LangGraph",
+      "LangChain",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "AI Model Design",
+      "AI Model Deployment",
+      "Machine Learning"
+    ],
+    "Data Engineering & Warehousing": [
+      "ETL/ELT Workflows",
+      "Data Warehousing Concepts",
+      "Star/Snowflake Schema",
+      "Slowly Changing Dimensions",
+      "Azure Data Lake Storage Gen2",
+      "Parquet",
+      "Delta",
+      "CSV",
+      "JSON"
+    ],
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "T-SQL",
+      "PySpark",
+      "SQL"
+    ],
+    "Cloud Platforms": [
+      "Azure Cloud",
+      "Azure Machine Learning",
+      "Azure Data Factory",
+      "Azure Active Directory",
+      "Managed Identity"
+    ],
+    "Databases & Data Platforms": [
+      "SQL Server",
+      "Databricks",
+      "SAP Data Integration",
+      "Informatica"
+    ],
+    "DevOps & MLOps": [
+      "CI/CD",
+      "Azure DevOps",
+      "Git",
+      "Model Monitoring",
+      "Documentation"
+    ],
+    "Security & Governance": [
+      "RBAC",
+      "Row-Level Security",
+      "Column-Level Security",
+      "Data Governance"
+    ],
+    "Business Intelligence": [
+      "Power BI Integration",
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "Performance Optimization": [
+      "SQL Performance Tuning",
+      "Query Optimization",
+      "Pipeline Monitoring"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Plan and architect a multi-agent AI system using LangGraph and the Model Context Protocol, designing conversational workflows where specialized agents process insurance claims documents and communicate findings.",
+        "Implement a proof-of-concept using PySpark in Databricks to cleanse and structure semi-structured JSON claim data, building Delta tables that serve as knowledge sources for the reasoning agents.",
+        "Deploy the multi-agent orchestration framework on Azure, containerizing individual agent services for scalable processing of high-volume claim intake during seasonal weather events.",
+        "Monitor agent performance and conversation logs, identifying instances where handoff protocols fail and refining the context sharing mechanisms between validation and assessment agents.",
+        "Optimize Spark job configurations and cluster auto-scaling policies in Databricks, balancing computational cost against the need for rapid processing during peak claim submission periods.",
+        "Troubleshoot data pipeline failures where external weather data feeds disrupt the agent initialization sequence, implementing retry logic and fallback sources to maintain system reliability.",
+        "Establish a continuous integration pipeline using Azure DevOps to test and deploy updates to the LangGraph workflow definitions, ensuring changes don't break existing agent interactions.",
+        "Configure Azure Active Directory authentication for the multi-agent API gateway, implementing role-based access controls that restrict sensitive claim data to authorized underwriting agents only.",
+        "Develop monitoring dashboards that track agent decision confidence scores and escalation rates, providing insights into which claim types require human adjuster intervention.",
+        "Refine the Model Context Protocol implementation to include richer metadata about data provenance, helping agents understand which regulations apply to specific claim jurisdictions.",
+        "Collaborate with compliance officers to ensure the multi-agent system's reasoning traces can be audited, meeting stringent insurance regulatory requirements for automated decision-making.",
+        "Document the agent communication patterns and data exchange protocols, creating runbooks that help support teams diagnose issues when agents provide conflicting recommendations.",
+        "Experiment with different LLM configurations for specialized agents, testing how fine-tuned models versus prompt-engineered base models perform on complex coverage interpretation tasks.",
+        "Integrate SAP policy data into the agent knowledge base, building Synapse pipelines that transform master data into embeddings accessible during the claim evaluation workflow.",
+        "Present the technical architecture and business value of the multi-agent system to executive stakeholders, demonstrating reduced claim processing time and improved consistency.",
+        "Maintain and update the proof-of-concept as requirements evolve, adding new agent types for fraud detection and subrogation assessment based on feedback from claims department users."
+      ],
+      "environment": [
+        "Azure Synapse, Databricks, PySpark, LangGraph, Model Context Protocol, Multi-Agent Systems, Azure DevOps, Azure Active Directory, SAP Data Integration, Python, JSON, Delta, Azure Data Lake Storage Gen2, Proof of Concept"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Planned the migration of clinical trial data pipelines to Azure Synapse, assessing existing Hadoop workflows and designing equivalent PySpark transformations compliant with HIPAA data protection standards.",
+        "Implemented a LangChain framework to process millions of unstructured medical device adverse event reports, building RAG pipelines that helped safety analysts quickly find relevant historical cases.",
+        "Deployed the document intelligence solution using Azure Synapse Spark Pools, configuring auto-scaling compute to handle variable volumes of PDF case reports submitted by healthcare providers.",
+        "Monitored data pipeline performance and HIPAA compliance audits, ensuring all PHI elements were properly masked or tokenized before being indexed in the vector database for AI retrieval.",
+        "Optimized Dedicated SQL Pool table distributions for large clinical fact tables, applying HASH distribution on study participant keys to enable efficient joins across dozens of research datasets.",
+        "Troubleshooted ELT pipeline failures where source system schema changes broke column mappings, working with SAP teams to understand MM module updates and adjust ingestion logic accordingly.",
+        "Established a proof-of-concept using Crew AI frameworks to automate literature review processes, where multiple AI agents collaborated to extract efficacy data from medical journal articles.",
+        "Configured row-level security policies in Synapse based on researcher roles and study affiliations, ensuring clinical trial blinding was maintained while providing appropriate data access.",
+        "Developed monitoring alerts for data quality anomalies in laboratory result streams, detecting outliers that might indicate instrument calibration issues rather than patient health changes.",
+        "Refined machine learning models predicting clinical trial enrollment rates, incorporating demographic and site performance data to help study managers allocate resources more effectively.",
+        "Collaborated with FDA regulatory affairs teams to document AI model validation procedures, ensuring algorithm decisions affecting patient safety could withstand regulatory scrutiny.",
+        "Documented the LangChain prompt engineering strategies and embedding configurations, creating reusable templates that accelerated development of new document processing applications.",
+        "Experimented with Autogen frameworks for automated code generation of data quality checks, reducing manual effort needed to validate incoming electronic data capture system submissions.",
+        "Presented the AI-driven document processing capabilities to cross-functional teams, demonstrating reduced time for medical reviewers to compile safety summary reports for regulatory submissions."
+      ],
+      "environment": [
+        "Azure Synapse, PySpark, LangChain, HIPAA Compliance, SAP Data Integration, Dedicated SQL Pools, HASH Distribution, Row-Level Security, Crew AI, Autogen, Proof of Concept, Azure Data Lake Storage Gen2, Delta, Clinical Data"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Planned the architecture for a Medicaid fraud detection system using AWS SageMaker, designing batch inference pipelines that analyzed provider billing patterns against historical claim data.",
+        "Implemented feature engineering pipelines using AWS Glue and PySpark, transforming raw healthcare claim data into aggregated features suitable for anomaly detection algorithms.",
+        "Deployed the trained isolation forest models as SageMaker endpoints, configuring auto-scaling to handle monthly claim review cycles while minimizing infrastructure costs during idle periods.",
+        "Monitored model performance drift by comparing current fraud flag rates against historical baselines, alerting investigators when detection patterns shifted due to changing billing practices.",
+        "Optimized Redshift cluster configurations for the claims data warehouse, implementing sort keys and distribution styles that accelerated joins between provider, patient, and service code dimensions.",
+        "Troubleshooted data extraction issues from legacy state healthcare systems, writing custom Python scripts to handle fixed-width file formats that ETL tools couldn't parse correctly.",
+        "Established data validation frameworks that checked HIPAA compliance of all outputs, ensuring protected health information was never exposed in analyst dashboards or model explanations.",
+        "Configured IAM policies and S3 bucket encryption to meet stringent public-sector data security requirements, implementing client-side encryption for sensitive patient demographic fields.",
+        "Developed interactive dashboards in QuickSight that showed fraud detection metrics by region and provider type, helping investigators prioritize their review workload more effectively.",
+        "Refined the model scoring thresholds based on feedback from human investigators, reducing false positive rates that were overwhelming limited audit team capacity.",
+        "Collaborated with state attorneys to understand evidentiary requirements for fraud cases, ensuring model outputs included sufficient supporting data for legal proceedings.",
+        "Documented the complete model development lifecycle and operational procedures, creating materials that enabled knowledge transfer when contract resources transitioned to state employees."
+      ],
+      "environment": [
+        "AWS SageMaker, AWS Glue, PySpark, Redshift, HIPAA Compliance, Isolation Forest, Batch Inference, QuickSight, IAM, S3 Encryption, Healthcare Claims, Fraud Detection"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Planned the development of transaction monitoring models to detect potential money laundering activities, working with compliance officers to define relevant behavioral features from payment data.",
+        "Implemented gradient boosting models using Python and scikit-learn, training on historical SAR filings to identify high-risk patterns in international wire transfer sequences.",
+        "Deployed the scoring models as batch jobs on AWS Lambda, scheduling daily execution after the core banking system completed its end-of-day transaction processing cycles.",
+        "Monitored model performance against new typologies identified by financial intelligence units, retraining classifiers quarterly to adapt to evolving money laundering techniques.",
+        "Optimized feature calculation queries in Redshift, rewriting complex window functions to reduce runtime and ensure scores were available before regulatory reporting deadlines.",
+        "Troubleshooted data quality issues in the source transaction systems, identifying missing country codes and beneficiary details that reduced model confidence for certain payment corridors.",
+        "Established model validation procedures that satisfied OCC regulatory requirements, documenting each development decision and maintaining audit trails for all training dataset versions.",
+        "Configured PCI-DSS compliant data access controls, implementing strict separation between model development environments and live production transaction processing systems.",
+        "Developed explanation reports for each high-risk alert, providing investigators with the specific transaction patterns and customer behaviors that triggered the suspicious activity flags.",
+        "Presented model effectiveness metrics to senior compliance leadership, demonstrating improved detection rates while maintaining manageable volumes of alerts for investigation teams."
+      ],
+      "environment": [
+        "AWS Lambda, Redshift, Python, scikit-learn, Gradient Boosting, PCI-DSS Compliance, Transaction Monitoring, Money Laundering Detection, SAR, Financial Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Planned the migration of client financial data from legacy mainframe systems to Hadoop, analyzing existing COBOL copybooks to design equivalent Avro schemas for the new data lake.",
+        "Implemented Sqoop jobs to incrementally extract data from Oracle databases, scheduling nightly loads that transferred only changed records to minimize network bandwidth usage.",
+        "Deployed Informatica workflows that transformed raw extracted data into cleansed conformed dimensions, applying business rules for customer hierarchy and product categorization.",
+        "Monitored Hadoop cluster performance and job failures, learning to interpret YARN application logs to identify memory issues or data skew problems in MapReduce transformations.",
+        "Optimized Hive queries by rewriting them to reduce shuffle operations, adding partitions on transaction date columns to enable predicate pushdown for time-range queries.",
+        "Troubleshooted encoding issues when processing international client data, experimenting with different character set configurations until diacritical marks displayed correctly in reports.",
+        "Established basic data quality checks using shell scripts, verifying record counts and hash totals matched between source systems and the Hadoop landing zone each morning.",
+        "Documented the ETL mapping specifications and data lineage diagrams, creating reference materials that helped new team members understand the complex financial data transformations."
+      ],
+      "environment": [
+        "Hadoop, Informatica, Sqoop, Oracle, Hive, MapReduce, Shell Scripting, ETL, Data Warehouse, Financial Data"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer DP-203",
+    "Azure AI Engineer-AI"
+  ]
+}

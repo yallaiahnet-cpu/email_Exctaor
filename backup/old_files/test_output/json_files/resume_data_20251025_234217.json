@@ -1,0 +1,99 @@
+{
+  "name": "John Doe",
+  "title": "Senior AI/ML Engineer",
+  "contact": {
+    "email": "johndoe@email.com",
+    "phone": "123-456-7890",
+    "linkedin": "linkedin.com/in/johndoe"
+  },
+  "professional_summary": [
+    "Proven expertise in developing, deploying, and managing machine learning models, with a focus on natural language processing and deep learning.",
+    "Strong experience in leading and mentoring junior engineers, ensuring high-quality solutions and efficient team collaboration.",
+    "Skilled in NLP with Hugging Face and LangChain, leveraging Vector databases and embeddings for efficient model deployment.",
+    "Proficient in Cloud platforms, including AWS SageMaker, Azure ML, and GCP Vertex AI, with expertise in MLOps and distributed systems.",
+    "Excellent understanding of cloud security best practices, ensuring secure and scalable model deployment.",
+    "Expertise in developing and deploying deep learning models, including CNNs, RNNs, Transformers, and BERT.",
+    "Strong SQL and NoSQL database skills, with experience in data preprocessing and feature engineering.",
+    "Proficient in tools such as Pinecone, Chroma, Weaviate, Hugging Face, and LangChain, for efficient model deployment and management.",
+    "Experience in model deployment and MLOps, with expertise in Docker, Kubernetes, Flask, and FastAPI.",
+    "Skilled in vector databases and embeddings, including Pinecone, Chroma, and Weaviate, for efficient model deployment.",
+    "Strong experience in NLP with Hugging Face and LangChain, with expertise in RAG pipelines and LangChain implementations.",
+    "Excellent understanding of big data frameworks, including Spark, Hadoop, and Kafka, for efficient data processing and analysis.",
+    "Expertise in cloud security best practices, ensuring secure and scalable model deployment on cloud platforms.",
+    "Proficient in version control systems, including Git, for efficient code management and collaboration.",
+    "Strong experience in developing and deploying deep learning models, including CNNs, RNNs, and Transformers.",
+    "Excellent understanding of NLP, including Hugging Face and LangChain, with expertise in vector databases and embeddings.",
+    "Skilled in MLOps and distributed systems, with experience in model deployment and management on cloud platforms.",
+    "Strong SQL and NoSQL database skills, with expertise in data preprocessing and feature engineering.",
+    "Proficient in tools such as Docker, Kubernetes, Flask, and FastAPI, for efficient model deployment and management."
+  ],
+  "technical_skills": {
+    "category": [
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Cloud Platforms",
+      "Distributed Systems",
+      "MLOps"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI/ML Engineer",
+      "client": "Tech Innovations Inc.",
+      "duration": "2018 - 2022",
+      "location": "Remote/Hybrid",
+      "responsibilities": [
+        "Developed and deployed machine learning models using natural language processing and deep learning techniques.",
+        "Led and mentored junior engineers, ensuring high-quality solutions and efficient team collaboration.",
+        "Leveraged vector databases and embeddings for efficient model deployment and management.",
+        "Ensured secure and scalable model deployment on cloud platforms using cloud security best practices.",
+        "Developed and deployed deep learning models, including CNNs, RNNs, and Transformers.",
+        "Collaborated with data scientists, data engineers, and other engineers to develop and deploy AI/ML solutions."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Azure ML",
+        "GCP Vertex AI",
+        "Docker",
+        "Kubernetes",
+        "Flask",
+        "FastAPI"
+      ]
+    },
+    {
+      "role": "AI/ML Engineer",
+      "client": "Tech Innovations Inc.",
+      "duration": "2015 - 2018",
+      "location": "Remote/Hybrid",
+      "responsibilities": [
+        "Developed and deployed machine learning models using natural language processing and deep learning techniques.",
+        "Collaborated with data scientists, data engineers, and other engineers to develop and deploy AI/ML solutions.",
+        "Ensured secure and scalable model deployment on cloud platforms using cloud security best practices.",
+        "Developed and deployed deep learning models, including CNNs, RNNs, and Transformers.",
+        "Leveraged vector databases and embeddings for efficient model deployment and management."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Azure ML",
+        "GCP Vertex AI",
+        "Docker",
+        "Kubernetes",
+        "Flask",
+        "FastAPI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of California, Berkeley",
+      "year": "2010"
+    }
+  ],
+  "certifications": [
+    "Google Cloud Certified - Professional Data Engineer",
+    "Microsoft Certified Azure Developer"
+  ]
+}

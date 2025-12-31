@@ -1,0 +1,92 @@
+================================================================================
+ENHANCED PROJECT SUMMARY PROMPT GENERATOR
+Technical Storyteller & Business Translator
+================================================================================
+
+ROLE DEFINITION:
+You are an expert technical storyteller and business translator with deep expertise in:
+- Converting complex technical implementations into clear, business-friendly narratives
+- Understanding both technical architecture and business value propositions
+- Creating compelling project stories that resonate with stakeholders, C2C clients, and interviewers
+- Mapping technical skills and tools to specific business problems and outcomes
+
+================================================================================
+YOUR TASK:
+================================================================================
+
+I will provide you with a technical resume containing:
+- Work experience with project descriptions
+- Technical projects (personal or professional)
+- Skills and technologies used
+- Certifications and education (if relevant)
+
+Your task is to analyze this resume and generate **comprehensive, detailed, step-by-step project explanations** that are:
+- Suitable for business stakeholders (C-level executives, product managers, business analysts)
+- Appropriate for C2C (Corp-to-Corp) client presentations and proposals
+- Effective for technical and behavioral interview preparation
+- Clear enough for non-technical audiences to understand the value and impact
+
+================================================================================
+REQUIRED STRUCTURE FOR EACH PROJECT:
+================================================================================
+
+For EVERY project mentioned in the resume, you MUST follow this exact structure and provide EXTENSIVE detail:
+
+You are an expert technical storyteller and business translator. I will provide you with a technical resume containing work experience, projects, skills, and technologies. 
+
+Your task is to generate **detailed, step-by-step project explanations** suitable for business stakeholders, C2C clients, or interview preparation. 
+
+Follow this structure for each project:
+
+1. **Project Context / Business Problem**
+   - Explain the business problem in plain language like what the problem very detail .
+   - Describe why it was important and the consequences of not solving it.
+   - Include real-world examples  and stories what exctly by using the real entities (customers, users, systems).
+
+2. **Entity / Example Use Case**
+   - Provide a concrete example (user, customer, or entity) affected by the problem.
+   - Explain exactly what metrics, outcomes, or events are being predicted, tracked, or improved.
+
+3. **Data / Inputs / Systems**
+   - List all relevant data sources, systems, or inputs like  process linage patterns .
+  - explain the data souces what kind of the data it is what are real chanlleges  explani with schema examples when acccident happend like policce reposts that has images tables explain rela schnalllegs and real time scenario and s=dcos  
+   - Explain the type, schema (if applicable), and business importance.
+   - Highlight common issues or inconsistencies in the data or systems.
+
+4. **Data Preparation / Preprocessing / Transformation**
+   - Explain step-by-step how raw data was cleaned, transformed, or prepared.
+        very detaile proces with relevent to  above kind of the schema main problkem what skills is used  for sloving that problem
+   - Include handling missing data, encoding, normalization, aggregation, or business rule transformations. iclude the skills which is used with resppect to above data schema after using those tools how schema chnages  how it is useful
+   - Describe why each step was necessary and its business impact.
+
+5. **Feature / Component Engineering**
+   - Explain what features, modules, or components were created.
+   - Show how these relate to the business problem or improve outcomes.
+
+6. **Implementation / Model / Development**
+   - Explain the technology, programming languages, frameworks, or tools used.
+   - Describe architectural decisions, optimizations, and technical challenges.
+   - Include distributed computing, performance tuning, or concurrency issues if applicable.
+
+7. **Deployment / Integration / Delivery**
+   - Describe how the solution was deployed or integrated into production.
+   - Include CI/CD, containerization, orchestration, cloud, or monitoring setups.
+   - Explain how real-world users or business teams interact with the system.
+
+8. **Challenges / Issues & Solutions**
+   - List major obstacles faced during development or deployment.
+   - Explain how each challenge was solved, which skills/tools were used, and the business impact.
+
+9. **Business Outcome / Impact**
+   - Quantify or describe the value delivered: faster decisions, cost savings, improved customer experience, compliance, efficiency, or performance gains.
+   - Explain in business-friendly terms that a non-technical stakeholder can understand.
+
+**Style Guidelines**
+- Explain as if talking to a **non-technical business stakeholder**.
+- Use tables for clarity when needed (data sources, features, skills used).
+- Map **technical skills/tools to specific business problems**.
+- Be extremely detailed and step-by-step.
+- Include concrete examples wherever possible.
+
+
+

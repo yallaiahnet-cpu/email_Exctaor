@@ -1,0 +1,329 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Generative AI & LLM Solutions Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI development, data engineering, and machine learning, with deep specialization in Generative AI and LLM solutions deployed on Databricks platform for enterprise-scale applications across insurance, healthcare, and financial domains.",
+    "Using Databricks and Delta Lake to address complex data governance challenges in insurance claims processing, implemented scalable data pipelines with Unity Catalog integration, ensuring compliant data handling while improving processing efficiency for real-time analytics and AI model training workflows.",
+    "Leveraging LangChain and multi-agent frameworks to solve insurance policy document analysis bottlenecks, designed RAG pipelines with FAISS vector stores, enabling accurate information retrieval and reducing manual review time for underwriting teams.",
+    "Applying Hugging Face Transformers and OpenAI APIs to healthcare data challenges, developed specialized LLM models for medical document processing while maintaining strict HIPAA compliance through Azure Databricks security features and encrypted data handling protocols.",
+    "Implementing MLflow and Unity Catalog for model lifecycle management in banking compliance systems, established comprehensive tracking for LLM training experiments, reducing model deployment time while ensuring audit trail completeness.",
+    "Utilizing PySpark and Python for large-scale insurance data processing, optimized ETL workflows handling petabytes of policy data, achieving faster data preparation for Generative AI model training while maintaining data quality standards.",
+    "Designing Retrieval-Augmented Generation systems for healthcare knowledge management, integrated Pinecone vector databases with clinical documentation, improving medical information accuracy for patient care decision support applications.",
+    "Architecting multi-agent AI systems using LangGraph for insurance fraud detection, coordinated specialized AI agents for pattern recognition and anomaly detection, increasing fraud identification accuracy while reducing false positives.",
+    "Developing AI Event-Driven Architectures for real-time banking transaction monitoring, implemented streaming data pipelines with Kafka and Databricks, enabling immediate risk assessment and improving response time to suspicious activities.",
+    "Implementing MLOps best practices for healthcare AI model deployment, established automated training pipelines with version control and monitoring, ensuring model performance consistency across clinical trial data analysis applications.",
+    "Applying Model Context Protocol in insurance chatbot development, structured context sharing between specialized LLMs for policy inquiries, improving response accuracy while maintaining conversational quality and compliance.",
+    "Optimizing vector database performance for financial document retrieval, implemented Chroma with custom indexing strategies, reducing query latency for regulatory compliance checking and customer service applications.",
+    "Designing ethical AI frameworks for healthcare data processing, implemented bias detection and fairness metrics in LLM training pipelines, ensuring equitable treatment recommendations across diverse patient populations and demographics.",
+    "Developing cost-optimized Generative AI solutions on Azure Databricks, implemented resource monitoring and auto-scaling policies, reducing cloud infrastructure costs while maintaining performance for insurance claim processing workloads.",
+    "Building collaborative AI systems with Agent-to-Agent communication for insurance risk assessment, enabled coordinated analysis between underwriting and claims prediction models, improving risk scoring accuracy across diverse policy types.",
+    "Implementing data security protocols for healthcare LLM applications, established encryption and access controls in Azure Databricks environments, ensuring PHI protection while enabling advanced analytics for clinical research data.",
+    "Developing prompt engineering strategies for insurance customer service chatbots, created structured templates and validation rules, improving conversation success rates while reducing inappropriate responses.",
+    "Architecting scalable RAG systems for banking knowledge management, integrated Weaviate with financial regulations database, enabling accurate compliance checking and reducing manual research time for legal teams."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Databricks Workflows and Delta Lake to address insurance claims processing bottlenecks, architected real-time data pipelines that processed large volumes of daily data, reducing claim approval time while maintaining regulatory compliance.",
+        "Implementing LangChain and multi-agent frameworks for policy document analysis, designed RAG systems with FAISS vector stores that handled thousands of documents monthly, improving information retrieval accuracy for underwriting teams.",
+        "Leveraging Hugging Face Transformers and OpenAI APIs to solve customer service chatbot limitations, developed specialized insurance LLMs that reduced manual agent interventions while maintaining conversation quality.",
+        "Applying Unity Catalog and MLflow for model governance in fraud detection systems, established comprehensive tracking for multiple ML models, ensuring audit compliance and reducing model drift incidents.",
+        "Designing Generative AI solutions with Azure Databricks for insurance risk assessment, implemented PySpark pipelines processing historical data, enabling accurate risk prediction and reducing underwriting errors.",
+        "Developing Retrieval-Augmented Generation systems for insurance knowledge management, integrated Pinecone with policy documentation, reducing manual research time for claims adjusters and improving decision accuracy.",
+        "Implementing AI Event-Driven Architecture for real-time fraud monitoring, built streaming pipelines with Kafka and Databricks, detecting suspicious patterns quickly and preventing potential losses.",
+        "Applying Model Context Protocol in insurance chatbot coordination, structured context sharing between specialized LLMs, improving response accuracy while maintaining compliance with state insurance regulations.",
+        "Architecting multi-agent systems with LangGraph for complex claims analysis, coordinated AI agents for damage assessment and policy validation, reducing processing time for high-value claims.",
+        "Optimizing vector database performance for insurance document retrieval, implemented Chroma with custom indexing, reducing query latency for urgent claims processing scenarios.",
+        "Developing ethical AI frameworks for insurance pricing models, implemented bias detection in LLM training, ensuring fair premium calculations across diverse customer demographics and risk profiles.",
+        "Designing cost-optimized Generative AI solutions on Azure Databricks, implemented auto-scaling policies that reduced cloud costs while maintaining availability for critical insurance applications.",
+        "Building collaborative AI systems with Agent-to-Agent communication for catastrophe modeling, enabled coordinated analysis between weather data and claims prediction, improving risk assessment accuracy.",
+        "Implementing data security protocols for sensitive insurance data, established encryption in Azure Databricks, ensuring PII protection while enabling advanced analytics for customer policies.",
+        "Developing prompt engineering strategies for insurance customer service, created structured templates that improved conversation success rates while reducing compliance violations.",
+        "Architecting scalable RAG systems for regulatory compliance checking, integrated Weaviate with insurance laws database, enabling accurate compliance verification and reducing manual review time."
+      ],
+      "environment": [
+        "Databricks, Delta Lake, MLflow, Unity Catalog, Python, PySpark, LangChain, Hugging Face Transformers, OpenAI API, FAISS, Pinecone, Chroma, Azure Databricks, Azure Data Factory, Azure ML Studio, Docker, Kubernetes, Git, REST APIs"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Databricks and Delta Lake to address clinical trial data processing challenges, engineered data pipelines handling daily data volumes, reducing data preparation time while maintaining HIPAA compliance for patient information.",
+        "Implementing LangChain and RAG pipelines for medical document analysis, designed systems with FAISS vector stores processing research papers, improving information retrieval accuracy for research teams.",
+        "Leveraging Hugging Face Transformers to solve medical literature review bottlenecks, developed specialized LLMs that reduced manual screening time for clinical trial feasibility assessments.",
+        "Applying MLflow and Unity Catalog for pharmaceutical research model management, established tracking for multiple ML models, ensuring reproducibility and reducing deployment errors across research projects.",
+        "Designing Generative AI solutions with Azure Databricks for drug discovery support, implemented PySpark pipelines analyzing chemical compound data, enabling faster candidate identification and reducing research cycles.",
+        "Developing multi-agent frameworks for healthcare data analysis, coordinated AI systems for patient outcome prediction, improving treatment recommendation accuracy while maintaining regulatory compliance.",
+        "Implementing Retrieval-Augmented Generation for medical knowledge management, integrated Pinecone with clinical guidelines, reducing physician research time for complex case consultations.",
+        "Applying ethical AI principles in healthcare model development, implemented bias detection for patient data analysis, ensuring equitable treatment recommendations across diverse demographic groups.",
+        "Optimizing vector database performance for medical image analysis, implemented Chroma with specialized embeddings, reducing retrieval latency for radiology report correlation tasks.",
+        "Designing cost-efficient AI solutions on Azure Databricks, implemented resource monitoring that reduced cloud spending while maintaining performance for critical healthcare applications.",
+        "Developing prompt engineering strategies for medical chatbot interactions, created healthcare-specific templates that improved diagnostic support accuracy while reducing inappropriate responses.",
+        "Building collaborative AI systems for clinical trial matching, enabled Agent-to-Agent communication between patient data and trial criteria, improving match accuracy for oncology studies.",
+        "Implementing data security protocols for healthcare applications, established HIPAA-compliant encryption in Azure Databricks, ensuring PHI protection for patient records analysis.",
+        "Architecting scalable RAG systems for pharmaceutical regulation checking, integrated Weaviate with FDA guidelines, enabling accurate compliance verification and reducing manual review time."
+      ],
+      "environment": [
+        "Databricks, Delta Lake, MLflow, Unity Catalog, Python, PySpark, LangChain, Hugging Face Transformers, OpenAI API, FAISS, Pinecone, Chroma, Azure Databricks, Azure Data Factory, Docker, Kubernetes, Git, REST APIs"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using AWS SageMaker and Databricks to address public health data analysis challenges, built ML pipelines processing daily data volumes, reducing case prediction time while maintaining data privacy compliance.",
+        "Implementing Hugging Face Transformers for healthcare document processing, developed NLP models that automated medical record classification, reducing manual processing time for public health reporting.",
+        "Applying MLflow for public health model versioning, established tracking for multiple prediction models, ensuring reproducibility and reducing deployment errors across healthcare applications.",
+        "Designing data pipelines with AWS Glue and Databricks, processed healthcare datasets while maintaining HIPAA compliance, enabling accurate public health trend analysis and resource allocation.",
+        "Developing Python-based analytics frameworks for health outcome prediction, implemented statistical models that improved intervention targeting accuracy for at-risk populations.",
+        "Implementing vector databases for medical research literature, used FAISS to enable efficient similarity search across research papers, reducing literature review time for public health policies.",
+        "Applying ethical AI frameworks for healthcare analytics, implemented bias detection in population health models, ensuring equitable resource distribution across diverse community needs.",
+        "Optimizing cloud resource usage on AWS, implemented cost monitoring that reduced infrastructure spending while maintaining performance for critical public health applications.",
+        "Developing data security protocols for sensitive health information, established encryption and access controls, ensuring HIPAA compliance for patient records analysis.",
+        "Building collaborative systems for public health data sharing, enabled secure data exchange between healthcare providers while maintaining privacy standards and data integrity.",
+        "Implementing prompt engineering for public health chatbots, created templates that improved citizen interaction quality while maintaining accurate health information delivery.",
+        "Designing scalable analytics solutions for healthcare data, processed streaming data from multiple sources, enabling real-time public health monitoring and rapid response capabilities."
+      ],
+      "environment": [
+        "AWS SageMaker, AWS Glue, Databricks, Python, MLflow, Hugging Face Transformers, FAISS, SQL, Docker, Git, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Python and SQL to address financial fraud detection challenges, developed ML models analyzing transaction patterns, reducing false positives while maintaining detection accuracy for suspicious activities.",
+        "Implementing Scikit-Learn and XGBoost for credit risk assessment, built prediction models that improved risk scoring accuracy while ensuring compliance with banking regulations and fair lending practices.",
+        "Applying statistical techniques for customer behavior analysis, implemented clustering algorithms that identified customer segments, enabling targeted marketing with higher conversion rates.",
+        "Designing data pipelines with AWS services, processed daily transaction data while maintaining PCI compliance, enabling real-time fraud detection and reducing potential losses.",
+        "Developing visualization dashboards with Tableau, created interactive reports for executive monitoring, reducing manual reporting time and improving decision-making speed for risk management.",
+        "Implementing A/B testing frameworks for digital banking features, designed experiments that improved user engagement while maintaining security standards and regulatory compliance.",
+        "Applying machine learning for customer churn prediction, developed models that identified at-risk customers, enabling retention campaigns that reduced churn rates.",
+        "Optimizing database performance for financial analytics, implemented query optimization that reduced report generation time for daily risk assessment.",
+        "Developing data quality frameworks for financial reporting, established validation rules that reduced data errors and improved regulatory reporting accuracy.",
+        "Building collaborative analytics systems for cross-departmental data sharing, enabled secure access to customer insights while maintaining data privacy and compliance with financial regulations."
+      ],
+      "environment": [
+        "Python, SQL, Scikit-Learn, XGBoost, AWS SageMaker, AWS Glue, Tableau, Docker, Git, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop and Informatica to address client data integration challenges, built ETL pipelines processing daily data volumes, reducing data processing time for consulting analytics projects across multiple domains.",
+        "Implementing Sqoop for data migration between systems, designed workflows that transferred client data with high accuracy, enabling seamless analytics platform transitions for consulting engagements.",
+        "Applying Python for data quality validation, developed scripts that automated data profiling and cleansing, reducing manual validation time and improving data reliability for client reports.",
+        "Designing data warehouse solutions with SQL Server, created dimensional models that supported client analytics needs, reducing query response time for business intelligence applications.",
+        "Developing ETL workflows with Informatica PowerCenter, processed diverse data sources while maintaining data integrity, enabling comprehensive analytics for client decision-making processes.",
+        "Implementing data governance frameworks for client projects, established documentation standards that improved project transparency and reduced miscommunication incidents.",
+        "Applying performance optimization techniques for large datasets, tuned Hadoop configurations that improved processing speed for client data analytics workloads.",
+        "Building collaborative data solutions for cross-functional teams, enabled data sharing between technical and business stakeholders while maintaining security and access controls."
+      ],
+      "environment": [
+        "Hadoop, Informatica, Sqoop, Python, SQL, SQL Server, Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

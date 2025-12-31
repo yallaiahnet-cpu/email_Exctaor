@@ -1,0 +1,265 @@
+{
+  "COLORFUL_METADATA_JSON": {
+    "visual_format": "resume_optimized_for_ats",
+    "status": "optimized"
+  },
+  "name": "Yallaiah Onteru",
+  "title": "Senior Scala Backend Engineer - Cloud-Native Microservices",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "Backend engineer with 10 years in Insurance, Healthcare, Banking, and Consulting, now building high-scale Scala microservices with Akka and PostgreSQL for cloud-native distributed systems, integrating modern agent frameworks into regulated domains.",
+    "Architected Scala-based microservices using Akka actors to manage insurance policy data, migrating from monolithic Java systems to a reactive backend that improved claim processing throughput and ensured compliance with state-level insurance regulations.",
+    "Optimized PostgreSQL schema designs and query performance for healthcare patient records, implementing complex joins and indexes that reduced data retrieval latency for HIPAA-compliant applications during critical patient care scenarios.",
+    "Deployed serverless AWS Lambda functions to handle event-driven data processing for banking transactions, integrating with S3 for log storage and RDS for persistent data, while maintaining PCI-DSS standards for financial security.",
+    "Built CI/CD pipelines using Jenkins and GitLab to automate deployment of Scala jar files to AWS ECS clusters, incorporating automated testing frameworks that reduced manual deployment errors and improved team release velocity.",
+    "Configured AWS CloudWatch metrics and dashboards for monitoring production microservices, setting up alarms for Akka cluster node health and PostgreSQL connection pools to proactively address performance degradation in distributed systems.",
+    "Utilized Docker containers to package Scala applications and their dependencies, creating consistent runtime environments across development and AWS cloud deployments, which simplified debugging and accelerated the onboarding of new team members.",
+    "Developed RESTful APIs with Akka HTTP to facilitate communication between backend services and frontend applications in the healthcare domain, ensuring endpoints handled sensitive patient data with proper authentication and authorization checks.",
+    "Implemented OCI Object Storage with S3-compatible APIs as a cost-effective alternative for archiving old insurance documents, writing Scala clients to manage bucket policies and lifecycle rules for compliance data retention.",
+    "Debugged distributed system failures by analyzing Akka cluster logs and PostgreSQL deadlocks, collaborating with DevOps to trace issues across service boundaries and implement fixes that restored system stability for end-users.",
+    "Migrated on-premise Oracle databases to AWS RDS for PostgreSQL, rewriting Java stored procedures into Scala data access layers and tuning replication settings to support high-availability requirements for 24/7 banking operations.",
+    "Created automated testing suites for microservices using ScalaTest and Akka TestKit, simulating network partitions and database failures to verify system resilience under the degraded conditions common in cloud environments.",
+    "Designed data migration scripts using Flyway to manage PostgreSQL schema evolution across multiple microservices, coordinating version updates with product teams to ensure zero-downtime deployments for insurance policy updates.",
+    "Established gRPC service contracts for low-latency communication between critical backend services in a healthcare analytics platform, using protocol buffers to define data models and ensure type-safe interactions across service boundaries.",
+    "Orchestrated message-driven workflows using Kafka topics integrated with Akka Streams, processing streams of financial transactions for fraud detection while maintaining ordering guarantees and exactly-once processing semantics.",
+    "Collaborated with cloud architects to provision AWS infrastructure using Terraform, defining VPCs, security groups, and RDS instances that formed the foundation for secure and scalable backend deployments in regulated industries.",
+    "Performed capacity planning and performance tuning for PostgreSQL databases supporting high-volume banking applications, analyzing query plans and adjusting memory settings to handle peak transaction loads during business hours.",
+    "Reviewed code and architecture designs for fellow backend engineers, providing feedback on Akka actor implementations and Scala concurrency patterns to improve system reliability and knowledge sharing within the engineering team."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Scala",
+      "Java",
+      "Akka (Actors, Streams, Cluster)",
+      "Akka HTTP",
+      "ScalaTest",
+      "Akka TestKit"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "AWS RDS",
+      "OCI Database for PostgreSQL",
+      "Schema Design",
+      "Query Performance Tuning",
+      "Flyway Migrations"
+    ],
+    "Cloud Platforms (AWS)": [
+      "AWS Lambda",
+      "AWS S3",
+      "AWS CloudWatch",
+      "Amazon ECS",
+      "Amazon VPC",
+      "AWS IAM"
+    ],
+    "Cloud Platforms (OCI)": [
+      "OCI Object Storage",
+      "OCI Functions",
+      "OCI Monitoring"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Amazon ECS"
+    ],
+    "API & Communication Protocols": [
+      "REST",
+      "gRPC",
+      "Apache Kafka"
+    ],
+    "CI/CD & DevOps Tools": [
+      "Jenkins",
+      "GitLab CI/CD",
+      "Git",
+      "Terraform",
+      "Linux/Bash"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus",
+      "Grafana",
+      "Log Aggregation"
+    ],
+    "Messaging & Streaming": [
+      "Apache Kafka",
+      "Message Queues"
+    ],
+    "Testing & Quality": [
+      "Automated Testing Frameworks",
+      "Integration Testing",
+      "Load Testing"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "environment": [
+        "Scala",
+        "Akka",
+        "PostgreSQL",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol (MCP)",
+        "Databricks",
+        "Docker",
+        "CI/CD Pipelines",
+        "gRPC"
+      ],
+      "responsibilities": [
+        "Construct proof-of-concept multi-agent systems using LangGraph to automate complex insurance claim adjudication, where independent agents verify policy details, assess damage, and calculate payouts while adhering to strict state compliance rules.",
+        "Assemble Scala services that integrate with the Model Context Protocol, enabling different AI agents to securely share and access policyholder context from a central PostgreSQL database, improving the accuracy of automated claim decisions.",
+        "Connect Databricks clusters to the core Akka-based microservices, using Spark jobs to analyze historical claim data for fraud patterns and feeding results back into the real-time agent decision loops for ongoing risk assessment.",
+        "Establish a foundation for agent-to-agent communication frameworks within the insurance domain, designing protocols that allow specialized agents for underwriting and customer service to collaborate on complex customer inquiries.",
+        "Prepare Docker images for all Scala microservices and their associated AI agent runtimes, pushing them to a private registry and configuring AWS ECS tasks to deploy them seamlessly across development and production environments.",
+        "Adapt AWS Lambda functions to serve as lightweight proxies for specific insurance data queries, allowing frontend applications to quickly fetch policy information without loading the main Akka backend for simple read operations.",
+        "Modify existing PostgreSQL schemas to accommodate new data structures required by the multi-agent workflows, adding tables for agent decision logs and audit trails to meet insurance regulatory reporting requirements.",
+        "Verify the resilience of the distributed agent system by writing integration tests that simulate network failures between services, ensuring that partial failures do not compromise the overall claim processing pipeline.",
+        "Organize daily stand-up meetings with backend and data science teams to align on the integration of traditional Scala services with the emerging AI agent components, clarifying interfaces and data ownership boundaries.",
+        "Strengthen the security posture of the cloud infrastructure by reviewing AWS IAM policies for the RDS instances and S3 buckets containing sensitive policyholder data, implementing least-privilege access for all services.",
+        "Discuss performance bottlenecks in the Akka streams processing insurance transaction data with the DevOps team, using CloudWatch metrics to identify and resolve concurrency issues that appeared during peak load testing.",
+        "Gather requirements from product owners for new insurance products, translating them into technical specifications for new Scala microservices and agent capabilities that can be developed and tested in the next sprint.",
+        "Execute a gradual rollout of the new multi-agent claim system to a small percentage of users, monitoring PostgreSQL database load and Lambda invocation errors closely to catch any issues before a full production launch.",
+        "Document the architecture decisions and trade-offs involved in blending traditional Scala/Akka systems with experimental AI agent frameworks, creating runbooks for operational support and future team reference.",
+        "Balance the need for rapid innovation with the strict compliance demands of the insurance industry, sometimes choosing simpler, more verifiable Scala implementations over complex agent behaviors for regulated processes.",
+        "Question assumptions about data freshness requirements for different agent tasks, proposing caching strategies that reduced database load while still providing accurate enough information for non-critical decision steps."
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "environment": [
+        "Scala",
+        "Akka",
+        "PostgreSQL",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Lambda",
+        "LangChain",
+        "Crew AI",
+        "AutoGen",
+        "Docker",
+        "Kubernetes",
+        "GitLab CI/CD",
+        "REST APIs"
+      ],
+      "responsibilities": [
+        "Formulated a strategy to integrate LangChain components with existing Akka-based healthcare data services, creating pipelines that retrieved patient information from PostgreSQL for AI-driven clinical trial matching while enforcing HIPAA data masking.",
+        "Produced reusable Scala modules for interacting with various LLM providers, packaging them as internal libraries that standardized authentication, logging, and error handling across multiple drug research and development teams.",
+        "Transformed a manual patient cohort analysis process into an automated Crew AI workflow, where specialized agents collaborated to query electronic health records from RDS and generate statistical reports for research scientists.",
+        "Evaluated the AutoGen framework for simulating multi-agent conversations about pharmaceutical supply chain logistics, but ultimately built a custom Akka actor system that offered finer-grained control over agent state and audit trails.",
+        "Determined the optimal AWS infrastructure for deploying AI-augmented backend services, selecting RDS for persistent patient metadata and S3 for storing large model artifacts, with Lambda functions for asynchronous processing tasks.",
+        "Illustrated the data flow between HIPAA-compliant PostgreSQL databases and the LangChain agents in architecture diagrams, helping security teams understand and approve the new AI components for use with protected health information.",
+        "Guided junior developers in writing Scala code for the Akka actor systems, conducting pair programming sessions focused on managing actor lifecycle and message-passing patterns in a concurrent healthcare data environment.",
+        "Examined production logs in AWS CloudWatch when a drug interaction checking service became slow, discovering a missing index on a PostgreSQL table that, when added, restored response times to acceptable service levels.",
+        "Preserved data integrity during the migration of a legacy Java clinical trial management system to new Scala services, writing idempotent data migration scripts and conducting thorough validation checks with the QA automation team.",
+        "Supported the DevOps team during the upgrade of the Kubernetes cluster hosting the Scala microservices, assisting with rolling deployments and verifying that all Akka clusters reformed correctly after node restarts.",
+        "Defined REST API contracts for new patient consent management endpoints, using Akka HTTP to create scalable services that recorded and retrieved consent status, a critical requirement for HIPAA-compliant data usage.",
+        "Compared the performance of different PostgreSQL connection pool settings under simulated load from multiple AI agents, adjusting HikariCP configurations in the Scala services to prevent connection exhaustion during peak usage.",
+        "Attended weekly meetings with cloud architects to plan the annual AWS budget, providing estimates for RDS instance scaling and S3 storage costs based on projected growth in healthcare data processing volumes.",
+        "Fixed a serialization bug in the Akka remoting layer that occasionally caused messages between clinical data services to be lost, updating the Scala case classes to be more compatible with the serialization framework."
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "environment": [
+        "Java",
+        "Azure Functions",
+        "Azure SQL Database",
+        "Azure Monitor",
+        "Azure Blob Storage",
+        "Docker",
+        "PostgreSQL",
+        "REST APIs",
+        "CI/CD"
+      ],
+      "responsibilities": [
+        "Built Java-based data processing services for a public health reporting system, utilizing Azure Functions to ingest daily COVID-19 test results from labs and store them securely in Azure SQL Database with strict access controls.",
+        "Coded data validation rules to ensure healthcare data submitted by various providers met state reporting standards, rejecting malformed records and notifying submitters via asynchronous messages to maintain data quality for epidemiologists.",
+        "Operated the production deployment pipeline for the health data services, using Azure DevOps to build Docker containers and deploy them to App Service plans, while coordinating maintenance windows with the public health department.",
+        "Monitored the performance of critical Azure SQL Database queries used for generating public dashboards, adding covering indexes that sped up data aggregation and improved the experience for citizens viewing the information.",
+        "Tested the disaster recovery plan by failing over the Azure SQL Database to a secondary region, verifying that the Java services could reconnect automatically and continue processing vital health data with minimal interruption.",
+        "Coordinated with the security team to implement additional logging for all accesses to protected health information, ensuring the Azure Monitor logs provided a complete audit trail for compliance with state healthcare regulations.",
+        "Refined the schema of the central reporting database multiple times as new data elements were required by the health department, managing migrations carefully to avoid disrupting the ongoing data collection from hundreds of providers.",
+        "Resolved a recurring issue where Azure Blob Storage uploads for large lab data files would time out, implementing a chunked upload approach in the Java service that improved reliability for the healthcare data ingestion pipeline.",
+        "Assisted the frontend team in optimizing their API calls to the backend services, suggesting query filters and pagination to reduce load on the database during periods of high public interest in the health statistics.",
+        "Attended state-mandated training on data privacy and handling of sensitive health information, applying those principles to the technical design of all new features and data flows within the Azure cloud environment.",
+        "Updated the CI/CD pipeline configuration to include security scanning of Docker images and Java dependencies, adding an extra layer of protection for the systems handling sensitive public sector healthcare data.",
+        "Learned the nuances of public sector procurement and compliance, navigating the constraints of existing Azure contracts and state security policies while trying to implement modern backend engineering best practices."
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "environment": [
+        "Python",
+        "Azure Databricks",
+        "Azure SQL Database",
+        "Azure Data Factory",
+        "PostgreSQL",
+        "Spark",
+        "REST APIs"
+      ],
+      "responsibilities": [
+        "Developed Python scripts within Azure Databricks notebooks to analyze customer transaction data for fraud patterns, writing Spark jobs that processed terabytes of data while ensuring all outputs complied with PCI-DSS regulations.",
+        "Designed a new feature store within Azure SQL Database to cache pre-computed customer behavior metrics, allowing real-time fraud scoring models to make faster decisions without querying the entire transaction history.",
+        "Installed and configured a local PostgreSQL instance on my development laptop to mirror the production schema, enabling rapid experimentation with new fraud detection algorithms without touching live banking data.",
+        "Surveyed the existing data pipeline built with Azure Data Factory, identifying a bottleneck in the daily batch job that fed data to the fraud models and proposing a more incremental update strategy to reduce processing time.",
+        "Troubleshot a performance issue where complex Spark joins in Databricks were running slowly, rewriting the queries to leverage broadcast joins and adjusting cluster configurations to better utilize the available worker memory.",
+        "Presented findings from fraud model experiments to business stakeholders, explaining technical concepts like feature importance and model precision in terms of reduced financial loss and improved customer security.",
+        "Authored documentation for the end-to-end data flow from core banking systems to the analytical models, creating diagrams that helped new team members understand the complex architecture and data lineage.",
+        "Requested additional logging to be added to the production scoring API, which later helped diagnose a subtle data drift issue where the model inputs gradually changed, leading to a scheduled retraining of the fraud detection system.",
+        "Checked the consistency of customer data across multiple source systems before major model training runs, writing validation scripts that flagged discrepancies for the data engineering team to resolve prior to analysis.",
+        "Volunteered to help the backend team optimize a few critical database queries for a customer profile service, applying my knowledge of SQL performance to reduce page load times for the internal banking dashboard."
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Oracle",
+        "Shell Scripting",
+        "SQL"
+      ],
+      "responsibilities": [
+        "Learned to build and schedule ETL jobs using Informatica PowerCenter, extracting data from client source systems and loading it into a centralized Hadoop data lake for consulting analytics projects across various industries.",
+        "Wrote Sqoop scripts to transfer data between relational Oracle databases and the HDFS storage layer, tuning the parallelism and batch sizes to complete the nightly data sync within the allocated time window for each client.",
+        "Studied the MapReduce programming model to understand how data was processed in the Hadoop cluster, later applying that knowledge to optimize a few slow-running jobs by improving the key distribution in the reduce phase.",
+        "Assisted senior consultants by preparing data extracts and summary reports from the Hadoop cluster, using Hive queries to aggregate information that supported their business analysis and recommendations for clients.",
+        "Followed detailed runbooks to monitor the health of the ETL pipelines, checking log files for errors and notifying the team lead if any Informatica workflows failed, ensuring data freshness for morning business reports.",
+        "Practiced writing efficient SQL queries against large Oracle databases, focusing on selective filtering and proper join ordering to minimize the load on source systems during the data extraction process.",
+        "Shadowed experienced engineers during client meetings, taking notes on new data requirements and learning how business questions from consulting engagements were translated into technical ETL specifications.",
+        "Gained familiarity with Linux server administration by helping to manage the development Hadoop cluster, performing basic tasks like restarting services and checking disk space usage for the growing data repository."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

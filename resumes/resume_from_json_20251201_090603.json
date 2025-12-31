@@ -1,0 +1,121 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Data Center Fiber Optic & Structured Cabling Technician",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "4142750857",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Hands-on Data Center Fiber Optic & Cabling Technician with 6+ years of experience working in Tier III colocation facilities supporting mission-critical fiber and copper infrastructure.",
+    "Expertise in MTP/MPO trunk installations, SC/LC connector terminations, and strict adherence to TIA-568 and TIA-942 data center standards.",
+    "Proficient in fiber inspection using VFL and OPM tools, cable dressing per bend radius requirements, and maintaining proper cable management in hot/cold aisle containment environments.",
+    "Known for delivering clean, well-documented installations while following OSHA safety protocols, MOPs (Method of Procedures), and client-specific SLAs in live production environments."
+  ],
+  "core_skills": [
+    "Fiber Optic Cabling (Single-mode & Multi-mode)",
+    "MTP/MPO Trunk Cable Installation",
+    "SC, LC, ST Connector Terminations",
+    "Pre-terminated Fiber Assemblies",
+    "CAT6/CAT6A Copper Cabling",
+    "TIA-568 & TIA-942 Standards Compliance",
+    "Cable Labeling (Brady, Brother Flag Labelers)",
+    "Cabling Matrix & Labeling Schema Implementation",
+    "Overhead Cable Tray, Ladder Rack & J-Hook Routing",
+    "Hot Aisle/Cold Aisle Containment Systems",
+    "Fiber Inspection (VFL, OPM, Fiber Microscope)",
+    "OTDR Testing & Loss Measurement",
+    "Bend Radius Compliance & Cable Management",
+    "Cross-Connect & Meet-Me Room (MMR) Installations",
+    "MOP (Method of Procedure) Execution",
+    "Data Center Change Management & Ticketing Systems"
+  ],
+  "daily_activities": [
+    "Inspecting fiber end-faces using fiber microscopes and cleaning with IPA wipes and click cleaners",
+    "Installing MTP/MPO and LC/SC fiber runs per customer cabling matrices and port assignments",
+    "Labeling cables on both A-end and B-end using Brady flag labelers per client labeling schemas",
+    "Routing fiber and CAT6 through overhead ladder racks, cable trays, and J-hooks while maintaining proper bend radius (10x cable diameter)",
+    "Performing fiber continuity testing with VFL (Visual Fault Locator) and power measurements with OPM",
+    "Troubleshooting connectivity issues, repatching cross-connects, and re-terminating damaged connectors",
+    "Dressing and Velcro-strapping cables in vertical and horizontal pathways to ensure proper airflow and aesthetics",
+    "Executing MOPs during scheduled maintenance windows in live production environments"
+  ],
+  "experience": [
+    {
+      "role": "Senior Fiber Optic Technician",
+      "client": "Equinix Data Center (IBX Facility)",
+      "duration": "Jan 2020 \u2013 Present",
+      "location": "USA",
+      "responsibilities": [
+        "Inspected fiber end-faces using Fluke fiber microscopes and cleaned connectors with IPA wipes and click cleaners to achieve <-40dB insertion loss per TIA standards.",
+        "Installed pre-terminated MTP/MPO trunk cables and LC/SC fiber patch cables according to customer cabling matrices, ensuring proper A-end to B-end connectivity for cross-connect orders.",
+        "Labeled fiber and CAT6 cables on both ends using Brady and Brother flag labelers, maintaining strict adherence to client-specific labeling schemas (e.g., rack.U.port format).",
+        "Routed cabling through overhead ladder racks, cable trays, and J-hooks while maintaining 10x bend radius compliance and proper cable management for optimal airflow in hot/cold aisle containment.",
+        "Performed fiber continuity testing using VFL (Visual Fault Locator) and power loss measurements with OPM (Optical Power Meter) to verify link quality before customer handoff.",
+        "Troubleshot and resolved fiber connectivity issues by re-terminating LC/SC connectors, repatching cross-connects in MMR (Meet-Me Room), and coordinating with NOC teams.",
+        "Secured and dressed fiber and CAT6 cabling using Velcro straps and cable management accessories to ensure clean, organized installations per Equinix aesthetic and operational standards.",
+        "Executed MOPs (Method of Procedures) during scheduled maintenance windows, coordinating with lead techs and following strict change management protocols to minimize downtime.",
+        "Assisted with cabinet builds, rack-and-stack operations, and infrastructure upgrades in live Tier III colocation environments supporting 99.982% uptime SLAs.",
+        "Maintained DCIM (Data Center Infrastructure Management) documentation and updated ticketing systems (ServiceNow) with accurate cable records and completion notes.",
+        "Followed OSHA safety protocols, hot aisle access procedures, ESD precautions, and customer escort policies while working in shared colocation spaces."
+      ],
+      "environment": [
+        "Single-mode & Multi-mode Fiber (OS2, OM3, OM4)",
+        "MTP/MPO Trunk Cables (12F, 24F)",
+        "LC, SC, ST Fiber Connectors",
+        "Pre-terminated Fiber Assemblies",
+        "CAT6/CAT6A Copper Cabling",
+        "Brady & Brother Flag Labelers",
+        "Fluke Fiber Microscopes",
+        "VFL (Visual Fault Locator)",
+        "OPM (Optical Power Meter)",
+        "Overhead Ladder Racks & Cable Trays",
+        "J-Hooks & D-Rings",
+        "Hot/Cold Aisle Containment",
+        "Cross-Connect & MMR (Meet-Me Room)",
+        "Cabling Matrices & Port Assignments",
+        "DCIM & ServiceNow Ticketing",
+        "TIA-568 & TIA-942 Standards"
+      ]
+    },
+    {
+      "role": "Structured Cabling Technician",
+      "client": "Digital Realty Data Center",
+      "duration": "Sep 2018 \u2013 Dec 2019",
+      "location": "India",
+      "responsibilities": [
+        "Supported structured cabling installations (fiber & CAT6) for data center network infrastructure projects across Tier II and Tier III colocation facilities.",
+        "Routed and secured fiber and copper cables through overhead cable trays, vertical and horizontal pathways, and conduit systems following TIA-568 standards and client specifications.",
+        "Conducted cable continuity testing using network cable testers (Fluke LinkRunner) and fiber testing tools to verify connectivity and signal integrity after installation.",
+        "Assisted with labeling and documentation of installed cables using flag labelers, maintaining accurate as-built records for client handover and future maintenance operations.",
+        "Performed cable dressing and Velcro-strapping in server racks and network cabinets, ensuring proper cable management, bend radius compliance, and accessibility for future modifications.",
+        "Supported cross-connect installations in MMR (Meet-Me Room) environments, coordinating with network engineers and following customer port assignment matrices.",
+        "Maintained organized cabling layouts in IDF/MDF (Intermediate/Main Distribution Frame) closets and colocation cages per data center standards."
+      ],
+      "environment": [
+        "Single-mode & Multi-mode Fiber",
+        "CAT6 Structured Cabling",
+        "Fluke LinkRunner Cable Tester",
+        "Fiber Testing Tools (VFL, OPM)",
+        "Server Racks & Network Cabinets",
+        "Cable Trays & Conduit Systems",
+        "MMR (Meet-Me Room)",
+        "IDF/MDF Closets",
+        "Network Documentation Systems",
+        "Tier II/III Colocation Facilities",
+        "TIA-568 Standards"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

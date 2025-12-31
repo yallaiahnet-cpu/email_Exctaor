@@ -1,0 +1,237 @@
+{
+  "name": "Singam Sanjana",
+  "title": ".NET Azure Application Developer",
+  "contact": {
+    "email": "sanjanar2704@gmail.com",
+    "phone": "+1 (314)-380-4211",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 5 years of experience in .NET Core development with Azure cloud integration across Finance, Healthcare, and Banking domains, focusing on API development and Azure service implementation.",
+    "Built RESTful APIs using C# and .NET Core for financial applications, integrated Azure Functions for serverless computing, and deployed solutions through Azure Pipelines to automate release cycles and reduce manual deployment time.",
+    "Worked with Azure Service Bus and Azure Event Grid to handle event-driven architectures in healthcare systems, ensuring HIPAA-compliant messaging patterns and reliable asynchronous communication between distributed services.",
+    "Configured Azure Logic Apps to automate business workflows in finance operations, connecting multiple third-party services and internal systems, which helped streamline approval processes and reduce processing delays.",
+    "Developed frontend components using ReactJS and JavaScript for .NET web applications, creating responsive user interfaces that interact with backend APIs and provide real-time data updates to end users.",
+    "Used Azure Monitor and Application Insights to track application performance and troubleshoot production issues, setting up custom alerts and dashboards that help identify bottlenecks and optimize response times.",
+    "Participated in code reviews and pair programming sessions with team members, helping unblock technical issues related to Azure service configurations, API authentication problems, and database connectivity challenges.",
+    "Migrated legacy .NET Framework applications to .NET Core, refactoring codebase to adopt modern design patterns and cloud-native architecture principles while maintaining backward compatibility with existing integrations.",
+    "Set up CI/CD pipelines using Azure DevOps and Azure Pipelines, automating build processes and implementing automated testing stages to catch bugs early and ensure consistent deployment across development and production environments.",
+    "Collaborated with business analysts to gather requirements for new features, translated functional specifications into technical designs, and implemented solutions using Azure services that align with regulatory requirements like SOX and GDPR."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Python"
+    ],
+    "Frameworks & Libraries": [
+      ".NET Core",
+      ".NET Framework",
+      "ASP.NET Core",
+      "Entity Framework Core",
+      "ReactJS"
+    ],
+    "Frontend Development": [
+      "ReactJS",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Redux"
+    ],
+    "Backend Development & API": [
+      ".NET Core",
+      "C#",
+      "RESTful APIs",
+      "Web API",
+      "Microservices Architecture"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Service Bus",
+      "Azure Event Grid",
+      "Azure App Services"
+    ],
+    "DevOps & CI/CD": [
+      "Azure Pipelines",
+      "Azure DevOps",
+      "Git",
+      "Docker",
+      "Azure Repos"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "Azure SQL Database",
+      "Cosmos DB",
+      "MongoDB"
+    ],
+    "Testing Tools": [
+      "xUnit",
+      "NUnit",
+      "Postman",
+      "Swagger"
+    ],
+    "Monitoring & Logging": [
+      "Azure Monitor",
+      "Application Insights",
+      "Azure Log Analytics"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "Azure Repos",
+      "GitHub",
+      "JIRA",
+      "Confluence"
+    ],
+    "Security & Compliance": [
+      "OAuth 2.0",
+      "JWT",
+      "Azure Key Vault",
+      "HIPAA",
+      "GDPR",
+      "SOX"
+    ],
+    "Additional Skills": [
+      "Agile Methodologies",
+      "Scrum",
+      "Azure Data Factory",
+      "Azure Synapse"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Finance Business Process Analyst",
+      "client": "Charles Schwab",
+      "duration": "2024-Sep - Present",
+      "location": "",
+      "responsibilities": [
+        "I work on building .NET Core APIs using C# for financial transaction processing systems, integrating Azure Service Bus for reliable message queuing between microservices and ensuring SOX compliance throughout the architecture.",
+        "Created Azure Functions to automate data validation workflows for trade settlements, triggered by Azure Event Grid events whenever new transaction records arrive, which reduced manual verification time and improved accuracy.",
+        "Implemented API endpoints using ASP.NET Core Web API that handle real-time stock quote requests from ReactJS frontend, applied caching strategies with Redis to minimize latency and handle around 5000 concurrent user sessions.",
+        "Fixed authentication issues in Azure Logic Apps that connect to third-party payment gateways, updated OAuth 2.0 token refresh logic and added retry policies to handle intermittent network failures during peak trading hours.",
+        "Used Azure Pipelines to deploy .NET Core applications across development and production environments, configured multi-stage YAML pipelines with automated testing gates and manual approval steps for production releases.",
+        "Maintained Azure SQL Database schemas for client portfolio data, wrote stored procedures and Entity Framework Core migrations to support new regulatory reporting requirements while preserving data integrity and audit trails.",
+        "Participated in daily standup meetings with finance operations team, helped unblock junior developers who struggled with Azure Key Vault integration and explained how to securely retrieve connection strings without hardcoding secrets.",
+        "Refactored legacy ASP.NET Framework code to .NET Core microservices architecture, broke down monolithic application into smaller services communicating through Azure Service Bus topics and subscriptions for better maintainability.",
+        "Configured Application Insights dashboards to monitor API performance metrics, set up custom telemetry tracking for critical business transactions and created alerts that notify team members when error rates exceed normal thresholds.",
+        "Documented technical specifications in Confluence for new Azure Functions implementations, included sequence diagrams and API contracts so other team members could understand message flow patterns and integration points.",
+        "Tested ReactJS components that display financial reports, verified JavaScript calculations match backend .NET Core computations, and fixed data binding issues where UI didn't reflect updated portfolio values correctly.",
+        "Attended weekly architecture review sessions where we discussed moving more workflows to Azure Logic Apps, evaluated trade-offs between serverless Azure Functions versus containerized services for different use cases."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core Web API",
+        "Azure",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure Service Bus",
+        "Azure Event Grid",
+        "Azure Pipelines",
+        "Azure SQL Database",
+        "Azure Key Vault",
+        "ReactJS",
+        "JavaScript",
+        "Entity Framework Core",
+        "Application Insights",
+        "Azure DevOps",
+        "Git",
+        "Confluence",
+        "JIRA",
+        "Redis",
+        "OAuth 2.0"
+      ]
+    },
+    {
+      "role": "Business Process Analyst \u2013 Finance Operations",
+      "client": "United Health Care",
+      "duration": "2022-Nov - 2024-Aug",
+      "location": "",
+      "responsibilities": [
+        "Designed RESTful APIs in .NET Core for healthcare claims processing system, handled patient data with HIPAA compliance requirements, integrated Azure Service Bus queues to decouple claim submission from validation workflows.",
+        "Assembled Azure Logic Apps workflows that automated insurance eligibility verification by calling external provider APIs, transformed response data formats, and stored results in Azure SQL Database for downstream processing.",
+        "Updated frontend ReactJS dashboards for healthcare providers to view claim status in real-time, connected JavaScript fetch calls to .NET Core backend APIs and added error handling for timeout scenarios during high traffic periods.",
+        "Migrated on-premise SQL Server databases to Azure SQL Database, planned the cutover strategy with minimal downtime, tested data consistency after migration and verified that Entity Framework Core connection strings worked correctly.",
+        "Deployed .NET Core microservices using Azure Pipelines with automated unit tests written in xUnit, ensured code coverage thresholds were met before allowing merges to master branch and caught several bugs early in development cycle.",
+        "Monitored application logs in Azure Log Analytics to troubleshoot production incidents, filtered through thousands of log entries to identify root causes when Azure Functions failed due to missing environment variables or permission issues.",
+        "Coordinated with DevOps team to containerize .NET Core applications using Docker, created Dockerfiles and pushed images to Azure Container Registry, though we eventually decided to use Azure App Services for simpler deployment model.",
+        "Validated HIPAA compliance for all Azure resources, enabled encryption at rest for Azure SQL Database, configured network security groups to restrict access, and documented security controls in compliance audit spreadsheets.",
+        "Resolved merge conflicts in Git when multiple developers modified the same C# service classes, reviewed pull requests for code quality and ensured naming conventions followed team standards before approving changes.",
+        "Generated weekly status reports in SharePoint showing API performance metrics and claim processing volumes, used SQL queries to extract data from Azure SQL Database and presented findings during stakeholder meetings."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Azure",
+        "Azure Logic Apps",
+        "Azure Service Bus",
+        "Azure SQL Database",
+        "Azure Pipelines",
+        "Azure Log Analytics",
+        "Azure Container Registry",
+        "Azure App Services",
+        "ReactJS",
+        "JavaScript",
+        "Entity Framework Core",
+        "Docker",
+        "xUnit",
+        "Git",
+        "SharePoint",
+        "SQL Server",
+        "HIPAA",
+        "Azure Key Vault"
+      ]
+    },
+    {
+      "role": "Business Analyst",
+      "client": "Mphasis",
+      "duration": "2020-Apr - 2022-Oct",
+      "location": "",
+      "responsibilities": [
+        "Developed .NET Core REST APIs for banking transaction processing, applied PCI-DSS security standards to protect credit card data, used C# to implement validation logic and integrated with Azure SQL Database for transaction storage.",
+        "Automated loan approval workflows using Azure Logic Apps, connected to internal credit scoring services and external credit bureaus, transformed XML responses to JSON format for easier consumption by .NET Core backend services.",
+        "Analyzed business requirements from banking clients, translated functional specs into technical designs for .NET Core applications, documented API contracts using Swagger and shared with frontend ReactJS developers for integration.",
+        "Established CI/CD pipelines in Azure DevOps for .NET Core projects, configured build triggers on Git commits, added automated testing stages using NUnit, and streamlined the deployment process to reduce manual errors.",
+        "Queried Azure SQL Database using SQL to generate compliance reports for SOX audits, joined multiple tables to consolidate transaction data, exported results to Excel spreadsheets and shared with finance compliance team.",
+        "Supported production troubleshooting when Azure Functions timed out processing large batch files, increased function timeout settings, optimized C# code by reducing database round trips, and verified improvements through Application Insights metrics."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Azure",
+        "Azure Logic Apps",
+        "Azure Functions",
+        "Azure SQL Database",
+        "Azure DevOps",
+        "Azure Pipelines",
+        "ReactJS",
+        "JavaScript",
+        "SQL Server",
+        "Python",
+        "Git",
+        "SharePoint",
+        "Swagger",
+        "NUnit",
+        "Application Insights",
+        "PCI-DSS",
+        "SOX"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, Bakersfield",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2022"
+    }
+  ],
+  "certifications": []
+}

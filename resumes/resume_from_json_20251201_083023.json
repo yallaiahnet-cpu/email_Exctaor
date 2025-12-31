@@ -1,0 +1,352 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Healthcare Interoperability Python Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in healthcare interoperability, clinical data exchange systems, and building EHR integration pipelines using HL7 v2 and FHIR standards across Insurance and Banking domains.",
+    "Delivered HL7 v2 message parsing solutions for Epic and Cerner integrations, ensuring SNOMED CT and LOINC vocabulary mapping accuracy for ADT and ORU message workflows in compliance with HIPAA regulations.",
+    "Constructed FHIR-based RESTful APIs using FastAPI framework, connecting clinical systems with bi-directional data exchange capabilities for patient demographics, lab results, and medication orders across healthcare networks.",
+    "Integrated Rhapsody integration engine workflows with PostgreSQL databases, transforming XML and JSON payloads from multiple EHR systems while maintaining ICD-10 coding standards for clinical documentation accuracy.",
+    "Resolved complex HL7 message parsing errors in production environments by debugging Python ETL pipelines, collaborating with clinical teams to understand workflow requirements and translate them into technical specifications.",
+    "Configured RAG pipelines using LangChain and vector embeddings for clinical document retrieval, enabling healthcare providers to search patient records across disparate EHR systems with semantic accuracy and HIPAA compliance.",
+    "Established MCP-based multi-agent systems for automating clinical data validation, where agent-to-agent communication verified SNOMED CT terminology consistency across insurance claim processing workflows in AWS environments.",
+    "Monitored RESTful FHIR API performance metrics using Prometheus and Grafana, identifying bottlenecks in data exchange transactions between Epic installations and third-party clinical applications during peak hospital hours.",
+    "Processed HL7 v2 ORM and ORU messages through Python-based ETL pipelines, mapping laboratory test codes to LOINC standards while ensuring data accuracy for downstream analytics systems used by insurance underwriters.",
+    "Collaborated with DevOps teams to deploy containerized FastAPI applications on AWS ECS, setting up CI/CD pipelines with GitHub Actions for continuous integration of HL7 and FHIR interface updates across staging environments.",
+    "Implemented OAuth2 authentication mechanisms for securing healthcare APIs, ensuring JWT token validation complied with HIPAA security standards when exchanging patient data between clinical and insurance billing systems.",
+    "Attended weekly meetings with clinical stakeholders to review EHR integration requirements, documenting API mapping specifications for translating HL7 v2 segments into FHIR resources for patient care coordination platforms.",
+    "Troubleshot XML parsing failures in Cerner HL7 message feeds by analyzing PID and OBR segments, correcting field delimiter issues that caused downstream data validation errors in claims adjudication workflows.",
+    "Participated in code reviews for Python-based FHIR resource builders, ensuring adherence to FHIR R4 specification standards and suggesting improvements for error handling in asynchronous API calls using asyncio libraries.",
+    "Migrated legacy HL7 v2 interfaces to cloud-native architectures on AWS Lambda, refactoring synchronous message processing logic into event-driven patterns that improved throughput for real-time clinical data exchange scenarios.",
+    "Maintained documentation for API endpoints and data transformation logic, creating technical guides that explained how SNOMED CT concepts mapped to internal healthcare vocabularies for new team members joining integration projects.",
+    "Experimented with LangGraph frameworks for building proof-of-concept multi-agent workflows, initially struggled with agent orchestration patterns but eventually created a working prototype for clinical decision support automation.",
+    "Validated FHIR resource payloads against HL7 specification schemas using Python validation libraries, catching structural errors before data reached production EHR systems to prevent patient safety issues and regulatory violations."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Bash",
+      "Java",
+      "Scala"
+    ],
+    "Healthcare Interoperability": [
+      "HL7 v2",
+      "FHIR",
+      "RESTful FHIR APIs",
+      "Epic",
+      "Cerner",
+      "Rhapsody Integration Engine",
+      "SNOMED CT",
+      "LOINC",
+      "ICD-10",
+      "EHR Integrations",
+      "ADT Workflows",
+      "ORU Messages",
+      "ORM Messages"
+    ],
+    "Frameworks & Tools": [
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "RAG Pipelines",
+      "MCP",
+      "Multi-Agent Systems",
+      "Vector Embeddings",
+      "Crew AI",
+      "Autogen"
+    ],
+    "Data Formats & Protocols": [
+      "JSON",
+      "XML",
+      "HL7 v2 Message Parsing",
+      "FHIR Resources",
+      "RESTful APIs"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "Oracle",
+      "SQL",
+      "MySQL"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "AWS Lambda",
+      "AWS ECS",
+      "AWS S3",
+      "AWS RDS",
+      "Azure",
+      "Azure Data Factory"
+    ],
+    "Security & Compliance": [
+      "HIPAA",
+      "OAuth2",
+      "JWT",
+      "Healthcare Data Security"
+    ],
+    "DevOps & CI/CD": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "Jenkins",
+      "Git",
+      "CI/CD Pipelines"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "ETL Pipelines",
+      "Data Transformation",
+      "Apache Spark"
+    ],
+    "Monitoring & Logging": [
+      "Prometheus",
+      "Grafana",
+      "CloudWatch"
+    ],
+    "API Development": [
+      "RESTful API Development",
+      "API Integration",
+      "Bi-directional Data Exchange",
+      "Asyncio"
+    ],
+    "Testing & Validation": [
+      "Pytest",
+      "Unit Testing",
+      "FHIR Validation Tools",
+      "HL7 Validation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Create HL7 v2 parsing modules in Python to extract patient demographics from Epic ADT messages, mapping PID segments to insurance claim fields while ensuring SNOMED CT terminology consistency across underwriting workflows.",
+        "Develop FHIR-based RESTful APIs using FastAPI framework for bi-directional clinical data exchange between insurance systems and healthcare providers, implementing OAuth2 security to comply with HIPAA regulations in AWS environments.",
+        "Configure LangGraph multi-agent workflows as proof-of-concept systems where agents validate insurance eligibility by querying EHR FHIR endpoints, coordinating agent-to-agent communication patterns to retrieve patient coverage information.",
+        "Build RAG pipelines with vector embeddings to enable semantic search across clinical documents, helping claims adjusters find relevant medical records from PostgreSQL databases when reviewing complex insurance authorization requests.",
+        "Deploy containerized Python applications on AWS ECS using Docker, setting up CI/CD pipelines with GitHub Actions to automate testing and deployment of HL7 interface updates for real-time claims processing workflows.",
+        "Transform XML payloads from Cerner ORM messages into JSON format for downstream analytics, applying ICD-10 code mappings that insurance actuaries use to calculate risk scores for policy underwriting decisions.",
+        "Attend daily standup meetings with clinical and insurance teams to discuss EHR integration challenges, translating complex healthcare workflows into technical requirements for API development and data exchange specifications.",
+        "Monitor FHIR API performance using Prometheus and Grafana dashboards, identifying latency issues when Epic systems send large volumes of lab results during peak hours and optimizing database queries to improve response times.",
+        "Debug production failures in HL7 v2 message processing pipelines by analyzing MSH and PV1 segments, fixing field parsing errors that caused claim denials due to incorrect patient location codes in insurance billing systems.",
+        "Implement MCP-based agent orchestration for automating clinical data validation tasks, where multiple agents verify LOINC codes in laboratory results before forwarding data to insurance fraud detection systems on AWS Lambda.",
+        "Review Python code with team members during weekly sessions, suggesting improvements for error handling in asynchronous FHIR resource retrieval and ensuring adherence to healthcare interoperability standards in FastAPI implementations.",
+        "Process large batches of HL7 ORU messages using PySpark ETL pipelines, transforming laboratory test results into FHIR Observation resources that insurance companies use for pre-authorization decisions in real-time scenarios.",
+        "Collaborate with DevOps engineers to troubleshoot Kubernetes pod failures in production, examining application logs to identify connection issues between Rhapsody integration engine and PostgreSQL databases during peak load periods.",
+        "Migrate legacy XML-based HL7 interfaces to cloud-native architectures on AWS, refactoring synchronous message handling logic into event-driven patterns that improve throughput for insurance claim processing workflows.",
+        "Document API endpoint specifications and data mapping rules in technical guides, explaining how Epic FHIR resources translate to internal insurance data models for new developers joining the interoperability team.",
+        "Experiment with LangChain frameworks for building intelligent routing systems, initially struggled with prompt engineering but eventually created a working prototype that classifies incoming HL7 messages by clinical urgency level."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "HL7 v2",
+        "FHIR",
+        "Epic",
+        "Cerner",
+        "RESTful APIs",
+        "JSON",
+        "XML",
+        "PostgreSQL",
+        "AWS",
+        "AWS Lambda",
+        "AWS ECS",
+        "Docker",
+        "Kubernetes",
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Embeddings",
+        "MCP",
+        "Multi-Agent Systems",
+        "PySpark",
+        "Rhapsody Integration Engine",
+        "SNOMED CT",
+        "LOINC",
+        "ICD-10",
+        "OAuth2",
+        "HIPAA",
+        "GitHub Actions",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Constructed HL7 v2 interface engines using Python and FastAPI to parse patient medication orders from Epic ORM messages, mapping RXO segments to pharmaceutical inventory systems while maintaining HIPAA compliance for drug distribution tracking.",
+        "Designed FHIR RESTful APIs that retrieved patient medical histories from Cerner EHR systems, transforming XML responses into JSON payloads for clinical trial enrollment applications where researchers evaluated participant eligibility criteria.",
+        "Integrated LangChain-based RAG systems with PostgreSQL vector stores, enabling medical affairs teams to search adverse event reports using semantic queries that matched SNOMED CT clinical terminology across thousands of patient safety documents.",
+        "Automated clinical data validation workflows using LangGraph multi-agent frameworks, where coordinated agents verified laboratory result accuracy by cross-referencing LOINC codes against reference ranges before forwarding data to regulatory reporting systems.",
+        "Deployed Python-based ETL pipelines on AWS Lambda for processing HL7 ADT messages, extracting patient demographic updates from hospital admission events and synchronizing data with pharmaceutical CRM systems for sales territory management.",
+        "Troubleshot XML parsing failures in Rhapsody integration engine workflows by examining OBX segments from laboratory HL7 messages, correcting delimiter mismatches that prevented accurate test result delivery to clinical research databases.",
+        "Participated in cross-functional meetings with clinical operations and IT teams to define EHR integration requirements, documenting how FHIR Observation resources mapped to internal drug safety databases for pharmacovigilance reporting.",
+        "Optimized FHIR API query performance by adding database indexes on PostgreSQL tables storing patient clinical data, reducing response times when medical science liaisons searched for specific ICD-10 diagnosis codes in large datasets.",
+        "Configured OAuth2 authentication for securing healthcare APIs exchanging sensitive patient information between Johnson & Johnson clinical trial systems and external hospital EHRs, ensuring JWT token validation met HIPAA security standards.",
+        "Collaborated with AWS DevOps teams to containerize FastAPI applications using Docker, setting up CI/CD pipelines that automatically tested HL7 message transformations before deploying updates to production EHR integration environments.",
+        "Reviewed Python code for FHIR resource builders during peer sessions, suggesting improvements for handling optional fields in Patient and MedicationRequest resources when parsing incomplete data from legacy Cerner installations.",
+        "Processed HL7 v2 ORU messages containing pathology reports through Python ETL workflows, standardizing laboratory test names to LOINC terminology that clinical trial coordinators used for identifying eligible study participants.",
+        "Attended training sessions on Crew AI and Autogen frameworks for multi-agent system development, exploring how agent orchestration patterns could automate clinical document classification tasks in pharmaceutical safety monitoring workflows.",
+        "Maintained technical documentation explaining HL7 segment structures and FHIR resource mappings, creating reference guides that helped new team members understand how Epic ADT messages translated to internal patient tracking systems."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "HL7 v2",
+        "FHIR",
+        "Epic",
+        "Cerner",
+        "RESTful APIs",
+        "JSON",
+        "XML",
+        "PostgreSQL",
+        "AWS",
+        "AWS Lambda",
+        "Docker",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Vector Embeddings",
+        "Multi-Agent Systems",
+        "Crew AI",
+        "Autogen",
+        "Rhapsody Integration Engine",
+        "SNOMED CT",
+        "LOINC",
+        "ICD-10",
+        "OAuth2",
+        "HIPAA",
+        "ETL Pipelines",
+        "CI/CD",
+        "GitHub"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Parsed HL7 v2 ADT messages from state hospital systems using Python libraries, extracting patient registration data from PID and PV1 segments to populate Maine's public health surveillance databases with accurate demographic information.",
+        "Generated FHIR-compliant JSON resources from legacy XML-based EHR exports, enabling interoperability between rural healthcare clinics and the state's centralized patient information exchange system while ensuring HIPAA compliance for Medicaid enrollees.",
+        "Queried PostgreSQL databases containing clinical encounter records to build ETL pipelines that transformed HL7 ORM laboratory orders into standardized LOINC-coded test requests for public health reporting to CDC surveillance systems.",
+        "Validated incoming HL7 messages against specification schemas using Python validation tools, catching structural errors in MSH and OBR segments before data entered production systems to prevent patient safety issues in emergency departments.",
+        "Connected Azure Data Factory workflows with Cerner FHIR endpoints to extract immunization records, mapping SNOMED CT vaccine codes to state registry formats that public health officials used for tracking childhood vaccination compliance rates.",
+        "Examined production logs when RESTful API calls to Epic systems failed during nightly batch processes, identifying timeout issues caused by network latency between state data centers and hospital EHR installations in remote locations.",
+        "Joined weekly planning meetings with Maine DHHS stakeholders to discuss EHR integration priorities, translating public health program requirements into technical specifications for HL7 interface development and FHIR resource mapping.",
+        "Refactored legacy Python code that processed XML payloads from laboratory information systems, improving error handling to gracefully manage malformed HL7 messages sent by smaller rural hospitals with outdated interface engines.",
+        "Tested FHIR API endpoints using Postman to verify that Patient and Observation resources returned correct ICD-10 diagnosis codes when queried by case managers coordinating care for Medicaid beneficiaries with chronic conditions.",
+        "Wrote technical documentation explaining how HL7 v2 ORU messages from hospital labs mapped to FHIR DiagnosticReport resources, helping state IT staff understand data transformation logic when supporting regional health information exchanges.",
+        "Assisted Azure DevOps teams with container deployment issues when FastAPI applications failed health checks in Kubernetes clusters, analyzing application startup logs to identify missing environment variables for database connection strings.",
+        "Synchronized patient demographic updates between disparate EHR systems by processing HL7 ADT-A08 messages, ensuring that changes in patient addresses or insurance coverage propagated correctly across Maine's healthcare provider network."
+      ],
+      "environment": [
+        "Python",
+        "FastAPI",
+        "HL7 v2",
+        "FHIR",
+        "RESTful APIs",
+        "JSON",
+        "XML",
+        "PostgreSQL",
+        "Azure",
+        "Azure Data Factory",
+        "Cerner",
+        "Epic",
+        "SNOMED CT",
+        "LOINC",
+        "ICD-10",
+        "HIPAA",
+        "ETL Pipelines",
+        "Kubernetes",
+        "DevOps"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Extracted customer transaction records from Oracle databases using SQL queries, building Python ETL pipelines that transformed financial data into JSON format for real-time fraud detection models analyzing payment card activity patterns.",
+        "Consumed RESTful APIs from third-party credit bureaus to retrieve customer credit scores, parsing XML responses and loading data into PostgreSQL tables that risk analysts used for loan underwriting decisions in commercial banking operations.",
+        "Applied data validation rules to incoming payment files in XML format, ensuring PCI-DSS compliance by verifying that sensitive cardholder information was properly encrypted before processing transactions through Azure-based payment gateways.",
+        "Analyzed production failures in nightly batch jobs that processed wire transfer requests, examining Python error logs to identify issues with malformed XML messages from legacy banking systems that caused transaction settlement delays.",
+        "Prepared technical documentation for RESTful API integrations with merchant payment processors, explaining data field mappings and authentication requirements for developers implementing new point-of-sale terminal connections.",
+        "Tested API endpoints for mobile banking applications using Postman, validating that JSON responses contained correct account balance information and transaction histories when customers queried their financial data through smartphone apps.",
+        "Collaborated with compliance teams during audits to demonstrate how data pipelines maintained PCI-DSS standards when handling credit card numbers, showing encryption methods used in Python code for protecting sensitive payment information.",
+        "Loaded historical transaction data from Azure Blob Storage into PostgreSQL analytics databases, creating data models that fraud investigators used to identify suspicious account activity patterns across millions of daily banking transactions.",
+        "Investigated performance bottlenecks in RESTful API calls to external payment networks, working with network engineers to diagnose latency issues that caused transaction approval delays during peak shopping hours on major holidays.",
+        "Supported Azure DevOps engineers when deploying Python-based data processing applications to cloud environments, troubleshooting configuration errors in Docker containers that prevented proper database connectivity in production systems."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "PostgreSQL",
+        "RESTful APIs",
+        "JSON",
+        "XML",
+        "Azure",
+        "Azure Blob Storage",
+        "ETL Pipelines",
+        "PCI-DSS",
+        "Docker",
+        "DevOps"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned Hadoop MapReduce frameworks to process large customer data files from retail clients, writing Python scripts that transformed raw transaction logs into structured formats for business intelligence reporting dashboards.",
+        "Used Informatica PowerCenter to build ETL workflows that extracted sales data from Oracle databases, applying data quality rules and loading cleansed records into data warehouse tables for analytics teams.",
+        "Transferred files between on-premise servers and Hadoop clusters using Sqoop commands, scheduling nightly data ingestion jobs that moved customer demographic information from SQL databases into HDFS for big data processing.",
+        "Studied Python programming fundamentals through online courses while working on data engineering tasks, gradually improving skills in data manipulation and automation of repetitive file processing operations.",
+        "Verified data accuracy in ETL pipelines by writing SQL queries that compared record counts between source databases and destination tables, identifying discrepancies that needed investigation before releasing data to business users.",
+        "Attended team meetings where senior engineers explained MapReduce job optimization techniques, taking notes on best practices for reducing data processing times when handling large volumes of customer transaction records.",
+        "Worked closely with database administrators to understand table schemas and relationships, gaining knowledge about how retail sales data flowed through various systems before reaching final reporting applications.",
+        "Asked questions during code reviews to better understand error handling patterns in Python ETL scripts, learning how experienced developers managed exceptions when processing malformed data files from external sources."
+      ],
+      "environment": [
+        "Python",
+        "Hadoop",
+        "MapReduce",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Oracle",
+        "SQL",
+        "HDFS",
+        "ETL Pipelines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

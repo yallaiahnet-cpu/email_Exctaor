@@ -1,0 +1,294 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI & Data Intelligence Engineer",
+  "contact": {
+    "email": "[yonteru.dev.ai@gmail.com](mailto:yonteru.dev.ai@gmail.com)",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "[https://www.linkedin.com/in/yalleshaiengineer/](https://www.linkedin.com/in/yalleshaiengineer/)",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI-driven data analytics, LLM development, and automation, leveraging Snowflake Cortex, Python, and RAG-based chatbots to optimize enterprise workflows in Insurance, Healthcare, and Banking environments.",
+    "Specializing in Snowpark and Cortex integration, I\u2019ve designed intelligent automation frameworks that enhanced data quality and governance across multi-source relational databases like Snowflake, Oracle, and PostgreSQL in regulated sectors.",
+    "With hands-on expertise in building RAG-based conversational agents using LangChain, LangGraph, and MCP, I\u2019ve deployed chatbots that improved customer service accuracy and reduced manual intervention for Insurance claim processing.",
+    "In Healthcare analytics, I used Snowflake Intelligence and Python-driven automation to enhance HIPAA-compliant data pipelines, ensuring precision and reliability while integrating AI models into clinical data systems.",
+    "My experience with AWS Lambda and Snowpark helped optimize compute-intensive data transformation workflows, improving overall performance while aligning with enterprise infrastructure standards.",
+    "Leveraging Informatica for data management, I built automated ETL pipelines ensuring clean, validated data flows that fueled LLM training for Insurance policy prediction and claims automation.",
+    "I developed secure RESTful APIs connecting Cortex-based models to front-end applications, ensuring scalable chatbot deployments while maintaining strict IAM and data security protocols within AWS.",
+    "Using Power Automate and Python, I implemented task automation across insurance data validation workflows, reducing manual verification errors while enhancing real-time operational insight.",
+    "With LangChain and Snowpark integration, I built intelligent retrieval systems to enable context-aware chatbots capable of summarizing large datasets, thus improving agent decision-making speed.",
+    "Deployed containerized AI solutions via Docker and Jenkins pipelines, ensuring reliable CI/CD automation and version-controlled LLM model updates across multiple microservice environments.",
+    "Implemented data governance policies for Snowflake data warehouses to ensure data integrity, lineage, and compliance with Insurance and Banking audit requirements.",
+    "Worked extensively with SQL and Snowflake Cortex for advanced analytics use cases, including customer risk profiling and trend forecasting for Insurance clients.",
+    "Collaborated with cross-functional teams\u2014data engineers, AI architects, and business analysts\u2014to align AI solution delivery with evolving business goals and compliance frameworks.",
+    "Engineered RAG pipelines integrating Snowflake, LangChain, and OpenAI APIs to deliver contextually accurate chatbot responses, enhancing data-driven automation and user trust.",
+    "Developed Python-based automation scripts for data reconciliation between source systems and Cortex-driven analytics dashboards, significantly improving data quality metrics.",
+    "Implemented quality assurance functions for AI models, including validation, testing, and monitoring, ensuring reliable model performance across different business use cases.",
+    "Contributed to establishing infrastructure standards for AI data pipelines, aligning deployment processes with enterprise cloud governance and automation standards.",
+    "Continuously exploring prompt optimization and fine-tuning methodologies to improve LLM contextual understanding, enhancing model accuracy in Insurance, Healthcare, and Banking domains."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Java",
+      "TypeScript",
+      "Bash"
+    ],
+    "AI & LLM Development": [
+      "Snowflake Cortex",
+      "LLMs",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "RAG Chatbots",
+      "OpenAI APIs",
+      "Claude",
+      "LlamaIndex"
+    ],
+    "Data Engineering & Pipelines": [
+      "Snowpark",
+      "Informatica",
+      "Airflow",
+      "dbt",
+      "AWS Glue",
+      "ETL Automation",
+      "Power Automate"
+    ],
+    "Cloud Platforms": [
+      "AWS (Lambda, S3, SageMaker, Redshift, EC2, RDS)",
+      "Azure Functions",
+      "GCP BigQuery"
+    ],
+    "Databases": [
+      "Snowflake",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "Automation & Integration": [
+      "Power Automate",
+      "Python Scripting",
+      "API Development",
+      "RESTful Web Services"
+    ],
+    "Version Control & CI/CD": [
+      "Git",
+      "GitHub",
+      "Jenkins",
+      "GitHub Actions"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Streamlit",
+      "Gradio"
+    ],
+    "Data Quality & Governance": [
+      "Informatica",
+      "Data Validation",
+      "Data Governance Frameworks",
+      "Data Management Standards"
+    ],
+    "Visualization & Reporting": [
+      "Power BI",
+      "Tableau",
+      "Seaborn",
+      "Matplotlib",
+      "Plotly"
+    ],
+    "Security & Compliance": [
+      "IAM (AWS)",
+      "API Security",
+      "OAuth",
+      "Data Privacy",
+      "Infrastructure Standards"
+    ],
+    "Monitoring & QA": [
+      "CloudWatch",
+      "Azure Monitor",
+      "Model Validation",
+      "Quality Assurance Functions"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Snowflake Cortex, tackled fragmented Insurance claim data pipelines by integrating AI-driven automation; implemented dynamic data models that streamlined validation and improved claims accuracy through Snowpark-based solutions.",
+        "Applied LangChain and RAG-based Chatbot frameworks to automate customer inquiries in Insurance; resolved data retrieval delays by introducing semantic search over Snowflake Cortex datasets, boosting customer engagement.",
+        "Leveraged Python for intelligent data reconciliation scripts, minimizing duplicate records and enhancing audit readiness in compliance with Insurance data governance standards.",
+        "Integrated Power Automate workflows to simplify underwriter task automation, linking policy evaluation systems to Cortex intelligence APIs and reducing manual workload significantly.",
+        "Utilized Informatica to improve Insurance data ingestion pipelines; automated data cleansing routines aligned with regulatory standards, boosting data quality for AI-driven decision-making.",
+        "Configured AWS Lambda functions to trigger Snowflake data updates in real-time, ensuring synchronization between core Insurance systems and Cortex analytics modules.",
+        "Employed SQL to analyze policyholder trends; automated the reporting pipeline with Snowpark and Python, supporting predictive analytics dashboards used by claim investigators.",
+        "Built containerized chatbot applications using Docker, integrating RAG pipelines via LangGraph for scalable and modular Insurance conversational systems.",
+        "Designed RESTful APIs to connect Cortex-based AI services with Insurance portal apps, improving response speed and customer satisfaction for claim status queries.",
+        "Deployed Jenkins pipelines for LLM model CI/CD, reducing manual release overhead while ensuring reliable delivery of updates for AI-driven Insurance workflows.",
+        "Collaborated in troubleshooting complex Cortex integration issues; debugged JSON serialization in Snowpark dataframes during real-time Insurance data streaming sessions.",
+        "Implemented MLflow tracking for Insurance chatbot fine-tuning experiments, monitoring Cortex model versions to ensure consistency and regulatory compliance.",
+        "Defined infrastructure standards for Insurance AI data automation; worked closely with cloud architects to align Cortex deployment within enterprise AWS architecture.",
+        "Validated data quality using Informatica Data Quality services; established QA checkpoints ensuring trustworthy Insurance claim analysis pipelines.",
+        "Worked with analysts and AI engineers in designing Cortex-powered dashboards visualizing claim fraud risk indicators, improving detection rates and audit outcomes.",
+        "Adopted LangChain and Cortex-driven prompt optimization, iteratively improving Insurance chatbot contextual accuracy during customer engagement sessions."
+      ],
+      "environment": [
+        "Snowflake Cortex",
+        "Python",
+        "Snowpark",
+        "RAG Chatbots",
+        "LangChain",
+        "LangGraph",
+        "AWS Lambda",
+        "Informatica",
+        "Power Automate",
+        "SQL",
+        "Docker",
+        "Jenkins",
+        "MLflow"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Cortex-integrated pipelines for clinical data ingestion using Snowpark; improved data timeliness for healthcare analytics under HIPAA compliance requirements.",
+        "Applied Python and LangChain to build context-aware RAG chatbots assisting medical teams in accessing regulated trial documentation securely within AWS environment.",
+        "Used Informatica for ETL automation to cleanse and integrate large patient datasets into Snowflake, enhancing precision for machine learning analytics on health outcomes.",
+        "Implemented Snowflake Cortex to automate insights extraction from unstructured medical records; improved efficiency of clinical research review processes significantly.",
+        "Leveraged Power Automate and AWS Lambda to trigger healthcare data synchronization jobs, ensuring real-time updates between Cortex intelligence and EHR systems.",
+        "Built REST APIs integrating healthcare analytics with Cortex models; ensured secured access using OAuth and IAM protocols aligned with HIPAA data protection standards.",
+        "Utilized SQL and Snowflake for developing data marts supporting AI-driven drug efficiency predictions; reduced manual intervention in analytics workflows.",
+        "Conducted LLM fine-tuning experiments using LangChain, optimizing prompt design to enhance accuracy in medical query responses for RAG-based assistants.",
+        "Deployed Docker containers with Cortex-driven models ensuring isolated runtime environments for different healthcare model workloads within AWS ecosystem.",
+        "Collaborated in QA testing of Cortex pipelines; performed debugging and validation during live deployments, ensuring compliance with FDA and HIPAA standards.",
+        "Integrated MLflow tracking for healthcare model experiments, maintaining version control for Cortex model iterations supporting clinical data governance.",
+        "Applied Informatica DQ tools for healthcare data validation ensuring consistent input quality across all Cortex-driven analytics workflows.",
+        "Participated in cross-functional meetings with clinical analysts and cloud engineers to align AI deliverables with evolving research data needs.",
+        "Explored new ways of improving chatbot contextual relevance through LangGraph optimizations, contributing to user trust and clinical workflow efficiency."
+      ],
+      "environment": [
+        "Snowflake Cortex",
+        "Python",
+        "Snowpark",
+        "LangChain",
+        "RAG Chatbots",
+        "AWS Lambda",
+        "Informatica",
+        "Power Automate",
+        "SQL",
+        "Docker",
+        "MLflow",
+        "OAuth"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented Snowpark data transformation logic for healthcare analytics; improved public health data processing accuracy under strict HIPAA compliance.",
+        "Utilized Python and Informatica to automate healthcare record ingestion pipelines, minimizing delays and improving data freshness for analytics models.",
+        "Configured Azure Functions for real-time data validation; ensured secure integration between Snowflake datasets and healthcare reporting systems.",
+        "Built RAG-based chatbot prototypes using LangChain for patient query assistance, enabling contextual answers while preserving HIPAA data confidentiality.",
+        "Developed SQL-driven healthcare dashboards within Snowflake; enhanced operational visibility into patient admission and discharge trends.",
+        "Applied Power Automate workflows for automating healthcare record validation tasks, saving manual hours during audit compliance checks.",
+        "Debugged Snowflake query performance bottlenecks; optimized query structures reducing latency in Azure-hosted Cortex deployments.",
+        "Integrated data quality metrics via Informatica tools; automated alerts for out-of-range healthcare data, ensuring regulatory adherence.",
+        "Used Docker containers to manage model deployment; simplified LLM update rollouts for clinical support chatbots across multiple healthcare sites.",
+        "Worked with QA teams in performing data reconciliation and version tracking using MLflow, maintaining consistent model performance audits.",
+        "Conducted prompt refinement tests in LangChain, gradually improving chatbot precision for patient service interactions.",
+        "Collaborated in cross-departmental sessions to define data pipeline standards aligning Cortex analytics with healthcare governance structures."
+      ],
+      "environment": [
+        "Snowflake",
+        "Snowpark",
+        "LangChain",
+        "RAG Chatbots",
+        "Azure Functions",
+        "Python",
+        "SQL",
+        "Informatica",
+        "Power Automate",
+        "Docker",
+        "MLflow"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Applied Python with Snowflake to design risk analytics models, improving fraud detection accuracy within PCI-compliant banking systems.",
+        "Used Informatica ETL pipelines to automate data transfer between Oracle and Snowflake, ensuring seamless integration for model training.",
+        "Developed SQL scripts to perform financial transaction analysis; optimized reporting pipelines for faster regulatory submissions.",
+        "Configured Azure Functions to trigger Cortex model updates automatically for fraud risk scoring pipelines, ensuring data recency.",
+        "Implemented Power Automate workflows to synchronize customer KYC verification data, improving audit accuracy and reducing processing time.",
+        "Designed REST APIs for real-time fraud alerts integrated with Cortex AI models, ensuring compliance and faster operational response.",
+        "Built Docker-based data science environments for reproducible model experiments and financial data validation.",
+        "Participated in code reviews, debugging data inconsistencies between Snowflake and transaction systems, ensuring audit traceability.",
+        "Worked with QA teams to establish validation steps for model output verification, maintaining accuracy and regulatory integrity.",
+        "Explored prompt-based model tuning with LangChain for financial data categorization, enhancing natural language interpretation for compliance summaries."
+      ],
+      "environment": [
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Informatica",
+        "Power Automate",
+        "Azure Functions",
+        "Docker",
+        "LangChain"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built Hadoop-based data pipelines for Consulting analytics; handled initial learning curve while optimizing Sqoop imports for structured data sources.",
+        "Used Informatica PowerCenter to automate ETL jobs across client data environments; improved transformation accuracy within legacy systems.",
+        "Applied Hive queries to manage structured data extractions; refined SQL joins to ensure accuracy in report generation for Consulting clients.",
+        "Developed Python scripts for data validation; resolved missing record challenges by integrating rule-based checks into Hadoop workflows.",
+        "Worked with cross-functional teams during code reviews and data mapping sessions, learning to handle production ETL failures efficiently.",
+        "Deployed data migration scripts between Hadoop and relational stores; ensured schema alignment across multiple client databases.",
+        "Debugged daily data load failures in Informatica jobs; gradually built confidence in optimizing ETL performance.",
+        "Supported QA teams in validating data pipeline outcomes, ensuring delivery quality aligned with Consulting data governance policies."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Python",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

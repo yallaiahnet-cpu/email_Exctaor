@@ -1,0 +1,300 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "AI Governance and Responsible AI Lead",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI Governance, Technology Risk, and Responsible AI frameworks, with deep specialization across Healthcare, Insurance, Government, and Finance sectors, integrating regulatory compliance like HIPAA, GDPR, and AI-specific standards.",
+    "Leveraging AI governance framework design and Model Risk Management (MRM) to establish comprehensive Responsible AI guidelines and ethical AI standards, ensuring alignment with EU AI Act and NIST AI RMF across complex, multi-domain enterprise environments.",
+    "Orchestrating the entire AI model lifecycle governance from design and development through validation, deployment, monitoring, and retirement, embedding controls directly into CI/CD pipelines for proactive risk management in technology-driven settings.",
+    "Executing AI Risk Impact Assessments (AI RIA) and bias audits to identify and mitigate risks related to fairness, transparency, explainability, security, and privacy, particularly within sensitive healthcare data environments requiring HIPAA adherence.",
+    "Implementing operational standards for AI systems and governance KPIs, developing dashboards for model health, fairness metrics, and operational performance to facilitate executive reporting and audit readiness for regulatory examinations.",
+    "Designing and deploying monitoring frameworks for model performance and compliance, incorporating drift detection mechanisms and establishing incident response protocols specifically tailored for AI systems in production.",
+    "Collaborating cross-functionally with data science, engineering, legal, compliance, privacy, and security teams to translate technical AI/ML concepts into enforceable policies and business-aligned controls for steering committees.",
+    "Developing and leading Responsible AI training programs and regulatory awareness initiatives to foster a culture of ethical AI usage, ensuring organizational-wide understanding of evolving AI policies and controls.",
+    "Applying AI/ML concepts and data lifecycle principles to construct robust data governance frameworks that address privacy-by-design and cybersecurity fundamentals, supporting compliance with DPDP Act and industry regulations.",
+    "Utilizing ISO/IEC 42001 (AI Management System) principles to formalize AI management practices, conducting governance issue investigations and implementing remediation plans to strengthen overall AI risk posture.",
+    "Employing strong stakeholder management and communication skills to influence AI governance adoption, translating complex AI risk and compliance requirements into actionable business language for diverse audiences.",
+    "Overseeing the creation and maintenance of AI policy documentation, ensuring clarity and enforceability while adapting to new regulations like the US AI Executive Order and SR 11-7 for banking contexts.",
+    "Guiding the integration of AI governance into existing technology delivery workflows, acting as the SME for AI risk and ensuring governance is not a bottleneck but an enabling function for innovation.",
+    "Conducting detailed AI risk identification sessions, mapping potential failure modes across the model lifecycle and prioritizing mitigation strategies based on impact to business operations and regulatory standing.",
+    "Establishing model validation protocols and continuous monitoring routines, leveraging AWS cloud services to build scalable governance infrastructure that maintains compliance across distributed AI deployments.",
+    "Facilitating cross-departmental workshops to define Responsible AI principles, aligning them with corporate ethics and risk appetite to create a unified framework endorsed by leadership and operational teams.",
+    "Analyzing regulatory changes and industry Responsible AI frameworks to continuously update internal standards, ensuring the organization remains proactive rather than reactive to the compliance landscape.",
+    "Building and mentoring a network of AI governance champions across business units to decentralize oversight and embed ethical judgment and AI risk awareness into daily development practices."
+  ],
+  "technical_skills": {
+    "AI Governance & Ethics Frameworks": [
+      "AI Governance Framework Design",
+      "Responsible AI Guidelines",
+      "Ethical AI Standards",
+      "Model Risk Management (MRM)",
+      "ISO/IEC 42001",
+      "NIST AI RMF",
+      "Industry Responsible AI Frameworks"
+    ],
+    "Regulatory Compliance & Standards": [
+      "EU AI Act",
+      "US AI Executive Order",
+      "SR 11-7",
+      "GDPR",
+      "DPDP Act",
+      "HIPAA",
+      "PCI DSS",
+      "Model Risk Management Frameworks"
+    ],
+    "AI Risk & Compliance Management": [
+      "AI Risk Identification & Mitigation",
+      "AI Risk Impact Assessments (AI RIA)",
+      "Bias Audits & Fairness Assessments",
+      "Governance Issue Investigation",
+      "Regulatory Compliance Monitoring",
+      "Incident Response for AI"
+    ],
+    "AI Model Lifecycle Management": [
+      "Model Design & Development Governance",
+      "Model Validation Protocols",
+      "Model Deployment Controls",
+      "Model Monitoring & Drift Detection",
+      "Model Retirement Procedures",
+      "Performance & Compliance Monitoring"
+    ],
+    "Data Governance & Privacy": [
+      "Data Governance Principles",
+      "Data Lifecycle Management",
+      "Privacy-by-Design",
+      "Data Privacy Regulations",
+      "Cybersecurity Fundamentals",
+      "Data Classification & Handling"
+    ],
+    "Policy & Controls Development": [
+      "AI Policy Creation & Maintenance",
+      "Operational Standards for AI Systems",
+      "Control Design & Implementation",
+      "Documentation & Policy Writing",
+      "Procedure Standardization"
+    ],
+    "Monitoring, Reporting & Analytics": [
+      "Governance KPI Definition",
+      "Dashboard Development (Model Health, Fairness, Transparency)",
+      "Executive & Regulatory Reporting",
+      "Audit Readiness",
+      "Metrics & Analytics"
+    ],
+    "AI/ML Concepts & Tools": [
+      "AI/ML Concepts",
+      "Machine Learning Lifecycle",
+      "Explainable AI (XAI)",
+      "Bias & Fairness Metrics",
+      "Model Explainability Techniques",
+      "LLM Governance"
+    ],
+    "Cloud & Enterprise Platforms": [
+      "AWS (SageMaker, Lambda, S3, IAM, CloudWatch)",
+      "Azure (ML Studio, Policy)",
+      "Governance Tooling",
+      "Identity & Access Management",
+      "Cloud Security Posture"
+    ],
+    "Cross-Functional Collaboration Tools": [
+      "Stakeholder Management Systems",
+      "GRC Platforms",
+      "JIRA/Confluence",
+      "SharePoint",
+      "Communication & Training Platforms"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a comprehensive AI governance framework for healthcare predictive models, integrating Responsible AI guidelines and HIPAA-compliant data handling to mitigate privacy and security risks across AWS SageMaker pipelines.",
+        "Engineered a Model Risk Management (MRM) framework using AWS services, establishing controls for the AI model lifecycle from design to retirement, which became the standard for all ML deployments in the medical supply division.",
+        "Implemented AI Risk Impact Assessments (AI RIA) for new Gen AI initiatives, identifying potential bias in patient outcome predictors and refining fairness metrics that improved model transparency for clinical stakeholders.",
+        "Orchestrated bias audits on multi-agent diagnostic systems built with Crew AI and LangGraph, uncovering subtle data drift in training datasets and instituting continuous monitoring via AWS CloudWatch to ensure equitable performance.",
+        "Formulated operational standards and policy documentation for AI systems, aligning them with FDA guidelines and EU AI Act requirements, thereby streamlining audit processes for internal compliance teams.",
+        "Developed governance KPIs and real-time dashboards using AWS QuickSight to track model health, fairness scores, and explainability metrics, enabling proactive management of deployed AI in healthcare operations.",
+        "Led incident response simulations for AI system failures, designing playbooks that integrated with existing HIPAA breach protocols, significantly reducing potential downtime for critical patient logistics models.",
+        "Pioneered the use of agentic frameworks like Model Context Protocol (MCP) to establish governance checkpoints within automated AI workflows, ensuring each agent's decisions remained within ethical boundaries.",
+        "Conducted training sessions on Responsible AI for data science and engineering teams, translating complex regulations into practical coding standards for handling Protected Health Information (PHI) on AWS.",
+        "Collaborated with legal and privacy teams to interpret GDPR and HIPAA implications for cross-border data used in AI training, implementing data anonymization techniques that satisfied both regulatory bodies.",
+        "Championed the integration of privacy-by-design concepts into the development of Proof of Concepts (PoCs), requiring security reviews before any patient data touched experimental multi-agent systems.",
+        "Investigated a governance issue where model explainability outputs were insufficient for clinician trust, leading to the adoption of SHAP values and LIME techniques integrated directly into the model serving layer.",
+        "Established a model validation gateway using AWS Lambda functions, automatically checking new models against fairness thresholds and data lineage requirements before permitting deployment to production environments.",
+        "Facilitated monthly AI governance steering committee meetings, presenting risk reports and compliance status to senior leadership, which influenced budget allocation for additional monitoring tools.",
+        "Debugged performance monitoring scripts that tracked model drift for readmission prediction algorithms, spending late nights adjusting thresholds to reduce false alarms without missing genuine degradation.",
+        "Reviewed code for data pipelines feeding AI models, insisting on additional data quality checks and documentation to satisfy internal audit requests and prepare for potential FDA scrutiny of software as a medical device."
+      ],
+      "environment": [
+        "AI Governance",
+        "Responsible AI",
+        "AWS SageMaker",
+        "HIPAA",
+        "GDPR",
+        "Model Risk Management (MRM)",
+        "Bias Audits",
+        "AI Risk Impact Assessment",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "Gen AI",
+        "Explainable AI",
+        "CloudWatch",
+        "QuickSight",
+        "Lambda",
+        "Healthcare Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Designed and deployed a Responsible AI framework for insurance claim adjudication algorithms, focusing on transparency and fairness to prevent discriminatory outcomes against specific demographic groups.",
+        "Constructed an AI governance model lifecycle process, integrating validation checkpoints into AWS Glue and Step Functions to govern data preparation and model training for premium prediction models.",
+        "Executed detailed fairness assessments on underwriting models, utilizing disparate impact analysis to identify and remediate bias, which enhanced compliance with state insurance regulations and ethical guidelines.",
+        "Developed AI policy documentation and control procedures for third-party AI vendors, ensuring their models met internal ethical AI standards before integration into member-facing insurance platforms.",
+        "Implemented monitoring dashboards for model performance and bias metrics using AWS native tools, providing the actuarial team with clear visibility into model behavior post-deployment.",
+        "Coordinated with compliance officers to map AI system controls to NAIC model laws and state-specific insurance regulations, creating a unified compliance monitoring framework across multiple jurisdictions.",
+        "Led a proof of concept using Crew AI to automate routine compliance checks for AI models, reducing manual review time and allowing the team to focus on higher-risk, complex governance issues.",
+        "Facilitated workshops with business stakeholders and HR to define acceptable use policies for AI in talent acquisition and member service chatbots, balancing innovation with reputational risk management.",
+        "Investigated an incident involving unexpected model drift in a chronic condition predictor, tracing it to a change in diagnostic coding practices and implementing more robust data provenance tracking.",
+        "Authored executive reports on AI risk posture for board-level committees, translating technical findings about model explainability and security risks into business impact language for non-technical leaders.",
+        "Established a model retirement protocol for legacy rule-based systems being replaced by ML, ensuring proper documentation archiving and validation that new models performed equally or better across all segments.",
+        "Participated in code reviews for new feature engineering pipelines, advocating for and implementing bias testing suites that ran automatically in the CI/CD pipeline on AWS CodeBuild.",
+        "Troubleshot performance issues in a real-time fraud detection model, collaborating with data scientists to adjust feature weights while maintaining the model's fairness metrics within strict tolerances.",
+        "Managed stakeholder expectations during the rollout of new AI governance tools, conducting training sessions that reduced pushback from developers who initially saw the controls as unnecessary overhead."
+      ],
+      "environment": [
+        "AI Governance Framework",
+        "Responsible AI Guidelines",
+        "AWS Glue",
+        "Step Functions",
+        "Insurance Regulations",
+        "Bias & Fairness",
+        "Model Lifecycle Governance",
+        "Crew AI",
+        "Multi-Agent Systems",
+        "Proof of Concepts",
+        "Compliance Monitoring",
+        "Model Validation",
+        "Executive Reporting"
+      ]
+    },
+    {
+      "role": " Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Spearheaded the development of an AI governance policy for public sector algorithms used in resource allocation, ensuring adherence to government transparency mandates and public accountability standards.",
+        "Built a model risk management framework on Azure for predictive models in social service programs, incorporating controls for data lineage and audit trails to satisfy state auditor inquiries.",
+        "Performed AI risk assessments on unemployment benefit fraud detection systems, identifying potential for false positives in certain counties and recommending additional human-in-the-loop review steps.",
+        "Created operational standards for the deployment of AI in citizen-facing applications, requiring rigorous testing for bias and explainability before any model could be approved for production use.",
+        "Developed reporting dashboards in Power BI to visualize model performance and fairness metrics across different demographic groups, used by agency heads to demonstrate equitable service delivery.",
+        "Collaborated with public policy teams to interpret the implications of emerging AI regulations for state government operations, contributing to the drafting of internal guidelines that preceded formal law.",
+        "Implemented data governance principles for AI training data sourced from various state departments, establishing clear ownership and usage agreements to prevent legal and privacy complications.",
+        "Led the remediation of a governance issue where a predictive model's decision logic was opaque, working under pressure to integrate explainability features before a scheduled legislative oversight hearing.",
+        "Established a model monitoring regimen using Azure Monitor, setting up alerts for data drift in economic forecasting models that influenced budget planning for multiple fiscal years.",
+        "Participated in inter-departmental meetings to align AI governance practices, often translating technical model constraints into policy language that legislators and agency directors could understand.",
+        "Conducted a retrospective analysis on a deployed recidivism prediction tool, documenting lessons learned about community trust and the importance of public explainability for government AI.",
+        "Assisted in debugging data pipeline failures that fed demographic data into fairness assessment tools, ensuring continuous compliance reporting for federally funded assistance programs."
+      ],
+      "environment": [
+        "AI Policy",
+        "Government Regulations",
+        "Azure",
+        "Model Risk Management",
+        "AI Risk Assessment",
+        "Public Sector AI",
+        "Transparency",
+        "Bias Audits",
+        "Power BI",
+        "Data Governance",
+        "Model Monitoring",
+        "Explainable AI"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Supported the integration of Model Risk Management (SR 11-7) requirements into big data pipelines for credit scoring models, ensuring data quality and lineage met stringent banking compliance standards.",
+        "Assisted in building components of an AI governance framework for fraud detection algorithms, focusing on data security and privacy controls aligned with PCI DSS and financial regulations.",
+        "Contributed to bias assessment workflows for customer segmentation models, helping to analyze model outputs across different income brackets to identify potential for unfair lending practices.",
+        "Helped develop documentation for model validation processes, detailing the steps for independent review of machine learning models before their use in consumer financial decisions.",
+        "Participated in monitoring the performance of deployed risk models, setting up initial alerts in Azure for significant deviation from expected behavior that could indicate model drift or degradation.",
+        "Collaborated with compliance teams to gather requirements for audit trails, implementing logging mechanisms in Azure Data Factory pipelines that tracked data transformations for model inputs.",
+        "Aided in incident response preparations for AI systems, documenting data recovery procedures and rollback plans for models impacting transactional systems in case of failure.",
+        "Learned to translate technical model details into risk language for compliance reports, initially struggling but gradually improving to explain complex algorithms in terms of financial risk exposure.",
+        "Engaged in code reviews for feature engineering code, focusing on ensuring that data manipulation logic did not inadvertently introduce bias or violate privacy constraints on customer data.",
+        "Attended regulatory awareness sessions on evolving expectations for AI in finance, taking detailed notes that helped the team anticipate changes to internal governance standards."
+      ],
+      "environment": [
+        "Model Risk Management",
+        "SR 11-7",
+        "Financial Regulations",
+        "PCI DSS",
+        "Azure Data Factory",
+        "AI Governance",
+        "Bias Assessment",
+        "Fraud Detection",
+        "Credit Scoring",
+        "Compliance",
+        "Data Lineage",
+        "Model Validation"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Examined healthcare datasets for AI-driven diagnostic tools, applying foundational data principles to ensure quality and consistency while adhering to initial data governance protocols for patient information.",
+        "Assisted senior engineers in documenting the data lifecycle for medical image analysis models, learning the importance of provenance and version control for training data in regulated environments.",
+        "Supported the development of basic performance monitoring scripts in Python, tracking accuracy metrics for early proof-of-concept models and reporting deviations to the development team.",
+        "Participated in team discussions about the ethical implications of AI in healthcare, contributing ideas about patient consent and data anonymity that reflected nascent Responsible AI thinking.",
+        "Learned to query and manipulate data in Oracle and MySQL databases, ensuring extracted datasets for model training were complete and representative of the patient population under study.",
+        "Helped create visualizations in Power BI to communicate model performance trends to non-technical stakeholders, focusing on clarity and accuracy in depicting healthcare outcomes.",
+        "Collaborated on troubleshooting data quality issues that affected model training, such as missing labels or inconsistent formatting in lab result data sourced from partner hospitals.",
+        "Attended training on HIPAA basics and data privacy requirements, beginning to understand the regulatory landscape that governs the use of patient data in technological innovations."
+      ],
+      "environment": [
+        "Healthcare Data",
+        "HIPAA",
+        "Data Governance Principles",
+        "Data Lifecycle",
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "Power BI",
+        "Performance Monitoring",
+        "Data Quality",
+        "Patient Data Privacy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

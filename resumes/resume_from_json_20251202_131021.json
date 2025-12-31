@@ -1,0 +1,296 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Principal Data Architect - Enterprise AWS & Lakehouse",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise-scale data architecture and engineering, specializing in designing and building secure, compliant, and high-performance data platforms on AWS for the healthcare, insurance, government, and financial services domains.",
+    "Leveraging AWS Glue and Lake Formation to architect a centralized data catalog and governance layer for a healthcare data lake, implementing column-level security and fine-grained access controls via IAM policies to ensure strict adherence to HIPAA compliance regulations across all patient datasets.",
+    "Utilizing AWS Glue Workflows and Step Functions to design and orchestrate complex, DAG-based ETL pipelines that process terabytes of daily medical supply chain data, transforming raw JSON and CSV files into optimized Parquet formats stored in S3 for efficient Athena queries.",
+    "Implementing a lakehouse architecture on AWS S3 using Apache Iceberg tables to unify OLTP and OLAP workloads for an insurance provider, enabling ACID transactions and schema evolution while reducing query costs by leveraging Athena's optimized Iceberg integration for historical policy analysis.",
+    "Applying AWS KMS and Secrets Manager to encrypt sensitive PHI data at rest and in transit, developing automation scripts in Python to rotate encryption keys and manage secrets, thereby strengthening the overall security posture and audit readiness for healthcare applications.",
+    "Designing a distributed data processing framework using PySpark within AWS Glue Jobs to handle batch and incremental data loads from multiple hospital EHR systems, implementing robust error handling and idempotency patterns to guarantee data integrity and pipeline reliability.",
+    "Orchestrating a multi-account AWS environment with cross-account data sharing via Lake Formation, establishing central governance with CloudTrail logging and CloudWatch alarms to monitor data access patterns and trigger alerts for any unauthorized attempts on regulated datasets.",
+    "Constructing a metadata management and lineage tracking system by extending the AWS Glue Data Catalog with custom Python scripts, capturing data transformations and dependencies to provide complete visibility for data stewards and compliance officers during regulatory audits.",
+    "Optimizing cloud costs by refining AWS Glue job configurations, implementing auto-scaling for Spark executors, partitioning S3 data by date and business unit, and transitioning cold data to Glacier, achieving a significant reduction in monthly infrastructure expenditures.",
+    "Enabling ML pipeline integration by architecting a feature store using SageMaker Feature Store concepts, designing batch inference workflows with Step Functions and Lambda, and collaborating with data scientists to operationalize PyTorch models for predictive analytics in patient care.",
+    "Leading the migration of on-premise Oracle data warehouses to a cloud-native AWS architecture, designing the VPC networking with private subnets and VPC endpoints for secure access to S3 and Glue services, ensuring no data egress to public internet.",
+    "Mentoring junior engineers on CI/CD best practices for data pipelines using AWS CodePipeline and CodeBuild, implementing infrastructure-as-code with CloudFormation templates to provision Glue jobs, crawlers, and IAM roles in a repeatable, version-controlled manner.",
+    "Developing real-time architecture patterns using Kinesis for streaming claims adjudication events, processing them with Lambda functions, and persisting results to S3 for further analysis, improving the timeliness of fraud detection for the insurance platform.",
+    "Solving performance bottlenecks in Athena queries by implementing Parquet file compaction jobs, defining partition strategies, and collecting statistics via Glue crawlers, which dramatically improved query performance for complex analytical reports on billion-row datasets.",
+    "Establishing a data quality framework by deploying AWS Lambda functions triggered by S3 events to validate incoming data against predefined schemas and business rules, publishing metrics to CloudWatch Dashboards for ongoing observability of pipeline health.",
+    "Architecting a serverless data ingestion platform using AWS Lambda and Step Functions to handle variable volumes of healthcare IoT data, designing for scalability and resilience while maintaining strict data governance and audit trails as required by FDA regulations.",
+    "Integrating AWS Glue Studio for enabling business analysts to visually construct and monitor ETL jobs, reducing dependency on engineering teams for simple data preparation tasks and accelerating the time-to-insight for critical business questions in the healthcare domain.",
+    "Collaborating with security teams to design and implement data masking and tokenization strategies for PII within the data lake using AWS Glue transformation scripts, ensuring compliance with GDPR and CCPA regulations for international data processing and sharing."
+  ],
+  "technical_skills": {
+    "Cloud Platforms & Infrastructure": [
+      "AWS (Expert-Level)",
+      "AWS Glue (Jobs, Workflows, Data Catalog, Studio)",
+      "AWS S3",
+      "AWS Athena",
+      "AWS IAM",
+      "AWS Lake Formation",
+      "AWS KMS",
+      "AWS CloudWatch",
+      "AWS CloudTrail",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "AWS Well-Architected Framework"
+    ],
+    "Data Architecture & Modeling": [
+      "Enterprise-Scale Data Architecture",
+      "Lakehouse Architecture",
+      "OLTP & OLAP Data Modeling",
+      "Batch, Streaming & Real-Time Architecture",
+      "ML Pipeline Enablement",
+      "Feature Store Architecture",
+      "Distributed Data Processing"
+    ],
+    "Data Engineering & Orchestration": [
+      "ETL / ELT Development",
+      "DAG-Based Orchestration (Airflow, MWAA, Step Functions, Glue Workflows)",
+      "Data Pipeline Optimization",
+      "PyTorch ML Integration",
+      "Schema Evolution Strategies"
+    ],
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "PySpark"
+    ],
+    "Data Governance & Security": [
+      "Data Governance / Security / Compliance",
+      "Metadata & Lineage Management",
+      "Secrets Manager / Parameter Store",
+      "Infrastructure Logging & Audit Readiness",
+      "HIPAA, GDPR, SOX"
+    ],
+    "Data Formats & Performance": [
+      "Parquet/ORC Columnar Formats",
+      "Performance Tuning",
+      "Data Quality Frameworks"
+    ],
+    "DevOps & CI/CD": [
+      "CI/CD on AWS",
+      "Infrastructure as Code (IaC)"
+    ],
+    "Networking & Integration": [
+      "VPC Networking Fundamentals",
+      "Cross-Account AWS Architecture",
+      "Integration Patterns with ML Teams"
+    ],
+    "Observability & Operations": [
+      "Observability (Metrics, Logs, Traces)",
+      "Cloud Cost Optimization",
+      "Architectural Leadership & Mentoring"
+    ],
+    "Agentic AI & Advanced Frameworks": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Agent-to-Agent Communication"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected an enterprise-scale healthcare data lake on AWS S3 utilizing Lake Formation blueprints to establish a secure, governed foundation for PHI data, implementing IAM roles and KMS encryption to enforce HIPAA compliance across all data access patterns and analytical workloads.",
+        "Engineered complex AWS Glue Workflows with embedded PySpark jobs to process daily streams of medical inventory and supply chain data, transforming raw formats into optimized Iceberg tables that enabled faster analytics while ensuring full data lineage tracking for audit purposes.",
+        "Implemented a multi-agent AI system using Crew AI and LangGraph to automate the generation of data quality reports, where specialized agents orchestrated by a chief officer analyzed CloudWatch logs and Glue job metrics to identify anomalies in ETL pipelines processing clinical trial data.",
+        "Designed a proof-of-concept for a feature store architecture to support ML models predicting hospital supply demand, leveraging SageMaker Feature Store concepts with offline storage in S3 and utilizing PyTorch for model training within a secure, compliant healthcare environment.",
+        "Orchestrated a serverless batch inference pipeline using AWS Step Functions and Lambda, which consumed features from the S3-based feature store, executed pre-trained models, and stored predictions back to the data lake, enabling real-time dashboards for supply chain managers.",
+        "Constructed a VPC with private subnets and VPC endpoints for Glue, S3, and KMS to ensure all data traffic remained within the AWS backbone, significantly enhancing security posture and meeting stringent internal and external healthcare data protection requirements.",
+        "Optimized AWS Glue Job performance by tuning Spark executor configurations, implementing dynamic frame bookmarks for incremental processing, and partitioning output data in S3 by region and product category, which reduced job runtimes and associated compute costs.",
+        "Developed a custom metadata management module in Python that extended the AWS Glue Data Catalog, capturing business glossaries and data stewardship information to provide comprehensive context for datasets derived from sensitive patient and operational sources.",
+        "Led the integration of a data quality framework by deploying AWS Lambda functions that validated incoming HL7 and HIPAA EDI transactions against defined schemas, publishing success/failure metrics to CloudWatch for real-time observability and alerting.",
+        "Established cross-account data sharing capabilities using AWS Lake Formation, enabling secure and governed access to de-identified datasets for research teams in a separate AWS account while maintaining centralized audit trails via CloudTrail for all access requests.",
+        "Mentored a team of three data engineers on implementing CI/CD pipelines for data infrastructure using AWS CodeBuild and CloudFormation, promoting infrastructure-as-code practices to manage Glue jobs, crawlers, and IAM policies through version-controlled templates.",
+        "Troubleshot a persistent issue with schema evolution in our Parquet-based data lake, researching Apache Iceberg's capabilities and implementing a migration strategy that allowed safe addition of new columns to patient demographic tables without breaking existing pipelines.",
+        "Collaborated with data scientists to containerize PyTorch training scripts using Docker, deploying them on SageMaker for managed execution, and designing the subsequent batch inference workflow to integrate seamlessly with our feature store and data lake architecture.",
+        "Configured detailed logging for all data pipelines using CloudWatch Logs Insights and custom metrics, enabling the creation of comprehensive dashboards that provided insights into data volumes, processing latency, and job success rates for stakeholder reviews.",
+        "Participated in daily stand-ups and code review sessions, providing feedback on PySpark transformations and Python orchestration scripts, often debugging subtle issues related to timezone handling in global medical device shipment data.",
+        "Spearheaded a cost optimization initiative by analyzing AWS Cost Explorer reports, identifying underutilized Glue Development Endpoints, and implementing auto-termination policies, while also transitioning historical, rarely accessed data to S3 Glacier storage tiers."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS Athena",
+        "AWS Lake Formation",
+        "AWS IAM",
+        "AWS KMS",
+        "AWS Step Functions",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "AWS CloudTrail",
+        "Python",
+        "PySpark",
+        "SQL",
+        "Apache Iceberg",
+        "Parquet",
+        "Crew AI",
+        "LangGraph",
+        "PyTorch",
+        "SageMaker Feature Store Concepts",
+        "VPC",
+        "Secrets Manager",
+        "CloudFormation"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Designed and deployed a scalable ETL framework using AWS Glue to ingest and process millions of daily insurance claims from heterogeneous sources, implementing robust error handling and idempotency to ensure accuracy in financial reporting and regulatory submissions.",
+        "Leveraged AWS Glue Data Catalog and Lake Formation to establish a unified metadata layer across member, provider, and claims data, enabling secure data discovery and governed access for analysts while complying with insurance industry data privacy regulations.",
+        "Built a distributed data processing pipeline with AWS Glue PySpark jobs that standardized and enriched raw claims data, applying business rules for adjudication and outputting to optimized Parquet files in S3 partitioned by claim date and payer for efficient querying with Athena.",
+        "Orchestrated complex dependency management between batch ETL jobs using AWS Step Functions, defining state machines that coordinated data validation, transformation, and publication steps, thereby improving pipeline reliability and simplifying operational monitoring.",
+        "Implemented a data quality and profiling suite using custom Python libraries executed within AWS Glue Jobs, which generated automated reports on data completeness, validity, and uniqueness, feeding metrics into CloudWatch for proactive issue identification.",
+        "Architected a secure data sharing solution using AWS Lake Formation to provide cross-account access to de-identified claims datasets for actuarial and fraud detection teams, implementing tag-based access controls and logging all data consumption via CloudTrail.",
+        "Optimized Athena query performance for complex analytical questions on petabyte-scale claims history by implementing partition projection, converting data to compressed Parquet format, and defining column-level encryption for sensitive member PII using AWS KMS.",
+        "Developed a proof-of-concept for an agentic workflow using Crew AI to automate the generation of executive summaries from monthly claims analysis reports, where specialized AI agents extracted key metrics and trends from Athena query results.",
+        "Engineered a near-real-time pipeline using AWS Kinesis (as per JD preferred skills) and Lambda to process streaming prior authorization events, reducing decision latency and improving member experience while maintaining a full audit trail for compliance purposes.",
+        "Established comprehensive observability by integrating CloudWatch alarms with Glue job metrics and Step Function execution status, creating dashboards that provided a single pane of glass for the health and performance of all critical data pipelines.",
+        "Conducted rigorous code reviews for Python and PySpark scripts, focusing on efficient Spark transformations, proper management of broadcast variables, and secure handling of credentials using AWS Secrets Manager for database connections.",
+        "Collaborated with the security team to refine IAM policies and implement service control policies (SCPs) at the OU level, ensuring least-privilege access to data assets and preventing unintended configuration changes in the production data environment.",
+        "Led the migration of several legacy on-premise SSIS ETL packages to cloud-native AWS Glue jobs, redesigning the logic for scalability and converting T-SQL to PySpark, which significantly improved processing speed and reduced maintenance overhead.",
+        "Documented the entire data architecture and pipeline designs using diagram-as-code tools, facilitating knowledge transfer and ensuring that all solutions adhered to the AWS Well-Architected Framework pillars, especially Security and Cost Optimization."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS Athena",
+        "AWS Step Functions",
+        "AWS Lambda",
+        "AWS IAM",
+        "AWS Lake Formation",
+        "AWS KMS",
+        "AWS CloudWatch",
+        "Python",
+        "PySpark",
+        "SQL",
+        "Parquet",
+        "Crew AI",
+        "AWS Kinesis",
+        "AWS Secrets Manager",
+        "Data Governance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Developed and maintained Azure Data Factory pipelines to integrate data from various state departments including Motor Vehicles and Public Safety, ensuring timely and accurate data flow for government reporting and public transparency initiatives.",
+        "Utilized Azure Databricks and PySpark to process large volumes of structured and semi-structured data, building curated data layers that supported analytical workloads while adhering to strict data retention and privacy policies mandated by state law.",
+        "Implemented data security measures including encryption at rest using Azure Key Vault and column-level masking within SQL databases to protect sensitive citizen information such as social security numbers and driver's license data.",
+        "Designed dimensional data models in Azure Synapse Analytics (formerly SQL DW) to support historical reporting on unemployment claims and pandemic relief fund distributions, optimizing table distributions and indexes for performance.",
+        "Orchestrated batch ETL processes using Azure Data Factory's scheduling capabilities, managing dependencies between data ingestion, transformation, and loading stages to ensure data consistency for daily and monthly legislative reports.",
+        "Built monitoring and alerting systems using Azure Monitor and Log Analytics to track pipeline performance, data freshness, and error rates, enabling proactive responses to issues that could impact critical government services.",
+        "Collaborated with database administrators to performance-tune complex T-SQL queries and stored procedures in Azure SQL Database, reducing report generation times for high-priority dashboards used by state executives.",
+        "Participated in Agile ceremonies, providing realistic estimates for data integration tasks and troubleshooting unexpected issues with source file formats from legacy mainframe systems operated by different government agencies.",
+        "Documented data lineage and transformation logic for all major pipelines, creating essential documentation that improved maintainability and supported knowledge transfer within the team and for external auditors.",
+        "Assisted in the design of a data lake storage layer using Azure Data Lake Storage Gen2, organizing raw and processed data in a zone-based architecture (landing, raw, curated) to improve data management and governance.",
+        "Supported the implementation of basic data quality checks within pipelines, validating record counts and critical field values to ensure the accuracy of information published on open data portals for public consumption.",
+        "Learned and applied fundamental data engineering principles in a large-scale, regulated environment, gaining practical experience with cloud data services and the importance of robust, auditable data processes in the public sector."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Databricks",
+        "PySpark",
+        "Azure Synapse Analytics",
+        "Azure SQL Database",
+        "Azure Key Vault",
+        "Azure Monitor",
+        "Azure Data Lake Storage Gen2",
+        "SQL",
+        "Python",
+        "Data Modeling",
+        "ETL",
+        "Data Governance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Contributed to the development of batch processing pipelines using Azure HDInsight (Hadoop/Spark) to analyze credit card transaction data for fraud detection patterns, working within a strict PCI-DSS compliant environment with encrypted data at all stages.",
+        "Utilized Azure Data Factory to orchestrate daily data ingestion from on-premise operational databases into the cloud data lake, implementing incremental load patterns to efficiently process terabytes of new transactional data.",
+        "Developed Spark applications in Scala to cleanse, standardize, and aggregate financial transaction data, building derived datasets that were consumed by downstream risk analysis and customer segmentation models.",
+        "Participated in the performance tuning of Hive queries and Spark jobs on the HDInsight clusters, optimizing shuffle partitions and memory configurations to reduce job execution times and associated cloud compute costs.",
+        "Implemented basic data quality frameworks by writing validation scripts in Python that ran as part of the ADF pipelines, checking for data completeness and conformity to defined schemas before allowing progression to subsequent stages.",
+        "Assisted in the design and creation of partitioned Parquet tables in the data lake, organizing data by date and product type to improve query performance for analytical teams using tools like Presto and Hive.",
+        "Worked with senior engineers to document data lineage for key financial reporting datasets, tracing the flow of data from source systems through transformations to final reporting tables to support audit requirements.",
+        "Supported the migration of several legacy SAS-based analytics processes to the new Azure cloud platform, helping to rewrite logic in PySpark and ensuring outputs matched for parallel run validation periods.",
+        "Learned the fundamentals of secure data handling in finance, including masking sensitive account numbers, implementing role-based access controls, and ensuring all data movement was logged for audit trails.",
+        "Engaged in daily team troubleshooting sessions, often digging into Spark UI logs to diagnose failed stages or skewed joins that were causing performance bottlenecks in the overnight batch processing window."
+      ],
+      "environment": [
+        "Azure HDInsight",
+        "Apache Spark",
+        "Scala",
+        "Azure Data Factory",
+        "Hive",
+        "Parquet",
+        "Python",
+        "PCI-DSS",
+        "Data Quality",
+        "ETL",
+        "Data Lake"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic image metadata and lab results stored in PostgreSQL and MySQL databases, writing complex SQL queries to identify trends, support clinical research, and generate insights for product development teams.",
+        "Developed interactive dashboards and reports using Python visualization libraries (Matplotlib, Seaborn) and Power BI to present key performance indicators related to diagnostic accuracy and operational efficiency to stakeholders and medical professionals.",
+        "Cleaned and prepared structured and unstructured healthcare data for analysis, employing Python (Pandas) for data wrangling tasks such as handling missing values, standardizing formats, and merging datasets from disparate sources.",
+        "Documented data analysis processes, SQL queries, and findings in detailed reports and wikis, ensuring reproducibility of analyses and facilitating knowledge sharing within the interdisciplinary team of data scientists and medical experts.",
+        "Collaborated with data scientists and engineers to define data requirements for machine learning models aimed at medical image analysis, providing analytical support in evaluating model performance metrics and data quality.",
+        "Assisted in the design and validation of database schemas for new data collection initiatives, helping to ensure data integrity and suitability for both operational and analytical purposes in a fast-growing startup environment.",
+        "Participated in requirement gathering meetings with product managers and medical advisors to understand the analytical needs, translating business questions into actionable data analysis plans and SQL query logic.",
+        "Learned the critical importance of data privacy and security in the healthcare domain, adhering to protocols for handling de-identified patient data and understanding the foundational principles of regulations like HIPAA."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Power BI",
+        "PostgreSQL",
+        "MySQL",
+        "Data Analysis",
+        "Healthcare Data",
+        "Data Visualization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

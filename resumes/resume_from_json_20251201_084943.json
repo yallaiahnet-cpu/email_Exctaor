@@ -1,0 +1,327 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI engineering with focus on contract intelligence, document extraction using LLMs, and enterprise automation within insurance, healthcare, banking, and consulting sectors.",
+    "Delivered AI-driven contract lifecycle systems by extracting data from legal documents using Azure OpenAI and AWS Bedrock, then integrated outputs into Agiloft platforms through REST APIs for automated workflow management.",
+    "Built generative AI solutions with prompt engineering and model fine-tuning techniques to process insurance policy documents, extracting key clauses and compliance terms while maintaining accuracy across regulatory frameworks.",
+    "Developed NLP pipelines using Python and conversational AI frameworks to parse healthcare contracts, identifying HIPAA-compliant data fields and routing extracted information to downstream enterprise systems via microservices architecture.",
+    "Implemented document intelligence workflows on Google Vertex AI to handle banking agreements, automating clause detection and risk assessment procedures that reduced manual review cycles significantly in financial compliance processes.",
+    "Collaborated with Agiloft architecture teams to design AI integrations that connected LLM outputs directly into contract management workflows, ensuring seamless data flow between document processing engines and enterprise repositories.",
+    "Configured Azure cloud infrastructure to deploy AI-driven applications at scale, setting up secure API gateways with OAuth authentication to protect sensitive contract data during transmission between AI models and business systems.",
+    "Trained cross-functional teams on AI workflow development best practices, sharing techniques for optimizing LLM performance on domain-specific contract language while balancing computational costs and processing speed requirements.",
+    "Participated in architectural reviews where I proposed using LangChain for RAG pipelines to retrieve relevant contract precedents, helping legal teams quickly locate similar clauses across thousands of historical documents stored in cloud storage.",
+    "Debugged production issues in AI microservices where document extraction accuracy dropped due to unexpected PDF formats, working closely with DevOps to adjust container configurations and retrain models on edge cases.",
+    "Integrated CI/CD practices into AI application deployment by setting up automated testing frameworks in pytest, validating extraction accuracy before promoting new model versions to production Agiloft environments.",
+    "Monitored AI system performance using logging tools to track API response times and model inference latency, identifying bottlenecks in document processing pipelines and collaborating with cloud engineers to optimize resource allocation.",
+    "Coordinated with product owners to prioritize AI feature requests, balancing stakeholder needs for rapid contract ingestion against engineering constraints around model training timelines and data availability for fine-tuning exercises.",
+    "Maintained version control discipline using Git to manage AI codebase changes, conducting code reviews with engineering peers to ensure prompt engineering patterns followed security guidelines and avoided exposing sensitive contract terms in logs.",
+    "Researched emerging AI frameworks like LlamaIndex and evaluated their suitability for enterprise contract intelligence use cases, presenting findings to leadership to shape long-term technology roadmap decisions for AI-powered automation initiatives.",
+    "Handled edge cases where OCR outputs from scanned contracts contained errors, writing Python scripts to clean noisy text before feeding into LLM inference endpoints, improving downstream extraction reliability for insurance claims processing.",
+    "Attended weekly meetings with business teams to gather feedback on AI extraction quality, iteratively adjusting prompt templates and model parameters based on real-world contract language patterns observed in production data.",
+    "Packaged AI models into Docker containers for consistent deployment across Azure environments, ensuring model artifacts and Python dependencies remained synchronized between development and production Agiloft integration endpoints."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "AI & Machine Learning Frameworks": [
+      "Azure OpenAI",
+      "AWS Bedrock",
+      "Google Vertex AI",
+      "LangChain",
+      "LlamaIndex",
+      "LangGraph",
+      "Crew AI",
+      "AutoGen",
+      "Hugging Face Transformers"
+    ],
+    "Generative AI & LLMs": [
+      "GPT Models",
+      "Claude AI",
+      "Prompt Engineering",
+      "Model Fine-tuning",
+      "RAG Pipelines",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Conversational AI"
+    ],
+    "NLP & Document Intelligence": [
+      "spaCy",
+      "NLTK",
+      "BERT",
+      "OCR Processing",
+      "Document Extraction",
+      "Text Classification",
+      "Named Entity Recognition",
+      "TF-IDF"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure (OpenAI, Functions, Blob Storage, API Management)",
+      "AWS (Bedrock, Lambda, S3, SageMaker, EC2)",
+      "Google Cloud (Vertex AI, Cloud Functions, GCS)"
+    ],
+    "API & Integration Technologies": [
+      "REST APIs",
+      "Microservices Architecture",
+      "FastAPI",
+      "Flask",
+      "OAuth/JWT",
+      "API Gateways",
+      "Agiloft Integration"
+    ],
+    "DevOps & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "MLOps",
+      "Terraform"
+    ],
+    "Data Processing & Storage": [
+      "PySpark",
+      "Pandas",
+      "NumPy",
+      "Azure Blob Storage",
+      "AWS S3",
+      "PostgreSQL",
+      "MongoDB",
+      "Vector Databases"
+    ],
+    "Testing & Monitoring": [
+      "pytest",
+      "Unit Testing",
+      "Application Logging",
+      "Performance Monitoring",
+      "Error Tracking",
+      "Load Testing"
+    ],
+    "Enterprise & Compliance": [
+      "Agiloft CLM",
+      "HIPAA Compliance",
+      "PCI-DSS",
+      "FDA Regulations",
+      "Data Security",
+      "Enterprise Architecture"
+    ],
+    "Big Data & Analytics": [
+      "Apache Spark",
+      "Hadoop",
+      "Apache Airflow",
+      "Databricks",
+      "Kafka",
+      "Hive"
+    ],
+    "Development Tools": [
+      "VS Code",
+      "Jupyter Notebook",
+      "PyCharm",
+      "Postman",
+      "Anaconda",
+      "Google Colab"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architect AI solutions for contract intelligence by extracting policy clauses from insurance documents using Azure OpenAI and AWS Bedrock, integrating extracted data into Agiloft CLM through REST APIs for automated compliance tracking.",
+        "Build multi-agent systems with LangGraph to coordinate document processing tasks, where one agent handles OCR preprocessing while another performs LLM-based clause extraction, improving throughput for insurance contract ingestion workflows.",
+        "Develop proof-of-concept prototypes demonstrating generative AI capabilities for policy summarization, presenting demos to business stakeholders to validate accuracy before committing to full-scale implementation across State Farm's contract repository.",
+        "Configure Model Context Protocol implementations to manage conversation state across multi-turn contract analysis sessions, enabling underwriters to iteratively refine extraction queries without losing context from previous document interactions.",
+        "Integrate PySpark with AWS S3 to process large batches of PDF contracts in parallel, distributing extraction workloads across compute clusters to meet tight deadlines during policy renewal cycles when document volumes spike significantly.",
+        "Collaborate with Agiloft administrators to map AI-extracted fields into custom contract schemas, ensuring extracted insurance terms like coverage limits and deductibles populate correct database columns for downstream risk assessment calculations.",
+        "Optimize prompt engineering templates for insurance domain language, testing various instruction formats to improve LLM accuracy when identifying endorsement clauses and exclusion terms that carry specific regulatory implications under state insurance laws.",
+        "Troubleshoot production incidents where API rate limits from AWS Bedrock caused processing delays, working with cloud engineers to implement request queuing and retry logic that maintained extraction throughput during peak usage periods.",
+        "Conduct code reviews for junior developers building auxiliary AI services, catching security issues where sensitive policyholder information was inadvertently logged during debugging sessions and enforcing data masking patterns across the codebase.",
+        "Implement CI/CD pipelines using GitHub Actions to automate deployment of updated LLM models, running pytest validation suites that verify extraction accuracy against golden datasets before releasing changes to production Agiloft integrations.",
+        "Monitor AI application performance through Azure Application Insights, tracking metrics like document processing latency and model inference times to identify optimization opportunities that reduce compute costs without sacrificing extraction quality.",
+        "Coordinate with insurance compliance officers to validate that AI-extracted data meets regulatory standards, adjusting model outputs to align with state-specific insurance regulations and maintaining audit trails for extracted contract information.",
+        "Participate in architectural discussions about scaling AI infrastructure, proposing solutions like containerized microservices deployed on AWS ECS to handle increasing contract volumes as State Farm expands its digital transformation initiatives.",
+        "Maintain documentation for AI workflows including prompt templates and model configuration parameters, creating runbooks that enable operations teams to troubleshoot common extraction issues without escalating to engineering during off-hours.",
+        "Research agent-to-agent communication patterns using Google's multi-agent frameworks, evaluating how coordinated AI agents could automate complex insurance workflows like policy comparison where multiple documents require simultaneous analysis.",
+        "Handle edge cases where scanned legacy contracts contain handwritten annotations, developing preprocessing scripts that clean OCR artifacts before LLM processing to prevent extraction errors that could impact downstream underwriting decisions."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "AWS Bedrock",
+        "LangGraph",
+        "PySpark",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Agiloft CLM",
+        "REST APIs",
+        "Python",
+        "AWS S3",
+        "Docker",
+        "GitHub Actions",
+        "pytest",
+        "Azure Application Insights",
+        "AWS ECS",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed NLP pipelines using LangChain and AWS Bedrock to extract clinical trial data from healthcare contracts, routing extracted information through FastAPI microservices into downstream research databases while maintaining HIPAA compliance.",
+        "Implemented RAG pipelines with LlamaIndex to retrieve relevant medical terminology from vector databases during contract analysis, helping legal teams quickly verify that supplier agreements contained required FDA regulatory language.",
+        "Created proof-of-concept demonstrations for multi-agent systems using Crew AI framework, showing how specialized agents could collaborate to extract different contract sections like payment terms versus liability clauses in parallel processing workflows.",
+        "Configured AWS Lambda functions to trigger document extraction jobs whenever new healthcare contracts arrived in S3 buckets, automating ingestion workflows that previously required manual review by compliance teams at Johnson & Johnson.",
+        "Evaluated AutoGen framework capabilities for orchestrating conversational AI agents that could negotiate contract terms through iterative dialogue, presenting feasibility analysis to product managers considering AI-assisted vendor negotiations.",
+        "Collaborated with HIPAA compliance officers to validate that AI extraction processes properly handled protected health information, implementing data encryption for contract text in transit between AWS services and adding audit logging.",
+        "Fine-tuned GPT models on healthcare contract language by preparing training datasets from historical agreements, improving extraction accuracy for domain-specific terms like indemnification clauses and regulatory compliance requirements.",
+        "Debugged issues where LangChain retrieval components returned irrelevant contract precedents due to poor embedding quality, working with data science teams to retrain embedding models on healthcare legal vocabulary for better semantic search.",
+        "Integrated CI/CD practices using Jenkins to automate testing of NLP pipeline changes, running validation scripts that compared extraction outputs against manually annotated contracts before deploying updated models to production.",
+        "Monitored API performance metrics for microservices handling contract extraction requests, identifying memory leaks in Python services that caused gradual performance degradation and collaborating with DevOps to implement proper resource cleanup.",
+        "Participated in sprint planning meetings where business stakeholders prioritized AI features, providing technical estimates for implementing new extraction capabilities like identifying change control clauses in manufacturing agreements.",
+        "Maintained Git repositories containing prompt templates and model configurations, conducting peer reviews to ensure prompt engineering patterns avoided exposing sensitive patient information in logs or error messages.",
+        "Attended cross-functional meetings with healthcare procurement teams to gather feedback on extraction quality, iteratively refining LangGraph workflows based on real-world contract patterns observed in pharmaceutical supplier agreements.",
+        "Packaged AI models into Docker containers with consistent Python dependencies, ensuring model artifacts deployed to AWS ECS matched versions tested in development environments to prevent extraction discrepancies in production."
+      ],
+      "environment": [
+        "AWS Bedrock",
+        "LangChain",
+        "LlamaIndex",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "FastAPI",
+        "AWS Lambda",
+        "AWS S3",
+        "Python",
+        "RAG Pipelines",
+        "Docker",
+        "Jenkins",
+        "AWS ECS",
+        "HIPAA Compliance",
+        "FDA Regulations"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Constructed machine learning pipelines on Azure ML Studio to predict patient readmission risks using healthcare claims data, deploying trained models as REST APIs consumed by state healthcare management applications.",
+        "Automated ETL workflows with Azure Data Factory to extract beneficiary information from legacy Medicaid systems, transforming data into formats suitable for training predictive models that supported public health policy decisions.",
+        "Validated model predictions against HIPAA privacy rules, implementing differential privacy techniques in training procedures to prevent models from memorizing individual patient records while maintaining acceptable prediction accuracy.",
+        "Collaborated with state healthcare administrators to define model performance metrics aligned with public health goals, balancing false positive rates against intervention costs when flagging high-risk patients for care management programs.",
+        "Optimized Azure Databricks cluster configurations to reduce training costs for large-scale logistic regression models processing millions of claims records, achieving significant compute savings without extending training timelines.",
+        "Troubleshot data quality issues where missing diagnosis codes in claims data caused model training failures, working with data stewards to implement validation rules that flagged incomplete records before pipeline ingestion.",
+        "Integrated ML model outputs into state healthcare dashboards using Power BI, creating visualizations that helped program managers identify geographic regions with elevated readmission risks requiring targeted interventions.",
+        "Participated in security audits where external reviewers assessed ML pipeline compliance with state data protection regulations, addressing findings related to data access controls and encryption for patient information in Azure Blob Storage.",
+        "Maintained documentation for ML workflows including feature engineering logic and model hyperparameters, enabling knowledge transfer when new team members joined the state healthcare analytics initiative.",
+        "Conducted experiments with ensemble methods combining multiple prediction models, evaluating whether stacked classifiers improved readmission forecasting compared to single logistic regression baselines used by state health department.",
+        "Coordinated with Azure support teams to resolve occasional API throttling issues during batch prediction jobs, implementing exponential backoff retry logic that ensured prediction pipelines completed reliably during high-volume processing.",
+        "Attended training sessions on state healthcare regulations to understand compliance requirements, applying learned privacy principles when designing ML pipelines that handled sensitive Medicaid enrollment and claims data."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Python",
+        "Scikit-Learn",
+        "Azure Blob Storage",
+        "REST APIs",
+        "Power BI",
+        "HIPAA Compliance",
+        "State Healthcare Regulations",
+        "Logistic Regression",
+        "ETL Pipelines"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Analyzed transaction patterns using statistical techniques including hypothesis testing and regression analysis to detect potential fraud indicators, presenting findings to risk management teams for investigation prioritization.",
+        "Trained classification models with XGBoost on Azure ML to predict credit default risks based on customer transaction history, achieving better precision-recall tradeoffs compared to previous rule-based scoring systems.",
+        "Prepared feature engineering pipelines in Python using Pandas to transform raw banking data into model-ready formats, handling missing values and encoding categorical variables like transaction types and merchant categories.",
+        "Validated model compliance with PCI-DSS requirements by ensuring sensitive cardholder data remained encrypted throughout ML workflows, working with security teams to implement proper data masking in development environments.",
+        "Collaborated with business analysts to translate fraud detection requirements into technical specifications, defining model thresholds that balanced fraud catch rates against customer experience impacts from false alarms.",
+        "Optimized SQL queries against Azure SQL databases to extract large transaction datasets for model training, reducing query execution times that previously caused delays in refreshing fraud detection models.",
+        "Troubleshot model performance degradation when transaction patterns shifted during holiday shopping seasons, retraining models on recent data to adapt to evolving fraud tactics observed in payment networks.",
+        "Integrated predictive models into bank operations through REST APIs deployed on Azure Functions, enabling real-time fraud scoring that blocked suspicious transactions before completing authorization.",
+        "Participated in code reviews where senior engineers provided feedback on my Python implementations, learning best practices for writing maintainable data science code and improving error handling in production pipelines.",
+        "Maintained Jupyter notebooks documenting exploratory data analysis and model experiments, creating reproducible research artifacts that enabled other data scientists to understand modeling decisions and replicate results."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Python",
+        "XGBoost",
+        "Pandas",
+        "Scikit-Learn",
+        "Azure SQL Database",
+        "Azure Functions",
+        "REST APIs",
+        "Jupyter Notebook",
+        "PCI-DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Extracted data from Oracle databases using Sqoop to load into Hadoop clusters, scheduling recurring jobs through shell scripts that transferred incremental updates overnight for downstream analytics processing.",
+        "Transformed raw client data using Informatica PowerCenter workflows, applying business rules to cleanse records and standardize formats before loading into data warehouse tables consumed by reporting applications.",
+        "Monitored Hadoop cluster health through command-line tools, investigating occasional job failures caused by insufficient disk space and coordinating with infrastructure teams to expand storage capacity.",
+        "Collaborated with offshore development teams during daily standups, providing status updates on ETL pipeline progress and escalating data quality issues discovered during validation testing.",
+        "Learned Informatica administration by shadowing senior engineers, gradually taking ownership of simpler workflow modifications while receiving guidance on complex mapping logic for financial data transformations.",
+        "Participated in requirements gathering sessions with business users, documenting their reporting needs and translating those into technical specifications for new ETL pipelines to support analytics initiatives.",
+        "Validated data accuracy by comparing row counts and checksums between source systems and Hadoop landing zones, identifying discrepancies that indicated incomplete data transfers requiring investigation.",
+        "Attended training courses on big data technologies to build foundational knowledge of distributed computing concepts, applying learned principles when troubleshooting MapReduce job performance bottlenecks."
+      ],
+      "environment": [
+        "Hadoop",
+        "Sqoop",
+        "Informatica PowerCenter",
+        "Oracle Database",
+        "Shell Scripting",
+        "MapReduce",
+        "Hive",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

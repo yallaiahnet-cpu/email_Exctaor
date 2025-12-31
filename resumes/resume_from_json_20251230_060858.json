@@ -1,0 +1,304 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead Generative AI & Enterprise Solutions Architect",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "Linked In",
+    "github": ""
+  },
+  "professional_summary": [
+    "Accumulated 6 years of hands-on experience designing and deploying enterprise-scale AI solutions, with deep expertise in the insurance and risk management domain, focusing on property loss prevention analytics and business resilience strategies.",
+    "Cultivated a comprehensive AI strategy for a Fortune 500 insurance enterprise, integrating OpenAI models, Gemini, and Llama2 with Azure AI Search and Azure OpenAI to build multi-modal, generative RAG search systems that transformed underwriting workflows.",
+    "Coordinated the construction of secure, cloud-native AI architectures on the Azure cloud platform, utilizing Kubernetes, Terraform, and Azure AI Hub to ensure scalable, production-grade deployments for mission-critical risk assessment applications.",
+    "Formulated advanced agentic AI frameworks and multi-agent systems using LangChain and Semantic Kernel, enabling long-horizon task execution and autonomous decision-making for complex property risk analysis and client portfolio management.",
+    "Administered full-cycle development of Retrieval-Augmented Generation (RAG) workflows, implementing hybrid search with vector databases and custom skillsets to efficiently query massive repositories of structured and unstructured engineering reports.",
+    "Synthesized ethical AI practices and bias detection mechanisms into all model development cycles, performing rigorous hallucination analysis and performance benchmarking to uphold compliance standards in high-stakes insurance decisions.",
+    "Chaired cross-functional initiatives with Solution Architects, aligning Generative AI solutions with enterprise security protocols and data integration pipelines to support global Fortune 500 client requirements.",
+    "Instructed and mentored a team of GenAI engineers on modern LLM application patterns, prompt orchestration, and the use of open-source AI frameworks, fostering a culture of technical excellence and continuous innovation.",
+    "Steered the technical evaluation and integration of cutting-edge tools like Promptflow, Hugging Face models, and Document Intelligence to automate the extraction and processing of claims documents and property inspection data.",
+    "Pioneered the adoption of CI/CD automation and test automation strategies for AI model pipelines, leveraging Azure DevOps and Application Insights to ensure reliable, observable, and maintainable production deployments.",
+    "Governed the end-to-end lifecycle of large language model applications, from initial prompt engineering and model fine-tuning for the insurance domain to production deployments monitored via Dynatrace and custom observability metrics.",
+    "Consulted on enterprise-wide AI strategy, providing technical leadership to influence the adoption of innovative methods and state-of-the-art AI technologies that shaped the future of the company's analytical capabilities.",
+    "Negotiated technical requirements and resource allocation for AI initiatives, ensuring projects delivered impactful business outcomes aligned with strategic objectives for loss prevention and client resilience.",
+    "Validated the scalability and cost-efficiency of AI solutions through meticulous token management, context window optimization, and the implementation of cloud cost controls for Azure OpenAI and other compute resources."
+  ],
+  "technical_skills": {
+    "Generative AI & LLMs": [
+      "OpenAI models",
+      "GPT-4",
+      "Gemini",
+      "Llama2",
+      "Large Language Models (LLMs)",
+      "Multi-modal models",
+      "Generative AI solutions",
+      "Model fine-tuning",
+      "Embedding models",
+      "Prompt engineering"
+    ],
+    "Azure AI & Cloud Platform": [
+      "Azure Microsoft Infrastructure",
+      "Azure OpenAI (Azure OAI)",
+      "Azure AI Search",
+      "Azure AI Hub",
+      "Azure Application Insights",
+      "Azure cloud platform",
+      "Azure Cognitive Services",
+      "Azure Blob Storage",
+      "Azure Functions",
+      "Azure Key Vault",
+      "Azure Container Registry (ACR)",
+      "Azure Kubernetes Service (AKS)",
+      "Azure RBAC and IAM"
+    ],
+    "AI Frameworks & Orchestration": [
+      "LangChain",
+      "Llama Index",
+      "Semantic Kernel",
+      "Hugging Face",
+      "Open-source AI frameworks",
+      "Agentic AI frameworks",
+      "Agents",
+      "Assistants",
+      "Promptflow",
+      "LangSmith"
+    ],
+    "RAG & Search Technologies": [
+      "RAG workflows",
+      "Semantic Search",
+      "Hybrid Search",
+      "Generative RAG Search",
+      "Vector databases (Vector DBs)",
+      "Skillsets",
+      "Retrieval optimization (reranking)",
+      "Chunking strategies"
+    ],
+    "Programming Languages & Backend": [
+      "Python",
+      "C#",
+      ".NET",
+      "REST API development",
+      "Pydantic"
+    ],
+    "DevOps & CI/CD": [
+      "CI/CD pipelines",
+      "CI/CD automation",
+      "Azure DevOps",
+      "GitHub Actions",
+      "Terraform",
+      "Git version control"
+    ],
+    "Observability & Monitoring": [
+      "Dynatrace",
+      "Observability metrics",
+      "Application security",
+      "Model monitoring",
+      "Drift detection",
+      "Azure Monitor"
+    ],
+    "Data & Integration": [
+      "Data integration pipelines",
+      "Structured and unstructured data integration",
+      "Analytics platforms",
+      "SQL and NoSQL databases",
+      "Document Intelligence"
+    ],
+    "Containerization & Orchestration": [
+      "Kubernetes",
+      "Cloud-native architectures",
+      "Docker"
+    ],
+    "Testing & Quality Assurance": [
+      "Test automation strategies",
+      "Automated testing",
+      "Performance benchmarking",
+      "Hallucination analysis"
+    ],
+    "Security & Compliance": [
+      "Ethical AI practices",
+      "Bias detection",
+      "Ethical compliance",
+      "Application security",
+      "Disaster recovery (BC/DR)"
+    ],
+    "Methodologies": [
+      "Agile/Scrum methodologies",
+      "AI strategy development",
+      "Enterprise AI strategy"
+    ]
+  },
+  "experience": [
+    {
+      "client": "Northwestern Mutual",
+      "role": "AI Developer",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Define the strategic blueprint for enterprise Generative AI adoption within insurance operations, focusing on risk assessment automation and aligning AI initiatives with core business goals for financial planning and client advisement.",
+        "Construct a scalable RAG architecture using Azure AI Search and OpenAI embeddings, processing thousands of policy documents and financial reports to enable precise semantic search for underwriters and reduce information retrieval time.",
+        "Assemble a team of GenAI engineers, providing daily mentorship on LangChain patterns, LlamaIndex data connectors, and the implementation of ethical guardrails for AI-generated financial summaries and client communications.",
+        "Operationalize a multi-agent AI system with Semantic Kernel, where specialized agents handle distinct tasks like fraud detection, portfolio risk scoring, and regulatory compliance checks, orchestrating them for complex client scenario analysis.",
+        "Integrate Azure OpenAI's GPT-4 and Document Intelligence services to build a multi-modal assistant that analyzes both textual client profiles and scanned financial statements, improving the accuracy of personalized insurance product recommendations.",
+        "Execute a comprehensive CI/CD pipeline with Azure DevOps, automating the testing and deployment of LLM-powered features into AKS clusters, ensuring zero-downtime updates for customer-facing advisory applications.",
+        "Configure Promptflow to standardize and version hundreds of production prompts, enabling A/B testing of different question-answering strategies for the client service portal and establishing a repository of best practices.",
+        "Establish monitoring dashboards in Application Insights and Dynatrace to track LLM latency, token usage costs, and application performance, setting up alerts for model drift or degradation in response quality.",
+        "Apply advanced chunking and embedding strategies to lengthy legal and compliance documents, optimizing retrieval accuracy for the RAG system and ensuring responses cite correct policy clauses and terms.",
+        "Facilitate weekly architecture review meetings with solution architects to discuss security integration, API gateways, and cost optimization strategies for the expanding Azure OpenAI and compute resource footprint.",
+        "Automate the ingestion and vectorization pipeline for new financial research papers, using Azure Functions to trigger processing upon document upload to Blob Storage, keeping the knowledge base current.",
+        "Evaluate new open-source models from Hugging Face for potential cost-saving alternatives to GPT-4 on specific, narrow tasks, conducting performance benchmarking and bias detection tests before any integration.",
+        "Secure all API keys, model endpoints, and database connection strings within Azure Key Vault, implementing RBAC policies to control access for different developer teams and production environments.",
+        "Produce detailed technical documentation and runbooks for all deployed AI systems, covering disaster recovery procedures, prompt version rollback processes, and escalation protocols for production issues."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "Azure OpenAI (GPT-4)",
+        "Azure AI Search",
+        "LangChain",
+        "LlamaIndex",
+        "Semantic Kernel",
+        "Azure Kubernetes Service (AKS)",
+        "Azure DevOps",
+        "Terraform",
+        "Azure Functions",
+        "Azure Blob Storage",
+        "Azure Key Vault",
+        "Application Insights",
+        "Dynatrace",
+        "Promptflow",
+        "Hugging Face",
+        "Vector Databases",
+        "REST APIs",
+        "Pydantic",
+        "Git",
+        "Agents SDK",
+        "Tool calling",
+        "LLM-powered AI agents",
+        "Agentic workflows",
+        "Prompt orchestration",
+        "RAG (Retrieval-Augmented Generation)",
+        "Long-horizon task execution",
+        "Agent design patterns",
+        "Multi-agent systems"
+      ]
+    },
+    {
+      "client": "Spartex AI",
+      "role": "LLM Developer",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Designed and built a conversational AI platform from scratch, leveraging Llama2 and open-source models to create a cost-effective alternative for SMEs, with a focus on customer support and knowledge management workflows.",
+        "Developed a core RAG engine using LangChain and Pinecone, implementing hybrid search that combined keyword matching with semantic similarity to improve answer relevance across diverse client knowledge bases.",
+        "Mentored junior developers on prompt engineering techniques and the evaluation of LLM outputs, establishing a shared library of effective prompts and few-shot examples for common business intents.",
+        "Orchestrated the deployment of AI microservices on Azure Container Apps, utilizing Terraform for infrastructure-as-code and setting up GitLab CI/CD pipelines for automated builds and integration tests.",
+        "Applied Guardrails AI and custom validators to filter out inappropriate or hallucinated content from model responses, significantly increasing the trustworthiness of the platform's automated answers.",
+        "Integrated the platform with external business tools via a custom Tool calling framework and the Model Context Protocol (MCP), allowing agents to fetch real-time data from CRMs and ticketing systems.",
+        "Monitored system performance using Azure Monitor, creating custom logs for user query patterns, model response times, and error rates to identify areas for prompt optimization and system improvement.",
+        "Partnered with the product team to translate business requirements for long-horizon tasks into functional multi-agent workflows, where planning and execution agents collaborated to solve complex user queries.",
+        "Transformed the document processing module by integrating Azure Form Recognizer, automating the extraction of key fields from uploaded invoices and contracts to populate the RAG knowledge base.",
+        "Enhanced the retrieval pipeline by implementing a re-ranker model, which re-scored initial search results to push the most contextually relevant documents to the top, improving final answer quality."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "Llama2",
+        "LangChain",
+        "LlamaIndex",
+        "Azure Container Apps",
+        "Pinecone (Vector DB)",
+        "Azure Form Recognizer",
+        "Guardrails AI",
+        "Model Context Protocol (MCP)",
+        "Tool calling",
+        "GitLab CI/CD",
+        "Terraform",
+        "Azure Monitor",
+        "REST APIs",
+        "Open-source AI frameworks",
+        "Agents",
+        "RAG workflows",
+        "Hybrid Search",
+        "Prompt engineering",
+        "LLM-powered AI agents",
+        "Agentic workflows",
+        "Prompt orchestration",
+        "RAG (Retrieval-Augmented Generation)",
+        "Long-horizon task execution",
+        "Agent design patterns",
+        "Multi-agent systems"
+      ]
+    },
+    {
+      "client": "Ola",
+      "role": "Machine Learning Engineer",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Bangalore, India.",
+      "responsibilities": [
+        "Built and scaled real-time ML models on AWS SageMaker to predict ride demand surges across Indian cities, optimizing driver allocation and reducing customer wait times during peak hours.",
+        "Engineered a data pipeline using Apache Spark on AWS EMR to process terabytes of ride telemetry and GPS data daily, creating features for models that improved ETA prediction accuracy.",
+        "Created an anomaly detection system to identify fraudulent ride patterns and payment issues, safeguarding revenue and improving the trustworthiness of the driver and rider ecosystem.",
+        "Deployed models as scalable endpoints on AWS, implementing canary deployment strategies and auto-scaling policies to handle variable inference loads during festival seasons and large events.",
+        "Tested model performance rigorously using A/B testing frameworks, comparing new algorithm versions against baselines on key business metrics like utilization rate and customer satisfaction scores.",
+        "Maintained and iteratively improved production models, addressing performance drift by retraining on fresh data and debugging issues related to feature pipeline latency or data quality.",
+        "Collaborated with data engineers to modernize the feature store, ensuring consistent feature availability for both batch and real-time inference scenarios across multiple ML teams.",
+        "Assisted in the design of a cost-optimized ML platform, selecting appropriate EC2 instance types and leveraging Spot Instances for training jobs to reduce AWS cloud expenditure."
+      ],
+      "environment": [
+        "Python",
+        "Apache Spark",
+        "AWS SageMaker",
+        "AWS EMR",
+        "AWS Lambda",
+        "Amazon S3",
+        "Scikit-learn",
+        "XGBoost",
+        "MLflow",
+        "Docker",
+        "Git",
+        "CI/CD Pipelines",
+        "A/B Testing",
+        "Real-time Inference"
+      ]
+    },
+    {
+      "client": "ICICI Bank",
+      "role": "Azure Data Engineer",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Migrated on-premise customer transaction data to Azure Data Lake Storage Gen2, designing partitioning strategies for efficient querying and establishing data governance policies.",
+        "Developed batch data integration pipelines using Azure Data Factory, orchestrating the daily ETL of millions of records from core banking systems into a centralized analytical data warehouse.",
+        "Produced PySpark scripts within Azure Databricks to cleanse and transform raw financial data, creating golden datasets for use by risk analytics and customer segmentation teams.",
+        "Supported the deployment of initial Power BI dashboards by building optimized SQL views in Azure Synapse Analytics, enabling business users to monitor key lending metrics.",
+        "Worked with the security team to implement column-level encryption and Azure Active Directory integration for the data platform, ensuring compliance with stringent financial regulations.",
+        "Facilitated knowledge transfer sessions for the operational team, documenting pipeline dependencies and failure recovery procedures to ensure smooth day-to-day platform management."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Databricks",
+        "PySpark",
+        "Azure Data Lake Storage",
+        "Azure Synapse Analytics",
+        "SQL",
+        "Power BI",
+        "Azure Active Directory",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

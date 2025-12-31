@@ -1,0 +1,346 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized SQL and Python to build data pipelines for healthcare claims processing, ensuring HIPAA compliance and improving data accuracy in insurance workflows.",
+    "Implemented Snowflake for data warehousing in a healthcare project, optimizing query performance and enabling real-time analytics for claims processing.",
+    "Integrated Vertex AI for predictive modeling in healthcare, enhancing patient outcome predictions and supporting clinical decision-making.",
+    "Worked with GBI Tools (Apple Internal) to streamline data integration processes, improving data flow efficiency in healthcare analytics projects.",
+    "Leveraged Keystone for metadata management, ensuring data consistency and traceability across healthcare data pipelines.",
+    "Developed ETL processes using Python and SQL, transforming raw healthcare data into structured formats for analysis and reporting.",
+    "Collaborated with cross-functional teams to design and deploy data models in Snowflake, supporting healthcare analytics and reporting.",
+    "Implemented data validation checks in Python to ensure data integrity in healthcare datasets, reducing errors in claims processing.",
+    "Used Vertex AI to build machine learning models for healthcare fraud detection, improving accuracy and reducing false positives.",
+    "Optimized SQL queries in Snowflake to enhance performance for large-scale healthcare data analytics, reducing query execution time.",
+    "Integrated Keystone with data pipelines to manage metadata, ensuring compliance with healthcare data governance standards.",
+    "Worked on data migration projects, moving healthcare data from on-premise systems to Snowflake, ensuring data integrity and minimal downtime.",
+    "Developed dashboards using GBI Tools to visualize healthcare data, providing insights for stakeholders and improving decision-making.",
+    "Implemented data security measures in Snowflake to protect sensitive healthcare information, ensuring compliance with HIPAA regulations.",
+    "Used Python to automate data ingestion processes, reducing manual effort and improving efficiency in healthcare data workflows.",
+    "Collaborated with data scientists to deploy models on Vertex AI, supporting predictive analytics for healthcare applications.",
+    "Conducted code reviews and troubleshooting sessions to ensure high-quality data engineering solutions in healthcare projects.",
+    "Mentored junior team members on best practices for data engineering, focusing on SQL, Python, and Snowflake in healthcare contexts."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "Apple",
+      "duration": "2025-Jan - Present",
+      "location": "Cupertino, CA",
+      "responsibilities": [
+        "Utilized SQL and Python to build and optimize data pipelines for healthcare analytics, ensuring HIPAA compliance and improving data processing efficiency.",
+        "Implemented Snowflake for data warehousing, optimizing query performance and enabling real-time analytics for healthcare data.",
+        "Integrated Vertex AI for predictive modeling, enhancing patient outcome predictions and supporting clinical decision-making.",
+        "Worked with GBI Tools (Apple Internal) to streamline data integration processes, improving data flow efficiency in healthcare projects.",
+        "Leveraged Keystone for metadata management, ensuring data consistency and traceability across healthcare data pipelines.",
+        "Developed ETL processes using Python and SQL, transforming raw healthcare data into structured formats for analysis and reporting.",
+        "Collaborated with cross-functional teams to design and deploy data models in Snowflake, supporting healthcare analytics and reporting.",
+        "Implemented data validation checks in Python to ensure data integrity in healthcare datasets, reducing errors in claims processing.",
+        "Used Vertex AI to build machine learning models for healthcare fraud detection, improving accuracy and reducing false positives.",
+        "Optimized SQL queries in Snowflake to enhance performance for large-scale healthcare data analytics, reducing query execution time.",
+        "Integrated Keystone with data pipelines to manage metadata, ensuring compliance with healthcare data governance standards.",
+        "Worked on data migration projects, moving healthcare data from on-premise systems to Snowflake, ensuring data integrity and minimal downtime.",
+        "Developed dashboards using GBI Tools to visualize healthcare data, providing insights for stakeholders and improving decision-making.",
+        "Implemented data security measures in Snowflake to protect sensitive healthcare information, ensuring compliance with HIPAA regulations.",
+        "Used Python to automate data ingestion processes, reducing manual effort and improving efficiency in healthcare data workflows.",
+        "Collaborated with data scientists to deploy models on Vertex AI, supporting predictive analytics for healthcare applications.",
+        "Conducted code reviews and troubleshooting sessions to ensure high-quality data engineering solutions in healthcare projects."
+      ],
+      "environment": [
+        "SQL, Python, Snowflake, Vertex AI, GBI Tools, Keystone, GCP"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Engineered data pipelines using Python and SQL for healthcare claims processing, ensuring HIPAA compliance and data accuracy.",
+        "Implemented Snowflake for data warehousing, optimizing query performance for healthcare analytics.",
+        "Integrated Vertex AI for predictive modeling, enhancing patient outcome predictions in healthcare.",
+        "Worked with GBI Tools to streamline data integration processes in healthcare projects.",
+        "Leveraged Keystone for metadata management, ensuring data consistency in healthcare data pipelines.",
+        "Developed ETL processes using Python and SQL, transforming raw healthcare data for analysis.",
+        "Collaborated with teams to design data models in Snowflake for healthcare reporting.",
+        "Implemented data validation checks in Python to ensure integrity in healthcare datasets.",
+        "Used Vertex AI to build models for healthcare fraud detection, improving accuracy.",
+        "Optimized SQL queries in Snowflake for large-scale healthcare data analytics.",
+        "Integrated Keystone with pipelines to manage metadata in healthcare projects.",
+        "Worked on migrating healthcare data to Snowflake, ensuring integrity and minimal downtime.",
+        "Developed dashboards using GBI Tools to visualize healthcare data for stakeholders.",
+        "Implemented security measures in Snowflake to protect healthcare information.",
+        "Automated data ingestion processes using Python in healthcare workflows."
+      ],
+      "environment": [
+        "AWS"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Built data pipelines using Python and SQL for healthcare analytics, ensuring HIPAA compliance.",
+        "Implemented Snowflake for data warehousing, optimizing query performance in healthcare.",
+        "Integrated Vertex AI for predictive modeling in healthcare applications.",
+        "Worked with GBI Tools to streamline data integration in healthcare projects.",
+        "Leveraged Keystone for metadata management in healthcare data pipelines.",
+        "Developed ETL processes using Python and SQL for healthcare data transformation.",
+        "Collaborated with teams to design data models in Snowflake for healthcare reporting.",
+        "Implemented data validation checks in Python for healthcare datasets.",
+        "Used Vertex AI to build models for healthcare fraud detection.",
+        "Optimized SQL queries in Snowflake for healthcare data analytics.",
+        "Integrated Keystone with pipelines to manage metadata in healthcare.",
+        "Worked on migrating healthcare data to Snowflake, ensuring integrity.",
+        "Developed dashboards using GBI Tools to visualize healthcare data.",
+        "Implemented security measures in Snowflake to protect healthcare information.",
+        "Automated data ingestion processes using Python in healthcare."
+      ],
+      "environment": [
+        "GCP"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed data pipelines using Python and SQL for banking analytics.",
+        "Implemented Snowflake for data warehousing, optimizing query performance.",
+        "Integrated Vertex AI for predictive modeling in banking applications.",
+        "Worked with GBI Tools to streamline data integration in banking projects.",
+        "Leveraged Keystone for metadata management in banking data pipelines.",
+        "Developed ETL processes using Python and SQL for banking data transformation.",
+        "Collaborated with teams to design data models in Snowflake for banking reporting.",
+        "Implemented data validation checks in Python for banking datasets.",
+        "Used Vertex AI to build models for banking fraud detection.",
+        "Optimized SQL queries in Snowflake for banking data analytics.",
+        "Integrated Keystone with pipelines to manage metadata in banking.",
+        "Worked on migrating banking data to Snowflake, ensuring integrity.",
+        "Developed dashboards using GBI Tools to visualize banking data.",
+        "Implemented security measures in Snowflake to protect banking information.",
+        "Automated data ingestion processes using Python in banking workflows."
+      ],
+      "environment": [
+        "Azure"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Built data pipelines using Python and SQL for consulting projects.",
+        "Implemented Snowflake for data warehousing, optimizing query performance.",
+        "Integrated Vertex AI for predictive modeling in consulting applications.",
+        "Worked with GBI Tools to streamline data integration in consulting projects.",
+        "Leveraged Keystone for metadata management in consulting data pipelines.",
+        "Developed ETL processes using Python and SQL for consulting data transformation.",
+        "Collaborated with teams to design data models in Snowflake for consulting reporting.",
+        "Implemented data validation checks in Python for consulting datasets.",
+        "Used Vertex AI to build models for consulting fraud detection.",
+        "Optimized SQL queries in Snowflake for consulting data analytics.",
+        "Integrated Keystone with pipelines to manage metadata in consulting.",
+        "Worked on migrating consulting data to Snowflake, ensuring integrity.",
+        "Developed dashboards using GBI Tools to visualize consulting data.",
+        "Implemented security measures in Snowflake to protect consulting information.",
+        "Automated data ingestion processes using Python in consulting workflows."
+      ],
+      "environment": [
+        "Azure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

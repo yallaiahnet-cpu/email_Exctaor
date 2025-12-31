@@ -1,0 +1,338 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "GEN AI Architect and Prompt Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI architecture and conversational AI, specializing in designing enterprise-scale virtual assistants and implementing generative AI solutions across multiple industries.",
+    "Architected end-to-end conversational AI agents using GCP Vertex AI and Dialogflow CX, integrating CCAI Playbooks for natural language understanding while ensuring responsible AI principles in production deployments.",
+    "Expert in prompt engineering for LLMs, crafting sophisticated prompts that optimize generative AI model responses, implementing conversation design patterns for voice and chat agents with advanced state handling mechanisms.",
+    "Deployed production-ready virtual assistants on Google Cloud Platform, leveraging Conversational Agents API with Python-based integrations, establishing MLOps pipelines for continuous monitoring and performance optimization.",
+    "Designed conversational flows incorporating linguistics expertise, defining user journeys with complex intent recognition, entity extraction, and context management for multi-turn dialogues in enterprise environments.",
+    "Implemented REST APIs and webhooks for backend system integrations, connecting Dialogflow CX agents with Google Cloud services, ensuring scalable architecture patterns for high-availability conversational interfaces.",
+    "Tuned NLU models through iterative refinement and data analysis, optimizing agent performance metrics while maintaining safety and fairness standards in AI-generated content across diverse user demographics.",
+    "Built Python-based automation frameworks for conversation testing, implementing CI/CD pipelines for agent deployments, managing version control systems for prompt libraries and conversation templates effectively.",
+    "Established MLOps best practices for AI agent lifecycle management, implementing automated monitoring frameworks, troubleshooting complex conversational issues while maintaining enterprise-grade reliability standards.",
+    "Collaborated with cross-functional teams including developers and product managers, translating business requirements into technical architectures, ensuring conversational AI solutions align with stakeholder expectations.",
+    "Developed serverless architectures for conversational agent backends, utilizing Cloud Functions and Pub/Sub messaging, implementing microservices patterns for scalable integration with enterprise systems seamlessly.",
+    "Created comprehensive prompt libraries for generative AI models, incorporating chain-of-thought reasoning, few-shot learning techniques, and prompt optimization strategies for domain-specific use cases effectively.",
+    "Engineered conversation state handlers managing complex dialogue flows, implementing fallback strategies, error recovery mechanisms, and context switching capabilities for natural conversational experiences reliably.",
+    "Applied responsible AI principles ensuring ethical content generation, implementing safety filters, bias detection mechanisms, and fairness metrics in conversational AI systems across healthcare and financial domains.",
+    "Designed IAM policies and security configurations for GCP deployments, implementing data encryption, access controls, and compliance frameworks for conversational AI agents handling sensitive information securely.",
+    "Optimized agent response times through caching strategies, load balancing configurations, and performance tuning, achieving sub-second latency for real-time conversational interactions in production environments.",
+    "Developed linguistic analysis tools for conversation quality assessment, implementing sentiment analysis, intent classification accuracy metrics, and user satisfaction scoring for continuous improvement initiatives.",
+    "Architected multi-agent systems using CrewAI and Langgraph frameworks, implementing Model Context Protocol for agent-to-agent communication, establishing proof-of-concept architectures for complex AI workflows."
+  ],
+  "technical_skills": {
+    "GCP AI Services": [
+      "Vertex AI",
+      "Dialogflow CX",
+      "CCAI",
+      "Playbooks",
+      "Conversational Agents",
+      "Cloud Functions",
+      "Pub/Sub",
+      "Cloud Run",
+      "BigQuery ML"
+    ],
+    "Prompt Engineering & LLMs": [
+      "Prompt Design",
+      "Chain-of-Thought",
+      "Few-Shot Learning",
+      "Prompt Optimization",
+      "LLM Fine-tuning",
+      "Prompt Libraries",
+      "Context Management",
+      "Response Refinement"
+    ],
+    "Conversation Design": [
+      "User Journey Mapping",
+      "Intent Recognition",
+      "Entity Extraction",
+      "State Handlers",
+      "Conversation Flows",
+      "Fallback Strategies",
+      "Context Switching",
+      "Multi-turn Dialogues"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Bash",
+      "SQL",
+      "JSON",
+      "YAML"
+    ],
+    "AI Frameworks": [
+      "CrewAI",
+      "Langgraph",
+      "LangChain",
+      "Model Context Protocol",
+      "Multi-Agent Systems",
+      "Agent-to-Agent Communication",
+      "Hugging Face",
+      "OpenAI APIs"
+    ],
+    "Integration Technologies": [
+      "REST APIs",
+      "Webhooks",
+      "gRPC",
+      "GraphQL",
+      "WebSockets",
+      "OAuth 2.0",
+      "API Gateway",
+      "Service Mesh"
+    ],
+    "MLOps & DevOps": [
+      "CI/CD Pipelines",
+      "GitHub Actions",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "ArgoCD",
+      "MLflow",
+      "Kubeflow"
+    ],
+    "NLU & Linguistics": [
+      "Natural Language Understanding",
+      "Syntax Analysis",
+      "Semantic Processing",
+      "Sentiment Analysis",
+      "Intent Classification",
+      "Named Entity Recognition",
+      "Conversation Analytics",
+      "Language Models"
+    ],
+    "Responsible AI": [
+      "AI Ethics",
+      "Bias Detection",
+      "Fairness Metrics",
+      "Safety Filters",
+      "Content Moderation",
+      "Privacy Compliance",
+      "Explainable AI",
+      "Model Governance"
+    ],
+    "Cloud Architecture": [
+      "Microservices",
+      "Serverless",
+      "Event-Driven",
+      "Load Balancing",
+      "Auto-scaling",
+      "Caching Strategies",
+      "High Availability",
+      "Disaster Recovery"
+    ],
+    "Data Management": [
+      "BigQuery",
+      "Cloud SQL",
+      "Firestore",
+      "Redis",
+      "Data Preprocessing",
+      "ETL Pipelines",
+      "Stream Processing",
+      "Data Validation"
+    ],
+    "Monitoring & Analytics": [
+      "Cloud Monitoring",
+      "Cloud Logging",
+      "Performance Metrics",
+      "A/B Testing",
+      "User Analytics",
+      "Error Tracking",
+      "Dashboard Creation",
+      "Alert Management"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architected enterprise conversational AI agents using Dialogflow CX with Vertex AI integration, implementing CCAI Playbooks for insurance claim processing, reducing manual intervention through intelligent automation workflows.",
+        "Engineered sophisticated prompt libraries for generative AI models, crafting context-aware prompts with chain-of-thought reasoning, optimizing LLM responses for insurance policy explanations and customer inquiry resolution.",
+        "Deployed multi-agent systems using CrewAI framework with Model Context Protocol, establishing agent-to-agent communication patterns for complex insurance underwriting workflows requiring collaborative AI decision-making.",
+        "Implemented Python-based webhook services connecting Dialogflow CX to backend APIs, processing real-time insurance data through REST endpoints, ensuring secure data transmission with OAuth 2.0 authentication mechanisms.",
+        "Designed conversation flows incorporating state handlers for multi-turn dialogues, managing context across insurance quote generation sessions, implementing fallback strategies for graceful error recovery in production.",
+        "Tuned NLU models through iterative data analysis and refinement cycles, improving intent classification accuracy for insurance-specific terminology, leveraging BigQuery ML for performance metrics analysis and optimization.",
+        "Established MLOps pipelines using Cloud Build and Terraform infrastructure, automating conversational agent deployments across GCP environments, implementing version control for prompt templates and conversation designs.",
+        "Created linguistic analysis tools evaluating conversation quality metrics, implementing sentiment tracking for customer satisfaction monitoring, generating insights through natural language processing of interaction transcripts.",
+        "Built serverless architectures using Cloud Functions for conversation preprocessing, implementing Pub/Sub messaging for asynchronous processing, ensuring scalable handling of concurrent insurance claim conversations effectively.",
+        "Integrated responsible AI principles into content generation workflows, implementing safety filters for insurance advice accuracy, establishing fairness metrics to prevent bias in automated claim assessment processes.",
+        "Developed proof-of-concept solutions using Langgraph for complex reasoning tasks, demonstrating multi-agent collaboration capabilities for insurance fraud detection through coordinated AI analysis of claim patterns.",
+        "Optimized Conversational Agents performance through caching strategies and load balancing, achieving sub-second response times for voice interactions, enhancing user experience in high-traffic insurance enrollment periods.",
+        "Collaborated with product managers translating business requirements into technical specifications, designing conversation journeys aligned with insurance regulations, ensuring compliance with state-specific policy requirements.",
+        "Implemented comprehensive monitoring using Cloud Logging and custom dashboards, tracking conversation completion rates and user satisfaction scores, identifying optimization opportunities through data-driven analysis methods.",
+        "Engineered Python automation scripts for conversation testing and quality assurance, implementing regression testing frameworks for prompt variations, ensuring consistent AI responses across different insurance scenarios.",
+        "Designed IAM policies and security configurations for GCP deployments, implementing data encryption for sensitive insurance information, establishing audit trails for conversational AI interactions with compliance tracking."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Dialogflow CX",
+        "CCAI",
+        "Playbooks",
+        "Conversational Agents",
+        "Python",
+        "CrewAI",
+        "Langgraph",
+        "Model Context Protocol",
+        "REST APIs",
+        "Webhooks",
+        "Cloud Functions",
+        "Pub/Sub",
+        "BigQuery ML",
+        "Terraform",
+        "MLOps"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed conversational AI solutions using Dialogflow CX for healthcare applications, integrating CCAI capabilities for patient engagement, ensuring HIPAA compliance throughout the conversation design and data handling processes.",
+        "Crafted specialized prompts for medical information retrieval using Vertex AI, implementing prompt engineering techniques for accurate symptom analysis, maintaining responsible AI standards for healthcare content generation.",
+        "Built Python-based integration frameworks connecting conversational agents to healthcare systems, implementing REST APIs for electronic health record access, ensuring secure webhook communications with encryption protocols.",
+        "Designed conversation flows for patient intake processes incorporating complex state management, handling multi-turn medical history collection dialogues, implementing context preservation across extended consultation sessions.",
+        "Established proof-of-concept multi-agent systems using CrewAI for clinical decision support, demonstrating collaborative AI capabilities for treatment recommendation workflows based on patient data analysis patterns.",
+        "Tuned NLU models specifically for medical terminology and patient expressions, improving intent recognition accuracy through iterative training cycles, leveraging healthcare-specific datasets for model optimization.",
+        "Implemented MLOps practices for conversational agent lifecycle management in GCP, automating deployment pipelines with continuous monitoring, establishing rollback mechanisms for production stability maintenance.",
+        "Created linguistic processing tools analyzing patient conversation patterns for sentiment detection, identifying emotional indicators requiring human intervention, generating alerts for critical healthcare situations automatically.",
+        "Engineered serverless backends using Cloud Functions for conversation preprocessing tasks, implementing asynchronous processing through Pub/Sub messaging, ensuring scalable architecture for peak usage periods effectively.",
+        "Integrated responsible AI principles ensuring medical advice accuracy and safety, implementing content validation against clinical guidelines, establishing audit trails for AI-generated healthcare recommendations systematically.",
+        "Developed conversation quality metrics dashboards using BigQuery and Data Studio, tracking patient satisfaction scores and conversation completion rates, identifying improvement areas through comprehensive data analysis.",
+        "Collaborated with healthcare professionals translating clinical workflows into conversation designs, ensuring medical accuracy in dialogue flows, adapting technical solutions to meet regulatory compliance requirements.",
+        "Optimized Conversational Agents performance for voice interactions in telehealth scenarios, implementing noise reduction and accent adaptation, achieving reliable speech recognition across diverse patient demographics.",
+        "Built Python automation frameworks for regression testing conversation scenarios, validating prompt consistency across model updates, ensuring stable performance through comprehensive quality assurance processes."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Dialogflow CX",
+        "CCAI",
+        "Python",
+        "CrewAI",
+        "Langgraph",
+        "REST APIs",
+        "Webhooks",
+        "Cloud Functions",
+        "Pub/Sub",
+        "BigQuery",
+        "MLOps",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented conversational AI interfaces for state healthcare services using natural language processing, designing dialogue flows for benefit enrollment, integrating with AWS services while applying prompt engineering principles.",
+        "Developed Python-based chatbot frameworks processing citizen inquiries about healthcare programs, implementing intent classification models, ensuring HIPAA compliance while maintaining conversation context across sessions.",
+        "Engineered REST API integrations connecting conversational interfaces to backend healthcare databases, implementing webhook handlers for real-time data retrieval, securing communications through encryption protocols effectively.",
+        "Created conversation design patterns for multi-language support in state services, implementing entity extraction for personal information handling, managing state transitions in complex enrollment workflows systematically.",
+        "Built NLU training pipelines processing healthcare terminology and citizen queries, improving model accuracy through data augmentation techniques, implementing continuous learning from conversation feedback loops.",
+        "Established monitoring frameworks tracking conversation metrics and user satisfaction scores, generating insights through sentiment analysis of interactions, identifying service improvement opportunities through data analysis.",
+        "Designed fallback mechanisms and error handling strategies for conversation failures, implementing graceful recovery patterns maintaining user context, ensuring positive experience despite technical challenges encountered.",
+        "Collaborated with state officials translating policy requirements into technical implementations, ensuring conversational flows aligned with healthcare regulations, adapting solutions for accessibility compliance standards.",
+        "Optimized chatbot response times through caching frequently accessed information, implementing load balancing for concurrent conversation handling, achieving reliable performance during open enrollment periods.",
+        "Developed testing frameworks validating conversation flows against regulatory requirements, implementing automated quality checks for response accuracy, ensuring consistent service delivery across different scenarios.",
+        "Created documentation and training materials for conversation design best practices, establishing guidelines for prompt creation and optimization, enabling knowledge transfer to state technology teams effectively.",
+        "Implemented security measures protecting sensitive healthcare information in conversations, establishing audit logging for compliance tracking, ensuring data privacy through appropriate access controls systematically."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Natural Language Processing",
+        "REST APIs",
+        "Webhooks",
+        "Machine Learning",
+        "HIPAA Compliance",
+        "Conversation Design",
+        "Intent Classification",
+        "Entity Extraction"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed natural language processing models for customer service automation in banking, implementing intent recognition for financial inquiries, applying early conversation design principles for interactive systems.",
+        "Built Python scripts processing customer interaction data for pattern analysis, implementing classification algorithms for query categorization, establishing foundations for conversational AI implementations in finance.",
+        "Created REST API endpoints exposing NLP models for real-time text analysis, implementing webhook receivers for transaction notifications, ensuring PCI compliance in data handling and processing workflows.",
+        "Engineered feature extraction pipelines for conversation sentiment analysis models, processing customer feedback for service improvement insights, identifying optimization opportunities through linguistic pattern recognition.",
+        "Implemented machine learning models predicting customer inquiry types from initial messages, training classifiers on banking-specific datasets, improving routing efficiency through automated intent detection systems.",
+        "Designed data preprocessing workflows cleaning and structuring conversational transcripts, implementing entity extraction for account information, maintaining data quality for model training processes consistently.",
+        "Collaborated with business teams understanding customer service pain points, translating requirements into technical NLP solutions, demonstrating value through proof-of-concept conversational interfaces effectively.",
+        "Developed evaluation metrics for natural language understanding model performance, implementing A/B testing frameworks for response variations, optimizing conversation flows based on user engagement data.",
+        "Built visualization dashboards displaying conversation analytics and trending topics, generating insights from customer interaction patterns, supporting data-driven decisions for service enhancement initiatives.",
+        "Established version control practices for NLP model development and prompt iterations, implementing reproducible research workflows, ensuring consistent results across experimental conversation designs systematically."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "Natural Language Processing",
+        "Machine Learning",
+        "REST APIs",
+        "Webhooks",
+        "PCI Compliance",
+        "Sentiment Analysis",
+        "Data Visualization"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Supported data pipeline development using Hadoop ecosystem for text data processing, implementing Sqoop jobs for database extractions, establishing foundations for large-scale conversational data analysis.",
+        "Assisted in building Informatica workflows processing unstructured text data streams, learning ETL best practices for data transformation, contributing to projects requiring natural language data handling.",
+        "Collaborated on Python script development for data preprocessing and cleaning tasks, implementing regex patterns for text normalization, gaining experience with linguistic data preparation techniques gradually.",
+        "Participated in designing data schemas for storing conversation-like interaction logs, implementing partitioning strategies in Hadoop, optimizing query performance for analytical workloads effectively over time.",
+        "Learned REST API development basics creating simple endpoints for data access, understanding webhook concepts through practical implementations, building foundation skills for future integration projects.",
+        "Contributed to documentation efforts for data pipeline architectures and workflows, creating runbooks for operational procedures, establishing knowledge base for team collaboration and knowledge sharing.",
+        "Supported testing initiatives validating data quality in ETL processes, implementing basic validation scripts checking completeness, ensuring reliable data flow through processing pipelines consistently.",
+        "Gained exposure to consulting practices working with diverse client requirements, adapting technical solutions to business needs, developing communication skills for stakeholder interactions progressively."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "ETL",
+        "Data Processing",
+        "REST APIs",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

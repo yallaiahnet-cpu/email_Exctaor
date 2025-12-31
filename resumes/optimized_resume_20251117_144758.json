@@ -1,0 +1,208 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead QA Automation Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java and Selenium to design automation frameworks for healthcare claims processing, reducing manual effort by ensuring consistent test execution across AWS environments, while mentoring team members on framework best practices.",
+    "Implemented BDD using Cucumber for insurance policy management systems, enhancing collaboration between QA and business teams, and ensuring tests were aligned with HIPAA compliance requirements.",
+    "Integrated CI/CD pipelines with Jenkins for banking application testing, achieving faster feedback loops and reducing deployment times by automating regression suites in Azure environments.",
+    "Developed hybrid frameworks combining data-driven and keyword-driven approaches for government portal testing, improving test coverage and maintainability while adhering to GDPR standards.",
+    "Led performance testing initiatives using JMeter for high-volume healthcare claims, identifying bottlenecks and optimizing system performance under load in AWS, ensuring scalability.",
+    "Collaborated with business SMEs to design end-to-end test cases for provider eligibility systems, ensuring comprehensive coverage and alignment with business requirements in HIPAA-compliant environments.",
+    "Coordinated UAT sessions with stakeholders for banking applications, ensuring smooth transitions to production and gathering feedback for iterative improvements in Azure-hosted systems.",
+    "Managed defect lifecycle using JIRA for healthcare insurance platforms, prioritizing and tracking issues to ensure timely resolution and maintaining system stability under PCI compliance.",
+    "Contributed to reusable framework components and shared libraries for insurance policy automation, promoting code reusability and reducing development time across AWS-based projects.",
+    "Executed regression, smoke, and functional tests for banking trade booking systems, ensuring system reliability and performance in Azure environments while adhering to PCI standards.",
+    "Performed post-deployment validation for government portals, ensuring system stability and user experience in AWS environments, and addressing issues promptly to minimize downtime.",
+    "Conducted load and stress testing for payment APIs in banking systems using JMeter, analyzing results to provide recommendations for system improvements in Azure environments.",
+    "Mentored QA team members on CI/CD integration and code review practices, fostering a culture of continuous improvement and knowledge sharing across AWS and Azure projects.",
+    "Designed and implemented automation frameworks for healthcare provider portals, reducing manual testing efforts and improving test coverage while ensuring HIPAA compliance in AWS environments.",
+    "Built hybrid frameworks for insurance claims processing, combining data-driven and BDD models to enhance test flexibility and maintainability in AWS environments.",
+    "Collaborated with product owners to define test strategies for banking applications, ensuring alignment with business goals and delivering high-quality software in Azure environments.",
+    "Coordinated with business stakeholders to conduct UAT for government portals, ensuring system readiness and gathering feedback for final adjustments in AWS environments.",
+    "Analyzed performance test results for healthcare eligibility systems, identifying areas for optimization and ensuring system scalability under high-volume transactions in AWS environments."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Automation Tools": [
+      "Selenium",
+      "Cypress",
+      "REST Assured",
+      "TestNG",
+      "JUnit",
+      "Cucumber"
+    ],
+    "Performance Testing": [
+      "JMeter",
+      "LoadRunner",
+      "Gatling"
+    ],
+    "CI/CD Tools": [
+      "Jenkins",
+      "GitLab CI",
+      "GitHub Actions",
+      "Azure DevOps"
+    ],
+    "Defect Tracking": [
+      "JIRA",
+      "HP ALM",
+      "ServiceNow"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, S3, Lambda)",
+      "Azure (DevOps, Databricks)",
+      "GCP (BigQuery)"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "Bitbucket"
+    ],
+    "Testing Frameworks": [
+      "Data-Driven",
+      "Keyword-Driven",
+      "BDD",
+      "TDD"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "API Testing": [
+      "Postman",
+      "Swagger",
+      "SOAP UI"
+    ],
+    "Containerization": [
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Lead QA Automation Engineer",
+      "client": "Molina Healthcare",
+      "duration": "2022-Jan - Present",
+      "location": "Long Beach, California",
+      "responsibilities": [
+        "Designed and implemented automation frameworks using Java and Selenium for healthcare claims processing, reducing manual effort by 40% and ensuring consistent test execution across AWS environments.",
+        "Integrated CI/CD pipelines with Jenkins for regression testing, achieving faster feedback loops and reducing deployment times by 30% in Azure environments.",
+        "Conducted performance and reliability tests with JMeter on high-volume claims and eligibility flows, identifying bottlenecks and optimizing system performance under load in AWS.",
+        "Mentored QA team members on framework development, CI/CD integration, and code review best practices, fostering a culture of continuous improvement across AWS and Azure projects.",
+        "Collaborated with product owners and business SMEs to design end-to-end test cases for provider eligibility systems, ensuring comprehensive coverage and alignment with HIPAA compliance requirements.",
+        "Managed defect lifecycle using JIRA, prioritizing and tracking issues to ensure timely resolution and maintaining system stability under PCI compliance.",
+        "Contributed to reusable framework components and shared libraries for insurance policy automation, promoting code reusability and reducing development time across AWS-based projects.",
+        "Executed regression, smoke, and functional tests for healthcare provider portals, ensuring system reliability and performance in AWS environments while adhering to HIPAA standards.",
+        "Performed post-deployment validation for claims processing systems, ensuring system stability and user experience in AWS environments, and addressing issues promptly to minimize downtime.",
+        "Analyzed performance test results for eligibility systems, identifying areas for optimization and ensuring system scalability under high-volume transactions in AWS environments.",
+        "Built hybrid frameworks combining data-driven and keyword-driven approaches for insurance policy management, improving test coverage and maintainability while adhering to GDPR standards.",
+        "Coordinated UAT sessions with business stakeholders for healthcare provider portals, ensuring smooth transitions to production and gathering feedback for iterative improvements in AWS environments.",
+        "Implemented BDD using Cucumber for insurance claims processing, enhancing collaboration between QA and business teams, and ensuring tests were aligned with HIPAA compliance requirements.",
+        "Developed automation scripts for RESTful APIs using REST Assured, ensuring API reliability and performance in AWS environments while adhering to PCI standards.",
+        "Led performance testing initiatives for high-volume claims, analyzing results to provide recommendations for system improvements and ensuring scalability in AWS environments.",
+        "Collaborated with DevOps teams to automate test environment setup using Docker and Kubernetes, reducing environment provisioning time by 50% in AWS and Azure environments."
+      ],
+      "environment": [
+        "Java, Selenium, JMeter, Jenkins, JIRA, AWS, HIPAA, PCI"
+      ]
+    },
+    {
+      "role": "Senior QA Automation Engineer",
+      "client": "State of Washington",
+      "duration": "2019-Mar - 2021-Dec",
+      "location": "Olympia, Washington",
+      "responsibilities": [
+        "Built hybrid frameworks combining data-driven and BDD models for government portal testing, improving test coverage and maintainability while adhering to GDPR standards in AWS environments.",
+        "Conducted performance and load testing with JMeter for high-volume government portals, identifying performance bottlenecks and ensuring system scalability in AWS environments.",
+        "Mentored QA team members on framework development, CI/CD integration, and code review best practices, fostering a culture of continuous improvement across AWS projects.",
+        "Collaborated with business SMEs to design end-to-end test cases for government service portals, ensuring comprehensive coverage and alignment with business requirements in HIPAA-compliant environments.",
+        "Coordinated UAT sessions with business stakeholders for government applications, ensuring system readiness and gathering feedback for final adjustments in AWS environments.",
+        "Managed defect lifecycle using JIRA, prioritizing and tracking issues to ensure timely resolution and maintaining system stability under PCI compliance.",
+        "Executed regression, smoke, and functional tests for government service portals, ensuring system reliability and performance in AWS environments while adhering to GDPR standards.",
+        "Performed post-deployment validation for government systems, ensuring system stability and user experience in AWS environments, and addressing issues promptly to minimize downtime.",
+        "Analyzed performance test results for government portals, identifying areas for optimization and ensuring system scalability under high-volume transactions in AWS environments.",
+        "Implemented BDD using Cucumber for government service workflows, enhancing collaboration between QA and business teams, and ensuring tests were aligned with HIPAA compliance requirements.",
+        "Developed automation scripts for RESTful APIs using REST Assured, ensuring API reliability and performance in AWS environments while adhering to PCI standards.",
+        "Led performance testing initiatives for high-volume government services, analyzing results to provide recommendations for system improvements and ensuring scalability in AWS environments.",
+        "Collaborated with DevOps teams to automate test environment setup using Docker and Kubernetes, reducing environment provisioning time by 50% in AWS environments.",
+        "Designed and implemented automation frameworks using Java and Selenium for government service portals, reducing manual effort by 40% and ensuring consistent test execution across AWS environments."
+      ],
+      "environment": [
+        "Java, Selenium, JMeter, Jenkins, JIRA, AWS, HIPAA, GDPR"
+      ]
+    },
+    {
+      "role": "QA Automation Engineer",
+      "client": "Comerica Bank",
+      "duration": "2017-Jun - 2019-Feb",
+      "location": "Dallas, Texas",
+      "responsibilities": [
+        "Contributed to performance testing with JMeter for high-volume payment and trade booking APIs, identifying performance bottlenecks and ensuring system scalability in Azure environments.",
+        "Executed regression, smoke, and functional tests for banking trade booking systems, ensuring system reliability and performance in Azure environments while adhering to PCI standards.",
+        "Managed defect lifecycle using JIRA, prioritizing and tracking issues to ensure timely resolution and maintaining system stability under PCI compliance.",
+        "Performed post-deployment validation for banking applications, ensuring system stability and user experience in Azure environments, and addressing issues promptly to minimize downtime.",
+        "Analyzed performance test results for payment APIs, identifying areas for optimization and ensuring system scalability under high-volume transactions in Azure environments.",
+        "Developed automation scripts for RESTful APIs using REST Assured, ensuring API reliability and performance in Azure environments while adhering to PCI standards.",
+        "Collaborated with DevOps teams to automate test environment setup using Docker and Kubernetes, reducing environment provisioning time by 50% in Azure environments.",
+        "Designed and implemented automation frameworks using Java and Selenium for banking applications, reducing manual effort by 40% and ensuring consistent test execution across Azure environments.",
+        "Integrated CI/CD pipelines with Jenkins for regression testing, achieving faster feedback loops and reducing deployment times by 30% in Azure environments.",
+        "Mentored QA team members on framework development, CI/CD integration, and code review best practices, fostering a culture of continuous improvement across Azure projects.",
+        "Collaborated with business SMEs to design end-to-end test cases for banking trade booking systems, ensuring comprehensive coverage and alignment with business requirements in PCI-compliant environments.",
+        "Coordinated UAT sessions with business stakeholders for banking applications, ensuring system readiness and gathering feedback for final adjustments in Azure environments."
+      ],
+      "environment": [
+        "Java, Selenium, JMeter, Jenkins, JIRA, Azure, PCI"
+      ]
+    },
+    {
+      "role": "QA Engineer",
+      "client": "Hexaware Technologies",
+      "duration": "2015-Oct - 2017-May",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Executed manual and automated tests for banking applications, ensuring system reliability and performance in Azure environments while adhering to PCI standards.",
+        "Managed defect lifecycle using JIRA, prioritizing and tracking issues to ensure timely resolution and maintaining system stability under PCI compliance.",
+        "Performed post-deployment validation for banking systems, ensuring system stability and user experience in Azure environments, and addressing issues promptly to minimize downtime.",
+        "Collaborated with business SMEs to design test cases for banking applications, ensuring comprehensive coverage and alignment with business requirements in PCI-compliant environments.",
+        "Coordinated UAT sessions with business stakeholders for banking systems, ensuring system readiness and gathering feedback for final adjustments in Azure environments.",
+        "Developed automation scripts using Selenium for web applications, reducing manual effort by 20% and ensuring consistent test execution across Azure environments.",
+        "Integrated CI/CD pipelines with Jenkins for regression testing, achieving faster feedback loops and reducing deployment times by 20% in Azure environments.",
+        "Mentored junior QA team members on test automation and best practices, fostering a culture of continuous improvement across Azure projects.",
+        "Conducted performance testing with JMeter for banking APIs, identifying performance bottlenecks and ensuring system scalability in Azure environments.",
+        "Analyzed test results and provided recommendations for system improvements, ensuring high-quality software delivery in Azure environments."
+      ],
+      "environment": [
+        "Selenium, JMeter, Jenkins, JIRA, Azure, PCI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "ISTQB Certified Tester",
+    "Certified ScrumMaster (CSM)",
+    "Certified Selenium Professional",
+    "JMeter Performance Testing Certification"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": "Aravind Datla",
+  "title": "Senior Data Engineer - Spark Migration Specialist",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Experienced data engineer with over 7 years of expertise in migrating legacy systems to modern data platforms, specializing in Apache Spark 3.x implementations across Healthcare, Banking, Automotive, and Consulting domains.",
+    "Utilized Apache Spark 3.x to transform complex healthcare data pipelines, ensuring HIPAA compliance while processing sensitive patient information with improved performance and reduced processing times.",
+    "Implemented end-to-end data migration strategies from Cascading and Hadoop MapReduce to Spark 3.x, reducing operational costs and enhancing data processing capabilities across multiple enterprise environments.",
+    "Developed scalable data solutions using Scala and Python programming languages, creating efficient Spark applications that handle massive datasets while maintaining data integrity and security standards.",
+    "Architected cloud-based data platforms on AWS EMR, leveraging S3 for storage and Glue for ETL processes, enabling organizations to modernize their data infrastructure with minimal disruption.",
+    "Engineered real-time data streaming solutions using Apache Kafka, integrating with Spark Structured Streaming to process continuous data flows for critical business applications in various domains.",
+    "Applied advanced Spark tuning techniques to optimize query performance, troubleshoot bottlenecks, and enhance overall system efficiency, resulting in faster data processing and reduced resource consumption.",
+    "Collaborated with cross-functional teams to design and implement data governance frameworks, ensuring data quality, privacy, and compliance with industry-specific regulations like HIPAA in healthcare.",
+    "Led migration projects from legacy Hadoop ecosystems to Spark 3.x, developing comprehensive migration strategies that included code conversion, performance testing, and knowledge transfer to client teams.",
+    "Utilized containerization technologies like Kubernetes to deploy and manage Spark applications, ensuring high availability, scalability, and efficient resource utilization in production environments.",
+    "Integrated Hive with Spark SQL to enable efficient querying of large datasets, implementing optimized partitioning strategies and data formats to improve query performance and reduce processing time.",
+    "Applied data engineering best practices to build robust ETL pipelines using Spark, ensuring data consistency, error handling, and monitoring capabilities for mission-critical business operations.",
+    "Demonstrated expertise in data modeling and warehousing principles, designing efficient data schemas that support complex analytical requirements while maintaining optimal performance in Spark environments.",
+    "Implemented data security measures including encryption, access controls, and audit trails in Spark applications, ensuring compliance with industry standards and protecting sensitive information across all domains.",
+    "Developed automated testing frameworks for Spark applications, implementing unit tests, integration tests, and performance benchmarks to ensure code quality and system reliability before deployment.",
+    "Mentored junior developers on Spark best practices, code optimization techniques, and migration strategies, fostering knowledge sharing and team growth within data engineering organizations.",
+    "Applied Agile methodologies to manage data engineering projects, implementing iterative development cycles and continuous integration/continuous deployment (CI/CD) practices for Spark applications.",
+    "Created comprehensive documentation for Spark architectures, data pipelines, and migration processes, ensuring knowledge transfer and long-term maintainability of implemented solutions."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Scala",
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark 3.x",
+      "Hadoop",
+      "MapReduce",
+      "Cascading",
+      "Hive",
+      "Kafka"
+    ],
+    "Cloud Platforms": [
+      "AWS EMR",
+      "AWS Glue",
+      "AWS S3",
+      "Azure",
+      "GCP"
+    ],
+    "Data Engineering Tools": [
+      "Apache Airflow",
+      "Talend",
+      "Tableau",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Cassandra"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer - Healthcare Analytics",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Implemented Apache Spark 3.x to process healthcare data streams, ensuring HIPAA compliance while developing scalable solutions that handle millions of patient records with enhanced security protocols.",
+        "Migrated legacy Cascading-based data pipelines to Spark Structured Streaming, reducing processing latency by implementing efficient memory management and optimizing execution plans for real-time analytics.",
+        "Utilized AWS EMR to deploy Spark applications for healthcare analytics, configuring cluster resources dynamically based on workload requirements while maintaining strict adherence to HIPAA data governance standards.",
+        "Developed Scala-based Spark applications to transform and normalize healthcare data from various sources, creating standardized data models that support clinical research and patient care improvement initiatives.",
+        "Applied advanced Spark tuning techniques to optimize query performance for healthcare analytics, implementing adaptive query execution and caching strategies that reduced processing times for complex analytical queries.",
+        "Engineered data masking and anonymization techniques using Spark UDFs to protect patient privacy while enabling meaningful analytics on healthcare datasets, ensuring compliance with HIPAA privacy rules.",
+        "Collaborated with healthcare data scientists to implement feature engineering pipelines using Spark MLlib, creating predictive models for patient risk stratification and disease progression analysis.",
+        "Designed and implemented a data lineage framework using Spark and Hive metadata, enabling comprehensive tracking of healthcare data transformations for regulatory compliance and audit purposes.",
+        "Integrated Apache Kafka with Spark Structured Streaming to process real-time healthcare data from IoT devices and monitoring systems, creating alerts for critical patient conditions with minimal latency.",
+        "Led the migration of on-premise Hadoop clusters to AWS-based Spark environments, developing a phased approach that minimized disruption to critical healthcare operations while improving system reliability.",
+        "Developed automated data quality checks using Spark DataFrames, implementing validation rules for healthcare data formats, completeness, and consistency to ensure high-quality analytics outputs.",
+        "Created comprehensive monitoring and alerting systems for Spark applications using AWS CloudWatch, enabling proactive identification of performance issues and ensuring continuous availability of healthcare analytics services.",
+        "Applied containerization with Docker and Kubernetes to deploy Spark applications in healthcare environments, implementing resource isolation and security controls to prevent data breaches and ensure HIPAA compliance.",
+        "Utilized Spark SQL to create efficient data access layers for healthcare analytics, implementing optimized partitioning strategies and columnar storage formats to improve query performance for large-scale healthcare datasets.",
+        "Implemented incremental data processing using Spark Delta Lake, enabling efficient updates to healthcare data warehouses while maintaining historical versions for regulatory compliance and audit trails.",
+        "Collaborated with security teams to implement end-to-end encryption for data at rest and in transit in Spark applications, ensuring comprehensive protection of sensitive healthcare information across all processing stages.",
+        "Developed custom Spark connectors for healthcare-specific data formats and systems, enabling seamless integration with electronic health record systems and medical imaging repositories.",
+        "Mentored junior data engineers on Spark best practices specific to healthcare applications, sharing knowledge about HIPAA compliance, data security, and performance optimization techniques for healthcare analytics."
+      ],
+      "environment": [
+        "Apache Spark 3.x",
+        "Scala",
+        "Python",
+        "AWS EMR",
+        "AWS Glue",
+        "AWS S3",
+        "Apache Kafka",
+        "Hive",
+        "Kubernetes",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Engineer - Financial Analytics",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Migrated financial data processing systems from Hadoop MapReduce to Apache Spark 3.x, implementing Python-based applications that improved transaction processing speeds while ensuring PCI DSS compliance for banking operations.",
+        "Developed Spark-based ETL pipelines to process and transform banking data from legacy systems, creating standardized data models that support fraud detection, risk assessment, and customer analytics applications.",
+        "Utilized AWS Glue with Spark to automate data cataloging and ETL processes for financial data, reducing manual intervention and ensuring consistent data quality across banking analytics platforms.",
+        "Implemented real-time fraud detection systems using Spark Structured Streaming and Apache Kafka, processing transaction data in real-time to identify suspicious activities and trigger immediate security responses.",
+        "Applied advanced Spark optimization techniques to financial analytics queries, implementing cost-based optimization and predicate pushdown to reduce processing times for complex banking data analysis.",
+        "Engineered secure data sharing mechanisms using Spark and AWS S3, enabling controlled access to financial data for authorized analytics while maintaining strict compliance with banking regulations and data privacy laws.",
+        "Collaborated with risk management teams to develop Spark applications for stress testing and scenario analysis, creating frameworks that simulate various economic conditions and their impact on banking portfolios.",
+        "Designed and implemented data governance frameworks for financial data using Spark and Hive metadata, establishing clear data ownership, quality standards, and usage policies across the organization.",
+        "Led the migration of on-premise banking data warehouses to cloud-based Spark solutions, developing comprehensive migration strategies that minimized downtime and ensured data integrity throughout the transition process.",
+        "Developed automated testing frameworks for Spark applications in banking environments, implementing data validation rules and performance benchmarks to ensure accuracy and reliability of financial analytics.",
+        "Applied machine learning techniques using Spark MLlib to develop predictive models for credit risk assessment, customer churn prediction, and personalized marketing campaigns based on banking transaction data.",
+        "Implemented incremental processing of financial data using Spark Delta Lake, enabling efficient updates to banking analytics platforms while maintaining historical versions for audit purposes and regulatory compliance.",
+        "Created comprehensive monitoring and alerting systems for Spark applications processing financial data, implementing proactive identification of performance issues and ensuring continuous availability of critical banking services.",
+        "Utilized Spark SQL to create efficient data access layers for banking analytics, implementing optimized partitioning strategies and indexing techniques to improve query performance for large-scale financial datasets.",
+        "Developed custom data lineage tracking using Spark, enabling comprehensive documentation of data transformations for financial regulatory compliance and audit purposes across complex banking data ecosystems."
+      ],
+      "environment": [
+        "Apache Spark 3.x",
+        "Python",
+        "Java",
+        "AWS EMR",
+        "AWS Glue",
+        "AWS S3",
+        "Apache Kafka",
+        "Hive",
+        "Delta Lake"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Implemented Apache Kafka to collect real-time vehicle sensor data, creating streaming pipelines that processed millions of data points per second for predictive maintenance and performance optimization.",
+        "Developed Hadoop-based data lakes to store and process large volumes of automotive manufacturing data, implementing efficient partitioning strategies that enabled quick access to historical production records.",
+        "Utilized Apache Airflow to orchestrate complex ETL workflows for automotive analytics, automating data processing pipelines that transformed raw manufacturing data into actionable insights for production optimization.",
+        "Created Python-based data processing applications to analyze vehicle performance data, implementing statistical models that identified patterns and anomalies in engine performance across different driving conditions.",
+        "Built interactive dashboards using Tableau to visualize automotive manufacturing metrics, enabling production managers to monitor key performance indicators and identify areas for improvement in real-time.",
+        "Applied data engineering best practices to ensure data quality and consistency across automotive analytics platforms, implementing validation rules and error handling mechanisms that maintained high data integrity standards.",
+        "Collaborated with automotive engineers to design data models that captured complex relationships between vehicle components and performance metrics, creating schemas that supported advanced analytics and machine learning applications.",
+        "Implemented incremental data processing techniques to handle continuous streams of vehicle telemetry data, ensuring that analytics platforms always had access to the most recent information for decision-making.",
+        "Developed automated data pipelines to integrate information from various automotive systems, creating unified datasets that provided comprehensive views of vehicle performance and manufacturing efficiency.",
+        "Applied performance optimization techniques to data processing workflows, implementing parallel processing and caching strategies that reduced processing times for complex automotive analytics queries."
+      ],
+      "environment": [
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "MySQL",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed ETL processes using Talend to extract data from multiple client systems, implementing transformations that cleansed and standardized information for consulting analytics projects across various industries.",
+        "Utilized Apache Airflow to schedule and monitor data processing workflows, creating automated pipelines that executed complex data integration tasks with proper error handling and notification mechanisms.",
+        "Implemented Python scripts to process and analyze client data, developing custom functions that addressed specific business requirements and generated insights for consulting engagements.",
+        "Created interactive visualizations using Tableau to present consulting findings, developing dashboards that enabled clients to explore their data and understand key business metrics without technical expertise.",
+        "Designed and maintained MySQL and PostgreSQL databases for consulting projects, implementing efficient schemas and query optimization techniques that supported complex analytics and reporting requirements.",
+        "Collaborated with consulting teams to understand client requirements and translate business needs into technical solutions, ensuring that data processing systems aligned with project objectives and delivered actionable insights."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

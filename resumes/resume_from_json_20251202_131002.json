@@ -1,0 +1,265 @@
+{
+  "name": "Aravind Reddy",
+  "title": "Carbon Black Security SME",
+  "contact": {
+    "email": "aravind.d.reddy1996@gmail.com",
+    "phone": "+1 480 680 3754",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 7 years of experience in endpoint security with specialized focus on Carbon Black App Control and Carbon Black Enterprise EDR solutions across Healthcare, Banking, Logistics, and Consulting domains.",
+    "Administered Carbon Black consoles for large enterprise environments, managing sensor deployments, policy configurations, and security rule implementations to protect critical infrastructure and sensitive data.",
+    "Designed and implemented Carbon Black sensor architecture across diverse endpoint environments including Windows, Linux, and macOS systems, ensuring optimal performance and security coverage.",
+    "Migrated legacy Carbon Black deployments to newer versions while maintaining uninterrupted security monitoring and threat detection capabilities for mission-critical systems.",
+    "Developed comprehensive Carbon Black security policies aligned with industry-specific compliance requirements including HIPAA for healthcare and PCI DSS for banking environments.",
+    "Analyzed security events and alerts from Carbon Black EDR to identify potential threats, creating custom rules and detection mechanisms to improve security posture.",
+    "Collaborated with cross-functional teams to integrate Carbon Black with other security tools including SIEM solutions, creating a unified security monitoring ecosystem.",
+    "Created detailed documentation for Carbon Black architecture, configuration, and operational procedures to enable knowledge transfer and team training initiatives.",
+    "Optimized Carbon Black console performance through careful tuning of data collection parameters, event processing rules, and notification workflows.",
+    "Implemented automated workflows using Carbon Black APIs to streamline security incident response processes and reduce manual intervention requirements.",
+    "Trained and mentored junior security analysts on Carbon Black operations, including rule creation, event analysis, and troubleshooting techniques.",
+    "Conducted regular security assessments using Carbon Black telemetry to identify potential vulnerabilities and recommend remediation strategies.",
+    "Developed custom scripts and utilities to enhance Carbon Black functionality, including automated report generation and integration with third-party security tools.",
+    "Performed root cause analysis for security incidents detected by Carbon Black, identifying attack vectors and implementing preventive measures to mitigate future risks.",
+    "Evaluated new Carbon Black features and capabilities, providing recommendations for implementation based on organizational security requirements and operational constraints.",
+    "Collaborated with infrastructure teams to ensure proper network configuration for optimal Carbon Black sensor communication and data transmission.",
+    "Designed disaster recovery procedures for Carbon Black infrastructure, ensuring business continuity and security monitoring capabilities during system outages.",
+    "Participated in security incident response activities, leveraging Carbon Black forensic capabilities to investigate and remediate security breaches across enterprise environments."
+  ],
+  "technical_skills": {
+    "Endpoint Security": [
+      "Carbon Black App Control",
+      "Carbon Black Enterprise EDR",
+      "Carbon Black Cloud",
+      "Carbon Black Response",
+      "Carbon Black ThreatHunter",
+      "Carbon Black Audit and Remediation"
+    ],
+    "Operating Systems": [
+      "Windows Server",
+      "Windows 10/11",
+      "Linux (RHEL, Ubuntu, CentOS)",
+      "macOS"
+    ],
+    "Security Tools": [
+      "SIEM Integration",
+      "Threat Intelligence Platforms",
+      "Vulnerability Assessment Tools",
+      "Forensic Analysis Tools",
+      "Security Information Management"
+    ],
+    "Network Security": [
+      "Firewall Configuration",
+      "Network Segmentation",
+      "Intrusion Detection Systems",
+      "VPN Configuration",
+      "Network Access Control"
+    ],
+    "Compliance & Standards": [
+      "HIPAA",
+      "PCI DSS",
+      "SOX",
+      "NIST Cybersecurity Framework",
+      "ISO 27001"
+    ],
+    "Scripting & Automation": [
+      "PowerShell",
+      "Python",
+      "Bash",
+      "API Integration",
+      "Automation Frameworks"
+    ],
+    "Cloud Platforms": [
+      "AWS Security Services",
+      "Azure Security Center",
+      "Google Cloud Security",
+      "Cloud Security Posture Management",
+      "Cloud Access Security Brokers"
+    ],
+    "Identity & Access Management": [
+      "Active Directory",
+      "LDAP",
+      "Multi-Factor Authentication",
+      "Single Sign-On",
+      "Privileged Access Management"
+    ],
+    "Incident Response": [
+      "Security Incident Management",
+      "Digital Forensics",
+      "Malware Analysis",
+      "Threat Hunting",
+      "Security Orchestration"
+    ],
+    "Monitoring & Analytics": [
+      "Security Monitoring",
+      "Log Analysis",
+      "Threat Detection",
+      "Security Analytics",
+      "Performance Monitoring"
+    ],
+    "Certifications": [
+      "Carbon Black Certified Administrator",
+      "Carbon Black Certified Specialist",
+      "CompTIA Security+",
+      "CISSP",
+      "GIAC Certifications"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Carbon Black Security Specialist",
+      "client": "Christus Health",
+      "duration": "2024-Jan - Present",
+      "location": "Irving, TX",
+      "responsibilities": [
+        "Administered Carbon Black Enterprise EDR platform for healthcare environment with over 10,000 endpoints, ensuring HIPAA compliance while maintaining continuous security monitoring across all medical devices and workstations.",
+        "Configured and tuned Carbon Black policies to balance security requirements with healthcare operational needs, allowing necessary medical applications while blocking unauthorized software installations across the hospital network.",
+        "Collaborated with healthcare IT teams to integrate Carbon Black sensors with medical devices and specialized healthcare equipment, ensuring comprehensive endpoint coverage without disrupting critical patient care systems.",
+        "Developed custom Carbon Black rules specifically designed to detect healthcare-specific threats including ransomware targeting medical records and unauthorized access to protected health information (PHI).",
+        "Migrated legacy Carbon Black App Control implementation to Carbon Black Cloud platform, ensuring uninterrupted security protection during the transition and training healthcare staff on new interface and features.",
+        "Analyzed security alerts from Carbon Black to identify potential threats to healthcare systems, implementing preventive measures to protect sensitive patient data and medical infrastructure from cyber attacks.",
+        "Created comprehensive documentation for Carbon Black architecture, configuration, and operational procedures tailored to healthcare environment requirements and compliance obligations.",
+        "Optimized Carbon Black sensor performance across healthcare environment, addressing challenges posed by legacy medical systems and network bandwidth limitations while maintaining security effectiveness.",
+        "Worked closely with healthcare compliance team to ensure Carbon Black implementation aligned with HIPAA requirements and other healthcare-specific regulations, providing evidence of security controls during audits.",
+        "Implemented automated workflows using Carbon Black APIs to streamline security incident response processes in healthcare environment, reducing response time for potential security incidents affecting patient care systems.",
+        "Trained healthcare IT staff on Carbon Black operations, including rule creation, event analysis, and troubleshooting techniques specific to medical device security and healthcare IT infrastructure.",
+        "Conducted regular security assessments using Carbon Black telemetry to identify potential vulnerabilities in healthcare systems, recommending remediation strategies that maintained system availability for patient care.",
+        "Developed custom PowerShell scripts to enhance Carbon Black functionality in healthcare environment, including automated inventory of medical devices and integration with healthcare asset management systems.",
+        "Performed root cause analysis for security incidents detected by Carbon Black in healthcare environment, identifying attack vectors specific to healthcare systems and implementing preventive measures.",
+        "Evaluated new Carbon Black features and capabilities for healthcare environment, providing recommendations for implementation based on patient care requirements and operational constraints.",
+        "Collaborated with healthcare network team to ensure proper network configuration for optimal Carbon Black sensor communication across distributed hospital locations and remote clinics.",
+        "Designed disaster recovery procedures for Carbon Black infrastructure in healthcare environment, ensuring continuous security monitoring capabilities during system outages and emergency situations.",
+        "Participated in healthcare security incident response activities, leveraging Carbon Black forensic capabilities to investigate and remediate security breaches affecting patient data and medical systems."
+      ],
+      "environment": [
+        "Carbon Black Enterprise EDR",
+        "Carbon Black App Control",
+        "Carbon Black Cloud",
+        "Windows Server 2016/2019",
+        "Windows 10/11",
+        "Linux (RHEL, CentOS)",
+        "PowerShell",
+        "Python",
+        "SIEM Integration",
+        "HIPAA Compliance Tools",
+        "Healthcare IT Systems",
+        "Medical Device Security"
+      ]
+    },
+    {
+      "role": "Carbon Black Security Engineer",
+      "client": "Ameris Bank",
+      "duration": "2021-Sep - 2023-Dec",
+      "location": "Atlanta, GA",
+      "responsibilities": [
+        "Administered Carbon Black App Control across banking environment with over 8,000 endpoints, implementing strict application whitelisting to prevent unauthorized software execution while maintaining banking application functionality.",
+        "Configured Carbon Black policies to comply with PCI DSS requirements for financial systems, ensuring secure handling of credit card data and preventing potential data breaches through endpoint protection.",
+        "Integrated Carbon Black EDR with banking SIEM solution to provide centralized security monitoring, creating custom correlation rules to detect potential financial fraud and sophisticated banking malware.",
+        "Migrated Carbon Black on-premise deployment to cloud-based solution, ensuring uninterrupted security monitoring during transition while optimizing costs and improving management capabilities for distributed banking locations.",
+        "Developed custom Carbon Black rules specifically designed to detect banking-specific threats including financial trojans, ATM malware, and unauthorized access to financial systems and customer data.",
+        "Analyzed security alerts from Carbon Black to identify potential threats to banking systems, implementing preventive measures to protect sensitive financial data and banking infrastructure from cyber attacks.",
+        "Created comprehensive documentation for Carbon Black architecture and configuration tailored to banking environment requirements, including compliance evidence for regulatory audits and examinations.",
+        "Optimized Carbon Black sensor performance across banking environment, addressing challenges posed by legacy banking systems and strict performance requirements for transaction processing systems.",
+        "Worked closely with banking compliance team to ensure Carbon Black implementation aligned with PCI DSS, GLBA, and other financial industry regulations, providing evidence of security controls during audits.",
+        "Implemented automated workflows using Carbon Black APIs to streamline security incident response processes in banking environment, reducing response time for potential security incidents affecting financial transactions.",
+        "Trained banking IT staff on Carbon Black operations, including rule creation, event analysis, and troubleshooting techniques specific to financial systems security and regulatory compliance requirements.",
+        "Conducted regular security assessments using Carbon Black telemetry to identify potential vulnerabilities in banking systems, recommending remediation strategies that maintained system availability for financial operations.",
+        "Developed custom scripts to enhance Carbon Black functionality in banking environment, including automated compliance reporting and integration with banking change management systems.",
+        "Performed root cause analysis for security incidents detected by Carbon Black in banking environment, identifying attack vectors specific to financial systems and implementing preventive measures.",
+        "Evaluated new Carbon Black features and capabilities for banking environment, providing recommendations for implementation based on security requirements and operational constraints of financial systems."
+      ],
+      "environment": [
+        "Carbon Black App Control",
+        "Carbon Black Enterprise EDR",
+        "Windows Server 2016/2019",
+        "Windows 10",
+        "Linux (RHEL, CentOS)",
+        "PowerShell",
+        "Python",
+        "Banking SIEM Solution",
+        "PCI DSS Compliance Tools",
+        "Financial Systems Security",
+        "Banking IT Infrastructure"
+      ]
+    },
+    {
+      "role": "Endpoint Security Engineer",
+      "client": "PepsiCo",
+      "duration": "2020-Jan - 2021-Jul",
+      "location": "NYC, New York",
+      "responsibilities": [
+        "Deployed Carbon Black sensors across PepsiCo's global logistics and manufacturing environment, ensuring endpoint protection for over 15,000 systems including production floor computers and distribution center workstations.",
+        "Configured Carbon Black policies to secure manufacturing systems and logistics applications while maintaining operational efficiency, creating application control rules that allowed necessary industrial software.",
+        "Integrated Carbon Black with existing security infrastructure including SIEM and vulnerability management systems, creating a comprehensive security monitoring solution for PepsiCo's diverse IT environment.",
+        "Developed custom Carbon Black rules to detect threats specific to manufacturing and supply chain environments, including ransomware targeting production systems and unauthorized access to logistics data.",
+        "Analyzed security alerts from Carbon Black to identify potential threats to PepsiCo's manufacturing and logistics systems, implementing preventive measures to protect operational technology and supply chain data.",
+        "Created documentation for Carbon Black implementation tailored to PepsiCo's manufacturing and logistics environment, including operational procedures for security incident response in production environments.",
+        "Optimized Carbon Black sensor performance across PepsiCo's diverse environment, addressing challenges posed by legacy manufacturing systems and limited network connectivity in distribution centers.",
+        "Worked closely with PepsiCo's IT security team to ensure Carbon Black implementation aligned with corporate security policies and industry best practices for manufacturing and logistics security.",
+        "Implemented automated workflows using Carbon Black APIs to streamline security monitoring across PepsiCo's distributed manufacturing and logistics facilities, reducing manual monitoring requirements.",
+        "Trained PepsiCo IT staff on Carbon Black operations, including rule creation, event analysis, and troubleshooting techniques specific to manufacturing and logistics environments.",
+        "Conducted security assessments using Carbon Black telemetry to identify potential vulnerabilities in PepsiCo's manufacturing and logistics systems, recommending remediation strategies that maintained operational continuity.",
+        "Developed custom scripts to enhance Carbon Black functionality in PepsiCo's environment, including automated inventory of manufacturing systems and integration with supply chain management applications."
+      ],
+      "environment": [
+        "Carbon Black Enterprise EDR",
+        "Carbon Black App Control",
+        "Windows Server 2016/2019",
+        "Windows 10",
+        "Linux (RHEL, CentOS)",
+        "PowerShell",
+        "SIEM Integration",
+        "Manufacturing Systems Security",
+        "Logistics IT Infrastructure",
+        "Supply Chain Security Tools"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Santarich Infortech LLP",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed Java-based security applications for consulting clients, implementing authentication and authorization mechanisms to protect sensitive business data and ensure compliance with industry regulations.",
+        "Created Spring Boot microservices with security features including role-based access control, data encryption, and secure API endpoints for client-facing applications in various industries.",
+        "Implemented database security measures using MySQL and Hibernate, including data encryption, access controls, and audit logging to track data access and modifications for compliance purposes.",
+        "Designed secure application architecture following OWASP security guidelines, incorporating defense-in-depth principles to protect against common web application vulnerabilities and attacks.",
+        "Integrated security testing into the development lifecycle, implementing automated security scanning tools and manual penetration testing to identify and remediate vulnerabilities before deployment.",
+        "Collaborated with security teams to implement secure coding practices, including input validation, output encoding, and parameterized queries to prevent SQL injection and other injection attacks.",
+        "Developed custom security monitoring and logging solutions for client applications, creating alerts for suspicious activities and providing detailed audit trails for forensic analysis.",
+        "Participated in security code reviews, identifying potential vulnerabilities and recommending remediation strategies to improve application security posture for various consulting projects.",
+        "Implemented secure communication protocols including TLS/SSL for data transmission, ensuring encryption of sensitive information both in transit and at rest for client applications.",
+        "Created documentation for security features and implementation details, enabling knowledge transfer to client teams and ensuring proper maintenance of security controls after project completion."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "MySQL",
+        "Security Frameworks",
+        "OWASP Guidelines",
+        "TLS/SSL Implementation",
+        "Secure Coding Practices",
+        "Security Testing Tools",
+        "Application Security"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gitam University",
+      "degree": "Bachelors",
+      "field": "Computer Science",
+      "year": "2016"
+    }
+  ],
+  "certifications": [
+    "Carbon Black Certified Administrator (CBCA)",
+    "Carbon Black Certified Specialist (CBCS)",
+    "CompTIA Security+",
+    "Certified Information Systems Security Professional (CISSP)",
+    "GIAC Certified Incident Handler (GCIH)"
+  ]
+}

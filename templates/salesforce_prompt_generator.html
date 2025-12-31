@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salesforce Developer Resume Prompt Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0176D3 0%, #1589EE 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #0176D3;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .section {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid #0176D3;
+        }
+
+        .section-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #0176D3;
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 0.95em;
+        }
+
+        input[type="text"],
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 0.95em;
+            font-family: inherit;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #0176D3;
+        }
+
+        textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        .location-inputs {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .location-group {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            border: 2px solid #e0e0e0;
+        }
+
+        .location-group label {
+            color: #0176D3;
+            font-size: 0.9em;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #0176D3 0%, #1589EE 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(1, 118, 211, 0.4);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .output-section {
+            margin-top: 30px;
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            border-left: 4px solid #0176D3;
+        }
+
+        .output-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .output-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #0176D3;
+        }
+
+        .copy-btn {
+            background: #0176D3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .copy-btn:hover {
+            background: #1589EE;
+            transform: translateY(-2px);
+        }
+
+        .prompt-output {
+            width: 100%;
+            min-height: 500px;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            line-height: 1.6;
+            background: white;
+            resize: vertical;
+        }
+
+        .success-message {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            display: none;
+            z-index: 1000;
+            font-weight: 600;
+        }
+
+        .info-box {
+            background: #e7f3ff;
+            border-left: 4px solid #0176D3;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+            color: #333;
+        }
+
+        .info-box strong {
+            color: #0176D3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Salesforce Developer Resume Prompt Generator</h1>
+        <p class="subtitle">Generate ATS-Optimized Resume Prompts for Salesforce Developers</p>
+
+        <div class="info-box">
+            <strong>Instructions:</strong> Paste the job description below. The system will generate a comprehensive prompt with all ATS optimization rules, verb uniqueness requirements, and domain-specific guidelines for creating a 100% ATS-optimized resume.
+        </div>
+
+        <div class="section">
+            <div class="section-title">📋 Job Description Input</div>
+            <label for="jobDescription">Paste Job Description (YAML format or plain text):</label>
+            <textarea id="jobDescription" placeholder="Paste the job description here..."></textarea>
+        </div>
+
+        <div class="section">
+            <div class="section-title">📍 Client Locations</div>
+            <div class="location-inputs">
+                <div class="location-group">
+                    <label for="client1Location">Client 1: Cardinal Health Location</label>
+                    <input type="text" id="client1Location" placeholder="e.g., Austin, Texas" value="Austin, Texas">
+                </div>
+                <div class="location-group">
+                    <label for="client2Location">Client 2: Milwaukee Tool Location</label>
+                    <input type="text" id="client2Location" placeholder="e.g., Milwaukee, Wisconsin" value="Milwaukee, Wisconsin">
+                </div>
+                <div class="location-group">
+                    <label for="client3Location">Client 3: Spartex AI Location</label>
+                    <input type="text" id="client3Location" placeholder="e.g., San Francisco, California" value="San Francisco, California">
+                </div>
+                <div class="location-group">
+                    <label for="client4Location">Client 4: L&T Technology Services Location</label>
+                    <input type="text" id="client4Location" placeholder="e.g., Mumbai, Maharashtra" value="Mumbai, Maharashtra">
+                </div>
+            </div>
+        </div>
+
+        <button class="btn" onclick="generatePrompt()">✨ Generate ATS-Optimized Prompt</button>
+
+        <div class="output-section" id="outputSection" style="display: none;">
+            <div class="output-header">
+                <h2 class="output-title">📋 Generated Prompt</h2>
+                <button class="copy-btn" onclick="copyPrompt()">📄 Copy to Clipboard</button>
+            </div>
+            <textarea class="prompt-output" id="promptOutput" readonly></textarea>
+        </div>
+    </div>
+    
+    <div class="success-message" id="successMessage">✅ Copied to clipboard!</div>
+    
+    <script>
+        function generatePrompt() {
+            const jobDescription = document.getElementById('jobDescription').value.trim();
+            
+            if (!jobDescription) {
+                alert('Please paste the job description first!');
+                return;
+            }
+
+            const client1Location = document.getElementById('client1Location').value.trim() || 'Austin, Texas';
+            const client2Location = document.getElementById('client2Location').value.trim() || 'Milwaukee, Wisconsin';
+            const client3Location = document.getElementById('client3Location').value.trim() || 'San Francisco, California';
+            const client4Location = document.getElementById('client4Location').value.trim() || 'Mumbai, Maharashtra';
+
+            const prompt = `
+            
+        ${jobDescription}
+            You are an ATS resume optimizer trained to generate resumes that score 100% on applicant tracking systems. Your task is to return ONLY optimized JSON output — no comments, no explanations, and no extra text.
+
+INSTRUCTIONS:
+
+- Output must be a valid JSON resume ONLY. Do not include markdown, formatting hints, or explanations.
+
+- Optimize for keyword density, ATS scoring, and semantic alignment.
+
+REQUIREMENTS: You are a Professional Resume writer in their specific domain. For example, if the JD belongs to IT - YOU ARE IT/SOFTWARE architect. If that is not technical, you are an expert in that domain based on the experience and skills mentioned in the job description.
+
+-> You need to prepare the resume to match the action verbs and tech stack. You also need to know which technology came in which year according to that you need to add the skills and tools and server based on their matured timeline - COLORFUL METADATA JSON
+
+-> You are an ATS resume optimizer trained to generate resumes that score 100% on applicant tracking systems.
+
+-> Your task is to return ONLY optimized JSON output — no comments, no explanations, and no extra text.
+
+-> Respond with visual JSON metadata. Generate a JSON artifact preserving the original schema exactly.
+
+INSTRUCTIONS:
+
+• Output must be a valid JSON resume ONLY. Do not include markdown, formatting hints, or explanations.
+
+• Optimize for keyword density, ATS scoring, and semantic alignment.
+
+• Use simple English words - since I am an Indian engineer, avoid complex vocabulary.
+
+⚠️ CRITICAL: MANDATORY SKILL REPETITION RULE - HIGHEST PRIORITY ⚠️
+You are an expert ATS resume optimizer. For every JD, skills are extracted in YAML format with:
+- mandatory_skills_tools_services
+- mandatory_skills_tools_services_that_are_not_explicitly_mentioned
+
+STRICT REQUIREMENT - NO EXCEPTIONS:
+1. Every skill listed in BOTH sections above MUST appear **5-8 times** throughout the resume (EXCEPT in Technical Skills and Environment sections where they appear once)
+2. Embed these skills across ALL sections:
+   - Professional Summary (integrate naturally in bullet points - repeat 5-8 times)
+   - Technical Skills section (list explicitly ONCE - do not repeat here)
+   - Experience/Projects (mention in responsibilities - repeat 5-8 times)
+   - Responsibilities (use skills contextually in bullet points - repeat 5-8 times)
+   - Environment/Tools (list all relevant skills ONCE - do not repeat here)
+3. Do NOT remove or weaken skills — rephrase and reuse them contextually
+4. Sync skills with existing project role and company domain to ensure authenticity
+5. Make sure if client/recruiter sees the resume, they can easily pick out these mandatory skills
+6. Each mandatory skill must appear in multiple contexts (not just listed once)
+
+EXECUTION CHECKLIST:
+✓ Every mandatory skill appears 5-8 times minimum (excluding Technical Skills and Environment)
+✓ Skills integrated in Professional Summary bullets (5-8 times)
+✓ Skills listed in Technical Skills section (once only)
+✓ Skills mentioned in Experience responsibilities (5-8 times)
+✓ Skills included in Environment/Tools sections (once only)
+✓ Skills used contextually, not just listed
+
+CRITICAL: GLOBAL VERB UNIQUENESS RULE - HIGHEST PRIORITY
+
+ABSOLUTE REQUIREMENT: NO VERB REPETITION ACROSS ENTIRE RESUME
+
+    • Each action verb MUST be used only ONCE across ALL client experiences and summary sections
+
+    • Use different action verbs across all bullet points
+
+    • Track used verbs and ensure no duplicates across entire document
+
+STRICT VERB-TENSE RULES:
+
+    1. Current Project (latest/ongoing role):
+
+       • Use mix of present tense and past tense verbs
+
+       • DO NOT use present-continuous (-ing) verbs
+
+    2. Completed Projects (all previous roles):
+
+       • Use ONLY past tense verbs
+
+       • DO NOT use present tense or -ing verbs
+
+    3. GLOBAL FORBIDDEN RULE:
+
+       • Absolutely NO "-ing" verbs anywhere in the resume
+
+     
+
+FORBIDDEN WORDS (DO NOT USE UNDER ANY CIRCUMSTANCES):
+
+    "Adept", "Self-starter", "Championed", "Specialized", "Spearheaded", "Proven track record", 
+    "learned", "wrote", "Cutting-edge", "Robust", "Key player", "Instrumental", 
+    "Mastery", "Well-versed", "Results-driven", "Team player", "Strategic", 
+    "Exceptional", "Outstanding", "Value-added", "Game-changer", "World-class", "Industry-leading", 
+    "Mission-critical", "Holistic", "Engineered", "Led", "Investigated"
+    "Engineered", "Championed", "Led", "Investigated", "Spearheaded", 
+    "Revolutionized", "Pioneered", "Masterminded"
+
+SECTION RULES
+
+PERSONAL INFO
+
+    • Change the title according to JD best suitable title that is perfectly aligned with JD
+
+SUMMARY
+
+    • Create exactly 14 bullet points with character length between 230-280 characters per bullet
+
+    • Include "8 years of experience in [specialization]" in a human way
+
+    • Based on my experience in the Healthcare, Manufacturing, Technology, Consulting domains, integrate JD mentioned keywords with my existing project domains
+
+    • Use 14 completely unique verbs that are NOT used in any client experience section
+
+    • Start bullet points with humanized action verbs
+
+    • Vary bullet structures: 60% bullet points use format [Technology/Tool] + [Problem] + [Solution] + [Impact], 40% use alternative narrative structures
+
+TECHNICAL SKILLS SECTION:
+
+    • Generate exactly 10-16 skill categories
+
+    • Categories should include: Programming Languages, Frameworks, Frontend, Backend, Databases, 
+      Cloud Platforms, DevOps Tools, Testing Tools, Monitoring, Version Control, Security, AI/ML
+
+    • Each category should have 4-15 relevant skills from JD
+
+    • All mandatory JD skills must appear in technical skills section
+
+    • Format as JSON object with category names as keys and skill arrays as values
+
+PROFESSIONAL EXPERIENCE - GLOBAL RULES (APPLY TO ALL CLIENTS)
+
+    • You should follow the bullet point organization under below client experience like:
+
+    Organize your bullets by these 6 phases:
+
+    => Planning / Analysis / Design
+
+    => Development (Building features)
+
+    => Testing (Quality / Automation)
+
+    => Deployment (CI/CD + Cloud)
+
+    => Monitoring / Maintenance (Fixing, improving)
+
+    => Every bullet point should be meaningful
+
+    • Do not change roles unless specifically requested
+
+    • Ensure time compatibility - only include skills/JD keywords used during actual project timeline
+
+    • Vary sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
+
+    • Avoid generic corporate buzzwords, filler phrases, and AI-like statements
+
+    • Focus on concrete, human-readable actions and outcomes
+
+    • Add personal perspective, trial-and-error moments, small emotions to make bullets relatable
+
+    • Include mundane but authentic developer tasks and real project challenges
+
+    • DO NOT mention multi-cloud - integrate JD tools with existing single cloud only
+
+    • ABSOLUTELY NO "-ing" verbs anywhere
+
+PROFESSIONAL EXPERIENCE - CLIENT SPECIFIC RULES
+
+CLIENT 1 (Senior-most role - most recent) - CARDINAL HEALTH
+
+    • Do not change the role, keep the original role
+
+    • Write exactly 14 bullet points per role, each between 230-280 characters long
+
+    • Use mix of present and past tense verbs (current project)
+
+    • Integrate JD skills and tools in 75% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+
+    • My project is related to Healthcare — write the bullet points by integrating JD keywords with project Healthcare regulations
+
+    • Use varied action verbs appropriate to enterprise-level, real-time projects with latest technologies (Senior-most role) level, avoiding repetition across bullets
+
+    • Each verb MUST be unique - NO verb repetition across entire resume
+
+CLIENT 2 (Client 2 level) - MILWAUKEE TOOL
+
+    • Do not change the role, keep the original role
+
+    • Write exactly 10 bullet points per role, each between 230-280 characters long
+
+    • Use ONLY past tense verbs (completed project)
+
+    • Integrate JD skills and tools in 70% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+
+    • My project is related to Manufacturing — write the bullet points by integrating JD keywords with project Manufacturing regulations
+
+    • Use varied action verbs appropriate to mid-senior level with progression from Client 1 level, avoiding repetition across bullets
+
+    • Each verb MUST be unique - NO verb repetition across entire resume
+
+CLIENT 3 (Client 3 level) - SPARTEX AI
+
+    • Do not change the role, keep the original role
+
+    • Write exactly 8 bullet points per role, each between 230-280 characters long
+
+    • Use ONLY past tense verbs (completed project)
+
+    • Integrate JD skills and tools in 65% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+
+    • My project is related to Technology — write the bullet points by integrating JD keywords with project Technology regulations
+
+    • Use varied action verbs appropriate to moderate responsibility level, avoiding repetition across bullets
+
+    • Each verb MUST be unique - NO verb repetition across entire resume
+
+CLIENT 4 (Client 4 level) - L&T TECHNOLOGY SERVICES
+
+    • Do not change the role, keep the original role
+
+    • Write exactly 6 bullet points per role, each between 230-280 characters long
+
+    • Use ONLY past tense verbs (completed project)
+
+    • Integrate JD skills and tools in 60% of bullet points using format: [Technology/Tool] + [Problem] + [Solution/Action Taken] + [Impact]
+
+    • My project is related to Consulting — write the bullet points by integrating JD keywords with project Consulting regulations
+
+    • Use varied action verbs appropriate to entry-to-mid level responsibilities, avoiding repetition across bullets
+
+    • Each verb MUST be unique - NO verb repetition across entire resume
+
+CERTIFICATIONS
+
+    • Keep existing certifications from AI analysis unchanged - do not add new certifications
+
+SKILL REPETITION REQUIREMENTS (ENHANCED - REFER TO CRITICAL RULE ABOVE):
+
+    I will extract the skills from job description in section wise in YAML file in section wise
+
+    1. mandatory_skills_tools_services:
+       The skills which are mentioned in the above section MUST appear **5-8 times** each skill (EXCEPT in Technical Skills and Environment sections where they appear once)
+
+    2. mandatory_skills_tools_services_that_are_not_explicitly_mentioned:
+       These are also mandatory skills so MUST appear **5-8 times** each skill (EXCEPT in Technical Skills and Environment sections where they appear once)
+
+    -> across Professional Summary (5-8 times), Experience/Projects (5-8 times), Responsibilities (5-8 times)
+    -> Technical Skills section (once only), Environment/Tools sections (once only)
+    -> Each skill must be used contextually, not just listed once
+    -> Sync with existing project role and company domain for authenticity
+
+    • Non-mandatory but relevant skills: appear 2-4 times throughout resume
+
+    • Integrate JD keywords naturally into bullet points without forced repetition
+
+    • Environment section for each client MUST list all technologies used in that project
+
+TOOL & TECHNOLOGY MAPPING RULES
+
+Timeline Compatibility:
+
+    • DO NOT use technologies before their actual release/adoption dates
+
+    • Research and verify technology timelines before assignment
+
+    • Match tools to project years realistically
+
+    • Avoid futuristic technology mentions for historical projects
+
+    • Consider mainstream adoption dates, not just initial release
+
+Technology Evolution Guidelines:
+
+    • Early Career (2010-2015): Traditional enterprise tools, on-premise solutions, monolithic architectures
+
+    • Mid Career (2015-2020): Cloud migration, containerization, microservices adoption, DevOps emergence
+
+    • Recent Projects (2020+): Cloud-native, serverless, modern data stack, advanced orchestration
+
+    • Always ensure HIPAA compliance for healthcare projects: HIPAA, GDPR, Regulatory: FDA, HIPAA, GDPR, CHIP
+
+Enterprise Focus:
+
+    • Real-time processing systems
+
+    • Large-scale data pipelines
+
+    • High-availability architectures
+
+    • Performance optimization
+
+    • Scalability solutions
+
+    • Enterprise integrations
+
+HUMAN-TONE & AUTHENTICITY RULES:
+
+    • Include authentic developer experiences: debugging sessions, code reviews, team meetings, troubleshooting
+
+    • Show realistic progression and mundane but authentic tasks
+
+    • Vary sentence lengths naturally and avoid corporate buzzwords
+
+    • Focus on concrete, human-readable actions rather than generic achievements
+
+    • Include small emotions and relatable experiences to make bullets authentic
+
+EXECUTION CHECKLIST:
+
+    • Exact bullet count per section as specified (Summary: 14, then per client as defined)
+
+    • Character count between 230-280 for EVERY bullet point
+
+    • ZERO verb repetition across all sections - each verb used only once in entire resume
+
+    • Varying bullet structures by client level (75%→55% format ratio, decreasing with seniority)
+
+    • Don't add fake certificates unless specifically requested
+
+    • Technology timeline compatibility verified
+
+    • JD keywords incorporated throughout
+
+    • Career progression shown through verb choice and responsibility level
+
+    • Enterprise-level project focus maintained
+
+    • Strictly do not include any numeric percentages (%) in the output like 40%, 35%, 25%, 70%, 80%, 90%, 100% etc.
+
+    • All forbidden words avoided
+
+CRITICAL: Follow these rules exactly. No deviations, no additional formatting, no comments in output.
+
+FINAL OUTPUT FORMAT:
+
+Generate a JSON artifact or structured JSON code block preserving the original schema exactly, with no metadata changes.
+
+The resume should be ATS-friendly, human-readable, and perfectly aligned with the provided job description 
+while maintaining authenticity and avoiding AI-generated language patterns.
+
+Visual JSON format please - Respond with COLORFUL METADATA JSON output only.
+
+FORBIDDEN WORDS (DO NOT USE UNDER ANY CIRCUMSTANCES):
+
+    "Adept", "Self-starter", "Championed", "Specialized", "spearheaded", "Proven track record", "Expert", "Advanced", 
+    "Cutting-edge", "Leveraged", "Robust", "Key player", "Instrumental", "Mastery", "Well-versed",
+    "Results-driven", "Detail-oriented", "Team player", "Strategic", "Exceptional", "Outstanding", 
+    "Value-added", "Game-changer", "World-class", "Industry-leading", "Mission-critical", "Holistic"
+
+Use below simple words as per requirements:
+
+    Built, Engineered, Deployed, Assembled
+    Used, Utilized, Leveraged, Applied, Integrated
+    Operationalized, Work closely, Collaborated, Aligned with, Partnered with
+    Contributed, Delivered, Created, Developed, Produced
+    Helped, Assisted, Supported, Facilitated,
+    Got, Achieved, Obtained, Secured,
+    Worked with, Collaborated, Partnered, Facilitated, Coordinated
+    Led, Mentored, Guided, Orchestrated,
+    Developed, Architected, Engineered, Implemented, Executed
+    Set up, Deployed, Configured, Integrated, Automated
+    Updated, Modernized, Scaled, Transformed, Enhanced
+    Improved, Optimized, Streamlined, Enhanced
+
+- Based on their candidate experience number of years use experience specific words
+
+By following the above instructions and rules, you need to optimize the resume and return the ATS 100% optimized resume in the same format as the input resume.
+
+- Don't ask questions, anything you have everything just return JSON format resume.
+
+- No single comment other than below JSON format resume.
+
+Output ONLY this JSON format and STOP:
+
+{
+  "name": "Onteru Yallaiah",
+  "title": "",
+  "contact": {
+    "email": "onteru.sfdc@gmail.com",
+    "phone": "4142750857",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/onteru-li-3a9ba537b/",
+    "github": ""
+  },
+  "professional_summary": [
+    "[Bullet Point 1]",
+    "[Bullet Point 2]",
+    "[Bullet Point 3]",
+    "[Bullet Point 4]",
+    "[Bullet Point 5]",
+    "[Bullet Point 6]",
+    "[Bullet Point 7]",
+    "[Bullet Point 8]",
+    "[Bullet Point 9]",
+    "[Bullet Point 10]",
+    "[Bullet Point 11]",
+    "[Bullet Point 12]",
+    "[Bullet Point 13]",
+    "[Bullet Point 14]"
+  ],
+  "technical_skills": {
+    "[Category 1]": [
+      "Skill1",
+      "Skill2"
+    ],
+    "[Category 2]": [
+      "Skill3",
+      "Skill4"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Salesforce Consultant",
+      "client": "Cardinal Health",
+      "duration": "2025-Feb - Present",
+      "location": "Dallas, Texas.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]",
+        "[Bullet Point 9]",
+        "[Bullet Point 10]",
+        "[Bullet Point 11]",
+        "[Bullet Point 12]",
+        "[Bullet Point 13]",
+        "[Bullet Point 14]"
+        "[Bullet Point 15]",
+        "[Bullet Point 16]",
+        "[Bullet Point 17]",
+        "[Bullet Point 18]",
+        "[Bullet Point 19]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "role": "Lead Salesforce Developer",
+      "client": "Milwaukee Tool",
+      "duration": "2023-Nov - 2025-Jan",
+      "location": "Milwaukee, Wisconsin.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]",
+        "[Bullet Point 9]",
+        "[Bullet Point 10]"
+        "[Bullet Point 11]",
+        "[Bullet Point 12]",
+        "[Bullet Point 13]",
+        "[Bullet Point 14]",
+        "[Bullet Point 15]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "role": "Senior Salesforce Developer",
+      "client": "Spartex AI",
+      "duration": "2023-Aug - 2023-Oct",
+      "location": "Remote",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]",
+        "[Bullet Point 7]",
+        "[Bullet Point 8]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    },
+    {
+      "role": "Associate Salesforce Developer",
+      "client": "L&T Technology Services",
+      "duration": "2018-Apr - 2023-Aug",
+      "location": "Bengaluru, Karnataka.",
+      "responsibilities": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        "[Bullet Point 4]",
+        "[Bullet Point 5]",
+        "[Bullet Point 6]"
+      ],
+      "environment": [
+        "[Technology stack will be populated from JD]"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vignan Institute of Technology and Science",
+      "degree": "Bachelor of Engineering",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "Salesforce Platform Developer I",
+    "Salesforce Administrator"
+  ]
+}`;
+
+            document.getElementById('promptOutput').value = prompt;
+            document.getElementById('outputSection').style.display = 'block';
+            document.getElementById('outputSection').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function copyPrompt() {
+            const promptOutput = document.getElementById('promptOutput');
+            promptOutput.select();
+            promptOutput.setSelectionRange(0, 99999); // For mobile devices
+            
+            try {
+                document.execCommand('copy');
+                const successMsg = document.getElementById('successMessage');
+                successMsg.style.display = 'block';
+                setTimeout(() => {
+                    successMsg.style.display = 'none';
+                }, 2000);
+            } catch (err) {
+                alert('Failed to copy. Please select and copy manually.');
+            }
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,281 @@
+{
+  "name": "Aravind Datla",
+  "title": "Computer Vision Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 9 years of experience in computer vision and OCR technologies, with expertise in Python, OpenCV, PyTorch, and TensorFlow for developing image processing solutions across Healthcare, Banking, Automotive, and Consulting domains.",
+    "Applied advanced computer vision techniques including YOLO, Faster R-CNN, and SSD to create accurate object detection models that improved transaction processing accuracy by identifying critical data points in complex document images.",
+    "Utilized Tesseract and PaddleOCR to build custom OCR pipelines that extracted text from healthcare claim forms with 95% accuracy, reducing manual data entry and processing time for CVS Health operations.",
+    "Implemented Azure DevOps CI/CD pipelines to automate model deployment and version control, ensuring seamless integration of computer vision models into production environments with minimal downtime.",
+    "Designed RESTful APIs to expose computer vision model inference endpoints, enabling seamless integration with existing enterprise systems and improving accessibility for cross-functional teams.",
+    "Developed containerized applications using Docker and orchestrated with Kubernetes to ensure scalable deployment of computer vision services across distributed cloud environments.",
+    "Applied MLflow for experiment tracking and model versioning, maintaining a comprehensive history of model iterations and performance metrics to facilitate continuous improvement.",
+    "Created automated testing frameworks using pytest to validate computer vision models against diverse datasets, ensuring robust performance across various document types and quality conditions.",
+    "Integrated Kafka message-driven architecture to handle real-time processing of transaction images, enabling scalable and fault-tolerant data pipelines for high-volume document processing.",
+    "Implemented monitoring solutions using Prometheus and Grafana to track model performance metrics, enabling proactive identification of issues and optimization of resource utilization.",
+    "Collaborated with cross-functional teams including system architects, database specialists, and DevOps engineers to ensure seamless integration of computer vision components into enterprise workflows.",
+    "Transformed legacy document processing systems by implementing modern computer vision techniques, resulting in significant improvements in processing speed and accuracy for banking transaction workflows.",
+    "Optimized PyTorch and TensorFlow models for production deployment, reducing inference time by 40% while maintaining accuracy levels required for critical business operations.",
+    "Analyzed complex document layouts to develop adaptive preprocessing techniques that improved OCR accuracy across diverse document types encountered in healthcare and financial services.",
+    "Maintained compliance with industry regulations including HIPAA for healthcare applications and PCI DSS for financial services, ensuring all computer vision solutions met strict data protection requirements.",
+    "Adapted computer vision models to handle various image quality challenges including low resolution, distortion, and noise, implementing robust preprocessing techniques to maintain accuracy.",
+    "Communicated technical concepts and model limitations to non-technical stakeholders, facilitating informed decision-making regarding implementation strategies and resource allocation.",
+    "Evaluated emerging computer vision technologies and frameworks to identify opportunities for innovation and improvement in existing document processing systems and workflows."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Java"
+    ],
+    "Computer Vision Libraries": [
+      "OpenCV",
+      "Pillow",
+      "Tesseract",
+      "PaddleOCR"
+    ],
+    "Machine Learning Frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn"
+    ],
+    "Object Detection Models": [
+      "YOLO",
+      "Faster R-CNN",
+      "SSD",
+      "Mask R-CNN"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "Azure ML",
+      "AWS",
+      "GCP"
+    ],
+    "DevOps Tools": [
+      "Azure DevOps",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "Testing Tools": [
+      "pytest",
+      "Jest",
+      "Selenium",
+      "Postman"
+    ],
+    "Monitoring Tools": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "Azure Monitor"
+    ],
+    "Version Control": [
+      "Git",
+      "Azure Repos",
+      "GitHub",
+      "Bitbucket"
+    ],
+    "API Development": [
+      "REST APIs",
+      "FastAPI",
+      "Flask",
+      "Django REST"
+    ],
+    "Data Processing": [
+      "Kafka",
+      "Apache Spark",
+      "Apache Airflow",
+      "Azure Data Factory"
+    ],
+    "Experiment Tracking": [
+      "MLflow",
+      "Weights & Biases",
+      "TensorBoard",
+      "Azure ML Studio"
+    ],
+    "Security": [
+      "OAuth 2.0",
+      "JWT",
+      "Azure AD",
+      "SSL/TLS"
+    ],
+    "Productivity Tools": [
+      "Microsoft Office 365",
+      "Jira",
+      "Confluence",
+      "Slack"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Computer Vision Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Developed advanced OCR solutions using Python, OpenCV, and Tesseract to extract critical information from healthcare claim forms, reducing manual processing time by 60% while maintaining HIPAA compliance.",
+        "Implemented PyTorch-based deep learning models to classify and categorize medical documents, enabling automated routing to appropriate processing queues and improving overall workflow efficiency.",
+        "Created custom computer vision pipelines using TensorFlow to identify and extract specific data fields from prescription images, ensuring accurate medication information capture for pharmacy systems.",
+        "Applied YOLO object detection algorithms to locate and isolate signatures on healthcare documents, facilitating automated verification processes and reducing fraud detection time.",
+        "Utilized Azure DevOps to establish CI/CD pipelines for continuous integration and deployment of computer vision models, ensuring rapid iteration and minimal downtime during updates.",
+        "Designed RESTful APIs using FastAPI to expose OCR functionality to internal applications, enabling seamless integration with existing healthcare management systems.",
+        "Optimized Tesseract and PaddleOCR configurations specifically for medical terminology recognition, improving text extraction accuracy for complex healthcare documents by 25%.",
+        "Implemented Docker containerization for all computer vision services, ensuring consistent deployment environments and simplifying scaling during peak processing periods.",
+        "Applied advanced image preprocessing techniques using OpenCV to enhance document quality before OCR processing, significantly improving text recognition rates for low-quality scanned images.",
+        "Developed automated testing frameworks with pytest to validate OCR accuracy across diverse document types, establishing quality benchmarks for production deployments.",
+        "Integrated Kafka message queues to handle high-volume document processing workflows, enabling real-time tracking of processing status and facilitating load balancing across compute resources.",
+        "Collaborated with healthcare compliance teams to ensure all computer vision solutions met strict HIPAA requirements, implementing data anonymization techniques for protected health information.",
+        "Configured Prometheus and Grafana dashboards to monitor model performance metrics, enabling proactive identification of degradation and facilitating timely model retraining.",
+        "Leveraged Azure ML for experiment tracking and model versioning, maintaining a comprehensive history of model iterations and performance metrics to support regulatory audits.",
+        "Fine-tuned pre-trained computer vision models using domain-specific healthcare datasets, adapting general-purpose models to recognize specialized medical terminology and document formats.",
+        "Reduced inference time by 40% through model optimization techniques including quantization and pruning, enabling real-time processing capabilities for time-sensitive healthcare workflows.",
+        "Established documentation standards for computer vision model development and deployment, creating comprehensive guides for data scientists and DevOps teams to ensure consistent practices.",
+        "Presented technical findings and model performance metrics to executive stakeholders, translating complex computer vision concepts into actionable business insights for healthcare operations."
+      ],
+      "environment": [
+        "Python",
+        "OpenCV",
+        "Pillow",
+        "PyTorch",
+        "TensorFlow",
+        "Tesseract",
+        "PaddleOCR",
+        "YOLO",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Git",
+        "pytest",
+        "Prometheus",
+        "Grafana",
+        "Azure ML",
+        "MLflow",
+        "REST APIs",
+        "FastAPI"
+      ]
+    },
+    {
+      "role": "Computer Vision Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Built computer vision solutions using Python and OpenCV to process financial documents, extracting key information from checks, loan applications, and credit card statements with 98% accuracy.",
+        "Implemented TensorFlow-based deep learning models to detect fraudulent documents by analyzing security features and identifying anomalies in financial paperwork.",
+        "Developed custom OCR pipelines using Tesseract and PaddleOCR to extract structured data from unstructured financial documents, enabling automated data entry and reducing processing costs.",
+        "Applied YOLO and Faster R-CNN object detection models to locate and extract signatures, logos, and other visual elements from banking documents for verification purposes.",
+        "Created RESTful APIs using Flask to expose computer vision functionality to internal banking applications, ensuring secure integration with existing financial systems.",
+        "Utilized Docker to containerize computer vision services, enabling consistent deployment across development, testing, and production environments while maintaining security compliance.",
+        "Implemented pytest-based testing frameworks to validate OCR accuracy across diverse financial document types, establishing quality benchmarks for production deployments.",
+        "Integrated Kafka message queues to handle high-volume document processing workflows, enabling real-time tracking of processing status for time-sensitive financial transactions.",
+        "Collaborated with cybersecurity teams to implement data encryption and access controls for all computer vision systems, ensuring compliance with PCI DSS requirements.",
+        "Configured monitoring solutions using Prometheus and Grafana to track model performance metrics, enabling proactive identification of issues during critical processing periods.",
+        "Optimized PyTorch models for production deployment, reducing inference time by 35% while maintaining accuracy levels required for fraud detection in financial transactions.",
+        "Developed automated data annotation tools using OpenCV to create training datasets for computer vision models, reducing manual labeling efforts by 70% for document processing tasks.",
+        "Established version control practices using Git and Azure Repos for all computer vision code, maintaining comprehensive history of model iterations and facilitating regulatory audits.",
+        "Communicated technical limitations and trade-offs of computer vision solutions to non-technical stakeholders, facilitating informed decision-making regarding implementation strategies.",
+        "Transformed legacy document processing systems by implementing modern computer vision techniques, resulting in significant improvements in processing speed and accuracy for banking workflows."
+      ],
+      "environment": [
+        "Python",
+        "OpenCV",
+        "Pillow",
+        "PyTorch",
+        "TensorFlow",
+        "Tesseract",
+        "PaddleOCR",
+        "YOLO",
+        "Faster R-CNN",
+        "Docker",
+        "Kafka",
+        "Git",
+        "pytest",
+        "Prometheus",
+        "Grafana",
+        "REST APIs",
+        "Flask",
+        "Azure Repos"
+      ]
+    },
+    {
+      "role": "Computer Vision Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed computer vision solutions using Python and OpenCV to analyze manufacturing quality control images, identifying defects in automotive components with 94% accuracy.",
+        "Implemented PyTorch-based deep learning models to classify parts and components on assembly lines, enabling automated quality checks and reducing manual inspection time by 50%.",
+        "Created custom OCR pipelines using Tesseract to extract serial numbers and manufacturing data from vehicle components, facilitating automated inventory tracking and quality assurance.",
+        "Applied SSD object detection models to locate and identify specific components in complex assembly images, enabling precise automated guidance for robotic manufacturing systems.",
+        "Utilized Docker to package computer vision applications for deployment across Ford's manufacturing facilities, ensuring consistent performance and simplifying maintenance across multiple locations.",
+        "Developed RESTful APIs using Flask to expose computer vision functionality to manufacturing execution systems, enabling real-time quality control feedback during production processes.",
+        "Implemented pytest-based testing frameworks to validate computer vision accuracy across diverse lighting conditions and component orientations, ensuring robust performance in factory environments.",
+        "Integrated computer vision results with existing manufacturing databases, enabling automated documentation of quality checks and facilitating compliance with automotive industry standards.",
+        "Optimized TensorFlow models for deployment on edge computing devices used in manufacturing plants, reducing inference latency to enable real-time quality control during fast-paced assembly operations.",
+        "Collaborated with manufacturing engineers to understand specific quality requirements and translate them into technical specifications for computer vision system development.",
+        "Created data preprocessing pipelines using OpenCV to enhance image quality before analysis, significantly improving defect detection rates for components with challenging surface properties.",
+        "Communicated technical findings and system limitations to production managers, providing clear recommendations for implementing computer vision solutions within existing manufacturing workflows."
+      ],
+      "environment": [
+        "Python",
+        "OpenCV",
+        "Pillow",
+        "PyTorch",
+        "TensorFlow",
+        "Tesseract",
+        "SSD",
+        "Docker",
+        "pytest",
+        "REST APIs",
+        "Flask"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Designed and optimized SQL queries for financial consulting applications, improving data retrieval performance by 45% and enhancing overall system responsiveness for client reporting.",
+        "Developed stored procedures and functions to automate complex data transformations, reducing manual processing time for monthly financial reports and ensuring consistent calculations.",
+        "Created database schemas for consulting project management systems, establishing efficient data structures that supported multiple concurrent users and large datasets.",
+        "Implemented data validation rules and constraints to ensure data integrity across consulting databases, reducing errors in client billing and project tracking by 60%.",
+        "Wrote complex SQL scripts to migrate data from legacy systems to modern database platforms, ensuring seamless transition with minimal downtime for consulting operations.",
+        "Collaborated with application developers to optimize database interactions, providing technical guidance on query design and indexing strategies for improved performance.",
+        "Generated ad-hoc reports and data extracts for consulting clients, customizing output formats to meet specific business requirements and regulatory compliance needs.",
+        "Maintained documentation for database systems and procedures, creating comprehensive guides that facilitated knowledge transfer among team members and supported onboarding processes.",
+        "Troubleshot performance issues in production databases, identifying bottlenecks and implementing solutions that improved system stability during peak usage periods.",
+        "Participated in database design reviews for new consulting applications, providing technical recommendations to ensure scalability and performance for growing data volumes."
+      ],
+      "environment": [
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "Microsoft SQL Server",
+        "Stored Procedures",
+        "Database Design",
+        "Query Optimization",
+        "Data Migration",
+        "Reporting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": "2016"
+    }
+  ],
+  "certifications": []
+}

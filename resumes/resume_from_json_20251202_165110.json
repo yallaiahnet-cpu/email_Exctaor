@@ -1,0 +1,323 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Lead .NET & Power Platform Application Developer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in .NET application development, Microsoft Power BI, and SharePoint, working across Hospitality, Healthcare, Transportation, Government, Banking, and Telecommunications domains.",
+    "Designed a SharePoint intranet portal for a large hospitality client, integrating .NET Core APIs to centralize staff communication and operational data, which improved internal workflow coordination significantly.",
+    "Architected a Power BI reporting dashboard for a healthcare project that connected to SQL Server and visualized patient data trends, helping the clinical team make faster data-driven decisions for patient care.",
+    "Constructed a .NET MVC application for a transportation client to manage real-time flight operations data, ensuring the system met strict FAA regulations for data accuracy and uptime.",
+    "Assembled a Model Driven Power App for a government agency to digitize a paper-based permit process, reducing manual entry errors and cutting down approval times from several days to a few hours.",
+    "Fabricated a custom PCF control for a Power Platform solution in the banking sector to securely display customer financial data, adhering to all required SOX compliance and data privacy standards.",
+    "Formulated a strategy to migrate an old ASP.NET Web Forms application to ASP.NET Core for a telecom project, improving application performance and making future updates much easier to handle.",
+    "Operationalized a Power Automate flow that automated the daily data sync between a legacy hotel booking system and a new .NET API, eliminating a manual nightly job for the operations team.",
+    "Illustrated the technical design for a new .NET microservice that handled loyalty points calculations, which I then discussed with the business team to make sure it matched their complex rules.",
+    "Established a code review process using Azure DevOps pull requests for my .NET team, focusing on Entity Framework best practices and secure coding standards for HIPAA and PCI projects.",
+    "Maintained and updated several Canvas apps in the Power Platform for a government benefits portal, fixing user-reported bugs and adding small features requested during weekly feedback sessions.",
+    "Guided a junior developer on my team through their first major task of building a CRUD API with C# and Entity Framework, helping them understand database design and error handling.",
+    "Compiled detailed technical documentation for a .NET and Power BI integration solution I built, so the support team could handle basic troubleshooting without developer involvement.",
+    "Verified the security setup for a new .NET application's authentication module, working with the infosec team to implement OAuth 2.0 and role-based access for different user types.",
+    "Synthesized requirements from multiple business units into a single technical plan for a SharePoint Online migration, prioritizing features that would have the biggest impact on daily work.",
+    "Coordinated with the database administration team to optimize SQL Server stored procedures used by a critical .NET service, which fixed a recurring timeout issue during peak booking hours.",
+    "Refined the user interface of a healthcare admin tool using HTML, CSS, and JavaScript, based on usability testing feedback from nurses and administrative staff who used it daily.",
+    "Validated the data pipelines feeding into a suite of Power BI dashboards for a financial client, ensuring all numbers matched the source systems for accurate regulatory reporting."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "C#",
+      ".NET",
+      ".NET Core",
+      "ASP.NET Core",
+      "Entity Framework",
+      "JavaScript"
+    ],
+    "Microsoft Power Platform & Business Intelligence": [
+      "Microsoft Power BI",
+      "Power Apps (Model Driven & Canvas)",
+      "Power Automate",
+      "PCF Controls",
+      "SharePoint"
+    ],
+    "Frontend Development": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ASP.NET MVC",
+      "Razor Pages"
+    ],
+    "Backend Development & API": [
+      "REST API Design",
+      "Microservices Architecture",
+      "API Integration",
+      "Windows Communication Foundation (WCF)"
+    ],
+    "Database Technologies": [
+      "SQL Server",
+      "Database Administration",
+      "T-SQL",
+      "Stored Procedures",
+      "Entity Framework Core"
+    ],
+    "Cloud & DevOps": [
+      "Azure",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "Docker",
+      "Containerization"
+    ],
+    "Security & Authentication": [
+      "OAuth 2.0",
+      "Identity Management",
+      "Role-Based Access Control (RBAC)",
+      "Data Encryption"
+    ],
+    "Testing & Quality Assurance": [
+      "Unit Testing",
+      "Integration Testing",
+      "xUnit",
+      "MS Test"
+    ],
+    "Monitoring & Logging": [
+      "Application Insights",
+      "Log Analytics",
+      "Performance Monitoring"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "Azure Repos",
+      "Agile/Scrum Methodology",
+      "Jira"
+    ],
+    "Project Management & Architecture": [
+      "Agile Project Management",
+      "Solution Architecture",
+      "Data Modeling",
+      "Service Level Agreements (SLA)"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "I currently build new features for the guest management module using C# and ASP.NET Core, focusing on integrating with third-party hotel APIs to streamline check-in data flows and improve the guest experience.",
+        "Architected a Power BI dashboard suite last quarter that visualizes hotel occupancy and revenue data, pulling from Azure SQL databases to help management with their weekly performance reviews.",
+        "I also set up a new Power Automate flow this month that automatically sends confirmation emails to guests, which replaced a manual process and reduced front-desk workload by a few hours each day.",
+        "Created a custom PCF control for a Power App that lets hotel staff quickly view guest preferences and special requests, making personalization much easier during busy check-in periods.",
+        "I work closely with a junior developer on my team, reviewing their Entity Framework code and helping them debug a tricky issue with database migrations in our development environment.",
+        "Designed a SharePoint Online site for internal team collaboration, where we now store project documents and run our sprint planning meetings, which made information easier to find for everyone.",
+        "I recently fixed a performance bug in a .NET Core API that was causing slow response times during peak booking hours, by optimizing LINQ queries and adding some strategic caching with Redis.",
+        "Updated our main booking engine's frontend with JavaScript and HTML to make it more accessible, which was important for the hospitality group to meet their new corporate standards.",
+        "I built a Model Driven Power App for managing vendor contracts and service level agreements, which the procurement team actually started using because it was simpler than their old spreadsheet.",
+        "Wrote a set of unit tests for a new payment processing module using xUnit, which caught a few edge cases with currency conversion before we deployed the code to production last week.",
+        "I had to figure out a way to sync data between our .NET application and a legacy property management system, so I used REST APIs and spent a couple of days testing the integration thoroughly.",
+        "Deployed our latest .NET microservice to an Azure App Service using an Azure DevOps pipeline I configured, which automated the build and deployment steps we used to do manually.",
+        "I am responsible for the code reviews in my team, so I check pull requests for security issues, especially around guest data privacy which is critical in the hospitality industry.",
+        "Started a proof-of-concept for using Docker to containerize one of our .NET services, which could help with deployment consistency across our development and staging environments.",
+        "I collaborated with the UX designer to implement a new UI component in our admin portal using HTML and CSS, making sure it matched the mockups and worked on all required browsers.",
+        "Put together a technical design document for a new feature that calculates dynamic pricing, explaining the C# logic and database changes needed to the product managers and other developers."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Power BI",
+        "Power Apps",
+        "Power Automate",
+        "SharePoint Online",
+        "Azure SQL",
+        "Entity Framework Core",
+        "JavaScript",
+        "HTML/CSS",
+        "Azure DevOps",
+        "Docker",
+        "Redis",
+        "Git",
+        "REST API"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "Developed a patient data visualization dashboard using Microsoft Power BI that connected to secure SQL Server databases, helping clinical researchers track study participant metrics more effectively.",
+        "Engineered a set of .NET Core Web APIs for a new laboratory information management system, ensuring all endpoints strictly followed HIPAA guidelines for protected health information security.",
+        "Migrated an internal department SharePoint site to a newer version, reorganizing the document libraries and permissions to improve how medical staff accessed and shared critical procedural documents.",
+        "Integrated a Power Automate workflow with the existing .NET patient portal to automatically send lab result notifications, which reduced the manual workload for administrative staff by a noticeable amount.",
+        "Constructed a custom Model Driven Power App for managing medical device inventory across several clinic locations, incorporating barcode scanning functionality for easier stock checks.",
+        "Collaborated with database administrators to optimize several complex stored procedures that were slowing down a key .NET application used for patient scheduling and appointment management.",
+        "Implemented a new authentication module for an internal tool using OAuth 2.0 and Azure Active Directory, which provided more granular role-based access controls for doctors, nurses, and admin personnel.",
+        "Fixed a series of bugs in a legacy ASP.NET MVC application related to data entry forms, working through the frustrating JavaScript and server-side code to make the forms more reliable for nurses.",
+        "Assisted the business analysts by building a prototype Canvas app in Power Platform to gather feedback on a new patient intake process before we committed to full-scale .NET development.",
+        "Wrote detailed technical documentation for the API integrations I built between the new .NET services and the existing Epic EHR system, focusing on data mapping and error handling procedures.",
+        "Participated in daily Scrum meetings and used Jira to track my tasks, which helped our team stay aligned on priorities for the healthcare regulatory reporting features we were delivering.",
+        "Reviewed code from other developers on the team, paying special attention to data access patterns with Entity Framework to prevent any potential performance issues in the production environment.",
+        "Configured Application Insights for a suite of .NET microservices to monitor performance and log errors, which helped us quickly diagnose an outage related to a third-party lab data feed.",
+        "Worked with the infrastructure team to deploy the new .NET applications to Azure App Services, setting up the staging and production environments according to the clinic's security policies."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Power BI",
+        "Power Apps",
+        "Power Automate",
+        "SharePoint",
+        "SQL Server",
+        "Entity Framework",
+        "JavaScript",
+        "HTML/CSS",
+        "Azure",
+        "OAuth 2.0",
+        "Azure AD",
+        "REST API",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "Built a real-time flight operations dashboard using ASP.NET Core and SignalR to display gate changes and delays, which improved communication for ground crew at major hub airports.",
+        "Developed a baggage tracking module with C# and .NET Core Web APIs that integrated with existing scanning systems, helping to reduce the number of lost luggage incidents reported.",
+        "Created a series of Power BI reports for airline management that analyzed fuel consumption and route efficiency data pulled from Azure Data Warehouse and on-premise SQL Servers.",
+        "Modernized an old crew scheduling application by migrating it from .NET Framework to .NET Core, which made the application faster and easier to update with new FAA compliance rules.",
+        "Implemented a caching layer using Redis for a high-traffic .NET API that served flight status information to the public mobile app, significantly reducing database load during peak travel times.",
+        "Designed and coded a custom PCF control for a Power Platform app used by customer service agents to quickly look up passenger itineraries and loyalty tier status during phone calls.",
+        "Worked on automating the deployment of our .NET services using Azure DevOps pipelines, which cut down the time it took to get a bug fix from development into the testing environment.",
+        "Solved a persistent performance issue in a legacy WCF service that handled seat assignments by refactoring the data access code and improving the SQL query logic behind it.",
+        "Added new features to an internal SharePoint portal used for safety documentation, including version control and approval workflows to meet strict aviation regulatory standards.",
+        "Wrote unit and integration tests for a new payment processing service, which helped ensure reliability for the thousands of daily ticket transactions processed through the airline's website.",
+        "Collaborated with the frontend team to integrate the .NET backend APIs with Angular components for the staff portal, focusing on creating a seamless user experience for operations controllers.",
+        "Documented the architecture and data flow for the new microservices I helped build, creating diagrams and runbooks for the production support team to use for troubleshooting."
+      ],
+      "environment": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "SignalR",
+        "Power BI",
+        "SQL Server",
+        "Azure",
+        "Redis",
+        "Entity Framework",
+        "WCF",
+        "SharePoint",
+        "Azure DevOps",
+        "REST API",
+        "Angular",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "Programmed a .NET MVC application for processing and tracking unemployment benefit claims, ensuring the system aligned with state government standards and data security policies.",
+        "Assembled a Power BI dashboard for the department of transportation to monitor road maintenance budgets and project expenditures, using data from SQL Server Reporting Services.",
+        "Updated an older ASP.NET Web Forms application used for business license registrations, migrating key components to .NET Core and improving the overall user interface with modern CSS.",
+        "Integrated a SharePoint document management system with a .NET workflow engine to automate the routing of grant applications for approval, which reduced manual paperwork handling.",
+        "Constructed several Canvas apps in the Power Platform for field inspectors to submit reports from mobile devices, which synced data back to the central .NET database when connected.",
+        "Fixed a critical security vulnerability in a public-facing .NET API by implementing proper input validation and sanitization, following a security audit conducted by the state's IT team.",
+        "Worked on a team that developed a voter registration portal using C# and Entity Framework, focusing on data accuracy and integration with existing state voter databases.",
+        "Helped configure Azure DevOps for our project's source control and build pipelines, which improved our team's ability to manage code versions and deploy updates to the test servers.",
+        "Tested the performance of a high-volume data import feature in a .NET service, identifying and resolving bottlenecks that occurred during nightly batch processing of tax records.",
+        "Participated in regular meetings with business subject matter experts to gather requirements for a new child welfare case management system, translating their needs into technical user stories."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        ".NET Core",
+        "ASP.NET MVC",
+        "ASP.NET Web Forms",
+        "Power BI",
+        "SharePoint",
+        "SQL Server",
+        "Entity Framework",
+        "JavaScript",
+        "Azure DevOps",
+        "REST API",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "Coded new features for an internal loan processing application using C# and .NET Framework, which helped bank officers manage customer mortgage applications more efficiently.",
+        "Assisted in the development of a Power BI report that analyzed customer service call center data, helping managers identify trends and improve agent training programs.",
+        "Updated an existing .NET Windows Service that handled nightly transaction reconciliation, fixing bugs and adding better logging to help the operations team troubleshoot failed runs.",
+        "Built simple HTML forms and JavaScript validation for a customer-facing web portal that allowed users to update their contact information and communication preferences securely.",
+        "Worked with a senior developer to integrate a third-party identity verification API into a .NET Web API project, ensuring the solution met the bank's strict SOX compliance requirements.",
+        "Performed unit testing on database access layers built with ADO.NET, making sure data retrieval for account summaries was accurate and performed well under expected load.",
+        "Participated in code reviews and Agile sprint planning meetings, learning how to estimate tasks and break down larger features into smaller, manageable pieces of work for the team.",
+        "Helped with the migration of some application components from an on-premise server to Azure, which was my first real exposure to cloud platforms and their configuration settings."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET MVC",
+        "ADO.NET",
+        "SQL Server",
+        "Power BI",
+        "JavaScript",
+        "HTML/CSS",
+        "Azure",
+        "SOX Compliance",
+        "Windows Services",
+        "Web API"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "Learned the basics of .NET development by working on a customer billing system, where I fixed simple bugs in the C# code and wrote SQL scripts to correct data discrepancies in test environments.",
+        "Supported the senior team by building a basic internal web page using ASP.NET MVC and jQuery to display network outage reports, which was my first hands-on project with a frontend and backend.",
+        "Assisted with the maintenance of a legacy SharePoint site used by the network operations team, updating list items and helping users with basic permission and access issues.",
+        "Wrote my first set of unit tests for a small class library that calculated customer roaming charges, which helped me understand the importance of testing in catching logic errors early.",
+        "Attended daily stand-up meetings and used TFS for version control, getting familiar with the Agile development process and how a telecom software team functioned on a day-to-day basis.",
+        "Worked on a data migration task where I wrote C# console application scripts to cleanse and transfer subscriber data from an old system to a new SQL Server database schema."
+      ],
+      "environment": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET MVC",
+        "SQL Server",
+        "jQuery",
+        "SharePoint",
+        "Team Foundation Server (TFS)",
+        "ADO.NET",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

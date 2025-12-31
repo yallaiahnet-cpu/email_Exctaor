@@ -1,0 +1,243 @@
+{
+  "name": "Preethi Reddy",
+  "title": "Sr SDET QA Engineer",
+  "contact": {
+    "email": "rpreethi1104@gmail.com",
+    "phone": "+1 \u202a(314) 312-3188\u202c",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 8 years of experience in test automation and quality assurance across Healthcare, Government, Banking, and Consulting domains, with deep knowledge of Selenium and Appium frameworks for functional and regression testing.",
+    "Architected CI/CD pipelines using Jenkins and Docker to automate test execution, reducing deployment time and ensuring continuous quality checks throughout the software development lifecycle in banking and fintech applications.",
+    "Executed Black Box Testing and White Box Testing methodologies to validate application functionality, identify edge cases, and ensure compliance with banking regulations and security standards across multiple projects.",
+    "Utilized SQL for database validation, data integrity checks, and backend testing to verify transactional accuracy in fintech systems, ensuring data consistency across relational databases during regression cycles.",
+    "Configured test automation frameworks using Selenium WebDriver, TestNG, and Maven to standardize testing practices, improve code reusability, and accelerate test development across cross-functional teams.",
+    "Applied Agile methodology principles by participating in sprint planning, daily standups, and retrospectives to align testing efforts with development milestones and deliver quality software increments on schedule.",
+    "Debugged complex application defects by analyzing logs, reproducing issues in test environments, and collaborating with developers to identify root causes, resulting in faster resolution times and improved application stability.",
+    "Integrated Appium for mobile application testing on iOS and Android platforms, validating user workflows and ensuring seamless functionality for banking mobile apps used by millions of customers.",
+    "Automated API testing using REST Assured and Postman to verify service endpoints, validate response codes, and ensure data exchange accuracy between microservices in distributed fintech architectures.",
+    "Deployed test scripts in Kubernetes clusters to support scalable test execution across multiple environments, enabling parallel testing and reducing overall test cycle duration for large-scale banking applications.",
+    "Managed version control using Git and GitHub, maintaining test repositories, reviewing pull requests, and collaborating with team members to ensure code quality and consistency across automation suites.",
+    "Tracked defects and testing progress in JIRA, prioritizing critical issues, documenting test cases, and coordinating with product owners to ensure timely delivery of high-quality software releases.",
+    "Developed Python and Java scripts to automate repetitive testing tasks, generate test data, and enhance test coverage for complex banking workflows involving payment processing and account management.",
+    "Validated cloud-based testing environments on AWS to simulate production scenarios, perform load testing, and ensure application performance under varying traffic conditions for fintech services."
+  ],
+  "technical_skills": {
+    "Test Automation Tools": [
+      "Selenium",
+      "Appium",
+      "TestNG",
+      "JUnit",
+      "Cucumber",
+      "REST Assured"
+    ],
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL"
+    ],
+    "Testing Methodologies": [
+      "Black Box Testing",
+      "White Box Testing",
+      "Regression Testing",
+      "API Testing",
+      "Mobile Testing",
+      "Integration Testing"
+    ],
+    "CI/CD Tools": [
+      "Jenkins",
+      "GitHub Actions",
+      "CircleCI",
+      "Travis CI"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Docker Compose"
+    ],
+    "Database Technologies": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "MongoDB"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket"
+    ],
+    "Test Management Tools": [
+      "JIRA",
+      "TestRail",
+      "Zephyr",
+      "qTest"
+    ],
+    "Agile & DevOps": [
+      "Agile Methodology",
+      "Scrum",
+      "DevOps Practices",
+      "Continuous Testing"
+    ],
+    "Build Tools": [
+      "Maven",
+      "Gradle",
+      "Ant"
+    ],
+    "Debugging & Monitoring": [
+      "Debugging",
+      "Splunk",
+      "ELK Stack",
+      "New Relic"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Sr SDET QA Engineer",
+      "client": "Molina Healthcare",
+      "duration": "2023-Jun - Present",
+      "location": "",
+      "responsibilities": [
+        "Analyzed HIPAA compliance requirements for healthcare applications and designed Selenium test automation frameworks to validate patient data security, encryption standards, and access controls across web-based clinical systems.",
+        "Built CI/CD pipelines in Jenkins to automate test execution for healthcare portals, integrating Docker containers to ensure consistent test environments and reduce manual deployment efforts during regression cycles.",
+        "Validated SQL database queries to verify patient record accuracy, claims processing logic, and billing calculations, ensuring data integrity across relational databases used in healthcare management systems.",
+        "Automated API testing using REST Assured to verify service integrations between healthcare providers, insurance claims systems, and third-party vendors, ensuring seamless data exchange and compliance with regulatory standards.",
+        "Configured Appium for mobile testing of healthcare applications on iOS and Android devices, validating patient appointment scheduling, medication reminders, and telehealth features to ensure functional accuracy.",
+        "Debugged critical production defects by analyzing application logs, reproducing issues in test environments, and coordinating with development teams to resolve medication dosage errors and claims processing failures.",
+        "Performed Black Box Testing on healthcare portals to identify usability issues, validate user workflows, and ensure compliance with FDA and HIPAA regulations during feature releases and system updates.",
+        "Implemented test data management strategies using Python scripts to generate synthetic patient records, ensuring compliance with privacy regulations while maintaining comprehensive test coverage for healthcare scenarios.",
+        "Collaborated with product owners and business analysts in Agile sprints to refine acceptance criteria, prioritize testing efforts, and deliver quality software increments aligned with healthcare business objectives.",
+        "Deployed automated test suites in Kubernetes clusters on AWS to support parallel test execution, reducing overall test cycle duration and enabling faster feedback for healthcare application releases.",
+        "Maintained test automation repositories in Git, reviewing pull requests and ensuring code quality standards across the QA team to promote consistency and reusability in healthcare test automation efforts.",
+        "Tracked defects and testing progress in JIRA, prioritizing critical issues related to patient safety, coordinating with stakeholders, and ensuring timely resolution of bugs before production deployments.",
+        "Conducted White Box Testing on backend services to validate business logic, examine code paths, and ensure proper error handling in healthcare claim adjudication and eligibility verification modules.",
+        "Reviewed test results from continuous testing pipelines, identified flaky tests, and optimized Selenium scripts to improve test stability and reliability for healthcare applications serving millions of patients."
+      ],
+      "environment": [
+        "Selenium",
+        "Appium",
+        "Java",
+        "Python",
+        "SQL",
+        "REST Assured",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Git",
+        "JIRA",
+        "TestNG",
+        "Maven",
+        "Black Box Testing",
+        "White Box Testing",
+        "CI/CD",
+        "HIPAA",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Sr QA Automation Engineer",
+      "client": "State of Washington",
+      "duration": "2021-Sep - 2023-May",
+      "location": "",
+      "responsibilities": [
+        "Designed Selenium automation frameworks for government web portals, validating citizen service applications, license renewals, and public records access while ensuring compliance with state regulations and accessibility standards.",
+        "Established CI/CD pipelines using Jenkins and Docker to automate regression testing for government systems, reducing manual testing efforts and accelerating deployment cycles for critical public-facing applications.",
+        "Verified SQL database operations to validate taxpayer records, vehicle registration data, and benefits enrollment information, ensuring data accuracy and integrity across government databases during system migrations.",
+        "Assessed API integrations using REST Assured to test data exchanges between state agencies, federal systems, and third-party vendors, ensuring secure and accurate information sharing for public services.",
+        "Conducted Black Box Testing on unemployment benefits portals, identifying functional defects, validating eligibility calculations, and ensuring user-friendly interfaces for citizens accessing government assistance programs.",
+        "Resolved defects in government applications by debugging application logs, reproducing issues in staging environments, and working with developers to fix authentication failures and form submission errors.",
+        "Automated mobile testing using Appium for state mobile applications, validating features like license renewals, permit applications, and service requests on iOS and Android platforms used by Washington residents.",
+        "Managed test case documentation in JIRA, tracking defects, coordinating with stakeholders, and ensuring timely resolution of issues impacting public access to government services and online portals.",
+        "Participated in Agile ceremonies including sprint planning and retrospectives, aligning testing activities with development priorities and ensuring quality gates were met before releasing government software updates.",
+        "Scripted Python automation to generate test data for government systems, simulate citizen interactions, and validate complex workflows involving multi-step application processes and document verification."
+      ],
+      "environment": [
+        "Selenium",
+        "Appium",
+        "Java",
+        "Python",
+        "SQL",
+        "REST Assured",
+        "Jenkins",
+        "Docker",
+        "AWS",
+        "Google Cloud",
+        "Git",
+        "JIRA",
+        "TestNG",
+        "Black Box Testing",
+        "CI/CD",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Selenium Automation Engineer",
+      "client": "Comerica Bank",
+      "duration": "2019-Nov - 2021-Aug",
+      "location": "",
+      "responsibilities": [
+        "Developed Selenium test automation scripts for online banking applications, validating account transactions, fund transfers, and bill payment features while ensuring compliance with banking security standards and regulations.",
+        "Integrated CI/CD pipelines in Jenkins to automate nightly regression testing for banking systems, using Docker containers to maintain consistent test environments and reduce infrastructure setup time.",
+        "Executed SQL queries to validate transaction records, account balances, and interest calculations in banking databases, ensuring financial accuracy and data consistency during system upgrades and releases.",
+        "Performed API testing using REST Assured to verify payment gateway integrations, validate transaction responses, and ensure secure communication between banking services and external financial networks.",
+        "Applied Black Box Testing techniques to identify functional issues in customer-facing banking portals, validating login workflows, account management features, and regulatory compliance with financial industry standards.",
+        "Investigated defects in banking applications by debugging logs, analyzing stack traces, and coordinating with development teams to resolve payment processing failures and authentication issues.",
+        "Coordinated with business analysts and product managers in Agile sprints to understand banking requirements, refine test scenarios, and deliver quality software releases aligned with customer expectations.",
+        "Organized test automation code in Git repositories, followed branching strategies, and participated in code reviews to maintain high-quality test scripts and promote collaboration across the QA team."
+      ],
+      "environment": [
+        "Selenium",
+        "Java",
+        "SQL",
+        "REST Assured",
+        "Jenkins",
+        "Docker",
+        "Git",
+        "JIRA",
+        "TestNG",
+        "Maven",
+        "Black Box Testing",
+        "CI/CD",
+        "Agile"
+      ]
+    },
+    {
+      "role": "QA Analyst",
+      "client": "Tech Mahindra",
+      "duration": "2017-Apr - 2019-May",
+      "location": "",
+      "responsibilities": [
+        "Created Selenium test scripts for client web applications, validating user registration, login functionality, and data entry forms to ensure application reliability and meet client acceptance criteria.",
+        "Ran SQL queries to verify data consistency in application databases, checked record integrity, and validated backend operations during testing cycles for consulting projects across multiple client engagements.",
+        "Tested web application features using Black Box Testing methods, identified functional defects, documented issues in JIRA, and worked with developers to ensure timely bug fixes before client releases.",
+        "Supported API testing efforts using Postman to validate service endpoints, check response codes, and verify data payloads for client applications integrating with third-party systems and external APIs.",
+        "Attended Agile meetings, contributed to sprint planning discussions, and aligned testing activities with development schedules to deliver quality software increments for consulting clients on time.",
+        "Maintained test documentation, recorded test execution results, and reported testing progress to project managers and stakeholders, ensuring transparency and accountability in consulting project deliverables."
+      ],
+      "environment": [
+        "Selenium",
+        "Java",
+        "SQL",
+        "Postman",
+        "JIRA",
+        "TestNG",
+        "Black Box Testing",
+        "Agile"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [
+    "ISTQB Advanced Level Agile Technical Tester (CTAL-ATT)"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Database Engineer & AI/ML Integration Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise data platforms, SQL Server administration, and AI/ML integration across Insurance, Healthcare, Banking, and Consulting domains with Azure and GCP cloud expertise.",
+    "Administered Microsoft SQL Server environments handling database performance tuning, high availability solutions with Always On configurations, and disaster recovery implementations ensuring system uptime and data integrity.",
+    "Built full lifecycle data integrations using Azure Data Factory and SSIS to automate ETL pipelines, transforming raw data into actionable insights while maintaining strict security protocols and access control mechanisms.",
+    "Developed T-SQL stored procedures and optimized query performance through index tuning, execution plan analysis, and database schema redesign reducing response times and improving application throughput.",
+    "Integrated generative AI services with cloud data platforms using Python and prompt engineering techniques to enable LLM-powered automation, document intelligence, and predictive analytics for business operations.",
+    "Configured backup strategies and disaster recovery plans for SQL Server databases ensuring compliance with regulatory standards including HIPAA, PCI-DSS, and insurance industry requirements across hybrid cloud environments.",
+    "Automated infrastructure deployment using PowerShell scripts and CI/CD pipelines through Azure DevOps, streamlining database change management and reducing manual configuration errors during release cycles.",
+    "Implemented data masking and encryption techniques to protect sensitive information in healthcare and financial systems, working closely with security teams to establish role-based access control and audit logging.",
+    "Collaborated with data scientists to prepare clean datasets for machine learning models, handling data validation, quality checks, and pipeline orchestration using Python libraries and cloud-native services.",
+    "Designed database architectures supporting AI workloads on Azure SQL and Google Cloud SQL, integrating Vertex AI and Azure AI services for real-time inference and model training workflows.",
+    "Monitored database performance using Application Insights and Cloud Monitoring tools, troubleshooting bottlenecks and implementing indexing strategies that improved query execution across production workloads.",
+    "Participated in code reviews and testing cycles creating unit tests and integration tests for data pipelines, ensuring software quality standards and documentation alignment with enterprise architecture guidelines.",
+    "Worked with cross-functional teams including DevOps engineers and full-stack developers to deploy containerized services using Docker, enabling seamless AI model deployment and API integrations.",
+    "Maintained secure credential management practices using Azure Key Vault and Google Secret Manager, safeguarding database connection strings and API keys across multi-environment deployments.",
+    "Documented technical specifications and architecture diagrams for data flow designs, SQL Server configurations, and AI integration patterns providing knowledge transfer materials for team members and stakeholders.",
+    "Supported agile development practices attending daily standups and sprint planning sessions, adapting quickly to changing requirements and prioritizing tasks based on business impact and technical dependencies.",
+    "Facilitated stakeholder communication translating technical database concepts into business terms, gathering requirements for new features, and providing status updates on project milestones and system health.",
+    "Debugged complex data pipeline failures analyzing logs from ADF and SSIS packages, identifying root causes related to data quality issues, network timeouts, and resource constraints in cloud environments."
+  ],
+  "technical_skills": {
+    "Database Administration": [
+      "Microsoft SQL Server",
+      "T-SQL",
+      "Stored Procedures",
+      "Database Performance Tuning",
+      "Always On High Availability",
+      "Backup and Disaster Recovery",
+      "Database Security",
+      "Access Control",
+      "Data Masking"
+    ],
+    "Programming Languages": [
+      "Python",
+      "C#",
+      ".NET",
+      "PowerShell",
+      "Java",
+      "SQL",
+      "Bash",
+      "TypeScript"
+    ],
+    "Cloud Platforms": [
+      "Azure (Azure SQL, ADF, AI Services, DevOps)",
+      "Google Cloud Platform (GCP, Vertex AI, Cloud SQL)",
+      "AWS (S3, Lambda, RDS, Glue)"
+    ],
+    "AI/ML Integration": [
+      "Prompt Engineering",
+      "Generative AI",
+      "LLM Integration",
+      "OpenAI APIs",
+      "Azure AI Services",
+      "Vertex AI",
+      "Model Context Protocol",
+      "Multi-Agent Systems",
+      "LangGraph",
+      "LangChain",
+      "Crew AI",
+      "AutoGen"
+    ],
+    "Data Engineering": [
+      "Azure Data Factory",
+      "SSIS",
+      "ETL/ELT Pipelines",
+      "Data Validation",
+      "Apache Spark",
+      "PySpark",
+      "Informatica",
+      "Hadoop",
+      "Sqoop"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "Infrastructure-as-Code",
+      "Terraform",
+      "Docker",
+      "Jenkins"
+    ],
+    "Machine Learning": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost",
+      "ML Data Preparation",
+      "Model Training"
+    ],
+    "Monitoring & Observability": [
+      "Application Insights",
+      "Cloud Monitoring",
+      "Logging Frameworks",
+      "Performance Monitoring"
+    ],
+    "Security & Compliance": [
+      "Azure Key Vault",
+      "Google Secret Manager",
+      "HIPAA Compliance",
+      "PCI-DSS",
+      "Data Governance",
+      "Regulatory Compliance"
+    ],
+    "Testing & Quality": [
+      "Unit Testing",
+      "Integration Testing",
+      "Software Testing",
+      "Data Validation",
+      "QA Processes"
+    ],
+    "Documentation & Architecture": [
+      "Technical Documentation",
+      "Architecture Diagrams",
+      "Data Flow Design",
+      "API Documentation"
+    ],
+    "Collaboration Tools": [
+      "Agile/Scrum",
+      "JIRA",
+      "Confluence",
+      "Microsoft Teams"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Administer SQL Server Always On configurations across Azure environments ensuring high availability for insurance claim processing systems, performing regular maintenance windows and monitoring failover cluster health.",
+        "Develop multi-agent systems using LangGraph and PySpark to automate insurance underwriting workflows, coordinating agent-to-agent communication patterns for risk assessment and policy recommendation generation tasks.",
+        "Tune database query performance analyzing execution plans and rebuilding indexes on high-traffic tables storing policy data, reducing average response time for customer portal queries while maintaining ACID compliance.",
+        "Build proof-of-concept solutions integrating Azure AI services with SQL Server databases using Python and prompt engineering, demonstrating feasibility of generative AI for claims adjudication and fraud detection use cases.",
+        "Implement Model Context Protocol frameworks connecting LLM agents to enterprise data sources, enabling contextual retrieval of insurance regulations and policy documents during automated decision-making processes.",
+        "Secure database access using Azure Key Vault for credential management and configure data masking on sensitive customer information ensuring compliance with insurance industry privacy standards and state regulations.",
+        "Automate disaster recovery testing procedures with PowerShell scripts validating backup integrity and failover scenarios, documenting recovery time objectives and working with DevOps teams on incident response plans.",
+        "Collaborate with data scientists preparing clean datasets from SQL Server for machine learning models predicting claim severity, handling data validation checks and transforming structured insurance records into training formats.",
+        "Deploy CI/CD pipelines using Azure DevOps for database change management and AI service deployments, coordinating release schedules with QA teams and performing integration testing on staging environments before production.",
+        "Troubleshoot complex data pipeline failures in Azure Data Factory analyzing error logs and network connectivity issues, working late hours during critical incidents to restore ETL jobs processing daily claim submissions.",
+        "Create technical documentation detailing SQL Server architecture, AI integration patterns, and data flow diagrams for insurance domain applications, conducting knowledge transfer sessions with junior developers and business analysts.",
+        "Optimize T-SQL stored procedures used in real-time policy pricing calculations, refactoring logic to reduce execution time and adding proper error handling for edge cases discovered during user acceptance testing.",
+        "Participate in code reviews examining Python scripts for LangGraph agent implementations, providing feedback on prompt engineering techniques and suggesting improvements to exception handling and logging practices.",
+        "Monitor Azure SQL performance metrics using Application Insights identifying slow queries during peak business hours, applying index tuning recommendations and working with infrastructure team on resource scaling strategies.",
+        "Attend sprint planning meetings discussing AI feature requirements with product owners, estimating effort for proof-of-concept work involving new agent frameworks and breaking down tasks for two-week iteration cycles.",
+        "Support full-stack developers integrating RESTful APIs connecting front-end insurance portals to backend SQL Server databases, debugging authentication issues and ensuring proper transaction isolation levels for concurrent requests."
+      ],
+      "environment": [
+        "Microsoft SQL Server",
+        "Azure SQL",
+        "Azure Data Factory",
+        "Azure AI Services",
+        "Azure Key Vault",
+        "Azure DevOps",
+        "Python",
+        "PySpark",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "T-SQL",
+        "PowerShell",
+        ".NET",
+        "C#",
+        "Docker",
+        "Git",
+        "Application Insights",
+        "Always On HA",
+        "SSIS",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Administered SQL Server instances managing healthcare patient databases with strict HIPAA compliance requirements, configuring transparent data encryption and audit logging to track access to protected health information across clinical systems.",
+        "Developed LangChain-based pipelines on GCP integrating Vertex AI models for medical document intelligence, extracting structured data from clinical notes and lab reports while maintaining patient privacy through de-identification techniques.",
+        "Optimized database performance tuning indexes on large tables storing electronic health records, analyzing query execution plans and implementing partitioning strategies that improved data retrieval speed for physician dashboards.",
+        "Built proof-of-concept multi-agent systems using Crew AI framework coordinating specialized agents for drug interaction checking, treatment protocol recommendations, and clinical trial matching based on patient medical histories.",
+        "Implemented backup and recovery procedures for SQL Server databases ensuring compliance with healthcare regulations, testing restore operations quarterly and documenting disaster recovery runbooks for critical patient data systems.",
+        "Integrated Google Cloud SQL with Vertex AI services using Python APIs enabling machine learning predictions for patient readmission risk, collaborating with clinical data scientists on feature engineering and model validation.",
+        "Secured sensitive healthcare data configuring Google Secret Manager for database credentials and API keys, working with information security team to establish role-based access controls aligned with HIPAA privacy rules.",
+        "Automated ETL workflows using Azure Data Factory migrating legacy clinical data from on-premise systems to GCP cloud storage, handling data transformation logic and scheduling nightly batch jobs during maintenance windows.",
+        "Debugged data quality issues in healthcare pipelines investigating discrepancies between source systems and data warehouse, coordinating with hospital IT staff to resolve data feed interruptions and fix mapping errors.",
+        "Participated in Agile ceremonies including daily standups and retrospectives, estimating story points for AI feature development and demonstrating prototype applications to clinical stakeholders seeking feedback on usability.",
+        "Created technical documentation describing GCP architecture for healthcare analytics platform, detailing data flow from SQL Server sources through BigQuery to Looker dashboards consumed by hospital administrators.",
+        "Collaborated with QA engineers writing integration tests for LangChain agents validating accuracy of medical information extraction, creating test datasets covering various clinical document formats and edge cases.",
+        "Monitored GCP Cloud Monitoring dashboards tracking database performance and AI service latency, responding to alerts during on-call rotations and escalating infrastructure issues affecting patient care applications.",
+        "Refactored T-SQL stored procedures used in pharmacy inventory management reducing complexity and improving maintainability, adding inline comments explaining business logic related to drug formulary rules and FDA regulations."
+      ],
+      "environment": [
+        "Microsoft SQL Server",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "Google Cloud SQL",
+        "BigQuery",
+        "LangChain",
+        "LangGraph",
+        "Crew AI",
+        "AutoGen",
+        "Python",
+        "T-SQL",
+        "Azure Data Factory",
+        "Google Secret Manager",
+        "Cloud Monitoring",
+        "HIPAA Compliance",
+        "Docker",
+        "Git",
+        "PowerShell",
+        "RESTful APIs",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Administered SQL Server databases supporting state healthcare programs ensuring HIPAA compliance and data security for Medicaid enrollment systems, performing routine maintenance tasks and coordinating with state IT security auditors.",
+        "Developed machine learning pipelines on AWS using SageMaker and Lambda functions processing healthcare claims data, training models to detect fraudulent billing patterns and anomalies in provider reimbursement requests.",
+        "Tuned database performance optimizing indexes on tables storing citizen health records, working with application teams to refactor slow-running queries and implementing caching strategies that reduced page load times for case workers.",
+        "Built ETL processes using AWS Glue extracting data from legacy mainframe systems transforming records into normalized schemas, scheduling daily jobs and monitoring CloudWatch logs for pipeline failures during state fiscal reporting periods.",
+        "Implemented data validation rules ensuring accuracy of healthcare eligibility data flowing between SQL Server and AWS RDS, creating Python scripts to identify missing fields and duplicates before downstream processing.",
+        "Secured database connections using AWS Secrets Manager rotating credentials regularly and configuring VPC security groups, collaborating with network administrators to establish firewall rules protecting sensitive patient information.",
+        "Automated disaster recovery testing procedures validating SQL Server backup integrity and RDS snapshot restoration, documenting recovery procedures for state healthcare systems and conducting quarterly drills with operations team.",
+        "Prepared datasets for machine learning models cleaning healthcare transaction records and handling missing values, working with data scientists to understand feature requirements and export training data in formats compatible with scikit-learn.",
+        "Debugged data pipeline errors investigating AWS Glue job failures caused by schema changes in source systems, coordinating with external vendors to resolve data feed issues and updating transformation logic accordingly.",
+        "Participated in sprint planning estimating effort for database migration tasks and ML model deployment work, presenting technical solutions to state program managers and adjusting priorities based on legislative deadlines.",
+        "Created architecture diagrams documenting data flow from SQL Server through AWS services to analytics platforms, maintaining technical specifications for healthcare data warehouse and conducting knowledge transfer sessions with state employees.",
+        "Monitored AWS CloudWatch metrics tracking database utilization and Lambda execution times, responding to performance degradation alerts and scaling RDS instances during peak enrollment periods for public health programs."
+      ],
+      "environment": [
+        "Microsoft SQL Server",
+        "AWS (S3, SageMaker, Lambda, RDS, Glue)",
+        "AWS Secrets Manager",
+        "CloudWatch",
+        "Python",
+        "T-SQL",
+        "Scikit-Learn",
+        "PowerShell",
+        "Git",
+        "HIPAA Compliance",
+        "ETL Pipelines",
+        "Data Validation",
+        "Disaster Recovery"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Administered SQL Server databases storing financial transaction records ensuring PCI-DSS compliance and data encryption for credit card processing systems, coordinating with security teams on quarterly vulnerability assessments.",
+        "Developed predictive models using Python and scikit-learn analyzing customer transaction patterns to identify credit risk and fraud indicators, training algorithms on historical banking data and validating accuracy through backtesting.",
+        "Optimized database queries tuning indexes on high-volume tables tracking daily transactions, working with application developers to refactor stored procedures and reduce locking contention during peak trading hours.",
+        "Built data pipelines using AWS Glue extracting transaction data from SQL Server into S3 data lake, transforming records into Parquet format and orchestrating nightly ETL jobs through CloudWatch scheduled events.",
+        "Implemented data masking techniques protecting customer personally identifiable information in non-production environments, configuring SQL Server dynamic data masking and creating scripts to anonymize test datasets.",
+        "Secured database credentials using AWS Secrets Manager implementing automated rotation policies, working with DevOps team to integrate secret retrieval into application deployment pipelines and troubleshooting authentication failures.",
+        "Prepared clean datasets for machine learning experiments handling missing values and outliers in financial records, collaborating with risk analysts to define feature engineering requirements and validate model assumptions.",
+        "Debugged data quality issues investigating discrepancies in transaction reconciliation reports, coordinating with upstream banking systems to resolve data feed timing problems and duplicate record submissions.",
+        "Participated in code reviews examining SQL queries and Python scripts developed by junior team members, providing feedback on optimization techniques and suggesting improvements to error handling and logging practices.",
+        "Created technical documentation describing database schema for transaction processing systems, detailing data lineage and transformation rules for regulatory reporting requirements and conducting training sessions with audit teams."
+      ],
+      "environment": [
+        "Microsoft SQL Server",
+        "AWS (S3, Glue, RDS, Secrets Manager)",
+        "Python",
+        "Scikit-Learn",
+        "T-SQL",
+        "PCI-DSS Compliance",
+        "ETL Pipelines",
+        "Data Masking",
+        "CloudWatch",
+        "PowerShell",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned Hadoop ecosystem components working with senior engineers to understand HDFS architecture and MapReduce programming patterns, gradually taking ownership of smaller data ingestion tasks for client consulting projects.",
+        "Developed Sqoop jobs extracting data from SQL Server databases into Hadoop clusters, writing shell scripts to automate daily incremental loads and monitoring job execution through Hadoop web interfaces.",
+        "Built Informatica PowerCenter workflows transforming structured data from multiple source systems, learning ETL best practices and debugging mapping errors under guidance of technical leads during offshore development shifts.",
+        "Assisted with database performance analysis reviewing slow-running queries and suggesting basic index improvements, gaining hands-on experience with SQL Server Management Studio and execution plan interpretation.",
+        "Participated in team meetings discussing project requirements and technical approaches, asking questions to understand client business needs and taking notes during architecture design sessions led by senior consultants.",
+        "Created basic technical documentation describing data mapping specifications and Sqoop command parameters, maintaining knowledge base articles for common troubleshooting procedures used by offshore support team.",
+        "Tested ETL workflows validating row counts and data accuracy between source and target systems, logging defects in JIRA and working with QA team to reproduce issues discovered during integration testing cycles.",
+        "Supported production deployments following runbook procedures to execute Informatica workflows and Hadoop jobs, monitoring logs during maintenance windows and escalating errors to senior engineers on call."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Shell Scripting",
+        "HDFS",
+        "MapReduce",
+        "JIRA",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

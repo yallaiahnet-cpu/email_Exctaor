@@ -1,0 +1,203 @@
+{
+  "name": "Yallaiah Yallaiah",
+  "title": "SAP ABAP Developer - Employee Central Payroll",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Delivered 4 years of experience in SAP ABAP development with focus on Employee Central Payroll integrations across Insurance, Technology, and Transportation domains, ensuring compliance with industry-specific payroll regulations.",
+    "Built SAP Cloud Platform Integration solutions to connect Employee Central Payroll with external systems using REST APIs, BAPIs, and IDocs, reducing manual data entry and improving payroll processing accuracy across multiple clients.",
+    "Configured SAP HANA database schemas and optimized payroll queries to handle large-scale employee data, improving system performance during peak payroll cycles and ensuring reliable data migration through LTPA and BADI extensions.",
+    "Automated payroll validation workflows using Python scripting and Shell commands integrated with SAP Transport Management System, streamlining SDLC processes and reducing deployment time for critical payroll updates.",
+    "Collaborated with HR teams to troubleshoot Employee Central Payroll application issues using SAP Debugger, identifying root causes in ABAP code and implementing fixes that maintained payroll accuracy and compliance standards.",
+    "Mentored junior developers on SAP HCM modules, ABAP debugging techniques, and version control practices using Git, helping team members understand payroll system architecture and accelerate their contribution to production releases.",
+    "Integrated SAP SuccessFactors with Employee Central Payroll using CPI connectors and SOAP APIs, enabling seamless employee lifecycle management and real-time payroll data synchronization across HR platforms for insurance clients.",
+    "Implemented data migration strategies for transitioning legacy payroll systems to Employee Central Payroll, utilizing IDoc configurations and BADI enhancements to preserve historical payroll records and maintain regulatory compliance.",
+    "Enhanced SAP Fiori UI5 interfaces for payroll administrators, simplifying complex payroll operations and reducing training time for end users while maintaining secure access through authentication protocols in SaaS configurations.",
+    "Established CI/CD pipelines using Jenkins and Ansible for automated deployment of SAP CPI integrations, ensuring consistent payroll system updates across development, testing, and production environments with minimal downtime."
+  ],
+  "technical_skills": {
+    "SAP Development": [
+      "SAP ABAP",
+      "Employee Central Payroll",
+      "SAP HCM",
+      "SAP SuccessFactors",
+      "SAP Fiori",
+      "SAP UI5",
+      "SAP Debugger"
+    ],
+    "Integration Technologies": [
+      "SAP Cloud Platform Integration",
+      "BAPIs",
+      "IDocs",
+      "REST APIs",
+      "SOAP APIs",
+      "CPI Connectors",
+      "Application Integration"
+    ],
+    "Database & Data Management": [
+      "SAP HANA",
+      "Database schemas",
+      "Data migration",
+      "LTPA",
+      "BADI",
+      "Payroll systems"
+    ],
+    "Scripting & Automation": [
+      "Python",
+      "Shell scripting",
+      "Automation tools",
+      "Jenkins",
+      "Ansible",
+      "CI/CD"
+    ],
+    "Version Control & SDLC": [
+      "Git",
+      "Transport Management System",
+      "Software development lifecycle",
+      "Version control"
+    ],
+    "Cloud & SaaS": [
+      "SaaS application configuration",
+      "Cloud deployments",
+      "SAP Cloud Platform"
+    ],
+    "Troubleshooting & Support": [
+      "Application troubleshooting",
+      "Problem solving",
+      "ABAP debugging",
+      "System optimization"
+    ],
+    "Compliance & Security": [
+      "HIPAA",
+      "GDPR",
+      "Payroll compliance",
+      "Authentication protocols"
+    ]
+  },
+  "experience": [
+    {
+      "role": "SAP ABAP Developer - Employee Central Payroll",
+      "client": "HealthTech Solutions Inc.",
+      "duration": "2025-Feb - Present",
+      "location": "",
+      "responsibilities": [
+        "Develop ABAP programs for Employee Central Payroll to process insurance claims data integrated with payroll calculations, ensuring HIPAA compliance and accurate payment processing for healthcare providers across multiple states.",
+        "Configure SAP Cloud Platform Integration connectors using REST APIs to synchronize employee benefits data between insurance systems and Employee Central Payroll, reducing data discrepancies and improving payroll accuracy for claims processing.",
+        "Troubleshoot Employee Central Payroll application issues by analyzing ABAP code with SAP Debugger, identifying performance bottlenecks in database queries against SAP HANA schemas, and implemented optimizations that improved payroll run times.",
+        "Automate payroll validation scripts using Python to verify insurance premium deductions and GDPR-compliant data handling, integrating with Transport Management System for version-controlled deployment across test and production environments.",
+        "Extend SAP HCM modules with custom BADI implementations to handle specialized insurance industry payroll rules, including provider reimbursement calculations and regulatory reporting requirements specific to healthcare sector compliance.",
+        "Mentor two junior ABAP developers on Employee Central Payroll architecture, CPI integration patterns, and Git workflows, conducting code reviews to ensure adherence to SAP development standards and payroll system reliability practices.",
+        "Integrate SAP SuccessFactors employee records with Employee Central Payroll using IDoc configurations, enabling real-time updates of insurance coverage changes and ensuring accurate payroll deductions for health benefits administration.",
+        "Build SaaS application configurations for payroll administrators to manage insurance-specific pay components, utilizing SAP Fiori UI5 interfaces that simplified complex payroll operations while maintaining secure access through authentication controls.",
+        "Migrate legacy insurance payroll data to Employee Central Payroll using LTPA techniques and custom ABAP migration programs, preserving historical compensation records and ensuring continuity in compliance reporting for regulatory audits.",
+        "Establish CI/CD pipelines with Jenkins and Ansible to automate deployment of SAP CPI integrations and ABAP transports, reducing manual effort in payroll system updates and ensuring consistent insurance payroll processing across environments.",
+        "Collaborate with insurance claims teams to design SOAP API integrations between Employee Central Payroll and third-party systems, streamlining provider payment workflows and reducing reconciliation time for payroll and claims data.",
+        "Optimize SAP HANA database schemas for payroll tables handling large volumes of insurance transaction data, implementing indexing strategies and query tuning that improved Employee Central Payroll performance during month-end processing cycles."
+      ],
+      "environment": [
+        "SAP ABAP",
+        "Employee Central Payroll",
+        "SAP Cloud Platform Integration",
+        "SAP HANA",
+        "SAP HCM",
+        "SAP SuccessFactors",
+        "BAPIs",
+        "IDocs",
+        "REST APIs",
+        "SOAP APIs",
+        "Python",
+        "Shell scripting",
+        "Git",
+        "Transport Management System",
+        "Jenkins",
+        "Ansible",
+        "SAP Fiori",
+        "SAP UI5",
+        "SAP Debugger",
+        "LTPA",
+        "BADI",
+        "HIPAA",
+        "GDPR"
+      ]
+    },
+    {
+      "role": "SAP ABAP Developer",
+      "client": "Community Health Systems",
+      "duration": "2024-Apr - 2025-Feb",
+      "location": "",
+      "responsibilities": [
+        "Programmed ABAP enhancements for Employee Central Payroll to support technology sector compensation structures, implementing custom pay components for stock options and performance bonuses using SAP HCM module extensions.",
+        "Designed SAP Cloud Platform Integration flows connecting Employee Central Payroll with external time tracking systems via REST APIs, automating payroll input data collection and reducing manual entry errors in bi-weekly payroll processing.",
+        "Debugged complex payroll calculation errors in ABAP code using SAP Debugger, traced data flows through BAPIs and IDocs, and resolved issues that prevented accurate salary disbursements for technology employees with variable compensation.",
+        "Created Python automation scripts for payroll data validation and reconciliation, integrated with Git version control and Transport Management System to deploy ABAP programs consistently across development and production SAP landscapes.",
+        "Modified SAP HANA database views to optimize payroll reporting queries, improving performance of compensation analysis reports for technology workforce and enabling faster month-end closing for finance teams.",
+        "Supported Employee Central Payroll application troubleshooting during payroll cycles, analyzed system logs and database schemas to identify root causes of processing failures, and applied corrective ABAP patches to restore normal operations.",
+        "Configured IDoc interfaces between Employee Central Payroll and benefits administration systems, enabling automated updates of employee enrollment data and ensuring accurate payroll deductions for technology sector benefit plans.",
+        "Assisted in migrating technology division payroll data from legacy systems to Employee Central Payroll using LTPA techniques and BADI exits, validated data integrity through custom ABAP reports to ensure compliance with SDLC requirements.",
+        "Partnered with technology HR teams to implement SAP Fiori applications for employee self-service payroll inquiries, enhancing user experience and reducing support tickets related to pay stub access and tax document retrieval.",
+        "Coordinated with integration specialists to deploy SOAP API connectors in SAP CPI for third-party vendor payments, streamlining contractor payroll processing and improving accuracy of technology project cost allocations."
+      ],
+      "environment": [
+        "SAP ABAP",
+        "Employee Central Payroll",
+        "SAP Cloud Platform Integration",
+        "SAP HANA",
+        "SAP HCM",
+        "BAPIs",
+        "IDocs",
+        "REST APIs",
+        "SOAP APIs",
+        "Python",
+        "Shell scripting",
+        "Git",
+        "Transport Management System",
+        "SAP Fiori",
+        "SAP Debugger",
+        "LTPA",
+        "BADI",
+        "SaaS configuration"
+      ]
+    },
+    {
+      "role": "ABAP Developer",
+      "client": "m-Pledge",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "",
+      "responsibilities": [
+        "Coded ABAP programs for payroll processing in transportation logistics operations, implementing driver compensation calculations and mileage reimbursement formulas that complied with Department of Transportation wage regulations.",
+        "Assembled data migration scripts using Python and Shell commands to transfer transportation employee payroll records into Employee Central Payroll, utilized BADI enhancements to handle specialized transportation industry pay rules during migration.",
+        "Configured BAPIs for integrating Employee Central Payroll with fleet management systems on GCP infrastructure, automated driver payment processing based on delivery schedules and reduced payroll cycle time for transportation workforce.",
+        "Tested ABAP payroll programs using SAP Transport Management System workflows, validated calculation accuracy for transportation-specific pay components including hazard pay and overtime, and documented results in SDLC tracking systems.",
+        "Applied Shell scripting to automate payroll report generation for transportation management, extracted employee compensation data from SAP HANA tables, and delivered formatted reports that supported regulatory compliance audits.",
+        "Facilitated knowledge transfer sessions on Employee Central Payroll functionality for transportation HR staff, explained ABAP customizations and IDoc configurations, and provided documentation to help teams understand payroll system capabilities."
+      ],
+      "environment": [
+        "SAP ABAP",
+        "Employee Central Payroll",
+        "SAP HANA",
+        "BAPIs",
+        "IDocs",
+        "Python",
+        "Shell scripting",
+        "Transport Management System",
+        "BADI",
+        "GCP",
+        "Data migration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": []
+}

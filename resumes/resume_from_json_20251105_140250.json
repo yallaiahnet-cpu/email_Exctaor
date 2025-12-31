@@ -1,0 +1,300 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Solutions Architect - Microsoft Fabric & Data Modernization",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm bringing over 10 years of specialized experience in AI-driven data modernization and enterprise analytics solutions across insurance, healthcare, banking, and consulting domains.",
+    "Using Microsoft Fabric to architect insurance claims prediction systems that transformed fraudulent claim identification from manual processes to real-time automated alerts while maintaining strict regulatory compliance.",
+    "Leveraging Azure ML to deploy healthcare predictive models that significantly improved patient outcome forecasting accuracy while ensuring full HIPAA compliance through encrypted data pipelines and secure model endpoints.",
+    "Implementing Synapse Analytics for large-scale banking transaction monitoring systems that processed millions of daily transactions while reducing false positives in fraud detection through optimized Spark configurations.",
+    "Designing Data Factory pipelines that automated ETL processes for insurance policy data, dramatically reducing manual data processing time while maintaining data quality standards across multiple source systems.",
+    "Building OneLake data lakehouse architectures that centralized healthcare patient data from multiple source systems, enabling unified analytics while preserving data lineage and governance requirements.",
+    "Developing Python-based machine learning models for insurance risk assessment that incorporated real-time weather data and historical claim patterns to improve premium accuracy across all policy types.",
+    "Creating R statistical models for healthcare clinical trial analysis that identified patient response patterns with high confidence intervals, accelerating drug development timelines by reducing manual analysis efforts.",
+    "Implementing Data Vault modeling techniques for banking customer data that provided auditable data lineage from source to consumption layers while maintaining financial compliance standards.",
+    "Architecting star schema data models for insurance analytics that enabled faster reporting and dashboard performance while supporting complex business intelligence requirements across multiple departments.",
+    "Establishing CI/CD pipelines for machine learning models that automated testing and deployment processes while ensuring model version control and reproducibility across development and production environments.",
+    "Integrating version control systems with MLOps workflows that maintained model lineage and experiment tracking while enabling collaborative development across distributed data science teams.",
+    "Deploying machine learning models using Azure ML that served real-time predictions for insurance underwriting decisions while monitoring model drift and performance degradation over time.",
+    "Optimizing data lakehouse architectures that unified structured and unstructured healthcare data while providing scalable storage and compute resources for analytical workloads.",
+    "Collaborating with data engineers and domain experts to design AI solutions that addressed specific business challenges while adhering to enterprise architecture standards and best practices.",
+    "Implementing data governance frameworks within Microsoft Fabric that ensured data security, quality, and compliance across insurance analytics platforms while enabling self-service capabilities.",
+    "Developing predictive maintenance models for healthcare equipment that anticipated failure patterns and scheduled proactive maintenance while integrating with existing hospital management systems.",
+    "Creating automated data quality checks within Data Factory pipelines that identified anomalies in insurance policy data and triggered alerts for data stewardship review and correction processes."
+  ],
+  "technical_skills": {
+    "Microsoft Fabric Ecosystem": [
+      "Microsoft Fabric",
+      "Synapse Analytics",
+      "Data Factory",
+      "OneLake",
+      "Power BI",
+      "Dataflows",
+      "Data Warehousing"
+    ],
+    "Machine Learning & AI": [
+      "Azure ML",
+      "Python",
+      "R",
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "MLflow",
+      "Model Deployment"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Vault",
+      "Star Schema",
+      "Data Lakehouse",
+      "Dimensional Modeling",
+      "Data Mesh",
+      "Data Governance"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "Databricks",
+      "Delta Lake",
+      "Distributed Computing",
+      "Stream Processing"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure Cloud",
+      "AWS",
+      "Storage Accounts",
+      "Compute Resources",
+      "Networking"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Container Registry",
+      "Pod Management",
+      "Service Mesh"
+    ],
+    "DevOps & CI/CD": [
+      "Azure DevOps",
+      "GitHub",
+      "GitLab",
+      "Version Control",
+      "Pipeline Automation",
+      "Release Management"
+    ],
+    "Databases & Storage": [
+      "SQL Server",
+      "Cosmos DB",
+      "Blob Storage",
+      "Data Lake",
+      "Data Warehouses"
+    ],
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Scala",
+      "Java",
+      "Bash/Shell"
+    ],
+    "MLOps & Model Management": [
+      "Model Monitoring",
+      "Experiment Tracking",
+      "Model Registry",
+      "Feature Stores",
+      "Model Serving"
+    ],
+    "Data Integration & ETL": [
+      "Data Pipeline Design",
+      "Data Transformation",
+      "Data Validation",
+      "Orchestration",
+      "Workflow Management"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Microsoft Fabric to address slow insurance claims processing by implementing real-time data pipelines that transformed batch processing into continuous data flows for immediate fraud detection capabilities.",
+        "Leveraging Azure ML to solve model deployment challenges by containerizing risk assessment models with Docker and orchestrating them through Kubernetes for scalable inference across multiple regional insurance offices.",
+        "Implementing Synapse Analytics to handle massive insurance policy data volumes by optimizing Spark configurations and partitioning strategies that improved query performance for complex analytical workloads.",
+        "Designing Data Factory pipelines that automated the extraction of policyholder data from legacy mainframe systems while ensuring data quality through validation checks and error handling mechanisms.",
+        "Building OneLake architecture to centralize disparate insurance data sources including claims, policies, and customer information while maintaining strict data governance and access control policies.",
+        "Developing Python machine learning models that analyzed historical claim patterns to predict future risk exposure while incorporating real-time weather data and geographic risk factors.",
+        "Creating R statistical models for actuarial calculations that improved reserve forecasting accuracy while ensuring compliance with state insurance regulations and reporting requirements.",
+        "Implementing Data Vault modeling to establish auditable data lineage from policy administration systems to analytical dashboards while maintaining historical data tracking for compliance audits.",
+        "Architecting star schema data models that enabled faster insurance reporting dashboards while supporting complex business intelligence requirements across underwriting and claims departments.",
+        "Establishing CI/CD pipelines with Azure DevOps that automated testing and deployment of machine learning models while maintaining version control and model reproducibility across environments.",
+        "Integrating GitHub version control with MLOps workflows that tracked model experiments and enabled collaborative development between data scientists and insurance domain experts.",
+        "Deploying machine learning models using Azure ML that served real-time predictions for automated underwriting decisions while continuously monitoring for model drift and performance degradation.",
+        "Optimizing data lakehouse architecture to unify structured policy data with unstructured claim documents while providing scalable storage for analytical workloads across the insurance organization.",
+        "Collaborating with insurance domain experts to design AI solutions that addressed specific business challenges like fraud detection and risk assessment while adhering to enterprise architecture standards.",
+        "Implementing data governance frameworks within Microsoft Fabric that ensured data security and compliance with insurance regulations while enabling self-service analytics for business users.",
+        "Developing predictive models for insurance claim severity that anticipated settlement costs and helped reserve allocation while integrating with existing policy administration systems."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Docker",
+        "Kubernetes",
+        "Azure DevOps",
+        "GitHub",
+        "Data Vault",
+        "Star Schema"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Azure ML to address clinical trial data processing bottlenecks by implementing automated feature engineering pipelines that reduced manual data preparation time for research teams.",
+        "Leveraging Microsoft Fabric to solve healthcare data integration challenges by creating unified data models that combined electronic health records with clinical trial data while maintaining HIPAA compliance.",
+        "Implementing Synapse Analytics for processing large-scale patient data by optimizing Spark jobs and implementing caching strategies that improved analytical query performance for research applications.",
+        "Designing Data Factory pipelines that automated the extraction and transformation of healthcare data from multiple source systems while ensuring data quality and compliance with regulatory requirements.",
+        "Building OneLake data architecture to centralize healthcare information from clinical systems, research databases, and patient monitoring devices while implementing strict access controls and audit trails.",
+        "Developing Python machine learning models that analyzed patient response patterns to medications while incorporating genetic markers and historical treatment data for personalized medicine approaches.",
+        "Creating R statistical models for clinical trial analysis that identified significant treatment effects and patient subgroups while ensuring statistical rigor and reproducibility of research findings.",
+        "Implementing data modeling techniques that supported both operational reporting and advanced analytics needs while maintaining data consistency across healthcare research and business intelligence systems.",
+        "Architecting analytics solutions that enabled researchers to explore clinical trial data through self-service dashboards while maintaining data security and patient privacy protections.",
+        "Establishing CI/CD pipelines that automated the testing and deployment of analytical models while ensuring version control and reproducibility across development and production environments.",
+        "Integrating version control systems with data science workflows that tracked model experiments and enabled collaboration between researchers, statisticians, and healthcare domain experts.",
+        "Deploying machine learning models using Azure ML that predicted patient outcomes and treatment efficacy while continuously monitoring model performance and updating based on new clinical data.",
+        "Optimizing data architectures to handle diverse healthcare data types including structured clinical data, unstructured medical notes, and real-time sensor data from medical devices.",
+        "Collaborating with healthcare researchers and clinical experts to design AI solutions that addressed specific medical research challenges while adhering to healthcare regulations and ethical standards."
+      ],
+      "environment": [
+        "Microsoft Fabric",
+        "Azure ML",
+        "Synapse Analytics",
+        "Data Factory",
+        "OneLake",
+        "Python",
+        "R",
+        "Data Vault",
+        "Star Schema",
+        "Azure DevOps",
+        "GitHub",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker to develop healthcare predictive models that analyzed public health data to identify disease outbreak patterns while ensuring compliance with state healthcare regulations.",
+        "Leveraging AWS Glue to address data integration challenges by creating ETL pipelines that processed healthcare data from multiple state agencies while maintaining data quality and consistency.",
+        "Implementing Spark on AWS EMR to process large-scale public health datasets by optimizing cluster configurations and data partitioning strategies that improved processing efficiency.",
+        "Designing data pipelines that automated the collection and processing of healthcare statistics from hospitals and clinics across the state while implementing data validation checks.",
+        "Building data lake architecture on AWS S3 to centralize public health information while implementing access controls and audit trails for sensitive healthcare data protection.",
+        "Developing Python machine learning models that predicted healthcare service demand across different regions while incorporating demographic data and historical usage patterns.",
+        "Creating statistical models that analyzed healthcare outcomes and resource utilization while ensuring methodological rigor and compliance with state reporting requirements.",
+        "Implementing data models that supported public health reporting and analytics while maintaining data consistency across different state healthcare programs and initiatives.",
+        "Architecting analytics solutions that enabled public health officials to monitor healthcare trends and make data-driven decisions while maintaining patient privacy and data security.",
+        "Establishing deployment pipelines that automated the testing and release of analytical models while ensuring version control and reproducibility across environments.",
+        "Integrating version control systems with data science workflows that tracked model development and enabled collaboration between data scientists and public health experts.",
+        "Deploying predictive models that supported public health planning and resource allocation while continuously monitoring model performance and updating based on new healthcare data."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "EMR",
+        "S3",
+        "Python",
+        "Spark",
+        "Data Lakes",
+        "ETL Pipelines",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Healthcare Analytics"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using AWS machine learning services to develop fraud detection models that analyzed transaction patterns and identified suspicious activities while complying with banking regulations.",
+        "Leveraging AWS data services to address customer analytics challenges by creating unified customer views that combined transaction data with demographic information for segmentation analysis.",
+        "Implementing Spark processing for large-scale financial transaction data by optimizing data frames and leveraging caching mechanisms that improved analytical processing performance.",
+        "Designing data pipelines that automated the extraction and transformation of banking data from core systems while ensuring data quality and compliance with financial regulations.",
+        "Building analytical datasets that supported customer behavior analysis and product recommendation engines while maintaining data security and customer privacy protections.",
+        "Developing Python models that predicted customer churn and identified retention opportunities while incorporating transaction history and customer service interaction data.",
+        "Creating statistical models that analyzed credit risk and loan performance while ensuring methodological rigor and compliance with banking regulations.",
+        "Implementing data models that supported both regulatory reporting and customer analytics while maintaining data consistency across different banking systems.",
+        "Architecting analytics solutions that enabled business users to explore customer data through dashboards and reports while maintaining data governance and security standards.",
+        "Establishing model deployment processes that ensured proper testing and validation before production release while maintaining version control and documentation."
+      ],
+      "environment": [
+        "AWS ML Services",
+        "Spark",
+        "Python",
+        "SQL",
+        "Data Pipelines",
+        "Statistical Modeling",
+        "Machine Learning",
+        "Data Analytics",
+        "Banking Systems",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop to address large-scale data processing challenges by implementing MapReduce jobs that transformed client data from multiple source systems for analytical purposes.",
+        "Leveraging Informatica to solve data integration problems by designing ETL workflows that extracted data from operational systems and loaded it into data warehouses for reporting.",
+        "Implementing Sqoop to transfer data between relational databases and Hadoop distributed file systems by optimizing connection parameters and parallel processing configurations.",
+        "Designing data extraction processes that collected information from client source systems while implementing data validation checks and error handling mechanisms.",
+        "Building data transformation workflows that cleaned and standardized client data while ensuring data quality and consistency across different business units.",
+        "Developing data loading procedures that populated data warehouses and mart structures while maintaining data integrity and supporting business intelligence requirements.",
+        "Creating data documentation that described source systems, transformation rules, and target structures while enabling knowledge sharing across the consulting team.",
+        "Implementing basic data quality checks that identified anomalies and inconsistencies in client data while working with business users to resolve data issues."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "ETL",
+        "Data Warehousing",
+        "Data Integration",
+        "Data Quality",
+        "Business Intelligence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

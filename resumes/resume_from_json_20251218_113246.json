@@ -1,0 +1,324 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Master Data Management Consultant | MDM Architecture & Cloud Data Engineering Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Bring 10 years of experience across Insurance, Healthcare, Banking, and Consulting domains, specializing in Semarchy MDM platform implementation, Azure Data Factory pipelines, and data governance frameworks for capital markets organizations.",
+    "Architect enterprise Master Data Management solutions using Semarchy MDM platform, focusing on reference data domains including securities, counterparties, and market data with strict compliance to regulatory standards and data quality frameworks.",
+    "Design and maintain MDM hub-and-spoke integration patterns connecting Azure Data Factory, Snowflake, and DBT to ensure master data consistency across downstream systems while managing data lineage and metadata for audit traceability.",
+    "Collaborate with data stewards and product owners to define MDM governance policies, establish data quality rules in Semarchy, and coordinate cross-functional teams to resolve data conflicts and standardize reference data across enterprise systems.",
+    "Build cloud-based data pipelines in Azure Data Factory that extract source system data through Fivetran connectors, transform using DBT models, and load into Semarchy MDM golden records with automated validation and reconciliation workflows.",
+    "Implement MDM data models for capital markets entities including CUSIP, ISIN, and LEI identifiers, ensuring reference data accuracy for securities master, counterparty hierarchies, and market data feeds while maintaining BCBS 239 compliance requirements.",
+    "Optimize Semarchy MDM operations through performance tuning of SQL queries, index management, and batch processing schedules to handle high-volume master data synchronization across Azure cloud infrastructure with minimal latency and downtime.",
+    "Establish data quality management frameworks within Semarchy MDM using validation rules, duplicate detection algorithms, and automated cleansing workflows to maintain golden record integrity and reduce manual stewardship effort by implementing intelligent matching strategies.",
+    "Coordinate MDM release management activities including environment promotion, configuration migration, and production deployment using Azure DevOps pipelines while conducting thorough regression testing to ensure zero-defect delivery for mission-critical data systems.",
+    "Influence technical decisions by negotiating MDM architecture choices with senior stakeholders, presenting trade-off analysis for hub versus registry patterns, and guiding teams toward scalable solutions that balance business requirements with technical constraints.",
+    "Troubleshoot complex MDM integration issues by analyzing data flows across Azure Data Factory, Semarchy, and downstream applications, identifying root causes of data quality problems, and implementing corrective measures to restore system reliability quickly.",
+    "Configure Semarchy MDM security controls including role-based access policies, attribute-level permissions, and audit logging to protect sensitive financial data while ensuring compliance with SOC 2, PCI-DSS, and capital markets regulatory requirements.",
+    "Mentor junior data engineers on MDM best practices, Semarchy platform capabilities, and Azure cloud data engineering patterns through code reviews, knowledge sharing sessions, and hands-on guidance during complex implementation sprints with tight deadlines.",
+    "Develop MDM data migration strategies that extract legacy master data from disparate source systems, apply cleansing and standardization logic using DBT transformations, and load into Semarchy while maintaining complete data lineage for regulatory reporting needs.",
+    "Integrate Semarchy MDM with downstream analytics platforms including Snowflake data warehouses by designing publish-subscribe patterns that distribute golden records, maintain semantic consistency, and enable real-time data availability for business intelligence and reporting systems.",
+    "Monitor MDM system health through Azure monitoring tools, set up alerting for pipeline failures and data quality threshold breaches, and maintain comprehensive documentation of architecture decisions, operational procedures, and troubleshooting guides for support teams.",
+    "Participate in Agile ceremonies including sprint planning, daily standups, and retrospectives while managing MDM backlog items, prioritizing technical debt reduction, and balancing feature development with operational stability in fast-paced entrepreneurial environments.",
+    "Apply MDM best practices from other platforms including Informatica MDM, Reltio, and IBM MDM to Semarchy implementations, adapting proven patterns for match-merge algorithms, survivorship rules, and hierarchy management to deliver high-quality master data solutions."
+  ],
+  "technical_skills": {
+    "Master Data Management Platforms": [
+      "Semarchy xDM",
+      "Informatica MDM",
+      "Reltio Cloud",
+      "IBM InfoSphere MDM",
+      "SAP Master Data Governance"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Synapse Analytics",
+      "Azure DevOps",
+      "AWS Glue",
+      "AWS Lambda",
+      "AWS S3",
+      "Snowflake"
+    ],
+    "Data Engineering & ETL": [
+      "DBT (Data Build Tool)",
+      "Fivetran",
+      "Apache Spark",
+      "PySpark",
+      "Apache Airflow",
+      "Informatica PowerCenter",
+      "Talend",
+      "SSIS"
+    ],
+    "Programming & Query Languages": [
+      "SQL (T-SQL, PL/SQL)",
+      "Python",
+      "Scala",
+      "Bash/Shell",
+      "R"
+    ],
+    "Data Modeling & Architecture": [
+      "Dimensional Modeling",
+      "Star Schema",
+      "Snowflake Schema",
+      "Data Vault 2.0",
+      "Hub-and-Spoke Architecture",
+      "Publish-Subscribe Patterns"
+    ],
+    "Data Governance & Quality": [
+      "Data Quality Frameworks",
+      "Data Lineage Tracking",
+      "Metadata Management",
+      "Data Stewardship",
+      "Master Data Governance",
+      "Data Profiling",
+      "Duplicate Detection"
+    ],
+    "Capital Markets & Reference Data": [
+      "CUSIP",
+      "ISIN",
+      "LEI (Legal Entity Identifier)",
+      "Securities Master Data",
+      "Counterparty Data",
+      "Market Data Feeds",
+      "BCBS 239 Compliance"
+    ],
+    "Databases & Data Warehouses": [
+      "Snowflake",
+      "Azure SQL Database",
+      "PostgreSQL",
+      "Oracle",
+      "SQL Server",
+      "MongoDB",
+      "Teradata"
+    ],
+    "DevOps & CI/CD": [
+      "Azure DevOps",
+      "Git",
+      "GitHub",
+      "Jenkins",
+      "Terraform",
+      "Docker"
+    ],
+    "Business Intelligence & Visualization": [
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "Azure Analysis Services"
+    ],
+    "Regulatory & Compliance": [
+      "HIPAA",
+      "PCI-DSS",
+      "SOC 2",
+      "GDPR",
+      "BCBS 239",
+      "FDA 21 CFR Part 11"
+    ],
+    "Agile & Project Management": [
+      "Scrum",
+      "Kanban",
+      "JIRA",
+      "Confluence",
+      "Azure Boards"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Planning Phase: Assess Semarchy MDM platform capabilities for insurance reference data domains, gather requirements from data stewards on policy master and customer golden records, and document MDM architecture decisions for Azure Data Factory integration patterns.",
+        "Design Azure Data Factory pipelines that extract policy and claims data from legacy systems through Fivetran connectors, apply DBT transformations for data standardization, and load into Semarchy MDM while maintaining complete data lineage for insurance regulatory compliance.",
+        "Implementation Phase: Configure Semarchy MDM match-merge rules for customer entity resolution using probabilistic matching algorithms, set up survivorship logic for golden record creation, and validate data quality thresholds to ensure accurate policy holder master data.",
+        "Develop multi-agent AI systems using LangGraph and PySpark on Azure Databricks to automate insurance data validation workflows, orchestrate agent-to-agent communication for claims processing anomalies, and reduce manual stewardship effort through intelligent data quality checks.",
+        "Deployment Phase: Migrate Semarchy MDM configurations from development to production Azure environments using Azure DevOps pipelines, conduct regression testing on master data workflows, and coordinate with release management teams to ensure zero-downtime deployments for mission-critical systems.",
+        "Build proof-of-concept solutions using Model Context Protocol to enable AI agents to query Semarchy MDM golden records, retrieve policy master data through secure APIs, and provide contextualized responses for insurance underwriting and claims adjudication use cases.",
+        "Monitoring Phase: Set up Azure monitoring dashboards to track Semarchy MDM pipeline performance metrics, configure alerts for data quality rule violations and integration failures, and maintain incident response procedures to restore service availability within agreed SLA timeframes.",
+        "Integrate Semarchy MDM with downstream Snowflake analytics warehouse by designing publish-subscribe patterns that distribute policy master and customer golden records, maintain semantic consistency using DBT models, and enable real-time data availability for actuarial reporting and risk analysis.",
+        "Optimization Phase: Tune Semarchy MDM SQL queries and database indexes to improve match-merge processing speed for high-volume customer data loads, reduce batch processing windows, and optimize Azure Data Factory pipeline parallelism to handle peak insurance policy renewal cycles.",
+        "Collaborate with insurance data stewards and product owners to resolve master data conflicts, facilitate stewardship workflow approvals in Semarchy, and negotiate data governance policies that balance operational efficiency with strict compliance requirements for state insurance regulations.",
+        "Troubleshooting Phase: Diagnose complex data integration failures across Azure Data Factory, Fivetran, and Semarchy MDM by analyzing error logs and data lineage flows, identify root causes of golden record corruption, and implement corrective measures to prevent recurrence.",
+        "Implement Azure security controls for Semarchy MDM including role-based access policies, attribute-level encryption for sensitive customer data, and comprehensive audit logging to meet SOC 2 and insurance regulatory requirements while protecting policyholder privacy.",
+        "Mentor data engineering team members on Semarchy MDM best practices, Azure Data Factory design patterns, and DBT modeling standards through code reviews, knowledge sharing sessions, and hands-on guidance during sprint retrospectives and technical design discussions.",
+        "Conduct proof-of-concept evaluations for multi-agent frameworks including Crew AI and AutoGen to automate insurance claims triage, orchestrate agentic workflows for policy validation, and assess feasibility of agent-to-agent collaboration patterns for complex underwriting scenarios.",
+        "Document MDM architecture decisions, operational runbooks, and troubleshooting guides for Semarchy platform maintenance, create training materials for data stewards on golden record management, and maintain comprehensive metadata for insurance regulatory audit requirements.",
+        "Participate in Agile sprint planning and daily standups while managing MDM backlog items, prioritize technical debt reduction for legacy data integration issues, and balance feature development with operational stability in fast-paced entrepreneurial insurance technology environment."
+      ],
+      "environment": [
+        "Semarchy xDM",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "PySpark",
+        "LangGraph",
+        "DBT",
+        "Fivetran",
+        "Snowflake",
+        "Azure DevOps",
+        "SQL Server",
+        "Python",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "Crew AI",
+        "AutoGen",
+        "Power BI",
+        "JIRA"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planning Phase: Analyzed healthcare reference data requirements for patient master index and provider directories, collaborated with HIPAA compliance teams to define data governance policies, and mapped Semarchy MDM implementation roadmap for Azure cloud migration initiatives.",
+        "Constructed Azure Data Factory pipelines to ingest electronic health records from disparate hospital systems using Fivetran connectors, applied DBT transformations for HIPAA-compliant data masking, and populated Semarchy MDM patient golden records with automated validation workflows.",
+        "Implementation Phase: Configured Semarchy MDM duplicate detection algorithms for patient entity matching across healthcare facilities, established survivorship rules for demographic master data, and validated data quality thresholds to ensure accurate patient identification and care coordination.",
+        "Prototyped AI agents using LangChain and LangGraph frameworks on Azure Databricks to automate healthcare data quality checks, orchestrated multi-agent collaboration for clinical trial patient matching, and reduced manual stewardship burden through intelligent duplicate resolution workflows.",
+        "Deployment Phase: Promoted Semarchy MDM configurations across Azure development, staging, and production environments using CI/CD pipelines, executed comprehensive testing for HIPAA compliance validation, and coordinated with healthcare IT teams to ensure seamless cutover with minimal disruption.",
+        "Evaluated proof-of-concept solutions for multi-agent systems including Crew AI and AutoGen frameworks to automate provider credentialing workflows, assess drug-drug interaction checking through agent collaboration, and streamline pharmaceutical supply chain master data management processes.",
+        "Monitoring Phase: Established Azure monitoring infrastructure to track Semarchy MDM system health metrics, configured real-time alerts for HIPAA audit logging failures and data quality breaches, and maintained incident management procedures to address production issues within healthcare service level agreements.",
+        "Integrated Semarchy MDM with Azure Synapse Analytics and Snowflake data warehouses by implementing publish-subscribe patterns for patient and provider golden records, maintained DBT semantic layers for clinical reporting, and enabled real-time master data access for healthcare analytics applications.",
+        "Optimization Phase: Enhanced Semarchy MDM performance by tuning SQL query execution plans, implemented database partitioning strategies for large patient record volumes, and optimized Azure Data Factory pipeline scheduling to process high-throughput healthcare data feeds efficiently.",
+        "Facilitated stakeholder workshops with healthcare data stewards, clinical informaticists, and product owners to resolve patient master data discrepancies, streamline Semarchy approval workflows, and establish governance policies that comply with FDA 21 CFR Part 11 and HIPAA regulations.",
+        "Troubleshooting Phase: Resolved critical data integration errors between Azure Data Factory, Fivetran, and Semarchy MDM by tracing data lineage flows, identified systemic data quality issues in source hospital systems, and implemented upstream corrections to improve golden record accuracy.",
+        "Configured Azure security frameworks for Semarchy MDM including HIPAA-compliant access controls, patient data encryption at rest and in transit, and comprehensive audit trails to support healthcare regulatory audits and demonstrate adherence to GDPR and CHIP privacy requirements.",
+        "Guided healthcare data engineering teams through Semarchy MDM platform adoption by conducting training sessions, reviewing data model designs, and providing technical mentorship during complex patient matching and provider hierarchy management implementation sprints.",
+        "Documented healthcare MDM architecture patterns, created operational playbooks for Semarchy platform maintenance, and established metadata repositories to track patient master data lineage for regulatory reporting requirements and clinical research data governance needs."
+      ],
+      "environment": [
+        "Semarchy xDM",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "LangChain",
+        "LangGraph",
+        "DBT",
+        "Fivetran",
+        "Snowflake",
+        "Azure Synapse Analytics",
+        "Azure DevOps",
+        "SQL Server",
+        "Python",
+        "Multi-Agent Systems",
+        "Crew AI",
+        "AutoGen",
+        "Power BI",
+        "JIRA",
+        "HIPAA Compliance Tools"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planning Phase: Gathered public healthcare master data requirements from Maine DHHS stakeholders, assessed AWS cloud infrastructure for MDM deployment, and designed data governance framework to support Medicaid eligibility and claims reference data management under state HIPAA regulations.",
+        "Assembled AWS Glue ETL pipelines to extract Medicaid enrollment and provider data from legacy mainframe systems, transformed using Python scripts for data standardization, and loaded into centralized master data repository with automated reconciliation checks for state healthcare programs.",
+        "Implementation Phase: Modeled healthcare reference data domains including provider directories, facility registries, and beneficiary master records using dimensional modeling techniques, established data quality validation rules, and maintained metadata catalogs for state regulatory audit requirements.",
+        "Constructed data integration workflows connecting AWS S3, Redshift, and downstream state healthcare applications through publish-subscribe messaging patterns, ensured master data consistency across Medicaid claims processing systems, and maintained data lineage documentation for HIPAA compliance audits.",
+        "Deployment Phase: Migrated master data management workflows from on-premise infrastructure to AWS cloud using infrastructure-as-code templates, performed extensive UAT with state healthcare administrators, and coordinated cutover activities to minimize disruption to critical Medicaid eligibility verification services.",
+        "Monitoring Phase: Implemented AWS CloudWatch dashboards to track master data pipeline performance indicators, configured automated alerts for data quality threshold violations in provider and beneficiary records, and maintained on-call rotation to respond to production incidents affecting state healthcare operations.",
+        "Optimized AWS Glue job execution by tuning Spark configurations, implemented incremental data loading strategies for large Medicaid enrollment datasets, and reduced batch processing windows to meet overnight cutoff requirements for state benefits administration systems.",
+        "Facilitated cross-functional meetings with Maine DHHS data stewards, program administrators, and IT teams to resolve master data discrepancies in provider credentialing records, streamline manual review workflows, and establish governance policies compliant with state healthcare regulations.",
+        "Troubleshooting Phase: Diagnosed data integration failures in AWS Glue pipelines by analyzing CloudWatch logs and S3 data quality reports, identified upstream data formatting issues from county health departments, and coordinated with source system owners to implement corrective measures.",
+        "Secured AWS infrastructure for healthcare master data by implementing IAM role-based access controls, encrypting sensitive Medicaid beneficiary information using KMS, and configuring VPC network isolation to protect patient privacy under state and federal HIPAA requirements.",
+        "Trained state IT staff on master data management best practices, AWS cloud data engineering patterns, and troubleshooting procedures through documentation and hands-on workshops, enabling knowledge transfer for ongoing maintenance of critical healthcare data infrastructure.",
+        "Delivered comprehensive data lineage reports tracing Medicaid master data from source systems through transformation logic to downstream applications, supported state audit requirements, and maintained metadata repositories to demonstrate compliance with CHIP and GDPR privacy regulations."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS Redshift",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "Python",
+        "Spark",
+        "SQL",
+        "PostgreSQL",
+        "Informatica PowerCenter",
+        "Tableau",
+        "JIRA",
+        "Git",
+        "HIPAA Compliance Tools"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planning Phase: Assessed banking reference data requirements for customer master, account hierarchies, and product catalogs, collaborated with compliance teams to define PCI-DSS data protection standards, and mapped data integration architecture connecting core banking systems to centralized master data repositories.",
+        "Created AWS Glue ETL pipelines to extract customer and account data from multiple banking channels, applied Python-based cleansing logic to standardize address and contact information, and loaded into master data hub with automated duplicate detection and merge workflows.",
+        "Implementation Phase: Structured dimensional models for banking reference data including customer demographics, account relationships, and transaction master records, implemented data quality validation rules to ensure PCI-DSS compliance, and maintained comprehensive metadata for financial regulatory reporting.",
+        "Formed data integration patterns using AWS S3, Redshift, and downstream banking applications through message queuing systems, synchronized customer master data across retail, commercial, and investment banking platforms, and tracked data lineage for SOX audit requirements.",
+        "Deployment Phase: Transitioned master data workflows from legacy banking infrastructure to AWS cloud environment using automated deployment scripts, conducted thorough regression testing with banking operations teams, and managed production cutover activities to avoid disruption to customer-facing services.",
+        "Monitoring Phase: Built AWS CloudWatch monitoring dashboards to track master data pipeline health metrics, set up alerts for data quality violations in customer and account records, and participated in on-call support rotation to resolve incidents affecting critical banking transaction processing.",
+        "Refined AWS Glue job performance by adjusting Spark memory configurations, implemented partitioning strategies for large customer transaction datasets, and reduced batch processing times to meet strict overnight processing windows for daily banking reconciliation requirements.",
+        "Coordinated with banking data stewards, product managers, and compliance officers to investigate customer master data discrepancies, facilitate manual review workflows for high-value account exceptions, and establish data governance policies aligned with banking regulations.",
+        "Troubleshooting Phase: Investigated AWS Glue pipeline failures by examining CloudWatch error logs and S3 data quality metrics, traced root causes to upstream core banking system changes, and worked with application teams to resolve data format inconsistencies.",
+        "Enforced AWS security controls for banking master data including IAM role restrictions, encryption of customer financial information at rest using KMS, and network security group configurations to protect sensitive data under PCI-DSS and banking privacy regulations.",
+        "Prepared detailed documentation covering master data architecture, AWS cloud infrastructure setup, and operational procedures, enabled smooth knowledge transfer to banking IT support teams, and supported ongoing maintenance of customer master data management platform."
+      ],
+      "environment": [
+        "AWS Glue",
+        "AWS S3",
+        "AWS Redshift",
+        "AWS Lambda",
+        "AWS CloudWatch",
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Informatica PowerCenter",
+        "Tableau",
+        "JIRA",
+        "Git",
+        "PCI-DSS Compliance Tools"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planning Phase: Learned consulting client data integration requirements, studied Informatica PowerCenter ETL tool capabilities, and shadowed senior engineers during Hadoop cluster setup to understand distributed data processing architectures for enterprise data warehousing projects.",
+        "Extracted data from multiple source systems using Informatica PowerCenter workflows, applied transformation logic to cleanse and standardize reference data, and loaded into centralized Hadoop HDFS storage using Sqoop for downstream analytics consumption by client reporting teams.",
+        "Implementation Phase: Assisted in building dimensional data models for client master data domains, validated data quality by writing SQL queries against Hive tables, and documented data mapping specifications to support project delivery timelines.",
+        "Supported data integration testing activities by comparing source and target record counts, investigated data discrepancies through SQL queries, and logged defects in JIRA for resolution by development team during iterative sprint cycles.",
+        "Deployment Phase: Participated in deployment activities by executing Informatica PowerCenter workflow promotions, validated successful data loads in production Hadoop environments, and documented deployment steps for knowledge sharing with offshore team members.",
+        "Monitoring Phase: Observed data pipeline execution logs in Informatica monitoring dashboards, reported job failures to senior engineers for investigation, and learned troubleshooting techniques by reviewing error messages and resolution approaches during team meetings.",
+        "Improved basic SQL query performance by adding indexes to frequently accessed tables, studied Hadoop MapReduce job execution patterns, and gradually took on more responsibility for data quality validation tasks as familiarity with consulting project grew.",
+        "Contributed to client status meetings by preparing data load statistics, learned to communicate technical concepts to non-technical stakeholders, and absorbed feedback from senior consultants on effective collaboration approaches in professional services environment."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Hive",
+        "HDFS",
+        "SQL",
+        "Oracle",
+        "JIRA",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

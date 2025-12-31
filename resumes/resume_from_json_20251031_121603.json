@@ -1,0 +1,380 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead Data Annotation & AI Workflow Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data annotation, NLP, computer vision, and AI workflow engineering, specializing in building enterprise-grade labeling pipelines for financial services and regulated industries.",
+    "Using Labelbox to address complex insurance document processing challenges, I implemented automated NER workflows that reduced manual annotation effort by 45% while maintaining 98% accuracy for policy document classification.",
+    "Leveraging spaCy and Hugging Face transformers, I developed custom tokenization pipelines for healthcare clinical notes, overcoming HIPAA compliance challenges through secure data handling and PII encryption protocols.",
+    "Implementing Prodigy for active learning workflows, I created human-in-the-loop systems that improved model-assisted labeling efficiency by 60% while reducing annotation costs for banking compliance documents.",
+    "Designing Snorkel programs for weak supervision, I built data programming pipelines that generated 50K+ labeled examples for insurance claim classification, achieving 0.85 F1-score with minimal human intervention.",
+    "Using Python and Pandas for data validation, I established QA metrics including precision, recall, and IAA scores that detected annotation drift early, preventing model performance degradation in production systems.",
+    "Building AWS-integrated annotation platforms, I deployed secure data handling workflows with SOC2 compliance, ensuring PII protection for sensitive financial data across insurance underwriting documents.",
+    "Implementing Databricks and MLflow integration, I created versioned annotation schemas and experiment tracking systems that accelerated model development cycles by 30% for healthcare predictive models.",
+    "Developing REST APIs for annotation automation, I built custom SDKs that streamlined vendor coordination and external annotator management, reducing workflow setup time from weeks to days.",
+    "Designing text classification pipelines for financial documents, I applied summarization techniques and prompt engineering that improved information extraction accuracy by 40% for insurance policy analysis.",
+    "Using computer vision for document QA, I implemented data extraction workflows that processed 100K+ insurance forms automatically, reducing manual data entry costs by 70% while maintaining regulatory compliance.",
+    "Building human-in-the-loop active learning systems, I created feedback mechanisms that continuously improved annotation quality, achieving 95% inter-annotator agreement across distributed labeling teams.",
+    "Implementing Snowflake integration for labeled data management, I designed governance frameworks that ensured data lineage tracking and compliance auditing for banking regulatory requirements.",
+    "Using NLTK and custom Python libraries, I developed tokenization strategies for financial terminology that improved NER accuracy by 25% for credit rating documents and risk assessment reports.",
+    "Designing MLOps integration pipelines, I established automated quality checks and drift detection that reduced annotation errors by 60% and improved model training data consistency across projects.",
+    "Implementing secure data handling protocols, I built encryption workflows and access controls that met financial services compliance standards while enabling efficient annotation across distributed teams.",
+    "Developing vendor due diligence frameworks, I evaluated multiple annotation platforms against insurance domain requirements, selecting optimal tools that reduced total annotation costs by 35% annually.",
+    "Building workflow management systems, I created scalable annotation pipelines that supported simultaneous NLP and computer vision projects, accelerating time-to-market for AI initiatives by 40%."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Labelbox to address inconsistent insurance document annotation, I designed enterprise-grade workflow pipelines that standardized NER tagging across 50K+ policy documents, improving data quality by 45%.",
+        "Implementing spaCy for custom entity recognition, I developed insurance-specific tokenization strategies that accurately extracted policy details and coverage terms, reducing manual review time by 60 hours weekly.",
+        "Leveraging Hugging Face transformers for text classification, I built automated categorization systems for insurance claims that achieved 94% accuracy while maintaining strict regulatory compliance standards.",
+        "Designing Python-based QA metrics with Pandas, I created precision and recall tracking systems that detected annotation drift in real-time, preventing model degradation in production underwriting systems.",
+        "Using AWS SageMaker for active learning workflows, I implemented human-in-the-loop systems that reduced annotation volume by 40% while maintaining 96% accuracy for complex insurance scenarios.",
+        "Building REST APIs for annotation automation, I developed integration endpoints that connected external vendor teams with internal systems, streamlining the labeling of 100K+ insurance documents monthly.",
+        "Implementing Databricks for labeled data management, I designed version control systems that tracked annotation schema evolution across multiple model training iterations and compliance audits.",
+        "Using MLflow for experiment tracking, I established governance frameworks that documented annotation quality metrics and model performance correlations, enabling reproducible AI research.",
+        "Designing secure data handling protocols with AWS encryption, I built PII protection workflows that met insurance regulatory requirements while enabling efficient distributed annotation across teams.",
+        "Implementing Snorkel for weak supervision, I created data programming pipelines that generated synthetic training examples for rare insurance events, improving model coverage by 35%.",
+        "Using NLTK for text preprocessing, I developed custom normalization techniques for insurance terminology that improved embedding quality and downstream model performance by 28%.",
+        "Building computer vision pipelines for document QA, I implemented data extraction workflows that processed scanned insurance forms automatically, reducing manual entry costs by $250K annually.",
+        "Designing prompt engineering frameworks, I created structured templates for LLM-assisted annotation that improved consistency across distributed insurance document labeling teams.",
+        "Implementing drift detection algorithms, I established monitoring systems that identified annotation quality issues early, reducing model retraining cycles from weeks to days for urgent projects.",
+        "Using Git for version control, I managed annotation schema evolution across multiple insurance products, ensuring consistency while accommodating domain-specific labeling requirements.",
+        "Building stakeholder communication frameworks, I coordinated between data science, compliance, and product teams to align annotation priorities with business objectives and regulatory constraints."
+      ],
+      "environment": [
+        "Labelbox",
+        "spaCy",
+        "Hugging Face",
+        "Python",
+        "Pandas",
+        "AWS SageMaker",
+        "REST APIs",
+        "Databricks",
+        "MLflow",
+        "Snorkel",
+        "NLTK",
+        "Git",
+        "Docker",
+        "FastAPI"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Prodigy to address clinical note annotation challenges, I implemented active learning workflows that reduced labeling effort by 50% while maintaining HIPAA compliance for sensitive healthcare data.",
+        "Implementing spaCy for medical entity recognition, I developed healthcare-specific NER models that accurately extracted drug names and conditions from clinical texts, achieving 0.92 F1-score.",
+        "Leveraging Hugging Face for text classification, I built systems that categorized medical literature automatically, supporting drug discovery research with 30% faster document processing.",
+        "Designing Python-based quality metrics with Pandas, I established IAA tracking that ensured consistent annotation across clinical trial documents from multiple research sites globally.",
+        "Using AWS for secure data handling, I implemented encryption workflows that protected patient health information while enabling efficient annotation of medical imaging and text data.",
+        "Building annotation platform integrations, I developed custom connectors that streamlined data flow between clinical databases and labeling tools, reducing setup time by 65% for new studies.",
+        "Implementing human-in-the-loop systems, I created feedback mechanisms that continuously improved annotation quality for medical imaging classification, achieving 95% accuracy.",
+        "Using REST APIs for workflow automation, I built integration endpoints that connected clinical data sources with annotation platforms, enabling real-time labeling of streaming medical data.",
+        "Designing data governance frameworks, I established compliance protocols that met FDA regulatory requirements for annotated healthcare data used in clinical decision support systems.",
+        "Implementing active learning strategies, I developed model-assisted labeling that prioritized uncertain samples, reducing annotation costs by 45% for medical image classification projects.",
+        "Using SQL for data validation, I created query systems that verified annotation completeness and consistency across distributed clinical research datasets from multiple hospitals.",
+        "Building documentation systems, I developed comprehensive labeling guidelines that standardized medical terminology annotation across global research teams and external vendors.",
+        "Implementing vendor coordination processes, I managed external annotation teams that scaled labeling capacity during peak clinical trial documentation periods efficiently.",
+        "Using Docker for environment consistency, I containerized annotation tools that ensured reproducible labeling workflows across development, testing, and production environments."
+      ],
+      "environment": [
+        "Prodigy",
+        "spaCy",
+        "Hugging Face",
+        "Python",
+        "Pandas",
+        "AWS",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "FastAPI",
+        "NLTK",
+        "Git",
+        "MLflow",
+        "Plotly"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using Azure ML Studio to address healthcare data annotation needs, I implemented labeling workflows that processed public health records while maintaining strict HIPAA compliance standards.",
+        "Implementing spaCy for clinical text processing, I developed NER models that extracted patient conditions from electronic health records, supporting epidemiological research with 85% accuracy.",
+        "Leveraging Python with Pandas for data validation, I created QA systems that monitored annotation quality across healthcare datasets from multiple public health departments statewide.",
+        "Designing Azure Data Factory pipelines, I built data integration workflows that securely transported healthcare records to annotation platforms while maintaining compliance protocols.",
+        "Using Databricks for labeled data management, I implemented version control systems that tracked annotation schema changes across multiple public health research initiatives.",
+        "Building text classification systems, I developed models that categorized healthcare service requests automatically, improving response time for urgent public health needs by 40%.",
+        "Implementing secure data handling with Azure encryption, I established protocols that protected sensitive health information during annotation of community health assessment documents.",
+        "Using REST APIs for system integration, I developed endpoints that connected state healthcare databases with annotation tools, enabling efficient labeling of public health datasets.",
+        "Designing quality assurance frameworks, I created metrics that tracked inter-annotator agreement across distributed public health annotation teams, ensuring consistency.",
+        "Implementing documentation systems, I developed labeling guidelines that standardized public health terminology annotation across multiple state agencies and research partners.",
+        "Using SQL for data querying, I built validation scripts that verified annotation completeness across healthcare datasets from different public health reporting systems.",
+        "Building stakeholder communication channels, I coordinated between technical teams and public health experts to align annotation priorities with community health objectives."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "spaCy",
+        "Python",
+        "Pandas",
+        "Azure Data Factory",
+        "Databricks",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Git",
+        "MLflow",
+        "Plotly"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Azure Databricks for financial document annotation, I implemented labeling workflows that processed banking compliance documents while maintaining PCI DSS security standards.",
+        "Implementing NLTK for financial text processing, I developed tokenization strategies that accurately extracted banking terms from regulatory documents, supporting compliance analysis.",
+        "Leveraging Python with Pandas for data quality, I created validation systems that monitored annotation accuracy across financial risk assessment documents and reports.",
+        "Designing text classification models, I built systems that categorized banking transactions automatically, improving compliance monitoring efficiency by 35% for regulatory reporting.",
+        "Using Azure Data Factory for data integration, I built pipelines that securely transported financial documents to annotation platforms while maintaining banking security protocols.",
+        "Implementing quality assurance metrics, I established precision and recall tracking that ensured consistent annotation across financial compliance documentation from multiple business units.",
+        "Building documentation frameworks, I developed labeling guidelines that standardized financial terminology annotation across risk assessment and compliance reporting teams.",
+        "Using SQL for data validation, I created query systems that verified annotation completeness across banking transaction datasets and regulatory documentation.",
+        "Implementing secure data handling with Azure encryption, I established protocols that protected sensitive financial information during annotation of compliance documents.",
+        "Building stakeholder coordination processes, I facilitated communication between technical teams and banking compliance experts to align annotation with regulatory requirements."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "NLTK",
+        "Python",
+        "Pandas",
+        "Azure Data Factory",
+        "SQL",
+        "Git",
+        "Docker",
+        "MLflow",
+        "Plotly"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop for large-scale data processing, I implemented ETL pipelines that prepared datasets for annotation workflows across multiple client consulting projects efficiently.",
+        "Implementing Informatica for data integration, I built workflows that transformed raw client data into annotation-ready formats, supporting early NLP prototype development.",
+        "Leveraging Sqoop for data transfer, I developed pipelines that moved structured datasets between client systems and annotation platforms, ensuring data consistency.",
+        "Designing basic text preprocessing systems, I created tokenization workflows that supported early NER experiments for client document processing requirements.",
+        "Using Python for data validation, I developed scripts that verified data quality before annotation, reducing preprocessing errors by 40% across consulting projects.",
+        "Building documentation systems, I created data preparation guidelines that standardized annotation input formats across multiple client engagements and project teams.",
+        "Implementing quality assurance checks, I established basic validation metrics that monitored data consistency across distributed annotation workflows for consulting clients.",
+        "Using SQL for data querying, I developed scripts that extracted and transformed client data for annotation, supporting early machine learning prototype development."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Full Stack AI Engineer - Microsoft Azure Ecosystem",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full stack development with AI integration within enterprise Microsoft ecosystems, specializing in Azure OpenAI, Cognitive Services, and MCP frameworks for insurance, healthcare, and financial applications.",
+    "Using C# and TypeScript to address complex enterprise application challenges, I developed full stack solutions with Azure App Services and Functions that streamlined insurance claim processing workflows while ensuring regulatory compliance and data security across State Farm operations.",
+    "Leveraging Azure OpenAI and Cognitive Services to enhance healthcare applications at Johnson & Johnson, I integrated AI capabilities that improved patient data analysis while maintaining strict HIPAA compliance through Azure Key Vault and secure authentication protocols.",
+    "Implementing Python for AI integration and ML workflows, I built automated systems for banking compliance at Bank of America that reduced manual review processes while ensuring PCI compliance through Azure Functions and secure API development practices.",
+    "Applying Azure Cognitive Services to insurance domain challenges, I developed intelligent document processing solutions that automated policy validation and claims assessment while integrating with existing State Farm regulatory frameworks and business rules.",
+    "Utilizing Playwright for UI test automation, I created comprehensive testing suites for enterprise healthcare applications that ensured consistent user experience across platforms while validating HIPAA-compliant data handling procedures at Johnson & Johnson.",
+    "Employing JMeter for performance and load testing, I identified and resolved scalability bottlenecks in banking applications that improved system reliability during peak transaction periods while maintaining financial compliance standards.",
+    "Integrating REST API development with Azure Functions, I built microservices architectures for insurance applications that enabled seamless data exchange between legacy systems and modern AI capabilities while ensuring enterprise-grade security.",
+    "Applying MCP Framework within Microsoft ecosystem, I designed cloud-native applications for healthcare data processing that leveraged Azure Storage and Event Grid for real-time analytics while maintaining patient privacy and regulatory compliance.",
+    "Using Postman for comprehensive API testing, I validated enterprise-grade REST services for banking applications that ensured data integrity and security while facilitating integration with third-party financial systems and regulatory reporting.",
+    "Implementing Azure DevOps pipelines and repos, I established CI/CD automation for AI-enabled applications that streamlined deployment processes while maintaining quality standards across insurance, healthcare, and banking domains.",
+    "Leveraging containerization with Docker for AI workloads, I packaged machine learning models and microservices that improved deployment consistency and scalability across Azure environments while reducing infrastructure management overhead.",
+    "Applying RAG patterns using Azure Cognitive Search, I enhanced information retrieval capabilities for insurance documentation systems that improved agent efficiency while maintaining accurate compliance with evolving regulatory requirements.",
+    "Utilizing App Insights and Log Analytics for telemetry, I implemented comprehensive monitoring solutions for enterprise applications that provided real-time insights into system performance and user behavior across multiple business domains.",
+    "Integrating OAuth and Azure AD authentication, I secured enterprise applications across insurance, healthcare, and banking sectors that protected sensitive data while ensuring compliance with industry-specific regulatory requirements.",
+    "Applying prompt engineering techniques with Azure OpenAI, I optimized AI interactions for insurance customer service applications that improved response accuracy while maintaining brand consistency and regulatory compliance in communications.",
+    "Using Azure Event Grid for event-driven architectures, I built responsive systems for healthcare applications that processed real-time data updates while ensuring data consistency and compliance with medical data handling standards.",
+    "Implementing microservices architecture with Azure Kubernetes, I designed scalable solutions for banking applications that supported high-volume transaction processing while maintaining financial compliance and data security standards."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Microsoft Azure Services": [
+      "Azure App Services",
+      "Azure Functions",
+      "Azure Storage",
+      "Azure Key Vault",
+      "Azure Event Grid",
+      "Azure DevOps"
+    ],
+    "AI & Cognitive Services": [
+      "Azure OpenAI",
+      "Azure Cognitive Services",
+      "Azure Cognitive Search",
+      "Prompt Engineering",
+      "RAG Patterns",
+      "LLM Fine-tuning"
+    ],
+    "Testing & Automation": [
+      "Playwright",
+      "JMeter",
+      "Postman",
+      "NUnit",
+      "xUnit",
+      "PyTest",
+      "Jest"
+    ],
+    "Web Development": [
+      "REST API Development",
+      "Microservices Architecture",
+      "GraphQL",
+      "gRPC",
+      "Flask",
+      "FastAPI"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "AKS"
+    ],
+    "DevOps & CI/CD": [
+      "Azure DevOps Pipelines",
+      "GitHub Actions",
+      "Azure Pipelines",
+      "Git",
+      "Azure Repos"
+    ],
+    "Security & Authentication": [
+      "OAuth",
+      "JWT",
+      "Azure AD",
+      "Secure Coding Practices"
+    ],
+    "Development Tools": [
+      "Visual Studio",
+      "VS Code",
+      "Azure DevOps",
+      "Windows Environments"
+    ],
+    "Frameworks & Patterns": [
+      "MCP Framework",
+      "Microservices Architecture",
+      "Event-driven Architecture",
+      "REST API Patterns"
+    ],
+    "Monitoring & Telemetry": [
+      "App Insights",
+      "Log Analytics",
+      "Application Monitoring"
+    ],
+    "Data & Storage": [
+      "Azure Storage",
+      "Cosmos DB",
+      "SQL Server",
+      "Vector Databases"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Azure OpenAI to address complex insurance claim processing challenges, I implemented intelligent document analysis systems that automated policy validation while ensuring compliance with state-specific insurance regulations and reducing manual review time significantly.",
+        "Leveraging C# backend development within Microsoft stack, I architected enterprise-scale insurance applications that processed real-time policy data while integrating with legacy systems and maintaining data consistency across State Farm's extensive product portfolio.",
+        "Applying TypeScript/JavaScript for frontend development, I created responsive user interfaces for agent portals that streamlined customer interactions while ensuring accessibility compliance and optimal performance across different device types and browsers.",
+        "Implementing Python for AI integration workflows, I developed machine learning models that predicted claim risks and fraud patterns while maintaining explainability for regulatory compliance and internal audit requirements within insurance operations.",
+        "Using Azure Services including App Services and Functions, I built scalable microservices that handled peak load during catastrophic events while ensuring business continuity and maintaining service level agreements for policyholder support.",
+        "Applying Azure Cognitive Services for vision capabilities, I enhanced document processing systems that extracted information from insurance forms and damage assessment photos while improving accuracy through continuous model retraining and validation.",
+        "Utilizing MCP Framework for cloud compute operations, I designed distributed systems that processed insurance transactions across multiple regions while maintaining data sovereignty and compliance with interstate insurance regulations.",
+        "Implementing Playwright for UI test automation, I created comprehensive testing suites for insurance agent applications that validated complex business workflows while ensuring consistent user experience across different state-specific requirements.",
+        "Using JMeter for performance and load testing, I identified scalability bottlenecks in policy management systems that improved system reliability during high-volume enrollment periods and catastrophic claim events.",
+        "Applying Postman for API testing, I validated REST services for insurance data exchange that ensured secure communication between internal systems and external partners while maintaining data integrity and regulatory compliance.",
+        "Integrating Azure Key Vault for security management, I implemented secure credential storage for insurance applications that protected sensitive customer data while enabling secure access for authorized agents and partner systems.",
+        "Using Azure Event Grid for event-driven architecture, I built responsive systems that processed real-time insurance events while ensuring data consistency and audit trail maintenance for compliance reporting requirements.",
+        "Implementing Crew AI and LangGraph frameworks, I developed multi-agent systems that coordinated complex insurance workflows across departments while maintaining business rule consistency and regulatory compliance throughout process execution.",
+        "Applying Model Context Protocol for AI interactions, I optimized prompt engineering for insurance customer service applications that improved response accuracy while maintaining compliance with communication regulations.",
+        "Using multi-agent systems for distributed processing, I designed proof of concepts that demonstrated automated insurance underwriting while ensuring human oversight and compliance with risk assessment regulations.",
+        "Implementing agent-to-agent communication patterns, I built collaborative AI systems that shared insurance domain knowledge while maintaining data privacy and security boundaries between different business units and functions."
+      ],
+      "environment": [
+        "C#",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Azure App Services",
+        "Azure Functions",
+        "Azure Storage",
+        "Azure Key Vault",
+        "Azure Event Grid",
+        "Azure OpenAI",
+        "Azure Cognitive Services",
+        "MCP Framework",
+        "Playwright",
+        "JMeter",
+        "Postman",
+        "REST API",
+        "Visual Studio",
+        "VS Code",
+        "Azure DevOps",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Azure OpenAI to enhance healthcare data analysis, I developed intelligent systems that processed clinical trial data while maintaining strict HIPAA compliance and ensuring patient privacy through Azure security services and encryption protocols.",
+        "Applying C# backend development for healthcare applications, I built robust APIs that managed patient data exchanges between medical systems while ensuring data integrity and compliance with healthcare interoperability standards.",
+        "Implementing TypeScript/JavaScript for healthcare portals, I created user interfaces for medical professionals that displayed complex patient data while ensuring accessibility and usability for time-constrained clinical environments.",
+        "Leveraging Python for ML workflows in healthcare, I developed predictive models that analyzed patient outcomes while maintaining model transparency for regulatory review and clinical validation requirements.",
+        "Using Azure Cognitive Services for healthcare applications, I implemented text analytics that processed medical literature and research documents while ensuring accurate information extraction for clinical decision support systems.",
+        "Applying Azure App Services and Functions, I built scalable healthcare applications that handled variable patient data loads while maintaining performance during peak usage periods in clinical settings.",
+        "Implementing Playwright for healthcare UI testing, I created automated test suites that validated medical application interfaces while ensuring consistent performance across different healthcare workflows and user roles.",
+        "Using JMeter for healthcare system performance, I tested medical data processing applications that ensured reliable performance during critical healthcare operations and emergency response scenarios.",
+        "Applying Postman for healthcare API validation, I tested REST services that exchanged patient data between systems while ensuring HIPAA compliance and data security throughout integration processes.",
+        "Implementing Azure Key Vault for healthcare security, I managed sensitive medical credentials and certificates that protected patient information while enabling secure access for authorized healthcare providers.",
+        "Using Azure DevOps for healthcare CI/CD, I established deployment pipelines for medical applications that ensured quality and compliance while accelerating feature delivery to healthcare professionals.",
+        "Applying containerization with Docker, I packaged healthcare AI workloads that improved deployment consistency across clinical environments while maintaining security and compliance standards.",
+        "Implementing RAG patterns with Azure Cognitive Search, I enhanced medical information retrieval systems that helped healthcare professionals access relevant research while ensuring clinical accuracy.",
+        "Using multi-agent frameworks for healthcare workflows, I designed proof of concepts that coordinated patient care processes while maintaining compliance with medical protocols and regulatory requirements."
+      ],
+      "environment": [
+        "C#",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Azure App Services",
+        "Azure Functions",
+        "Azure Storage",
+        "Azure Key Vault",
+        "Azure OpenAI",
+        "Azure Cognitive Services",
+        "Playwright",
+        "JMeter",
+        "Postman",
+        "REST API",
+        "Azure DevOps",
+        "Docker",
+        "Azure Cognitive Search",
+        "Crew AI",
+        "LangGraph"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker for healthcare ML workflows, I developed predictive models that analyzed public health data while ensuring compliance with state healthcare regulations and patient privacy requirements.",
+        "Applying Python for machine learning implementations, I built models that processed healthcare datasets for disease surveillance while maintaining accuracy and explainability for public health officials.",
+        "Implementing REST API development for healthcare systems, I created services that exchanged health information between state agencies while ensuring data security and interoperability standards.",
+        "Using AWS Lambda for serverless processing, I built healthcare data pipelines that handled variable workloads while maintaining performance during public health emergencies and reporting periods.",
+        "Applying containerization with Docker, I packaged healthcare ML models that enabled consistent deployment across state healthcare systems while maintaining security and compliance requirements.",
+        "Implementing performance testing methodologies, I validated healthcare applications that ensured reliable service during critical public health operations and data reporting deadlines.",
+        "Using AWS RDS for healthcare data storage, I managed databases that stored sensitive health information while implementing security controls and access management for authorized personnel.",
+        "Applying microservices architecture for healthcare systems, I designed scalable applications that processed health data from multiple sources while maintaining data consistency and audit trails.",
+        "Implementing secure coding practices for healthcare applications, I developed systems that protected patient information while enabling authorized access for public health analysis and reporting.",
+        "Using CI/CD pipelines for healthcare deployments, I established automated processes that ensured quality and compliance while accelerating updates to public health systems and applications.",
+        "Applying data visualization techniques, I created dashboards that displayed public health metrics for state officials while ensuring data accuracy and appropriate interpretation.",
+        "Implementing healthcare data integration patterns, I built systems that consolidated information from multiple sources while maintaining data quality and compliance with state reporting requirements."
+      ],
+      "environment": [
+        "Python",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "AWS RDS",
+        "REST API",
+        "Docker",
+        "Microservices",
+        "CI/CD",
+        "Secure Coding",
+        "Data Visualization"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python for financial data analysis, I developed models that detected fraudulent transactions while ensuring compliance with banking regulations and maintaining model performance standards.",
+        "Applying AWS services for financial applications, I built data processing systems that handled transaction data while ensuring security and compliance with financial industry requirements.",
+        "Implementing machine learning workflows for banking, I created models that analyzed customer behavior patterns while maintaining data privacy and security throughout the analysis process.",
+        "Using REST API development for financial systems, I built services that exchanged banking data between applications while ensuring secure communication and data integrity.",
+        "Applying data visualization techniques for financial reporting, I created dashboards that displayed banking metrics for management while ensuring accurate representation of financial data.",
+        "Implementing statistical analysis for banking operations, I developed methodologies that assessed risk factors while maintaining compliance with financial regulations and reporting requirements.",
+        "Using cloud services for financial data storage, I managed datasets that contained sensitive banking information while implementing appropriate security controls and access management.",
+        "Applying testing methodologies for financial applications, I validated models and systems that ensured reliable performance during critical banking operations and transaction processing.",
+        "Implementing data integration patterns for banking systems, I built pipelines that consolidated financial information from multiple sources while maintaining data quality and consistency.",
+        "Using development tools for financial applications, I created solutions that supported banking operations while ensuring compliance with industry standards and regulatory requirements."
+      ],
+      "environment": [
+        "Python",
+        "AWS",
+        "REST API",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Cloud Services"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop for data processing in consulting projects, I implemented data pipelines that handled client information while ensuring data quality and processing efficiency across different business domains.",
+        "Applying Informatica for ETL operations, I developed data integration workflows that consolidated information from multiple sources while maintaining data consistency and transformation accuracy.",
+        "Implementing Sqoop for data transfer, I built processes that moved data between systems while ensuring reliable operation and maintaining data integrity throughout transfer operations.",
+        "Using data warehousing concepts for consulting projects, I designed storage solutions that supported client reporting needs while ensuring data accessibility and performance requirements.",
+        "Applying data integration patterns for business systems, I built solutions that connected client applications while maintaining data quality and supporting business process requirements.",
+        "Implementing data processing workflows for consulting, I developed systems that handled client data while ensuring processing efficiency and meeting project delivery timelines.",
+        "Using data quality methodologies for client projects, I implemented checks and validations that ensured reliable data for business decisions and operational processes.",
+        "Applying data architecture principles for consulting engagements, I designed solutions that supported client business needs while ensuring scalability and maintainability of data systems."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Data Warehousing",
+        "ETL",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Engineer - .NET/Azure AI Solutions",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a seasoned software engineer with 10 years of experience specializing in .NET/C# applications and Azure AI solutions, focusing on intelligent agent development and conversational AI systems for enterprise workflows.",
+    "Leveraging Azure OpenAI and Azure AI Foundry to architect and implement RAG pipelines that enhanced knowledge retrieval accuracy by optimizing semantic search capabilities across insurance policy documentation systems.",
+    "Implementing memory management strategies including episodic and semantic memory to maintain agent context across multi-turn conversations while ensuring compliance with insurance regulatory requirements.",
+    "Designing and deploying intelligent agents using Microsoft Agent Framework and Semantic Kernel to automate complex insurance claim processing workflows with autonomous decision-making capabilities.",
+    "Applying prompt engineering techniques to optimize model behavior for insurance domain-specific terminology, reducing hallucination incidents and improving response accuracy for customer service scenarios.",
+    "Building cloud-native microservices with .NET/C# that integrate Azure Cognitive Services for NLP tasks including entity recognition and sentiment analysis in customer communications.",
+    "Developing multi-agent systems using AutoGen and LangGraph for coordinated workflow execution across insurance underwriting, claims processing, and customer service departments.",
+    "Creating RESTful APIs and microservices architecture to expose AI capabilities to frontend applications while maintaining strict security protocols for sensitive insurance customer data.",
+    "Implementing CI/CD pipelines with Azure DevOps to automate testing and deployment of AI models and .NET applications, ensuring rapid iteration and reliable production releases.",
+    "Mentoring junior engineers on AI integration best practices, conducting code reviews focused on .NET patterns and Azure AI service implementation for insurance domain applications.",
+    "Collaborating with product managers to translate business requirements into technical specifications for AI-powered solutions that streamline insurance workflow automation.",
+    "Working closely with data scientists to operationalize machine learning models into production .NET applications using Azure ML and containerization strategies.",
+    "Designing context management systems to maintain conversation state across insurance customer interactions while handling complex regulatory compliance requirements.",
+    "Implementing vector databases and embedding management for RAG pipelines that improved search accuracy for insurance policy documentation by 40% through better semantic understanding.",
+    "Developing testing frameworks for prompt validation and LLM behavior to ensure consistent performance across insurance domain scenarios and regulatory compliance checks.",
+    "Building observability solutions with Application Insights to monitor AI service performance, track agent behavior patterns, and identify optimization opportunities.",
+    "Architecting state management solutions using Cosmos DB to persist agent memory and conversation context while maintaining HIPAA compliance for healthcare insurance data.",
+    "Staying current with evolving AI trends through continuous learning, implementing latest Azure AI services and .NET patterns to enhance insurance workflow automation solutions."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "C#",
+      ".NET",
+      "Python",
+      "SQL",
+      "TypeScript",
+      "RESTful APIs",
+      "Semantic Kernel Framework"
+    ],
+    "Azure AI Services": [
+      "Azure OpenAI",
+      "Azure AI Foundry",
+      "Azure Cognitive Services",
+      "Azure ML",
+      "Azure Functions",
+      "Azure Kubernetes Service"
+    ],
+    "AI & Machine Learning": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "NLP",
+      "LLM-based architectures",
+      "Prompt Engineering",
+      "Context Management"
+    ],
+    "Intelligent Agent Frameworks": [
+      "Microsoft Agent Framework",
+      "AutoGen",
+      "LangGraph",
+      "Multi-agent Systems",
+      "Agent Orchestration",
+      "Memory Management"
+    ],
+    "RAG & Search Technologies": [
+      "RAG (Retrieval-Augmented Generation)",
+      "Vector Databases",
+      "Embedding Generation",
+      "Azure Cognitive Search",
+      "Semantic Search"
+    ],
+    "Cloud & DevOps": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Git",
+      "Terraform",
+      "Azure DevOps",
+      "Application Insights"
+    ],
+    "Data Management": [
+      "Cosmos DB",
+      "SQL Server",
+      "Redis",
+      "State Management",
+      "Data Persistence",
+      "ETL Processes"
+    ],
+    "Architecture Patterns": [
+      "Microservices",
+      "Cloud-native Design",
+      "Event-driven Architecture",
+      "API Design",
+      "System Integration"
+    ],
+    "Security & Compliance": [
+      "OAuth",
+      "JWT",
+      "API Security",
+      "HIPAA Compliance",
+      "Data Privacy",
+      "PII Handling"
+    ],
+    "Development Practices": [
+      "Agile Methodologies",
+      "Code Reviews",
+      "Testing Frameworks",
+      "Technical Leadership",
+      "Mentoring"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Azure OpenAI to address complex insurance claim processing delays by implementing intelligent agents that automate document analysis and decision-making workflows, reducing processing time significantly.",
+        "Implementing RAG pipelines with Azure Cognitive Search to enhance knowledge retrieval from insurance policy documents, enabling agents to provide accurate coverage information while maintaining regulatory compliance.",
+        "Designing multi-agent systems with LangGraph to coordinate workflow execution across claims assessment, fraud detection, and customer service departments, improving operational efficiency.",
+        "Developing memory management strategies using episodic and semantic memory patterns in Cosmos DB to maintain conversation context across insurance customer interactions throughout claim lifecycle.",
+        "Applying prompt engineering techniques to optimize Azure OpenAI models for insurance-specific terminology and regulatory requirements, reducing inaccuracies in automated responses to customer inquiries.",
+        "Building .NET microservices with Semantic Kernel Framework to orchestrate tool use and action planning for agents interacting with legacy insurance systems and external APIs.",
+        "Implementing context management systems to handle complex insurance scenarios involving multiple policies, coverage types, and state-specific regulatory requirements across customer interactions.",
+        "Creating RESTful APIs with .NET to expose AI capabilities to frontend applications while ensuring secure handling of sensitive customer data in compliance with insurance regulations.",
+        "Deploying intelligent agents using Azure Kubernetes Service to ensure scalable performance during high-volume claim events while maintaining strict service level agreements.",
+        "Developing testing frameworks for prompt validation and LLM behavior to ensure consistent performance across diverse insurance scenarios and regulatory compliance checks.",
+        "Implementing observability solutions with Application Insights to monitor agent performance, track conversation success rates, and identify optimization opportunities in production.",
+        "Mentoring junior engineers on .NET patterns and Azure AI integration while conducting code reviews focused on insurance domain requirements and regulatory compliance.",
+        "Collaborating with product managers to translate complex insurance workflow requirements into technical specifications for AI-powered automation solutions.",
+        "Designing state persistence solutions using Cosmos DB to maintain agent goals and feedback loops across long-running insurance claim processing workflows.",
+        "Implementing Azure Functions for serverless execution of AI tasks, optimizing cost efficiency while handling variable workloads in insurance claim processing systems.",
+        "Building CI/CD pipelines with Azure DevOps to automate testing and deployment of .NET applications and AI models, ensuring reliable production releases."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "Azure AI Foundry",
+        "Semantic Kernel Framework",
+        "LangGraph",
+        "AutoGen",
+        ".NET",
+        "C#",
+        "Azure Kubernetes Service",
+        "Cosmos DB",
+        "Azure Cognitive Search",
+        "Azure Functions",
+        "Application Insights",
+        "RESTful APIs",
+        "Microservices",
+        "Vector Databases",
+        "Python",
+        "Azure DevOps",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Azure Cognitive Services to address medication adherence challenges by implementing NLP-powered conversational agents that provide personalized healthcare guidance while maintaining HIPAA compliance.",
+        "Implementing RAG pipelines with vector databases to enhance medical knowledge retrieval from clinical guidelines and drug information databases, improving agent response accuracy for healthcare professionals.",
+        "Developing intelligent agents with Microsoft Agent Framework to automate patient education workflows and medication management systems while ensuring regulatory compliance across healthcare domains.",
+        "Applying prompt engineering techniques to optimize Azure OpenAI models for medical terminology and clinical context, reducing potential misinformation in automated healthcare responses.",
+        "Building .NET applications with Semantic Kernel to orchestrate multi-step healthcare workflows involving patient data retrieval, medication interactions, and treatment plan recommendations.",
+        "Designing memory management systems using Azure Cosmos DB to maintain patient conversation context across multiple healthcare interactions while ensuring data privacy and security.",
+        "Creating microservices architecture with .NET to expose AI capabilities to electronic health record systems while maintaining strict HIPAA compliance for protected health information.",
+        "Implementing context management strategies to handle complex healthcare scenarios involving multiple medications, patient conditions, and treatment protocols in conversational agents.",
+        "Developing RESTful APIs with .NET to integrate AI services with existing healthcare systems while ensuring secure authentication and authorization for clinical data access.",
+        "Deploying containerized AI solutions with Azure Kubernetes Service to ensure reliable performance for healthcare applications with strict availability requirements.",
+        "Building testing frameworks for healthcare-specific prompt validation to ensure accurate medical information delivery and regulatory compliance across all agent responses.",
+        "Implementing observability with Application Insights to monitor healthcare agent performance, track conversation outcomes, and identify clinical accuracy improvements.",
+        "Collaborating with data scientists to operationalize clinical prediction models into production .NET applications using Azure ML and containerization strategies.",
+        "Mentoring team members on healthcare domain requirements and HIPAA compliance considerations for AI system development and deployment."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "Azure Cognitive Services",
+        "Microsoft Agent Framework",
+        "Semantic Kernel",
+        ".NET",
+        "C#",
+        "Azure Kubernetes Service",
+        "Cosmos DB",
+        "Vector Databases",
+        "RESTful APIs",
+        "Microservices",
+        "Azure Functions",
+        "Application Insights",
+        "Python",
+        "Azure DevOps",
+        "Docker",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker to address public health data analysis challenges by implementing machine learning models that predict healthcare service demand across different regions of Maine.",
+        "Implementing NLP pipelines with AWS Comprehend to analyze public health reports and extract insights from unstructured healthcare data while maintaining data privacy standards.",
+        "Developing data processing workflows with AWS Glue to transform healthcare datasets for model training while ensuring HIPAA compliance for protected health information.",
+        "Building predictive models with Python and Scikit-learn to forecast healthcare resource requirements based on historical patient data and demographic trends across Maine.",
+        "Creating data visualization dashboards with Tableau to present public health insights to state healthcare officials and support data-driven decision making.",
+        "Implementing ETL processes with AWS Data Pipeline to integrate multiple healthcare data sources while maintaining data quality and consistency for analysis.",
+        "Developing RESTful APIs with Python Flask to expose machine learning capabilities to state healthcare applications and reporting systems.",
+        "Designing data storage solutions with AWS RDS to manage healthcare datasets while ensuring security and compliance with state data protection regulations.",
+        "Building monitoring systems with CloudWatch to track model performance and data pipeline health across public health analytics applications.",
+        "Collaborating with healthcare analysts to understand domain requirements and translate them into technical specifications for machine learning solutions.",
+        "Implementing data validation frameworks to ensure accuracy and reliability of healthcare predictions used for public health planning and resource allocation.",
+        "Developing documentation and training materials for state healthcare staff on using AI-powered analytics tools for public health decision support."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Comprehend",
+        "AWS Glue",
+        "Python",
+        "Scikit-learn",
+        "Tableau",
+        "AWS RDS",
+        "Flask",
+        "RESTful APIs",
+        "AWS Data Pipeline",
+        "CloudWatch",
+        "HIPAA Compliance",
+        "SQL",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python and Scikit-learn to address credit risk assessment challenges by developing machine learning models that analyze customer transaction patterns and financial behaviors.",
+        "Implementing data processing pipelines with AWS Glue to transform financial datasets for fraud detection model training while ensuring PCI compliance for sensitive banking data.",
+        "Developing predictive models with XGBoost to identify potential fraudulent transactions based on historical patterns and real-time transaction monitoring across banking systems.",
+        "Creating data visualization dashboards with Tableau to present fraud detection insights to banking security teams and support investigative decision making.",
+        "Building ETL processes with Python Pandas to integrate multiple banking data sources while maintaining data quality and consistency for financial analysis.",
+        "Implementing statistical analysis with R to validate model performance and ensure regulatory compliance across banking risk assessment applications.",
+        "Developing reporting systems with SQL to track model performance and generate compliance documentation for banking regulatory requirements.",
+        "Collaborating with banking analysts to understand domain requirements and translate them into technical specifications for risk assessment solutions.",
+        "Building data validation frameworks to ensure accuracy and reliability of financial predictions used for credit decisions and fraud prevention.",
+        "Creating documentation and training materials for banking staff on using data-driven tools for risk assessment and fraud detection workflows."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "XGBoost",
+        "AWS Glue",
+        "Tableau",
+        "R",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "PCI Compliance",
+        "Financial Data",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop to address large-scale data processing challenges for consulting clients by implementing MapReduce jobs that transform and analyze enterprise datasets across multiple industries.",
+        "Implementing ETL workflows with Informatica to integrate client data from multiple sources while ensuring data quality and consistency for business intelligence reporting.",
+        "Developing data migration scripts with Sqoop to transfer data between relational databases and Hadoop distributed file systems for client analytics projects.",
+        "Building data processing pipelines with Hadoop Hive to transform structured data for business intelligence and reporting applications across consulting engagements.",
+        "Creating data validation frameworks to ensure accuracy and reliability of client data used for business decision making and operational reporting.",
+        "Implementing data storage solutions with HBase to manage large-scale client datasets while ensuring performance and accessibility for analytical queries.",
+        "Developing documentation and training materials for client teams on using data engineering tools and processes for ongoing business intelligence needs.",
+        "Collaborating with consulting teams to understand client requirements and translate them into technical specifications for data engineering solutions."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "Hive",
+        "HBase",
+        "ETL",
+        "Data Warehousing",
+        "Business Intelligence",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

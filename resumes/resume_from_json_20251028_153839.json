@@ -1,0 +1,329 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AWS Lex Chatbot Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Designed and implemented AWS Lex chatbot solutions with Python and serverless architecture for insurance customer service automation, actually struggled initially with conversation flow design but eventually got the hang of it through trial and error.",
+    "Built conversational AI interfaces using AWS Lex integrated with Lambda functions for backend processing, had to learn proper intent handling techniques which took some time but ultimately improved chatbot accuracy significantly.",
+    "Developed serverless applications on AWS using Lambda, SQS, SNS, and EventBridge for event-driven chatbot workflows, encountered some cold start issues but optimized through proper configuration and memory settings.",
+    "Implemented DynamoDB for storing chatbot session data and conversation history, initially faced consistency challenges but resolved them with better partition key design and read/write capacity planning.",
+    "Created Python-based NLP pipelines for intent classification and entity recognition in AWS Lex chatbots, worked closely with business teams to understand domain-specific terminology and user queries.",
+    "Integrated AWS Lex chatbots with Java and Node.js backend systems through REST APIs, spent considerable time debugging authentication issues between different services before finding the right approach.",
+    "Designed and deployed containerized chatbot applications using Kubernetes and OpenShift, actually struggled with networking configurations at first but learned through collaboration with DevOps team members.",
+    "Implemented test-driven development practices for chatbot functionality using Python unittest framework, wrote extensive test cases for different conversation paths and edge cases.",
+    "Built CI/CD pipelines with Jenkins and GitHub for automated chatbot deployment, faced several failed deployments initially but improved process through better testing and rollback strategies.",
+    "Collaborated with AI/ML engineers to integrate advanced NLP models into AWS Lex chatbots, had to learn about model deployment patterns and inference optimization techniques.",
+    "Implemented monitoring and logging solutions using CloudWatch for chatbot performance tracking, set up custom metrics to track conversation success rates and user satisfaction.",
+    "Designed multi-turn conversation flows in AWS Lex with proper slot validation and elicitation, actually found the visual builder somewhat limiting but worked around it with custom code.",
+    "Integrated AWS Step Functions for complex chatbot workflows requiring multiple service coordination, learned state machine design through several iterations and feedback sessions.",
+    "Implemented secure chatbot solutions with proper IAM roles and policies, worked with security team to ensure compliance with enterprise security standards.",
+    "Built HIPAA-compliant chatbot solutions for healthcare applications, implemented proper data encryption and access controls for protected health information.",
+    "Created conversational AI agents using LangChain and RASA frameworks alongside AWS Lex, explored different approaches for handling complex dialog management scenarios.",
+    "Implemented prompt engineering techniques for improving chatbot responses, experimented with different phrasing and context management strategies to enhance user experience.",
+    "Participated in Agile ceremonies and sprint planning for chatbot development projects, collaborated with product owners to refine user stories and acceptance criteria."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Architected AWS Lex chatbot solutions for insurance customer service automation using Python and serverless components, actually struggled initially with designing proper conversation flows for complex insurance queries but eventually developed effective patterns.",
+        "Implemented Lambda functions in Python for processing business logic and integrating with backend systems, faced some performance issues with concurrent executions but optimized through better resource allocation and async programming.",
+        "Designed DynamoDB tables for storing chatbot sessions and customer interaction history, had to rethink the data model several times to handle varying access patterns and query requirements effectively.",
+        "Built event-driven architecture using SQS and SNS for handling asynchronous chatbot operations, encountered message ordering challenges but resolved them through proper queue design and processing logic.",
+        "Integrated AWS Lex with Java-based policy management systems through REST APIs, spent considerable time debugging serialization issues between different data formats before establishing stable integration.",
+        "Implemented AWS Step Functions for multi-step insurance claim inquiries through chatbots, learned state machine design through trial and error and several iterations with business stakeholders.",
+        "Created comprehensive testing framework for chatbot functionality using Python unittest and BDD approaches, wrote test cases covering various conversation paths and exception scenarios.",
+        "Deployed chatbot applications using Kubernetes on AWS EKS, faced some networking challenges initially but worked through them with help from the infrastructure team.",
+        "Implemented monitoring solutions with CloudWatch for tracking chatbot performance metrics, set up dashboards to monitor conversation success rates and identify common failure points.",
+        "Collaborated with business teams to understand insurance domain requirements and translate them into effective chatbot dialogues, actually found the domain complexity challenging but rewarding.",
+        "Built HIPAA-compliant data handling mechanisms for insurance information in chatbot interactions, implemented proper encryption and access controls for sensitive customer data.",
+        "Designed CI/CD pipelines with Jenkins for automated chatbot deployment, faced several deployment failures initially but improved reliability through better testing and rollback procedures.",
+        "Implemented prompt engineering techniques for improving chatbot responses in insurance contexts, experimented with different phrasing to handle complex insurance terminology effectively.",
+        "Integrated LangChain framework with AWS Lex for enhanced conversational capabilities, explored different approaches for context management and memory in extended conversations.",
+        "Participated in daily standups and sprint planning sessions for chatbot development, collaborated with cross-functional teams to align on priorities and delivery timelines.",
+        "Mentored junior developers on AWS Lex best practices and conversation design principles, shared lessons learned from my own struggles and successes in chatbot development."
+      ],
+      "environment": [
+        "AWS Lex, Python, AWS Lambda, DynamoDB, SQS, SNS, Java, Kubernetes, CloudWatch, REST APIs, Jenkins, Git"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed healthcare chatbots using AWS Lex for patient support and medical information services, initially struggled with medical terminology accuracy but improved through collaboration with domain experts.",
+        "Built Python-based NLP pipelines for processing healthcare queries and extracting medical intents, implemented entity recognition for symptoms, medications, and medical conditions.",
+        "Implemented Lambda functions for integrating with electronic health record systems, faced challenges with data format conversions and API rate limiting but found workable solutions.",
+        "Designed DynamoDB schemas for storing patient interactions while maintaining HIPAA compliance, implemented proper data encryption and access logging for audit requirements.",
+        "Created event-driven workflows using EventBridge for handling time-sensitive healthcare inquiries, set up proper error handling and retry mechanisms for reliable operation.",
+        "Integrated AWS Lex with Node.js backend services for medical data retrieval, spent time debugging authentication issues between different security domains before establishing secure connectivity.",
+        "Implemented containerized deployment using OpenShift for healthcare chatbot applications, learned the platform specifics through hands-on experimentation and documentation review.",
+        "Built comprehensive testing suite for healthcare chatbot functionality, created test cases covering various medical scenarios and emergency response protocols.",
+        "Developed monitoring solutions with CloudWatch for tracking chatbot performance in healthcare contexts, implemented alerts for critical failures and performance degradation.",
+        "Collaborated with medical professionals to ensure chatbot responses met clinical accuracy standards, actually found the review process rigorous but valuable for quality assurance.",
+        "Implemented MCP (Model Context Protocol) for managing context in extended medical conversations, experimented with different approaches for maintaining conversation history effectively.",
+        "Designed CI/CD pipelines with GitHub Actions for automated healthcare chatbot deployments, established proper testing gates and approval workflows for production releases.",
+        "Participated in Agile ceremonies and provided technical guidance on chatbot implementation approaches, helped team members overcome similar challenges I had faced earlier.",
+        "Conducted code reviews and provided feedback on chatbot conversation design and implementation quality, focused on maintainability and error handling improvements."
+      ],
+      "environment": [
+        "AWS Lex, Python, AWS Lambda, DynamoDB, EventBridge, Node.js, OpenShift, CloudWatch, REST APIs, GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Implemented GCP-based chatbot solutions for government services using Dialogflow and Python, actually found the transition from AWS Lex challenging but learned through documentation and experimentation.",
+        "Built Python services for natural language processing and intent classification on GCP, utilized Vertex AI for model training and deployment with proper version management.",
+        "Designed BigQuery data models for analyzing chatbot interactions and service usage patterns, implemented proper data partitioning and query optimization for performance.",
+        "Created Cloud Functions for handling business logic and integration with legacy government systems, faced compatibility issues with older APIs but found workable integration approaches.",
+        "Implemented event-driven architecture using Cloud Pub/Sub for asynchronous message processing, learned the GCP-specific patterns through trial and error and community forums.",
+        "Developed containerized applications using GKE for scalable chatbot deployment, configured proper resource limits and auto-scaling policies based on usage patterns.",
+        "Built monitoring solutions with Stackdriver for tracking chatbot performance and user satisfaction, created custom metrics for government service-specific KPIs.",
+        "Collaborated with government stakeholders to understand public service requirements and translate them into effective chatbot dialogues, actually found the regulatory constraints challenging but informative.",
+        "Implemented proper security controls and access management for government data handling, worked with security teams to ensure compliance with state government standards.",
+        "Designed CI/CD pipelines for GCP-based chatbot deployments, established proper testing and approval workflows for government service applications.",
+        "Participated in Agile development processes and provided technical guidance on GCP services and best practices, shared learnings from my AWS experience where applicable.",
+        "Conducted performance testing and optimization for government service chatbots, focused on response time improvements and reliability enhancements."
+      ],
+      "environment": [
+        "GCP Dialogflow, Python, GCP Cloud Functions, BigQuery, Cloud Pub/Sub, GKE, Stackdriver, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed Azure-based chatbot prototypes for banking customer service using Azure Bot Service and Python, initially struggled with the Azure-specific configuration but learned through hands-on experimentation.",
+        "Built Python scripts for data analysis and pattern recognition in banking customer interactions, utilized Azure Machine Learning for model development and deployment.",
+        "Implemented Azure Functions for processing banking transactions and account inquiries through chatbots, faced challenges with cold start performance but optimized through proper configuration.",
+        "Designed Cosmos DB data models for storing banking customer interactions and chatbot sessions, implemented proper indexing and partition strategies for performance optimization.",
+        "Created event-driven workflows using Azure Event Grid for handling banking operations through chatbots, established proper error handling and compliance logging.",
+        "Integrated chatbot solutions with existing banking systems through Azure API Management, spent time understanding the banking security requirements and implementation constraints.",
+        "Developed containerized applications using Azure Kubernetes Service for banking chatbot deployment, configured proper networking and security policies for financial applications.",
+        "Built monitoring solutions with Azure Monitor for tracking chatbot performance in banking contexts, implemented alerts for service disruptions and performance degradation.",
+        "Collaborated with banking compliance teams to ensure chatbot interactions met regulatory requirements, actually found the financial regulations complex but educational.",
+        "Participated in Agile development processes and contributed to sprint planning and review sessions, provided data-driven insights for chatbot improvement opportunities."
+      ],
+      "environment": [
+        "Azure Bot Service, Python, Azure Functions, Cosmos DB, Azure Event Grid, AKS, Azure Monitor, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed initial chatbot concepts using basic NLP techniques and Python scripts for customer service applications, actually found the natural language understanding challenging with limited tools.",
+        "Built data pipelines for processing customer interaction data and generating insights for service improvement, utilized traditional machine learning approaches for pattern recognition.",
+        "Implemented basic web services using Flask for handling customer queries and responses, learned web development fundamentals through online resources and peer collaboration.",
+        "Designed SQL database schemas for storing customer interactions and service history, implemented proper indexing and query optimization for performance requirements.",
+        "Created ETL processes for integrating customer data from multiple sources into centralized data stores, faced data quality challenges but developed effective cleansing approaches.",
+        "Participated in team meetings and requirement gathering sessions for customer service automation projects, learned to translate business needs into technical specifications.",
+        "Supported senior developers in implementing basic natural language processing functionality, gained foundational knowledge in text processing and pattern matching techniques.",
+        "Learned software development best practices and version control using Git, initially struggled with branching strategies but improved through practice and team guidance."
+      ],
+      "environment": [
+        "Python, Flask, SQL, Basic NLP, Git, Traditional ML"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

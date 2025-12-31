@@ -1,0 +1,339 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI/ML Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Python and TensorFlow to build predictive models for insurance claim fraud detection, reducing false positives by improving data preprocessing pipelines.",
+    "Implemented NLP pipelines using spaCy and Hugging Face Transformers for policy document analysis, automating extraction of key clauses and reducing manual review time.",
+    "Engineered a recommendation system with Apache Spark and ALS algorithm to suggest personalized insurance plans, enhancing customer engagement.",
+    "Deployed real-time claim processing models on AWS Lambda, ensuring HIPAA compliance and reducing processing time.",
+    "Developed A/B testing frameworks using Python and Scikit-Learn to optimize marketing campaigns for insurance products.",
+    "Integrated PyTorch-based models into existing Java applications for dynamic pricing adjustments in insurance premiums.",
+    "Orchestrated MLOps pipelines using MLflow and Docker for model versioning and deployment in insurance risk assessment systems.",
+    "Applied XGBoost for churn prediction in healthcare insurance, identifying at-risk customers and enabling targeted retention strategies.",
+    "Built data ingestion pipelines with Apache Kafka and Spark Streaming for real-time healthcare claims processing.",
+    "Implemented GDPR-compliant data anonymization techniques using Python and Pandas for healthcare datasets.",
+    "Utilized Tableau for creating interactive dashboards to visualize healthcare insurance trends and KPIs.",
+    "Developed fraud detection models using LightGBM for banking transactions, significantly reducing fraudulent activities.",
+    "Implemented PCI-compliant encryption for sensitive banking data using Python and cryptography libraries.",
+    "Created customer segmentation models with K-Means clustering in Python to personalize banking services.",
+    "Deployed Azure Machine Learning pipelines for credit risk assessment, improving loan approval accuracy.",
+    "Conducted code reviews and mentored junior engineers in best practices for model development and deployment.",
+    "Collaborated with cross-functional teams to align AI solutions with business goals in insurance and healthcare domains."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a fraud detection system using TensorFlow and Python, reducing false claims by improving feature engineering and model retraining pipelines.",
+        "Implemented NLP pipelines with spaCy and Hugging Face Transformers to automate policy document analysis, cutting manual review time significantly.",
+        "Engineered a recommendation engine using Apache Spark and ALS algorithm to suggest personalized insurance plans, boosting customer engagement.",
+        "Deployed real-time claim processing models on AWS Lambda, ensuring HIPAA compliance and reducing processing latency.",
+        "Developed A/B testing frameworks with Scikit-Learn to optimize insurance product marketing campaigns.",
+        "Integrated PyTorch models into Java applications for dynamic pricing adjustments in insurance premiums.",
+        "Orchestrated MLOps pipelines using MLflow and Docker for model versioning and deployment in risk assessment systems.",
+        "Applied XGBoost for churn prediction, identifying at-risk customers and enabling targeted retention strategies.",
+        "Built data ingestion pipelines with Apache Kafka and Spark Streaming for real-time claims processing.",
+        "Implemented GDPR-compliant data anonymization using Python and Pandas for sensitive healthcare datasets.",
+        "Utilized Tableau to create interactive dashboards for visualizing insurance trends and KPIs.",
+        "Conducted code reviews and mentored junior engineers in best practices for model development.",
+        "Collaborated with cross-functional teams to align AI solutions with business goals in insurance.",
+        "Troubleshot and debugged model deployment issues, ensuring seamless integration with existing systems.",
+        "Participated in daily stand-ups and sprint planning meetings to track project progress.",
+        "Documented model architectures and deployment processes for knowledge sharing and compliance."
+      ],
+      "environment": [
+        "Python, TensorFlow, AWS, HIPAA, NLP, Apache Spark, Kafka, Tableau, Docker, MLflow"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed predictive models using PyTorch for drug efficacy analysis, improving research pipeline efficiency.",
+        "Implemented NLP pipelines with Hugging Face Transformers for medical document summarization, aiding clinical research.",
+        "Built real-time patient monitoring systems using Apache Kafka and Spark Streaming, ensuring HIPAA compliance.",
+        "Deployed machine learning models on AWS SageMaker for healthcare analytics, reducing inference latency.",
+        "Utilized Scikit-Learn for feature engineering and model selection in patient risk prediction.",
+        "Integrated RESTful APIs with Flask for data exchange between healthcare systems.",
+        "Orchestrated CI/CD pipelines using Jenkins and Docker for model deployment.",
+        "Applied PCA and clustering techniques to analyze patient demographics and treatment outcomes.",
+        "Developed interactive dashboards with Tableau for visualizing healthcare metrics and trends.",
+        "Conducted A/B testing for personalized patient engagement strategies.",
+        "Collaborated with data engineers to optimize ETL pipelines for healthcare data ingestion.",
+        "Mentored junior engineers in best practices for model development and deployment.",
+        "Participated in cross-functional meetings to align AI initiatives with healthcare goals.",
+        "Troubleshot and resolved issues in model deployment and data processing pipelines.",
+        "Documented model performance and deployment processes for regulatory compliance."
+      ],
+      "environment": [
+        "Python, PyTorch, AWS, HIPAA, NLP, Apache Kafka, Tableau, Docker, Jenkins, Scikit-Learn"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed predictive models using XGBoost for healthcare cost estimation, improving budget planning.",
+        "Implemented data ingestion pipelines with Apache Airflow and GCP BigQuery for healthcare data processing.",
+        "Built real-time analytics dashboards using Tableau for monitoring healthcare service utilization.",
+        "Deployed machine learning models on GCP Vertex AI for predictive maintenance of medical equipment.",
+        "Utilized Scikit-Learn for feature selection and model tuning in patient outcome prediction.",
+        "Integrated RESTful APIs with FastAPI for data exchange between healthcare systems.",
+        "Orchestrated MLOps pipelines using MLflow and Docker for model versioning and deployment.",
+        "Applied time series analysis with Prophet for forecasting patient admissions.",
+        "Developed GDPR-compliant data anonymization techniques for healthcare datasets.",
+        "Collaborated with healthcare providers to ensure model accuracy and usability.",
+        "Conducted code reviews and mentored junior engineers in model development.",
+        "Participated in sprint planning and retrospectives to improve team productivity.",
+        "Troubleshot and resolved issues in data processing and model deployment pipelines.",
+        "Documented model architectures and deployment processes for compliance."
+      ],
+      "environment": [
+        "Python, XGBoost, GCP, HIPAA, Tableau, Docker, MLflow, Scikit-Learn, FastAPI"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed fraud detection models using LightGBM for banking transactions, reducing fraudulent activities.",
+        "Implemented PCI-compliant encryption for sensitive banking data using Python and cryptography libraries.",
+        "Built customer segmentation models with K-Means clustering to personalize banking services.",
+        "Deployed Azure Machine Learning pipelines for credit risk assessment, improving loan approval accuracy.",
+        "Utilized Scikit-Learn for feature engineering and model selection in customer churn prediction.",
+        "Created interactive dashboards with Power BI for visualizing banking KPIs and trends.",
+        "Integrated RESTful APIs with Flask for data exchange between banking systems.",
+        "Orchestrated CI/CD pipelines using Jenkins and Docker for model deployment.",
+        "Applied time series analysis with Prophet for forecasting transaction volumes.",
+        "Collaborated with banking teams to ensure model accuracy and usability.",
+        "Conducted A/B testing for personalized customer engagement strategies.",
+        "Participated in cross-functional meetings to align AI initiatives with banking goals.",
+        "Troubleshot and resolved issues in model deployment and data processing pipelines.",
+        "Documented model performance and deployment processes for regulatory compliance."
+      ],
+      "environment": [
+        "Python, LightGBM, Azure, PCI, Power BI, Docker, Jenkins, Scikit-Learn, Flask"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built data ingestion pipelines using Apache NiFi and SQL for processing banking transaction data.",
+        "Developed ETL workflows with Informatica PowerCenter for data warehousing.",
+        "Implemented data quality checks using Python and Pandas to ensure data integrity.",
+        "Deployed data processing pipelines on Azure Data Factory for banking analytics.",
+        "Utilized Apache Spark for large-scale data transformation and aggregation.",
+        "Created dashboards with Tableau for visualizing banking operational metrics.",
+        "Integrated RESTful APIs with Django for data exchange between systems.",
+        "Collaborated with data scientists to optimize data pipelines for model training.",
+        "Conducted code reviews and mentored junior engineers in data pipeline development.",
+        "Participated in sprint planning and retrospectives to improve team productivity.",
+        "Troubleshot and resolved issues in data processing pipelines.",
+        "Documented data pipeline architectures and processes for compliance."
+      ],
+      "environment": [
+        "Python, SQL, Azure, Tableau, Apache NiFi, Informatica, Apache Spark, Django"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

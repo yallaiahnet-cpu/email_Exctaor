@@ -1,0 +1,224 @@
+{
+  "name": "Aravind Datla",
+  "title": "Data Engineer - Oil & Gas Analytics",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered comprehensive data visualization solutions using Python and Databricks to transform complex healthcare datasets into actionable insights for clinical decision support systems, while maintaining strict HIPAA compliance throughout the development lifecycle.",
+    "Applied Monte Carlo simulation techniques to assess risk factors in patient treatment plans, creating probabilistic models that helped healthcare providers understand potential outcomes and make more informed decisions about patient care.",
+    "Developed statistical analysis frameworks using Python libraries to identify patterns in patient readmission rates, which led to the implementation of targeted intervention strategies that reduced preventable hospital returns by approximately 25%.",
+    "Built real-time data pipelines with Databricks to process streaming patient monitoring data, enabling clinical staff to receive immediate alerts for critical changes in patient conditions and respond proactively to potential medical emergencies.",
+    "Utilized advanced statistical methods to analyze healthcare insurance claim data, identifying fraudulent patterns and inconsistencies that saved the organization millions in potential losses while improving overall claims processing efficiency.",
+    "Designed and implemented data governance protocols for healthcare data management, ensuring all data handling procedures complied with HIPAA regulations while maintaining accessibility for authorized clinical and administrative personnel.",
+    "Created interactive dashboards using Python visualization libraries to present complex healthcare metrics to non-technical stakeholders, facilitating better understanding of key performance indicators across different departments.",
+    "Applied machine learning algorithms to predict patient no-show rates for scheduled appointments, enabling the healthcare facility to optimize scheduling and resource allocation, which resulted in approximately 15% improvement in utilization.",
+    "Integrated disparate healthcare data systems using Databricks, creating a unified data platform that eliminated data silos and provided comprehensive patient views across different care settings and specialties.",
+    "Developed custom Python scripts to automate the extraction and transformation of healthcare data from legacy systems, reducing manual processing time by approximately 80% while improving data accuracy and consistency.",
+    "Applied Monte Carlo methods to model the financial impact of different healthcare policy scenarios, providing leadership with data-driven insights for strategic planning and resource allocation decisions.",
+    "Implemented statistical quality control measures for healthcare data, establishing validation protocols that identified and corrected data anomalies before they could impact clinical decision-making or billing processes.",
+    "Designed scalable data architecture for healthcare analytics using cloud-based solutions, ensuring the system could handle increasing data volumes while maintaining performance and security standards required for sensitive patient information.",
+    "Applied natural language processing techniques to extract meaningful information from unstructured clinical notes, enabling quantitative analysis of qualitative data that previously required manual review and coding.",
+    "Developed predictive models using Python and statistical methods to identify patients at high risk for chronic conditions, allowing healthcare providers to implement early intervention strategies that improved long-term health outcomes.",
+    "Utilized Databricks to create collaborative environments for data scientists and healthcare professionals, facilitating cross-functional knowledge sharing and accelerating the development of data-driven solutions to clinical challenges.",
+    "Applied statistical process control methods to monitor healthcare operational metrics, identifying inefficiencies and opportunities for improvement in patient flow, resource utilization, and service delivery.",
+    "Engineered data visualization solutions that presented complex healthcare analytics in intuitive formats, enabling administrators and clinicians to quickly identify trends, outliers, and opportunities for quality improvement initiatives."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "SQL",
+      "R",
+      "Java",
+      "Scala",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-learn"
+    ],
+    "Data Engineering": [
+      "Databricks",
+      "Apache Spark",
+      "Apache Kafka",
+      "Apache Airflow",
+      "Hadoop",
+      "Hive",
+      "ETL/ELT Processes",
+      "Data Warehousing",
+      "Data Pipeline Development"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "D3.js"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Infrastructure as Code"
+    ],
+    "Database Technologies": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake",
+      "Redshift"
+    ],
+    "Statistical Analysis": [
+      "Monte Carlo Simulation",
+      "Statistical Modeling",
+      "Hypothesis Testing",
+      "Regression Analysis",
+      "Time Series Analysis",
+      "Bayesian Statistics"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer - Healthcare Analytics",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered HIPAA-compliant data pipelines using Databricks and Python to process sensitive patient information, implementing robust encryption and access controls that ensured regulatory compliance while enabling efficient data access for authorized clinical applications.",
+        "Applied Monte Carlo simulation techniques to model pharmaceutical inventory requirements under various demand scenarios, helping CVS optimize stock levels across thousands of retail locations while maintaining service levels and minimizing waste.",
+        "Developed statistical models to identify potential drug interactions and contraindications by analyzing patient prescription histories, creating an automated alert system that pharmacists could use to prevent adverse medication events.",
+        "Utilized Python data science libraries to analyze customer behavior patterns in relation to pharmacy loyalty programs, identifying opportunities for personalized recommendations that increased engagement and medication adherence rates.",
+        "Built real-time analytics dashboards using Databricks to monitor vaccine distribution and administration metrics during public health campaigns, providing leadership with immediate visibility into progress and potential bottlenecks.",
+        "Implemented advanced statistical methods to analyze the effectiveness of clinical programs and interventions, creating evidence-based frameworks that healthcare providers could use to improve patient outcomes while controlling costs.",
+        "Designed and deployed machine learning models using Python to predict patient medication adherence based on historical data, enabling targeted interventions that improved compliance rates for chronic disease management.",
+        "Applied data visualization techniques to present complex healthcare utilization patterns to executive leadership, facilitating data-driven decisions about network expansion, service offerings, and resource allocation.",
+        "Developed automated quality control processes using Python scripts to validate healthcare data integrity across multiple systems, identifying and correcting inconsistencies before they could impact clinical decision-making or billing processes.",
+        "Engineered scalable data architecture for pharmacy benefit management analytics using cloud-based solutions, ensuring the system could handle increasing data volumes while maintaining performance and security standards required for sensitive information.",
+        "Applied natural language processing techniques to extract meaningful information from unstructured clinical notes and pharmacist consultations, enabling quantitative analysis of qualitative data that previously required manual review.",
+        "Created collaborative data science environments using Databricks that facilitated knowledge sharing between data scientists, clinicians, and business stakeholders, accelerating the development of data-driven solutions to healthcare challenges.",
+        "Implemented statistical process control methods to monitor healthcare operational metrics, identifying inefficiencies and opportunities for improvement in patient flow, resource utilization, and service delivery across CVS Health facilities.",
+        "Applied time series analysis techniques to forecast demand for various healthcare services and products, enabling more efficient inventory management and staffing decisions that reduced costs while maintaining service quality.",
+        "Developed custom Python-based data validation frameworks to ensure compliance with healthcare data standards and regulations, creating automated processes that reduced manual verification time by approximately 70%.",
+        "Utilized Monte Carlo simulation to assess financial risks associated with different healthcare insurance plan designs, providing actuaries with sophisticated modeling tools that improved the accuracy of premium calculations and reserve estimates.",
+        "Applied statistical methods to analyze the effectiveness of personalized wellness programs, identifying key factors that influenced participant engagement and health outcomes, which informed the development of more effective interventions.",
+        "Engineered data integration solutions using Databricks to combine information from multiple healthcare systems, creating comprehensive patient profiles that supported more personalized care coordination and treatment planning."
+      ],
+      "environment": [
+        "Python",
+        "Databricks",
+        "AWS",
+        "Apache Spark",
+        "SQL",
+        "Tableau",
+        "Git",
+        "Jenkins",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Engineer - Financial Analytics",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Developed Python-based data processing pipelines to analyze customer transaction patterns, implementing statistical models that identified potential fraudulent activities with high accuracy while minimizing false positives that might inconvenience legitimate customers.",
+        "Applied Monte Carlo simulation techniques to model credit risk under various economic scenarios, creating sophisticated stress testing frameworks that helped Capital One maintain appropriate capital reserves and regulatory compliance.",
+        "Built real-time fraud detection systems using Databricks and streaming analytics, enabling immediate identification and response to suspicious activities across millions of daily transactions while maintaining system performance.",
+        "Utilized statistical methods to analyze customer credit behavior and predict default probabilities, developing risk assessment models that improved lending decisions while maintaining compliance with fair lending regulations.",
+        "Engineered data visualization solutions to present complex financial risk metrics to non-technical stakeholders, creating intuitive dashboards that facilitated better understanding of portfolio performance and emerging risk factors.",
+        "Implemented advanced statistical techniques to segment customers based on financial behavior and preferences, enabling more targeted marketing campaigns that improved response rates while respecting privacy regulations.",
+        "Developed custom Python scripts to automate the extraction and transformation of financial data from legacy systems, reducing manual processing time by approximately 75% while improving data accuracy and consistency for regulatory reporting.",
+        "Applied time series analysis to forecast economic indicators and their potential impact on loan portfolios, providing leadership with data-driven insights for strategic planning and risk management decisions.",
+        "Designed and implemented data governance protocols for financial data management, ensuring all data handling procedures complied with banking regulations while maintaining accessibility for authorized personnel.",
+        "Created collaborative analytics environments using Databricks that facilitated knowledge sharing between data scientists, risk analysts, and business stakeholders, accelerating the development of data-driven solutions to financial challenges.",
+        "Applied statistical quality control measures to financial data, establishing validation protocols that identified and corrected anomalies before they could impact decision-making or regulatory reporting processes.",
+        "Developed predictive models using Python and machine learning techniques to identify customers likely to respond to specific financial products, enabling more efficient resource allocation and improved conversion rates.",
+        "Utilized Monte Carlo methods to model the financial impact of different banking policy scenarios, providing leadership with data-driven insights for strategic planning and resource allocation decisions.",
+        "Built automated anomaly detection systems for financial transactions using statistical methods, creating early warning systems that identified potential issues before they could escalate into significant problems.",
+        "Applied advanced statistical techniques to optimize interest rate pricing models, developing sophisticated frameworks that balanced profitability with competitive positioning and risk considerations."
+      ],
+      "environment": [
+        "Python",
+        "Databricks",
+        "AWS",
+        "Apache Spark",
+        "SQL",
+        "Tableau",
+        "Git",
+        "Jenkins",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Engineer - Automotive Analytics",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed Python-based data processing pipelines to analyze vehicle performance data from telematics systems, implementing statistical models that identified potential component failures before they occurred, enabling proactive maintenance that reduced warranty costs.",
+        "Applied Monte Carlo simulation techniques to model supply chain risks under various disruption scenarios, creating contingency plans that helped Ford maintain production schedules despite global supply chain challenges.",
+        "Built real-time analytics dashboards using Apache Kafka and Tableau to monitor manufacturing quality metrics, providing production managers with immediate visibility into emerging issues and enabling rapid response to maintain quality standards.",
+        "Utilized statistical methods to analyze customer feedback and vehicle performance data, identifying patterns that informed product improvements and enhanced customer satisfaction across Ford's vehicle lineup.",
+        "Engineered data visualization solutions to present complex automotive performance metrics to engineering teams, creating intuitive dashboards that facilitated better understanding of vehicle behavior under different operating conditions.",
+        "Developed custom Python scripts to process and analyze sensor data from vehicle testing, automating the identification of performance anomalies that required further investigation by engineering teams.",
+        "Applied time series analysis to forecast vehicle demand across different regions and market segments, enabling more efficient production planning and inventory management that reduced carrying costs while maintaining availability.",
+        "Designed and implemented data processing pipelines for autonomous vehicle training data, creating efficient workflows that handled massive volumes of sensor information while maintaining data quality and integrity.",
+        "Created collaborative analytics environments using Apache Airflow and Python that facilitated knowledge sharing between data scientists, engineers, and business stakeholders, accelerating the development of data-driven solutions to automotive challenges.",
+        "Applied statistical quality control methods to manufacturing process data, identifying subtle variations that could impact product quality and implementing corrective actions before defects occurred.",
+        "Developed predictive models using Python and machine learning techniques to optimize vehicle fuel efficiency, analyzing performance data to identify design improvements that reduced emissions while maintaining performance.",
+        "Utilized statistical methods to analyze warranty claim data, identifying patterns that indicated potential design or manufacturing issues, enabling proactive improvements that reduced future warranty costs."
+      ],
+      "environment": [
+        "Python",
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Tableau",
+        "AWS",
+        "SQL",
+        "Git",
+        "Jenkins"
+      ]
+    },
+    {
+      "role": "Software Developer - Data Analytics",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed Python-based data processing applications for financial clients, implementing statistical methods that analyzed transaction patterns and identified potential anomalies requiring further investigation by compliance teams.",
+        "Built ETL processes using Talend and Apache Airflow to extract, transform, and load data from various source systems into centralized data warehouses, creating reliable foundations for business intelligence and reporting applications.",
+        "Created interactive dashboards using Tableau to present complex financial metrics to clients, developing visualizations that made it easier for non-technical stakeholders to understand trends and make informed decisions.",
+        "Applied statistical techniques to analyze customer behavior patterns for banking clients, developing segmentation models that enabled more targeted marketing campaigns and improved customer engagement rates.",
+        "Designed and implemented database schemas using MySQL and PostgreSQL to support various consulting projects, creating efficient data structures that balanced performance with flexibility for evolving requirements.",
+        "Developed custom Python scripts to automate data validation processes, implementing quality checks that identified inconsistencies and errors before they could impact client reporting or decision-making.",
+        "Collaborated with clients to understand their data analysis requirements, translating business needs into technical specifications that guided the development of customized analytics solutions.",
+        "Applied data visualization best practices to create intuitive reports and dashboards, ensuring that complex information was presented in ways that facilitated understanding and supported decision-making.",
+        "Participated in code reviews and testing processes to ensure the quality and reliability of data processing applications, identifying and addressing potential issues before they affected client operations.",
+        "Continuously learned new data analysis techniques and tools to enhance capabilities and provide clients with more sophisticated insights from their data, staying current with industry best practices and emerging technologies."
+      ],
+      "environment": [
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Tableau",
+        "SQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

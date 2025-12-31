@@ -1,0 +1,232 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered AI-powered proof of concepts using Python and Java to address complex healthcare challenges, implementing LLMs for patient data analysis while ensuring HIPAA compliance and maintaining data privacy across all development stages.",
+    "Developed prompt engineering techniques for healthcare AI applications, creating custom function calling mechanisms that improved diagnostic accuracy and reduced processing time for medical records analysis by approximately 40%.",
+    "Integrated structured and unstructured healthcare data using FastAPI and Flask, building robust APIs that facilitated seamless communication between legacy hospital systems and modern AI-powered applications.",
+    "Applied advanced Java proficiency to create secure healthcare management systems, implementing encryption protocols that protected sensitive patient information while enabling authorized access for medical professionals.",
+    "Utilized OpenAI's GPT models to develop conversational AI assistants for patient engagement, designing natural language processing capabilities that understood medical terminology and provided accurate health information.",
+    "Collaborated with cross-functional healthcare teams to implement AI solutions for medical imaging analysis, using Python-based machine learning frameworks to identify patterns in radiology reports and assist in early disease detection.",
+    "Designed and deployed healthcare data pipelines using Apache Airflow, automating ETL processes that handled large volumes of patient data while maintaining compliance with FDA regulations and healthcare standards.",
+    "Created custom Git workflows for healthcare AI development, establishing version control protocols that ensured traceability of code changes and facilitated collaborative development among distributed teams.",
+    "Applied critical thinking to solve complex healthcare data challenges, developing algorithms that cleaned and normalized inconsistent medical records from various sources to improve AI model accuracy.",
+    "Implemented real-time healthcare monitoring systems using Java and Python, building alert mechanisms that notified medical staff of critical patient condition changes based on continuous data analysis.",
+    "Developed AI-powered drug interaction checkers using LLMs, creating systems that analyzed prescription combinations and flagged potential conflicts to prevent adverse reactions in patient treatments.",
+    "Built secure healthcare authentication systems using Java, implementing multi-factor authentication and role-based access controls that ensured only authorized personnel could access sensitive patient information.",
+    "Applied machine learning techniques to predict disease outbreaks, analyzing historical healthcare data with Python models that identified patterns and potential public health risks before they became widespread.",
+    "Created AI-powered clinical trial matching systems, developing algorithms that connected eligible patients with appropriate research studies based on their medical history and current health conditions.",
+    "Integrated banking domain knowledge with healthcare payment systems, designing secure transaction processing solutions that handled insurance claims and patient billing while maintaining PCI compliance.",
+    "Developed AI-powered medical coding systems, creating natural language processing models that automatically assigned correct billing codes to clinical documentation, reducing manual errors and processing time.",
+    "Applied automotive industry experience to healthcare logistics, optimizing medical supply chain management systems that tracked equipment and medication distribution to hospitals and clinics.",
+    "Utilized consulting methodologies to implement AI solutions in healthcare settings, guiding organizations through digital transformation while addressing regulatory requirements and stakeholder concerns."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "AI & Machine Learning": [
+      "OpenAI",
+      "LLMs",
+      "Prompt Engineering",
+      "Function Calling",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "Backend Development": [
+      "FastAPI",
+      "Flask",
+      "Spring Boot",
+      "Node.js",
+      "Django"
+    ],
+    "Frontend Development": [
+      "React",
+      "Angular",
+      "Streamlit",
+      "HTML5",
+      "CSS3"
+    ],
+    "Database Technologies": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "Data Engineering": [
+      "Apache Kafka",
+      "Hadoop",
+      "Apache Airflow",
+      "Apache Spark",
+      "Talend"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jira"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "D3.js",
+      "Matplotlib",
+      "Plotly"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered AI-powered healthcare diagnostic tools using Python and OpenAI's GPT models, implementing prompt engineering techniques that improved accuracy of medical condition identification by approximately 35% while ensuring HIPAA compliance.",
+        "Developed Java-based microservices architecture for healthcare data processing, creating scalable systems that handled millions of patient records daily with minimal latency and zero data loss during transmission.",
+        "Integrated FastAPI with legacy hospital systems, building middleware that facilitated seamless communication between outdated infrastructure and modern AI applications, reducing integration time by around 60%.",
+        "Applied advanced Java proficiency to create secure healthcare authentication systems, implementing biometric verification and role-based access controls that protected sensitive patient information from unauthorized access.",
+        "Utilized LLM function calling to develop intelligent medical coding systems, creating algorithms that automatically assigned correct billing codes to clinical documentation, reducing manual errors by roughly 40%.",
+        "Designed and deployed healthcare data pipelines using Apache Airflow, automating ETL processes that handled large volumes of patient data while maintaining compliance with FDA regulations and healthcare standards.",
+        "Created custom Git workflows for healthcare AI development, establishing version control protocols that ensured traceability of code changes and facilitated collaborative development among distributed teams.",
+        "Applied critical thinking to solve complex healthcare data challenges, developing algorithms that cleaned and normalized inconsistent medical records from various sources to improve AI model accuracy.",
+        "Implemented real-time healthcare monitoring systems using Java and Python, building alert mechanisms that notified medical staff of critical patient condition changes based on continuous data analysis.",
+        "Developed AI-powered drug interaction checkers using LLMs, creating systems that analyzed prescription combinations and flagged potential conflicts to prevent adverse reactions in patient treatments.",
+        "Built secure healthcare payment processing systems using Java, implementing encryption protocols that handled insurance claims and patient billing while maintaining PCI compliance and protecting financial data.",
+        "Applied machine learning techniques to predict disease outbreaks, analyzing historical healthcare data with Python models that identified patterns and potential public health risks before they became widespread.",
+        "Created AI-powered clinical trial matching systems, developing algorithms that connected eligible patients with appropriate research studies based on their medical history and current health conditions.",
+        "Integrated Flask with healthcare mobile applications, developing RESTful APIs that enabled seamless data synchronization between mobile devices and hospital servers, improving patient engagement.",
+        "Utilized OpenAI's GPT models to develop conversational AI assistants for patient engagement, designing natural language processing capabilities that understood medical terminology and provided accurate health information.",
+        "Applied automotive industry experience to healthcare logistics, optimizing medical supply chain management systems that tracked equipment and medication distribution to hospitals and clinics.",
+        "Developed AI-powered medical imaging analysis tools, creating Python-based machine learning models that identified patterns in radiology reports and assisted in early disease detection.",
+        "Implemented secure healthcare data anonymization systems, creating algorithms that removed personally identifiable information from medical records while preserving data utility for research purposes."
+      ],
+      "environment": [
+        "Java",
+        "Python",
+        "OpenAI",
+        "LLMs",
+        "FastAPI",
+        "Flask",
+        "Git",
+        "Apache Airflow",
+        "AWS"
+      ]
+    },
+    {
+      "role": "AI Software Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Engineered AI-powered fraud detection systems using Java and Python, implementing machine learning models that identified suspicious transactions in real-time, reducing financial losses by approximately 45% while maintaining PCI compliance.",
+        "Developed secure banking APIs using FastAPI, creating endpoints that handled millions of customer transactions daily with robust encryption and authentication mechanisms that protected sensitive financial data.",
+        "Applied prompt engineering techniques to create AI-powered customer service chatbots, implementing LLM function calling that understood banking terminology and provided accurate financial information to customers.",
+        "Integrated structured and unstructured banking data using Python, building ETL pipelines that processed transaction records, customer communications, and market data to improve risk assessment models.",
+        "Utilized Java to develop secure authentication systems for mobile banking applications, implementing multi-factor authentication and biometric verification that reduced unauthorized access attempts by around 60%.",
+        "Created custom Git workflows for banking AI development, establishing version control protocols that ensured traceability of code changes and facilitated collaborative development among distributed teams.",
+        "Applied critical thinking to solve complex banking data challenges, developing algorithms that detected money laundering patterns by analyzing transaction histories across multiple accounts and time periods.",
+        "Implemented real-time credit scoring systems using Python and machine learning, building models that assessed customer creditworthiness based on multiple data sources while ensuring fair lending practices.",
+        "Developed AI-powered loan approval systems using LLMs, creating algorithms that analyzed applicant documentation and financial history to make consistent and unbiased lending decisions.",
+        "Built secure investment portfolio management tools using Java, implementing algorithms that optimized asset allocation based on customer risk profiles and market conditions, improving returns by roughly 15%.",
+        "Applied machine learning techniques to predict customer churn, analyzing banking data with Python models that identified at-risk customers and triggered retention strategies before account closure.",
+        "Created AI-powered financial planning systems, developing algorithms that provided personalized investment advice based on customer goals, risk tolerance, and market conditions.",
+        "Integrated Flask with banking mobile applications, developing RESTful APIs that enabled seamless data synchronization between mobile devices and banking servers, improving customer experience.",
+        "Utilized OpenAI's GPT models to develop conversational AI assistants for financial education, designing natural language processing capabilities that explained complex financial concepts in simple terms.",
+        "Applied healthcare domain knowledge to banking insurance products, developing AI-powered systems that analyzed health data to create personalized insurance offerings with appropriate risk assessments."
+      ],
+      "environment": [
+        "Java",
+        "Python",
+        "OpenAI",
+        "LLMs",
+        "FastAPI",
+        "Flask",
+        "Git",
+        "Apache Kafka",
+        "AWS"
+      ]
+    },
+    {
+      "role": "AI Software Developer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Engineered AI-powered predictive maintenance systems using Python and Apache Kafka, implementing machine learning models that identified potential vehicle failures before they occurred, reducing downtime by approximately 40%.",
+        "Developed Java-based telematics data processing systems, creating scalable applications that handled millions of data points from vehicle sensors daily, enabling real-time performance monitoring and analysis.",
+        "Applied prompt engineering techniques to create AI-powered automotive diagnostics tools, implementing LLM function calling that interpreted error codes and suggested repair procedures with 85% accuracy.",
+        "Integrated structured and unstructured automotive data using Hadoop, building data lakes that stored vehicle performance metrics, customer feedback, and manufacturing data to improve product quality.",
+        "Utilized Apache Airflow to automate automotive testing workflows, creating pipelines that scheduled and executed software tests for vehicle control systems, reducing manual testing time by around 50%.",
+        "Created custom Git workflows for automotive AI development, establishing version control protocols that ensured traceability of code changes and facilitated collaborative development among distributed teams.",
+        "Applied critical thinking to solve complex automotive data challenges, developing algorithms that identified patterns in vehicle performance data that correlated with specific manufacturing processes.",
+        "Implemented real-time driver assistance systems using Python and machine learning, building models that analyzed driving behavior and provided safety alerts, reducing accident rates by roughly 25%.",
+        "Developed AI-powered quality control systems using LLMs, creating computer vision algorithms that detected manufacturing defects on assembly lines with 92% accuracy, improving product quality.",
+        "Built secure vehicle-to-infrastructure communication systems using Java, implementing encryption protocols that protected data exchange between vehicles and traffic management systems.",
+        "Applied machine learning techniques to optimize supply chain management, analyzing automotive data with Python models that predicted parts demand and reduced inventory costs by approximately 30%.",
+        "Created AI-powered customer experience systems, developing algorithms that personalized vehicle settings based on driver preferences and behavior patterns, improving customer satisfaction."
+      ],
+      "environment": [
+        "Java",
+        "Python",
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Tableau",
+        "LLMs",
+        "Git",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Engineered data integration solutions using Talend and Apache Airflow, implementing ETL processes that handled structured and unstructured data from multiple client systems, reducing manual data processing by approximately 60%.",
+        "Developed Python-based data analysis tools, creating applications that processed large datasets and generated insights for consulting projects, improving decision-making processes for clients.",
+        "Applied MySQL and PostgreSQL to design and implement database schemas for various consulting projects, creating normalized data structures that improved query performance by around 40%.",
+        "Integrated Tableau with client data sources, building interactive dashboards that visualized complex business metrics and trends, enabling stakeholders to make data-driven decisions.",
+        "Utilized Python to automate report generation processes, creating scripts that pulled data from multiple sources and formatted it according to client requirements, reducing manual work by roughly 50%.",
+        "Created custom Git workflows for consulting projects, establishing version control protocols that ensured traceability of code changes and facilitated collaborative development among team members.",
+        "Applied critical thinking to solve complex client data challenges, developing algorithms that identified patterns and anomalies in business data that led to process improvements.",
+        "Implemented data quality checks using Python, creating validation scripts that identified inconsistencies and errors in client data, improving overall data accuracy by approximately 35%.",
+        "Developed Python-based API integrations, creating middleware that facilitated communication between disparate client systems, enabling seamless data exchange and process automation.",
+        "Applied Apache Airflow to schedule and automate recurring data processing tasks, creating workflows that ran unattended during off-peak hours, optimizing system resource utilization."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "Git",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

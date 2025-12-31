@@ -1,0 +1,298 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Lead AI/ML Engineer - Cloud-Native AI Services & Intelligent Document Processing",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building and deploying production-grade AI services and cloud-native data solutions across regulated industries like healthcare, insurance, and finance, with deep expertise in Python, TypeScript, and AWS.",
+    "Architected and implemented AI-enabled microservices using Node.js and Python within event-driven frameworks on AWS, integrating LLMs like OpenAI and Claude for intelligent document processing and agent-to-agent workflows in healthcare applications.",
+    "Led the development of intelligent document processing (IDP) pipelines utilizing AWS Textract and custom LLM integration to automate claims adjudication, achieving significant improvements in processing accuracy and speed for HIPAA-compliant data.",
+    "Designed and deployed serverless AI microservices on AWS Lambda and ECS, incorporating MCP frameworks and LangGraph for multi-agent orchestration, ensuring robust monitoring with CloudWatch and Datadog for production observability.",
+    "Spearheaded the integration of AI-assisted development tools like GitHub Copilot and Cursor within CI/CD pipelines to accelerate the rapid prototyping and iteration of AI features for real-time insurance claim processing systems.",
+    "Engineered secure, event-driven architectures for processing PII and PHI data, implementing automated alerting and observability with Prometheus and X-Ray to maintain compliance with stringent healthcare and insurance regulations.",
+    "Built scalable data pipelines for AI features using AWS Glue and Step Functions, focusing on embedding workflows and vector stores to enhance retrieval-augmented generation (RAG) for conversational AI assistants.",
+    "Operationalized LLM agents in production environments by developing model orchestration and routing logic, leveraging Crew AI frameworks to manage complex, multi-step workflows in document-intensive insurance processes.",
+    "Implemented comprehensive monitoring, logging, and tracing solutions using OpenTelemetry and CloudWatch for AI services, enabling proactive incident response and maintaining high availability for critical financial and government systems.",
+    "Developed and enforced compliance and security measures for generative AI within regulated domains, utilizing AWS KMS for secrets management and implementing strict access control for AI model endpoints.",
+    "Created automated testing suites for AI services, including unit and integration tests for LLM interactions and prompt evaluation, ensuring reliability before deployment to production environments handling sensitive data.",
+    "Collaborated with cross-functional teams to translate business requirements for claims processing into technical specifications for AI microservices, using TypeScript and FastAPI to build resilient, maintainable APIs.",
+    "Mentored junior engineers on AI best practices and cloud-native development, fostering a culture of rapid experimentation and iteration while maintaining production stability and adhering to software engineering principles.",
+    "Optimized AI service performance and cost by refining serverless deployments and container orchestration on EKS, implementing model context protocols to reduce latency in real-time decision-making applications.",
+    "Championed the adoption of agentic AI frameworks to automate complex document workflows, reducing manual intervention in government and healthcare back-office operations through intelligent process automation.",
+    "Designed and executed proof-of-concepts for multi-agent systems using Agent-to-Agent (A2A) frameworks, validating their efficacy in streamlining eligibility verification and prior authorization processes.",
+    "Established CI/CD pipelines specifically tailored for AI systems, incorporating automated testing of prompt chains and LLM outputs to ensure consistent behavior across deployments in containerized environments.",
+    "Led technical design sessions for implementing generative AI solutions within existing enterprise architectures, balancing innovation with the operational constraints of highly regulated insurance and financial domains."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "REST APIs",
+      "FastAPI",
+      "Flask"
+    ],
+    "Cloud & AI Services (AWS)": [
+      "AWS Lambda",
+      "Amazon ECS",
+      "Amazon EKS",
+      "AWS SageMaker",
+      "Amazon Bedrock",
+      "AWS Textract",
+      "Amazon Kinesis",
+      "AWS Glue",
+      "AWS Step Functions",
+      "Amazon S3",
+      "AWS KMS",
+      "AWS Secrets Manager"
+    ],
+    "AI/ML & LLM Integration": [
+      "OpenAI API",
+      "Claude AI",
+      "LLM Orchestration",
+      "Prompt Engineering",
+      "RAG Pipelines",
+      "Embedding Models",
+      "Vector Stores",
+      "Fine-tuning",
+      "Model Evaluation",
+      "Intelligent Document Processing (IDP)"
+    ],
+    "AI Agent Frameworks & Tools": [
+      "Crew AI",
+      "LangGraph",
+      "Agent-to-Agent (A2A)",
+      "Model Context Protocol (MCP)",
+      "Multi-Agent Systems",
+      "AI-Assisted Development (Cursor, GitHub Copilot)"
+    ],
+    "Monitoring, Observability & DevOps": [
+      "Datadog",
+      "Prometheus",
+      "AWS CloudWatch",
+      "OpenTelemetry",
+      "X-Ray",
+      "Automated Alerting",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Docker"
+    ],
+    "Architecture & Data Patterns": [
+      "Cloud-Native Architecture",
+      "Event-Driven Architecture",
+      "Microservices",
+      "Serverless Computing",
+      "Containerization",
+      "Data Pipelines",
+      "Stream Processing"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "AWS RDS",
+      "Vector Databases",
+      "Amazon DynamoDB",
+      "Elasticsearch"
+    ],
+    "Security & Compliance": [
+      "HIPAA Compliance",
+      "PCI DSS",
+      "PII Handling",
+      "Secrets Management",
+      "Access Control",
+      "Secure API Design",
+      "Data Encryption"
+    ],
+    "Software Engineering Practices": [
+      "CI/CD for AI",
+      "Unit/Integration Testing",
+      "Code Reviews",
+      "Agile Methodology",
+      "System Design",
+      "Technical Leadership",
+      "Rapid Prototyping"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected a cloud-native AI service using Python and TypeScript to automate HIPAA-compliant medical document classification, integrating AWS Textract with OpenAI GPT-4 for intelligent data extraction, which reduced manual review time by seventy percent.",
+        "Implemented an event-driven microservice on AWS Lambda that processed real-time inventory data streams, employing Node.js and LangGraph to orchestrate AI agents for predicting supply chain disruptions, enhancing operational resilience.",
+        "Led the development of a multi-agent proof-of-concept using Crew AI and MCP frameworks where specialized agents collaborated to validate clinical trial documentation, significantly improving audit trail accuracy and compliance.",
+        "Designed a secure, serverless RAG pipeline on AWS ECS using Claude AI and vector embeddings to power an internal research assistant, ensuring all PHI data remained encrypted at rest and in transit via AWS KMS.",
+        "Spearheaded the integration of GitHub Copilot into our team's VS Code environment, establishing pair-programming guidelines that accelerated the development of Python-based data transformers for AI model training pipelines.",
+        "Engineered comprehensive monitoring for production AI services by configuring Datadog dashboards and Prometheus alerts tied to LLM latency and error rates, enabling the team to swiftly diagnose and resolve performance degradations.",
+        "Orchestrated the deployment of an AI-enabled microservice using AWS Fargate and FastAPI that performed real-time anomaly detection on surgical equipment logs, leveraging X-Ray tracing to pinpoint failures in complex event chains.",
+        "Mentored two junior engineers on implementing unit tests for prompt templates and LLM response validators using Pytest, fostering a testing culture that caught critical logic errors before staging deployments.",
+        "Configured automated CI/CD pipelines with Jenkins and Terraform to manage blue-green deployments of containerized AI agents, incorporating canary analysis to safely roll out new model versions without service interruption.",
+        "Pioneered the use of Agent-to-Agent (A2A) communication protocols to enable a system where a procurement agent negotiated with a logistics agent via structured JSON, automating a previously manual purchase order matching process.",
+        "Troubleshooted a persistent memory leak in a Python-based document chunking service by conducting detailed profiling sessions, ultimately refactoring the code to use generators and reducing the ECS task memory footprint by half.",
+        "Championed the adoption of OpenTelemetry for cross-service tracing within our AI microservices mesh, providing the team with unparalleled visibility into how patient data flowed through our complex multi-agent workflows.",
+        "Synthesized requirements from clinical operations to build a rapid prototyping framework in Node.js, allowing product managers to iterate on AI feature mockups using live data in a sandboxed AWS environment.",
+        "Negotiated with the security team to define a compliant secrets rotation strategy for LLM API keys using AWS Secrets Manager, automating the process to avoid manual interventions and potential human error.",
+        "Evaluated multiple embedding models for a new intelligent search feature, running benchmarks on accuracy and latency before selecting a Cohere model that balanced performance with our AWS cost constraints.",
+        "Facilitated weekly code reviews focusing on Python type hints and error handling in AI service boundaries, significantly improving the robustness of our microservices against unexpected LLM output formats."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "AWS (Lambda, ECS, EKS, Textract, Bedrock, S3, KMS)",
+        "OpenAI API",
+        "Claude AI",
+        "Crew AI",
+        "LangGraph",
+        "MCP",
+        "A2A",
+        "FastAPI",
+        "Datadog",
+        "Prometheus",
+        "CloudWatch",
+        "OpenTelemetry",
+        "Docker",
+        "Jenkins",
+        "GitHub Copilot",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Developed an AI-powered claims adjudication microservice using Python and FastAPI deployed on AWS EKS, which integrated with internal policy engines to automate preliminary claim reviews, accelerating processing timelines.",
+        "Constructed an intelligent document processing pipeline utilizing AWS Textract and a custom LangChain wrapper to extract and validate data from heterogeneous insurance forms, improving data capture accuracy for member enrollments.",
+        "Configured an event-driven architecture with Amazon EventBridge and Lambda functions to trigger AI model re-training pipelines in SageMaker whenever significant drift was detected in claims classification models.",
+        "Assembled a monitoring suite using CloudWatch and custom Python scripts to track the performance and cost of LLM API calls across multiple services, identifying and eliminating inefficient prompt patterns.",
+        "Authored integration tests for a new provider network matching service that used vector similarity search, ensuring the AI component reliably handled edge cases in provider name and address matching.",
+        "Translated business rules for pre-authorization into executable agent workflows using a proof-of-concept built with Crew AI, demonstrating how multi-agent collaboration could reduce manual work for clinical reviewers.",
+        "Upgraded a legacy batch processing job to a serverless, event-triggered AWS Glue job that prepared data for an LLM fine-tuning pipeline, cutting the data preparation time from hours to minutes.",
+        "Directed a security review of all AI microservice APIs, implementing request validation and rate limiting in TypeScript to protect against abuse and ensure compliance with data privacy regulations.",
+        "Investigated a production incident where an AI service returned inconsistent eligibility recommendations, leading to the discovery and correction of a flawed prompt engineering assumption in the model routing logic.",
+        "Compiled documentation and runbooks for operating LLM agents in production, covering scenarios from model hot-swaps to responding to downstream API outages, which improved the on-call team's response effectiveness.",
+        "Customized an open-source observability tool to visualize the decision path of our multi-agent system, providing business analysts with transparent insights into automated claim denial reasoning.",
+        "Adapted a generic embedding workflow to incorporate domain-specific insurance terminology, fine-tuning a Sentence Transformer model on historical claim notes to improve the relevance of retrieved documents.",
+        "Guided the migration of a monolithic application's business logic into discrete, AI-enabled Node.js microservices, applying domain-driven design principles to create clear service boundaries and contracts.",
+        "Validated the output of a new Claude AI integration for generating denial explanation letters, manually reviewing hundreds of samples to ensure the tone and reasoning met strict regulatory and member communication standards."
+      ],
+      "environment": [
+        "Python",
+        "Node.js",
+        "AWS (EKS, Lambda, SageMaker, Textract, Glue, EventBridge)",
+        "FastAPI",
+        "LangChain",
+        "Crew AI",
+        "OpenAI API",
+        "Claude AI",
+        "Vector Stores",
+        "CloudWatch",
+        "TypeScript",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Built and deployed a data pipeline on Azure Data Factory that ingested and anonymized citizen service application data, preparing clean datasets for training NLP models to categorize service requests automatically.",
+        "Supported the development of a Python-based chatbot prototype using Azure Cognitive Services, which helped direct citizens to appropriate government programs by understanding intents from free-text queries.",
+        "Maintained and optimized SQL queries and stored procedures for a legacy eligibility determination system, ensuring data integrity while the backend was gradually modernized into a microservices architecture.",
+        "Assisted the AI team in evaluating different text embedding models for a document search pilot, running performance benchmarks on Azure VMs to recommend a model that balanced speed and accuracy for public records.",
+        "Participated in daily stand-ups and sprint planning for a multi-team project aimed at modernizing public assistance workflows, contributing data engineering expertise to the design of new system interfaces.",
+        "Reviewed pull requests for Python scripts that transformed open government data into formats suitable for public-facing dashboards and internal machine learning experiments, focusing on code clarity and error handling.",
+        "Documented the data lineage and transformation rules for several key citizen data attributes, creating maps that were crucial for audits and for explaining AI model predictions to non-technical stakeholders.",
+        "Troubleshooted data quality issues in a nightly batch process that fed a fraud detection model, identifying and correcting a misaligned join condition that was causing inaccurate feature generation.",
+        "Configured basic logging for a new Flask API that served model predictions, using Application Insights to track request volumes and errors, which provided initial visibility into the service's health.",
+        "Collaborated with security auditors to demonstrate how PII was handled within our data pipelines, explaining the encryption and access controls in place for datasets used to train government AI models.",
+        "Learned the fundamentals of prompt engineering by assisting senior developers in crafting and testing prompts for a GPT-3 model that summarized lengthy public policy documents into concise briefs.",
+        "Contributed to the development of a CI/CD pipeline using Azure DevOps that automated the testing and deployment of data transformation libraries, reducing manual deployment errors."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Azure (Data Factory, VMs, Cognitive Services)",
+        "Flask",
+        "Application Insights",
+        "Azure DevOps",
+        "OpenAI GPT-3",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Optimized Spark SQL jobs on Azure Databricks that processed terabytes of daily transaction data, implementing skew join optimizations that reduced job runtimes and associated compute costs significantly.",
+        "Engineered a real-time data pipeline using Apache Kafka and Spark Streaming to ingest and augment transaction events with fraud risk scores generated by a legacy statistical model, enabling faster alerts.",
+        "Developed Python utilities to validate the output of feature engineering pipelines, ensuring that data fed into machine learning models for credit line management adhered to expected statistical distributions.",
+        "Supported the data science team by building a feature store prototype on Azure SQL Database, which allowed for consistent feature calculation between model training and real-time inference services.",
+        "Participated in PCI DSS compliance audits by providing detailed data flow diagrams and evidence of encryption for cardholder data traversing our big data platforms, ensuring all processes met stringent standards.",
+        "Debugged a recurring failure in an overnight batch processing pipeline by analyzing Spark executor logs, discovering a memory issue related to a specific window function, and rewriting the query for stability.",
+        "Containerized several data preparation scripts using Docker to ensure consistent execution environments between development laptops and the production Azure Kubernetes Service (AKS) cluster.",
+        "Authored technical documentation for a complex data lineage tracking tool we adopted, helping other team members understand how to trace transaction data from source systems to model training sets.",
+        "Assisted in the migration of an on-premise Hadoop cluster to Azure HDInsight, rewriting Hive queries into Spark jobs and validating data completeness post-migration for critical financial reporting datasets.",
+        "Configured alerting in Azure Monitor for key data pipeline health metrics, such as event lag and processing completeness, enabling the operations team to respond quickly to data delays."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Azure (Databricks, AKS, HDInsight, SQL DB)",
+        "Apache Kafka",
+        "Docker",
+        "Hive"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed pathology report data from various hospital information systems using Python and SQL, creating standardized datasets for training early machine learning models on cancer detection.",
+        "Conducted exploratory data analysis on medical imaging metadata using Pandas and Matplotlib, identifying trends and anomalies that informed the feature selection process for the data science team's models.",
+        "Cleaned and annotated thousands of text-based lab reports, applying basic NLP techniques to structure free-text fields, which became a crucial training corpus for the company's initial NLP initiatives.",
+        "Built interactive dashboards in Power BI to visualize model performance metrics for internal stakeholders, allowing non-technical team members to track progress across different disease detection algorithms.",
+        "Assisted senior engineers in testing data pipelines that fed AI research prototypes, meticulously verifying data quality and flagging discrepancies that could lead to biased model outcomes.",
+        "Learned the principles of database design by helping to optimize queries for a PostgreSQL database that stored de-identified patient data, focusing on improving report generation speeds for clinicians.",
+        "Documented the data dictionary and transformation rules for key clinical variables, ensuring consistency in how terms were defined and used across different research projects and engineering teams.",
+        "Participated in weekly research meetings, taking notes on discussions about model interpretability and helping to prepare presentations that summarized data findings for external medical partners."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Matplotlib",
+        "Power BI",
+        "PostgreSQL",
+        "Basic NLP"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

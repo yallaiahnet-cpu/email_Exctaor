@@ -1,0 +1,229 @@
+{
+  "name": "Aravind Datla",
+  "title": "AI/ML Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Developed AI-powered diagnostic tools using Python and TensorFlow to analyze medical imaging data while ensuring HIPAA compliance, reducing diagnosis time by approximately 40% for radiologists at major healthcare facilities.",
+    "Engineered machine learning models with PyTorch to predict patient readmission risks, integrating with existing hospital systems through secure APIs that maintained strict data privacy standards under healthcare regulations.",
+    "Created intelligent document processing system using Langchain and OpenAI API to extract critical information from medical records, automating what was previously a manual process taking several hours per patient file.",
+    "Built predictive fraud detection models for banking transactions using deep learning techniques with Keras, implementing real-time monitoring that identified suspicious patterns while minimizing false positives.",
+    "Implemented Hugging Face transformers to analyze customer sentiment from banking interactions, creating dashboards that helped executives identify service issues before they escalated into major problems.",
+    "Designed multi-modal AI system for automotive applications that combined computer vision and sensor data, improving autonomous vehicle decision-making in complex urban environments with varying weather conditions.",
+    "Developed intelligent recommendation engine using Amazon Bedrock for automotive customers, personalizing vehicle features and options based on driving patterns and preferences while maintaining data privacy.",
+    "Created conversational AI assistant for consulting clients using OpenAI API and custom fine-tuning, reducing response time to common inquiries by approximately 60% while maintaining professional tone.",
+    "Architected scalable data processing pipeline with Apache Airflow and TensorFlow to handle millions of healthcare records daily, ensuring consistent performance during peak usage periods without compromising security.",
+    "Implemented Google Model Garden models to analyze banking customer behavior patterns, identifying opportunities for personalized financial products while adhering to strict regulatory requirements.",
+    "Engineered real-time anomaly detection system for automotive manufacturing using PyTorch and computer vision, identifying quality issues on the production line before they became costly recalls.",
+    "Developed custom NLP models using Hugging Face to extract insights from consulting project documentation, creating knowledge graphs that helped teams leverage past experiences for new client engagements.",
+    "Created intelligent document classification system using Langchain and OpenAI API to organize healthcare records, improving retrieval efficiency for medical professionals while maintaining HIPAA compliance.",
+    "Built predictive maintenance models for banking IT infrastructure using TensorFlow, preventing system outages that could impact customer transactions and ensuring 99.9% uptime during critical business hours.",
+    "Implemented Nvidia Nim for accelerated inference of AI models in automotive applications, reducing processing time for real-time decision-making systems in autonomous vehicles by approximately 50%.",
+    "Designed ethical AI framework for consulting projects, ensuring that machine learning models were transparent and fair while still delivering valuable business insights to clients across various industries.",
+    "Developed federated learning approach for healthcare data analysis using PyTorch, allowing multiple hospitals to collaboratively train models without sharing sensitive patient information.",
+    "Created intelligent automation system for banking compliance using OpenAI API and custom fine-tuning, reducing manual review time for regulatory documents while improving accuracy in identifying potential issues."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Java"
+    ],
+    "AI/ML Frameworks": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "Hugging Face",
+      "Langchain",
+      "OpenAI API",
+      "Google Model Garden",
+      "Amazon Bedrock",
+      "Nvidia Nim"
+    ],
+    "Data Processing": [
+      "Apache Kafka",
+      "Hadoop",
+      "Apache Airflow",
+      "Apache Spark"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "ETL Tools": [
+      "Talend",
+      "Informatica",
+      "Apache NiFi"
+    ],
+    "DevOps": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab CI/CD"
+    ],
+    "Version Control": [
+      "Git",
+      "SVN"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI/ML Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Engineered advanced diagnostic assistance system using TensorFlow and PyTorch to analyze medical imaging data, helping radiologists identify potential issues earlier while maintaining strict HIPAA compliance throughout the development process.",
+        "Implemented Hugging Face transformers to extract and analyze unstructured text from patient records, creating a comprehensive view of patient history that improved treatment planning by incorporating multiple data sources securely.",
+        "Developed predictive models using OpenAI API to identify patients at risk of chronic conditions, enabling proactive care interventions that reduced emergency visits by approximately 30% for the targeted patient population.",
+        "Created intelligent triage system using Langchain and custom fine-tuned models to prioritize patient needs based on symptoms and medical history, reducing wait times for critical cases while maintaining quality of care.",
+        "Built federated learning framework with PyTorch to enable collaborative model training across multiple healthcare facilities without sharing sensitive patient data, addressing privacy concerns while improving model accuracy.",
+        "Designed multi-modal AI system that combines medical imaging, lab results, and clinical notes using Amazon Bedrock, providing healthcare professionals with comprehensive insights for better decision-making.",
+        "Implemented Nvidia Nim for accelerated inference of diagnostic models, reducing processing time for critical medical images from minutes to seconds while maintaining accuracy in identifying potential health issues.",
+        "Architected secure data pipeline using Apache Airflow to process healthcare data for AI model training, ensuring compliance with HIPAA regulations while enabling efficient data flow from various sources.",
+        "Developed custom NLP models using Google Model Garden to understand medical terminology and context, improving the accuracy of information extraction from clinical notes and physician documentation.",
+        "Created explainable AI framework for healthcare applications using TensorFlow, providing clinicians with insights into model predictions to build trust and facilitate adoption of AI-assisted diagnostic tools.",
+        "Implemented continuous learning system for medical AI models using PyTorch, allowing models to improve over time as new data becomes available while maintaining performance on previously learned patterns.",
+        "Built intelligent drug interaction checker using Hugging Face models and custom knowledge graphs, alerting healthcare providers to potential issues before prescribing medications to patients with complex regimens.",
+        "Developed voice-enabled documentation system using OpenAI API and speech recognition, allowing physicians to create clinical notes naturally while maintaining accuracy and reducing administrative burden.",
+        "Created patient monitoring system using Langchain and IoT data streams, identifying potential health issues before they become critical and alerting appropriate healthcare providers with actionable insights.",
+        "Implemented bias detection and mitigation framework for healthcare AI models using TensorFlow, ensuring equitable outcomes across different demographic groups while maintaining overall model performance.",
+        "Designed secure model deployment pipeline on AWS that met healthcare compliance requirements, enabling rapid iteration of AI models while maintaining strict data privacy and security standards.",
+        "Built intelligent scheduling system using Amazon Bedrock to optimize healthcare provider appointments, reducing wait times and improving resource utilization while accommodating urgent cases and patient preferences.",
+        "Developed custom data augmentation techniques for medical imaging using PyTorch, addressing data scarcity challenges while ensuring that synthetic variations remained clinically relevant and realistic."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "Langchain",
+        "OpenAI API",
+        "Amazon Bedrock",
+        "AWS",
+        "Apache Airflow",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "AI/ML Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Engineered fraud detection system using TensorFlow and deep learning techniques to identify suspicious transaction patterns in real-time, reducing financial losses while minimizing false positives that frustrated legitimate customers.",
+        "Implemented Hugging Face models to analyze customer sentiment from various interaction channels, creating comprehensive dashboards that helped product teams identify and address service issues before they escalated.",
+        "Developed predictive credit risk models using PyTorch that incorporated alternative data sources, improving assessment accuracy for customers with limited credit history while maintaining compliance with fair lending regulations.",
+        "Created intelligent document processing system using Langchain and OpenAI API to extract and classify information from financial documents, automating what was previously a manual process requiring hours of review.",
+        "Built personalized recommendation engine using Amazon Bedrock to suggest relevant financial products based on customer behavior and needs, increasing cross-sell success while ensuring recommendations were appropriate.",
+        "Implemented natural language processing system using Google Model Garden to analyze customer support conversations, identifying common issues and opportunities to improve service quality and efficiency.",
+        "Designed multi-modal AI system that combined transaction data with customer interactions using TensorFlow, providing a comprehensive view of customer behavior that informed product development and marketing strategies.",
+        "Developed intelligent chatbot using OpenAI API and custom fine-tuning to handle customer inquiries, reducing response time and improving customer satisfaction while maintaining professional tone and accuracy.",
+        "Created anomaly detection system for ATM and branch operations using PyTorch and computer vision, identifying potential security issues or maintenance needs before they impacted customer service.",
+        "Implemented Nvidia Nim for accelerated inference of fraud detection models, reducing processing time for transaction approvals while maintaining accuracy in identifying potentially fraudulent activities.",
+        "Built customer segmentation models using Hugging Face transformers and clustering algorithms, enabling more targeted marketing campaigns that improved response rates while respecting customer privacy preferences.",
+        "Developed predictive models for customer churn using TensorFlow and advanced feature engineering, identifying at-risk customers early enough for retention efforts to be effective while remaining cost-efficient.",
+        "Created intelligent automation system for regulatory compliance using Langchain and custom rule engines, reducing manual review time for compliance documentation while improving accuracy in identifying potential issues.",
+        "Implemented explainable AI framework for credit decision models using PyTorch, providing transparency for regulators and customers while maintaining the predictive power needed for effective risk management.",
+        "Designed secure model deployment pipeline on AWS that met financial industry compliance requirements, enabling rapid iteration of AI models while maintaining strict data privacy and security standards."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "Langchain",
+        "OpenAI API",
+        "Amazon Bedrock",
+        "Google Model Garden",
+        "AWS",
+        "Apache Kafka",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "AI/ML Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Developed intelligent vehicle diagnostic system using Apache Kafka and PyTorch to analyze real-time sensor data, identifying potential maintenance issues before they caused breakdowns and improving customer satisfaction.",
+        "Implemented Hugging Face models to analyze customer feedback from various sources, creating comprehensive sentiment analysis that helped product teams identify and address issues with vehicle features and performance.",
+        "Built predictive maintenance system using Apache Airflow and TensorFlow to forecast component failures based on usage patterns and environmental conditions, reducing warranty costs and improving vehicle reliability.",
+        "Created data processing pipeline with Hadoop and Python to handle massive volumes of telematics data from connected vehicles, enabling analysis of driving patterns and vehicle performance across different conditions.",
+        "Engineered computer vision system using PyTorch to identify manufacturing defects on the assembly line, improving quality control and reducing the number of vehicles requiring post-production rework or repairs.",
+        "Developed intelligent driver assistance features using OpenAI API and custom fine-tuned models, improving safety by identifying potential hazards and providing appropriate alerts or interventions in real-time.",
+        "Built recommendation engine using Langchain to suggest vehicle features and options based on customer preferences and driving patterns, personalizing the sales experience while increasing feature adoption rates.",
+        "Implemented anomaly detection system for vehicle performance using Apache Kafka and TensorFlow, identifying unusual patterns that might indicate emerging issues before they became noticeable to drivers.",
+        "Created demand forecasting models using Python and Tableau to predict vehicle sales across different regions and market segments, helping optimize production planning and inventory management.",
+        "Designed multi-modal AI system that combined sensor data with external information using PyTorch, improving autonomous vehicle decision-making in complex urban environments with varying weather conditions.",
+        "Developed intelligent routing system for delivery vehicles using Apache Airflow and optimization algorithms, reducing fuel consumption and improving delivery efficiency while meeting customer expectations.",
+        "Built customer behavior analysis system using Hadoop and Python to identify patterns in vehicle usage and feature adoption, informing future product development and marketing strategies."
+      ],
+      "environment": [
+        "Python",
+        "Apache Kafka",
+        "Hadoop",
+        "Apache Airflow",
+        "Tableau",
+        "PyTorch",
+        "Hugging Face",
+        "Langchain",
+        "OpenAI API",
+        "TensorFlow",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Developed data integration solution using Talend and MySQL to consolidate information from multiple client systems, creating unified data repositories that supported business intelligence and reporting requirements.",
+        "Implemented ETL processes with Apache Airflow and PostgreSQL to automate data extraction and transformation, reducing manual effort and improving data quality for consulting projects across various industries.",
+        "Created data visualization dashboards using Tableau and Python to present complex business metrics in intuitive formats, enabling clients to make informed decisions based on their operational data.",
+        "Built custom data validation framework using Python and PostgreSQL to ensure data quality and consistency, identifying and flagging issues before they impacted business processes or decision-making.",
+        "Developed automated reporting system using Talend and MySQL to generate regular business reports, saving time for consulting teams and ensuring consistent formatting and accuracy across client deliverables.",
+        "Implemented data security measures for client information using PostgreSQL encryption and access controls, maintaining confidentiality while enabling appropriate access for authorized users.",
+        "Created data migration tools using Python and Talend to facilitate transitions between systems, minimizing disruption to business operations during technology upgrades or platform changes.",
+        "Built performance monitoring system for database operations using Tableau and custom scripts, identifying bottlenecks and optimization opportunities that improved system responsiveness and user experience.",
+        "Developed API integration layer using Python to connect disparate systems, enabling seamless data flow between applications while maintaining appropriate security and error handling.",
+        "Created data archiving solution using PostgreSQL and automated scripts to manage information lifecycle, ensuring efficient use of storage resources while maintaining access to historical data when needed."
+      ],
+      "environment": [
+        "MySQL",
+        "PostgreSQL",
+        "Talend",
+        "Apache Airflow",
+        "Python",
+        "Tableau",
+        "AWS",
+        "Git",
+        "JIRA"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": []
+}

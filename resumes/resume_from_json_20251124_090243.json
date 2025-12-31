@@ -1,0 +1,319 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Azure LLM Platform & RAG Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI/ML engineering with deep specialization in Azure-based LLM platforms, RAG systems, and multi-agent AI solutions across insurance, healthcare, banking, and consulting domains.",
+    "Designed and implemented Retrieval-Augmented Generation systems using Azure AI Search with sophisticated chunking strategies, embedding models, and re-ranking algorithms to enhance insurance policy document retrieval accuracy and citation precision.",
+    "Architected production-grade multi-agent systems using CrewAI and AutoGen frameworks to automate complex insurance claim processing workflows while maintaining strict compliance with state insurance regulations and data privacy controls.",
+    "Developed secure Azure OpenAI integrations with API Management and Key Vault to deploy enterprise chatbots with comprehensive guardrails against prompt injection attacks and jailbreak attempts in insurance customer service applications.",
+    "Implemented Model Context Protocol servers to enable seamless tool integration for AI agents processing healthcare data, ensuring HIPAA compliance through proper audit logging and telemetry instrumentation across all API interactions.",
+    "Built Azure Functions and Web Apps with Python FastAPI backends to host RAG-powered insurance policy assistants, incorporating PEFT/LoRA fine-tuning techniques to optimize response quality while controlling inference costs.",
+    "Established comprehensive observability using App Insights and Log Analytics with KQL queries to monitor multi-agent system performance, track latency metrics, and identify potential security threats in real-time insurance applications.",
+    "Engineered Azure DevOps CI/CD pipelines with integrated unit and integration testing for RAG evaluation frameworks, ensuring consistent deployment quality for insurance regulatory compliance documentation systems.",
+    "Conducted systematic red-teaming exercises to identify prompt injection vulnerabilities in production chatbots, implementing layered security controls and content filtering to protect sensitive insurance customer data.",
+    "Optimized vector database performance using Azure Cosmos DB for embedding storage in RAG systems, significantly improving retrieval latency for insurance policy document search while maintaining citation accuracy.",
+    "Integrated Event Hub for real-time data streaming in agentic AI workflows, enabling seamless communication between specialized agents processing insurance claims and customer service inquiries across distributed systems.",
+    "Developed async Python services using FastAPI to handle concurrent requests for multi-agent insurance applications, implementing proper error handling and retry mechanisms for reliable enterprise operations.",
+    "Created comprehensive runbooks and integration documentation for RAG system maintenance, including troubleshooting guides for common embedding generation issues and citation display problems in insurance contexts.",
+    "Implemented feature flagging and A/B testing frameworks for iterative deployment of new agent capabilities, allowing controlled rollout of enhanced insurance policy explanation features to specific customer segments.",
+    "Designed containerized deployment strategies using Docker for Azure Web Apps hosting AI services, ensuring consistent environment configuration across development, staging, and production insurance platforms.",
+    "Collaborated with platform engineering and security teams to establish threat modeling practices for AI systems, focusing on insurance-specific risks related to policy interpretation and premium calculation accuracy.",
+    "Balanced quality, latency, cost, and safety considerations in RAG system design, implementing caching strategies and optimized chunking approaches for insurance document processing at enterprise scale.",
+    "Mentored junior developers on Azure AI services and agent framework best practices, sharing hard-won lessons from debugging complex multi-agent coordination issues in production insurance environments."
+  ],
+  "technical_skills": {
+    "AI/ML Platforms & Cloud Services": [
+      "Azure AI Search",
+      "Azure OpenAI",
+      "Azure Functions",
+      "Azure Web Apps",
+      "Azure API Management",
+      "Azure Key Vault",
+      "Azure Event Hub",
+      "App Insights",
+      "Log Analytics"
+    ],
+    "AI Frameworks & Agent Systems": [
+      "AutoGen",
+      "CrewAI",
+      "Model Context Protocol",
+      "RAG Systems",
+      "Multi-Agent Architectures",
+      "Agent Coordination",
+      "LangGraph",
+      "Agent-to-Agent Communication"
+    ],
+    "Programming & Development": [
+      "Python",
+      "FastAPI",
+      "Async Python",
+      "REST APIs",
+      "GraphQL",
+      "Unit Testing",
+      "Integration Testing",
+      "pytest",
+      "unittest"
+    ],
+    "MLOps & Deployment": [
+      "Azure DevOps CI/CD",
+      "Docker Containerization",
+      "Azure PaaS",
+      "Feature Flagging",
+      "A/B Testing",
+      "Model Monitoring",
+      "Performance Optimization"
+    ],
+    "Data & Vector Databases": [
+      "Azure Cosmos DB",
+      "Vector Databases",
+      "Embedding Storage",
+      "Chunking Strategies",
+      "Re-ranking Algorithms",
+      "Citation Systems",
+      "Metadata Management"
+    ],
+    "Security & Compliance": [
+      "Prompt Injection Protection",
+      "Jailbreak Prevention",
+      "Threat Modeling",
+      "Data Privacy Controls",
+      "Audit Logging",
+      "HIPAA Compliance",
+      "Insurance Regulations"
+    ],
+    "Observability & Monitoring": [
+      "KQL Query Language",
+      "Latency Monitoring",
+      "Cost Optimization",
+      "Telemetry Instrumentation",
+      "Performance Metrics",
+      "Error Tracking",
+      "System Health"
+    ],
+    "Fine-tuning & Optimization": [
+      "PEFT/LoRA",
+      "Model Fine-tuning",
+      "Parameter Efficiency",
+      "Inference Optimization",
+      "Quality Evaluation",
+      "Retrieval Accuracy",
+      "Response Quality"
+    ],
+    "Development Tools & Workflows": [
+      "Git/GitHub",
+      "Azure DevOps",
+      "Code Reviews",
+      "Debugging Tools",
+      "Troubleshooting",
+      "Documentation",
+      "Runbook Creation"
+    ],
+    "Enterprise Integration": [
+      "API Management",
+      "Key Management",
+      "Event Streaming",
+      "Service Integration",
+      "Legacy System Connectivity",
+      "Data Pipeline Integration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Azure AI Search to address inconsistent insurance policy document retrieval, implemented sophisticated chunking strategies with semantic embeddings that improved retrieval accuracy by enhancing cross-reference capability across state-specific regulations.",
+        "Leveraging CrewAI framework to automate complex multi-agent insurance claim processing, designed specialized agent roles for assessment, validation, and payment calculation that reduced manual processing time while maintaining compliance with evolving state insurance requirements.",
+        "Implementing Model Context Protocol servers to enable tool integration for insurance data analysis, created standardized interfaces for policy lookup and coverage validation that allowed agents to access real-time insurance database information securely.",
+        "Using Azure OpenAI with API Management to deploy production chatbots, implemented comprehensive guardrails and content filtering that prevented prompt injection attacks while handling sensitive customer insurance inquiries with proper citation display.",
+        "Architecting Azure Functions with Python FastAPI backends for RAG systems, developed async processing pipelines that handled concurrent insurance policy queries while maintaining sub-second response times during peak customer service hours.",
+        "Implementing PEFT/LoRA fine-tuning techniques to optimize insurance-specific language models, adapted base models to understand complex policy terminology and state regulation nuances that significantly improved response accuracy for specialized insurance scenarios.",
+        "Designing comprehensive observability with App Insights and Log Analytics, created KQL dashboards that tracked multi-agent system performance and identified latency bottlenecks in insurance claim processing workflows for continuous optimization.",
+        "Establishing Azure DevOps CI/CD pipelines for RAG evaluation frameworks, integrated automated testing that validated embedding quality and retrieval performance across different insurance document types before production deployment.",
+        "Conducting systematic red-teaming exercises for prompt injection vulnerabilities, developed testing scenarios that simulated sophisticated jailbreak attempts against insurance chatbots and implemented layered security controls to mitigate identified risks.",
+        "Optimizing Azure Cosmos DB for vector storage in RAG systems, implemented efficient indexing strategies that improved retrieval latency for insurance policy documents while maintaining accurate citation generation for regulatory compliance.",
+        "Integrating Event Hub for real-time agent communication, designed event-driven architecture that enabled seamless coordination between specialized insurance agents processing complex multi-step claim adjudication workflows.",
+        "Developing async Python services with proper error handling, implemented retry mechanisms and circuit breakers that ensured reliable operation of insurance policy explanation services during Azure service interruptions or high-load periods.",
+        "Creating comprehensive runbooks for RAG system maintenance, documented troubleshooting procedures for common embedding generation issues and citation display problems specific to insurance policy document structures and formatting.",
+        "Implementing feature flagging for iterative agent capability deployment, enabled controlled rollout of enhanced insurance policy analysis features to specific customer segments while monitoring performance and gathering user feedback.",
+        "Designing containerized deployment strategies using Docker, ensured consistent environment configuration for Azure Web Apps hosting insurance AI services across development, staging, and production environments with proper security hardening.",
+        "Collaborating with security teams on AI threat modeling, focused on insurance-specific risks related to policy interpretation accuracy and premium calculation integrity while establishing monitoring for potential model drift or degradation."
+      ],
+      "environment": [
+        "Azure AI Search",
+        "Azure OpenAI",
+        "CrewAI",
+        "AutoGen",
+        "Model Context Protocol",
+        "Python",
+        "FastAPI",
+        "Azure Functions",
+        "Azure Web Apps",
+        "API Management",
+        "Key Vault",
+        "Event Hub",
+        "App Insights",
+        "Log Analytics",
+        "Azure DevOps",
+        "PEFT/LoRA",
+        "Docker",
+        "Azure Cosmos DB"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Azure AI Search to enhance medical document retrieval accuracy, implemented specialized chunking strategies for healthcare research papers that improved relevance scoring while maintaining HIPAA compliance through proper data anonymization.",
+        "Leveraging AutoGen framework for multi-agent clinical trial analysis, designed collaborative agent systems that processed research data while ensuring proper audit logging and compliance with FDA regulatory requirements for healthcare documentation.",
+        "Implementing RAG systems with Azure OpenAI for healthcare information retrieval, developed citation mechanisms that accurately referenced medical sources while implementing guardrails to prevent hallucination of medical advice or treatment recommendations.",
+        "Using Azure Functions with Python backends for healthcare chatbot services, created async processing pipelines that handled patient education inquiries while maintaining strict data privacy controls and HIPAA-compliant logging practices.",
+        "Designing API Management integrations for healthcare data access, implemented secure authentication and authorization patterns that controlled agent access to sensitive patient information while maintaining audit trails for compliance reporting.",
+        "Developing comprehensive testing frameworks for healthcare RAG systems, created unit and integration tests that validated response accuracy and citation quality across diverse medical terminology and clinical scenarios.",
+        "Implementing App Insights monitoring for healthcare AI services, configured custom metrics that tracked model performance and identified potential drift in medical information retrieval accuracy across different therapeutic areas.",
+        "Using Key Vault for secure credential management in healthcare applications, implemented proper secret rotation policies and access controls that protected sensitive API keys and database connections in HIPAA-regulated environments.",
+        "Creating agentic workflows for medical literature review, designed multi-step processing pipelines that extracted relevant clinical evidence from research papers while maintaining accurate source attribution and citation integrity.",
+        "Optimizing embedding models for healthcare terminology, fine-tuned vector representations that improved semantic search accuracy for medical concepts while ensuring consistent performance across different medical specialties and jargon.",
+        "Implementing event-driven architectures with Event Hub, designed scalable communication patterns between healthcare data processing agents that handled real-time updates from clinical trial management systems.",
+        "Developing documentation and runbooks for healthcare AI systems, created comprehensive troubleshooting guides that addressed common issues with medical document processing and agent coordination in production environments.",
+        "Collaborating with healthcare compliance teams, established validation procedures for AI-generated medical content that ensured adherence to regulatory requirements and proper disclaimers for patient-facing applications.",
+        "Designing secure deployment pipelines with Azure DevOps, implemented automated security scanning and compliance checks that validated HIPAA requirements before deploying healthcare AI services to production environments."
+      ],
+      "environment": [
+        "Azure AI Search",
+        "Azure OpenAI",
+        "AutoGen",
+        "CrewAI",
+        "Python",
+        "Azure Functions",
+        "API Management",
+        "Key Vault",
+        "Event Hub",
+        "App Insights",
+        "Log Analytics",
+        "Azure DevOps",
+        "FastAPI",
+        "Docker",
+        "Azure Web Apps"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using AWS SageMaker to deploy healthcare prediction models, implemented automated retraining pipelines that adapted to changing population health patterns while maintaining HIPAA compliance through proper data encryption and access controls.",
+        "Leveraging Python with scikit-learn for public health analytics, developed machine learning models that identified healthcare access disparities across different regions while ensuring equitable algorithm performance across demographic groups.",
+        "Implementing data pipelines with AWS Glue for healthcare data integration, designed ETL processes that consolidated information from multiple sources while maintaining data quality and consistency for public health reporting requirements.",
+        "Creating REST APIs with Flask for healthcare data access, developed secure endpoints that provided aggregated health statistics to authorized applications while implementing proper rate limiting and authentication mechanisms.",
+        "Designing monitoring systems with CloudWatch for model performance, configured alerts that detected data drift in healthcare prediction models and triggered retraining workflows to maintain accuracy for public health interventions.",
+        "Developing containerized applications with Docker for consistent deployment, packaged healthcare analytics services that could be reliably deployed across different environments while maintaining security configurations and compliance requirements.",
+        "Implementing data validation frameworks for healthcare datasets, created automated checks that identified data quality issues and missing information in public health records before model training and analysis processes.",
+        "Collaborating with public health experts on feature engineering, incorporated domain knowledge into machine learning models that improved prediction accuracy for healthcare utilization patterns and service demand forecasting.",
+        "Creating documentation for healthcare analytics systems, developed comprehensive guides that explained model limitations and appropriate use cases for non-technical public health stakeholders and decision-makers.",
+        "Optimizing model performance for healthcare applications, implemented feature selection techniques that improved prediction accuracy while reducing computational requirements for large-scale public health data analysis.",
+        "Designing secure data access patterns for healthcare information, implemented proper encryption and access controls that protected sensitive health data while enabling authorized analytics and reporting functions.",
+        "Developing testing strategies for healthcare machine learning models, created validation frameworks that assessed model fairness and performance across different demographic groups to ensure equitable public health insights."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "Python",
+        "scikit-learn",
+        "AWS Glue",
+        "Flask",
+        "Docker",
+        "CloudWatch",
+        "REST APIs",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python with pandas for financial data analysis, developed risk assessment models that processed transaction data while maintaining PCI compliance through proper data handling and encryption practices.",
+        "Implementing machine learning models with scikit-learn for fraud detection, created ensemble approaches that combined multiple algorithms to identify suspicious patterns in financial transactions with improved accuracy.",
+        "Leveraging SQL for financial data extraction and aggregation, designed complex queries that consolidated information from multiple banking systems while ensuring data quality and consistency for regulatory reporting.",
+        "Creating data visualization dashboards with Tableau for risk reporting, developed interactive displays that helped business stakeholders understand model outputs and make informed decisions about fraud prevention strategies.",
+        "Designing feature engineering pipelines for financial data, implemented transformation workflows that extracted meaningful patterns from transaction histories while maintaining audit trails for model explainability requirements.",
+        "Developing model validation frameworks for banking applications, created testing procedures that assessed performance across different customer segments and transaction types to ensure consistent fraud detection capability.",
+        "Implementing A/B testing for model deployment, designed experiments that compared new fraud detection approaches against existing systems while maintaining statistical rigor and proper performance measurement.",
+        "Collaborating with compliance teams on model documentation, created comprehensive reports that explained model logic and decision processes for regulatory review and audit purposes in banking environments.",
+        "Optimizing data processing pipelines for performance, implemented efficient data structures and algorithms that reduced processing time for large-scale financial transaction analysis while maintaining accuracy.",
+        "Creating monitoring systems for model performance, developed tracking mechanisms that identified degradation in fraud detection accuracy and triggered alerts for model retraining or investigation."
+      ],
+      "environment": [
+        "Python",
+        "pandas",
+        "scikit-learn",
+        "SQL",
+        "Tableau",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Jupyter Notebook",
+        "Git",
+        "Linux"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop for large-scale data processing in consulting projects, implemented MapReduce jobs that transformed client data while learning distributed computing concepts and troubleshooting cluster performance issues.",
+        "Leveraging Informatica for ETL pipeline development, designed data integration workflows that consolidated information from multiple source systems while ensuring data quality and consistency for client analytics.",
+        "Implementing Sqoop for data transfer between systems, configured ingestion pipelines that moved data between relational databases and Hadoop clusters while optimizing performance for large dataset transfers.",
+        "Creating data validation scripts with Python, developed automated checks that identified data quality issues in ETL pipelines and provided detailed reports for data reconciliation and troubleshooting.",
+        "Designing database schemas for analytics applications, developed dimensional models that supported client reporting requirements while learning best practices for data modeling and performance optimization.",
+        "Collaborating with senior engineers on pipeline optimization, assisted in performance tuning of ETL processes and learned debugging techniques for identifying bottlenecks in complex data integration workflows.",
+        "Developing documentation for data pipelines, created technical specifications and operational runbooks that explained ETL logic and troubleshooting procedures for client support and maintenance teams.",
+        "Implementing basic monitoring for data processing jobs, configured alerting mechanisms that notified teams of ETL failures or data quality issues while learning enterprise operations and support procedures."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "Linux",
+        "Shell Scripting",
+        "Oracle Database",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

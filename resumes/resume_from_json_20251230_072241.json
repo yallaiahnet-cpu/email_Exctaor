@@ -1,0 +1,304 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI & Data Engineering Architect - Snowflake Cortex AI & AWS ETL",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Professional with a decade of experience specializing in Insurance, Healthcare, Banking, and Consulting domains, now focusing on designing and operating enterprise-scale AWS ETL pipelines that power Snowflake Cortex AI initiatives and advanced analytics platforms for complex business workloads.",
+    "Employ Snowflake Cortex AI to architect and operationalize intelligent data platforms, translating complex enterprise data into actionable AI-driven insights that support critical business decisions across diverse industry verticals.",
+    "Construct scalable AWS ETL pipelines using Glue and Lambda, ensuring efficient data integration and transformation workflows that feed directly into Snowflake data models for both batch processing and streaming data use cases.",
+    "Apply AWS ETL services to build and maintain high-performance data pipelines, focusing on robust data integration patterns that guarantee the availability and quality of information for enterprise AI systems and analytics teams.",
+    "Formulate data transformation logic and batch processing routines within the AWS ecosystem, utilizing services like S3 and managed Spark to process large datasets before loading them into Snowflake for Cortex AI consumption.",
+    "Establish streaming data processing capabilities on AWS to enable real-time analytics, designing systems that handle continuous data flows and support timely decision-making for enterprise AI applications.",
+    "Configure and optimize the interaction between AWS ETL components and the Snowflake data cloud, creating a seamless data engineering ecosystem that underpins all Cortex AI and advanced analytics initiatives.",
+    "Develop comprehensive data quality frameworks and monitoring for AWS-based ETL pipelines, implementing checks and balances that ensure reliable data feeds for sensitive enterprise AI systems and regulatory reporting.",
+    "Integrate Cortex AI functions directly into data workflows, using Snowflake's built-in AI capabilities to enrich data assets and create new features for predictive models and analytical dashboards across business units.",
+    "Design workflow orchestration for complex ETL dependencies on AWS, coordinating multiple data extraction, transformation, and loading jobs to maintain consistent data pipelines for AI and analytics consumption.",
+    "Implement cloud cost optimization strategies for large-scale ETL workloads on AWS, carefully selecting instance types, storage options, and processing methods to balance performance with budgetary constraints for enterprise projects.",
+    "Enforce data governance and security protocols within AWS ETL pipelines, applying encryption, access controls, and audit trails to protect sensitive information throughout the data integration lifecycle.",
+    "Coordinate between data engineering, cloud architecture, and analytics teams to align ETL pipeline development with Cortex AI project requirements, ensuring technical solutions directly address business needs.",
+    "Adapt architectural thinking to design future-proof AWS ETL and AI systems, planning for scalability and evolving data volumes while maintaining system performance and reliability for enterprise users.",
+    "Provide mentorship and technical guidance to junior data engineers on ETL best practices and Cortex AI implementation, fostering skill development and knowledge sharing within the data and AI engineering team.",
+    "Execute cross-team collaboration initiatives to integrate AWS ETL outputs with various analytics platforms, facilitating data accessibility and empowering business users with self-service data exploration tools.",
+    "Administer the full lifecycle of enterprise AI systems, from initial data ingestion through ETL processing to final model deployment and inference using Snowflake Cortex AI and complementary AWS services.",
+    "Assemble documentation and runbooks for operational ETL pipelines, detailing procedures for routine maintenance, troubleshooting steps, and disaster recovery plans to ensure system resilience."
+  ],
+  "technical_skills": {
+    "Enterprise AI & Analytics Platforms": [
+      "Snowflake Cortex AI",
+      "Snowflake",
+      "Enterprise AI Systems",
+      "Information Technology"
+    ],
+    "AI & Machine Learning Engineering": [
+      "Artificial Intelligence",
+      "AI Engineering",
+      "Machine Learning Models",
+      "Deep Learning Models"
+    ],
+    "Cloud Data Engineering (AWS)": [
+      "AWS ETL Services",
+      "AWS Glue",
+      "Amazon S3",
+      "AWS Lambda",
+      "Amazon Redshift",
+      "Apache Spark on AWS",
+      "Amazon Kinesis",
+      "AWS RDS"
+    ],
+    "ETL & Data Pipeline Architecture": [
+      "ETL Pipelines",
+      "Data Integration",
+      "Data Transformation",
+      "Batch Processing",
+      "Streaming Data Processing",
+      "Apache Airflow",
+      "Data Quality Frameworks",
+      "Workflow Orchestration"
+    ],
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Java",
+      "Bash/Shell Scripting"
+    ],
+    "Big Data & Distributed Processing": [
+      "Apache Spark",
+      "Databricks",
+      "Apache Hadoop",
+      "Hive",
+      "MapReduce"
+    ],
+    "Data Warehousing & Databases": [
+      "Snowflake",
+      "Amazon Redshift",
+      "PostgreSQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Amazon ECS",
+      "Amazon EKS"
+    ],
+    "DevOps & DataOps": [
+      "Git",
+      "Jenkins",
+      "Terraform",
+      "CI/CD Pipelines",
+      "Infrastructure as Code"
+    ],
+    "Data Governance & Security": [
+      "Data Encryption",
+      "IAM Policies",
+      "Data Cataloging",
+      "Compliance Frameworks (HIPAA, PCI-DSS)",
+      "Audit Logging"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Plan and design multi-agent AI systems for insurance claim processing using LangGraph and Databricks, focusing on automating complex workflows that handle policy validation, damage assessment, and fraud detection in a single orchestrated pipeline.",
+        "Implement a proof of concept for a conversational AI assistant using Model Context Protocol, building agents that can access and interpret policy documents and regulatory guidelines to provide accurate answers to customer service representatives.",
+        "Deploy a real-time data pipeline on AWS Glue that ingests streaming claim data from S3, transforms it using PySpark on Databricks, and loads curated datasets into Snowflake to fuel Cortex AI models for predictive analytics.",
+        "Monitor the performance and accuracy of deployed multi-agent systems, setting up logging and alerting in CloudWatch to track agent interactions, identify bottlenecks, and ensure compliance with insurance industry regulations.",
+        "Optimize batch ETL jobs processing terabyte-scale historical policy data, rewriting Spark SQL transformations to reduce runtime and cost while improving data quality for actuarial models and risk assessment algorithms.",
+        "Troubleshoot a critical data discrepancy in the agent-to-agent communication layer built with Google's frameworks, debugging Python code to fix a silent failure in message passing that was affecting claim routing logic.",
+        "Architect a serverless orchestration layer using AWS Step Functions and Lambda to coordinate between different AI agents, managing state transitions and error handling for the entire claims adjudication process.",
+        "Construct a data validation framework that runs parallel to the main ETL pipeline, using AWS Glue DataBrew to profile data and flag anomalies before they impact the Snowflake-based Cortex AI models.",
+        "Establish a continuous integration pipeline for AI model updates, containerizing agents with Docker and managing deployments via ECS to ensure seamless rollouts of improved multi-agent logic.",
+        "Review and refactor legacy PySpark code for the premium calculation ETL, improving readability and maintainability while adding unit tests that verify business logic alignment with state insurance regulations.",
+        "Prepare technical documentation and runbooks for the newly built AI systems, detailing operational procedures, scaling guidelines, and fallback mechanisms for the claims processing multi-agent architecture.",
+        "Configure Snowflake Cortex AI functions to perform sentiment analysis on customer call transcripts, enriching claim data with emotional context to help adjusters prioritize cases requiring sensitive handling.",
+        "Integrate AWS Kinesis Data Streams for real-time ingestion of IoT data from connected home devices, processing this streaming information to trigger proactive insurance alerts via the multi-agent system.",
+        "Validate the entire data flow from source S3 buckets through Glue ETL jobs to Snowflake tables, ensuring data lineage is traceable for compliance audits and model governance reviews.",
+        "Enhance the LangGraph-based orchestration with persistent memory, implementing a Redis cache to maintain conversation context across multiple customer interactions for complex insurance inquiries.",
+        "Lead weekly design sessions with data engineers and cloud architects, whiteboarding solutions to integrate new data sources into the existing AWS ETL ecosystem supporting the enterprise AI platform."
+      ],
+      "environment": [
+        "Snowflake Cortex AI",
+        "Databricks",
+        "PySpark",
+        "LangGraph",
+        "AWS Glue",
+        "Amazon S3",
+        "AWS Lambda",
+        "Amazon Redshift",
+        "Apache Spark",
+        "SQL",
+        "Data Quality Frameworks",
+        "Workflow Orchestration",
+        "AWS ETL Services",
+        "ETL Pipelines",
+        "Data Integration",
+        "Data Transformation",
+        "Batch Processing",
+        "Streaming Data Processing",
+        "Enterprise AI Systems",
+        "Artificial Intelligence",
+        "AI Engineering"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed a HIPAA-compliant data ingestion pipeline on AWS Glue that securely processed patient clinical trial data from S3, applied de-identification transformations, and loaded it into Snowflake for AI model training.",
+        "Built a proof-of-concept multi-agent system using LangChain to automate pharmacovigilance report analysis, where different AI agents specialized in extracting adverse events, drug interactions, and patient demographics from unstructured documents.",
+        "Created batch ETL workflows with AWS Glue PySpark jobs to transform and integrate manufacturing quality data, establishing reliable data pipelines that fed into Snowflake Cortex AI models predicting equipment maintenance needs.",
+        "Deployed an AWS Lambda-based data quality checker that validated clinical data against FDA submission standards before allowing it to proceed through the ETL pipeline to Snowflake, ensuring regulatory compliance.",
+        "Monitored streaming ETL jobs processing real-time sensor data from medical device production lines, using CloudWatch metrics to track throughput and identify delays that could impact quality control AI alerts.",
+        "Optimized complex SQL queries and views within Snowflake to accelerate Cortex AI model inference times, restructuring joins and implementing clustering keys on frequently queried patient cohort tables.",
+        "Troubleshooted a data inconsistency issue between the AWS Glue catalog and Snowflake metadata, tracing the problem to a timezone conversion error in the PySpark script and implementing a fix.",
+        "Architected a data lakehouse pattern on AWS using S3 for raw storage, Glue for processing, and Snowflake for curated analytics, enabling both AI and traditional BI workloads on the same healthcare data assets.",
+        "Established a data governance framework for the ETL pipelines, tagging sensitive patient data and enforcing access controls at each processing stage to maintain strict HIPAA compliance across all systems.",
+        "Configured AWS Step Functions to orchestrate dependencies between multiple Glue jobs, ensuring proper sequencing for data pipelines that combined clinical, operational, and research datasets.",
+        "Reviewed PySpark code written by junior engineers for a new drug efficacy analysis pipeline, suggesting improvements to error handling and adding checkpointing to handle intermittent network issues.",
+        "Prepared technical specifications for integrating real-time wearable device data streams, designing an architecture using Kinesis and Lambda to feed immediate patient health metrics into the AI platform.",
+        "Validated the output of LangChain agents extracting protocol deviations from clinical study reports, manually sampling results to verify accuracy before allowing the system to proceed to production use.",
+        "Enhanced the data transformation logic in Glue jobs to better handle missing values in patient records, implementing domain-specific imputation rules developed in consultation with medical statisticians."
+      ],
+      "environment": [
+        "Snowflake Cortex AI",
+        "LangChain",
+        "AWS Glue",
+        "Amazon S3",
+        "AWS Lambda",
+        "Amazon Redshift",
+        "Apache Spark",
+        "SQL",
+        "Data Quality Frameworks",
+        "Workflow Orchestration",
+        "AWS ETL Services",
+        "ETL Pipelines",
+        "Data Integration",
+        "Data Transformation",
+        "Batch Processing",
+        "Streaming Data Processing",
+        "Enterprise AI Systems",
+        "Artificial Intelligence",
+        "AI Engineering"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planned the migration of on-premises healthcare ETL processes to Azure Data Factory, mapping existing SSIS packages to cloud-native data integration activities while maintaining HIPAA-compliant data handling for public health records.",
+        "Implemented batch data pipelines in Azure Data Factory that extracted Medicaid claim data from SQL Server, transformed it using data flow activities, and loaded dimension and fact tables into Azure Synapse for analytics.",
+        "Deployed predictive models for hospital readmission risk as Azure ML endpoints, creating ADF pipelines that scored patient data daily and loaded results back into Synapse for care management team dashboards.",
+        "Monitored pipeline performance and data quality using Azure Monitor and custom log analytics queries, setting up alerts for job failures or data freshness issues that could impact public health reporting deadlines.",
+        "Optimized slowly changing dimension processing in the ETL pipelines, redesigning Merge statements in Synapse to improve performance when updating patient demographic information from weekly eligibility extracts.",
+        "Troubleshooted a recurring timeout in a complex data flow that joined claims with pharmacy data, breaking the transformation into smaller stages and implementing incremental load patterns to resolve the issue.",
+        "Architected a metadata-driven ETL framework in ADF that used configuration tables in Azure SQL Database to control pipeline execution parameters, making the system more maintainable for the state IT team.",
+        "Constructed data validation checks within the ADF pipelines that compared record counts and aggregate totals between source and target systems, flagging discrepancies for manual investigation by data stewards.",
+        "Established a secure data transfer process from external healthcare providers using Azure Blob Storage with encryption and managed identities, ensuring protected health information remained confidential throughout ingestion.",
+        "Configured Azure DevOps CI/CD pipelines for the Data Factory resources, enabling version control and controlled deployments of ETL logic changes across development, test, and production environments.",
+        "Reviewed T-SQL transformation logic in stored procedures that calculated public health metrics, optimizing query performance to meet reporting SLAs for the state health department leadership.",
+        "Prepared operational documentation for the newly deployed cloud ETL system, including runbooks for common support tasks and disaster recovery procedures for critical healthcare data pipelines."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse",
+        "Azure SQL Database",
+        "Azure Blob Storage",
+        "Azure ML",
+        "SQL",
+        "Data Quality Frameworks",
+        "Workflow Orchestration",
+        "ETL Pipelines",
+        "Data Integration",
+        "Data Transformation",
+        "Batch Processing",
+        "Enterprise AI Systems",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Designed an Azure-based ETL solution to process daily credit card transaction data, using Data Factory to orchestrate pipelines that transformed raw transactions into features for fraud detection machine learning models.",
+        "Built data transformation logic in T-SQL within Azure SQL Database to create customer behavior profiles, aggregating transaction patterns while ensuring PCI-DSS compliance through encryption and secure data handling practices.",
+        "Created batch processing jobs that ran overnight to score millions of transactions using deployed Azure ML models, loading risk scores into operational data stores for the fraud investigation team's morning review.",
+        "Deployed monitoring dashboards in Power BI that tracked ETL pipeline performance and data quality metrics, providing visibility into the health of the data feeds supporting real-time fraud analytics.",
+        "Optimized the performance of complex feature engineering queries by introducing indexed views and partitioning strategies in Azure SQL Database, reducing model preparation time before daily batch scoring runs.",
+        "Troubleshooted data synchronization issues between on-premises mainframe systems and Azure cloud storage, working with infrastructure teams to adjust network configurations and firewall rules for secure data transfer.",
+        "Architected a change data capture implementation for customer profile updates, using Azure Functions to process change events and keep the analytical data store synchronized with source systems.",
+        "Established data validation rules that checked transaction amounts and merchant categories against expected ranges, preventing corrupted data from entering the fraud detection model training pipelines.",
+        "Configured Azure Data Factory linked services and integration runtimes to connect securely to various internal banking data sources, managing authentication credentials in Azure Key Vault for enhanced security.",
+        "Prepared documentation detailing the data lineage from source systems through transformation to model inputs, supporting audit requirements for the bank's model risk management and compliance teams."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure ML",
+        "Azure Blob Storage",
+        "Azure Functions",
+        "SQL",
+        "Data Quality Frameworks",
+        "ETL Pipelines",
+        "Data Integration",
+        "Data Transformation",
+        "Batch Processing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to develop Informatica PowerCenter workflows for a retail client's data warehouse, extracting sales data from Oracle databases, applying business transformation rules, and loading results into Netezza for reporting.",
+        "Built Sqoop scripts to move customer data from relational databases into Hadoop HDFS as part of a big data proof of concept, scheduling these jobs through Oozie to run during nightly maintenance windows.",
+        "Created Hive queries to transform raw clickstream data stored in HDFS into aggregated session tables, enabling web analytics for the consulting client's digital marketing team to optimize customer journeys.",
+        "Deployed monitoring checks for the Informatica workflows using shell scripts that parsed session logs and sent email alerts for any job failures, helping maintain reliable daily data loads for business users.",
+        "Optimized MapReduce jobs written in Java by adjusting the number of reducers and implementing combiners, reducing processing time for large-scale product recommendation calculations running on the Hadoop cluster.",
+        "Troubleshooted data quality issues in the ETL pipelines by examining intermediate files and comparing source-to-target counts, developing a systematic approach to identifying transformation logic problems.",
+        "Assisted senior engineers in documenting the end-to-end data flow architecture for a client's customer 360 initiative, creating diagrams that showed how multiple source systems fed the consolidated data warehouse.",
+        "Prepared test cases for ETL code changes, validating that new transformation logic correctly handled edge cases and maintained backward compatibility with existing downstream reports and dashboards."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Oracle",
+        "Netezza",
+        "Shell Scripting",
+        "ETL Pipelines",
+        "Data Integration",
+        "Data Transformation",
+        "Batch Processing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

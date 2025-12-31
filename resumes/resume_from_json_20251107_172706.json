@@ -1,0 +1,201 @@
+{
+  "name": "Praneeth Reddy Thumma",
+  "title": "Senior ETL Developer - AWS Cloud Data Engineering",
+  "contact": {
+    "email": "reddypraneeth4455@gmail.com",
+    "phone": "+1 332-333-5441",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Over 8 years of experience in data engineering, using AWS Glue Studio and PySpark to handle healthcare data processing challenges, building scalable ETL pipelines that transformed raw patient data into structured formats for clinical decision support while maintaining HIPAA compliance.",
+    "Applied PostgreSQL for healthcare data warehousing needs, designing optimized schemas that improved query performance for patient eligibility checks and claims processing, which actually reduced report generation time from hours to just minutes for Medicaid operations.",
+    "Implemented AWS Lambda functions with Step Functions orchestration to automate mainframe batch job migrations, creating serverless workflows that processed millions of healthcare claims daily while cutting infrastructure costs by about 40% compared to traditional ETL.",
+    "Integrated REST APIs with AWS data services to establish real-time data exchange between healthcare providers and our analytics platform, solving interoperability issues that previously delayed patient care coordination by several days across medical systems.",
+    "Configured AWS CodeCommit, CodeBuild, and CodePipeline to establish CI/CD workflows for our ETL codebase, streamlining deployment processes and reducing manual errors during quarterly healthcare compliance updates for HIPAA and CMS regulations.",
+    "Developed PySpark data transformations for processing sensitive healthcare information, implementing data quality checks that identified inconsistencies in patient records and improved data accuracy for critical care reporting by roughly 30%.",
+    "Built cloud-based data pipelines using AWS services that handled terabytes of insurance claims data, incorporating data validation rules that caught duplicate submissions and potentially saved millions in erroneous payment processing annually.",
+    "Collaborated with cross-functional teams in Agile environment to design ETL solutions for healthcare analytics, participating in daily standups and code reviews that helped identify performance bottlenecks in data processing workflows early.",
+    "Utilized JIRA for tracking ETL development tasks and bug fixes, maintaining detailed documentation of data lineage that proved essential during HIPAA compliance audits and internal security assessments of healthcare data handling.",
+    "Engineered data integration solutions between legacy healthcare systems and modern AWS cloud infrastructure, overcoming compatibility challenges that had previously hindered real-time analytics for patient population health management."
+  ],
+  "technical_skills": {
+    "Cloud Data Engineering": [
+      "AWS Glue Studio",
+      "PySpark",
+      "AWS Lambda",
+      "Step Functions",
+      "PostgreSQL",
+      "Data Warehousing",
+      "ETL Pipelines",
+      "Data Modeling"
+    ],
+    "DevOps & Automation": [
+      "AWS CodeCommit",
+      "CodeBuild",
+      "CodePipeline",
+      "CI/CD",
+      "JIRA",
+      "Agile Methodology",
+      "Linux Scripting",
+      "Infrastructure as Code"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "PySpark SQL",
+      "Shell Scripting",
+      "JSON Processing",
+      "Data Transformation"
+    ],
+    "Database Technologies": [
+      "PostgreSQL",
+      "AWS RDS",
+      "Data Warehousing",
+      "SQL Optimization",
+      "Database Design",
+      "Query Tuning"
+    ],
+    "API Integration": [
+      "REST APIs",
+      "API Gateway",
+      "JSON/XML Processing",
+      "Web Services",
+      "Data Integration",
+      "API Development"
+    ],
+    "Healthcare Data Domains": [
+      "HIPAA Compliance",
+      "Healthcare Claims",
+      "Patient Data",
+      "Clinical Analytics",
+      "Medicaid Systems",
+      "PHI Handling"
+    ],
+    "Data Processing Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "ETL Development",
+      "Data Transformation",
+      "Batch Processing",
+      "Data Validation"
+    ],
+    "Cloud Services": [
+      "AWS Glue",
+      "AWS Lambda",
+      "Step Functions",
+      "CloudWatch",
+      "S3",
+      "IAM",
+      "VPC",
+      "Security Groups"
+    ],
+    "Monitoring & Logging": [
+      "AWS CloudWatch",
+      "Log Analytics",
+      "Performance Monitoring",
+      "Error Tracking",
+      "Alert Systems"
+    ],
+    "Version Control & Collaboration": [
+      "AWS CodeCommit",
+      "Git",
+      "JIRA",
+      "Confluence",
+      "Agile Methodologies",
+      "Team Collaboration"
+    ],
+    "Data Security & Compliance": [
+      "HIPAA Compliance",
+      "Data Encryption",
+      "Access Controls",
+      "PHI Protection",
+      "Audit Trails",
+      "Data Governance"
+    ],
+    "Data Quality & Validation": [
+      "Data Profiling",
+      "Quality Checks",
+      "Validation Rules",
+      "Error Handling",
+      "Data Cleansing",
+      "Anomaly Detection"
+    ]
+  },
+  "experience": [
+    {
+      "role": "ETL Developer",
+      "client": "Molina Healthcare",
+      "duration": "2023-Jul - Present",
+      "location": "",
+      "responsibilities": [
+        "Using AWS Glue Studio to address slow healthcare data processing, I developed PySpark scripts that transformed raw patient records into structured formats, reducing ETL job runtime from 4 hours to about 45 minutes for daily Medicaid eligibility processing.",
+        "Applied PostgreSQL for optimizing healthcare data warehouse queries, redesigning table indexes and partitioning strategies that improved claim adjudication report performance by roughly 60% while maintaining ACID compliance for financial transactions.",
+        "Implemented AWS Lambda functions to handle real-time data validation, creating serverless checks that verified patient demographic information against provider databases and reduced data quality issues by approximately 35% across our member systems.",
+        "Integrated Step Functions with existing ETL workflows to orchestrate complex data processing pipelines, building state machines that managed dependencies between different healthcare data sources and eliminated manual intervention in daily batch processes.",
+        "Configured AWS CodePipeline for continuous deployment of our ETL code, establishing automated testing gates that caught regression issues before production deployment and significantly reduced weekend deployment stress for our team.",
+        "Developed REST API integrations between legacy mainframe systems and AWS data services, solving data synchronization problems that previously caused discrepancies in patient care coordination across different healthcare provider networks.",
+        "Built data quality frameworks using PySpark transformations that identified anomalies in healthcare claims data, implementing validation rules that flagged potentially fraudulent billing patterns and improved payment accuracy for our audit teams.",
+        "Collaborated with healthcare compliance teams to ensure ETL processes met HIPAA requirements, participating in design reviews that incorporated data encryption and access controls for protected health information throughout our data pipelines.",
+        "Utilized JIRA for tracking ETL development sprints and production issues, maintaining detailed documentation that helped new team members understand the complex data flows between our various healthcare administration systems.",
+        "Engineered performance optimizations for large-scale data processing jobs, tuning PySpark configurations and memory settings that handled seasonal spikes in healthcare claims during flu season without additional infrastructure costs.",
+        "Implemented data lineage tracking for healthcare analytics, building metadata repositories that traced patient information from source systems to final reports, which proved invaluable during regulatory audits and internal compliance checks.",
+        "Worked on migrating remaining mainframe batch processes to AWS cloud, analyzing legacy COBOL programs and recreating business logic in Python that maintained data integrity while modernizing our healthcare data infrastructure for future scalability."
+      ],
+      "environment": [
+        "AWS Glue Studio, PySpark, PostgreSQL, AWS Lambda, Step Functions, REST APIs, AWS CodeCommit, CodeBuild, CodePipeline, JIRA, Python, SQL, Linux, Healthcare Data, HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Wipro India",
+      "duration": "2017-Jul - 2021-Nov",
+      "location": "",
+      "responsibilities": [
+        "Using AWS data services to build insurance claim processing pipelines, I developed ETL workflows that transformed raw policy data into analytical formats, reducing manual data preparation time by about 50% for our actuarial teams.",
+        "Applied PySpark for large-scale data processing of insurance transactions, implementing distributed computing solutions that handled seasonal spikes in claim volumes during natural disaster periods without service degradation.",
+        "Implemented data validation frameworks using Python scripts that checked insurance policy consistency across different source systems, identifying data quality issues that previously caused calculation errors in premium computations.",
+        "Integrated AWS services with existing data warehouse infrastructure, building hybrid solutions that migrated legacy insurance data to cloud storage while maintaining backward compatibility with existing reporting tools.",
+        "Configured basic CI/CD pipelines for data engineering code, establishing version control practices that improved collaboration between our distributed team members working on different insurance product lines.",
+        "Developed SQL queries and stored procedures for insurance data analysis, optimizing database performance that accelerated monthly financial reporting from taking days to just hours for executive review meetings.",
+        "Built data extraction routines from mainframe systems to AWS cloud, solving character encoding issues that previously corrupted special characters in policyholder names and addresses during migration processes.",
+        "Collaborated with business analysts to understand insurance domain requirements, translating complex underwriting rules into technical specifications that guided our ETL development for policy administration systems.",
+        "Utilized JIRA for tracking data engineering tasks and bug fixes, learning to estimate effort more accurately over time which improved our sprint planning accuracy for insurance data project deliverables.",
+        "Engineered data integration solutions between different insurance platforms, creating mapping documents that standardized data formats across life, health, and property insurance product lines for consolidated reporting."
+      ],
+      "environment": [
+        "AWS, PySpark, Python, SQL, ETL, Data Warehousing, Data Modeling, JIRA, Insurance Data, Mainframe Systems, Data Migration"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "DXC Technologies India",
+      "duration": "2015-May - 2017-Jun",
+      "location": "",
+      "responsibilities": [
+        "Using SQL for healthcare data analysis, I wrote complex queries that extracted patient information from operational systems, creating reports that helped clinical teams identify treatment pattern variations across different provider networks.",
+        "Applied basic ETL concepts to transform raw healthcare data into analytical formats, building simple data pipelines that automated manual Excel reporting processes and reduced human errors in monthly performance metrics.",
+        "Implemented data validation checks in my analysis scripts, identifying inconsistencies in patient demographic data that improved the accuracy of our population health studies by roughly 20% over previous methods.",
+        "Integrated different healthcare data sources for consolidated reporting, working with senior team members to understand data relationships between clinical, financial, and operational systems in hospital environments.",
+        "Developed my first Python scripts for data processing tasks, initially struggling with pandas dataframes but gradually building confidence through small projects that automated repetitive data cleaning activities.",
+        "Collaborated with healthcare business users to gather reporting requirements, learning to ask better questions about data needs which improved the relevance of my analytical outputs for decision-making purposes."
+      ],
+      "environment": [
+        "SQL, Python, Excel, Data Analysis, Healthcare Data, Reporting, ETL Concepts, Data Validation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Missouri Kansas City",
+      "degree": "Master's",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": [
+    "AWS Certified Data Engineer - Associate",
+    "Databricks Certified Data Engineer Associate"
+  ]
+}

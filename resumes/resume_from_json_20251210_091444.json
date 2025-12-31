@@ -1,0 +1,285 @@
+{
+  "name": "Aravind Datla",
+  "title": "AWS Data Engineer",
+  "contact": {
+    "email": "aravind.095.r@gmail.com",
+    "phone": "+1 860-479-2345",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/datla-aravind-6229a6204",
+    "github": ""
+  },
+  "professional_summary": [
+    "AWS data engineer with 9 years of experience in healthcare data pipelines, developed Python-based ETL solutions that process millions of patient records while maintaining HIPAA compliance and leveraging OpenAI for data quality validation.",
+    "Created comprehensive AWS-native data architectures for healthcare analytics, utilizing S3 for data storage, Lambda for serverless processing, and CloudWatch for monitoring, resulting in improved data accessibility across enterprise systems.",
+    "Applied advanced Airflow orchestration techniques to automate complex healthcare data workflows, reducing manual intervention by implementing DAGs that scheduled and monitored ETL jobs across multiple AWS services.",
+    "Built RESTful APIs using Python and AWS API Gateway to facilitate secure data exchange between healthcare systems, ensuring proper authentication and authorization while maintaining compliance with healthcare regulations.",
+    "Utilized AWS Glue for cataloging and transforming healthcare datasets, creating data lakes that enabled faster analytics and reporting capabilities for clinical decision support systems.",
+    "Implemented CI/CD pipelines using Harness to automate deployment of data engineering solutions, ensuring consistent and reliable delivery of ETL processes while maintaining code quality through automated testing.",
+    "Worked closely with healthcare compliance teams to integrate OpenAI models for patient data analysis, ensuring all implementations followed HIPAA guidelines and protected sensitive patient information.",
+    "Developed monitoring solutions using CloudWatch and custom Python scripts to track ETL pipeline performance, creating alerts that notified teams of potential issues before they impacted downstream analytics.",
+    "Designed serverless architectures using AWS Lambda and Step Functions to process healthcare claims data, reducing infrastructure costs while improving scalability and performance of data processing workflows.",
+    "Applied containerization with Docker to package Python-based ETL applications, ensuring consistent execution environments across development, testing, and production stages of healthcare data projects.",
+    "Collaborated with data science teams to integrate OpenAI capabilities into healthcare analytics platforms, enabling advanced natural language processing for extracting insights from unstructured medical records.",
+    "Operationalized data governance frameworks using AWS services to maintain data lineage and quality, implementing automated validation checks that ensured compliance with healthcare industry standards.",
+    "Contributed to the migration of legacy healthcare data systems to AWS, developing migration strategies that minimized downtime and ensured data integrity throughout the transition process.",
+    "Created comprehensive documentation for ETL processes and data architectures, facilitating knowledge sharing across teams and ensuring continuity of healthcare data operations during personnel changes.",
+    "Helped optimize AWS resource utilization for healthcare data workloads, implementing cost-saving measures that reduced monthly cloud expenses while maintaining required performance levels.",
+    "Secured sensitive healthcare data through implementation of AWS security best practices, including encryption at rest and in transit, role-based access controls, and regular security audits.",
+    "Partnered with clinical stakeholders to understand data requirements and translate them into technical specifications, ensuring ETL solutions met the evolving needs of healthcare providers.",
+    "Achieved certification in AWS data engineering practices, demonstrating expertise in cloud-native data solutions that aligned with the organization's strategic technology roadmap for healthcare innovation."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Java",
+      "JavaScript"
+    ],
+    "Frameworks": [
+      "Airflow",
+      "Django",
+      "Flask",
+      "Spark"
+    ],
+    "Frontend": [
+      "React",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "Backend": [
+      "Node.js",
+      "Django",
+      "Flask",
+      "Express"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "S3",
+      "Lambda",
+      "Glue",
+      "Step Functions",
+      "CloudWatch",
+      "EKS"
+    ],
+    "DevOps Tools": [
+      "Harness",
+      "Helix",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Terraform"
+    ],
+    "Testing Tools": [
+      "Pytest",
+      "Jest",
+      "Selenium",
+      "Postman"
+    ],
+    "Monitoring": [
+      "CloudWatch",
+      "Grafana",
+      "Prometheus",
+      "ELK Stack"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket"
+    ],
+    "Security": [
+      "IAM",
+      "VPC",
+      "Security Groups",
+      "WAF"
+    ],
+    "AI/ML": [
+      "OpenAI",
+      "SageMaker",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "ETL": [
+      "AWS Glue",
+      "Informatica",
+      "Talend",
+      "Apache NiFi"
+    ],
+    "APIs": [
+      "REST",
+      "GraphQL",
+      "SOAP",
+      "gRPC"
+    ],
+    "CI/CD": [
+      "Harness",
+      "Jenkins",
+      "GitLab CI",
+      "CircleCI"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AWS Data Engineer",
+      "client": "CVS Health",
+      "duration": "2024-Jan - Present",
+      "location": "Woonsocket, RI",
+      "responsibilities": [
+        "Designed and implemented AWS-native ETL pipelines using Python and Airflow to process millions of healthcare records, ensuring HIPAA compliance while leveraging OpenAI for data quality validation and anomaly detection.",
+        "Created serverless data processing architecture using AWS Lambda and Step Functions to transform patient data from various sources into standardized formats, reducing processing time by implementing parallel execution patterns.",
+        "Developed RESTful APIs using AWS API Gateway and Lambda functions to provide secure access to healthcare data, implementing proper authentication mechanisms that protected sensitive patient information while enabling seamless integration.",
+        "Built comprehensive monitoring solution using CloudWatch and custom Python scripts to track ETL pipeline performance, creating automated alerts that notified teams of potential issues before they impacted downstream analytics.",
+        "Applied AWS Glue for cataloging and transforming healthcare datasets, creating data lakes that enabled faster analytics and reporting capabilities for clinical decision support systems across CVS Health systems.",
+        "Utilized Docker to containerize Python-based ETL applications, ensuring consistent execution environments across development, testing, and production stages of healthcare data projects.",
+        "Implemented CI/CD pipelines using Harness to automate deployment of data engineering solutions, ensuring consistent and reliable delivery of ETL processes while maintaining code quality through automated testing.",
+        "Worked closely with healthcare compliance teams to integrate OpenAI models for patient data analysis, ensuring all implementations followed HIPAA guidelines and protected sensitive patient information.",
+        "Optimized AWS resource utilization for healthcare data workloads, implementing cost-saving measures that reduced monthly cloud expenses while maintaining required performance levels for critical healthcare operations.",
+        "Secured sensitive healthcare data through implementation of AWS security best practices, including encryption at rest and in transit, role-based access controls, and regular security audits.",
+        "Partnered with clinical stakeholders to understand data requirements and translate them into technical specifications, ensuring ETL solutions met the evolving needs of healthcare providers.",
+        "Configured AWS S3 buckets with appropriate security policies and lifecycle rules to store healthcare data, implementing versioning and cross-region replication to ensure data durability and compliance.",
+        "Automated data validation processes using Python scripts and AWS Lambda to verify data quality before ingestion into downstream systems, reducing errors in healthcare analytics and reporting.",
+        "Collaborated with data science teams to integrate OpenAI capabilities into healthcare analytics platforms, enabling advanced natural language processing for extracting insights from unstructured medical records.",
+        "Deployed Airflow on AWS EC2 instances with high availability configuration, ensuring continuous operation of critical healthcare data workflows even during infrastructure maintenance or unexpected failures.",
+        "Created comprehensive documentation for ETL processes and data architectures, facilitating knowledge sharing across teams and ensuring continuity of healthcare data operations during personnel changes.",
+        "Resolved data pipeline issues through systematic troubleshooting of AWS services, Python code, and third-party integrations, minimizing downtime for critical healthcare data processing operations.",
+        "Participated in code reviews to maintain high standards for Python development and AWS architecture, providing constructive feedback that improved team capabilities and solution quality."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "ETL",
+        "OpenAI",
+        "Airflow",
+        "Harness",
+        "Helix",
+        "Lambda",
+        "S3",
+        "Glue",
+        "Step Functions",
+        "CloudWatch",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Git",
+        "CI/CD pipelines",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "AWS Data Engineer",
+      "client": "Capital One",
+      "duration": "2021-Sep - 2024-Jan",
+      "location": "McLean, VA",
+      "responsibilities": [
+        "Constructed AWS-based ETL pipelines using Python and Airflow to process banking transaction data, ensuring compliance with financial regulations while implementing automated data validation checks.",
+        "Developed Lambda functions to process real-time banking events from various sources, transforming and storing data in S3 for downstream analytics and reporting applications.",
+        "Implemented RESTful APIs using AWS API Gateway to provide secure access to banking data, creating authentication mechanisms that protected sensitive financial information while enabling seamless integration.",
+        "Utilized AWS Glue for cataloging and transforming banking datasets, establishing data lakes that supported fraud detection algorithms and financial reporting requirements.",
+        "Applied Docker to containerize Python-based ETL applications, ensuring consistent execution environments across development, testing, and production stages of banking data projects.",
+        "Established CI/CD pipelines using Harness to automate deployment of data engineering solutions, ensuring consistent and reliable delivery of ETL processes while maintaining code quality.",
+        "Worked with banking compliance teams to implement data governance frameworks, ensuring all data processing activities adhered to financial industry regulations and internal policies.",
+        "Optimized AWS resource utilization for banking data workloads, implementing cost-saving measures that reduced monthly cloud expenses while maintaining required performance levels.",
+        "Secured sensitive banking data through implementation of AWS security best practices, including encryption at rest and in transit, role-based access controls, and regular security audits.",
+        "Partnered with business analysts to understand banking data requirements and translate them into technical specifications, ensuring ETL solutions met the evolving needs of financial services.",
+        "Configured AWS S3 buckets with appropriate security policies and lifecycle rules to store banking data, implementing versioning and cross-region replication to ensure data durability and compliance.",
+        "Automated data validation processes using Python scripts and AWS Lambda to verify data quality before ingestion into downstream systems, reducing errors in financial analytics and reporting.",
+        "Created comprehensive documentation for ETL processes and data architectures, facilitating knowledge sharing across teams and ensuring continuity of banking data operations.",
+        "Resolved data pipeline issues through systematic troubleshooting of AWS services, Python code, and third-party integrations, minimizing downtime for critical banking data processing operations.",
+        "Participated in code reviews to maintain high standards for Python development and AWS architecture, providing constructive feedback that improved team capabilities and solution quality."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "ETL",
+        "Airflow",
+        "Harness",
+        "Helix",
+        "Lambda",
+        "S3",
+        "Glue",
+        "Step Functions",
+        "CloudWatch",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Git",
+        "CI/CD pipelines",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Ford",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "Dearborn, MI",
+      "responsibilities": [
+        "Constructed AWS-based data pipelines using Python to process automotive manufacturing data, ensuring compliance with industry standards while implementing automated data validation checks.",
+        "Developed Lambda functions to process real-time vehicle sensor data, transforming and storing information in S3 for downstream analytics and predictive maintenance applications.",
+        "Implemented RESTful APIs using AWS API Gateway to provide secure access to automotive data, creating authentication mechanisms that protected proprietary information while enabling seamless integration.",
+        "Utilized AWS Glue for cataloging and transforming automotive datasets, establishing data lakes that supported quality control algorithms and manufacturing optimization requirements.",
+        "Applied Docker to containerize Python-based data applications, ensuring consistent execution environments across development, testing, and production stages of automotive data projects.",
+        "Established CI/CD pipelines using Git and Jenkins to automate deployment of data engineering solutions, ensuring consistent and reliable delivery of data processes while maintaining code quality.",
+        "Worked with automotive quality teams to implement data governance frameworks, ensuring all data processing activities adhered to industry regulations and internal policies.",
+        "Optimized AWS resource utilization for automotive data workloads, implementing cost-saving measures that reduced monthly cloud expenses while maintaining required performance levels.",
+        "Secured sensitive automotive data through implementation of AWS security best practices, including encryption at rest and in transit, role-based access controls, and regular security audits.",
+        "Partnered with manufacturing engineers to understand data requirements and translate them into technical specifications, ensuring data solutions met the evolving needs of automotive production.",
+        "Configured AWS S3 buckets with appropriate security policies and lifecycle rules to store automotive data, implementing versioning and cross-region replication to ensure data durability and compliance.",
+        "Created comprehensive documentation for data processes and architectures, facilitating knowledge sharing across teams and ensuring continuity of automotive data operations."
+      ],
+      "environment": [
+        "AWS",
+        "Python",
+        "ETL",
+        "Lambda",
+        "S3",
+        "Glue",
+        "Step Functions",
+        "CloudWatch",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Git",
+        "CI/CD pipelines",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "SQL Developer",
+      "client": "iNautix Technologies INDIA Pvt Ltd",
+      "duration": "2016-May - 2019-Sep",
+      "location": "India",
+      "responsibilities": [
+        "Designed and implemented SQL-based data extraction processes for consulting projects, ensuring accurate retrieval of client data from various source systems while maintaining data integrity.",
+        "Developed stored procedures and functions to transform consulting data according to business requirements, creating standardized formats that supported analytics and reporting applications.",
+        "Optimized database queries to improve performance of consulting data operations, reducing execution time and enhancing system responsiveness for critical business processes.",
+        "Created database schemas and tables to store consulting project data, implementing appropriate constraints and indexes to ensure data quality and efficient access.",
+        "Collaborated with consulting teams to understand data requirements and translate them into technical specifications, ensuring database solutions met the evolving needs of client projects.",
+        "Documented database designs and SQL processes, facilitating knowledge sharing across teams and ensuring continuity of data operations during personnel changes.",
+        "Troubleshot database performance issues through systematic analysis of query execution plans and system metrics, implementing solutions that improved overall system efficiency.",
+        "Participated in code reviews to maintain high standards for SQL development, providing constructive feedback that improved team capabilities and solution quality.",
+        "Implemented data validation procedures using SQL scripts to verify data quality before ingestion into downstream systems, reducing errors in consulting analytics and reporting.",
+        "Worked with database administrators to maintain and optimize database systems, ensuring high availability and performance for critical consulting data operations."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "ETL",
+        "Git",
+        "REST APIs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "degree": "Bachelors",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

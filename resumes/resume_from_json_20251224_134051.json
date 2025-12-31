@@ -1,0 +1,279 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Big Data Architect & PySpark Engineer",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and implementing enterprise-scale big data solutions with deep expertise in PySpark, distributed computing, and cloud data platforms across Healthcare, Insurance, Government, and Finance sectors.",
+    "Architected scalable PySpark data pipelines on AWS to process petabytes of healthcare data, leveraging partitioning and caching strategies that reduced ETL job times by forty percent while ensuring strict HIPAA compliance and data governance standards.",
+    "Orchestrated complex ELT workflows using Apache Airflow to manage dependencies across multiple data sources including DB2, PostgreSQL, and Snowflake, improving data freshness for real-time analytics in insurance claim processing systems.",
+    "Led technical design sessions for big data platforms, translating business requirements from stakeholders into robust data models and Spark optimization techniques that supported critical government reporting and financial compliance.",
+    "Mentored junior data engineers on PySpark best practices, code review processes, and performance tuning methods, fostering a team capable of handling large-scale data processing challenges with distributed computing principles.",
+    "Engineered high-performance Spark applications by implementing query tuning, broadcast joins, and custom accumulators, solving slow-running jobs that were impacting downstream healthcare analytics and patient data insights.",
+    "Developed comprehensive data security frameworks for cloud-based data platforms, integrating encryption, access controls, and audit trails to protect sensitive financial information and meet PCI regulatory requirements.",
+    "Collaborated with data scientists to productionize ML data pipelines, utilizing PySpark for feature engineering and model serving while containerizing workflows with Docker for consistent deployment across development environments.",
+    "Optimized resource utilization and cost for AWS Glue and EMR clusters by analyzing Spark UI metrics and adjusting executor configurations, achieving a significant reduction in monthly cloud spending for enterprise projects.",
+    "Built resilient data ingestion frameworks for structured and unstructured healthcare data, employing PySpark's DataFrame APIs and schema evolution techniques to handle diverse medical records and imaging data formats.",
+    "Established CI/CD pipelines for big data applications using Git and Jenkins, automating testing and deployment of Spark jobs to reduce manual errors and accelerate delivery of new data pipeline features.",
+    "Designed a data governance strategy encompassing metadata management, data lineage tracking, and quality checks for insurance data assets, ensuring reliable inputs for actuarial models and premium calculations.",
+    "Spearheaded the migration of legacy SQL Server and Oracle workloads to modern Spark processing on AWS, refactoring complex stored procedures into distributed PySpark code for improved scalability and maintainability.",
+    "Troubleshot production issues in real-time data pipelines by analyzing Spark executor logs and heap dumps, identifying memory leaks in user-defined functions that were causing job failures during peak insurance claim volumes.",
+    "Documented data architecture decisions, pipeline designs, and operational runbooks to create institutional knowledge, enabling smoother onboarding of new team members and continuity for government data initiatives.",
+    "Evaluated and integrated NoSQL databases like Cassandra for specific use cases requiring low-latency access to patient demographic data, complementing the existing relational data warehouse built on Snowflake.",
+    "Championed unit testing and integration testing practices for PySpark code, developing reusable test fixtures and data frames that improved code quality and reduced defects in financial transaction processing systems.",
+    "Participated in daily stand-ups and sprint planning sessions to coordinate data engineering efforts with broader product teams, ensuring alignment between technical deliverables and business objectives across domains."
+  ],
+  "technical_skills": {
+    "Big Data & Distributed Computing": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Hadoop",
+      "Distributed Computing",
+      "Big Data Engineering"
+    ],
+    "Data Orchestration & Workflow": [
+      "Apache Airflow",
+      "AWS Step Functions",
+      "ETL/ELT Pipeline Development",
+      "Workflow Orchestration"
+    ],
+    "Cloud Data Platforms": [
+      "AWS (S3, EMR, Glue, Redshift, Lambda)",
+      "AWS Cloud Data Platforms",
+      "Cloud-Based Data Processing"
+    ],
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "Scala"
+    ],
+    "Databases (SQL & NoSQL)": [
+      "DB2",
+      "PostgreSQL",
+      "Snowflake",
+      "NoSQL Databases",
+      "SQL Databases"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Modeling",
+      "Scalable Pipeline Architecture",
+      "Enterprise-Scale Data Solutions"
+    ],
+    "Performance Optimization": [
+      "Spark Performance Optimization",
+      "Partitioning",
+      "Caching",
+      "Query Tuning",
+      "Cost and Performance Optimization"
+    ],
+    "DevOps & Engineering Practices": [
+      "CI/CD Pipelines",
+      "Git",
+      "Unit Testing",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Data Governance & Security": [
+      "Data Security and Governance",
+      "HIPAA Compliance",
+      "Data Security"
+    ],
+    "Streaming & Real-Time Processing": [
+      "Apache Kafka",
+      "Spark Structured Streaming"
+    ],
+    "Monitoring & Troubleshooting": [
+      "Monitoring and Troubleshooting Spark Jobs",
+      "Spark UI",
+      "CloudWatch"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes-based Spark Deployments",
+      "Containerization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a multi-agent AI system using Crew AI and LangGraph to orchestrate PySpark data pipelines, dynamically allocating Spark resources based on real-time healthcare data volume and processing priority.",
+        "Engineered a PySpark-based feature store on AWS S3 and Delta Lake to serve ML models, implementing predicate pushdown and z-ordering to accelerate data retrieval for patient readmission prediction algorithms.",
+        "Designed a Model Context Protocol (MCP) server to provide governed data access for generative AI agents, integrating with existing HIPAA-compliant security layers and PySpark SQL permissions on patient datasets.",
+        "Orchestrated a proof-of-concept for agent-to-agent communication using Google's frameworks, enabling autonomous PySpark job monitoring and self-healing data pipelines for critical medical supply chain data.",
+        "Optimized a large-scale Spark workload processing EHR data by applying partitioning on patient ID and date columns, reducing shuffle size and improving join performance for cross-facility analytics.",
+        "Developed a custom Airflow operator using Python to manage multi-agent Spark clusters on EKS, handling agent lifecycle and ensuring idempotent retries for ETL jobs handling PHI data.",
+        "Mentored three junior engineers on PySpark optimization techniques and agentic framework integration, conducting weekly code reviews that improved team velocity and code quality for healthcare analytics.",
+        "Troubleshot a persistent memory issue in a Spark Streaming application by analyzing executor GC logs and adjusting the off-heap memory configuration, stabilizing the pipeline for real-time inventory updates.",
+        "Implemented a data lineage tracking system within Airflow DAGs and PySpark jobs, capturing metadata about data transformations for audit trails required by healthcare compliance officers.",
+        "Containerized PySpark driver applications using Docker to ensure consistent execution across local, dev, and prod EKS environments, simplifying the deployment of new data pipeline versions.",
+        "Led a design session with business stakeholders to translate requirements for a new clinical data mart into a scalable Snowflake and Spark architecture, addressing data sovereignty concerns.",
+        "Authored unit tests for complex PySpark UDFs that de-identified PHI, using mock data frames to validate logic before deployment to production environments handling sensitive medical records.",
+        "Configured AWS Glue job bookmarks and PySpark checkpointing for a resilient ELT pipeline, recovering automatically from failures during large-scale Medicaid claims data processing.",
+        "Evaluated different caching strategies for iterative Spark ML algorithms, settling on `MEMORY_AND_DISK_SER` for DataFrames to balance speed and cluster memory usage during model training.",
+        "Documented the architecture of the new agentic data platform, creating runbooks for incident response and a knowledge base for future team members supporting the healthcare data ecosystem.",
+        "Collaborated with the security team to encrypt data in transit and at rest for all Spark interactions with S3 and Snowflake, implementing IAM roles and KMS keys to meet strict HIPAA safeguards."
+      ],
+      "environment": [
+        "PySpark",
+        "Apache Spark",
+        "Apache Airflow",
+        "AWS (EMR, S3, Glue)",
+        "Snowflake",
+        "Docker",
+        "Kubernetes (EKS)",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "PostgreSQL",
+        "DB2",
+        "CI/CD",
+        "Git",
+        "Unit Testing"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Built a claims adjudication data pipeline using PySpark on AWS EMR, processing terabytes of daily transactional data from DB2 and applying business rules to flag outliers for insurance fraud detection.",
+        "Developed a dynamic partitioning strategy for a multi-tenant Snowflake data warehouse, using PySpark to pre-process and organize member data by region and plan type for efficient querying.",
+        "Created an Airflow DAG to orchestrate a complex dependency chain of Spark jobs, managing SLA windows for critical reports used by actuaries to set premium rates and reserve calculations.",
+        "Solved a data skew issue in a Spark join on provider networks by implementing salting techniques on the key distribution, which balanced the workload and prevented executor stragglers.",
+        "Integrated Apache Kafka with Spark Structured Streaming to ingest real-time eligibility check events, enriching them with historical member data from PostgreSQL in a stateful transformation.",
+        "Designed a data vault model for the enterprise data warehouse, using PySpark to populate hubs, links, and satellites from legacy sources, improving traceability for insurance audits.",
+        "Led a performance tuning initiative that identified and replaced Cartesian products in several legacy Spark SQL jobs, rewriting them with explicit join conditions to cut runtime by half.",
+        "Established a Git branching strategy and CI pipeline for the data engineering team, requiring unit tests and successful Spark job runs on sample data before merging to the main branch.",
+        "Assisted data scientists in operationalizing a risk prediction model by building a PySpark pipeline for feature engineering and batch scoring, outputting results to a governed S3 zone.",
+        "Configured AWS Glue Crawlers and the Data Catalog to automate schema discovery for new insurance product data files, reducing manual effort for the data onboarding team.",
+        "Debugged a weekend job failure by examining Airflow task logs and Spark event history, discovering a race condition in writing to S3 that was resolved by implementing optimistic concurrency control.",
+        "Proposed a cost-saving measure by migrating some cold-data processing from EMR to AWS Glue jobs, carefully comparing performance benchmarks to ensure no impact on reporting timelines.",
+        "Crafted a mentoring plan for a new hire, pairing on tasks like writing efficient Spark window functions and understanding the nuances of insurance data domains like claims and premiums.",
+        "Participated in client meetings to gather requirements for a new member 360-degree view, translating business needs into technical specifications for the PySpark and Snowflake implementation."
+      ],
+      "environment": [
+        "PySpark",
+        "Apache Spark",
+        "AWS EMR",
+        "AWS Glue",
+        "Snowflake",
+        "DB2",
+        "PostgreSQL",
+        "Apache Airflow",
+        "Apache Kafka",
+        "SQL",
+        "Data Modeling",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Migrated on-premise SQL Server and DB2 data pipelines to Azure Databricks using PySpark, refactoring T-SQL logic into distributed code to handle census and public health datasets for government reporting.",
+        "Constructed a data lake architecture on ADLS Gen2 using medallion layers (bronze, silver, gold), with PySpark jobs performing cleansing and deduplication of unemployment benefit application data.",
+        "Implemented incremental data processing patterns in PySpark to efficiently update large dimension tables in the gold layer, using watermarking on transaction timestamps to process only new records.",
+        "Authored detailed documentation for the new data platform's operational procedures, including runbooks for restarting failed jobs and a data dictionary for cross-departmental users.",
+        "Supported the analytics team by optimizing slow-running Spark SQL queries on demographic data, adding composite indexes and optimizing join order based on predicate selectivity analysis.",
+        "Assisted in designing a data governance framework for the state's data, helping define classification labels and access policies for sensitive citizen information stored in the data lake.",
+        "Developed a series of data quality checks using PySpark's `assert` functions and custom validation rules, flagging anomalous records in SNAP (food stamp) program data for manual review.",
+        "Containerized a legacy Python data ingestion script using Docker to run as an Azure Container Instance, coordinating its execution with downstream Spark jobs via Azure Data Factory.",
+        "Troubleshooted a connectivity issue between Databricks and the on-premise DB2 database, working with network teams to configure the Azure VNet and firewall rules correctly.",
+        "Participated in agile ceremonies, providing estimates and updates on data pipeline development tasks for the public health dashboard project during the COVID-19 response period.",
+        "Performed peer code reviews for fellow data engineers, focusing on PySpark code efficiency, proper error handling, and alignment with the state's data architecture standards.",
+        "Attended training sessions on government data security regulations, applying the concepts to ensure our Spark jobs handled PII in compliance with state data privacy laws."
+      ],
+      "environment": [
+        "PySpark",
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Data Lake Storage (ADLS)",
+        "SQL Server",
+        "DB2",
+        "Python",
+        "SQL",
+        "Data Modeling",
+        "Docker",
+        "Data Governance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed a payment transaction fraud detection pipeline using Spark Streaming on Azure HDInsight, processing Kafka streams of credit card transactions and applying rule-based scoring models.",
+        "Collaborated with the data modeling team to design a star schema for the card member data warehouse, using PySpark to build slowly changing dimensions (SCD Type 2) from operational sources.",
+        "Engineered an ELT process to load merchant settlement data from mainframe extracts into Azure SQL Data Warehouse (now Synapse), using PolyBase and Spark for initial transformations.",
+        "Assisted senior engineers in performance tuning a critical overnight batch job, suggesting the use of broadcast variables for a small reference dataset that eliminated a large shuffle.",
+        "Learned to debug Spark applications by analyzing the Spark History Server UI, identifying stages with high task deserialization time and proposing code changes to use Kryo serialization.",
+        "Wrote unit tests for PySpark data transformation functions using the `pyspark-test` library, contributing to a growing test suite that increased confidence in monthly financial closing jobs.",
+        "Documented the data lineage for key financial reports, mapping source system fields from DB2 through the Spark transformations to the final tables used for PCI compliance reporting.",
+        "Participated in on-call rotation for production data pipelines, learning to monitor job health through Azure Monitor alerts and restarting failed Spark steps after investigating root causes.",
+        "Supported the migration of a legacy SAS risk model to a Python and Spark environment, helping rewrite statistical calculations using Pandas UDFs for distributed execution.",
+        "Attended daily stand-ups and bi-weekly sprint retrospectives, providing updates on assigned tasks related to building and maintaining the enterprise data lake for financial products."
+      ],
+      "environment": [
+        "Apache Spark",
+        "PySpark",
+        "Azure HDInsight",
+        "Azure SQL Data Warehouse",
+        "Kafka",
+        "DB2",
+        "SQL",
+        "Python",
+        "ETL",
+        "Unit Testing"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed pathology lab data from Oracle and MySQL databases using Python and SQL scripts, preparing datasets for machine learning models that analyzed medical images.",
+        "Assisted in building a simple data pipeline to move processed results from PostgreSQL to a Power BI dataset, enabling clinicians to visualize patient test trends and diagnostic outcomes.",
+        "Learned the fundamentals of data modeling by helping senior team members document entity relationships in the healthcare data, focusing on patient, test, and specimen domains.",
+        "Created basic visualizations and dashboards in Power BI to track data quality metrics, such as record completeness and processing turnaround times for different types of medical tests.",
+        "Participated in team discussions about data anonymization techniques required for HIPAA compliance when sharing sample datasets with external research partners for model validation.",
+        "Supported debugging efforts by writing queries to trace data discrepancies between source lab systems and the analytical database, gaining practical experience in data validation.",
+        "Began learning about big data concepts and distributed processing through internal training sessions, understanding the limitations of traditional RDBMS for large-scale healthcare analytics.",
+        "Collaborated with software engineers to document data requirements for new application features, translating clinician needs into specifications for database schema changes and API data formats."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Power BI",
+        "Data Analysis",
+        "Healthcare Data"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

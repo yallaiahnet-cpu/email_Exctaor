@@ -1,0 +1,297 @@
+{
+  "name": "Monisha Krishnareddy",
+  "title": "Senior AI/ML Engineer",
+  "contact": {
+    "email": "kmonishareddy163@gmail.com",
+    "phone": "+1 3145962106",
+    "portfolio": "",
+    "linkedin": " https://linkedin",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI/ML engineering across Healthcare, Government, Retail, and Consulting domains, building intelligent systems that solve real-world business problems while maintaining compliance with industry regulations.",
+    "Developed machine learning pipelines for healthcare organizations that processed patient data while ensuring HIPAA compliance, resulting in improved diagnostic accuracy and personalized treatment recommendations for thousands of patients.",
+    "Created predictive models for government agencies that analyzed public health trends, enabling data-driven policy decisions that improved resource allocation and emergency response capabilities during critical situations.",
+    "Implemented recommendation engines for retail platforms that increased customer engagement by analyzing purchasing patterns and behavioral data, leading to enhanced shopping experiences and higher conversion rates.",
+    "Built data visualization dashboards for consulting clients that transformed complex datasets into actionable insights, helping stakeholders understand key metrics and make informed business decisions quickly.",
+    "Worked with cross-functional teams to integrate AI solutions into existing enterprise systems, ensuring seamless adoption and minimal disruption to daily operations while maximizing the value of data assets.",
+    "Designed and deployed NLP models that processed unstructured text data from various sources, extracting meaningful information that supported decision-making processes across different organizational departments.",
+    "Applied deep learning techniques to image recognition tasks in healthcare settings, assisting medical professionals in identifying anomalies in radiology scans with higher accuracy than traditional methods.",
+    "Optimized data processing workflows that reduced model training time by implementing parallel computing strategies and efficient data handling techniques, allowing for faster iteration and development cycles.",
+    "Collaborated with data engineering teams to establish robust data governance frameworks that maintained data quality and integrity throughout the machine learning lifecycle, ensuring reliable model outputs.",
+    "Implemented MLOps practices that automated model deployment and monitoring, creating sustainable AI systems that could adapt to changing data patterns and business requirements without manual intervention.",
+    "Developed custom algorithms for anomaly detection that identified unusual patterns in financial transactions, helping organizations prevent fraud and maintain security compliance with industry standards.",
+    "Created time series forecasting models that predicted demand fluctuations for retail inventory management, resulting in optimized stock levels and reduced waste while maintaining product availability.",
+    "Applied transfer learning techniques to leverage pre-trained models for specific domain tasks, significantly reducing development time and improving performance on limited datasets in specialized applications.",
+    "Worked with cloud platforms to scale machine learning solutions according to demand, implementing elastic computing resources that balanced performance requirements with cost optimization strategies.",
+    "Established model evaluation frameworks that measured business impact rather than just technical metrics, ensuring AI solutions delivered tangible value and aligned with organizational objectives.",
+    "Integrated ethical AI principles into development processes, creating fair and unbiased models that considered diverse user populations and avoided reinforcing harmful stereotypes in automated decisions.",
+    "Documented technical processes and model architectures comprehensively, creating knowledge repositories that facilitated team collaboration and ensured continuity when team members changed roles."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Java",
+      "Scala"
+    ],
+    "Machine Learning Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "XGBoost"
+    ],
+    "Data Processing": [
+      "Pandas",
+      "NumPy",
+      "Apache Spark",
+      "Dask",
+      "Apache Beam"
+    ],
+    "AI/ML Platforms": [
+      "AWS SageMaker",
+      "Azure ML",
+      "Google AI Platform",
+      "MLflow",
+      "Kubeflow"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "Cassandra"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud"
+    ],
+    "DevOps Tools": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab CI",
+      "Terraform"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly"
+    ],
+    "Big Data Technologies": [
+      "Hadoop",
+      "Apache Hive",
+      "Apache Kafka",
+      "Apache Flink",
+      "Apache HBase"
+    ],
+    "API Development": [
+      "REST API",
+      "GraphQL",
+      "FastAPI",
+      "Flask",
+      "Django REST Framework"
+    ],
+    "Natural Language Processing": [
+      "NLTK",
+      "spaCy",
+      "BERT",
+      "GPT",
+      "Word2Vec"
+    ],
+    "Computer Vision": [
+      "OpenCV",
+      "YOLO",
+      "CNN",
+      "R-CNN",
+      "ImageAI"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI/ML Engineer",
+      "client": "Cigna",
+      "duration": "2023-Dec - Present",
+      "location": "",
+      "responsibilities": [
+        "Develop machine learning models that analyze patient data to predict health risks while maintaining strict HIPAA compliance, helping healthcare providers offer personalized preventive care plans based on individual risk factors.",
+        "Build and deploy deep learning systems that process medical imaging data to assist radiologists in identifying potential health issues, improving diagnostic accuracy and reducing the time required for image analysis.",
+        "Create natural language processing pipelines that extract relevant information from unstructured clinical notes, enabling better data utilization for research and treatment planning while preserving patient privacy.",
+        "Implement real-time monitoring systems that track model performance and data drift in production environments, ensuring AI systems maintain accuracy and reliability as healthcare data patterns evolve over time.",
+        "Design recommendation engines that suggest personalized wellness programs based on patient health history and lifestyle factors, improving engagement with preventive health initiatives and promoting healthier behaviors.",
+        "Work with healthcare data scientists to optimize feature engineering processes for predictive models, identifying the most relevant variables that contribute to accurate risk assessments and treatment outcomes.",
+        "Set up automated model retraining pipelines that incorporate new medical research findings and updated patient data, keeping AI systems current with the latest medical knowledge and improving prediction quality.",
+        "Collaborate with cross-functional teams including doctors, nurses, and administrators to ensure AI solutions address real clinical needs and integrate seamlessly into existing healthcare workflows without disrupting patient care.",
+        "Test and validate AI models against diverse patient populations to identify and mitigate potential biases, ensuring equitable healthcare recommendations across different demographic groups and medical conditions.",
+        "Create explainable AI interfaces that help healthcare providers understand model predictions and recommendations, building trust in AI systems and enabling informed decision-making based on model insights.",
+        "Implement federated learning techniques that allow model training across multiple healthcare institutions without sharing sensitive patient data, expanding the knowledge base while maintaining privacy standards.",
+        "Optimize cloud infrastructure for healthcare AI workloads, balancing computational requirements with cost efficiency and ensuring all systems meet healthcare industry security and compliance standards.",
+        "Develop anomaly detection systems that identify unusual patterns in patient data, potentially indicating emerging health issues or data quality problems that require attention from healthcare professionals.",
+        "Work with regulatory experts to ensure all AI systems comply with healthcare regulations including HIPAA, GDPR, and FDA guidelines for medical software, preparing documentation for audits and certifications.",
+        "Create data governance frameworks that maintain high data quality standards throughout the machine learning lifecycle, ensuring reliable model outputs and consistent performance across different healthcare applications.",
+        "Integrate AI solutions with existing electronic health record systems, designing APIs and data exchange protocols that maintain security while enabling seamless information flow between systems."
+      ],
+      "environment": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS SageMaker",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Apache Kafka",
+        "Elasticsearch",
+        "Jenkins",
+        "GitLab CI",
+        "HIPAA compliance tools"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Washington",
+      "duration": "2021-Sep - 2023-Nov",
+      "location": "",
+      "responsibilities": [
+        "Built machine learning models that analyzed public health data to identify disease outbreak patterns, enabling government agencies to respond quickly to emerging health crises and allocate resources effectively.",
+        "Developed predictive analytics systems that forecasted traffic patterns and congestion points, helping transportation departments optimize traffic flow and reduce commute times for residents across the state.",
+        "Created natural language processing tools that categorized and prioritized citizen feedback from various communication channels, allowing government agencies to address public concerns more efficiently.",
+        "Implemented anomaly detection algorithms that identified unusual patterns in financial transactions, helping prevent fraud and ensuring proper use of public funds across different government departments.",
+        "Designed recommendation systems that matched citizens with relevant government services and benefits based on their specific circumstances, increasing awareness of available support programs.",
+        "Optimized data processing pipelines that handled large volumes of government data from multiple sources, ensuring timely availability of information for decision-making and public reporting.",
+        "Worked with data visualization teams to create interactive dashboards that presented complex government data in accessible formats, enabling policymakers and the public to understand key trends and metrics.",
+        "Applied machine learning techniques to optimize resource allocation for emergency services, predicting demand patterns and ensuring appropriate coverage across different geographic areas and time periods.",
+        "Developed classification models that automatically categorized and routed government documents, improving information retrieval processes and reducing manual effort in records management.",
+        "Collaborated with IT security teams to implement privacy-preserving machine learning techniques that protected sensitive citizen data while still enabling valuable analytics and insights.",
+        "Created time series forecasting models that predicted budget requirements for various government programs, helping financial planners allocate resources more effectively and avoid shortfalls.",
+        "Implemented automated testing frameworks that validated model outputs against historical data and expected patterns, ensuring reliability before deployment in production government systems.",
+        "Established model monitoring systems that tracked performance metrics and alerted teams to potential issues, maintaining consistent quality of AI services provided to government agencies and citizens.",
+        "Worked with cross-departmental teams to identify opportunities for AI implementation across different government functions, creating a roadmap for digital transformation that prioritized high-impact applications."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "Apache Spark",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MongoDB",
+        "PostgreSQL",
+        "Apache Kafka",
+        "Jenkins",
+        "Git",
+        "Tableau",
+        "Power BI"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Whole Foods",
+      "duration": "2019-Dec - 2021-Aug",
+      "location": "",
+      "responsibilities": [
+        "Developed recommendation algorithms that suggested products to customers based on their purchase history and preferences, increasing cross-selling opportunities and enhancing the shopping experience.",
+        "Created demand forecasting models that predicted product needs for each store location, optimizing inventory levels and reducing waste while ensuring product availability for customers.",
+        "Analyzed customer behavior patterns using clustering techniques to identify distinct shopping personas, enabling targeted marketing campaigns and personalized promotions across different customer segments.",
+        "Built sentiment analysis tools that processed customer reviews and feedback from multiple channels, providing actionable insights to improve product offerings and customer service quality.",
+        "Implemented market basket analysis that identified product associations and purchasing patterns, informing store layout decisions and product placement strategies to maximize sales opportunities.",
+        "Designed A/B testing frameworks that evaluated the effectiveness of different promotional strategies, providing data-driven recommendations for marketing campaigns and pricing decisions.",
+        "Applied time series analysis to seasonal product trends, helping the merchandising team plan inventory rotations and promotional calendars aligned with customer demand patterns throughout the year.",
+        "Collaborated with supply chain teams to optimize distribution routes and delivery schedules based on demand predictions, reducing transportation costs and improving product freshness upon arrival.",
+        "Developed customer lifetime value models that identified high-value customers and predicted future purchasing patterns, enabling retention strategies and loyalty program optimizations.",
+        "Created data visualization dashboards that presented key performance indicators to store managers and executives, facilitating data-driven decision making across different organizational levels.",
+        "Applied machine learning techniques to optimize pricing strategies for different product categories, balancing profit margins with competitive positioning and customer price sensitivity.",
+        "Worked with the e-commerce team to implement personalization features on the website and mobile app, creating tailored shopping experiences that increased conversion rates and customer satisfaction."
+      ],
+      "environment": [
+        "Python",
+        "R",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Tableau",
+        "Azure",
+        "Databricks",
+        "PostgreSQL",
+        "Git",
+        "Jupyter Notebooks"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Sovereign",
+      "duration": "2017-May - 2019-Oct",
+      "location": "",
+      "responsibilities": [
+        "Designed and implemented data pipelines that processed information from multiple client sources, ensuring consistent data quality and availability for business intelligence and analytics teams.",
+        "Built ETL processes that transformed raw data into structured formats suitable for analysis, creating standardized data models that could be easily queried and visualized by end users.",
+        "Optimized database schemas and query performance to handle increasing data volumes, implementing indexing strategies and partitioning techniques that improved response times for reporting systems.",
+        "Developed automated data validation frameworks that identified and corrected quality issues before they impacted downstream systems, maintaining high data integrity standards across all client projects.",
+        "Created real-time data streaming solutions that processed information as it was generated, enabling immediate insights and alerts for critical business metrics and operational indicators.",
+        "Implemented data governance protocols that ensured compliance with industry regulations and client requirements, establishing clear data lineage and access controls across all systems.",
+        "Collaborated with data scientists to prepare datasets for machine learning initiatives, performing feature engineering and data preparation tasks that supported model development and training.",
+        "Set up monitoring systems that tracked pipeline performance and data quality metrics, alerting teams to potential issues and providing detailed logs for troubleshooting and optimization.",
+        "Worked with cloud infrastructure teams to deploy scalable data processing solutions, designing architectures that could handle variable workloads while maintaining cost efficiency.",
+        "Documented data flows and system architectures comprehensively, creating technical specifications and diagrams that facilitated knowledge sharing and onboarding of new team members."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "AWS",
+        "Hadoop",
+        "MongoDB",
+        "PostgreSQL",
+        "Apache Kafka",
+        "Docker",
+        "Jenkins",
+        "Git",
+        "Linux"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "OLR",
+      "duration": "2015-Oct - 2017-Apr",
+      "location": "",
+      "responsibilities": [
+        "Analyzed client datasets using Python and Pandas to identify trends and patterns that informed business strategies and operational improvements across different organizational functions.",
+        "Created SQL queries that extracted and aggregated data from multiple database tables, generating reports that provided insights into key performance indicators and business metrics.",
+        "Developed Tableau dashboards that visualized complex data relationships in intuitive formats, enabling stakeholders to understand information quickly and make informed decisions.",
+        "Performed statistical analysis on survey data and customer feedback, identifying correlations and significant factors that influenced satisfaction levels and business outcomes.",
+        "Collaborated with consulting teams to prepare data-driven presentations for clients, translating analytical findings into actionable recommendations that addressed specific business challenges.",
+        "Conducted ad-hoc analyses to answer urgent business questions, working with subject matter experts to understand context and delivering insights within tight deadlines.",
+        "Cleaned and preprocessed raw data from various sources, ensuring accuracy and consistency before analysis and addressing missing values, outliers, and formatting issues.",
+        "Documented analytical methodologies and findings in detailed reports, creating knowledge repositories that supported future projects and enabled knowledge sharing within the team."
+      ],
+      "environment": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Tableau",
+        "Excel",
+        "R",
+        "PostgreSQL",
+        "Git",
+        "Jupyter Notebooks",
+        "Microsoft Office Suite"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Reva University",
+      "degree": "Bachelor of Technology (B. Tech)",
+      "field": "Information Technology",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

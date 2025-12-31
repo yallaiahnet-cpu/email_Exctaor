@@ -1,0 +1,368 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "QA Automation Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Node.js to build automation frameworks for API and UI testing, ensuring seamless integration with CI/CD pipelines for faster deployment cycles.",
+    "Developed and executed Cyara test cases for IVR flows, DTMF, and speech recognition, improving call routing accuracy and customer experience.",
+    "Integrated Cyara Pulse for real-time monitoring and issue analysis, reducing downtime and enhancing system reliability.",
+    "Performed functional, regression, and performance testing for voice and digital contact center channels, ensuring compliance with HIPAA and PCI standards.",
+    "Collaborated with developers and IVR/routing teams to troubleshoot and resolve complex issues, improving team efficiency and project delivery.",
+    "Implemented REST API testing using Node.js and JSON, ensuring microservice reliability and data integrity across platforms.",
+    "Used Splunk and ELK for observability, monitoring system performance and identifying bottlenecks for optimization.",
+    "Worked with Amazon Connect and Genesys to test contact center platforms, ensuring seamless customer interactions and failover mechanisms.",
+    "Applied synthetic monitoring to simulate user interactions, identifying and resolving potential issues before they impacted customers.",
+    "Debugged and scripted test cases for telephony systems, improving test coverage and reducing manual effort by automating repetitive tasks.",
+    "Maintained automation frameworks for API, UI, and telephony testing, ensuring scalability and reusability across multiple projects.",
+    "Analyzed Cyara Pulse alerts to identify root causes of issues, implementing fixes to prevent recurrence and improve system stability.",
+    "Conducted performance testing for high-volume call routing scenarios, optimizing system performance under load.",
+    "Integrated automation scripts with CI/CD pipelines using Jenkins and GitHub Actions, enabling continuous testing and faster feedback loops.",
+    "Supported cross-functional teams in resolving complex issues, fostering a collaborative environment and improving overall project outcomes.",
+    "Implemented speech recognition testing using Cyara, ensuring accurate transcription and improving customer satisfaction.",
+    "Monitored and analyzed system logs using observability tools, identifying trends and potential areas for improvement.",
+    "Documented test cases and results, ensuring traceability and compliance with industry standards and best practices."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript",
+      "Node.js"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ],
+    "QA & Testing Tools": [
+      "Cyara",
+      "Splunk",
+      "ELK",
+      "Amazon Connect",
+      "Genesys",
+      "Jenkins",
+      "GitHub Actions"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built an automation framework using Node.js for API and UI testing, reducing manual testing effort by automating repetitive tasks and ensuring faster deployment cycles.",
+        "Developed and executed Cyara test cases for IVR flows, DTMF, and speech recognition, improving call routing accuracy and enhancing customer experience.",
+        "Integrated Cyara Pulse for real-time monitoring and issue analysis, reducing system downtime and improving reliability.",
+        "Performed functional, regression, and performance testing for voice and digital contact center channels, ensuring compliance with HIPAA and PCI standards.",
+        "Collaborated with developers and IVR/routing teams to troubleshoot and resolve complex issues, improving team efficiency and project delivery.",
+        "Implemented REST API testing using Node.js and JSON, ensuring microservice reliability and data integrity across platforms.",
+        "Used Splunk and ELK for observability, monitoring system performance and identifying bottlenecks for optimization.",
+        "Worked with Amazon Connect and Genesys to test contact center platforms, ensuring seamless customer interactions and failover mechanisms.",
+        "Applied synthetic monitoring to simulate user interactions, identifying and resolving potential issues before they impacted customers.",
+        "Debugged and scripted test cases for telephony systems, improving test coverage and reducing manual effort by automating repetitive tasks.",
+        "Maintained automation frameworks for API, UI, and telephony testing, ensuring scalability and reusability across multiple projects.",
+        "Analyzed Cyara Pulse alerts to identify root causes of issues, implementing fixes to prevent recurrence and improve system stability.",
+        "Conducted performance testing for high-volume call routing scenarios, optimizing system performance under load.",
+        "Integrated automation scripts with CI/CD pipelines using Jenkins and GitHub Actions, enabling continuous testing and faster feedback loops.",
+        "Supported cross-functional teams in resolving complex issues, fostering a collaborative environment and improving overall project outcomes.",
+        "Implemented speech recognition testing using Cyara, ensuring accurate transcription and improving customer satisfaction."
+      ],
+      "environment": [
+        "Node.js",
+        "Cyara",
+        "Splunk",
+        "ELK",
+        "Amazon Connect",
+        "Genesys",
+        "AWS",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed automation frameworks for API and UI testing using Node.js, improving test efficiency and reducing manual effort.",
+        "Executed Cyara test cases for IVR flows, DTMF, and speech recognition, ensuring accurate call routing and customer satisfaction.",
+        "Monitored Cyara Pulse alerts and analyzed issues, reducing system downtime and improving reliability.",
+        "Performed functional and regression testing for contact center platforms, ensuring compliance with industry standards.",
+        "Collaborated with developers to troubleshoot and resolve issues, improving team productivity and project delivery.",
+        "Implemented REST API testing using Node.js and JSON, ensuring microservice reliability and data integrity.",
+        "Used observability tools like Splunk and ELK to monitor system performance and identify areas for optimization.",
+        "Tested contact center platforms like Amazon Connect and Genesys, ensuring seamless customer interactions.",
+        "Conducted synthetic monitoring to simulate user interactions, identifying and resolving potential issues.",
+        "Debugged and scripted test cases for telephony systems, improving test coverage and reducing manual effort.",
+        "Maintained automation frameworks for API, UI, and telephony testing, ensuring scalability and reusability.",
+        "Analyzed Cyara Pulse alerts to identify root causes of issues, implementing fixes to prevent recurrence.",
+        "Conducted performance testing for high-volume call routing scenarios, optimizing system performance.",
+        "Integrated automation scripts with CI/CD pipelines using Jenkins and GitHub Actions, enabling continuous testing."
+      ],
+      "environment": [
+        "Node.js",
+        "Cyara",
+        "Splunk",
+        "ELK",
+        "Amazon Connect",
+        "Genesys",
+        "AWS",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built automation frameworks for API testing using Node.js, improving test efficiency and reducing manual effort.",
+        "Developed and executed Cyara test cases for IVR flows and speech recognition, ensuring accurate call routing.",
+        "Monitored Cyara Pulse alerts and analyzed issues, reducing system downtime and improving reliability.",
+        "Performed functional and regression testing for contact center platforms, ensuring compliance with standards.",
+        "Collaborated with developers to troubleshoot and resolve issues, improving team productivity.",
+        "Implemented REST API testing using Node.js and JSON, ensuring microservice reliability.",
+        "Used observability tools like Splunk to monitor system performance and identify optimization areas.",
+        "Tested contact center platforms like Amazon Connect, ensuring seamless customer interactions.",
+        "Conducted synthetic monitoring to simulate user interactions, identifying potential issues.",
+        "Debugged and scripted test cases for telephony systems, improving test coverage.",
+        "Maintained automation frameworks for API and telephony testing, ensuring scalability.",
+        "Analyzed Cyara Pulse alerts to identify root causes of issues, implementing fixes."
+      ],
+      "environment": [
+        "Node.js",
+        "Cyara",
+        "Splunk",
+        "Amazon Connect",
+        "AWS",
+        "Jenkins"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed automation scripts for API testing using Node.js, improving test efficiency.",
+        "Executed test cases for IVR flows and speech recognition, ensuring accurate call routing.",
+        "Monitored system alerts and analyzed issues, reducing downtime.",
+        "Performed functional and regression testing for contact center platforms.",
+        "Collaborated with developers to troubleshoot and resolve issues.",
+        "Implemented REST API testing using Node.js and JSON.",
+        "Used observability tools to monitor system performance.",
+        "Tested contact center platforms, ensuring seamless interactions.",
+        "Conducted synthetic monitoring to simulate user interactions.",
+        "Debugged and scripted test cases for telephony systems."
+      ],
+      "environment": [
+        "Node.js",
+        "Cyara",
+        "Splunk",
+        "Amazon Connect",
+        "AWS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built automation scripts for API testing using Node.js.",
+        "Executed test cases for IVR flows and speech recognition.",
+        "Monitored system alerts and analyzed issues.",
+        "Performed functional and regression testing for platforms.",
+        "Collaborated with developers to troubleshoot issues.",
+        "Implemented REST API testing using Node.js.",
+        "Used observability tools to monitor performance.",
+        "Tested contact center platforms, ensuring interactions.",
+        "Conducted synthetic monitoring to simulate interactions."
+      ],
+      "environment": [
+        "Node.js",
+        "Cyara",
+        "Splunk",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Engineer with Agentic AI Experience",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized LangChain and LangGraph to develop AI applications, focusing on prompt engineering and memory management, enhancing system efficiency.",
+    "Implemented retrieval-augmented generation (RAG) to improve AI model accuracy and relevance in healthcare data processing.",
+    "Designed multi-agent AI workflows using LangGraph, ensuring seamless integration and operation across various healthcare systems.",
+    "Integrated AI models with vector databases like Pinecone and FAISS, optimizing data retrieval for insurance claim processing.",
+    "Fine-tuned LLMs such as GPT and Claude for specific healthcare and insurance use cases, improving predictive accuracy.",
+    "Built custom chains and graphs to enhance AI-driven applications in banking, streamlining fraud detection processes.",
+    "Applied MLOps practices to deploy and manage AI models in production, ensuring scalability and reliability.",
+    "Collaborated with cross-functional teams to align AI solutions with business objectives in healthcare and insurance.",
+    "Developed HIPAA-compliant AI systems to ensure data privacy and security in healthcare applications.",
+    "Implemented real-time data processing pipelines using Apache Kafka, improving data flow in insurance systems.",
+    "Optimized AI models for edge deployment, reducing latency in banking transaction processing.",
+    "Conducted A/B testing to evaluate AI model performance, refining algorithms for better outcomes in healthcare.",
+    "Utilized Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment.",
+    "Implemented CI/CD pipelines using Jenkins and GitHub Actions, streamlining model updates in insurance systems.",
+    "Developed RESTful APIs to integrate AI models with existing healthcare and banking systems.",
+    "Performed root cause analysis to troubleshoot and resolve issues in AI model performance, ensuring stability.",
+    "Mentored junior engineers on AI best practices and tools, fostering team growth and knowledge sharing.",
+    "Presented AI project findings and recommendations to stakeholders, driving informed decision-making in healthcare and insurance."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized LangChain and LangGraph to develop AI applications for insurance claim processing, improving efficiency by integrating prompt engineering and memory management.",
+        "Implemented retrieval-augmented generation (RAG) to enhance AI model accuracy in processing healthcare claims data, ensuring compliance with HIPAA regulations.",
+        "Designed multi-agent AI workflows using LangGraph, enabling seamless integration across various insurance systems and improving operational efficiency.",
+        "Integrated AI models with vector databases like Pinecone and FAISS, optimizing data retrieval for fraud detection in insurance claims.",
+        "Fine-tuned LLMs such as GPT and Claude for specific insurance use cases, improving predictive accuracy and reducing false positives.",
+        "Built custom chains and graphs to enhance AI-driven applications in insurance, streamlining the claims processing workflow.",
+        "Applied MLOps practices to deploy and manage AI models in production, ensuring scalability and reliability across insurance systems.",
+        "Collaborated with cross-functional teams to align AI solutions with business objectives, driving innovation in insurance processes.",
+        "Developed HIPAA-compliant AI systems to ensure data privacy and security in healthcare insurance applications.",
+        "Implemented real-time data processing pipelines using Apache Kafka, improving data flow and reducing latency in insurance systems.",
+        "Optimized AI models for edge deployment, reducing latency in real-time insurance transaction processing.",
+        "Conducted A/B testing to evaluate AI model performance, refining algorithms for better outcomes in insurance claim processing.",
+        "Utilized Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment across insurance environments.",
+        "Implemented CI/CD pipelines using Jenkins and GitHub Actions, streamlining model updates and reducing deployment time in insurance systems.",
+        "Developed RESTful APIs to integrate AI models with existing insurance systems, enhancing data exchange and system interoperability.",
+        "Performed root cause analysis to troubleshoot and resolve issues in AI model performance, ensuring stability in insurance applications."
+      ],
+      "environment": [
+        "AWS, LangChain, LangGraph, Pinecone, FAISS, GPT, Claude, Apache Kafka, Docker, Kubernetes, Jenkins, GitHub Actions, REST APIs"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed AI applications using LangChain for healthcare data processing, focusing on prompt engineering and memory management.",
+        "Implemented RAG to improve AI model accuracy in medical research data analysis, ensuring compliance with HIPAA regulations.",
+        "Designed multi-agent AI workflows using LangGraph, enabling seamless integration across healthcare systems and improving patient care.",
+        "Integrated AI models with vector databases like Weaviate, optimizing data retrieval for medical research.",
+        "Fine-tuned LLMs such as Mistral and LLaMA for specific healthcare use cases, improving diagnostic accuracy.",
+        "Built custom chains and graphs to enhance AI-driven applications in healthcare, streamlining patient data analysis.",
+        "Applied MLOps practices to deploy and manage AI models in production, ensuring scalability and reliability in healthcare systems.",
+        "Collaborated with medical teams to align AI solutions with healthcare objectives, driving innovation in patient care.",
+        "Developed HIPAA-compliant AI systems to ensure data privacy and security in healthcare applications.",
+        "Implemented real-time data processing pipelines using Apache Kafka, improving data flow in healthcare systems.",
+        "Optimized AI models for edge deployment, reducing latency in real-time healthcare monitoring.",
+        "Conducted A/B testing to evaluate AI model performance, refining algorithms for better healthcare outcomes.",
+        "Utilized Docker and Kubernetes to containerize and orchestrate AI applications, ensuring consistent deployment in healthcare environments.",
+        "Implemented CI/CD pipelines using Jenkins and GitHub Actions, streamlining model updates in healthcare systems.",
+        "Developed RESTful APIs to integrate AI models with existing healthcare systems, enhancing data exchange and system interoperability."
+      ],
+      "environment": [
+        "AWS, LangChain, LangGraph, Weaviate, Mistral, LLaMA, Apache Kafka, Docker, Kubernetes, Jenkins, GitHub Actions, REST APIs"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed AI applications using LangChain for healthcare data processing, focusing on prompt engineering and memory management.",
+        "Implemented RAG to improve AI model accuracy in public health data analysis, ensuring compliance with HIPAA regulations.",
+        "Designed multi-agent AI workflows using LangGraph, enabling seamless integration across state healthcare systems.",
+        "Integrated AI models with vector databases like Pinecone, optimizing data retrieval for public health research.",
+        "Fine-tuned LLMs such as GPT for specific healthcare use cases, improving predictive accuracy in disease outbreaks.",
+        "Built custom chains and graphs to enhance AI-driven applications in public health, streamlining data analysis.",
+        "Applied MLOps practices to deploy and manage AI models in production, ensuring scalability and reliability in healthcare systems.",
+        "Collaborated with public health teams to align AI solutions with healthcare objectives, driving innovation in disease prevention.",
+        "Developed HIPAA-compliant AI systems to ensure data privacy and security in public health applications.",
+        "Implemented real-time data processing pipelines using Apache Kafka, improving data flow in public health systems.",
+        "Optimized AI models for edge deployment, reducing latency in real-time public health monitoring.",
+        "Conducted A/B testing to evaluate AI model performance, refining algorithms for better public health outcomes."
+      ],
+      "environment": [
+        "GCP, LangChain, LangGraph, Pinecone, GPT, Apache Kafka, Docker, Kubernetes, Jenkins, GitHub Actions, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed AI applications using LangChain for banking data processing, focusing on prompt engineering and memory management.",
+        "Implemented RAG to improve AI model accuracy in fraud detection, ensuring compliance with PCI regulations.",
+        "Designed multi-agent AI workflows using LangGraph, enabling seamless integration across banking systems.",
+        "Integrated AI models with vector databases like FAISS, optimizing data retrieval for fraud detection.",
+        "Fine-tuned LLMs such as Claude for specific banking use cases, improving predictive accuracy in transaction analysis.",
+        "Built custom chains and graphs to enhance AI-driven applications in banking, streamlining fraud detection processes.",
+        "Applied MLOps practices to deploy and manage AI models in production, ensuring scalability and reliability in banking systems.",
+        "Collaborated with banking teams to align AI solutions with business objectives, driving innovation in fraud prevention.",
+        "Implemented real-time data processing pipelines using Apache Kafka, improving data flow in banking systems.",
+        "Optimized AI models for edge deployment, reducing latency in real-time transaction processing."
+      ],
+      "environment": [
+        "Azure, LangChain, LangGraph, FAISS, Claude, Apache Kafka, Docker, Kubernetes, Jenkins, GitHub Actions, REST APIs"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed data pipelines using Apache Airflow for healthcare data processing, ensuring compliance with HIPAA regulations.",
+        "Implemented ETL processes to integrate healthcare data from various sources, improving data quality and accessibility.",
+        "Designed and optimized databases using PostgreSQL and MongoDB, enhancing data retrieval for healthcare analytics.",
+        "Built RESTful APIs to integrate healthcare systems, improving data exchange and system interoperability.",
+        "Collaborated with healthcare teams to align data solutions with business objectives, driving innovation in patient care.",
+        "Implemented real-time data processing pipelines using Apache Kafka, improving data flow in healthcare systems.",
+        "Utilized Docker and Kubernetes to containerize and orchestrate data applications, ensuring consistent deployment in healthcare environments.",
+        "Implemented CI/CD pipelines using Jenkins and GitHub Actions, streamlining data pipeline updates in healthcare systems.",
+        "Performed root cause analysis to troubleshoot and resolve issues in data pipeline performance, ensuring stability in healthcare applications."
+      ],
+      "environment": [
+        "Azure, Apache Airflow, PostgreSQL, MongoDB, Apache Kafka, Docker, Kubernetes, Jenkins, GitHub Actions, REST APIs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

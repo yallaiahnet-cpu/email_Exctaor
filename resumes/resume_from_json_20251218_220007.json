@@ -1,0 +1,239 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI & Data Engineer - Construction & Enterprise AI",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Deployed enterprise-grade AI agents on construction jobsites using Azure OpenAI and Databricks to automate low-effort, high-impact field tasks, directly supporting the Construction Site of the Future initiative.",
+    "Structured ETL pipelines using Databricks Lakehouse and Delta tables within the Medallion architecture to create a governed data foundation for RAG agents, ensuring data quality for on-site decision making.",
+    "Secured production RAG solutions by implementing Unity Catalog for access controls and OAuth 2.0 for secure API integrations, maintaining strict adherence to client confidentiality and data governance standards.",
+    "Optimized CI/CD workflows for AI agents with GitHub Actions and Databricks Workflows, enabling rapid prototyping and deployment of new automation tools to active construction projects within days.",
+    "Facilitated Lean Six Sigma workshops with Operations Excellence teams to map value streams and identify process maturity gaps, translating findings into prioritized user stories for AI agent development.",
+    "Trained field crews and project leadership on new AI tools integrated into Microsoft Teams, managing change enablement to drive adoption and track behavior change KPIs across diverse jobsite teams.",
+    "Assembled custom connectors using REST and GraphQL APIs to link Power Platform agents with legacy construction management systems, enabling real-time data flow for RFIs and submittal tracking.",
+    "Configured Databricks Vector Search with semantic embeddings to power intelligent document retrieval from construction drawings and schedules, reducing time spent by crews on manual lookups.",
+    "Partnered with Data Science teams to operationalize LLMOps practices, setting up monitoring for agent latency, cost, and drift using Azure-native tools to ensure sustained performance.",
+    "Coordinated the launch of pilot agents for safety protocol checks and equipment logging, measured operational ROI, and created phased improvement plans for scaling wins across multiple sites.",
+    "Automated data maturity assessments with Python scripts and Power BI dashboards, providing clear visibility into data readiness levels feeding the AI agent pipeline on each jobsite.",
+    "Applied Infrastructure as Code principles with Azure Bicep to provision consistent environments for agent development, testing, and production, ensuring enterprise-grade engineering standards.",
+    "Supported the Center of Excellence (CoE) by establishing governance templates for Power Platform, including Copilot Studio and Power Automate flows, to promote secure and scalable citizen development.",
+    "Traveled regularly to active jobsites to observe workflows, gather direct user feedback on AI tools, and iterate on agent designs, ensuring solutions were practical and respected field constraints."
+  ],
+  "technical_skills": {
+    "AI & LLM Platform Development": [
+      "Copilot Studio",
+      "Power Apps",
+      "Power Automate",
+      "Azure OpenAI",
+      "OpenAI API",
+      "AWS Bedrock",
+      "LLM/RAG Production Solutions",
+      "Prompt Engineering",
+      "LangSmith",
+      "Vector Stores"
+    ],
+    "Data Engineering & Lakehouse": [
+      "Databricks Lakehouse",
+      "Delta Tables",
+      "Unity Catalog",
+      "Databricks Vector Search",
+      "Medallion Architecture",
+      "ETL/ELT Design",
+      "Python",
+      "SQL",
+      "Posit Workbench",
+      "Posit Connect"
+    ],
+    "Cloud Platform & Infrastructure": [
+      "Azure Cloud",
+      "Azure Machine Learning",
+      "Infrastructure as Code (IaC)",
+      "Containerization (Docker)",
+      "Authentication (OAuth, SSO)",
+      "Semantic Search Models"
+    ],
+    "Integration & API Development": [
+      "REST API",
+      "GraphQL API",
+      "Custom Connectors",
+      "Microsoft Teams Integration",
+      "SharePoint Integration"
+    ],
+    "DevOps & CI/CD": [
+      "GitHub Actions",
+      "Git/GitHub Workflow",
+      "Databricks Workflows",
+      "CI/CD Pipelines",
+      "Airflow"
+    ],
+    "Process Excellence & Methodology": [
+      "Lean/Six Sigma",
+      "Value Stream Mapping",
+      "Process Maturity Assessment",
+      "Data Maturity Assessment",
+      "Change Management Frameworks",
+      "Agile/User Story Writing"
+    ],
+    "Monitoring & Governance": [
+      "LLMOps Monitoring",
+      "Azure ML Monitoring",
+      "Data Governance Frameworks",
+      "PII Detection",
+      "CoE Toolkit"
+    ],
+    "Business Intelligence & Visualization": [
+      "Power BI",
+      "Tableau",
+      "Adoption Dashboards",
+      "ROI Metrics Tracking"
+    ],
+    "Domain Knowledge": [
+      "Construction Terminology (RFIs, Submittals, Drawings)",
+      "Jobsite Operations",
+      "Safety Protocols",
+      "Client-Facing Professionalism"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Developer",
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Architect a secure RAG pipeline for insurance policy analysis using Azure OpenAI and Databricks Vector Search, designed to retrieve precise clauses and improve advisor response times during client consultations.",
+        "Establish a new data lakehouse on Azure with Databricks and Delta tables to centralize disparate policy and claims data, implementing Unity Catalog for fine-grained access control aligned with HIPAA regulations.",
+        "Construct Power Automate flows that integrate with the core policy system, automating routine data entry tasks for underwriting teams and reducing manual processing errors in high-volume periods.",
+        "Author Python scripts within Posit Workbench to perform data quality checks on ingested customer data, flagging anomalies for review before they feed into downstream analytical models.",
+        "Verify the accuracy of AI-generated policy summaries through a combination of unit tests and manual validation sessions with senior underwriters, incorporating their feedback into prompt refinements.",
+        "Release iterative versions of a Copilot Studio agent for internal sales support via GitHub Actions, enabling seamless deployment to a test group of agents for controlled feedback collection.",
+        "Examine Databricks cluster performance logs to identify and resolve bottlenecks in nightly batch processing jobs, ensuring SLA adherence for daily business intelligence reports.",
+        "Remediate a production issue where an API rate limit caused ETL failures by implementing a retry logic with exponential backoff in the Databricks Workflow, restoring data freshness.",
+        "Consult with legal and compliance teams to map data lineage for AI training datasets, documenting PII handling procedures to satisfy stringent financial industry audit requirements.",
+        "Mentor a junior developer on Power Apps design patterns, guiding them through the creation of a simple form application that connects to the central Databricks SQL warehouse.",
+        "Convert business requirements from product owners into technical specifications and Jira tickets, facilitating clear handoffs between the AI development team and data engineering squads.",
+        "Present a quarterly demo to leadership showcasing the ROI of deployed automation agents, using Power BI dashboards to visualize time savings and error reduction metrics.",
+        "Schedule regular code review sessions with peers to maintain code quality for Python notebooks and SQL transformations, fostering knowledge sharing on Delta table best practices.",
+        "Attend daily stand-ups and bi-weekly sprint planning meetings, providing updates on agent development progress and collaboratively troubleshooting cross-team dependency challenges."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "Databricks Lakehouse",
+        "Delta Tables",
+        "Unity Catalog",
+        "Python",
+        "SQL",
+        "Power Apps",
+        "Power Automate",
+        "Copilot Studio",
+        "GitHub Actions",
+        "Databricks Workflows",
+        "REST API",
+        "Microsoft Teams",
+        "SharePoint",
+        "Posit Workbench",
+        "Power BI",
+        "Azure Cloud"
+      ]
+    },
+    {
+      "role": "LLM Developer",
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Built a multi-agent question-answering system for a tech support knowledge base using OpenAI's GPT-4 and a custom vector store, which handled complex, multi-step troubleshooting queries.",
+        "Developed a semantic search layer with sentence-transformers and FAISS to enable efficient retrieval from a large corpus of technical documentation, improving answer relevance by over forty percent.",
+        "Integrated the LLM application with existing customer systems via GraphQL APIs, allowing the chatbot to pull real-time user account data and provide personalized support responses.",
+        "Tested the RAG pipeline extensively with synthetic and real user queries, measuring accuracy and latency to establish performance baselines before the production launch.",
+        "Deployed the containerized application on Azure Kubernetes Service using a CI/CD pipeline defined in GitHub Actions, which included automated security scanning for dependencies.",
+        "Monitored token usage and response times in production with a custom dashboard, setting up alerts for cost spikes or performance degradation to ensure operational efficiency.",
+        "Fixed a critical bug related to context window overflow by implementing a dynamic document chunking strategy, which prevented incomplete answers for longer technical documents.",
+        "Updated the prompt templates based on analysis of failed user interactions, collaborating with a product manager to refine the system's tone and technical accuracy.",
+        "Guided the data labeling team on creating a high-quality evaluation dataset, providing clear guidelines for assessing answer correctness in the domain of software troubleshooting.",
+        "Participated in client workshops to demonstrate the agent's capabilities, collected feature requests, and documented technical requirements for the next development phase."
+      ],
+      "environment": [
+        "OpenAI GPT-4",
+        "Python",
+        "FAISS Vector Store",
+        "Sentence-Transformers",
+        "GraphQL API",
+        "Docker",
+        "Azure Kubernetes Service",
+        "GitHub Actions",
+        "CI/CD",
+        "RAG Pipelines",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Bangalore, India.",
+      "responsibilities": [
+        "Produced a demand forecasting model for ride-hailing using time-series algorithms in Python, which processed historical trip data to predict hotspot zones and aided driver allocation.",
+        "Engineered feature pipelines on Google Cloud Platform that aggregated GPS and transactional data, transforming raw logs into clean datasets ready for model training and analysis.",
+        "Implemented a real-time inference service for surge pricing, which consumed streaming location data and served predictions with low latency to millions of app users.",
+        "Validated model performance through A/B testing frameworks, comparing key metrics like wait times and driver utilization between the new algorithm and the legacy system.",
+        "Launched the new pricing model incrementally to a small percentage of users, monitoring system stability and business metrics closely before a full rollout across cities.",
+        "Observed model drift in production and retrained the forecasting model monthly with fresh data, maintaining prediction accuracy as travel patterns evolved post-pandemic.",
+        "Repaired data pipeline failures caused by schema changes in source systems, wrote recovery jobs, and added validation rules to prevent similar future outages.",
+        "Collaborated with mobile and backend engineers to define the API contract for model serving, ensuring seamless integration of ML predictions into the live app experience."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "XGBoost",
+        "Google Cloud Platform (GCP)",
+        "BigQuery",
+        "Dataflow",
+        "Time-Series Forecasting",
+        "A/B Testing",
+        "Real-time Inference"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Designed and maintained ETL processes using Azure Data Factory to ingest daily transaction data from core banking systems into a centralized Azure Synapse Analytics data warehouse.",
+        "Transformed raw banking data with T-SQL stored procedures, applying business rules for customer segmentation and risk scoring to support regulatory and marketing reporting needs.",
+        "Programmed data validation checks in Python to ensure the integrity of financial figures before they were consumed by critical compliance dashboards used by the audit team.",
+        "Checked pipeline execution logs daily, resolved failures due to data quality issues or network timeouts, and communicated delays to downstream report consumers.",
+        "Delivered scheduled credit risk reports by optimizing SQL queries and tuning Synapse dedicated SQL pools, reducing report generation time significantly.",
+        "Assisted the data science team by provisioning clean, aggregated datasets in Azure Databricks for their experimental fraud detection machine learning models."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "T-SQL",
+        "Python",
+        "Azure Databricks",
+        "ETL/ELT",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

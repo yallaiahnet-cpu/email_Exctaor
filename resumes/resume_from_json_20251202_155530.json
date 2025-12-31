@@ -1,0 +1,357 @@
+{
+  "name": "Hari Krishna Kosana",
+  "title": "Senior Full Stack .NET Developer",
+  "contact": {
+    "email": "hari.kosana550@gmail.com",
+    "phone": "616-557-7335",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/hari-krishna-kosana",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in full stack .NET development, specializing in WPF applications, cloud-based systems, and healthcare technology integrations.",
+    "I work on .NET Core microservices architecture for hospitality booking platforms, using WPF data binding to display real-time room availability and compliance data which helped improve system responsiveness.",
+    "I built DICOM viewer components at Mayo Clinic, applying my WPF skills to render medical images and ensuring the application met strict HIPAA data security requirements for patient information.",
+    "I created flight operation dashboards for Delta using .NET Framework and WPF, integrating live FAA regulatory data streams to help dispatchers monitor compliance across thousands of daily flights.",
+    "I developed government benefit portals for Pennsylvania, implementing WPF forms with complex data validation to process citizen applications while following state data privacy laws.",
+    "I fixed banking transaction modules at Wells Fargo, using C# and SQL Server to rebuild core features that had to meet PCI-DSS standards for financial data protection.",
+    "I set up telecommunication billing systems at Vodafone, where I learned to handle high-volume data processing and started working with my first .NET web services and basic WPF screens.",
+    "I tested all my code with xUnit and NUnit frameworks, making sure each module worked correctly before it went to QA, which saved a lot of time during the testing phase.",
+    "I used Visual Studio and Git for every project, keeping my code organized in branches and committing changes daily after code reviews with the team lead.",
+    "I learned Agile practices on the job, participating in sprint planning and daily standups where I reported progress and discussed blockers with product managers.",
+    "I applied object-oriented principles to design reusable WPF controls and service classes, which made it easier to maintain the codebase as the projects grew in complexity.",
+    "I configured Azure cloud services for recent applications, deploying .NET Core APIs and WPF client updates through DevOps pipelines that automated the release process.",
+    "I collaborated closely with frontend teams, especially when integrating my WPF views with Angular components, which required clear communication about data contracts and APIs.",
+    "I optimized .NET application performance by profiling memory usage and database queries, then refactoring slow sections of code that were causing UI lag in the WPF interfaces.",
+    "I assisted junior developers by reviewing their pull requests and explaining WPF concepts like MVVM patterns and data templates, which helped our team deliver features faster.",
+    "I explored genAI tools like GitHub Copilot to speed up boilerplate code writing, though I still manually reviewed all suggestions to ensure they matched our architecture.",
+    "I studied healthcare imaging protocols like DICOM and HL7 during the Mayo Clinic project, which was challenging but necessary to build accurate radiology workflow software.",
+    "I attended regular domain training sessions for each industry, learning about hospitality regulations, FAA rules, and banking compliance to better understand each project's context."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      ".NET Framework",
+      ".NET Core",
+      "C#",
+      "SQL",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "Frameworks & Libraries": [
+      "WPF (Windows Presentation Foundation)",
+      "ASP.NET MVC",
+      "ASP.NET Web API",
+      "Entity Framework",
+      "Angular",
+      "React",
+      "Bootstrap",
+      "jQuery"
+    ],
+    "Frontend Development": [
+      "WPF Data Binding",
+      "XAML",
+      "MVVM Pattern",
+      "RESTful API Integration",
+      "UI/UX Design Principles",
+      "Responsive Web Design"
+    ],
+    "Backend Development": [
+      ".NET Core Microservices",
+      "Web API Development",
+      "Middleware Configuration",
+      "Dependency Injection",
+      "Background Services",
+      "API Gateway"
+    ],
+    "Databases": [
+      "SQL Server",
+      "Azure SQL Database",
+      "Cosmos DB",
+      "Entity Framework Core",
+      "Stored Procedures",
+      "Query Optimization",
+      "Database Indexing"
+    ],
+    "Cloud Platforms": [
+      "Microsoft Azure",
+      "Azure App Services",
+      "Azure Functions",
+      "Azure Storage",
+      "Azure Key Vault",
+      "Azure DevOps"
+    ],
+    "DevOps Tools": [
+      "Git",
+      "Azure DevOps Pipelines",
+      "Docker",
+      "Kubernetes Basics",
+      "CI/CD Configuration",
+      "NuGet Package Management"
+    ],
+    "Testing Tools": [
+      "xUnit",
+      "NUnit",
+      "Moq",
+      "MS Test",
+      "Selenium",
+      "Postman",
+      "Fiddler",
+      "Browser Developer Tools"
+    ],
+    "Monitoring & Logging": [
+      "Application Insights",
+      "Azure Monitor",
+      "Serilog",
+      "ELK Stack Basics",
+      "Performance Profiling",
+      "Error Tracking"
+    ],
+    "Version Control": [
+      "Git",
+      "Azure Repos",
+      "GitHub",
+      "Branch Strategies",
+      "Pull Request Reviews",
+      "Code Merge Conflict Resolution"
+    ],
+    "Security": [
+      "OAuth 2.0",
+      "JWT Tokens",
+      "Azure Active Directory",
+      "HIPAA Compliance",
+      "PCI-DSS Standards",
+      "Data Encryption",
+      "Input Validation"
+    ],
+    "AI/ML Tools": [
+      "GitHub Copilot",
+      "OpenAI API Integration",
+      "Azure Cognitive Services",
+      "Machine Learning Basics",
+      "Predictive Analytics Implementation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "client": "Booked By",
+      "duration": "2025-Jan - Present",
+      "location": "",
+      "responsibilities": [
+        "I develop WPF-based booking management software for global hotel chains using .NET Core and modern data binding techniques to show real-time room availability and pricing.",
+        "I designed a microservices architecture with Azure Functions that process reservation data, which actually reduced latency for peak booking times during holiday seasons.",
+        "I constructed reusable WPF control libraries for common UI patterns like calendar selectors and payment forms, saving development time across multiple hospitality projects.",
+        "I implemented GDPR-compliant data handling features after European hotels requested better guest privacy controls, using Azure Key Vault for encryption key management.",
+        "I wrote integration tests for new booking APIs with xUnit, catching several edge cases before deployment that would have caused double-booking errors in production.",
+        "I established CI/CD pipelines in Azure DevOps that automatically build and deploy our WPF application updates, making releases smoother and less error-prone.",
+        "I solved a performance issue where the WPF UI froze during high-load periods by implementing async data loading and virtualizing long lists of hotel inventory items.",
+        "I produced technical documentation for the new microservices, explaining how each component works to help onboard junior team members faster onto the complex system.",
+        "I researched genAI tools like GitHub Copilot to generate boilerplate WPF XAML code, though I found I still needed to manually adjust most of the generated layouts.",
+        "I operated the application's monitoring setup with Azure Application Insights, setting up alerts for error rates that helped us fix problems before users noticed them.",
+        "I strengthened the security of guest payment data by adding OAuth 2.0 authentication flows and encrypting sensitive fields at both rest and transit levels.",
+        "I mentored two mid-level developers on WPF best practices and .NET Core dependency injection patterns, which improved our team's overall code quality significantly.",
+        "I adapted our application to handle different hospitality regulations across countries, which required careful data modeling and configurable business rule engines.",
+        "I verified all code changes through peer review sessions where we discussed architecture decisions and caught potential bugs in complex WPF data binding scenarios.",
+        "I maintained backward compatibility for older hotel systems still using previous API versions, which was tricky but necessary for a smooth transition period.",
+        "I explored containerization with Docker for our WPF services, though we haven't fully implemented it yet due to some legacy dependencies in the current infrastructure."
+      ],
+      "environment": [
+        ".NET Core",
+        "WPF (Windows Presentation Foundation)",
+        "C#",
+        "Azure",
+        "Azure Functions",
+        "Azure SQL Database",
+        "Azure DevOps",
+        "Git",
+        "xUnit",
+        "Azure Application Insights",
+        "OAuth 2.0",
+        "Docker",
+        "REST APIs",
+        "Microservices",
+        "Entity Framework Core"
+      ]
+    },
+    {
+      "role": "Senior Full Stack .Net Developer",
+      "client": "Mayo Clinic",
+      "duration": "2024-Jan - 2024-Dec",
+      "location": "",
+      "responsibilities": [
+        "I architected a custom DICOM viewer application using WPF and .NET Framework to display radiology images, ensuring HIPAA compliance for all patient data handling.",
+        "I engineered the image processing pipeline that renders DICOM files in the WPF interface, optimizing performance for large MRI and CT scan datasets that doctors review.",
+        "I integrated HL7 messaging protocols to exchange patient information between the viewer and hospital EHR systems, which required careful data mapping and validation.",
+        "I assembled a suite of WPF tools for radiologists to annotate images, measure anatomical features, and compare scans across different time periods for diagnosis.",
+        "I programmed real-time collaboration features so multiple specialists could view and discuss the same DICOM study simultaneously during virtual consultations.",
+        "I enhanced the application's accessibility with keyboard shortcuts and screen reader support in the WPF interface, making it usable for doctors with different needs.",
+        "I troubleshooted a memory leak in the WPF image cache that was causing the application to crash after viewing several large studies back-to-back.",
+        "I standardized the codebase with consistent .NET design patterns and WPF data templates, which made the application easier to maintain as new features got added.",
+        "I coordinated with the QA team to create comprehensive test plans for the DICOM viewer, focusing on medical accuracy and regulatory compliance requirements.",
+        "I migrated some legacy .NET Framework components to .NET Core for better performance, though we kept the WPF UI parts in Framework for compatibility reasons.",
+        "I safeguarded patient data by implementing Azure Active Directory authentication and strict audit logging for all image access within the healthcare application.",
+        "I documented the complex DICOM rendering algorithms and WPF visualization techniques so future developers could understand how the medical imaging works.",
+        "I validated that all image processing maintained diagnostic quality throughout our pipeline, working with radiologists to ensure no visual data loss occurred.",
+        "I optimized the WPF UI rendering performance by implementing virtualized scrolling and lazy loading for the study lists that contain thousands of patient records."
+      ],
+      "environment": [
+        ".NET Framework",
+        ".NET Core",
+        "WPF (Windows Presentation Foundation)",
+        "C#",
+        "DICOM",
+        "HL7",
+        "Azure",
+        "SQL Server",
+        "Entity Framework",
+        "xUnit",
+        "HIPAA Compliance",
+        "Azure Active Directory",
+        "Visual Studio",
+        "Git",
+        "REST APIs",
+        "Medical Imaging Libraries"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Dotnet Developer",
+      "client": "Delta Airlines",
+      "duration": "2021-Aug - 2023-Dec",
+      "location": "",
+      "responsibilities": [
+        "I fashioned operational dashboards using WPF that displayed real-time flight status, crew scheduling, and FAA regulation compliance data for airline dispatchers.",
+        "I devised .NET Core APIs that integrated with external weather services and air traffic control systems to provide accurate data for flight planning decisions.",
+        "I composed automated reporting modules that generated FAA-mandated documentation for each flight, reducing manual paperwork for operations staff significantly.",
+        "I modernized legacy ASP.NET Web Forms applications by rebuilding them as WPF desktop applications with better performance and more intuitive user interfaces.",
+        "I rectified a critical bug in the crew pairing algorithm that was causing scheduling conflicts during holiday seasons when flight volumes increased dramatically.",
+        "I pioneered the adoption of Azure DevOps for our team, setting up build pipelines that decreased deployment time from several hours to about thirty minutes.",
+        "I cultivated relationships with business analysts to better understand aviation regulations, which helped me build more accurate compliance checking features.",
+        "I measured application performance under simulated peak loads, identifying bottlenecks in database queries that we then optimized with better indexing strategies.",
+        "I translated complex FAA operational rules into business logic within our .NET applications, ensuring the software enforced proper safety regulations automatically.",
+        "I upgraded the WPF data visualization components to handle larger datasets as the airline expanded its route network and needed to monitor more flights simultaneously.",
+        "I supervised the migration of our SQL Server databases to Azure SQL, carefully planning the cutover to minimize disruption to 24/7 flight operations.",
+        "I demonstrated new features to pilot and dispatcher user groups, incorporating their feedback into iterative improvements to the WPF application interface."
+      ],
+      "environment": [
+        ".NET Framework",
+        ".NET Core",
+        "WPF (Windows Presentation Foundation)",
+        "C#",
+        "ASP.NET Web API",
+        "SQL Server",
+        "Azure",
+        "Azure SQL Database",
+        "Entity Framework",
+        "Azure DevOps",
+        "FAA Regulations",
+        "REST APIs",
+        "Windows Services",
+        "JSON",
+        "XML"
+      ]
+    },
+    {
+      "role": "Senior Dotnet Developer",
+      "client": "State of PA",
+      "duration": "2019-Mar - 2021-Jul",
+      "location": "",
+      "responsibilities": [
+        "I formulated WPF applications for processing citizen benefit applications, implementing complex business rules for different assistance programs like SNAP and Medicaid.",
+        "I instituted role-based security using Windows Authentication and custom authorization rules to ensure government workers only accessed appropriate citizen data.",
+        "I calculated benefit eligibility automatically based on income guidelines and household size, reducing manual verification work for caseworkers by substantial amounts.",
+        "I launched a document management system that stored scanned application materials, using SQL Server Filestream for efficient storage of large PDF and image files.",
+        "I moderated the transition from legacy VB6 applications to modern .NET WPF systems, creating migration tools that preserved historical application data accurately.",
+        "I educated other developers on WPF data binding techniques and MVVM patterns, which helped standardize our approach across multiple government department projects.",
+        "I inspected all code for potential security vulnerabilities before deployment, particularly focusing on SQL injection prevention and proper input sanitization methods.",
+        "I authorized database schema changes through a formal change control process, documenting each modification for audit purposes as required by state policies.",
+        "I reconciled data between different government systems through scheduled batch jobs, ensuring benefit information remained consistent across departmental databases.",
+        "I advocated for better testing practices within our team, introducing unit testing with MS Test that caught several bugs before they reached production environments."
+      ],
+      "environment": [
+        ".NET Framework",
+        "WPF (Windows Presentation Foundation)",
+        "C#",
+        "SQL Server",
+        "Windows Authentication",
+        "ASP.NET Web Forms",
+        "Entity Framework",
+        "MS Test",
+        "IIS",
+        "TFS",
+        "REST Services",
+        "JSON",
+        "XML",
+        "Windows Server"
+      ]
+    },
+    {
+      "role": ".Net Developer",
+      "client": "Wells Fargo",
+      "duration": "2017-Nov - 2019-Feb",
+      "location": "",
+      "responsibilities": [
+        "I assembled transaction processing modules using .NET Framework and WPF for bank teller applications, ensuring PCI-DSS compliance for all financial data handling.",
+        "I illustrated system architecture diagrams for new features, helping business stakeholders understand how technical components supported banking operations.",
+        "I corrected defects in the check processing system that were causing reconciliation errors at month-end closing, working long hours during critical financial periods.",
+        "I navigated the bank's complex approval processes for code deployments, learning to document changes thoroughly for audit and compliance review requirements.",
+        "I balanced multiple small enhancements simultaneously, prioritizing based on business impact and regulatory deadlines for banking compliance features.",
+        "I queried large SQL Server databases to troubleshoot customer account issues reported by branch staff, often working directly with support teams to resolve problems.",
+        "I initiated my first major WPF project by redesigning the loan application interface, which taught me important lessons about user experience design principles.",
+        "I obeyed strict change management protocols for financial systems, including comprehensive testing and sign-off procedures before any production deployment occurred."
+      ],
+      "environment": [
+        ".NET Framework",
+        "ASP.NET MVC",
+        "C#",
+        "SQL Server",
+        "WPF Basics",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "TFS",
+        "Windows Services",
+        "Web Services",
+        "SOAP",
+        "XML"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "client": "Vodafone",
+      "duration": "2015-Oct - 2017-Aug",
+      "location": "",
+      "responsibilities": [
+        "I commenced my career building telecommunication billing systems with .NET Framework, creating basic WPF screens for customer service representatives to view accounts.",
+        "I discovered the importance of data validation when I fixed a bug that was incorrectly calculating international roaming charges for premium plan customers.",
+        "I acquainted myself with SQL Server by writing stored procedures for billing reports, gradually learning query optimization techniques through trial and error.",
+        "I observed senior developers during code reviews, absorbing best practices for .NET development and WPF application structure in enterprise environments.",
+        "I practiced writing unit tests for the first time using NUnit, initially finding it tedious but later appreciating how tests prevented regression bugs.",
+        "I volunteered for on-call support rotations, which exposed me to production troubleshooting and taught me how to diagnose issues under pressure."
+      ],
+      "environment": [
+        ".NET Framework",
+        "C#",
+        "ASP.NET Web Forms",
+        "SQL Server",
+        "WPF Introduction",
+        "ADO.NET",
+        "JavaScript",
+        "jQuery",
+        "SVN",
+        "IIS",
+        "Windows Server 2008"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}

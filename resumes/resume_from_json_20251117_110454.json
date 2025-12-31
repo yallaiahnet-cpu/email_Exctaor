@@ -1,0 +1,310 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Agentic AI & Multi-Agent Orchestration Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With over 10 years of specialized experience in AI/ML engineering, including 4+ years focused on Agentic AI systems and multi-agent orchestration frameworks for enterprise workflow automation and Python code generation.",
+    "Designed and implemented LangChain-based agentic systems for insurance claim processing automation, integrating OpenAI API and HuggingFace Transformers to handle complex regulatory compliance requirements and policy validation workflows.",
+    "Architected multi-agent orchestration pipelines using LangGraph for healthcare data processing, enabling autonomous software entities to collaborate on HIPAA-compliant patient data analysis and medical record management systems.",
+    "Developed Python code acceleration frameworks using GitHub Copilot and Cursor AI, mentoring engineering teams on AI-assisted development practices that reduced coding time while maintaining enterprise quality standards.",
+    "Built RAG pipelines with FAISS vector databases for insurance document retrieval, implementing multimodal model handling to process structured policy data alongside unstructured claim documentation and images.",
+    "Orchestrated PySpark distributed data processing workflows on Databricks, optimizing ETL pipelines for real-time insurance risk assessment and healthcare analytics while ensuring data privacy compliance.",
+    "Implemented Azure ML deployment pipelines for autonomous AI agents, containerizing solutions with Docker and Kubernetes while establishing CI/CD processes for continuous model improvement and workflow updates.",
+    "Engineered Crew AI multi-agent systems for banking compliance monitoring, integrating REST APIs with legacy systems to automate financial regulatory reporting and transaction anomaly detection.",
+    "Created prompt engineering frameworks for insurance chatbots, optimizing OpenAI API interactions to handle complex policy inquiries while maintaining conversational context across multiple user sessions.",
+    "Designed agentic AI evaluation metrics using MLflow, tracking emergent behaviors in multi-agent systems to ensure robust performance across insurance underwriting and claims processing scenarios.",
+    "Integrated vector databases with existing SQL systems, implementing Chroma and Pinecone for semantic search capabilities across insurance policy documents and healthcare regulatory guidelines.",
+    "Developed automated workflow generation systems using Airflow, orchestrating multi-agent AI pipelines for real-time insurance fraud detection and healthcare patient monitoring applications.",
+    "Implemented model context protocol for agent-to-agent communication, enabling seamless collaboration between specialized AI agents handling different aspects of insurance policy management.",
+    "Built distributed ML systems on Azure infrastructure, optimizing HuggingFace Transformers for high-throughput processing of insurance claims while maintaining strict data security protocols.",
+    "Created mentoring programs for Python AI development, coaching teams on LangChain implementation patterns and multi-agent system design principles for enterprise-scale deployments.",
+    "Designed experiment tracking systems with Weights & Biases, monitoring multi-agent orchestration performance across insurance domains and healthcare compliance requirements.",
+    "Implemented security frameworks for AI pipelines, ensuring operational readiness through comprehensive testing of autonomous agents handling sensitive insurance and healthcare data.",
+    "Developed performance optimization strategies for multi-agent systems, debugging complex interactions between autonomous entities in insurance workflow automation scenarios."
+  ],
+  "technical_skills": {
+    "AI/ML Programming & Core Technologies": [
+      "Python",
+      "SQL",
+      "PySpark",
+      "LangChain",
+      "LangGraph",
+      "HuggingFace Transformers",
+      "OpenAI API",
+      "GitHub Copilot",
+      "Cursor AI",
+      "CodeWhisperer",
+      "Claude Code"
+    ],
+    "Vector Databases & Knowledge Management": [
+      "FAISS",
+      "Pinecone",
+      "Chroma",
+      "Milvus",
+      "RAG Pipelines",
+      "Embeddings",
+      "Semantic Search",
+      "Knowledge Graphs"
+    ],
+    "Cloud AI/ML Platforms": [
+      "Azure ML",
+      "Databricks",
+      "Azure Data Factory",
+      "Azure Kubernetes Service",
+      "Azure Container Instances"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Azure Kubernetes Service",
+      "Container Registry",
+      "Helm Charts"
+    ],
+    "Workflow Automation & CI/CD": [
+      "Apache Airflow",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "GitHub Actions",
+      "MLflow",
+      "Experiment Tracking"
+    ],
+    "Data Processing & ETL": [
+      "PySpark",
+      "Azure Databricks",
+      "Distributed Computing",
+      "ETL Pipelines",
+      "Data Preprocessing",
+      "Feature Engineering"
+    ],
+    "Multi-Agent Frameworks & Tools": [
+      "Crew AI",
+      "LangGraph",
+      "Agent Orchestration",
+      "Multi-Agent Systems",
+      "Autonomous Agents",
+      "Model Context Protocol"
+    ],
+    "Python Libraries & Development": [
+      "requests",
+      "json",
+      "asyncio",
+      "logging",
+      "argparse",
+      "FastAPI",
+      "Flask",
+      "PyTest"
+    ],
+    "Monitoring & Observability": [
+      "MLflow",
+      "Weights & Biases",
+      "Azure Monitor",
+      "Log Analytics",
+      "Application Insights",
+      "Prometheus",
+      "Grafana"
+    ],
+    "Security & Compliance": [
+      "HIPAA Compliance",
+      "Data Encryption",
+      "Access Controls",
+      "Audit Logging",
+      "Regulatory Compliance",
+      "PCI Standards"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Architected LangChain-based multi-agent orchestration system for insurance claim processing, integrating OpenAI API with custom HuggingFace Transformers to automate complex policy validation workflows while ensuring regulatory compliance.",
+        "Implemented LangGraph workflow automation for real-time insurance risk assessment, designing autonomous agents that collaboratively analyzed policy data and claim patterns to identify potential fraud scenarios.",
+        "Developed Python code acceleration framework using GitHub Copilot and Cursor AI, mentoring team members on AI-assisted development practices that reduced coding time for insurance workflow automation components.",
+        "Built RAG pipeline with FAISS vector database for insurance document retrieval, implementing multimodal model handling to process structured policy data alongside unstructured claim documentation and damage images.",
+        "Orchestrated PySpark distributed data processing on Azure Databricks, optimizing ETL pipelines for real-time insurance analytics while maintaining data privacy and security compliance requirements.",
+        "Designed Crew AI multi-agent system for insurance underwriting automation, enabling specialized agents to collaborate on risk assessment while maintaining audit trails for regulatory compliance purposes.",
+        "Containerized AI solutions using Docker and Kubernetes on Azure, establishing CI/CD pipelines that enabled continuous deployment of improved agentic systems to production insurance environments.",
+        "Implemented prompt engineering framework for insurance customer service chatbots, optimizing OpenAI API interactions to handle complex policy inquiries while maintaining context across multi-turn conversations.",
+        "Created model context protocol implementation for agent-to-agent communication in insurance workflows, enabling seamless data exchange between underwriting, claims processing, and fraud detection agents.",
+        "Developed evaluation metrics using MLflow to track emergent behaviors in multi-agent insurance systems, ensuring robust performance across varying claim volumes and complexity levels.",
+        "Integrated Chroma vector database with existing SQL policy systems, implementing semantic search capabilities that improved document retrieval accuracy for insurance claim validation processes.",
+        "Built automated workflow generation using Airflow, orchestrating multi-agent AI pipelines for real-time insurance fraud detection while maintaining comprehensive audit trails for compliance.",
+        "Optimized HuggingFace Transformers for high-throughput insurance data processing on Azure ML, implementing distributed inference patterns that handled peak claim volumes during disaster events.",
+        "Designed security framework for AI pipelines handling sensitive insurance data, implementing encryption and access controls that met stringent regulatory requirements for customer information protection.",
+        "Mentored junior engineers on Python AI development practices, conducting code reviews and pair programming sessions focused on LangChain implementation patterns and multi-agent system design.",
+        "Implemented performance monitoring using Azure Monitor and custom metrics, debugging complex interactions between autonomous agents in insurance workflow automation scenarios to maintain system reliability."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "OpenAI API",
+        "HuggingFace Transformers",
+        "GitHub Copilot",
+        "Azure ML",
+        "Docker",
+        "Kubernetes",
+        "PySpark",
+        "Databricks",
+        "FAISS",
+        "Airflow",
+        "MLflow",
+        "Crew AI",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Engineered LangChain agentic AI system for healthcare data processing, implementing HIPAA-compliant autonomous agents that handled patient data analysis while maintaining strict privacy safeguards.",
+        "Developed multi-agent orchestration using LangGraph for clinical trial management, enabling specialized AI entities to collaborate on patient eligibility assessment and protocol compliance monitoring.",
+        "Built RAG pipeline with Pinecone vector database for medical literature retrieval, implementing semantic search across research papers and clinical guidelines to support evidence-based decision making.",
+        "Implemented Python code generation workflows using GitHub Copilot, accelerating development of healthcare analytics modules while ensuring code quality through comprehensive testing and review processes.",
+        "Designed PySpark ETL pipelines on Azure Databricks for healthcare data processing, optimizing distributed computation for large-scale patient data analysis while maintaining HIPAA compliance requirements.",
+        "Created prompt engineering framework for medical documentation assistants, optimizing OpenAI API interactions to generate accurate clinical notes while maintaining patient confidentiality.",
+        "Containerized healthcare AI solutions using Docker and Azure Kubernetes Service, establishing deployment patterns that ensured reliable operation of critical medical analysis systems.",
+        "Integrated HuggingFace Transformers with existing healthcare systems, implementing custom models for medical text analysis that improved accuracy of patient condition classification and treatment recommendation.",
+        "Developed multi-agent system for pharmaceutical compliance monitoring, enabling autonomous agents to track regulatory requirements and generate compliance reports for drug development processes.",
+        "Implemented CI/CD pipelines for healthcare AI deployments, automating testing and validation of agentic systems to ensure reliable performance in clinical environments.",
+        "Built workflow automation using Airflow for healthcare data processing, orchestrating multi-agent pipelines that handled patient data aggregation, analysis, and reporting tasks.",
+        "Designed evaluation framework using MLflow to track multi-agent system performance in healthcare contexts, monitoring accuracy and reliability metrics across diverse medical scenarios.",
+        "Mentored healthcare data teams on AI development practices, conducting training sessions on LangChain implementation and agentic system design for medical applications.",
+        "Implemented security controls for healthcare AI pipelines, ensuring HIPAA compliance through encryption, access logging, and comprehensive audit trails for all patient data processing activities."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "HuggingFace Transformers",
+        "OpenAI API",
+        "Azure ML",
+        "Docker",
+        "Kubernetes",
+        "PySpark",
+        "Databricks",
+        "Pinecone",
+        "Airflow",
+        "MLflow",
+        "GitHub Copilot",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Developed healthcare data processing pipelines using AWS SageMaker, implementing machine learning models for patient outcome prediction while ensuring HIPAA compliance through rigorous data governance.",
+        "Built PySpark ETL workflows on AWS EMR for public health data analysis, optimizing distributed processing of healthcare datasets to support state-wide health monitoring and intervention planning.",
+        "Implemented vector database solutions using Chroma on AWS, enabling semantic search across healthcare regulations and policy documents for improved compliance monitoring and reporting.",
+        "Designed Python-based data preprocessing frameworks, implementing feature engineering pipelines that handled diverse healthcare data formats while maintaining data quality and consistency standards.",
+        "Containerized ML models using Docker on AWS ECS, establishing deployment patterns that ensured reliable operation of healthcare analytics services across multiple state agencies.",
+        "Created workflow automation using Airflow for public health reporting, orchestrating data processing pipelines that generated timely insights for healthcare policy decision making.",
+        "Integrated HuggingFace Transformers for healthcare text analysis, implementing models that processed clinical notes and medical literature to support public health research initiatives.",
+        "Developed monitoring framework for healthcare ML systems, implementing performance tracking and alerting mechanisms that ensured reliable operation of critical public health analytics.",
+        "Built REST APIs for healthcare data access, enabling secure integration of ML insights with existing state healthcare systems and reporting platforms.",
+        "Implemented data security controls for healthcare ML pipelines, ensuring compliance with state privacy regulations through encryption, access controls, and comprehensive audit logging.",
+        "Optimized model performance through systematic experimentation, implementing A/B testing frameworks that evaluated different approaches to healthcare prediction tasks.",
+        "Mentored state agency staff on ML best practices, conducting training sessions on model interpretation and responsible AI implementation in healthcare contexts."
+      ],
+      "environment": [
+        "Python",
+        "AWS SageMaker",
+        "PySpark",
+        "EMR",
+        "HuggingFace Transformers",
+        "Docker",
+        "ECS",
+        "Airflow",
+        "Chroma",
+        "REST APIs",
+        "SQL",
+        "Pandas"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Developed machine learning models for financial fraud detection using AWS SageMaker, implementing algorithms that analyzed transaction patterns to identify potential security threats while maintaining PCI compliance.",
+        "Built PySpark data processing pipelines on AWS EMR, optimizing distributed computation for large-scale financial transaction analysis and customer behavior modeling across banking operations.",
+        "Implemented feature engineering frameworks for financial data, creating predictive features that improved model accuracy for credit risk assessment and customer segmentation tasks.",
+        "Designed Python-based data visualization dashboards, implementing interactive reports that provided insights into banking performance metrics and customer engagement patterns.",
+        "Containerized analytics applications using Docker on AWS ECS, establishing deployment patterns that ensured reliable operation of financial modeling services.",
+        "Created workflow automation for financial reporting, orchestrating data processing pipelines that generated regulatory compliance reports and business intelligence insights.",
+        "Integrated machine learning models with banking systems through REST APIs, enabling real-time fraud detection and risk assessment for transaction processing workflows.",
+        "Developed monitoring systems for financial ML models, implementing performance tracking and drift detection to maintain model accuracy in dynamic banking environments.",
+        "Implemented data security controls for financial analytics, ensuring PCI compliance through encryption, access logging, and comprehensive audit trails.",
+        "Conducted statistical analysis of banking data, generating insights that supported business decision making and strategic planning across retail and commercial banking divisions."
+      ],
+      "environment": [
+        "Python",
+        "AWS SageMaker",
+        "PySpark",
+        "EMR",
+        "Docker",
+        "ECS",
+        "REST APIs",
+        "SQL",
+        "Pandas",
+        "Scikit-learn",
+        "Matplotlib"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Developed Hadoop-based ETL pipelines for client data processing, implementing MapReduce jobs that handled large-scale data transformation and aggregation for consulting analytics projects.",
+        "Built data integration workflows using Informatica, designing ETL processes that extracted data from diverse source systems and loaded it into centralized data warehouses for analysis.",
+        "Implemented Sqoop data transfer between relational databases and Hadoop, optimizing import/export processes that handled client data migration and synchronization requirements.",
+        "Designed data modeling solutions for consulting projects, creating dimensional models that supported business intelligence reporting and analytical applications across multiple domains.",
+        "Developed Python scripts for data quality monitoring, implementing validation checks that ensured accuracy and consistency of client data throughout processing pipelines.",
+        "Created documentation and training materials for data engineering processes, enabling knowledge transfer to client teams and supporting ongoing maintenance of data systems.",
+        "Optimized ETL performance through query tuning and process redesign, improving data processing efficiency for time-sensitive consulting deliverables and client reporting.",
+        "Collaborated with consulting teams to understand data requirements, designing and implementing data solutions that supported analytical needs across diverse business domains."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Python",
+        "SQL",
+        "MapReduce",
+        "Data Modeling",
+        "ETL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

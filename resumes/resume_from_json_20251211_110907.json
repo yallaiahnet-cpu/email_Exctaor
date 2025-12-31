@@ -1,0 +1,280 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Architect - AI/ML & Lakehouse Platforms",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 12 years of experience in enterprise data architecture and AI/ML platforms, specializing in designing and implementing scalable Databricks Lakehouse solutions with advanced dbt and SQL to drive automation.",
+    "Architected a modern Lakehouse platform on Databricks, implementing Data Vault 2.0 and Star Schema models to support AI/ML projects for payroll automation and anomaly detection, significantly improving data discoverability.",
+    "Led the development of expert-level SQL transformations and dbt models to build a unified feature store, enabling data scientists to efficiently train models for healthcare fraud detection and financial anomaly identification.",
+    "Designed and orchestrated complex ELT pipelines using Apache Airflow and Azure Data Factory, automating the ingestion and processing of multi-terabyte datasets from EHR and claims systems into Delta Lake.",
+    "Established MLOps practices by integrating Databricks MLflow for end-to-end model lifecycle management, from tracking experiments in government analytics projects to deploying models for real-time inference.",
+    "Implemented comprehensive data governance and quality automation frameworks using Unity Catalog, defining ACLs and automated data quality checks to ensure compliance with HIPAA and PCI DSS regulations.",
+    "Engineered CI/CD pipelines for data platforms using GitHub Actions and Terraform, enabling automated testing and deployment of Databricks notebooks, dbt projects, and Delta Lake schemas across environments.",
+    "Optimized Delta Lake performance through advanced techniques like Z-Ordering and Auto-Optimize, reducing query times for complex payroll analytics by 60% while controlling cloud compute costs.",
+    "Developed scalable data ingestion architectures combining batch processing with streaming via Apache Kafka, creating real-time feature pipelines for ML models predicting supply chain disruptions.",
+    "Collaborated cross-functionally with ML engineering teams to define feature engineering standards and reusable data components, accelerating the development of anomaly detection models for insurance claim fraud.",
+    "Spearheaded data architecture decisions for AI-enabled analytics systems, advising on cloud architecture (AWS/Azure) selections and implementing cost-optimization strategies for Databricks workloads.",
+    "Built monitoring and logging frameworks for data pipelines and ML models, creating dashboards that provided visibility into data quality metrics and model performance drift for proactive maintenance.",
+    "Created templates and frameworks for reusable data components, including standardized source-to-target mappings (STTM) and data lineage documentation that accelerated new project onboarding.",
+    "Mentored junior data engineers on Data Vault modeling best practices and Delta Lake optimization techniques, fostering a culture of technical excellence and knowledge sharing within the team.",
+    "Translated business requirements for payroll automation into technical specifications, designing data models that supported AI-driven payroll processing while maintaining strict audit trails for compliance.",
+    "Conducted performance tuning for PySpark and SQL workloads, identifying and resolving bottlenecks in complex joins and aggregations that supported large-scale healthcare analytics.",
+    "Championed the adoption of Unity Catalog for centralized data governance across multiple business units, implementing fine-grained access controls for sensitive HR and payroll data assets.",
+    "Presented data architecture strategies and ROI analyses to executive stakeholders, influencing investment decisions in Databricks platform expansion and AI/ML capability development."
+  ],
+  "technical_skills": {
+    "Cloud Platforms & Infrastructure": [
+      "AWS (S3, Glue, Redshift)",
+      "Azure (Data Factory, Databricks, Synapse)",
+      "GCP (BigQuery)",
+      "Terraform",
+      "Cloud Architecture"
+    ],
+    "Data Engineering & Lakehouse": [
+      "Databricks (Advanced)",
+      "Delta Lake",
+      "Lakehouse Architecture",
+      "Z-Ordering",
+      "Auto-Optimize",
+      "Clustering",
+      "Unity Catalog",
+      "PySpark"
+    ],
+    "Data Modeling & Architecture": [
+      "Data Vault 2.0",
+      "Star Schema",
+      "Dimensional Modeling",
+      "Source-to-Target Mappings (STTM)",
+      "Feature Store Design",
+      "Data Lineage"
+    ],
+    "ETL/ELT & Orchestration": [
+      "Apache Airflow",
+      "Azure Data Factory (ADF)",
+      "AWS Glue",
+      "dbt (Data Build Tool)",
+      "ELT Pipeline Development",
+      "CI/CD for Data"
+    ],
+    "Programming & Query Languages": [
+      "SQL (Expert)",
+      "Python",
+      "PySpark",
+      "Bash/Shell Scripting"
+    ],
+    "MLOps & AI/ML Engineering": [
+      "MLflow",
+      "Model Tracking & Deployment",
+      "Feature Engineering",
+      "Anomaly Detection Algorithms",
+      "Payroll Automation AI",
+      "MLOps Practices"
+    ],
+    "Data Governance & Quality": [
+      "Data Governance Frameworks",
+      "Data Quality Automation",
+      "Metadata Management",
+      "Compliance (HIPAA, PCI DSS)",
+      "Access Controls (ACLs)"
+    ],
+    "Streaming & Real-time Processing": [
+      "Apache Kafka",
+      "AWS Kinesis",
+      "Structured Streaming",
+      "Real-time Feature Pipelines"
+    ],
+    "BI & Analytics": [
+      "Power BI",
+      "Tableau",
+      "Dashboard Development",
+      "Analytics Architecture"
+    ],
+    "DevOps & Automation": [
+      "CI/CD Pipelines",
+      "GitHub Actions",
+      "Jenkins",
+      "Infrastructure-as-Code",
+      "Automated Testing"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected an enterprise Lakehouse on Databricks to consolidate healthcare supply chain data, implementing Data Vault modeling for raw data layers and Star Schema for analytics supporting AI-driven inventory predictions.",
+        "Engineered complex dbt transformations to build a feature store from disparate EHR and inventory systems, creating reusable features for ML models that automate procurement and detect supply anomalies.",
+        "Developed and orchestrated ELT pipelines using Azure Data Factory that processed terabytes of daily transactional data into Delta Lake, implementing incremental loads and data quality checks for HIPAA compliance.",
+        "Implemented MLOps practices by integrating Databricks MLflow to track experiments for anomaly detection models, managing the deployment of models that identified irregular ordering patterns in hospital supply chains.",
+        "Established data governance using Unity Catalog, defining ACLs and data quality rules that automated the validation of sensitive patient and product data flowing into AI training datasets.",
+        "Optimized Delta Lake performance through Z-Ordering on key date and product dimensions, reducing query times for complex supply chain analytics by over 50% while controlling Databricks compute costs.",
+        "Built CI/CD pipelines for the data platform using Terraform and GitHub Actions, enabling automated testing and deployment of dbt models, Databricks notebooks, and Delta Lake schema changes.",
+        "Designed a scalable data ingestion architecture combining ADF batch pipelines with Kafka streaming for real-time inventory updates, creating features for ML models predicting stock-out scenarios.",
+        "Collaborated with ML engineers to define feature engineering standards and reusable data components, accelerating development of models for automated purchase order generation and price anomaly detection.",
+        "Created comprehensive data lineage documentation and source-to-target mappings (STTM) for all data assets, providing clear visibility into data flows supporting AI-driven supply chain decisions.",
+        "Spearheaded performance tuning of PySpark workloads, identifying and resolving skew in large-scale joins between supplier catalogs and historical purchase data that fed predictive models.",
+        "Implemented monitoring frameworks for data pipelines using Databricks workflows and alerting, ensuring data quality and timeliness for critical features used in daily automated procurement processes.",
+        "Mentored data engineers on Data Vault modeling principles and Delta Lake best practices, conducting code reviews that emphasized performance optimization and maintainable data transformation logic.",
+        "Advised on cloud architecture decisions for expanding the Lakehouse platform, evaluating cost-optimization strategies for Databricks clusters and cloud storage across different healthcare business units.",
+        "Presented the data architecture strategy and ROI to executive leadership, demonstrating how the unified Lakehouse enabled faster AI model development and more accurate supply chain forecasting.",
+        "Troubleshot complex data quality issues in source systems, working directly with ERP system owners to establish reliable data extraction patterns that ensured clean inputs for AI models."
+      ],
+      "environment": [
+        "Databricks",
+        "Delta Lake",
+        "dbt",
+        "SQL",
+        "Azure Data Factory",
+        "Apache Airflow",
+        "Data Vault",
+        "Star Schema",
+        "MLflow",
+        "Unity Catalog",
+        "Python",
+        "PySpark",
+        "Terraform",
+        "Kafka",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Designed and implemented a Lakehouse architecture on Databricks to centralize claims and member data, building Data Vault models that supported AI projects for fraud detection and claims automation.",
+        "Developed expert-level SQL transformations and dbt models to create analytics-ready dimensional schemas, enabling faster development of ML models for predicting claim adjudication outcomes.",
+        "Built and orchestrated ETL pipelines using AWS Glue and Airflow to ingest petabytes of historical claims data into Delta Lake, implementing incremental processing and automated data quality validation.",
+        "Integrated Databricks MLflow for model tracking and governance, establishing MLOps practices that streamlined the deployment of anomaly detection models identifying irregular billing patterns.",
+        "Implemented data governance frameworks with Unity Catalog, defining access controls and automated data quality checks to ensure compliance with insurance regulations and data privacy standards.",
+        "Optimized Delta Lake performance using clustering and Auto-Optimize features, significantly improving query performance for complex analytics supporting real-time claim decisioning AI.",
+        "Created CI/CD pipelines for data assets using Terraform and Jenkins, automating the deployment of Databricks workspaces, Delta Lake schemas, and dbt transformation jobs across environments.",
+        "Designed feature engineering pipelines that transformed raw claims data into ML-ready features, collaborating with data scientists to build models for automated prior authorization processing.",
+        "Established monitoring and alerting for data pipelines using Databricks DLT and custom logging, ensuring data reliability for critical features feeding real-time fraud detection models.",
+        "Developed reusable data components and templates for common insurance transformations, accelerating the onboarding of new data sources and reducing development time for new analytics projects.",
+        "Conducted performance tuning on complex PySpark joins between member, provider, and claims data, resolving skew issues that impacted model training pipelines for predictive analytics.",
+        "Documented comprehensive data lineage and source-to-target mappings for all insurance data assets, supporting audit requirements and enabling impact analysis for system changes.",
+        "Collaborated with BI teams to optimize Star Schema designs for Power BI reporting, ensuring the Lakehouse architecture supported both AI model development and business intelligence needs.",
+        "Participated in architecture reviews to advise on cloud cost optimization strategies for Databricks, implementing auto-scaling policies and storage lifecycle rules to control expenses."
+      ],
+      "environment": [
+        "Databricks",
+        "Delta Lake",
+        "dbt",
+        "SQL",
+        "AWS Glue",
+        "Apache Airflow",
+        "Data Vault",
+        "MLflow",
+        "Unity Catalog",
+        "PySpark",
+        "Terraform",
+        "CI/CD",
+        "Insurance Data Models"
+      ]
+    },
+    {
+      "role": " Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Contributed to building a Lakehouse platform on Azure Databricks for public health data, assisting with Data Vault modeling to integrate data from multiple state agencies for pandemic response analytics.",
+        "Developed SQL transformations and dbt models to create dimensional schemas from integrated health data, supporting early AI projects for predicting healthcare resource utilization during emergencies.",
+        "Built and maintained Azure Data Factory pipelines that ingested data from various government systems into Delta Lake, implementing data quality checks to ensure accuracy for public reporting.",
+        "Assisted with implementing basic data governance using Unity Catalog, helping define access controls for sensitive public health data used in predictive modeling projects.",
+        "Supported performance optimization of Delta Lake through clustering on geographic and temporal dimensions, improving query performance for dashboards tracking disease spread indicators.",
+        "Participated in developing CI/CD pipelines for data assets using Azure DevOps, automating the deployment of Databricks notebooks and database schemas across development and test environments.",
+        "Collaborated on feature engineering for early warning system models, transforming raw public health data into features that helped predict hospital capacity needs during health crises.",
+        "Created documentation for source-to-target mappings and data lineage for integrated health datasets, supporting transparency requirements for government AI initiatives.",
+        "Monitored data pipeline performance and resolved issues with daily data loads, ensuring timely availability of data for public health dashboards and analytical models.",
+        "Assisted with designing Star Schema models for Power BI reporting, ensuring the Lakehouse architecture supported both operational reporting and advanced analytics needs.",
+        "Participated in cross-functional meetings with data scientists, helping translate model feature requirements into data transformation logic implemented in Databricks and dbt.",
+        "Supported troubleshooting of data quality issues in source systems, working with agency IT teams to improve data extraction processes for more reliable analytics inputs."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Delta Lake",
+        "dbt",
+        "SQL",
+        "Azure Data Factory",
+        "Data Vault",
+        "Unity Catalog",
+        "PySpark",
+        "Azure DevOps",
+        "Government Data Compliance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Engineered Apache Spark processing jobs on Databricks to transform financial transaction data, building foundational data models that supported early fraud detection machine learning projects.",
+        "Developed SQL transformations to create analytical datasets from credit card transaction data, enabling data scientists to build models for identifying anomalous spending patterns.",
+        "Built Azure Data Factory pipelines to ingest data from various financial systems into Delta Lake, implementing basic data quality checks to ensure accuracy for compliance reporting.",
+        "Assisted with implementing data governance measures for financial data, helping define access controls and audit trails for sensitive customer transaction information.",
+        "Optimized Spark job performance through partitioning and caching strategies, improving processing times for daily fraud detection model training pipelines.",
+        "Participated in designing dimensional models for financial analytics, creating Star Schema designs that supported both regulatory reporting and customer behavior analysis.",
+        "Developed Python scripts for automated data quality monitoring, creating alerts for data anomalies that could impact fraud detection model accuracy.",
+        "Documented data transformation logic and pipeline architecture, creating knowledge base articles that helped onboard new team members to the financial data platform.",
+        "Collaborated with data scientists to understand feature requirements for fraud models, implementing data transformations that created relevant features from raw transaction data.",
+        "Supported production deployment of data pipelines, monitoring job performance and resolving issues with nightly processing of financial transaction data."
+      ],
+      "environment": [
+        "Databricks",
+        "Spark",
+        "SQL",
+        "Azure Data Factory",
+        "Delta Lake",
+        "Python",
+        "Financial Data Models",
+        "PCI DSS Compliance"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic data using SQL and Python, creating datasets that supported early machine learning experiments for automated medical image analysis.",
+        "Developed SQL queries to extract and transform medical image metadata from relational databases, preparing clean datasets for data scientists building convolutional neural networks.",
+        "Assisted with documenting data requirements for AI projects, creating source-to-target mappings for medical image data used in diagnostic algorithm development.",
+        "Participated in data quality assessment for healthcare datasets, identifying inconsistencies in medical image metadata that needed resolution before model training.",
+        "Created basic data pipelines using Python scripts to automate the extraction and transformation of diagnostic data from laboratory information systems.",
+        "Developed dimensional models for healthcare analytics, designing Star Schema structures that supported both operational reporting and research analysis needs.",
+        "Documented data lineage for diagnostic datasets, tracking the flow of medical image data from acquisition through preprocessing and into AI model training pipelines.",
+        "Collaborated with data scientists to understand feature engineering needs, implementing data transformations that extracted relevant characteristics from medical image metadata."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "Healthcare Data",
+        "Data Analysis",
+        "Dimensional Modeling",
+        "Medical Imaging Data",
+        "HIPAA Compliance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

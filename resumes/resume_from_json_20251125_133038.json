@@ -1,0 +1,295 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AWS Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "[https://www.linkedin.com/in/yalleshaiengineer/](https://www.linkedin.com/in/yalleshaiengineer/)",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am currently having over 10 years of experience in Data Engineering, specializing in building scalable pipelines using AWS and Apache Spark while mentoring junior engineers on best practices for coding standards and optimization techniques across distributed systems.",
+    "Designing robust ETL architectures using Python and PySpark, I frequently address complex data transformation challenges for high-volume datasets, ensuring that downstream analytics teams receive clean, reliable data for their critical business reporting needs.",
+    "Using AWS EMR to manage large-scale compute clusters, I have spent years tuning Spark configurations and memory management settings to prevent job failures, which has significantly improved the stability of daily data processing workflows in production environments.",
+    "Implementing Spark Structured Streaming for real-time data ingestion, I solved latency issues in financial transaction monitoring systems by introducing windowing and watermarking strategies, enabling stakeholders to make faster decisions based on fresh data.",
+    "Leveraging AWS Glue for serverless data integration, I architected metadata-driven frameworks that automate schema discovery and partition management, reducing the manual overhead required to maintain the Data Catalog for our growing data lake initiatives.",
+    "I have extensive hands-on experience optimizing Redshift data warehouses by carefully selecting distribution keys and sort keys, which resolved slow query performance issues and allowed analysts to run complex aggregations without timing out during peak hours.",
+    "Working with Amazon Kinesis Data Streams, I tackled the challenge of ingesting clickstream data at high throughput, building consumer applications that reliably process records with exactly-once semantics to ensure data accuracy for marketing analytics dashboards.",
+    "Applying advanced Spark performance tuning techniques, I eliminated wide shuffles and unnecessary sorts in our heaviest jobs by utilizing broadcast joins and caching strategies, effectively lowering the cloud infrastructure costs for my previous organizations.",
+    "I regularly utilize Airflow to orchestrate complex dependency graphs for data pipelines, debugging DAG failures and implementing retry logic to handle transient network issues, ensuring that critical SLAs are met consistently for executive reporting.",
+    "Through the adoption of Data Mesh principles, I am shifting towards decentralized data ownership, helping domain teams build their own data products using governed infrastructure templates that standardize security, logging, and monitoring across the enterprise.",
+    "I am proficient in implementing Iceberg table formats on S3 to handle changing data requirements, enabling features like time travel and ACID transactions which were previously difficult to manage with standard Parquet files in our data lakehouse architecture.",
+    "My background includes developing rigid data governance frameworks using AWS Lake Formation, where I defined fine-grained access controls to protect sensitive PII data, ensuring compliance with strict Insurance and Healthcare regulations like HIPAA and GDPR.",
+    "Using Terraform for Infrastructure as Code, I automated the provisioning of AWS resources, reducing environment drift and allowing the team to spin up ephemeral EMR clusters for ad-hoc analysis without manual console configuration errors.",
+    "I have integrated agentic workflows using frameworks like CrewAI and LangGraph into data pipelines, exploring how multi-agent systems can automate metadata tagging and data quality checks, pushing the boundaries of traditional data engineering automation.",
+    "Experienced in dimensional modeling for data warehouses, I designed star schemas that simplified complex joins for business intelligence tools, making it easier for non-technical users to explore data without needing deep knowledge of the underlying table structures.",
+    "I frequently lead code reviews and troubleshooting sessions, helping team members debug obscure Spark exceptions and Python errors, fostering a culture of continuous learning and collaborative problem-solving within the data engineering squads I work with.",
+    "Navigating the nuances of DynamoDB design, I addressed hot partition issues by refining our primary key strategy, ensuring balanced request distribution for our high-traffic operational applications that require single-digit millisecond latency.",
+    "I am constantly experimenting with cost-optimization strategies on AWS, utilizing spot instances for fault-tolerant batch workloads and configuring auto-scaling policies to dynamically adjust capacity based on the actual demand of our data processing jobs."
+  ],
+  "technical_skills": {
+    "Core Languages & Scripting": [
+      "Python",
+      "SQL (Advanced)",
+      "Scala",
+      "Java",
+      "Bash/Shell Scripting"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Spark SQL",
+      "Spark Structured Streaming",
+      "Apache Flink",
+      "Hadoop Ecosystem",
+      "Hive"
+    ],
+    "Spark Optimization": [
+      "Catalyst Optimizer",
+      "Tungsten Execution Engine",
+      "AQE (Adaptive Query Execution)",
+      "Broadcast Joins",
+      "Skew Handling (Salting)",
+      "Partition Pruning",
+      "Cache/Persist Strategies",
+      "Shuffle Tuning"
+    ],
+    "AWS Compute & Storage": [
+      "Amazon EMR",
+      "AWS Glue",
+      "AWS Lambda",
+      "Amazon ECS/EKS",
+      "Amazon S3",
+      "Amazon Redshift",
+      "Lake Formation",
+      "Glue Catalog"
+    ],
+    "Streaming & Real-Time": [
+      "Amazon Kinesis Data Streams",
+      "Kinesis Firehose",
+      "Amazon MSK (Managed Kafka)",
+      "Spark Streaming",
+      "Checkpointing",
+      "Watermarking"
+    ],
+    "Data Lakehouse & Formats": [
+      "Apache Iceberg",
+      "Delta Lake",
+      "Apache Hudi",
+      "Parquet",
+      "Avro",
+      "ORC",
+      "Compaction/Z-Ordering"
+    ],
+    "Orchestration & CI/CD": [
+      "Apache Airflow (MWAA)",
+      "AWS Step Functions",
+      "Glue Workflows",
+      "Terraform",
+      "AWS CloudFormation",
+      "CodePipeline",
+      "Git/GitHub/Bitbucket"
+    ],
+    "Database Systems": [
+      "PostgreSQL",
+      "MySQL",
+      "DynamoDB",
+      "Amazon RDS",
+      "Redshift Serverless",
+      "Redshift Spectrum"
+    ],
+    "AI Agents & GenAI": [
+      "CrewAI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "RAG Pipelines",
+      "Model Context Protocol",
+      "Proof of Concepts (PoC)"
+    ],
+    "Monitoring & Security": [
+      "Amazon CloudWatch",
+      "AWS X-Ray",
+      "AWS IAM",
+      "AWS KMS",
+      "VPC Networking",
+      "GuardDuty"
+    ],
+    "Data Modeling": [
+      "Dimensional Modeling",
+      "Star Schema",
+      "Snowflake Schema",
+      "SCD Type 1/2",
+      "Data Vault"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AWS Data Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using PySpark on Amazon EMR to tackle massive data skew in vehicle policy joins, I am currently implementing a salting technique that distributes keys evenly, which is stabilizing our daily jobs and reducing the shuffle write stages significantly during peak loads.",
+        "Developing a complex multi-agent system using CrewAI, I am orchestrating autonomous agents to validate insurance claims data against policy rules, though I am still refining the inter-agent communication protocols to handle edge cases more gracefully.",
+        "Leveraging Apache Iceberg tables on S3 for our data lake, I am enabling schema evolution for rapidly changing policy riders, resolving previous issues where schema mismatches caused pipeline failures and required manual intervention to fix data types.",
+        "Designing real-time ingestion pipelines with Spark Structured Streaming, I am capturing telematics data from vehicle sensors, handling late-arriving data using watermarking to ensure that driver risk scores are calculated accurately for premiums.",
+        "Integrating AWS Glue with Lake Formation, I am setting up fine-grained access controls to protect sensitive customer PII, ensuring that we remain compliant with strict Insurance regulations while still making non-sensitive data available to analysts.",
+        "Using LangGraph to build a Proof of Concept (PoC) for a customer support bot, I am creating a graph-based retrieval system that navigates complex policy documents, although tuning the context window for the model is proving to be an interesting challenge.",
+        "Optimizing cost efficiency for our EMR clusters, I am configuring instance fleets with a mix of Spot and On-Demand instances, which is lowering our compute costs substantially while maintaining high availability for our mission-critical ETL workloads.",
+        "Troubleshooting memory leaks in long-running Spark jobs, I am analyzing executor logs in CloudWatch to identify inefficient UDFs, replacing them with native Spark SQL functions to improve execution speed and reduce the load on the driver node.",
+        "Deploying infrastructure using Terraform, I am automating the provisioning of our entire data platform, which is eliminating configuration drift and allowing us to spin up identical environments for testing new insurance rating models safely.",
+        "Refining the data partitioning strategy for our claims history tables, I am implementing dynamic partition pruning to speed up downstream queries, allowing actuaries to run historical analysis on decades of data without scanning the entire dataset.",
+        "Collaborating with data scientists on model deployment, I am building feature stores using DynamoDB to serve real-time features for fraud detection models, ensuring that the inference latency remains low enough to catch suspicious claims instantly.",
+        "Using Amazon Redshift Spectrum, I am enabling analysts to query exabytes of cold data directly in S3 without loading it, which is saving us storage costs and simplifying the architecture for accessing archived insurance records.",
+        "Leading daily stand-ups and code reviews, I am mentoring junior engineers on Python best practices and Spark optimization, helping them understand the DAG visualization to identify bottlenecks in their transformation logic before merging code.",
+        "Implementing data quality checks using Great Expectations within our Airflow DAGs, I am preventing bad data from entering our warehouse, which is increasing the trust that business stakeholders have in our daily financial reporting dashboards.",
+        "Exploring the Model Context Protocol, I am working on standardizing how our AI agents interface with internal APIs, aiming to create a reusable pattern that allows different insurance domains to plug their data into the agentic framework easily.",
+        "Debugging complex dependency conflicts in our EMR bootstrap actions, I am standardizing our Python environment management, which is reducing the startup time for our clusters and ensuring consistent library versions across all nodes."
+      ],
+      "environment": [
+        "AWS EMR",
+        "PySpark",
+        "AWS Glue",
+        "CrewAI",
+        "LangGraph",
+        "Apache Iceberg",
+        "S3",
+        "Redshift",
+        "Terraform",
+        "Airflow",
+        "DynamoDB"
+      ]
+    },
+    {
+      "role": "Senior AWS Data Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using AWS Lambda to process clinical trial data files, I architected an event-driven validation framework that automatically flagged non-compliant records, effectively preventing corrupt data from entering our research lakes and ensuring FDA compliance.",
+        "Optimized slow-running Spark jobs on AWS Glue by switching from CSV to Parquet format with Snappy compression, which dramatically reduced the I/O overhead and accelerated the daily ingestion of patient health records by a significant margin.",
+        "Leveraged AWS Step Functions to orchestrate a complex chain of ETL tasks, I managed dependencies between different data processing stages, ensuring that failures in one step triggered immediate alerts and automated retries to maintain uptime.",
+        "Built a multi-agent PoC using an early version of CrewAI to automate the literature review process, where agents scraped medical journals and summarized findings, though ensuring the accuracy of medical terminology required extensive prompting iteration.",
+        "Implemented strict HIPAA compliance measures using AWS KMS, I encrypted all sensitive patient data at rest and in transit, working closely with the security team to manage key rotation policies without disrupting our continuous data pipelines.",
+        "Addressed performance bottlenecks in Amazon Redshift, I redesigned the distribution keys to align with our most frequent join patterns, which eliminated broadcasting of large tables and speeded up the query response times for researchers.",
+        "Using LangGraph for a knowledge retrieval system, I modeled the relationships between different drug compounds and adverse effects, creating a graph structure that allowed researchers to query complex interactions more intuitively than SQL.",
+        "Automated the disaster recovery process for our S3 data lake, I configured Cross-Region Replication rules that ensured our critical healthcare data was safely backed up to a secondary region, satisfying our internal business continuity requirements.",
+        "Debugged intermittent failures in our Kinesis Data Streams consumers, I identified shard iterator expiration issues during heavy load and implemented better exception handling logic to ensure we never lost a single vital sign record.",
+        "Collaborated with cross-functional teams to define data contracts, I established clear schema standards for upstream data producers, which reduced the number of transformation errors we had to fix during the nightly batch processing window.",
+        "Configured AWS Glue crawlers to automatically discover schema changes in our raw zone, I reduced the manual effort required to update the Data Catalog, allowing the analytics team to start querying new clinical data sources almost immediately.",
+        "Utilized Amazon Athena for ad-hoc analysis of logs, I created partitioned tables that allowed the DevOps team to quickly query terabytes of application logs to troubleshoot system errors without needing to provision a dedicated database.",
+        "Mentored junior developers on the nuances of Spark memory management, I taught them how to interpret the Spark UI to identify skew and spill-to-disk events, empowering them to write more efficient code for our healthcare analytics platform.",
+        "Refined our CI/CD pipelines using CodePipeline, I automated the testing and deployment of our Glue scripts, introducing unit tests that caught logic errors before they could impact the production data used for regulatory reporting."
+      ],
+      "environment": [
+        "AWS Lambda",
+        "AWS Glue",
+        "Redshift",
+        "Step Functions",
+        "Kinesis",
+        "LangGraph",
+        "CrewAI",
+        "S3",
+        "Athena",
+        "CodePipeline"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using Azure Databricks to analyze public health records, I engineered robust PySpark pipelines that standardized patient demographic data across counties, resolving inconsistencies that had previously made state-wide reporting difficult and unreliable.",
+        "Addressed the challenge of 'small files' in our data lake, I implemented Delta Lake optimization commands to compact thousands of tiny files into larger ones, which drastically improved the read performance for our downstream reporting dashboards.",
+        "Leveraged Azure Data Factory to orchestrate data movement, I built dynamic pipelines that ingested data from on-premise SQL servers into the cloud, ensuring secure transfer of sensitive health information in compliance with state regulations.",
+        "Configured Azure Synapse Analytics for high-performance warehousing, I tuned the workload management groups to ensure that critical executive queries always received sufficient resources, even when heavy ETL jobs were running concurrently.",
+        "Implemented Role-Based Access Control (RBAC) in Azure Data Lake Storage, I ensured that only authorized personnel could access files containing Protected Health Information (PHI), adhering strictly to HIPAA guidelines during the pandemic response.",
+        "Troubleshooted data quality issues in our COVID-19 tracking dashboard, I wrote custom validation scripts in Python to identify duplicate entries caused by upstream system glitches, ensuring the public facing numbers were accurate.",
+        "Using Spark Structured Streaming on Databricks, I processed real-time testing data streams, implementing checkpointing to recover gracefully from cluster failures and ensuring that no test results were dropped during processing outages.",
+        "Collaborated with the infrastructure team to secure our virtual network, I set up private endpoints for our storage accounts, eliminating exposure to the public internet and hardening our data platform against potential external security threats.",
+        "Automated the deployment of ML models using Azure ML, I created pipelines that retrained predictive models on fresh data weekly, although I initially struggled with versioning the datasets correctly before adopting a better tagging strategy.",
+        "Monitored pipeline costs using Azure Cost Management, I identified unused resources and over-provisioned clusters, resizing them to match actual workload requirements which saved the state budget a considerable amount in monthly cloud fees.",
+        "Wrote complex SQL transformations in Synapse, I converted legacy stored procedures into modern T-SQL scripts, optimizing the logic to run in parallel across the distributed nodes of the data warehouse for faster execution.",
+        "Participated in daily scrum meetings, I provided updates on data engineering blockers and worked closely with the application team to resolve schema mismatches between the operational databases and the analytical data warehouse."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "PySpark",
+        "Azure Data Factory",
+        "Azure Synapse",
+        "Delta Lake",
+        "Azure ML",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Azure HDInsight to process transaction logs, I supported the migration of our fraud detection logic to the cloud, rewriting legacy MapReduce code into efficient Spark applications that ran significantly faster on the new infrastructure.",
+        "Addressed data latency issues in our credit monitoring system, I implemented Kafka producers to stream transaction events in real-time, allowing the risk team to detect potential fraudulent activity moments after it occurred.",
+        "Leveraged Azure SQL Database for our relational data needs, I optimized index strategies on our largest transaction tables, which resolved timeouts during end-of-month reporting and improved the overall user experience for internal banking apps.",
+        "Implemented rigorous data masking techniques, I ensured that all credit card numbers and social security numbers were obfuscated in the lower environments, maintaining strict compliance with PCI DSS standards during development and testing.",
+        "Collaborated with the risk modeling team, I engineered features from raw banking transaction data using Python, creating reliable datasets that improved the accuracy of our credit default prediction models by a measurable margin.",
+        "Debugged connection timeouts between our on-premise data centers and Azure, I worked with network engineers to tune the ExpressRoute configurations, ensuring stable and high-throughput data transfer for our nightly batch ingestion jobs.",
+        "Using Azure Blob Storage as a landing zone, I organized the folder structure using a date-partitioned hierarchy, which simplified the data retrieval process for downstream consumers and made lifecycle management policies easier to apply.",
+        "Assisted in the setup of automated monitoring using Azure Monitor, I configured alerts for pipeline failures and long-running jobs, allowing the operations team to react quickly to issues before they impacted the start of the business day.",
+        "Wrote comprehensive documentation for our data pipelines, I detailed the mapping logic and dependency flows, which helped new team members onboard faster and reduced the risk associated with knowledge silos in the team.",
+        "Participated in code reviews for SQL stored procedures, I suggested optimizations to remove nested cursors and replace them with set-based operations, which improved the performance of our daily reconciliation processes."
+      ],
+      "environment": [
+        "Azure HDInsight",
+        "Spark",
+        "Kafka",
+        "Azure SQL",
+        "Python",
+        "Azure Blob Storage",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Apache Sqoop to ingest data from legacy Oracle databases, I assisted in offloading historical data to our Hadoop cluster, dealing with connection issues and mapper tuning to ensure we met the nightly backup SLAs without impacting source systems.",
+        "Addressed slow query performance in Hive, I learned to implement partitioning and bucketing strategies on our largest tables, which significantly reduced the data scanned during analysis and improved response times for the reporting team.",
+        "Leveraged Informatica PowerCenter for ETL workflows, I developed mappings to transform complex business logic, although I frequently had to debug session logs to fix truncation errors caused by mismatched field lengths in the target tables.",
+        "Wrote shell scripts to automate the execution of our daily Hadoop jobs, I created wrapper scripts that checked for the presence of input files before triggering the processing, reducing the number of failed job runs due to missing data.",
+        "Assisted senior engineers in troubleshooting HDFS imbalances, I learned how to run the balancer utility to redistribute blocks across data nodes, ensuring that no single node became a bottleneck for storage or compute operations.",
+        "Using Impala for interactive SQL queries, I helped business analysts access data stored in HDFS, optimizing their queries by educating them on the importance of collecting statistics to help the query planner choose the best execution path.",
+        "Collaborated with the testing team to validate data migration accuracy, I wrote SQL scripts to compare record counts and aggregates between the source Oracle system and the target Hadoop cluster, ensuring zero data loss during the transition.",
+        "Participated in requirement gathering meetings, I learned how to translate vague business needs into technical specifications for data pipelines, documenting the source-to-target mappings that served as the blueprint for our development work."
+      ],
+      "environment": [
+        "Hadoop",
+        "HDFS",
+        "Hive",
+        "Sqoop",
+        "Informatica",
+        "Oracle",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1 "
+  ]
+}

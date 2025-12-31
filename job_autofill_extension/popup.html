@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Auto-Fill</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Job Auto-Fill</h1>
+            <p class="subtitle">Manage your application data</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="personal">Personal</button>
+            <button class="tab-btn" data-tab="experience">Experience</button>
+            <button class="tab-btn" data-tab="education">Education</button>
+            <button class="tab-btn" data-tab="skills">Skills</button>
+            <button class="tab-btn" data-tab="resume">Resume</button>
+        </div>
+
+        <!-- Personal Info Tab -->
+        <div class="tab-content active" id="personal-tab">
+            <h2>Personal Information</h2>
+            <form id="personalForm">
+                <div class="form-group">
+                    <label>First Name *</label>
+                    <input type="text" id="firstName" required>
+                </div>
+                <div class="form-group">
+                    <label>Last Name *</label>
+                    <input type="text" id="lastName" required>
+                </div>
+                <div class="form-group">
+                    <label>Email *</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div class="form-group">
+                    <label>Phone *</label>
+                    <input type="tel" id="phone" required>
+                </div>
+                <div class="form-group">
+                    <label>Address</label>
+                    <input type="text" id="address">
+                </div>
+                <div class="form-group">
+                    <label>City</label>
+                    <input type="text" id="city">
+                </div>
+                <div class="form-group">
+                    <label>State</label>
+                    <input type="text" id="state">
+                </div>
+                <div class="form-group">
+                    <label>ZIP Code</label>
+                    <input type="text" id="zipCode">
+                </div>
+                <div class="form-group">
+                    <label>Country</label>
+                    <input type="text" id="country" value="United States">
+                </div>
+                <div class="form-group">
+                    <label>LinkedIn URL</label>
+                    <input type="url" id="linkedin">
+                </div>
+                <div class="form-group">
+                    <label>GitHub URL</label>
+                    <input type="url" id="github">
+                </div>
+                <div class="form-group">
+                    <label>Portfolio/Website</label>
+                    <input type="url" id="portfolio">
+                </div>
+                <button type="submit" class="btn-primary">Save Personal Info</button>
+            </form>
+        </div>
+
+        <!-- Experience Tab -->
+        <div class="tab-content" id="experience-tab">
+            <h2>Work Experience</h2>
+            <div id="experienceList"></div>
+            <button class="btn-secondary" id="addExperienceBtn">+ Add Experience</button>
+            <div id="experienceForm" class="hidden">
+                <h3>Add/Edit Experience</h3>
+                <form id="experienceFormFields">
+                    <input type="hidden" id="expId">
+                    <div class="form-group">
+                        <label>Job Title *</label>
+                        <input type="text" id="expTitle" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Company *</label>
+                        <input type="text" id="expCompany" required>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Start Date *</label>
+                            <input type="month" id="expStartDate" required>
+                        </div>
+                        <div class="form-group">
+                            <label>End Date</label>
+                            <input type="month" id="expEndDate">
+                            <label class="checkbox-label">
+                                <input type="checkbox" id="expCurrent"> Current Job
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Location</label>
+                        <input type="text" id="expLocation">
+                    </div>
+                    <div class="form-group">
+                        <label>Description *</label>
+                        <textarea id="expDescription" rows="5" required placeholder="Describe your responsibilities and achievements..."></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-primary">Save</button>
+                        <button type="button" class="btn-secondary" id="cancelExpBtn">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Education Tab -->
+        <div class="tab-content" id="education-tab">
+            <h2>Education</h2>
+            <div id="educationList"></div>
+            <button class="btn-secondary" id="addEducationBtn">+ Add Education</button>
+            <div id="educationForm" class="hidden">
+                <h3>Add/Edit Education</h3>
+                <form id="educationFormFields">
+                    <input type="hidden" id="eduId">
+                    <div class="form-group">
+                        <label>School/University *</label>
+                        <input type="text" id="eduSchool" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Degree *</label>
+                        <input type="text" id="eduDegree" required placeholder="e.g., Bachelor of Science">
+                    </div>
+                    <div class="form-group">
+                        <label>Field of Study</label>
+                        <input type="text" id="eduField" placeholder="e.g., Computer Science">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Start Year</label>
+                            <input type="number" id="eduStartYear" min="1950" max="2030">
+                        </div>
+                        <div class="form-group">
+                            <label>Graduation Year *</label>
+                            <input type="number" id="eduEndYear" min="1950" max="2030" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>GPA (Optional)</label>
+                        <input type="text" id="eduGPA" placeholder="e.g., 3.8">
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-primary">Save</button>
+                        <button type="button" class="btn-secondary" id="cancelEduBtn">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Skills Tab -->
+        <div class="tab-content" id="skills-tab">
+            <h2>Skills & Certifications</h2>
+            <div class="form-group">
+                <label>Technical Skills (comma-separated) *</label>
+                <textarea id="skills" rows="4" placeholder="Python, JavaScript, React, AWS, Docker, Kubernetes..."></textarea>
+            </div>
+            <div class="form-group">
+                <label>Certifications (one per line)</label>
+                <textarea id="certifications" rows="4" placeholder="AWS Certified Solutions Architect&#10;Google Cloud Professional&#10;Microsoft Azure Fundamentals"></textarea>
+            </div>
+            <div class="form-group">
+                <label>Languages (comma-separated)</label>
+                <input type="text" id="languages" placeholder="English, Spanish, French">
+            </div>
+            <button type="button" class="btn-primary" id="saveSkillsBtn">Save Skills</button>
+        </div>
+
+        <!-- Resume Tab -->
+        <div class="tab-content" id="resume-tab">
+            <h2>Resume File</h2>
+            <div class="form-group">
+                <label>Upload Resume (PDF or DOCX)</label>
+                <input type="file" id="resumeFile" accept=".pdf,.docx,.doc">
+                <p class="help-text">Your resume will be automatically attached to applications</p>
+            </div>
+            <div id="resumeStatus" class="status-message"></div>
+            <div class="form-group">
+                <label>Cover Letter Template</label>
+                <textarea id="coverLetter" rows="8" placeholder="Enter your default cover letter template..."></textarea>
+            </div>
+            <button type="button" class="btn-primary" id="saveResumeBtn">Save Resume Settings</button>
+        </div>
+
+        <!-- Quick Actions -->
+        <div class="quick-actions">
+            <h3>Quick Actions</h3>
+            <div class="action-buttons">
+                <button class="btn-action" id="fillPageBtn">🔍 Fill Current Page</button>
+                <button class="btn-action" id="exportDataBtn">📥 Export Data</button>
+                <button class="btn-action" id="importDataBtn">📤 Import Data</button>
+                <input type="file" id="importFile" accept=".json" style="display: none;">
+            </div>
+        </div>
+
+        <div id="statusMessage" class="status-message"></div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
+

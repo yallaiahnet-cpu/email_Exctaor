@@ -1,0 +1,340 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AWS Bedrock AI Engineer | Agentic AI Systems Developer",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "Linked In",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 6 years of hands-on experience building autonomous AI agents using AWS Bedrock, LangChain, and LangGraph to automate enterprise workflows and enable intelligent decision-making across insurance, technology, transportation, and banking domains.",
+    "Architected multi-agent orchestration systems leveraging LLMs through AWS Bedrock to implement agentic workflows with autonomous planning, reasoning chains, memory management, and tool use for complex business process automation in production environments.",
+    "Deployed intelligent agents utilizing LangGraph and LlamaIndex to orchestrate task execution across backend microservices, integrating external APIs, vector databases like Pinecone and Weaviate, and NoSQL datastores to deliver scalable AI-powered automation solutions.",
+    "Applied FastAPI and Flask frameworks to build backend services exposing agent capabilities through REST APIs, enabling seamless integration of autonomous decision-making into existing enterprise systems while maintaining robust security and governance protocols.",
+    "Configured Docker and Kubernetes containerized deployments for AI agents on AWS infrastructure, establishing CI/CD pipelines to continuously improve agent logic and monitor performance metrics across staging and production environments in real-time operational scenarios.",
+    "Integrated Model Context Protocol and agent-to-agent communication patterns to coordinate multi-agent systems, implementing function calling schemas and tool use capabilities that enable agents to interact with databases, external tools, and business application APIs autonomously.",
+    "Optimized prompt engineering strategies and evaluation frameworks to measure agent accuracy, task success rates, and response latency, applying advanced techniques like RAG patterns with PGVector to enhance reasoning quality and reduce hallucination in insurance compliance contexts.",
+    "Collaborated with product managers and data scientists to translate business requirements into technical specifications for agentic AI solutions, gathering stakeholder input to design agent workflows that automate repetitive tasks and augment human decision-making capabilities.",
+    "Implemented MLOps principles using CloudWatch monitoring and AWS Lambda orchestration to manage agent lifecycles in production, establishing retry logic, rate limiting, and error handling mechanisms that ensure reliability when agents execute financial transactions and regulatory processes.",
+    "Partnered with DevOps engineers to establish infrastructure-as-code using Terraform for provisioning AWS Bedrock resources, S3 storage, and IAM roles, ensuring enterprise security protocols and data governance compliance across all agent deployment environments.",
+    "Developed semantic search capabilities using embedding models and vector databases to power RAG architectures, enabling agents to retrieve relevant context from knowledge bases and make informed decisions when processing insurance claims and customer service inquiries.",
+    "Facilitated adoption of agentic AI systems across business stakeholders by demonstrating autonomous workflow capabilities, conducting training sessions, and iteratively refining agent behavior based on user feedback and performance analytics collected from production interactions.",
+    "Maintained current knowledge of emerging trends in agentic AI research, evaluating new frameworks like CrewAI and AutoGen for multi-agent coordination, and experimenting with advanced memory management techniques to extend agent context windows for long-running conversational workflows.",
+    "Secured sensitive data handling through AWS Secrets Manager integration and implemented ethical AI principles in agent design, establishing guardrails against bias and ensuring transparent decision-making processes aligned with regulatory compliance standards in banking and insurance sectors."
+  ],
+  "technical_skills": {
+    "Cloud Platforms": [
+      "AWS",
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "Amazon S3",
+      "CloudWatch",
+      "IAM",
+      "API Gateway",
+      "AWS Secrets Manager",
+      "SQS",
+      "SNS"
+    ],
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "LLM Platforms & Models": [
+      "Large Language Models",
+      "AWS Bedrock Claude",
+      "Anthropic Claude",
+      "OpenAI API",
+      "Bedrock Titan Embeddings",
+      "Embedding models"
+    ],
+    "AI Agent Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "CrewAI",
+      "AutoGen",
+      "Agents SDK",
+      "Guardrails AI"
+    ],
+    "Agentic AI Concepts": [
+      "Agentic AI systems",
+      "Autonomous decision-making",
+      "Multi-agent orchestration",
+      "Task orchestration",
+      "Autonomous planning",
+      "Reasoning chains",
+      "Memory management",
+      "Tool use",
+      "Function calling",
+      "Agentic workflows",
+      "Agent-to-agent communication",
+      "Model Context Protocol",
+      "Agent design patterns",
+      "Multi-agent systems",
+      "Long-horizon task execution"
+    ],
+    "Backend Frameworks": [
+      "FastAPI",
+      "Flask",
+      "REST API",
+      "Microservices",
+      "API Gateway"
+    ],
+    "Vector Databases": [
+      "Pinecone",
+      "Weaviate",
+      "PGVector"
+    ],
+    "Databases": [
+      "SQL databases",
+      "NoSQL databases",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "RAG & Search": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Semantic search",
+      "Prompt orchestration"
+    ],
+    "DevOps & Containerization": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines",
+      "Terraform",
+      "CloudFormation",
+      "Git",
+      "GitHub"
+    ],
+    "MLOps & Monitoring": [
+      "MLOps principles",
+      "LangSmith",
+      "LangFuse",
+      "CloudWatch",
+      "Agent performance monitoring",
+      "Evaluation frameworks"
+    ],
+    "Data Validation & Testing": [
+      "Pydantic",
+      "JSON Schema",
+      "Pytest",
+      "Structured outputs"
+    ],
+    "AI Optimization": [
+      "Prompt engineering",
+      "Advanced prompt engineering",
+      "Context window management",
+      "Prompt template management",
+      "Rate limiting",
+      "Retry logic"
+    ],
+    "Security & Governance": [
+      "Enterprise security protocols",
+      "Data governance",
+      "Ethical AI principles",
+      "AWS Secrets Manager",
+      "IAM"
+    ],
+    "Integration & Messaging": [
+      "External API integration",
+      "Message queues",
+      "Kafka",
+      "Event-driven architectures"
+    ]
+  },
+  "experience": [
+    {
+      "client": "Northwestern Mutual",
+      "role": "AI Developer",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Built autonomous AI agents using AWS Bedrock and LangGraph to automate insurance policy review workflows, integrating Claude models for regulatory compliance checks that reduced manual processing time while ensuring adherence to state insurance regulations.",
+        "Designed multi-agent orchestration systems with LangChain to coordinate task execution across underwriting, claims processing, and customer service domains, implementing agent-to-agent communication protocols that enable seamless handoffs between specialized agents handling different insurance functions.",
+        "Developed FastAPI backend services exposing agent capabilities through REST APIs, enabling insurance advisors to trigger autonomous decision-making workflows that analyze policy documents, extract key terms, and recommend coverage adjustments based on client risk profiles and regulatory requirements.",
+        "Integrated Pinecone vector database with AWS Bedrock embeddings to implement RAG patterns for insurance knowledge retrieval, allowing agents to access policy guidelines, state regulations, and historical claims data when making recommendations, improving accuracy of compliance-related decisions significantly.",
+        "Configured AWS Lambda and Step Functions to orchestrate agentic workflows for long-horizon insurance claim processing tasks, implementing retry logic and error handling that ensures reliable execution when agents interact with legacy systems and external APIs during claim adjudication processes.",
+        "Applied Model Context Protocol to enable agents to access multiple tools including SQL databases, document parsing APIs, and risk calculation services, defining function calling schemas that allow autonomous agents to gather required information and execute complex insurance business logic without human intervention.",
+        "Established CloudWatch monitoring dashboards tracking agent performance metrics including task success rates, response latency, and tool use accuracy, implementing alerting mechanisms that notify operations teams when agents encounter errors or produce unexpected outputs during production insurance workflows.",
+        "Deployed containerized agent services using Docker and Kubernetes on AWS EKS, establishing CI/CD pipelines with GitHub Actions that automate testing and deployment of agent logic updates, enabling continuous improvement of autonomous decision-making capabilities based on performance analytics and user feedback.",
+        "Collaborated with insurance product managers to translate business requirements for automated underwriting into technical specifications for multi-agent systems, gathering stakeholder input on risk assessment criteria and designing agent reasoning chains that replicate expert underwriter decision-making processes accurately.",
+        "Optimized prompt engineering for insurance domain-specific tasks by developing template libraries with A/B testing capabilities, experimenting with different reasoning strategies and few-shot examples that improved agent accuracy when interpreting policy language and applying state-specific insurance regulations to customer inquiries.",
+        "Implemented AWS Secrets Manager integration to securely store API credentials and database connection strings used by agents, ensuring enterprise security protocols are maintained when autonomous systems access sensitive customer data and execute financial transactions in compliance with data governance policies.",
+        "Facilitated adoption of agentic AI solutions across business units by conducting training sessions for insurance advisors, demonstrating how autonomous agents augment human decision-making, and iteratively refining agent behavior based on feedback collected from pilot deployments in claims and underwriting departments.",
+        "Evaluated emerging agent frameworks including CrewAI for potential multi-agent insurance workflows, researching recent papers on agentic AI architectures and prototyping advanced memory management techniques that enable agents to maintain context across extended customer interactions spanning multiple policy review sessions.",
+        "Partnered with DevOps engineers to establish infrastructure-as-code using Terraform for provisioning AWS Bedrock resources, S3 buckets, and IAM roles, creating reusable modules that standardize agent deployment patterns and ensure consistent security configurations across development, staging, and production insurance application environments."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "AWS Bedrock",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "Guardrails AI",
+        "Model Context Protocol",
+        "Agents SDK",
+        "Tool calling",
+        "LLM-powered AI agents",
+        "Agentic workflows",
+        "Prompt orchestration",
+        "RAG",
+        "Long-horizon task execution",
+        "Agent design patterns",
+        "Multi-agent systems",
+        "FastAPI",
+        "Flask",
+        "AWS Lambda",
+        "AWS Step Functions",
+        "Amazon S3",
+        "CloudWatch",
+        "IAM",
+        "API Gateway",
+        "AWS Secrets Manager",
+        "Pinecone",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub",
+        "CI/CD",
+        "REST API",
+        "Microservices",
+        "Pydantic",
+        "Pytest",
+        "JSON Schema"
+      ]
+    },
+    {
+      "client": "Spartex AI",
+      "role": "LLM Developer",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Constructed agentic AI systems leveraging AWS Bedrock and LangChain to automate software development workflows, implementing autonomous agents that generated code, reviewed pull requests, and suggested refactoring opportunities based on best practices, reducing engineering team workload substantially across technology delivery projects.",
+        "Established Weaviate vector database infrastructure with semantic search capabilities to power RAG architectures for technical documentation retrieval, enabling agents to access API specifications, architectural decisions, and coding standards when assisting developers with implementation questions and debugging complex issues.",
+        "Utilized LlamaIndex to orchestrate multi-step reasoning chains for agents performing automated testing tasks, integrating with GitHub APIs to fetch code changes, generate test cases, and execute validation scripts, providing developers with comprehensive feedback on code quality and potential edge cases before merging.",
+        "Automated deployment workflows by implementing agents with tool use capabilities that interacted with AWS services, Docker registries, and Kubernetes clusters, executing infrastructure provisioning and application rollouts autonomously while monitoring for errors and rollback scenarios when deployment anomalies occurred during releases.",
+        "Coordinated multi-agent systems using agent-to-agent communication protocols to handle complex software delivery pipelines, assigning specialized agents for code generation, security scanning, performance testing, and documentation generation, ensuring comprehensive quality checks without manual coordination between different validation stages.",
+        "Generated function calling schemas defining tools available to agents for interacting with external APIs, databases, and development platforms, enabling autonomous systems to fetch data from JIRA, update Confluence pages, and trigger CI/CD pipelines when specific conditions in software development lifecycle were met.",
+        "Enhanced agent reasoning quality through advanced prompt engineering experiments, testing different chain-of-thought strategies and iterative refinement approaches that improved code generation accuracy and reduced instances where agents produced syntactically correct but logically flawed implementation solutions for developer queries.",
+        "Monitored agent performance using LangSmith observability tools to track token usage, latency, and task completion rates, identifying bottlenecks in reasoning chains and optimizing context window management to handle longer code analysis tasks without exceeding model limits during intensive debugging and code review sessions.",
+        "Secured agent workflows by implementing AWS IAM roles with least-privilege access principles, ensuring autonomous systems could only interact with authorized resources, and configured Secrets Manager integration for storing API tokens used when agents automated interactions with third-party development tools and platforms.",
+        "Streamlined code review processes by deploying agents that analyzed pull requests for adherence to coding standards, identified potential bugs, and suggested performance improvements, providing immediate feedback to developers and reducing time senior engineers spent on routine code quality assessments across multiple technology projects."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "AWS Bedrock",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "Guardrails AI",
+        "Model Context Protocol",
+        "Agents SDK",
+        "Tool calling",
+        "LLM-powered AI agents",
+        "Agentic workflows",
+        "Prompt orchestration",
+        "RAG",
+        "Long-horizon task execution",
+        "Agent design patterns",
+        "Multi-agent systems",
+        "FastAPI",
+        "Flask",
+        "AWS Lambda",
+        "Amazon S3",
+        "CloudWatch",
+        "Weaviate",
+        "Docker",
+        "Kubernetes",
+        "GitHub",
+        "CI/CD",
+        "REST API",
+        "LangSmith",
+        "AWS IAM",
+        "AWS Secrets Manager",
+        "Pydantic",
+        "JSON Schema"
+      ]
+    },
+    {
+      "client": "Ola",
+      "role": "Machine Learning Engineer",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "Assembled machine learning pipelines using Python and FastAPI to predict ride demand patterns across transportation networks, integrating Azure Machine Learning services to train models on historical trip data and deploy predictions through REST APIs consumed by dispatch and pricing systems in real-time operations.",
+        "Implemented semantic search functionality leveraging vector embeddings and PGVector database to match driver availability with customer requests based on location proximity and historical preferences, improving ride assignment efficiency and reducing customer wait times across major metropolitan transportation corridors during peak hours.",
+        "Delivered automated data processing workflows using Azure Data Factory to extract, transform, and load transportation telemetry from IoT devices, structuring information in NoSQL databases that supported analytics dashboards tracking driver performance metrics, vehicle utilization rates, and regional demand fluctuations for operations teams.",
+        "Executed model evaluation frameworks measuring prediction accuracy, latency, and resource consumption for demand forecasting systems, conducting A/B tests comparing different ML approaches and iteratively refining feature engineering strategies to improve transportation network optimization recommendations provided to dispatch coordinators.",
+        "Migrated legacy monolithic applications to microservices architecture deployed on Azure Kubernetes Service, containerizing ML inference endpoints using Docker and establishing CI/CD pipelines that automated model versioning, testing, and rollout procedures, enabling rapid iteration of transportation optimization algorithms without service disruptions.",
+        "Troubleshot production incidents involving ML model drift and data quality issues, analyzing logs in Azure Monitor to identify root causes when prediction accuracy degraded, implementing data validation checks and retraining triggers that maintained model performance as transportation patterns evolved during seasonal demand shifts.",
+        "Assisted data science teams in feature engineering efforts by developing Python scripts that aggregated transportation metrics from multiple data sources, calculating derived features like driver ratings, average trip durations, and cancellation rates that improved ML model predictive power for ride-sharing demand forecasting.",
+        "Contributed to technical documentation describing ML pipeline architectures, model training procedures, and API specifications, ensuring knowledge transfer to new team members and providing operations staff with troubleshooting guides when ML-powered transportation systems exhibited unexpected behavior during high-traffic periods."
+      ],
+      "environment": [
+        "Python",
+        "Azure Machine Learning",
+        "Azure Data Factory",
+        "Azure Kubernetes Service",
+        "Azure Monitor",
+        "FastAPI",
+        "Flask",
+        "PGVector",
+        "NoSQL databases",
+        "MongoDB",
+        "Docker",
+        "CI/CD",
+        "REST API",
+        "Microservices",
+        "Vector embeddings",
+        "Semantic search",
+        "Azure Storage",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "client": "ICICI Bank",
+      "role": "Azure Data Engineer",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Produced ETL pipelines using Azure Data Factory to ingest customer transaction data from banking systems into Azure SQL Database, transforming financial records and applying data quality rules that ensured compliance with banking regulations and prepared datasets for downstream analytics and reporting applications.",
+        "Supported data warehouse development by designing dimensional models in Azure Synapse Analytics that organized customer account information, transaction histories, and product usage metrics, enabling business intelligence teams to generate reports on banking portfolio performance and customer segmentation trends.",
+        "Maintained Azure Blob Storage infrastructure for archiving historical banking records, implementing retention policies aligned with financial industry compliance requirements, and configuring access controls that restricted sensitive customer data to authorized personnel while ensuring audit trails tracked all data access activities.",
+        "Obtained performance improvements for query execution times by optimizing SQL database indexes and partitioning strategies in Azure SQL, reducing report generation latency for banking operations teams who relied on near-real-time access to customer account balances and transaction summaries during business hours.",
+        "Assisted in migration of on-premise banking data systems to Azure cloud platform, coordinating with infrastructure teams to establish secure network connectivity, configure firewalls, and validate data integrity after transfer, ensuring continuity of banking operations during cloud adoption transition period.",
+        "Documented data pipeline architectures and operational procedures for Azure-based banking data systems, creating runbooks that guided support teams through troubleshooting steps when ETL jobs failed or data quality checks identified anomalies in customer transaction processing workflows."
+      ],
+      "environment": [
+        "Python",
+        "Azure Data Factory",
+        "Azure SQL Database",
+        "Azure Synapse Analytics",
+        "Azure Blob Storage",
+        "Azure Monitor",
+        "SQL",
+        "ETL",
+        "Data warehousing",
+        "Azure DevOps"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

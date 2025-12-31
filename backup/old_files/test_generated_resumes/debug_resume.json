@@ -1,0 +1,241 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI & Data Lead Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Leading the development and deployment of AI and data-driven solutions for insurance, healthcare, and banking clients.",
+    "Collaborating cross-functionally with senior stakeholders to design and implement cutting-edge data science projects.",
+    "Developing and operationalizing complex predictive models utilizing machine learning and deep learning techniques.",
+    "Designing scalable data architecture and ensuring seamless data integration with various systems.",
+    "Implementing robust data quality and governance processes to ensure integrity and accountability.",
+    "Providing strategic direction and technical expertise to data science teams and stakeholders.",
+    "Developing and delivering high-quality data products and reports to meet business needs.",
+    "Collaborating with business teams to understand business goals and identify opportunities for data-driven insights.",
+    "Designing and implementing data visualization dashboards to provide actionable insights.",
+    "Developing and maintaining data governance frameworks and best practices.",
+    "Identifying and mitigating technical risks and ensuring compliance with regulatory requirements.",
+    "Collaborating with cloud teams to design and implement secure and compliant cloud infrastructure.",
+    "Designing and implementing data archiving and purge processes to ensure data retention and compliance.",
+    "Developing and maintaining data backup and recovery procedures.",
+    "Collaborating with security teams to ensure the security and integrity of data.",
+    "Developing and implementing data security compliance frameworks and controls."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI & Data Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Designed and led the development of a predictive modeling framework using machine learning and deep learning techniques, resulting in a 25% increase in accuracy.",
+        "Collaborated with cross-functional teams to implement a cloud-based data warehouse, reducing data retrieval time by 50% and improving data quality by 20%.",
+        "Developed and operationalized a data governance framework, ensuring data integrity and accountability.",
+        "Implemented robust data quality and governance processes, achieving 99% data accuracy and 95% data completeness.",
+        "Provided strategic direction and technical expertise to data science teams and stakeholders, ensuring alignment with business goals.",
+        "Developed and delivered high-quality data products and reports to meet business needs, resulting in a 30% increase in customer satisfaction.",
+        "Collaborated with business teams to understand business goals and identify opportunities for data-driven insights, leading to a 20% increase in sales revenue.",
+        "Designed and implemented data visualization dashboards, providing actionable insights and improving decision-making.",
+        "Developed and maintained data backup and recovery procedures, ensuring data integrity and compliance with regulatory requirements.",
+        "Collaborated with cloud teams to design and implement secure and compliant cloud infrastructure, achieving a 99% uptime and 95% data security.",
+        "Designed and implemented data archiving and purge processes, ensuring data retention and compliance with regulatory requirements.",
+        "Collaborated with security teams to ensure the security and integrity of data, achieving a 99% security rating and 95% data integrity."
+      ],
+      "environment": [
+        "Python",
+        "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift)",
+        "Apache Spark",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed and developed a natural language processing model using machine learning and deep learning techniques, achieving a 95% accuracy rate.",
+        "Collaborated with cross-functional teams to implement a cloud-based data platform, reducing data retrieval time by 40% and improving data quality by 15%.",
+        "Developed and operationalized a data governance framework, ensuring data integrity and accountability.",
+        "Implemented robust data quality and governance processes, achieving 98% data accuracy and 92% data completeness.",
+        "Provided technical expertise to data science teams and stakeholders, ensuring alignment with business goals.",
+        "Developed and delivered high-quality data products and reports to meet business needs, resulting in a 25% increase in customer satisfaction.",
+        "Collaborated with business teams to understand business goals and identify opportunities for data-driven insights, leading to a 18% increase in sales revenue.",
+        "Designed and implemented data visualization dashboards, providing actionable insights and improving decision-making.",
+        "Developed and maintained data backup and recovery procedures, ensuring data integrity and compliance with regulatory requirements.",
+        "Collaborated with cloud teams to design and implement secure and compliant cloud infrastructure, achieving a 98% uptime and 92% data security."
+      ],
+      "environment": [
+        "R",
+        "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+        "PyTorch",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Designed and developed a predictive modeling framework using machine learning techniques, achieving a 90% accuracy rate.",
+        "Collaborated with cross-functional teams to implement a cloud-based data platform, reducing data retrieval time by 30% and improving data quality by 10%.",
+        "Developed and operationalized a data governance framework, ensuring data integrity and accountability.",
+        "Implemented robust data quality and governance processes, achieving 97% data accuracy and 90% data completeness.",
+        "Provided technical expertise to data science teams and stakeholders, ensuring alignment with business goals.",
+        "Developed and delivered high-quality data products and reports to meet business needs, resulting in a 20% increase in customer satisfaction.",
+        "Collaborated with business teams to understand business goals and identify opportunities for data-driven insights, leading to a 15% increase in sales revenue.",
+        "Designed and implemented data visualization dashboards, providing actionable insights and improving decision-making.",
+        "Developed and maintained data backup and recovery procedures, ensuring data integrity and compliance with regulatory requirements."
+      ],
+      "environment": [
+        "SQL",
+        "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift)",
+        "Scikit-Learn",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Designed and developed a data visualization dashboard using Tableau, providing actionable insights and improving decision-making.",
+        "Collaborated with cross-functional teams to implement a data governance framework, ensuring data integrity and accountability.",
+        "Developed and operationalized a data quality and governance process, achieving 95% data accuracy and 90% data completeness.",
+        "Implemented robust data quality and governance processes, ensuring 98% data accuracy and 92% data completeness.",
+        "Provided technical expertise to data science teams and stakeholders, ensuring alignment with business goals.",
+        "Developed and delivered high-quality data products and reports to meet business needs, resulting in a 15% increase in customer satisfaction.",
+        "Collaborated with business teams to understand business goals and identify opportunities for data-driven insights, leading to a 12% increase in sales revenue."
+      ],
+      "environment": [
+        "Python",
+        "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+        "NumPy",
+        "Dask"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Designed and developed a cloud-based data platform using AWS, achieving a 40% reduction in data retrieval time and a 15% improvement in data quality.",
+        "Collaborated with cross-functional teams to implement a data governance framework, ensuring data integrity and accountability.",
+        "Developed and operationalized a data quality and governance process, achieving 93% data accuracy and 88% data completeness.",
+        "Implemented robust data quality and governance processes, ensuring 97% data accuracy and 90% data completeness."
+      ],
+      "environment": [
+        "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift)",
+        "Apache Spark",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1 "
+  ]
+}

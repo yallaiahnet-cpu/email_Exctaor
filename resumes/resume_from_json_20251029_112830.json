@@ -1,0 +1,386 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior MLOps Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of specialized experience in MLOps engineering and scalable machine learning infrastructure with deep expertise in Python, containerization, and cloud platforms across insurance, healthcare, and financial domains.",
+    "Using Python and Bash to address complex MLOps automation challenges by implementing robust scripting frameworks that orchestrated model training pipelines while ensuring HIPAA compliance and data security requirements.",
+    "Leveraging MLflow and Kubeflow to design comprehensive MLOps platforms that managed the entire machine learning lifecycle from experiment tracking to model deployment across distributed insurance systems.",
+    "Implementing Airflow workflows that automated data pipeline orchestration for insurance model retraining, creating reliable DAGs that handled complex dependencies and scheduling requirements.",
+    "Building Docker containers and Kubernetes clusters that provided scalable environments for insurance model serving, ensuring consistent runtime behavior across development, staging, and production.",
+    "Designing Infrastructure as Code with Terraform that provisioned AWS SageMaker resources and MLOps infrastructure with proper security configurations and compliance controls for insurance applications.",
+    "Creating CI/CD pipelines with Jenkins and GitHub Actions that automated testing and deployment of machine learning models, integrating security scanning and compliance validation for insurance regulations.",
+    "Developing microservices architectures with REST APIs that enabled distributed model serving for insurance applications, ensuring high availability and fault tolerance across multiple business units.",
+    "Building distributed systems with AWS services that handled large-scale model training and inference workloads, optimizing resource utilization while maintaining cost efficiency for insurance operations.",
+    "Implementing model monitoring and logging solutions with Prometheus and Grafana that tracked insurance model performance in production, detecting drift and triggering retraining workflows automatically.",
+    "Designing data pipeline orchestration systems that processed insurance claims data through feature engineering and model training workflows while maintaining data lineage and audit trails.",
+    "Creating API integration frameworks that connected insurance MLOps platforms with existing business systems, enabling seamless model consumption by underwriting and claims processing applications.",
+    "Implementing HIPAA and data security compliance measures across MLOps infrastructure, ensuring proper encryption, access controls, and audit logging for sensitive insurance customer data.",
+    "Building model versioning and registry management systems with MLflow that tracked insurance model iterations, enabling reproducible experiments and controlled model promotions across environments.",
+    "Developing feature engineering pipelines that transformed raw insurance data into production-ready features, implementing validation checks and quality monitoring for reliable model inputs.",
+    "Creating model governance frameworks that enforced compliance standards across insurance ML environments, establishing review processes and approval workflows for model deployments.",
+    "Implementing automated retraining systems that monitored insurance model performance and triggered updates based on data drift detection and business rule changes.",
+    "Building collaborative MLOps platforms that enabled data scientists and engineers to work efficiently on insurance machine learning projects while maintaining security and governance standards."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Python and Bash to address MLOps automation challenges by implementing scripting frameworks that orchestrated insurance model training pipelines while ensuring state regulatory compliance.",
+        "Leveraging MLflow and Kubeflow to design MLOps platforms that managed the entire insurance machine learning lifecycle from experiment tracking to model deployment with proper audit trails.",
+        "Implementing Airflow workflows that automated data pipeline orchestration for insurance model retraining, creating reliable DAGs that handled complex regulatory data requirements.",
+        "Building Docker containers and Kubernetes clusters on AWS EKS that provided scalable environments for insurance model serving, ensuring consistent behavior across compliance environments.",
+        "Designing Infrastructure as Code with Terraform that provisioned AWS SageMaker resources and MLOps infrastructure with security configurations for insurance data protection.",
+        "Creating CI/CD pipelines with Jenkins and GitHub Actions that automated testing and deployment of insurance machine learning models, integrating compliance validation checks.",
+        "Developing microservices architectures with REST APIs that enabled distributed model serving for insurance applications, ensuring high availability across underwriting systems.",
+        "Building distributed systems with AWS services that handled large-scale insurance model training workloads, optimizing resource utilization while maintaining cost controls.",
+        "Implementing model monitoring and logging solutions with Prometheus and Grafana that tracked insurance model performance, detecting prediction drift and triggering compliance reviews.",
+        "Designing data pipeline orchestration systems that processed insurance claims data through feature engineering workflows while maintaining data lineage for regulatory audits.",
+        "Creating API integration frameworks that connected MLOps platforms with existing insurance business systems, enabling seamless model consumption by claims processing applications.",
+        "Implementing HIPAA and data security compliance measures across MLOps infrastructure, ensuring proper encryption and access controls for sensitive insurance customer information.",
+        "Building model versioning and registry management systems with MLflow that tracked insurance model iterations, enabling reproducible experiments and controlled deployments.",
+        "Developing feature engineering pipelines that transformed raw insurance data into production-ready features, implementing validation checks for reliable model inputs.",
+        "Creating model governance frameworks that enforced compliance standards across insurance ML environments, establishing review processes for model deployments.",
+        "Implementing automated retraining systems that monitored insurance model performance and triggered updates based on regulatory changes and business rule updates."
+      ],
+      "environment": [
+        "Python",
+        "Bash",
+        "MLflow",
+        "Kubeflow",
+        "Airflow",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "AWS SageMaker",
+        "Jenkins",
+        "GitHub Actions",
+        "REST APIs",
+        "Prometheus",
+        "Grafana",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Python and Bash to address healthcare MLOps challenges by implementing automation scripts that orchestrated clinical model training pipelines while ensuring HIPAA compliance.",
+        "Leveraging MLflow and Kubeflow to design MLOps platforms that managed healthcare machine learning lifecycle from experiment tracking to clinical model deployment with security controls.",
+        "Implementing Airflow workflows that automated data pipeline orchestration for healthcare model retraining, creating DAGs that handled patient data privacy requirements.",
+        "Building Docker containers and Kubernetes clusters on AWS EKS that provided scalable environments for healthcare model serving, ensuring consistent behavior across clinical systems.",
+        "Designing Infrastructure as Code with Terraform that provisioned AWS SageMaker resources and MLOps infrastructure with healthcare security configurations and compliance controls.",
+        "Creating CI/CD pipelines with Jenkins that automated testing and deployment of healthcare machine learning models, integrating HIPAA validation and security scanning.",
+        "Developing microservices architectures with REST APIs that enabled distributed model serving for healthcare applications, ensuring availability for clinical decision support.",
+        "Building distributed systems with AWS services that handled healthcare model training workloads, optimizing resources while maintaining data privacy standards.",
+        "Implementing model monitoring and logging solutions with Prometheus that tracked healthcare model performance, detecting drift and triggering retraining for clinical accuracy.",
+        "Designing data pipeline orchestration systems that processed clinical data through feature engineering workflows while maintaining patient privacy and data security.",
+        "Creating API integration frameworks that connected MLOps platforms with healthcare systems, enabling model consumption by clinical applications with proper access controls.",
+        "Implementing HIPAA compliance measures across MLOps infrastructure, ensuring encryption and audit logging for protected health information in all data processing.",
+        "Building model versioning systems with MLflow that tracked healthcare model iterations, enabling reproducible experiments and controlled deployments for clinical use.",
+        "Developing feature engineering pipelines that transformed clinical data into production-ready features, implementing validation checks for reliable healthcare model inputs."
+      ],
+      "environment": [
+        "Python",
+        "Bash",
+        "MLflow",
+        "Kubeflow",
+        "Airflow",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "AWS SageMaker",
+        "Jenkins",
+        "REST APIs",
+        "Prometheus",
+        "HIPAA",
+        "Healthcare"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using Python and GCP Vertex AI to address public health MLOps challenges by implementing model training pipelines that processed health data while ensuring HIPAA compliance.",
+        "Leveraging MLflow to design MLOps platforms that managed public health machine learning lifecycle from experiment tracking to model deployment with proper data governance.",
+        "Implementing data pipeline orchestration with Cloud Composer that automated public health model retraining, creating workflows that handled health data privacy requirements.",
+        "Building Docker containers and Kubernetes clusters on GKE that provided scalable environments for public health model serving, ensuring consistent behavior across health systems.",
+        "Designing infrastructure automation with Deployment Manager that provisioned GCP Vertex AI resources and MLOps infrastructure with health data security configurations.",
+        "Creating CI/CD pipelines with Cloud Build that automated testing and deployment of public health machine learning models, integrating compliance validation checks.",
+        "Developing microservices architectures with REST APIs that enabled model serving for public health applications, ensuring availability for health department analytics.",
+        "Building distributed systems with GCP services that handled public health model training workloads, optimizing resources while maintaining data privacy standards.",
+        "Implementing model monitoring solutions with Cloud Monitoring that tracked public health model performance, detecting drift and triggering updates for health trend accuracy.",
+        "Designing data pipeline systems that processed public health data through feature engineering workflows while maintaining individual privacy and data security.",
+        "Creating API integration frameworks that connected MLOps platforms with public health systems, enabling model consumption by health department applications.",
+        "Implementing HIPAA compliance measures across MLOps infrastructure, ensuring proper data handling and access controls for sensitive health information."
+      ],
+      "environment": [
+        "Python",
+        "GCP Vertex AI",
+        "MLflow",
+        "Cloud Composer",
+        "Docker",
+        "GKE",
+        "Deployment Manager",
+        "Cloud Build",
+        "REST APIs",
+        "Cloud Monitoring",
+        "HIPAA",
+        "Public health"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Python and Azure ML to address financial MLOps challenges by implementing model training pipelines that processed banking data while ensuring PCI compliance.",
+        "Leveraging MLflow to design MLOps platforms that managed financial machine learning lifecycle from experiment tracking to model deployment with security controls.",
+        "Implementing data pipeline orchestration with Azure Data Factory that automated financial model retraining, creating workflows that handled banking data security requirements.",
+        "Building Docker containers and Kubernetes clusters on AKS that provided environments for financial model serving, ensuring consistent behavior across banking systems.",
+        "Designing infrastructure automation with ARM templates that provisioned Azure ML resources and MLOps infrastructure with financial security configurations.",
+        "Creating CI/CD pipelines with Azure DevOps that automated testing and deployment of financial machine learning models, integrating PCI compliance validation.",
+        "Developing microservices architectures with REST APIs that enabled model serving for financial applications, ensuring availability for fraud detection systems.",
+        "Building distributed systems with Azure services that handled financial model training workloads, optimizing resources while maintaining data security standards.",
+        "Implementing model monitoring solutions with Azure Monitor that tracked financial model performance, detecting drift and triggering updates for fraud detection accuracy.",
+        "Designing data pipeline systems that processed financial data through feature engineering workflows while maintaining transaction security and privacy."
+      ],
+      "environment": [
+        "Python",
+        "Azure ML",
+        "MLflow",
+        "Azure Data Factory",
+        "Docker",
+        "AKS",
+        "ARM templates",
+        "Azure DevOps",
+        "REST APIs",
+        "Azure Monitor",
+        "PCI",
+        "Financial data"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Using Hadoop to address client data processing challenges by implementing MapReduce jobs that handled large datasets from multiple business systems for consulting projects.",
+        "Leveraging Informatica to develop ETL processes that transformed client data into analysis-ready formats, creating reusable mappings that accelerated project delivery timelines.",
+        "Implementing data integration pipelines with Sqoop that transferred data between relational databases and Hadoop clusters, ensuring data consistency and completeness.",
+        "Designing data storage solutions with HDFS that organized client project data, creating accessible repositories for analysis and reporting requirements.",
+        "Building data processing workflows that automated ETL operations for client engagements, ensuring timely data availability for consulting analysis.",
+        "Developing data quality checks that validated client data integrity throughout processing pipelines, identifying data issues that needed client resolution.",
+        "Creating data documentation standards that captured source system details and transformation logic for client knowledge transfer and project continuity.",
+        "Implementing basic data security measures that protected client information during processing and analysis, maintaining confidentiality for consulting engagements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Relational databases",
+        "ETL processes",
+        "Data quality",
+        "Client consulting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

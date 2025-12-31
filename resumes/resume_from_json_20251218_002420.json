@@ -1,0 +1,288 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Edge AI Software Engineer",
+  "contact": {
+    "email": "yonteru414@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Possess 6 years of experience building edge computing solutions across Insurance, Technology, Transportation, and Banking sectors, with Python and C proficiency for video analytics gateway systems deployed on NVIDIA CUDA-enabled devices.",
+    "Architected AI/ML video analytics models using TensorRT and OpenCV for real-time processing on edge gateways, integrating Docker and Kubernetes orchestration with AWS Greengrass and Azure IoT Edge platforms to handle secure data streams.",
+    "Configured VPN protocols and secure communication channels for edge gateway architecture, applying TLS and IPsec standards to protect video feeds transmitted across distributed Linux development environments in compliance with regulatory frameworks.",
+    "Optimized NVIDIA CUDA kernels and Qualcomm SDK pipelines to reduce latency in video processing workloads, utilizing performance profiling tools like Nsight and perf to achieve sub-100ms inference times on resource-constrained edge hardware.",
+    "Automated CI/CD pipelines with Jenkins and GitLab CI to deploy containerized video analytics services, integrating pytest and Google Test frameworks for unit and integration testing across Python and C codebases in edge gateway ecosystems.",
+    "Implemented model quantization and edge optimization techniques using TensorRT to compress deep learning models, enabling PyTorch and TensorFlow-trained networks to run efficiently on FPGA and ASIC-accelerated edge devices with limited memory.",
+    "Collaborated with hardware engineers and network specialists to debug real-time streaming protocols like RTSP and RTP, leveraging gdb, strace, and log4cpp to troubleshoot TCP/IP and UDP packet flows in 5G and IoT edge deployments.",
+    "Designed secure authentication mechanisms using OAuth and certificate-based VPN protocols for edge gateway architecture, ensuring compliance with security policies while maintaining low-latency video analytics performance on distributed nodes.",
+    "Integrated MQTT and CoAP protocols for edge-to-cloud communication, configuring AWS Greengrass and Azure IoT Edge modules to synchronize video analytics insights with cloud backends while preserving bandwidth and minimizing network overhead.",
+    "Managed memory allocation and concurrency patterns using threads and mutexes in C and Python, refactoring legacy code to eliminate race conditions and optimize CPU utilization during parallel video frame processing on NVIDIA CUDA GPUs.",
+    "Contributed to cross-functional sprints with cloud integration teams, aligning on API contracts and data schemas for video analytics payloads transmitted from edge gateways to centralized monitoring dashboards via secure VPN tunnels.",
+    "Deployed Docker containers with Kubernetes on Linux development environments, orchestrating multi-container video analytics stacks that combined OpenCV preprocessing, TensorRT inference, and Qualcomm SDK hardware acceleration for real-time alerts.",
+    "Validated AI/ML video analytics accuracy through A/B testing on edge devices, iterating model architectures in TensorFlow and PyTorch to improve object detection precision while respecting power and thermal constraints of edge gateway hardware.",
+    "Maintained version control discipline with Git, conducting code reviews to ensure adherence to coding standards and security best practices in Python and C modules responsible for VPN-protected video stream ingestion and analytics."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "C",
+      "C++"
+    ],
+    "Edge Computing & Frameworks": [
+      "NVIDIA CUDA",
+      "Qualcomm SDKs",
+      "AWS Greengrass",
+      "Azure IoT Edge",
+      "EDGE gateway architecture",
+      "Real-time operating system (RTOS)"
+    ],
+    "AI/ML & Video Analytics": [
+      "TensorRT",
+      "OpenCV",
+      "PyTorch",
+      "TensorFlow",
+      "AI/ML video analytics models",
+      "Model quantization",
+      "Edge optimization techniques",
+      "Deep learning frameworks"
+    ],
+    "Networking & Protocols": [
+      "VPN protocols",
+      "Secure communication protocols",
+      "TCP/IP",
+      "UDP",
+      "RTP",
+      "RTSP",
+      "HLS",
+      "MQTT",
+      "CoAP",
+      "5G/IoT protocols"
+    ],
+    "Container Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Security & Compliance": [
+      "TLS",
+      "IPsec",
+      "OAuth",
+      "Certificate-based authentication"
+    ],
+    "Development Environment": [
+      "Linux development environment",
+      "Git",
+      "Version control"
+    ],
+    "Testing & Quality": [
+      "pytest",
+      "Google Test",
+      "Unit testing",
+      "Integration testing"
+    ],
+    "CI/CD & Automation": [
+      "Jenkins",
+      "GitLab CI",
+      "Automated deployments"
+    ],
+    "Performance & Debugging": [
+      "Nsight",
+      "perf",
+      "gdb",
+      "strace",
+      "log4cpp",
+      "Performance profiling tools",
+      "Memory management",
+      "Concurrency (threads, mutexes)"
+    ],
+    "Hardware Acceleration": [
+      "FPGA",
+      "ASIC",
+      "GPU optimization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Developer",
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Analyze insurance claim documentation using Python-based video analytics pipelines integrated with OpenCV and TensorRT on NVIDIA CUDA hardware, processing real-time footage from policyholder incidents to detect fraudulent patterns.",
+        "Build secure edge gateway architecture with VPN protocols and TLS encryption for transmitting sensitive insurance data from field devices to centralized Azure IoT Edge hubs, ensuring compliance with data protection regulations.",
+        "Deploy Docker containers orchestrated by Kubernetes on Linux development environments, packaging Python and C modules that execute AI/ML video analytics models at the edge to identify damage severity in auto insurance claims.",
+        "Integrate AWS Greengrass with Qualcomm SDK-powered edge devices to run TensorRT-optimized deep learning models, enabling real-time video processing for property inspection workflows without relying on constant cloud connectivity.",
+        "Automate CI/CD pipelines using Jenkins to test and release Python-based video analytics services, incorporating pytest for unit validation and ensuring zero downtime during updates to edge gateway software in production environments.",
+        "Optimize NVIDIA CUDA kernels to accelerate frame-by-frame analysis of insurance claim videos, applying performance profiling tools like Nsight to reduce inference latency and handle peak loads during catastrophic event surges.",
+        "Coordinate with network specialists to configure secure communication protocols including IPsec and OAuth for edge-to-cloud data flows, protecting policyholder video streams transmitted over 5G networks via MQTT and CoAP protocols.",
+        "Refactor legacy C codebases to eliminate memory leaks and concurrency issues, implementing mutexes and thread-safe patterns that improve video processing throughput on resource-constrained edge gateways used in remote claim assessments.",
+        "Validate AI/ML video analytics accuracy through manual review of edge-detected anomalies in insurance claim footage, iterating on PyTorch model architectures to minimize false positives while maintaining real-time performance on CUDA GPUs.",
+        "Facilitate cross-functional collaboration between actuarial teams and edge computing engineers, translating insurance domain requirements into technical specifications for VPN-protected video analytics features deployed on IoT Edge devices.",
+        "Troubleshoot real-time streaming protocols like RTP and RTSP when video feeds from policyholder mobile apps experience packet loss, utilizing gdb and strace to diagnose TCP/IP stack issues in Linux-based edge gateway firmware.",
+        "Apply model quantization techniques to compress TensorFlow-trained networks for edge deployment, ensuring video analytics models fit within FPGA memory constraints while delivering accurate damage assessments for insurance underwriting.",
+        "Configure Azure IoT Edge modules to synchronize video analytics insights with centralized claim processing systems, leveraging Docker Compose for multi-container orchestration and Git for version control of edge gateway configurations.",
+        "Maintain documentation and conduct code reviews for Python and C modules responsible for OpenCV-based video preprocessing, ensuring adherence to secure coding practices and regulatory compliance in insurance data handling workflows."
+      ],
+      "environment": [
+        "Python",
+        "C",
+        "NVIDIA CUDA",
+        "Qualcomm SDKs",
+        "OpenCV",
+        "TensorRT",
+        "VPN protocols",
+        "EDGE gateway architecture",
+        "Secure communication protocols",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "AWS Greengrass",
+        "Azure IoT Edge",
+        "AI/ML video analytics models",
+        "TLS",
+        "IPsec",
+        "OAuth",
+        "Jenkins",
+        "pytest",
+        "Nsight",
+        "MQTT",
+        "CoAP",
+        "RTP",
+        "RTSP",
+        "Git",
+        "PyTorch",
+        "TensorFlow",
+        "FPGA"
+      ]
+    },
+    {
+      "role": "LLM Developer",
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Developed Python-based video analytics solutions for technology clients, integrating OpenCV with TensorRT to perform real-time object detection on NVIDIA CUDA-accelerated edge devices connected via secure VPN protocols.",
+        "Established CI/CD workflows using GitLab CI to automate Docker container builds and Kubernetes deployments for edge gateway architecture, ensuring consistent delivery of C and Python modules across distributed Linux environments.",
+        "Utilized Qualcomm SDKs to offload video preprocessing tasks to hardware accelerators, reducing CPU load and enabling AI/ML video analytics models to achieve sub-50ms latency on resource-constrained edge gateways.",
+        "Secured edge-to-cloud communication channels by configuring IPsec and TLS for video streams transmitted over MQTT and CoAP protocols, collaborating with network engineers to troubleshoot TCP/IP connectivity issues using strace.",
+        "Tested video analytics pipelines with pytest and Google Test frameworks, validating model accuracy and edge gateway stability under varying network conditions and simulating packet loss scenarios in 5G IoT deployments.",
+        "Quantized PyTorch models using TensorRT to deploy compressed neural networks on FPGA-based edge devices, balancing inference speed with memory footprint to meet strict latency requirements for real-time video processing.",
+        "Debugged C code memory leaks and concurrency bugs with gdb, optimizing thread synchronization with mutexes to prevent race conditions during parallel video frame ingestion from multiple camera sources on edge gateways.",
+        "Integrated AWS Greengrass and Azure IoT Edge platforms to orchestrate containerized video analytics services, enabling seamless over-the-air updates and centralized monitoring of edge gateway health via log4cpp logging.",
+        "Collaborated with cloud integration teams to define API contracts for video analytics payloads, ensuring interoperability between edge gateways and backend dashboards while maintaining compliance with OAuth authentication standards.",
+        "Profiled NVIDIA CUDA performance using Nsight to identify bottlenecks in video processing pipelines, iterating on kernel implementations to maximize GPU utilization and support higher camera resolutions on edge hardware."
+      ],
+      "environment": [
+        "Python",
+        "C",
+        "NVIDIA CUDA",
+        "Qualcomm SDKs",
+        "OpenCV",
+        "TensorRT",
+        "VPN protocols",
+        "EDGE gateway architecture",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "AWS Greengrass",
+        "Azure IoT Edge",
+        "AI/ML video analytics models",
+        "GitLab CI",
+        "pytest",
+        "Google Test",
+        "IPsec",
+        "TLS",
+        "MQTT",
+        "CoAP",
+        "TCP/IP",
+        "strace",
+        "gdb",
+        "PyTorch",
+        "FPGA",
+        "Nsight",
+        "OAuth",
+        "log4cpp"
+      ]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "Prototyped Python-based video analytics for transportation safety monitoring, applying OpenCV to detect driver behavior anomalies and pedestrian proximity using AI/ML models compressed with TensorRT for edge gateway deployment.",
+        "Configured Docker containers on Linux-based edge devices to run real-time video processing workloads, leveraging Kubernetes for orchestration and ensuring continuous uptime for camera feeds in ride-hailing vehicle fleets.",
+        "Adapted C code for Qualcomm SDK-powered edge gateways to accelerate video frame preprocessing, reducing latency in NVIDIA CUDA pipelines that analyzed driver distraction patterns during peak transportation demand hours.",
+        "Secured video data transmission from vehicles to cloud backends using VPN protocols and TLS encryption, collaborating with network teams to resolve TCP/IP routing issues and maintain stable MQTT connections over 4G networks.",
+        "Validated edge gateway architecture by conducting integration tests with pytest, simulating real-world transportation scenarios to ensure video analytics models performed reliably under diverse lighting and weather conditions.",
+        "Compressed TensorFlow models using model quantization techniques to fit within limited memory on edge devices, enabling real-time video analytics for driver monitoring without exceeding thermal or power constraints in vehicle hardware.",
+        "Debugged concurrency issues in multithreaded C code with gdb, implementing mutex locks to synchronize video frame access across parallel processing threads and prevent crashes during high-frequency camera data ingestion.",
+        "Monitored edge gateway performance with log4cpp and perf, identifying memory leaks and CPU bottlenecks that degraded video analytics accuracy during extended operational periods in transportation field deployments."
+      ],
+      "environment": [
+        "Python",
+        "C",
+        "OpenCV",
+        "TensorRT",
+        "AI/ML video analytics models",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "Qualcomm SDKs",
+        "NVIDIA CUDA",
+        "EDGE gateway architecture",
+        "VPN protocols",
+        "TLS",
+        "MQTT",
+        "TCP/IP",
+        "pytest",
+        "TensorFlow",
+        "Model quantization",
+        "gdb",
+        "log4cpp",
+        "perf"
+      ]
+    },
+    {
+      "role": "Azure Data Engineer",
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Processed banking transaction logs using Python scripts in Linux environments, preparing datasets for downstream analytics and ensuring data quality through automated validation checks before ingestion into Azure data pipelines.",
+        "Assisted in Docker container setup for data processing services, learning Kubernetes basics to deploy Python applications that transformed raw banking data into structured formats for compliance reporting and fraud detection.",
+        "Participated in code reviews for C-based data parsing utilities, gaining exposure to memory management patterns and debugging techniques with gdb to troubleshoot issues in legacy banking data extraction modules.",
+        "Contributed to CI/CD pipeline improvements by writing pytest unit tests for Python data transformation logic, ensuring changes to banking data workflows did not introduce regressions before production deployments.",
+        "Collaborated with senior engineers to configure secure communication protocols for data transfers between on-premise banking systems and Azure cloud storage, learning TLS and VPN fundamentals in banking regulatory contexts.",
+        "Documented Python data processing scripts and Git workflows, maintaining version control discipline and creating runbooks for troubleshooting common data pipeline failures in Azure-based banking analytics environments."
+      ],
+      "environment": [
+        "Python",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Azure",
+        "C",
+        "gdb",
+        "pytest",
+        "Git",
+        "TLS",
+        "VPN protocols"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

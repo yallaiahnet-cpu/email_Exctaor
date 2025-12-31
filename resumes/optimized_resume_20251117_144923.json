@@ -1,0 +1,186 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead QA Automation Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized [Java, Selenium] to design and implement automation frameworks for healthcare claims processing, reducing manual effort by ensuring consistent test execution across Molina Healthcare's provider portals.",
+    "Built hybrid frameworks combining [Data-Driven and BDD models] using [Cucumber, Gherkin] for State of Washington's government portals, improving test maintainability and collaboration with business stakeholders.",
+    "Mentored QA team members on [framework development, CI/CD integration] using [Jenkins, Git] at State of Washington, enhancing team productivity and code quality through regular code reviews.",
+    "Contributed to reusable framework components and shared libraries in [Python, PyTest] for Molina Healthcare, streamlining test creation and maintenance across multiple projects.",
+    "Executed [end-to-end functional testing] for banking workflows at Comerica using [Cypress, REST Assured], ensuring seamless integration of payment and trade booking APIs.",
+    "Collaborated with product owners and business SMEs at Molina Healthcare to design and execute [manual and automated tests] for complex claims and eligibility workflows.",
+    "Coordinated [UAT sessions] with business stakeholders at State of Washington, ensuring alignment between system functionality and business requirements.",
+    "Managed the full [defect lifecycle] using [JIRA, Azure DevOps] across multiple projects, improving defect resolution time and system stability.",
+    "Conducted [performance and load testing] with [Apache JMeter] for high-volume claims and eligibility flows at Molina Healthcare, identifying and resolving bottlenecks to improve system scalability.",
+    "Performed [regression, smoke, and post-deployment validation] for healthcare provider portals at Molina Healthcare using [Selenium, TestNG], ensuring system reliability after each release.",
+    "Implemented [CI/CD pipelines] using [Jenkins, Docker] for State of Washington's government portals, enabling faster and more reliable test execution and deployment.",
+    "Utilized [SQL, PostgreSQL] to validate data integrity and accuracy in healthcare claims processing systems at Molina Healthcare, ensuring compliance with HIPAA regulations.",
+    "Designed and executed [manual test cases] for complex banking workflows at Comerica, ensuring comprehensive coverage of functional requirements and edge cases.",
+    "Conducted [performance testing] with [Apache JMeter] for high-volume payment and trade booking APIs at Comerica, providing recommendations to improve system performance and scalability.",
+    "Collaborated with cross-functional teams at State of Washington to define [test strategies] and ensure comprehensive test coverage for government portals.",
+    "Implemented [automated regression suites] using [Selenium, Java] for Molina Healthcare, reducing regression testing time and improving overall test efficiency.",
+    "Utilized [ServiceNow] to manage and track defects for State of Washington's government portals, ensuring timely resolution and system stability.",
+    "Contributed to [test automation initiatives] at Comerica by building and maintaining automated test scripts using [Cypress, JavaScript], improving test coverage and reducing manual testing effort."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "TypeScript"
+    ],
+    "Automation Tools": [
+      "Selenium",
+      "Cypress",
+      "REST Assured",
+      "TestNG",
+      "Cucumber",
+      "Gherkin"
+    ],
+    "Performance Testing": [
+      "Apache JMeter"
+    ],
+    "CI/CD Tools": [
+      "Jenkins",
+      "Git",
+      "Docker"
+    ],
+    "Defect Tracking": [
+      "JIRA",
+      "Azure DevOps",
+      "ServiceNow",
+      "HP ALM"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "Version Control": [
+      "Git"
+    ],
+    "Testing Frameworks": [
+      "PyTest",
+      "JUnit"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Azure"
+    ],
+    "Collaboration Tools": [
+      "Confluence",
+      "Microsoft Teams"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Lead QA Automation Engineer",
+      "client": "Molina Healthcare",
+      "duration": "2022-Jan - Present",
+      "location": "Long Beach, California",
+      "responsibilities": [
+        "Designed and implemented [automation frameworks] using [Java, Selenium] for healthcare claims processing, reducing manual effort and ensuring consistent test execution across provider portals.",
+        "Built [hybrid frameworks] combining [Data-Driven and BDD models] with [Cucumber, Gherkin] for claims and eligibility workflows, improving test maintainability and collaboration with business stakeholders.",
+        "Mentored QA team members on [framework development, CI/CD integration] using [Jenkins, Git], enhancing team productivity and code quality through regular code reviews.",
+        "Contributed to [reusable framework components] and [shared libraries] in [Python, PyTest], streamlining test creation and maintenance across multiple projects.",
+        "Conducted [performance and reliability tests] with [Apache JMeter] on high-volume claims and eligibility flows, identifying and resolving bottlenecks to improve system scalability.",
+        "Executed [end-to-end functional testing] for healthcare provider portals using [Selenium, TestNG], ensuring seamless integration of claims and eligibility workflows.",
+        "Collaborated with product owners and business SMEs to design and execute [manual and automated tests] for complex healthcare workflows, ensuring alignment with business requirements.",
+        "Managed the full [defect lifecycle] using [JIRA, Azure DevOps], improving defect resolution time and system stability.",
+        "Performed [regression, smoke, and post-deployment validation] for healthcare provider portals, ensuring system reliability after each release.",
+        "Implemented [CI/CD pipelines] using [Jenkins, Docker], enabling faster and more reliable test execution and deployment.",
+        "Utilized [SQL, PostgreSQL] to validate data integrity and accuracy in healthcare claims processing systems, ensuring compliance with HIPAA regulations.",
+        "Coordinated [UAT sessions] with business stakeholders, ensuring alignment between system functionality and business requirements.",
+        "Designed and executed [manual test cases] for complex healthcare workflows, ensuring comprehensive coverage of functional requirements and edge cases.",
+        "Implemented [automated regression suites] using [Selenium, Java], reducing regression testing time and improving overall test efficiency.",
+        "Utilized [ServiceNow] to manage and track defects, ensuring timely resolution and system stability.",
+        "Contributed to [test automation initiatives] by building and maintaining automated test scripts using [Cypress, JavaScript], improving test coverage and reducing manual testing effort."
+      ],
+      "environment": [
+        "Java, Selenium, Cucumber, Gherkin, Jenkins, Git, Python, PyTest, Apache JMeter, JIRA, Azure DevOps, SQL, PostgreSQL, Cypress, JavaScript, ServiceNow"
+      ]
+    },
+    {
+      "role": "Senior QA Automation Engineer",
+      "client": "State of Washington",
+      "duration": "2019-Jun - 2021-Dec",
+      "location": "Olympia, Washington",
+      "responsibilities": [
+        "Built [hybrid frameworks] combining [Data-Driven and BDD models] using [Cucumber, Gherkin] for government portals, improving test maintainability and collaboration with business stakeholders.",
+        "Mentored QA team members on [framework development, CI/CD integration] using [Jenkins, Git], enhancing team productivity and code quality through regular code reviews.",
+        "Conducted [performance and load testing] with [Apache JMeter] for government portals, identifying and resolving bottlenecks to improve system scalability.",
+        "Executed [end-to-end functional testing] for government workflows using [Selenium, TestNG], ensuring seamless integration of portal functionalities.",
+        "Collaborated with cross-functional teams to define [test strategies] and ensure comprehensive test coverage for government portals.",
+        "Managed the full [defect lifecycle] using [JIRA, Azure DevOps], improving defect resolution time and system stability.",
+        "Performed [regression, smoke, and post-deployment validation] for government portals, ensuring system reliability after each release.",
+        "Implemented [CI/CD pipelines] using [Jenkins, Docker], enabling faster and more reliable test execution and deployment.",
+        "Utilized [SQL, PostgreSQL] to validate data integrity and accuracy in government portal systems, ensuring compliance with data security regulations.",
+        "Coordinated [UAT sessions] with business stakeholders, ensuring alignment between system functionality and business requirements.",
+        "Designed and executed [manual test cases] for complex government workflows, ensuring comprehensive coverage of functional requirements and edge cases.",
+        "Implemented [automated regression suites] using [Selenium, Java], reducing regression testing time and improving overall test efficiency.",
+        "Utilized [ServiceNow] to manage and track defects, ensuring timely resolution and system stability.",
+        "Contributed to [test automation initiatives] by building and maintaining automated test scripts using [Cypress, JavaScript], improving test coverage and reducing manual testing effort."
+      ],
+      "environment": [
+        "Cucumber, Gherkin, Jenkins, Git, Apache JMeter, Selenium, TestNG, JIRA, Azure DevOps, SQL, PostgreSQL, Cypress, JavaScript, ServiceNow"
+      ]
+    },
+    {
+      "role": "QA Automation Engineer",
+      "client": "Comerica",
+      "duration": "2017-Jan - 2019-May",
+      "location": "Dallas, Texas",
+      "responsibilities": [
+        "Executed [end-to-end functional testing] for banking workflows using [Cypress, REST Assured], ensuring seamless integration of payment and trade booking APIs.",
+        "Conducted [performance testing] with [Apache JMeter] for high-volume payment and trade booking APIs, providing recommendations to improve system performance and scalability.",
+        "Designed and executed [manual test cases] for complex banking workflows, ensuring comprehensive coverage of functional requirements and edge cases.",
+        "Implemented [automated regression suites] using [Selenium, Java], reducing regression testing time and improving overall test efficiency.",
+        "Managed the full [defect lifecycle] using [JIRA, HP ALM], improving defect resolution time and system stability.",
+        "Performed [regression, smoke, and post-deployment validation] for banking applications, ensuring system reliability after each release.",
+        "Collaborated with cross-functional teams to define [test strategies] and ensure comprehensive test coverage for banking applications.",
+        "Utilized [SQL, MySQL] to validate data integrity and accuracy in banking systems, ensuring compliance with PCI DSS regulations.",
+        "Coordinated [UAT sessions] with business stakeholders, ensuring alignment between system functionality and business requirements.",
+        "Contributed to [test automation initiatives] by building and maintaining automated test scripts using [Cypress, JavaScript], improving test coverage and reducing manual testing effort."
+      ],
+      "environment": [
+        "Cypress, REST Assured, Apache JMeter, Selenium, Java, JIRA, HP ALM, SQL, MySQL"
+      ]
+    },
+    {
+      "role": "QA Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2016-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Designed and executed [manual test cases] for web applications, ensuring comprehensive coverage of functional requirements and edge cases.",
+        "Performed [regression, smoke, and post-deployment validation] for web applications, ensuring system reliability after each release.",
+        "Managed the full [defect lifecycle] using [JIRA], improving defect resolution time and system stability.",
+        "Collaborated with cross-functional teams to define [test strategies] and ensure comprehensive test coverage for web applications.",
+        "Utilized [SQL, MySQL] to validate data integrity and accuracy in web application systems.",
+        "Coordinated [UAT sessions] with business stakeholders, ensuring alignment between system functionality and business requirements."
+      ],
+      "environment": [
+        "JIRA, SQL, MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "ISTQB Certified Tester",
+    "Certified ScrumMaster (CSM)",
+    "Apache JMeter Performance Testing Certification"
+  ]
+}

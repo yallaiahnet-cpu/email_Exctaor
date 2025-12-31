@@ -1,0 +1,209 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Cloud Data Engineer AI/ML Pipelines",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Engineered scalable data infrastructure for logistics and analytics using Python, Azure, and Databricks.",
+    "Developed and deployed AI/ML pipelines in Azure Data Factory and Databricks Workflows, leveraging MLflow and Delta Lake.",
+    "Collaborated with data scientists to design and implement data models, ensuring accurate and efficient data processing.",
+    "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+    "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+    "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes.",
+    "Implemented API design and microservices using Python and Azure, improving data pipeline flexibility.",
+    "Utilized Airflow and dbt for data pipeline orchestration and transformation, ensuring data quality and integrity.",
+    "Developed CI/CD pipelines using Jenkins and GitLab, ensuring rapid and reliable data pipeline deployment.",
+    "Mentored junior engineers in data engineering and AI/ML pipelines, promoting knowledge sharing and innovation.",
+    "Improved data governance and quality practices through regular data audits and quality checks.",
+    "Ensured cloud security and compliance by implementing best practices and monitoring data pipeline performance."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "C#/.NET",
+      "Java"
+    ],
+    "Data Engineering": [
+      "Advanced SQL",
+      "Distributed data systems",
+      "Cloud platforms (Azure)",
+      "Databricks",
+      "Orchestration tools",
+      "API design and microservices",
+      "Azure Data Factory",
+      "Databricks Workflows",
+      "dbt",
+      "Spark",
+      "Delta Lake",
+      "MLflow",
+      "TensorFlow Extended (TFX)",
+      "Kafka",
+      "Kinesis"
+    ],
+    "Cloud Computing": [
+      "Azure",
+      "Databricks",
+      "Airflow"
+    ],
+    "Data Modeling and Design": [
+      "Data modeling and design",
+      "CI/CD pipelines",
+      "Containerization (e.g., Docker)",
+      "DevOps practices",
+      "Agile development methodologies",
+      "Version control systems (e.g., Git)"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Cloud Data Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Engineered scalable data infrastructure for logistics and analytics using Python, Azure, and Databricks.",
+        "Developed and deployed AI/ML pipelines in Azure Data Factory and Databricks Workflows, leveraging MLflow and Delta Lake.",
+        "Collaborated with data scientists to design and implement data models, ensuring accurate and efficient data processing.",
+        "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+        "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+        "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes.",
+        "Implemented API design and microservices using Python and Azure, improving data pipeline flexibility.",
+        "Utilized Airflow and dbt for data pipeline orchestration and transformation, ensuring data quality and integrity.",
+        "Developed CI/CD pipelines using Jenkins and GitLab, ensuring rapid and reliable data pipeline deployment.",
+        "Mentored junior engineers in data engineering and AI/ML pipelines, promoting knowledge sharing and innovation."
+      ],
+      "environment": [
+        "Azure",
+        "Databricks",
+        "Python",
+        "Java",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Kafka",
+        "Kinesis"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Collaborated with data scientists to design and implement data models, ensuring accurate and efficient data processing.",
+        "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+        "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+        "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes.",
+        "Implemented API design and microservices using Python and Azure, improving data pipeline flexibility.",
+        "Utilized Airflow and dbt for data pipeline orchestration and transformation, ensuring data quality and integrity.",
+        "Developed CI/CD pipelines using Jenkins and GitLab, ensuring rapid and reliable data pipeline deployment.",
+        "Mentored junior engineers in data engineering and AI/ML pipelines, promoting knowledge sharing and innovation."
+      ],
+      "environment": [
+        "Azure",
+        "Databricks",
+        "Python",
+        "Java",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Kafka",
+        "Kinesis"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+        "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+        "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes.",
+        "Implemented API design and microservices using Python and Azure, improving data pipeline flexibility.",
+        "Utilized Airflow and dbt for data pipeline orchestration and transformation, ensuring data quality and integrity.",
+        "Developed CI/CD pipelines using Jenkins and GitLab, ensuring rapid and reliable data pipeline deployment."
+      ],
+      "environment": [
+        "Azure",
+        "Databricks",
+        "Python",
+        "Java",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Kafka",
+        "Kinesis"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Collaborated with data scientists to design and implement data models, ensuring accurate and efficient data processing.",
+        "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+        "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+        "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes."
+      ],
+      "environment": [
+        "Azure",
+        "Databricks",
+        "Python",
+        "Java",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Kafka",
+        "Kinesis"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilized Apache Kafka and Kinesis for real-time data ingestion and processing, improving data pipeline efficiency.",
+        "Designed and operated production-grade pipelines in cloud environments, ensuring high availability and scalability.",
+        "Partnered with platform engineers to optimize data pipelines and applications, leveraging Docker and Kubernetes."
+      ],
+      "environment": [
+        "Azure",
+        "Databricks",
+        "Python",
+        "Java",
+        "Spark",
+        "Delta Lake",
+        "MLflow",
+        "TensorFlow Extended (TFX)",
+        "Kafka",
+        "Kinesis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1 "
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Cloud Data Architect & Engineering Consultant",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I bring over 10 years of specialized data engineering experience, with deep expertise in building scalable cloud data platforms, optimizing ETL pipelines, and designing dimensional models for regulated industries like healthcare and government.",
+    "Architected and implemented a Medallion Architecture on AWS to transform raw healthcare data into business-ready analytics layers, enabling Medline Industries to achieve HIPAA-compliant reporting with improved data quality and governance controls.",
+    "Leveraged Python and AWS Glue to redesign legacy ETL processes for Blue Cross Blue Shield, creating optimized pipelines that reduced data processing latency by half while maintaining strict insurance regulatory compliance.",
+    "Engineered dimensional data models and star schemas for the State of Arizona's public sector data, building reporting-optimized data marts that supported ad-hoc analytics while meeting government data security mandates.",
+    "Developed large-scale data transformation frameworks using SQL and PostgreSQL on AWS, supporting advanced analytics for Discover Financial Services that complied with PCI-DSS standards for financial data handling.",
+    "Applied a consulting delivery mindset to translate complex technical concepts about ETL pipeline design and data architecture into actionable roadmaps for business stakeholders across long-term contract engagements.",
+    "Orchestrated the migration of on-premise data systems to cloud-native AWS platforms, utilizing Amazon S3 as a data lake and implementing layered data architectures for enterprise analytics and reporting.",
+    "Enforced data security and compliance protocols within regulated environments, establishing data quality controls and audit trails for healthcare (HIPAA) and government data systems to ensure integrity.",
+    "Optimized live, mission-critical ETL pipelines supporting production analytics platforms, troubleshooting performance bottlenecks and implementing enhancements that increased system reliability and throughput.",
+    "Collaborated with cross-functional stakeholders to provide solution advisory on platform evolution, owning data architecture decisions that aligned technical implementation with long-term business objectives.",
+    "Designed and deployed agentic frameworks including Crew AI and LangGraph for proof-of-concept multi-agent systems, exploring applications of Model Context Protocol for intelligent data processing workflows.",
+    "Built and maintained data marts specifically for ad-hoc reporting needs, utilizing snowflake schemas and business-ready data modeling to accelerate insight generation for executive decision-making.",
+    "Managed the complete lifecycle of data pipeline development from requirement gathering with clients to production deployment, ensuring solutions met both functional needs and compliance requirements.",
+    "Provided hands-on cloud data engineering leadership, mentoring junior team members on AWS Glue best practices, Python scripting for data transformation, and SQL-based analytics techniques.",
+    "Spearheaded the implementation of data quality frameworks and monitoring within ETL pipelines, establishing validation checks that identified anomalies early and maintained high data integrity standards.",
+    "Translated business reporting requirements into technical specifications for dimensional modeling, creating optimized schemas that balanced query performance with maintainability for analytics teams.",
+    "Advised clients on cloud data platform optimization strategies, conducting performance analysis of AWS-based ETL pipelines and recommending architectural improvements for cost efficiency.",
+    "Championed the adoption of modern data architecture patterns including the Medallion Architecture, demonstrating its value through successful implementations that streamlined analytics workflows."
+  ],
+  "technical_skills": {
+    "Data Engineering & ETL/ELT": [
+      "AWS Glue",
+      "Apache Airflow",
+      "ETL Pipeline Design",
+      "ELT Pipeline Development",
+      "Data Pipeline Optimization",
+      "Large-scale Data Transformation"
+    ],
+    "Cloud Data Platforms & Services": [
+      "Amazon S3",
+      "AWS Data Stack",
+      "Python on AWS",
+      "SQL-based Analytics on Cloud",
+      "Cloud Data Architecture",
+      "Cloud Platform Optimization"
+    ],
+    "Data Modeling & Architecture": [
+      "Dimensional Modeling",
+      "Star Schemas",
+      "Snowflake Schemas",
+      "Medallion Architecture",
+      "Layered Data Architectures",
+      "Business-ready Data Modeling"
+    ],
+    "Databases & Query Languages": [
+      "PostgreSQL",
+      "SQL",
+      "Advanced SQL",
+      "Data Mart Design",
+      "Reporting-optimized Schemas",
+      "Analytics Database Management"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "Data Engineering Python",
+      "ETL Scripting",
+      "Pipeline Automation",
+      "Data Transformation Code"
+    ],
+    "Analytics & Reporting Platforms": [
+      "Analytics Platform Support",
+      "Reporting Systems",
+      "Ad-hoc Reporting Infrastructure",
+      "Business Intelligence Platforms"
+    ],
+    "Data Governance & Compliance": [
+      "Data Security Best Practices",
+      "Data Quality Controls",
+      "Regulated Data Systems",
+      "Compliance Enforcement",
+      "Government Data Handling"
+    ],
+    "Consulting & Delivery Tools": [
+      "Client-Facing Communication",
+      "Solution Advisory Frameworks",
+      "Technical Roadmap Planning",
+      "Stakeholder Collaboration Tools"
+    ],
+    "Data Systems & Integration": [
+      "Data System Integration",
+      "Platform Evolution Advisory",
+      "Production System Optimization",
+      "Legacy System Modernization"
+    ],
+    "Industry-Specific Data Handling": [
+      "Healthcare Data Systems",
+      "Public Sector Data Platforms",
+      "Regulated Industry Data",
+      "Government Data Systems",
+      "Financial Data Compliance"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized AWS Glue to address inefficient legacy ETL processes handling sensitive healthcare data, architecting serverless Python jobs that transformed petabytes of HIPAA-regulated information, resulting in 40% faster pipeline execution.",
+        "Implemented a Medallion Architecture on Amazon S3 to solve data quality issues in medical supply chain analytics, creating bronze, silver, and gold data layers that improved reporting accuracy for critical healthcare inventory management.",
+        "Applied dimensional modeling techniques to untangle complex healthcare provider relationships, designing star schemas that simplified ad-hoc reporting for business users while maintaining strict HIPAA compliance across all data marts.",
+        "Leveraged Python to build proof-of-concept multi-agent systems using Crew AI and LangGraph, exploring how agentic frameworks could automate data quality checks and anomaly detection in pharmaceutical supply chain datasets.",
+        "Orchestrated the optimization of live production analytics platforms supporting real-time healthcare reporting, debugging performance bottlenecks in AWS Glue jobs that processed Medicare and Medicaid claim data streams.",
+        "Engineered data security controls within S3 data lakes to protect patient health information, implementing encryption, access policies, and audit trails that satisfied HIPAA requirements for regulated healthcare data systems.",
+        "Translated complex technical concepts about Medallion Architecture to business stakeholders during weekly meetings, creating visual diagrams that explained layered data models to non-technical healthcare executives.",
+        "Constructed business-ready data models for gold-layer analytics, collaborating with clinical analysts to understand reporting needs and building schemas that accelerated insight generation for hospital supply decisions.",
+        "Championed data quality enforcement across the healthcare data platform, establishing validation rules within ETL pipelines that flagged anomalous medical billing data before it reached reporting dashboards.",
+        "Explored Model Context Protocol applications for agent-to-agent communication in multi-agent systems, conducting experiments to improve how AI agents shared context about healthcare compliance regulations during data processing.",
+        "Advised on the evolution of the cloud data platform architecture, recommending AWS service upgrades and optimizations that reduced costs while improving performance for critical healthcare analytics workloads.",
+        "Troubleshot production issues in mission-critical ETL pipelines during late-night debugging sessions, identifying race conditions in concurrent Glue jobs that processed emergency medical equipment ordering data.",
+        "Integrated advanced analytics support directly into the data architecture, building Python UDFs for AWS Glue that performed statistical analysis on hospital utilization data as part of the transformation process.",
+        "Mentored junior data engineers on healthcare data best practices, conducting code reviews of ETL scripts to ensure they properly handled PHI de-identification and complied with healthcare regulations.",
+        "Designed reporting-optimized schemas for executive dashboards, balancing query performance with data freshness requirements for real-time visibility into medical supply chain operations across multiple facilities.",
+        "Pioneered the implementation of agentic workflows for automated data governance, creating proof-of-concept systems where AI agents monitored ETL jobs and reported compliance violations to human supervisors."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Amazon S3",
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Medallion Architecture",
+        "Dimensional Modeling",
+        "Star Schemas",
+        "ETL Pipeline Optimization",
+        "HIPAA Compliance",
+        "Data Security",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Healthcare Data Systems",
+        "Cloud Data Architecture"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Deployed AWS Glue to modernize insurance claims processing pipelines, converting monolithic ETL jobs into modular Python scripts that handled millions of daily claims while maintaining regulatory compliance for insurance data.",
+        "Architected a layered data architecture on AWS to address siloed insurance information, implementing bronze-to-gold data transformations that created unified member profiles across different Blue Cross Blue Shield plans.",
+        "Formulated dimensional models for insurance analytics, designing fact tables for claims processing and dimension tables for provider networks that supported complex ad-hoc reporting on healthcare utilization patterns.",
+        "Utilized Python to create initial proof-of-concepts for agentic data processing, experimenting with Crew AI frameworks to automate the validation of insurance claim data against policy coverage rules.",
+        "Optimized SQL-based analytics queries running on PostgreSQL instances, rewriting complex joins and adding strategic indexes that reduced report generation time for insurance actuarial analysis by over 50%.",
+        "Established data quality controls within ETL pipelines processing sensitive insurance information, implementing validation checks that identified fraudulent claim patterns while protecting member privacy.",
+        "Communicated technical architecture decisions to insurance business stakeholders, translating ETL pipeline designs into business benefits like faster claim adjudication and improved member experience metrics.",
+        "Built data marts specifically for insurance regulatory reporting, creating optimized schemas that streamlined the extraction of data required for state insurance commission filings and compliance audits.",
+        "Enforced data governance policies across the insurance data platform, working with compliance officers to ensure all data handling practices met state and federal insurance regulations for protected information.",
+        "Troubleshot performance issues in production ETL pipelines during monthly claim processing cycles, identifying memory leaks in AWS Glue jobs that processed high volumes of prescription drug claims data.",
+        "Advised on long-term platform evolution for insurance analytics, creating a roadmap that gradually migrated on-premise data warehouses to cloud-native AWS services while maintaining continuous operations.",
+        "Collaborated with actuarial teams to understand their advanced analytics needs, modifying data models and transformation logic to support predictive modeling of insurance risk and healthcare costs.",
+        "Implemented data security measures for insurance member data stored in Amazon S3, configuring bucket policies, encryption, and access controls that prevented unauthorized viewing of sensitive health information.",
+        "Designed and tested multi-agent system prototypes for insurance data validation, creating workflows where different AI agents checked data quality, compliance, and business rules in parallel processing streams."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Amazon S3",
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "ETL Pipeline Development",
+        "Dimensional Modeling",
+        "Layered Architecture",
+        "Insurance Data Systems",
+        "Regulatory Compliance",
+        "Data Quality Controls",
+        "Data Mart Design",
+        "Cloud Optimization",
+        "Crew AI",
+        "Proof-of-Concepts"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Employed Azure Data Factory to construct ETL pipelines for public sector data integration, orchestrating data flows that consolidated information from multiple state agencies while adhering to government data sharing agreements.",
+        "Designed dimensional data models for government reporting requirements, creating star schemas that simplified complex relationships between citizens, services, and agencies for legislative reporting dashboards.",
+        "Implemented a layered data architecture within Azure Data Lake to address fragmented government data sources, establishing raw, cleansed, and enriched data zones that improved analytics across state programs.",
+        "Utilized SQL extensively within Azure Synapse Analytics to transform government datasets, writing complex queries that joined information from education, healthcare, and social services while maintaining citizen privacy.",
+        "Built data marts optimized for ad-hoc government reporting, creating schemas that allowed agency analysts to explore COVID-19 response data without requiring deep technical knowledge of underlying systems.",
+        "Established data security protocols for sensitive government information, implementing role-based access controls, data masking, and audit trails that complied with state data protection regulations and public records laws.",
+        "Translated technical data architecture concepts to government stakeholders, explaining layered data models and ETL processes to agency directors during quarterly planning meetings and budget justification sessions.",
+        "Optimized analytics performance for public sector reporting, tuning Synapse Analytics queries and adjusting Data Factory pipeline configurations to meet SLAs for legislative reporting deadlines.",
+        "Enforced data quality standards across government datasets, implementing validation rules that identified inconsistencies in agency-submitted data before it reached public-facing dashboards and reports.",
+        "Troubleshot data pipeline failures affecting critical government services, debugging Azure Data Factory jobs that processed unemployment claims during peak pandemic-related filing periods.",
+        "Advised on the evolution of the state's data platform, recommending architectural improvements that increased scalability while reducing costs for taxpayer-funded analytics initiatives.",
+        "Collaborated with multiple state agencies to understand their unique data needs, modifying data models and transformation logic to support diverse reporting requirements from education to transportation departments."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Data Lake",
+        "SQL",
+        "Dimensional Modeling",
+        "Star Schemas",
+        "Government Data Systems",
+        "Public Sector Data",
+        "Data Security",
+        "Compliance",
+        "Data Quality",
+        "Ad-hoc Reporting",
+        "Layered Architecture"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Leveraged Azure Data Factory to build financial data pipelines, designing ETL workflows that processed credit card transaction data while maintaining PCI-DSS compliance for sensitive financial information handling.",
+        "Created dimensional models for financial reporting analytics, designing fact tables for transaction processing and dimension tables for customer segmentation that supported fraud detection analysis.",
+        "Implemented data architecture patterns within Azure cloud services, establishing staging, validation, and production data zones that improved governance over financial datasets used for regulatory reporting.",
+        "Utilized SQL within Azure Synapse to transform large-scale financial data, writing optimization queries that aggregated billions of credit card transactions for monthly customer spending analysis.",
+        "Built reporting-optimized data marts for financial analysts, creating schemas that accelerated queries for credit risk assessment and customer behavior analysis across Discover's cardholder base.",
+        "Established data quality controls for financial information, implementing validation rules within Data Factory pipelines that flagged anomalous transactions potentially indicating fraudulent activity.",
+        "Communicated technical data pipeline designs to financial business units, explaining ETL processes to risk management teams during requirements gathering sessions for new fraud detection features.",
+        "Optimized cloud data platform performance for financial analytics, tuning Azure services to handle peak processing loads during end-of-month statement generation cycles for millions of cardholders.",
+        "Enforced data security protocols for financial information, implementing encryption, access controls, and monitoring within Azure that met financial industry regulations for customer data protection.",
+        "Troubleshot performance issues in financial data pipelines, debugging Data Factory activities that processed high-volume transaction data during holiday shopping seasons with increased card usage."
+      ],
+      "environment": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "SQL",
+        "Dimensional Modeling",
+        "Financial Data Systems",
+        "PCI-DSS Compliance",
+        "Data Quality Controls",
+        "Cloud Data Architecture",
+        "ETL Pipeline Development",
+        "Reporting Optimization"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Applied Python and SQL to analyze healthcare diagnostic data, writing scripts that processed medical images and patient records while learning to maintain HIPAA compliance for healthcare information handling.",
+        "Assisted in designing initial data models for healthcare analytics, collaborating with senior engineers to create schemas that organized pathology reports and diagnostic results for medical research purposes.",
+        "Supported ETL pipeline development for healthcare data, writing Python scripts that transformed raw diagnostic data into structured formats suitable for machine learning model training and validation.",
+        "Utilized PostgreSQL to query healthcare datasets, developing SQL skills while extracting insights from patient diagnosis information under the guidance of experienced healthcare data professionals.",
+        "Participated in building analytics support for healthcare reporting, creating basic visualizations and summaries that helped medical researchers understand patterns in diagnostic data across patient populations.",
+        "Learned data quality principles within healthcare contexts, implementing simple validation checks that ensured diagnostic data completeness and accuracy before analysis by medical teams.",
+        "Communicated data findings to healthcare stakeholders, preparing basic reports that explained data patterns to doctors and researchers during project update meetings and review sessions.",
+        "Troubleshot basic data issues in healthcare datasets, identifying missing values and inconsistencies in patient records under supervision while learning healthcare data governance practices."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Analysis",
+        "ETL Support",
+        "Data Modeling Basics",
+        "Healthcare Regulations",
+        "Diagnostic Data Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

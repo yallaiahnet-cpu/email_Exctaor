@@ -1,0 +1,382 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Agentic AI Systems Architect",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Contributed to Insurance, Healthcare, Banking, and Consulting projects with LangGraph orchestration, multi-agent frameworks, and knowledge graph systems that automate enterprise workflows using LLM-powered autonomous agents.",
+    "Architected ReAct-based agent systems using LangChain and LlamaIndex for GCP environments, integrating Neo4j knowledge graphs with Claude AI models to deliver context-aware responses through vector embeddings and MCP protocols.",
+    "Implemented RLHF and RLAIF training loops with OpenAI models on Vertex AI, optimizing agent decision-making through reinforcement learning techniques that improved task completion rates in production environments.",
+    "Orchestrated multi-agent workflows using LangGraph state machines with Google Spanner for persistent storage, enabling agent-to-agent communication patterns that coordinated complex enterprise automation tasks across distributed systems.",
+    "Developed prompt engineering strategies using chain-of-thought reasoning and system prompts, crafting multi-turn conversations that guided LLM behavior while maintaining safety-aware controls throughout autonomous agent interactions.",
+    "Built vector databases with Pinecone and Chroma for agent memory systems, implementing chunking strategies and hybrid RAG pipelines that combined symbolic methods with LLM reasoning for accurate information retrieval.",
+    "Deployed MLOps pipelines for LLM systems using CI/CD automation with Jenkins and Docker, monitoring agent performance metrics and implementing rollback procedures to maintain reliability in production agent deployments.",
+    "Constructed API services with FastAPI that connected agents to enterprise tools, enabling workflow automation through authenticated endpoints that processed real-time data and triggered downstream agent actions.",
+    "Integrated event-driven architectures using GCP Pub/Sub for multi-agent coordination, designing message patterns that allowed autonomous agents to react to system events and collaborate on shared objectives.",
+    "Applied GraphRAG concepts by combining knowledge graphs with retrieval systems, using Neo4j to store entity relationships that agents queried through semantic search powered by embedding models.",
+    "Tested security controls for AI systems handling sensitive data, implementing authentication layers and audit logging mechanisms that tracked agent actions and ensured compliance with enterprise policies.",
+    "Configured embedding models for vectorization tasks, processing documents into dense representations stored in vector databases that agents accessed during context retrieval and memory operations.",
+    "Explored CrewAI and AutoGen frameworks through proof-of-concept projects, comparing their agent coordination approaches against LangGraph implementations to identify optimal patterns for different use cases.",
+    "Analyzed tool usage patterns in agent systems, measuring API call frequencies and response times to optimize the connection between LLMs and external services during automated workflow execution.",
+    "Researched agentic AI architectures by reviewing academic papers and industry implementations, translating findings into production-ready designs that aligned with business objectives for autonomous system development.",
+    "Collaborated with cross-functional teams including data scientists and enterprise architects, communicating technical concepts about agent capabilities and facilitating alignment between AI initiatives and company goals.",
+    "Debugged agent failure modes by analyzing conversation logs and state transitions, identifying where autonomous systems deviated from expected behavior and implementing fixes to improve reliability.",
+    "Evaluated RAG quality metrics including retrieval precision and answer relevance, running experiments with different chunking approaches and query transformations to optimize agent knowledge access patterns."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Agent Frameworks & Orchestration": [
+      "LangGraph",
+      "LangChain",
+      "ReAct Agents",
+      "LlamaIndex",
+      "CrewAI",
+      "AutoGen",
+      "Agent-to-Agent Communication",
+      "Multi-Agent Systems",
+      "Model Context Protocol (MCP)"
+    ],
+    "LLM & AI Models": [
+      "OpenAI GPT-4",
+      "Claude AI Models",
+      "Vertex AI",
+      "Embedding Models",
+      "Fine-tuning LLMs",
+      "RLHF",
+      "RLAIF",
+      "Prompt Engineering",
+      "Chain-of-Thought (CoT)",
+      "System Prompts"
+    ],
+    "Knowledge Graphs & Vector Databases": [
+      "Neo4j",
+      "Pinecone",
+      "Chroma",
+      "Weaviate",
+      "Graph RAG",
+      "Knowledge Graph Construction",
+      "Entity Resolution",
+      "Semantic Search"
+    ],
+    "RAG & Information Retrieval": [
+      "Retrieval-Augmented Generation",
+      "Chunking Strategies",
+      "Query Transformation",
+      "Hybrid RAG",
+      "Document Embedding",
+      "Context Ranking",
+      "RAG Evaluation"
+    ],
+    "Cloud Platforms & Services": [
+      "GCP (Vertex AI, BigQuery, Cloud SQL, Pub/Sub, Cloud Functions)",
+      "Google Spanner",
+      "AWS (S3, SageMaker, Lambda, EC2, RDS)",
+      "Azure (ML Studio, Databricks)"
+    ],
+    "Machine Learning & Deep Learning": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "Transformers",
+      "Transfer Learning",
+      "Reinforcement Learning"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "TF-IDF",
+      "Named Entity Recognition",
+      "Sentiment Analysis"
+    ],
+    "Big Data & Processing": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Kafka",
+      "Apache Airflow",
+      "Databricks",
+      "Hadoop",
+      "Hive",
+      "Spark Streaming"
+    ],
+    "API Development & Tools": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "REST APIs",
+      "Tool Integration",
+      "Workflow Automation",
+      "API Gateway",
+      "Webhook Processing"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Snowflake",
+      "Redis",
+      "Elasticsearch",
+      "Google BigQuery",
+      "SQL Server",
+      "Cassandra"
+    ],
+    "MLOps & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "CI/CD Pipelines",
+      "Jenkins",
+      "GitHub Actions",
+      "Model Monitoring",
+      "A/B Testing"
+    ],
+    "Event-Driven Architecture": [
+      "GCP Pub/Sub",
+      "Apache Kafka",
+      "Event Sourcing",
+      "Message Queues",
+      "Stream Processing",
+      "Real-time Pipelines"
+    ],
+    "Security & Compliance": [
+      "AI System Security",
+      "Authentication",
+      "Audit Logging",
+      "Data Encryption",
+      "HIPAA Compliance",
+      "PCI-DSS",
+      "GDPR"
+    ],
+    "Development Tools & Practices": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Terraform",
+      "Code Review",
+      "Agile Methodologies"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Prototype multi-agent insurance workflows using LangGraph state machines, connecting autonomous agents through MCP protocols that coordinate policy processing tasks and integrate Neo4j knowledge graphs for regulatory compliance tracking.",
+        "Build ReAct-based agents with LangChain on GCP Vertex AI, implementing chain-of-thought prompting that guides OpenAI models through complex insurance claim analysis while maintaining audit trails for decision transparency.",
+        "Configure Google Spanner as persistent storage for agent state, designing schema patterns that track conversation history and enable agents to resume tasks after interruptions without losing context from previous interactions.",
+        "Establish vector databases using Pinecone for insurance document retrieval, chunking policy documents into searchable segments and creating embeddings that agents query during customer service automation workflows.",
+        "Integrate Claude AI models through API endpoints, crafting system prompts that instruct agents on insurance domain knowledge and implementing safety controls that prevent generation of incorrect regulatory advice.",
+        "Develop hybrid RAG pipelines combining symbolic rule engines with LLM reasoning, allowing agents to validate insurance calculations against fixed formulas while using natural language understanding for customer query interpretation.",
+        "Deploy FastAPI services connecting agents to legacy insurance systems, building authenticated endpoints that allow autonomous workflows to retrieve policy data and submit updates while maintaining PCI-DSS security standards.",
+        "Coordinate agent-to-agent communication patterns using GCP Pub/Sub messaging, designing event schemas that enable specialized agents to hand off tasks and collaborate on multi-step insurance processing operations.",
+        "Test RLHF training loops for claim assessment agents, collecting feedback from insurance adjusters and fine-tuning model behavior to align autonomous decisions with company risk management policies and regulations.",
+        "Monitor agent performance in production using custom metrics, tracking task completion rates and identifying failure modes where autonomous systems require human intervention during complex insurance scenarios.",
+        "Debug LangGraph workflow errors by analyzing state transition logs, pinpointing where agents made incorrect routing decisions and adjusting prompt templates to improve reliability in production environments.",
+        "Implement GraphRAG concepts for insurance knowledge management, populating Neo4j with entity relationships between policies, customers, and claims that agents traverse during information retrieval operations.",
+        "Evaluate RAG quality through automated testing, measuring retrieval precision for insurance document searches and iterating on query transformation strategies to improve answer accuracy for customer inquiries.",
+        "Optimize embedding model selection for vectorization tasks, comparing different model architectures and selecting configurations that balance inference speed with semantic understanding quality for insurance content.",
+        "Collaborate with insurance domain experts during agent development, translating business requirements into prompt engineering patterns and validating that autonomous workflows align with regulatory compliance needs.",
+        "Research emerging agent frameworks like CrewAI through proof-of-concept implementations, comparing their coordination mechanisms against existing LangGraph systems to identify potential improvements for future insurance automation projects."
+      ],
+      "environment": [
+        "LangGraph",
+        "LangChain",
+        "LlamaIndex",
+        "Claude AI",
+        "OpenAI GPT-4",
+        "GCP Vertex AI",
+        "Google Spanner",
+        "Neo4j",
+        "Pinecone",
+        "MCP",
+        "FastAPI",
+        "GCP Pub/Sub",
+        "RLHF",
+        "RAG",
+        "GraphRAG",
+        "Vector Embeddings",
+        "Python",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Designed multi-agent healthcare systems using LangGraph orchestration, coordinating autonomous agents that processed patient records while maintaining HIPAA compliance through encrypted Neo4j knowledge graph storage of medical entity relationships.",
+        "Created ReAct agent frameworks with LangChain for drug research automation, implementing chain-of-thought reasoning that guided OpenAI models through literature review tasks and integrated findings with existing pharmaceutical knowledge bases.",
+        "Deployed vector databases using Chroma for clinical document retrieval, chunking medical research papers and generating embeddings that agents queried during automated literature synthesis workflows on GCP infrastructure.",
+        "Constructed RAG pipelines combining healthcare regulations with LLM capabilities, enabling agents to answer compliance questions by retrieving relevant FDA guidelines and synthesizing them into actionable recommendations for research teams.",
+        "Integrated Claude AI models for patient data analysis tasks, crafting prompts that instructed agents to extract structured information from unstructured clinical notes while respecting privacy constraints and GDPR requirements.",
+        "Automated workflow processes using LangGraph state machines, connecting agents to laboratory information systems through FastAPI endpoints that triggered sample tracking updates and coordinated multi-step testing procedures.",
+        "Implemented agent memory systems with Weaviate vector storage, designing persistence patterns that allowed healthcare agents to recall previous patient interactions and maintain context across longitudinal care coordination scenarios.",
+        "Configured GCP Vertex AI for model hosting and fine-tuning, adjusting Claude and OpenAI models on medical terminology datasets that improved agent understanding of pharmaceutical nomenclature and clinical abbreviations.",
+        "Applied prompt engineering techniques for safety-aware agent behavior, developing multi-turn conversation templates that prevented healthcare agents from generating medical advice without proper disclaimer and human oversight requirements.",
+        "Validated agent outputs against clinical guidelines, implementing automated checks that compared autonomous system recommendations with established protocols and flagged discrepancies for review by medical professionals.",
+        "Investigated GraphRAG architectures for drug interaction analysis, modeling chemical compounds and their relationships in Neo4j graphs that agents traversed to identify potential contraindications during prescription review tasks.",
+        "Tested MCP protocol implementations for agent coordination, evaluating how context sharing between specialized healthcare agents improved accuracy when processing complex patient cases requiring multidisciplinary input.",
+        "Analyzed embedding model performance for medical text vectorization, benchmarking different encoder architectures and selecting models that captured semantic nuances in clinical documentation for improved retrieval quality.",
+        "Familiarized team members with CrewAI and AutoGen frameworks through internal workshops, demonstrating alternative approaches to agent orchestration and discussing trade-offs compared to existing LangChain implementations for healthcare use cases."
+      ],
+      "environment": [
+        "LangGraph",
+        "LangChain",
+        "LlamaIndex",
+        "Claude AI",
+        "OpenAI GPT-4",
+        "GCP Vertex AI",
+        "Neo4j",
+        "Chroma",
+        "Weaviate",
+        "MCP",
+        "FastAPI",
+        "RAG",
+        "GraphRAG",
+        "Vector Embeddings",
+        "HIPAA Compliance",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "CrewAI",
+        "AutoGen"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed predictive models for public health initiatives using XGBoost and Random Forest algorithms, analyzing patient admission patterns across state healthcare facilities to forecast resource needs and optimize bed allocation strategies.",
+        "Processed HIPAA-compliant medical records with PySpark on AWS EMR clusters, transforming raw clinical data into structured features while implementing encryption protocols that protected patient privacy throughout ETL pipelines.",
+        "Built classification systems using PyTorch neural networks for disease risk assessment, training models on historical health records and deploying predictions through REST APIs that integrated with state electronic health record systems.",
+        "Constructed data pipelines with Apache Airflow orchestrating AWS Glue jobs, scheduling daily extracts from disparate healthcare databases and loading transformed records into PostgreSQL data warehouse for analytics team access.",
+        "Engineered features from time-series patient vitals using Pandas and NumPy, calculating statistical aggregations and temporal patterns that improved chronic disease prediction model performance in subsequent training iterations.",
+        "Deployed machine learning models to AWS SageMaker endpoints, containerizing inference code with Docker and monitoring prediction latency metrics to ensure real-time response requirements for clinical decision support applications.",
+        "Validated model fairness across demographic groups, analyzing prediction accuracy stratified by age and geography to identify potential biases in healthcare resource allocation recommendations before production deployment.",
+        "Automated model retraining workflows using Lambda functions triggered by S3 data arrival events, implementing version control for model artifacts with MLflow that tracked performance degradation and initiated refresh cycles.",
+        "Collaborated with state health department analysts to define evaluation metrics, translating clinical outcome goals into quantifiable model objectives and establishing threshold criteria for acceptable prediction error rates.",
+        "Documented data processing procedures and model architectures in technical specifications, creating runbooks for operational handoff that enabled state IT staff to maintain systems after project completion.",
+        "Investigated distributed training approaches using Horovod on multi-GPU instances, experimenting with parallelization strategies to reduce model training time for large-scale healthcare datasets exceeding memory capacity.",
+        "Participated in code review sessions with engineering team, examining ETL logic for data quality issues and suggesting improvements to error handling that increased pipeline reliability during daily processing runs."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "AWS EMR",
+        "AWS SageMaker",
+        "AWS Glue",
+        "AWS Lambda",
+        "Apache Airflow",
+        "PyTorch",
+        "XGBoost",
+        "Scikit-Learn",
+        "PostgreSQL",
+        "Docker",
+        "MLflow",
+        "Pandas",
+        "NumPy",
+        "REST APIs",
+        "HIPAA Compliance",
+        "S3"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Trained fraud detection models using Gradient Boosting and Neural Networks on AWS infrastructure, analyzing transaction patterns to identify suspicious activities while maintaining PCI-DSS compliance throughout model development lifecycle.",
+        "Extracted features from banking transaction logs using SQL queries against Teradata warehouse, calculating customer spending patterns and account behavior metrics that improved fraud model precision in production environments.",
+        "Implemented real-time prediction pipelines with AWS Lambda and Kinesis streams, processing transaction events and generating fraud scores within milliseconds to enable immediate card authorization decisions at point-of-sale terminals.",
+        "Optimized model hyperparameters through grid search experiments on EC2 GPU instances, tuning learning rates and regularization values that reduced false positive rates for legitimate high-value transactions.",
+        "Visualized model performance using Tableau dashboards, creating interactive reports that displayed fraud detection rates across merchant categories and enabled business stakeholders to assess system effectiveness.",
+        "Prepared training datasets by sampling historical transactions from RDS databases, balancing class distributions between fraudulent and legitimate cases to prevent model bias toward majority class during supervised learning.",
+        "Evaluated model interpretability using SHAP values, analyzing feature importance rankings to explain fraud predictions and ensure compliance with regulatory requirements for transparent algorithmic decision-making.",
+        "Standardized data preprocessing workflows with Python scripts, implementing consistent normalization techniques and outlier handling procedures that improved model stability across different time periods and customer segments.",
+        "Maintained model documentation including feature definitions and performance benchmarks, creating knowledge base articles that helped new team members understand system architecture and operational procedures.",
+        "Attended cross-functional meetings with risk management teams, presenting model results and gathering feedback on business rules that should supplement statistical predictions in fraud prevention strategy."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-Learn",
+        "TensorFlow",
+        "AWS Lambda",
+        "AWS Kinesis",
+        "AWS EC2",
+        "AWS RDS",
+        "Teradata",
+        "SQL",
+        "Tableau",
+        "Pandas",
+        "NumPy",
+        "PCI-DSS Compliance",
+        "SHAP",
+        "Gradient Boosting"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Loaded data from multiple source systems into Hadoop clusters using Sqoop, scheduling incremental imports that transferred daily transaction records from Oracle databases to HDFS for downstream processing.",
+        "Transformed raw data with Informatica PowerCenter workflows, applying business rules and data quality checks that cleansed customer records before loading into enterprise data warehouse tables.",
+        "Monitored ETL job execution through Informatica workflows, troubleshooting failures caused by data format inconsistencies and network timeouts that interrupted nightly batch processing schedules.",
+        "Queried Hive tables for data validation, writing HiveQL scripts that aggregated record counts and compared totals against source systems to verify successful data migration completeness.",
+        "Mapped source-to-target data flows in technical design documents, diagramming field transformations and join logic that guided implementation of complex ETL procedures for business intelligence reporting.",
+        "Learned Hadoop ecosystem components through hands-on practice, setting up local development environments and experimenting with MapReduce programs to understand distributed computing concepts.",
+        "Supported production data pipelines by responding to incident tickets, investigating root causes of data discrepancies and applying fixes that restored normal processing within service level agreements.",
+        "Participated in agile sprint planning meetings, estimating effort for data integration tasks and committing to deliverables that incrementally built out analytics platform capabilities for client stakeholders."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Hive",
+        "HiveQL",
+        "Oracle",
+        "HDFS",
+        "MapReduce",
+        "Python",
+        "SQL",
+        "Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

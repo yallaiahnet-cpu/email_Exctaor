@@ -1,0 +1,233 @@
+{
+  "name": "Srilatha Nenavath",
+  "title": "Senior QA Automation Engineer",
+  "contact": {
+    "email": "[srilathanenavath14@gmail.com](mailto:srilathanenavath14@gmail.com)",
+    "phone": "314-476-2798",
+    "portfolio": "",
+    "linkedin": "[https://linkedin.com/in/nenavathsrilatha/](https://linkedin.com/in/nenavathsrilatha/)",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 9 years of experience in QA automation and ETL testing across Healthcare, Finance, E-commerce, Government, and Telecommunications domains using tools like Selenium, Postman, and Informatica to ensure reliable applications and secure data flows.",
+    "Utilized SQL queries to validate and reconcile large datasets in healthcare and financial projects, ensuring compliance with HIPAA and PCI regulations and resolving inconsistencies efficiently within ETL pipelines.",
+    "Applied Playwright for UI and API automation to test complex web applications, catching functional and integration issues early, which reduced production defects and improved end-user experience significantly.",
+    "Configured CI/CD pipelines with Jenkins to automate test execution, ensuring continuous testing in Agile sprints and reducing manual intervention while keeping development and QA teams aligned.",
+    "Analyzed data models in SQL Server and Oracle databases to optimize queries and improve ETL process reliability, which enhanced report accuracy and facilitated smoother business operations for stakeholders.",
+    "Supported cross-functional teams by troubleshooting integration issues between applications and ETL workflows, which helped resolve blockers quickly and maintained project timelines.",
+    "Created automated test scripts for functional and regression testing using Selenium WebDriver and TestNG, improving test coverage and reducing repeated manual testing effort across multiple releases.",
+    "Improved defect tracking by integrating Jira with automated test results, enabling faster identification of root causes and effective communication with developers and business analysts.",
+    "Enhanced reporting accuracy by using ClearSearch to verify large healthcare datasets and generate reconciliation reports, which ensured compliance and minimized audit findings.",
+    "Facilitated data validation in Prudential projects by executing SQL-based checks and comparing results across staging and production environments, which prevented financial discrepancies.",
+    "Collaborated with developers and BAs to clarify requirements, identify test scenarios, and plan test execution, which strengthened QA contribution to Agile sprint deliverables.",
+    "Tested REST and SOAP APIs using Postman and SoapUI for functional and performance aspects, ensuring proper integration between microservices and reliable data exchange across applications.",
+    "Modernized legacy ETL processes by applying Informatica transformations, which optimized data flow, reduced processing time, and improved consistency for critical healthcare and finance reports.",
+    "Streamlined automated testing workflows by configuring Git repositories and branching strategies, which improved code versioning and collaboration among QA engineers and developers.",
+    "Enhanced overall test efficiency by integrating test automation with monitoring tools and logs, which helped quickly identify bottlenecks and maintain system stability for enterprise applications.",
+    "Produced detailed QA documentation for ongoing projects, including test plans, scenarios, and defect reports, which helped maintain transparency and supported knowledge sharing among teams.",
+    "Optimized load and performance testing using JMeter and LoadRunner to simulate realistic user traffic, which identified bottlenecks and improved system response times before production release.",
+    "Reviewed and updated test frameworks to include latest automation best practices, ensuring maintainability, reusability, and alignment with enterprise QA standards."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "PL/SQL",
+      "JavaScript",
+      "Shell Scripting"
+    ],
+    "Frameworks": [
+      "Selenium WebDriver",
+      "TestNG",
+      "Pytest",
+      "Playwright"
+    ],
+    "Frontend": [
+      "HTML",
+      "CSS",
+      "React",
+      "Angular"
+    ],
+    "Backend": [
+      "REST APIs",
+      "SOAP APIs",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "Databases": [
+      "Oracle",
+      "SQL Server",
+      "DB2",
+      "PostgreSQL"
+    ],
+    "Cloud Platforms": [
+      "Azure",
+      "AWS"
+    ],
+    "DevOps Tools": [
+      "Jenkins",
+      "Git",
+      "Maven",
+      "Docker"
+    ],
+    "Testing Tools": [
+      "Postman",
+      "SoapUI",
+      "Informatica",
+      "ClearSearch",
+      "JMeter",
+      "LoadRunner",
+      "Quality Center"
+    ],
+    "Monitoring": [
+      "Splunk",
+      "New Relic",
+      "AppDynamics",
+      "Nagios"
+    ],
+    "Version Control": [
+      "Git",
+      "SVN",
+      "Bitbucket"
+    ],
+    "Security": [
+      "HIPAA Compliance",
+      "PCI DSS",
+      "Role-based Access",
+      "Encryption Standards"
+    ],
+    "AI & ML": [
+      "Python Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "TensorFlow"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior QA Engineer",
+      "client": "Aetna",
+      "duration": "2024-Oct - Present",
+      "location": "",
+      "responsibilities": [
+        "Worked on Azure-hosted ETL pipelines to verify healthcare datasets and resolve inconsistencies using SQL queries, ensuring HIPAA compliance while reducing reconciliation time for critical reports.",
+        "Built Playwright automation scripts for UI and API testing to catch functional defects early, improving release quality and minimizing production incidents in Aetna healthcare applications.",
+        "Created automated regression suites in Selenium and TestNG for multiple modules, which improved test coverage and reduced repetitive manual testing across sprints.",
+        "Tested REST APIs using Postman and SoapUI to ensure smooth integration between microservices, detecting and fixing broken endpoints during early development stages.",
+        "Collaborated with BAs and developers to clarify ambiguous requirements and define test scenarios, which minimized defects and accelerated Agile sprint delivery timelines.",
+        "Configured Jenkins pipelines for continuous test execution, integrating automated test reports to provide real-time feedback for development and QA teams.",
+        "Analyzed data transformations in Informatica to validate ETL workflows, which helped correct errors and improved accuracy of downstream healthcare reports.",
+        "Reviewed test logs and monitoring alerts to troubleshoot failures, enabling faster issue resolution and improved system stability for production-critical healthcare applications.",
+        "Enhanced ClearSearch verification scripts to perform complex data reconciliation, ensuring data integrity across multiple sources and reducing audit-related issues.",
+        "Supported UAT sessions by preparing test cases and coordinating with business stakeholders, facilitating smooth sign-off and maintaining compliance with healthcare regulations.",
+        "Updated SQL queries to validate high-volume transaction data in production, identifying anomalies and supporting timely correction of financial and clinical information.",
+        "Worked closely with the infrastructure team to resolve environment setup issues in Azure, which improved test environment reliability and reduced delays in QA execution.",
+        "Facilitated defect prioritization meetings with project leads, ensuring critical healthcare and compliance defects were resolved before release deadlines.",
+        "Tested automation framework integration with CI/CD pipelines, verifying proper build triggers and test result reporting, which improved overall process efficiency.",
+        "Produced detailed QA documentation, including test plans, execution reports, and defect logs, which helped maintain team knowledge and project transparency.",
+        "Optimized load testing scenarios using JMeter to simulate user traffic for healthcare applications, detecting bottlenecks and improving system performance before production release."
+      ],
+      "environment": [
+        "Azure, Selenium WebDriver, TestNG, Playwright, Postman, SoapUI, Informatica, ClearSearch, SQL Server, Oracle, DB2, Jenkins, Git, JMeter, LoadRunner, Quality Center, Agile"
+      ]
+    },
+    {
+      "role": "Senior QA Engineer",
+      "client": "Prudential Financial",
+      "duration": "2022-Jun - 2024-Sep",
+      "location": "",
+      "responsibilities": [
+        "Validated financial ETL datasets using SQL queries to detect and fix inconsistencies, ensuring PCI compliance and accurate reporting across Prudential applications.",
+        "Developed automated regression scripts in Selenium WebDriver and TestNG to catch functional defects, reducing manual testing effort and improving delivery timelines.",
+        "Executed REST and SOAP API test cases using Postman and SoapUI, confirming proper integration with backend services and resolving detected issues promptly.",
+        "Prepared test plans and cases aligned with business requirements, coordinating with BAs to ensure coverage of critical financial processes in automated test suites.",
+        "Reviewed ETL workflows and data transformations in Informatica to identify errors, resulting in corrected processing and improved accuracy of downstream reports.",
+        "Configured Jenkins pipelines to schedule automated tests and generate reports, streamlining QA efforts and maintaining continuous integration with development teams.",
+        "Analyzed SQL Server and DB2 database records for data reconciliation, fixing mismatches and ensuring financial transactions were correctly processed.",
+        "Supported defect triage meetings with project leads and developers, clarifying root causes and prioritizing fixes to maintain project deadlines and compliance standards.",
+        "Enhanced test reporting by integrating automated results with Jira dashboards, improving visibility of defects and test coverage for all stakeholders.",
+        "Performed load and performance testing using JMeter and LoadRunner, identifying system bottlenecks and supporting optimizations to handle high transaction volumes.",
+        "Worked with frontend and backend teams to debug integration issues, ensuring seamless communication between UI and API components in finance applications.",
+        "Assisted in migrating test artifacts and frameworks to modern QA tools, improving maintainability, reusability, and alignment with enterprise automation standards.",
+        "Conducted UAT support by validating financial workflows with business users, ensuring accuracy and reducing post-release incidents.",
+        "Produced QA documentation including test scenarios, execution logs, and defect reports, supporting knowledge sharing and compliance auditing."
+      ],
+      "environment": [
+        "Selenium WebDriver, TestNG, Postman, SoapUI, Swagger, JMeter, LoadRunner, Quality Center, Jira, SQL Server, DB2, Git, Jenkins, Informatica, Agile"
+      ]
+    },
+    {
+      "role": "QA Automation Engineer",
+      "client": "Target",
+      "duration": "2020-Jul - 2022-May",
+      "location": "",
+      "responsibilities": [
+        "Built automated test scripts in Selenium to validate e-commerce workflows, catching UI and functional defects and improving product release quality for Target online applications.",
+        "Executed API tests using Postman to verify backend service integration, identifying and resolving discrepancies that affected order processing and customer experience.",
+        "Reviewed SQL queries for order and customer data verification, fixing mismatches to maintain accurate reporting and reconciliation in transactional systems.",
+        "Collaborated with development teams to troubleshoot frontend-backend integration issues, ensuring stable and reliable application behavior for users.",
+        "Produced detailed test plans and executed regression suites, which improved test coverage and reduced repeated manual testing across release cycles.",
+        "Updated test frameworks to include Playwright scripts for modern UI testing, improving maintainability and aligning with enterprise automation practices.",
+        "Checked ETL data transformations and reconciliations to ensure accurate inventory updates and reporting in Azure-hosted e-commerce applications.",
+        "Supported defect triage and prioritization meetings with QA leads, clarifying issues and ensuring timely resolution of critical production defects.",
+        "Configured Git repositories for automated test scripts and maintained version control, ensuring smooth collaboration among QA and development teams.",
+        "Assisted in performance testing using JMeter to simulate user loads, identifying system bottlenecks and improving application responsiveness before releases.",
+        "Analyzed logs and monitoring alerts to debug failures, supporting quick resolution of production issues and maintaining customer satisfaction.",
+        "Created documentation for test cases, execution logs, and defect reports to support QA knowledge transfer and project transparency."
+      ],
+      "environment": [
+        "Azure, Selenium WebDriver, TestNG, Playwright, Postman, SoapUI, SQL Server, Oracle, Git, Jenkins, JMeter, Agile"
+      ]
+    },
+    {
+      "role": "Software Test Engineer",
+      "client": "State Of Utah",
+      "duration": "2019-Mar - 2020-Jun",
+      "location": "",
+      "responsibilities": [
+        "Tested government applications hosted on AWS by validating workflows and catching functional defects, ensuring compliance with regulatory requirements and smooth operations.",
+        "Executed SQL queries to reconcile data across multiple systems, fixing inconsistencies and ensuring accurate reporting for government stakeholders.",
+        "Collaborated with developers and BAs to clarify requirements and define test cases, improving understanding and reducing defects during release cycles.",
+        "Built automated test scripts in Selenium WebDriver for regression testing, improving efficiency and reducing manual testing effort across modules.",
+        "Performed API testing using Postman and SoapUI, ensuring proper integration between government services and backend systems.",
+        "Configured Jenkins pipelines for automated test execution, enabling continuous integration and improving QA delivery timelines.",
+        "Reviewed ETL data workflows and resolved transformation issues, ensuring accurate reporting and data compliance for government datasets.",
+        "Supported defect triage sessions by analyzing issues and recommending fixes, which helped maintain project deadlines and regulatory adherence.",
+        "Produced QA documentation including test plans, execution logs, and defect reports to maintain transparency and support audits.",
+        "Analyzed system logs and monitoring alerts to troubleshoot failures, supporting reliable and compliant government operations."
+      ],
+      "environment": [
+        "AWS, Selenium WebDriver, TestNG, Postman, SoapUI, SQL Server, Oracle, Jenkins, Git, Agile"
+      ]
+    },
+    {
+      "role": "Associate QA Engineer",
+      "client": "Sutherland",
+      "duration": "2015-Mar - 2018-Dec",
+      "location": "",
+      "responsibilities": [
+        "Worked with telecom OSS/BSS systems to test network inventory workflows, detecting defects and improving operational accuracy for Sutherland projects.",
+        "Executed SQL queries to verify telecom provisioning and billing data, identifying mismatches and fixing them to maintain customer satisfaction.",
+        "Built Selenium WebDriver scripts for automated regression testing, improving coverage and reducing repeated manual testing efforts.",
+        "Tested REST and SOAP APIs using Postman and SoapUI to ensure proper integration between CRM and network systems, resolving detected issues.",
+        "Assisted in defect triage and reporting, clarifying issues with developers to ensure timely resolution of telecom-related defects.",
+        "Configured Git repositories for test automation scripts and maintained version control, enabling collaboration among QA and development teams.",
+        "Analyzed logs and monitoring alerts to debug issues, supporting faster resolution of network system problems and improving reliability.",
+        "Created QA documentation including test plans, execution logs, and defect reports to maintain project knowledge and transparency."
+      ],
+      "environment": [
+        "Jira, Bugzilla, Selenium WebDriver, Java, TestNG, SQL, Oracle DB, PostgreSQL, Git, Jenkins, Postman, SoapUI, Linux, OSS/BSS Systems, CRM Platforms, Provisioning Systems, Network Inventory Tools, Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NIT Uttarakhand",
+      "degree": "Bachelor's degree",
+      "field": "Electronics and communication Engineering",
+      "year": "2016"
+    }
+  ],
+  "certifications": []
+}

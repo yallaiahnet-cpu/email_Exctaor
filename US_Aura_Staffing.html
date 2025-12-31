@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Aura Staffing | People-First Talent Solutions</title>
+    <style>
+        :root {
+            color-scheme: dark;
+            --midnight: #030712;
+            --slate: #0c1424;
+            --ink: #040b1d;
+            --teal: #2afadf;
+            --violet: #845ef7;
+            --cyan: #4ad1ff;
+            --pink: #ff5f9e;
+            --gold: #ffd166;
+            --aqua: #00f5d4;
+            --mint: #c4fff9;
+            --text: #f7fbff;
+            --muted: #b0c3d9;
+            --card: rgba(11, 18, 40, 0.9);
+            --glass: rgba(255, 255, 255, 0.04);
+            --accent: linear-gradient(120deg, #2afadf, #845ef7 45%, #ff5f9e 80%);
+            --accent-soft: linear-gradient(120deg, rgba(42, 250, 223, 0.35), rgba(132, 94, 247, 0.35));
+            --shadow: 0 30px 80px rgba(3, 7, 18, 0.55);
+        }
+
+        *, *::before, *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+            background: var(--midnight);
+            color: var(--text);
+            min-height: 100vh;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            z-index: -2;
+            background:
+                radial-gradient(circle at 12% 18%, rgba(132, 94, 247, 0.35), transparent 55%),
+                radial-gradient(circle at 82% 15%, rgba(74, 209, 255, 0.35), transparent 55%),
+                radial-gradient(circle at 45% 85%, rgba(255, 95, 158, 0.3), transparent 60%),
+                radial-gradient(circle at 65% 65%, rgba(0, 245, 212, 0.2), transparent 60%),
+                var(--midnight);
+            animation: aurora 40s linear infinite;
+        }
+
+        body::after {
+            content: "";
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 0);
+            background-size: 120px 120px;
+            opacity: 0.18;
+            pointer-events: none;
+            mix-blend-mode: screen;
+        }
+
+        header {
+            position: relative;
+            min-height: 95vh;
+            overflow: hidden;
+            isolation: isolate;
+        }
+
+        header video {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -3;
+            transform: translate(-50%, -50%);
+            filter: brightness(0.35);
+        }
+
+        header::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(circle at 30% 20%, rgba(74, 209, 255, 0.45), transparent 45%),
+                        radial-gradient(circle at 70% 10%, rgba(255, 95, 158, 0.35), transparent 60%),
+                        rgba(3, 7, 18, 0.55);
+            z-index: -2;
+            animation: aurora 25s ease-in-out infinite alternate;
+        }
+
+        nav {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 24px clamp(16px, 5vw, 32px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 24px;
+            background: rgba(3, 7, 18, 0.55);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 999px;
+            backdrop-filter: blur(22px);
+            box-shadow: var(--shadow);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .logo svg {
+            width: 72px;
+            height: auto;
+        }
+
+        .logo-text {
+            display: flex;
+            flex-direction: column;
+            font-weight: 600;
+            letter-spacing: 0.12em;
+        }
+
+        .logo-text span:first-child {
+            font-size: 0.75rem;
+            color: var(--muted);
+        }
+
+        .logo-text span:last-child {
+            font-size: 1.3rem;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 24px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--muted);
+            font-weight: 500;
+            transition: color 0.2s ease;
+            position: relative;
+        }
+
+        nav a::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: -4px;
+            width: 100%;
+            height: 2px;
+            background: var(--accent);
+            transform-origin: left;
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--text);
+        }
+
+        nav a:hover::after {
+            transform: scaleX(1);
+        }
+
+        .pill-btn {
+            padding: 10px 24px;
+            border-radius: 999px;
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            background: rgba(12, 20, 36, 0.65);
+            color: var(--text);
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .pill-btn.primary {
+            background: var(--accent);
+            color: var(--ink);
+            border: none;
+            box-shadow: 0 15px 40px rgba(132, 94, 247, 0.35);
+        }
+
+        .pill-btn.secondary {
+            border: 1px solid rgba(255, 255, 255, 0.35);
+        }
+
+        .pill-btn:hover {
+            transform: translateY(-2px) scale(1.01);
+            background: rgba(255, 255, 255, 0.12);
+        }
+
+        .hero {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: clamp(24px, 12vh, 96px) clamp(16px, 5vw, 32px) 120px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 48px;
+            align-items: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 18px;
+            border-radius: 999px;
+            background: rgba(42, 250, 223, 0.15);
+            color: var(--aqua);
+            font-size: 0.85rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.8rem, 5vw, 4.8rem);
+            line-height: 1.08;
+            margin: 0;
+        }
+
+        .hero h1 span {
+            background-image: var(--accent);
+            -webkit-background-clip: text;
+            color: transparent;
+            text-shadow: 0 10px 30px rgba(132, 94, 247, 0.35);
+        }
+
+        .hero p {
+            color: var(--muted);
+            font-size: 1.05rem;
+        }
+
+        .hero-highlights {
+            list-style: none;
+            display: grid;
+            gap: 10px;
+        }
+
+        .hero-highlights li {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-weight: 500;
+        }
+
+        .hero-highlights li::before {
+            content: "";
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--accent);
+            box-shadow: 0 0 18px rgba(255, 95, 158, 0.7);
+        }
+
+        .hero-cta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .hero-ribbon {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            padding: 12px 18px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .hero-ribbon span {
+            font-size: 0.85rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+
+        .hero-aside {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+        }
+
+        .hero-card {
+            background: var(--card);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 28px;
+            padding: 32px;
+            display: grid;
+            gap: 28px;
+            backdrop-filter: blur(18px);
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-card::before {
+            content: "";
+            position: absolute;
+            inset: -40%;
+            background: var(--accent-soft);
+            filter: blur(60px);
+            opacity: 0.5;
+            animation: floaty 10s ease-in-out infinite;
+        }
+
+        .hero-card > * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .stat {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+        }
+
+        .stat strong {
+            font-size: clamp(2.4rem, 5vw, 3.6rem);
+            background-image: var(--accent);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        .stat span {
+            color: var(--muted);
+            font-size: 0.85rem;
+            letter-spacing: 0.14em;
+        }
+
+        .glow-bar {
+            width: 100%;
+            height: 6px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.08);
+            overflow: hidden;
+        }
+
+        .glow-bar span {
+            display: block;
+            height: 100%;
+            border-radius: inherit;
+            background: var(--accent);
+            box-shadow: 0 0 18px rgba(132, 94, 247, 0.8);
+        }
+
+        .mini-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 12px;
+            list-style: none;
+        }
+
+        .mini-metrics li {
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 18px;
+            padding: 12px 14px;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            font-size: 0.85rem;
+        }
+
+        .mini-metrics strong {
+            display: block;
+            font-size: 1.4rem;
+        }
+
+        .avatars {
+            display: flex;
+            gap: 12px;
+        }
+
+        .avatars img {
+            width: 52px;
+            height: 52px;
+            border-radius: 50%;
+            border: 2px solid rgba(255, 255, 255, 0.5);
+            object-fit: cover;
+            animation: floaty 6s ease-in-out infinite alternate;
+        }
+
+        .cred-badge {
+            padding: 14px 20px;
+            border-radius: 18px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(4, 11, 29, 0.8);
+            font-size: 0.9rem;
+            color: var(--mint);
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+
+        .hero-orb {
+            position: absolute;
+            width: 280px;
+            height: 280px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(74, 209, 255, 0.4), transparent 70%);
+            filter: blur(8px);
+            opacity: 0.6;
+            animation: floaty 12s ease-in-out infinite;
+            pointer-events: none;
+        }
+
+        .hero-orb--one {
+            top: 10%;
+            right: 5%;
+        }
+
+        .hero-orb--two {
+            bottom: 5%;
+            left: 10%;
+            animation-duration: 16s;
+        }
+
+        .scroll-indicator {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 999px;
+            padding: 10px 18px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--muted);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            animation: pulse 2.4s ease infinite;
+            backdrop-filter: blur(14px);
+        }
+
+        main {
+            background: linear-gradient(180deg, rgba(3, 7, 18, 0) 0%, #030712 100%);
+            padding-bottom: 120px;
+            position: relative;
+            z-index: 1;
+        }
+
+        section {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: clamp(48px, 12vh, 96px) clamp(16px, 5vw, 32px);
+            position: relative;
+            isolation: isolate;
+        }
+
+        section::before {
+            content: "";
+            position: absolute;
+            inset: 12px;
+            border-radius: 32px;
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.02);
+            z-index: -1;
+        }
+
+        section:nth-of-type(odd)::before {
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .section-heading {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 48px;
+        }
+
+        .section-heading span {
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.4em;
+            font-size: 0.75rem;
+        }
+
+        .section-heading h2 {
+            font-size: clamp(2rem, 4vw, 3.2rem);
+        }
+
+        .gradient-line {
+            width: 96px;
+            height: 4px;
+            border-radius: 999px;
+            background: var(--accent);
+        }
+
+        .section-heading p {
+            color: var(--muted);
+            max-width: 720px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 24px;
+        }
+
+        .card {
+            background: var(--card);
+            border-radius: 28px;
+            padding: 28px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.4s ease, border 0.4s ease;
+        }
+
+        .card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(circle at top right, rgba(132, 94, 247, 0.35), transparent 55%);
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-6px);
+            border-color: rgba(132, 94, 247, 0.4);
+        }
+
+        .card:hover::before {
+            opacity: 1;
+        }
+
+        .card p {
+            color: var(--muted);
+        }
+
+        .services {
+            background: linear-gradient(145deg, rgba(4, 17, 34, 0.65), rgba(8, 20, 44, 0.95));
+            border-radius: 40px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .service-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 18px;
+        }
+
+        .service-chip {
+            background: rgba(74, 209, 255, 0.12);
+            border: 1px solid rgba(74, 209, 255, 0.3);
+            border-radius: 999px;
+            padding: 10px 18px;
+            font-size: 0.9rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+
+        .comparison {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 18px;
+        }
+
+        .compare-card {
+            background: rgba(3, 7, 18, 0.75);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 24px;
+            padding: 24px;
+            transition: transform 0.3s ease;
+        }
+
+        .compare-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .marquee {
+            display: flex;
+            gap: 32px;
+            overflow: hidden;
+            position: relative;
+            mask-image: linear-gradient(90deg, transparent, #fff 10%, #fff 90%, transparent);
+        }
+
+        .marquee-track {
+            display: flex;
+            gap: 32px;
+            animation: scroll 18s linear infinite;
+        }
+
+        .marquee-track span {
+            font-size: 1.2rem;
+            letter-spacing: 0.2em;
+            color: var(--muted);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 18px;
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 24px;
+            border-radius: 24px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .stat-card strong {
+            display: block;
+            font-size: 2.4rem;
+            background-image: var(--accent);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        .process {
+            counter-reset: steps;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 24px;
+        }
+
+        .process-card {
+            position: relative;
+            padding: 32px;
+            border-radius: 28px;
+            background: rgba(3, 7, 18, 0.85);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            min-height: 220px;
+        }
+
+        .process-card::before {
+            counter-increment: steps;
+            content: "0" counter(steps);
+            position: absolute;
+            top: 24px;
+            right: 32px;
+            font-size: 3rem;
+            color: rgba(255, 255, 255, 0.06);
+            font-weight: 700;
+        }
+
+        .industries {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 18px;
+        }
+
+        .industry-card {
+            padding: 22px;
+            border-radius: 22px;
+            background: rgba(12, 20, 36, 0.8);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .industry-card span {
+            display: block;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        .cta {
+            text-align: center;
+            border-radius: 36px;
+            background: radial-gradient(circle at top, rgba(132, 94, 247, 0.5), rgba(4, 17, 34, 0.95));
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .cta .hero-cta {
+            justify-content: center;
+        }
+
+        .contact {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 32px;
+        }
+
+        form {
+            display: grid;
+            gap: 16px;
+            padding: 24px;
+            border-radius: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(3, 7, 18, 0.9);
+            box-shadow: var(--shadow);
+        }
+
+        label {
+            font-size: 0.75rem;
+            color: var(--muted);
+            letter-spacing: 0.2em;
+        }
+
+        input,
+        textarea,
+        select {
+            width: 100%;
+            padding: 14px 16px;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            background: rgba(3, 7, 18, 0.8);
+            color: var(--text);
+            font-size: 1rem;
+        }
+
+        input:focus,
+        textarea:focus,
+        select:focus {
+            outline: 2px solid rgba(74, 209, 255, 0.5);
+            border-color: transparent;
+        }
+
+        button {
+            padding: 14px 28px;
+            border-radius: 999px;
+            border: none;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            cursor: pointer;
+            background: var(--accent);
+            color: var(--ink);
+            box-shadow: 0 20px 50px rgba(255, 95, 158, 0.35);
+        }
+
+        footer {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 48px clamp(16px, 5vw, 32px);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 24px;
+            justify-content: space-between;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            color: var(--muted);
+        }
+
+        @media (max-width: 900px) {
+            nav {
+                flex-direction: column;
+            }
+            nav ul {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .hero-cta {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .hero-ribbon {
+                justify-content: center;
+            }
+        }
+
+        @keyframes aurora {
+            from { transform: translate3d(0, 0, 0); }
+            to { transform: translate3d(-10%, -5%, 0); }
+        }
+
+        @keyframes floaty {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-12px); }
+            100% { transform: translateY(0px); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.6; }
+            50% { opacity: 1; }
+        }
+
+        @keyframes scroll {
+            from { transform: translateX(0); }
+            to { transform: translateX(-50%); }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <video autoplay muted loop playsinline poster="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=60">
+            <source src="https://cdn.coverr.co/videos/coverr-business-meeting-people-6531/1080p.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <nav>
+            <div class="logo" aria-label="US Aura Staffing">
+                <svg viewBox="0 0 240 80" role="img" aria-label="US Aura Staffing Logo">
+                    <defs>
+                        <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#4ad1ff"/>
+                            <stop offset="50%" stop-color="#845ef7"/>
+                            <stop offset="100%" stop-color="#00f5d4"/>
+                        </linearGradient>
+                    </defs>
+                    <rect width="240" height="80" rx="18" fill="#041122"/>
+                    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M30 52c12-18 24-18 36 0s24 18 36 0 24-18 36 0 24 18 36 0" stroke="url(#logoGradient)" stroke-width="6"/>
+                        <path d="M30 32c12-18 24-18 36 0s24 18 36 0 24-18 36 0 24 18 36 0" stroke="#00f5d4" stroke-opacity="0.4" stroke-width="6"/>
+                    </g>
+                    <text x="24" y="58" font-family="Montserrat, Arial, sans-serif" font-weight="600" font-size="26" letter-spacing="0.08em" fill="#f5fbff">US AURA</text>
+                    <text x="24" y="24" font-family="Montserrat, Arial, sans-serif" font-weight="400" font-size="12" letter-spacing="0.38em" fill="#80e9ff" textLength="128">STAFFING</text>
+                </svg>
+                <div class="logo-text">
+                    <span>PEOPLE-FIRST</span>
+                    <span>US AURA</span>
+                </div>
+            </div>
+
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#industries">Industries</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+            <a class="pill-btn primary" href="#contact">Book Discovery</a>
+        </nav>
+
+        <div class="hero">
+            <div class="hero-content">
+                <div class="badge">US-Based & Global Reach</div>
+                <h1>Scaling teams with <span>aura-level precision</span>.</h1>
+                <p>
+                    US Aura Staffing blends concierge recruiting with data intelligence so your next wave of technologists, life science experts, and transformation leaders is vetted, ready, and energized from day one.
+                </p>
+                <ul class="hero-highlights">
+                    <li>Concierge pods embedded with your leaders</li>
+                    <li>Curated talent clouds refreshed every 72 hours</li>
+                    <li>DE&I, cleared, and executive searches in parallel</li>
+                </ul>
+                <div class="hero-cta">
+                    <a class="pill-btn primary" href="#contact">Start a search</a>
+                    <a class="pill-btn secondary" href="#case-studies">View wins</a>
+                </div>
+                <div class="hero-ribbon" aria-label="Benchmark peers">
+                    <span>Randstad</span>
+                    <span>Kforce</span>
+                    <span>Insight Global</span>
+                    <span>US Aura</span>
+                </div>
+            </div>
+
+            <div class="hero-aside">
+                <div class="hero-card">
+                    <div>
+                        <div class="stat">
+                            <strong>96%</strong>
+                            <span>RETENTION 18MO</span>
+                        </div>
+                        <div class="glow-bar" aria-hidden="true"><span style="width: 96%"></span></div>
+                        <p>New hires retained beyond 18 months across product, clinical, and GTM roles.</p>
+                    </div>
+                    <div>
+                        <div class="stat">
+                            <strong>14</strong>
+                            <span>DAYS AVG. FILL</span>
+                        </div>
+                        <div class="glow-bar" aria-hidden="true"><span style="width: 70%"></span></div>
+                        <p>Median time-to-offer for critical technical, federal, and biotech positions.</p>
+                    </div>
+                    <ul class="mini-metrics">
+                        <li><strong>45</strong><span>roles activated / quarter</span></li>
+                        <li><strong>38%</strong><span>cost avoidance vs. legacy MSP</span></li>
+                        <li><strong>4.7★</strong><span>candidate experience score</span></li>
+                    </ul>
+                    <div class="avatars" aria-label="Featured talent">
+                        <img src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=300&q=60" alt="Product Lead">
+                        <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=300&q=60" alt="Data Engineer">
+                        <img src="https://images.unsplash.com/photo-1544723795-432537dcfbf8?auto=format&fit=crop&w=300&q=60" alt="Clinical Ops">
+                    </div>
+                </div>
+                <div class="cred-badge">SOC2 • E-Verify • Diversity Search Pods</div>
+            </div>
+        </div>
+
+        <div class="hero-orb hero-orb--one"></div>
+        <div class="hero-orb hero-orb--two"></div>
+
+        <div class="scroll-indicator">
+            <span>Scroll to explore</span>
+            <svg width="18" height="24" viewBox="0 0 18 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <rect x="0.5" y="0.5" width="17" height="23" rx="8.5" stroke="rgba(255,255,255,0.4)"/>
+                <circle cx="9" cy="7" r="2" fill="#fff"/>
+            </svg>
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <div class="section-heading">
+                <span>OUR EDGE</span>
+                <h2>Modern staffing that competes with Randstad, Kforce, Insight Global, and beyond.</h2>
+                <div class="gradient-line"></div>
+                <p>US Aura pairs boutique service with enterprise-level rigor. We benchmark ourselves against industry leaders and sprint past them in responsiveness, specialization, and candidate experience.</p>
+            </div>
+
+            <div class="comparison">
+                <div class="compare-card">
+                    <h4>Randstad</h4>
+                    <span>Global reach, generalist coverage.</span>
+                </div>
+                <div class="compare-card">
+                    <h4>Kforce</h4>
+                    <span>Deep tech bench, traditional engagement.</span>
+                </div>
+                <div class="compare-card">
+                    <h4>Insight Global</h4>
+                    <span>High-volume delivery, limited personalization.</span>
+                </div>
+                <div class="compare-card">
+                    <h4>US Aura</h4>
+                    <span>Concierge pods, curated talent clouds, on-demand delivery with transparent data.</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="services" class="services">
+            <div class="section-heading">
+                <span>SERVICES</span>
+                <h2>Full-stack staffing coverage</h2>
+                <div class="gradient-line"></div>
+                <p>Contract, contract-to-hire, fractional, and executive search built for accelerated innovation cycles.</p>
+            </div>
+
+            <div class="grid">
+                <div class="card">
+                    <h3>Talent Cloud</h3>
+                    <p>Always-on curated bench of cleared engineers, AI scientists, and revenue leaders ready in under 72 hours.</p>
+                </div>
+                <div class="card">
+                    <h3>Fractional Pods</h3>
+                    <p>Deploy entire pods for product launches, platform rebuilds, or clinical expansions without full-time overhead.</p>
+                </div>
+                <div class="card">
+                    <h3>Executive Search</h3>
+                    <p>Diverse slates for VP+ mandates with market intelligence, comp alignment, and board-ready communication.</p>
+                </div>
+                <div class="card">
+                    <h3>Embedded Recruiting</h3>
+                    <p>Partnered sourcers and recruiters operating as your brand to accelerate critical hiring roadmaps.</p>
+                </div>
+            </div>
+
+            <div class="section-heading" style="margin-top:64px;">
+                <span>CAPABILITIES</span>
+                <h2>What we deliver</h2>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="service-list">
+                <span class="service-chip">AI & ML Engineering</span>
+                <span class="service-chip">Cyber & Cloud Security</span>
+                <span class="service-chip">Digital Health & Clinical</span>
+                <span class="service-chip">ERP / SAP Modernization</span>
+                <span class="service-chip">RevOps & GTM Hiring</span>
+                <span class="service-chip">Cleared Talent (Public Trust to TS)</span>
+                <span class="service-chip">Diversity Search</span>
+            </div>
+        </section>
+
+        <section id="case-studies">
+            <div class="section-heading">
+                <span>RESULTS</span>
+                <h2>Outcomes that prove the model</h2>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <h3>Healthcare AI Scale-Up</h3>
+                    <p>Built a 45-person product org in 5 months, reducing agency spend by 38% while maintaining 97% offer acceptance.</p>
+                </div>
+                <div class="card">
+                    <h3>Federal Integrator</h3>
+                    <p>Cleared cloud engineers delivered in 9 days average, keeping modernization milestones ahead of SLA.</p>
+                </div>
+                <div class="card">
+                    <h3>Global Biotech</h3>
+                    <p>Placed 14 clinical project leaders across US/EU with multilingual capability and decentralized trial experience.</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="section-heading">
+                <span>TRUST</span>
+                <h2>Preferred by high-velocity teams</h2>
+                <div class="gradient-line"></div>
+                <p>Industry-leading companies rely on US Aura for confidential, time-sensitive hiring across digital, federal, and regulated markets.</p>
+            </div>
+            <div class="marquee">
+                <div class="marquee-track">
+                    <span>Fintech</span>
+                    <span>Digital Health</span>
+                    <span>Public Sector</span>
+                    <span>SaaS</span>
+                    <span>Biotech</span>
+                    <span>5G & Edge</span>
+                    <span>Energy Tech</span>
+                    <span>Climate</span>
+                </div>
+                <div class="marquee-track" aria-hidden="true">
+                    <span>Fintech</span>
+                    <span>Digital Health</span>
+                    <span>Public Sector</span>
+                    <span>SaaS</span>
+                    <span>Biotech</span>
+                    <span>5G & Edge</span>
+                    <span>Energy Tech</span>
+                    <span>Climate</span>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="section-heading">
+                <span>BY THE NUMBERS</span>
+                <h2>Data-backed staffing ops</h2>
+                <div class="gradient-line"></div>
+                <p>Transparent scorecards and weekly analytics ensure your leadership team sees signal, velocity, and retention data in real time.</p>
+            </div>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <strong>14d</strong>
+                    <span>Median time-to-offer</span>
+                </div>
+                <div class="stat-card">
+                    <strong>4.7/5</strong>
+                    <span>Candidate experience score</span>
+                </div>
+                <div class="stat-card">
+                    <strong>38%</strong>
+                    <span>Average cost avoidance</span>
+                </div>
+                <div class="stat-card">
+                    <strong>120K+</strong>
+                    <span>Curated talent profiles</span>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="section-heading">
+                <span>PROCESS</span>
+                <h2>Clarity every step</h2>
+                <div class="gradient-line"></div>
+                <p>Each engagement includes a named pod lead, transparent milestones, and closed-loop reporting.</p>
+            </div>
+            <div class="process">
+                <div class="process-card">
+                    <h3>Blueprint</h3>
+                    <p>Discovery sprint aligns success metrics, culture bar, comp, DE&I mandates, and interview design.</p>
+                </div>
+                <div class="process-card">
+                    <h3>Signal</h3>
+                    <p>Proprietary talent cloud + referral engine prioritize high-signal candidates within 72 hours.</p>
+                </div>
+                <div class="process-card">
+                    <h3>Immersion</h3>
+                    <p>Shared scorecards, async video insights, and hiring crew stand-ups keep everyone in lockstep.</p>
+                </div>
+                <div class="process-card">
+                    <h3>Launch</h3>
+                    <p>Onboarding recipes, retention readouts, and 90-day pulse analytics close the loop.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="industries">
+            <div class="section-heading">
+                <span>INDUSTRIES</span>
+                <h2>Where we thrive</h2>
+                <div class="gradient-line"></div>
+                <p>Cross-functional pods serve highly regulated, innovation-driven markets.</p>
+            </div>
+            <div class="industries">
+                <div class="industry-card">
+                    <h3>Technology</h3>
+                    <span>Product, platform, infra, AI.</span>
+                </div>
+                <div class="industry-card">
+                    <h3>Life Sciences</h3>
+                    <span>R&D, clinical ops, go-to-market.</span>
+                </div>
+                <div class="industry-card">
+                    <h3>Federal & GovTech</h3>
+                    <span>Cleared engineers, PMs, cyber.</span>
+                </div>
+                <div class="industry-card">
+                    <h3>Financial Services</h3>
+                    <span>Fintech, digital banking, payments.</span>
+                </div>
+                <div class="industry-card">
+                    <h3>Energy & Climate</h3>
+                    <span>Grid tech, clean infrastructure.</span>
+                </div>
+                <div class="industry-card">
+                    <h3>Enterprise Transformation</h3>
+                    <span>ERP, supply chain, CX.</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="cta">
+            <div class="section-heading" style="align-items:center;">
+                <span>READY</span>
+                <h2>Ready to activate your next chapter?</h2>
+                <div class="gradient-line"></div>
+                <p>Book a 20-minute readiness scan with a US Aura pod lead. We will review workflows, hiring velocity, and immediate wins.</p>
+            </div>
+            <div class="hero-cta">
+                <a class="pill-btn primary" href="#contact">Book discovery</a>
+                <a class="pill-btn secondary" href="mailto:hello@usaura.com">Email us</a>
+            </div>
+        </section>
+
+        <section id="contact" class="contact">
+            <div>
+                <div class="section-heading">
+                    <span>CONTACT</span>
+                    <h2>Let’s co-build your hiring roadmap.</h2>
+                    <div class="gradient-line"></div>
+                </div>
+                <p>Offices in Austin, Raleigh, Seattle, and DC. Serving teams coast-to-coast with follow-the-sun coverage.</p>
+                <div style="margin-top:24px;">
+                    <p><strong>Phone:</strong> +1 (512) 555-0174</p>
+                    <p><strong>Email:</strong> hello@usaura.com</p>
+                    <p><strong>Response time:</strong> under 2 hours.</p>
+                </div>
+            </div>
+            <form>
+                <div>
+                    <label for="name">Name</label>
+                    <input id="name" name="name" placeholder="Your full name" required>
+                </div>
+                <div>
+                    <label for="company">Company</label>
+                    <input id="company" name="company" placeholder="Organization">
+                </div>
+                <div>
+                    <label for="email">Work Email</label>
+                    <input id="email" type="email" name="email" placeholder="you@company.com" required>
+                </div>
+                <div>
+                    <label for="need">Priority</label>
+                    <select id="need" name="need">
+                        <option>Build a team fast</option>
+                        <option>Backfill critical role</option>
+                        <option>Executive search</option>
+                        <option>Explore partnership</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="message">How can we help?</label>
+                    <textarea id="message" name="message" rows="4" placeholder="Share goals, timelines, tech stack, or certifications needed."></textarea>
+                </div>
+                <button type="submit">Send Brief</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>© <span id="year"></span> US Aura Staffing. All rights reserved.</p>
+        <p>Privacy-first recruiting | SOC 2 Compliant | E-Verify</p>
+    </footer>
+
+    <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
+

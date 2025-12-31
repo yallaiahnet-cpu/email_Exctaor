@@ -1,0 +1,359 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Engineer - Enterprise LLM Systems & Production Agents",
+  "contact": {
+    "email": "yonteru.ai.engineer@gmail.com",
+    "phone": "7372310791",
+    "portfolio": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "professional_summary": [
+    "Bringing 6 years of experience in designing production-grade GenAI systems, deploying LLM-powered agents, and transforming mission-critical workflows for Fortune 500 enterprises across Insurance, Technology, Transportation, and Banking domains.",
+    "Engineered multi-agent systems using LangChain and LlamaIndex to orchestrate complex workflows, reducing manual intervention while maintaining enterprise-grade security, auditability, and interpretability standards for F500 customers.",
+    "Applied RAG architectures with vector databases and embedding models to deliver semantic search capabilities, improving information retrieval accuracy and enabling long-horizon task execution for insurance compliance and regulatory documentation.",
+    "Integrated OpenAI GPT-4 and Anthropic Claude APIs with tool calling patterns to build intelligent agents that handle customer queries, automate underwriting processes, and provide real-time policy recommendations with explainable outputs.",
+    "Deployed agentic workflows on AWS Bedrock, Lambda, and API Gateway, utilizing prompt caching and context window management strategies to optimize latency and cost while processing thousands of concurrent insurance claim evaluations daily.",
+    "Utilized LangGraph and CrewAI frameworks to coordinate multi-agent conversations, enabling role-based collaboration between risk assessment agents, compliance validators, and customer service bots for seamless insurance operations automation.",
+    "Established model evaluation frameworks using RAGAS and PromptFoo to assess AI system performance across accuracy, robustness, and cost dimensions, ensuring production deployments meet rigorous reliability standards before F500 rollout.",
+    "Configured Docker containers and CI/CD pipelines with GitHub Actions to automate testing, deployment, and monitoring of LLM applications, achieving consistent delivery velocity and reducing production incidents through systematic quality gates.",
+    "Implemented observability systems with LangSmith, CloudWatch, and DataDog to track agent behavior, debug prompt failures, and identify performance bottlenecks, enabling proactive optimization of live AI systems serving enterprise customers.",
+    "Collaborated with cross-functional teams and customer stakeholders to discover business requirements, translate technical AI capabilities into measurable outcomes, and guide enterprise engineers through production rollouts of agentic solutions.",
+    "Developed full-stack applications using React, TypeScript, and FastAPI to deliver human-in-the-loop interfaces, feedback workflows, and approval mechanisms that ensure responsible AI practices while maintaining user experience excellence.",
+    "Constructed semantic search solutions with Pinecone and pgvector, processing insurance policy documents and regulatory text to enable instant retrieval of relevant clauses, reducing compliance review time from hours to minutes for underwriters.",
+    "Optimized prompt engineering strategies and structured output generation to extract entities from unstructured claims data, achieving consistent JSON responses that integrate seamlessly with downstream enterprise systems and workflows.",
+    "Secured AWS environments with Cognito authentication, implemented role-based access controls, and ensured HIPAA compliance for healthcare-adjacent insurance products, meeting enterprise security requirements for sensitive customer data protection."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "SQL"
+    ],
+    "LLM Frameworks & Orchestration": [
+      "LangChain",
+      "LlamaIndex",
+      "LangGraph",
+      "Guardrails AI",
+      "Model Context Protocol",
+      "MCP",
+      "Agents SDK",
+      "Semantic Kernel",
+      "AutoGen",
+      "CrewAI",
+      "Haystack",
+      "DSPy"
+    ],
+    "Foundation Model APIs": [
+      "OpenAI API",
+      "GPT-4",
+      "GPT-4o",
+      "Anthropic Claude API",
+      "AWS Bedrock",
+      "Tool calling",
+      "Function calling",
+      "Structured outputs"
+    ],
+    "AI Agent Patterns": [
+      "LLM-powered AI agents",
+      "Agentic workflows",
+      "Multi-agent systems",
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Long-horizon task execution",
+      "Agent design patterns",
+      "Prompt orchestration"
+    ],
+    "Vector Databases & Embeddings": [
+      "Pinecone",
+      "Weaviate",
+      "ChromaDB",
+      "pgvector",
+      "OpenAI embeddings",
+      "Cohere",
+      "Voyage AI",
+      "Semantic search"
+    ],
+    "Frontend Technologies": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "WebSocket",
+      "Streaming responses"
+    ],
+    "Backend & APIs": [
+      "FastAPI",
+      "Express.js",
+      "REST APIs",
+      "Webhooks",
+      "API development"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS API Gateway",
+      "AWS SageMaker",
+      "AWS Cognito",
+      "AWS EventBridge",
+      "AWS SQS",
+      "Hybrid cloud environments"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "DynamoDB",
+      "Message queues",
+      "Kafka",
+      "Conversation history management"
+    ],
+    "DevOps & Infrastructure": [
+      "Docker",
+      "CI/CD pipelines",
+      "GitHub Actions",
+      "GitLab CI",
+      "Terraform",
+      "AWS CDK",
+      "Infrastructure as code"
+    ],
+    "Observability & Monitoring": [
+      "LangSmith",
+      "CloudWatch",
+      "DataDog",
+      "Langfuse",
+      "Production debugging",
+      "Performance tracking"
+    ],
+    "Evaluation & Testing": [
+      "Model evaluation",
+      "RAGAS",
+      "DeepEval",
+      "PromptFoo",
+      "Prompt engineering",
+      "Eval frameworks"
+    ],
+    "Enterprise AI & Security": [
+      "Responsible AI practices",
+      "Auditability",
+      "Interpretability",
+      "OAuth2",
+      "JWT",
+      "Enterprise security",
+      "HIPAA compliance"
+    ],
+    "Optimization & Performance": [
+      "Prompt caching",
+      "Context window management",
+      "Model quantization",
+      "Fine-tuning workflows",
+      "Cost optimization"
+    ],
+    "Production Practices": [
+      "Human-in-the-loop patterns",
+      "System architecture",
+      "Enterprise deployment strategies",
+      "Production deployment",
+      "Code reviews"
+    ]
+  },
+  "experience": [
+    {
+      "client": "Northwestern Mutual",
+      "duration": "2025-Feb - Present",
+      "location": "Irving, Texas.",
+      "responsibilities": [
+        "Assessed insurance compliance requirements and designed LangChain-based agent workflows to automate policy underwriting, integrating Guardrails AI to enforce regulatory constraints and ensure auditability across multi-step approval processes.",
+        "Built GPT-4 powered customer service agents using tool calling patterns to retrieve policy details from PostgreSQL databases, answer coverage questions in real-time, and escalate complex cases to human advisors through React-based handoff interfaces.",
+        "Integrated Model Context Protocol to standardize how agents access external data sources, enabling seamless connections between LLM agents and insurance systems, CRM databases, and document repositories through unified MCP server implementations.",
+        "Implemented function calling with structured output schemas to extract claim details from unstructured customer emails, automatically populating downstream systems with validated JSON payloads that trigger appropriate underwriting workflows based on policy type.",
+        "Deployed AWS Bedrock and Claude API to process insurance claims documents with RAG pipelines, leveraging Pinecone vector search to surface relevant policy clauses and reduce claims adjuster research time from hours to seconds.",
+        "Configured MCP tools for multi-agent systems where each agent accesses specialized data sources through standardized protocols, enabling risk assessment agents to query actuarial databases while compliance agents validate against regulatory repositories simultaneously.",
+        "Utilized tool calling to connect insurance agents with external APIs including weather services for natural disaster claims, property valuation systems for homeowner policies, and medical code databases for health insurance processing automation.",
+        "Orchestrated multi-agent collaboration using LangGraph where agents invoke tools through function calling interfaces, passing structured results between specialized agents that handle customer intake, risk analysis, pricing calculations, and policy generation sequentially.",
+        "Enhanced agent reliability by implementing tool calling retry logic and fallback strategies, ensuring graceful degradation when external systems timeout, maintaining continuous service availability for critical insurance operations during peak claim periods.",
+        "Developed Docker containers running FastAPI services on AWS Lambda, connecting agent APIs to existing insurance systems via API Gateway while implementing OAuth2 authentication to meet enterprise security standards for sensitive customer data.",
+        "Configured CI/CD pipelines with GitHub Actions to automate testing and deployment of LLM applications, incorporating RAGAS evaluation checks that validate agent accuracy before production releases, preventing compliance violations and customer impact.",
+        "Utilized LangSmith observability platform to monitor agent conversations, identify prompt failures causing incorrect policy interpretations, and iteratively refined prompts to improve response quality and maintain regulatory compliance standards.",
+        "Implemented MCP-based context sharing across agent sessions, enabling agents to maintain conversation history and customer preferences across multiple interactions, improving personalization and reducing repetitive information gathering from policyholders.",
+        "Established evaluation frameworks using DeepEval to measure agent performance across accuracy, latency, and explainability dimensions, presenting metrics to leadership that demonstrate measurable business value and justify continued AI investment."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "LangChain",
+        "LlamaIndex",
+        "CrewAI",
+        "Guardrails AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "MCP",
+        "GPT-4",
+        "Claude API",
+        "AWS Bedrock",
+        "OpenAI API",
+        "Tool calling",
+        "Function calling",
+        "Structured outputs",
+        "RAG",
+        "Pinecone",
+        "pgvector",
+        "PostgreSQL",
+        "FastAPI",
+        "React",
+        "Next.js",
+        "AWS Lambda",
+        "API Gateway",
+        "Docker",
+        "GitHub Actions",
+        "CI/CD",
+        "LangSmith",
+        "CloudWatch",
+        "RAGAS",
+        "DeepEval",
+        "OAuth2",
+        "Multi-agent systems",
+        "Prompt engineering",
+        "Semantic search",
+        "Vector databases",
+        "Embedding models",
+        "Context management",
+        "AWS Cognito",
+        "Responsible AI"
+      ]
+    },
+    {
+      "client": "Spartex AI",
+      "duration": "2024-Jun - 2025-Feb",
+      "location": "Remote",
+      "responsibilities": [
+        "Delivered production-grade agentic workflows using LangGraph to coordinate multi-step technical support agents, reducing customer resolution time by automating troubleshooting sequences and escalating unresolved issues to human engineers systematically.",
+        "Constructed RAG pipelines with Haystack and Weaviate to index technical documentation, enabling support agents to retrieve accurate installation guides and API references instantly, improving first-contact resolution rates for developer-facing product queries.",
+        "Executed AWS infrastructure deployment using Terraform to provision Lambda functions, DynamoDB tables, and SQS queues that support asynchronous agent task execution, ensuring scalable architecture handling thousands of concurrent support conversations.",
+        "Applied tool calling mechanisms to connect support agents with external systems including GitHub issue trackers, Jira ticketing platforms, and knowledge base APIs, enabling agents to create tickets, fetch documentation, and update issue status programmatically.",
+        "Implemented Model Context Protocol servers to expose company knowledge bases, code repositories, and customer data to agents through standardized interfaces, eliminating custom integration code and accelerating new agent capability development timelines.",
+        "Integrated function calling with type-safe schemas to extract technical details from support conversations, automatically parsing error logs, stack traces, and environment configurations into structured formats that downstream debugging tools consume.",
+        "Debugged production agent failures by analyzing LangSmith traces, identifying issues with function calling timeouts and malformed JSON outputs, then refactored agent code to implement retry logic and structured output validation for resilience.",
+        "Facilitated cross-functional collaboration between product managers and engineering teams to define agent capabilities, conducting design reviews where technical feasibility informed roadmap priorities and ensured realistic delivery commitments to customers.",
+        "Streamlined model evaluation processes by building custom eval datasets with domain-specific test cases, running batch evaluations with DeepEval to compare GPT-4 versus Claude performance on technical explanation tasks before selecting models.",
+        "Upgraded React frontend to implement streaming responses with WebSocket connections, providing real-time feedback as agents generated answers, improving perceived performance and user satisfaction compared to previous blocking request patterns."
+      ],
+      "environment": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Haystack",
+        "DSPy",
+        "Weaviate",
+        "ChromaDB",
+        "Model Context Protocol",
+        "MCP",
+        "GPT-4o",
+        "Claude API",
+        "OpenAI embeddings",
+        "Tool calling",
+        "Function calling",
+        "AWS Lambda",
+        "DynamoDB",
+        "AWS SQS",
+        "Terraform",
+        "RAG",
+        "Agentic workflows",
+        "Multi-agent systems",
+        "LangSmith",
+        "DataDog",
+        "PromptFoo",
+        "DeepEval",
+        "FastAPI",
+        "React",
+        "WebSocket",
+        "Streaming",
+        "CI/CD",
+        "Docker",
+        "GitHub Actions",
+        "Structured outputs",
+        "Prompt optimization",
+        "REST APIs",
+        "API integration"
+      ]
+    },
+    {
+      "client": "Ola",
+      "duration": "2020-Oct - 2023-Sep",
+      "location": "Banglore, India.",
+      "responsibilities": [
+        "Prototyped early LLM-powered chatbot for driver support using OpenAI API, handling common queries about earnings, ride assignments, and platform policies, reducing support ticket volume and enabling automated assistance for driver-partners.",
+        "Designed semantic search system with Cohere embeddings and PostgreSQL pgvector extension to index transportation regulations and policy documents, allowing operations teams to quickly locate relevant compliance information during audits.",
+        "Analyzed driver feedback data using NLP techniques to extract themes and sentiment, presenting insights to product teams that informed feature prioritization and helped reduce driver churn through targeted app improvements.",
+        "Validated agent responses against transportation safety guidelines by implementing custom guardrails that blocked unsafe recommendations, ensuring chatbot interactions complied with local regulations and company liability standards.",
+        "Coordinated with data engineering teams to build ETL pipelines feeding ride data into agent context, enabling personalized responses referencing driver-specific earnings patterns and ride history for more relevant automated support.",
+        "Tested various prompt strategies through experiments comparing response quality metrics, documenting findings in internal wikis that established best practices for future agent development projects across the organization.",
+        "Maintained production chatbot by investigating user-reported issues, analyzing conversation logs in Elasticsearch, and deploying prompt fixes through manual update processes before CI/CD automation matured in later development phases.",
+        "Presented demo sessions to operations leadership showcasing agent capabilities, gathering feedback that shaped feature requirements and convinced stakeholders to allocate budget for expanding AI-powered support automation initiatives."
+      ],
+      "environment": [
+        "Python",
+        "OpenAI API",
+        "GPT-3.5",
+        "Cohere",
+        "PostgreSQL",
+        "pgvector",
+        "Elasticsearch",
+        "FastAPI",
+        "Docker",
+        "AWS Lambda",
+        "Semantic search",
+        "NLP",
+        "Sentiment analysis",
+        "ETL pipelines",
+        "Prompt engineering",
+        "Custom guardrails",
+        "Transportation regulations",
+        "Compliance"
+      ]
+    },
+    {
+      "client": "ICICI Bank",
+      "duration": "2019-Feb - 2020-Sep",
+      "location": "Mumbai, India.",
+      "responsibilities": [
+        "Explored early conversational AI prototypes for customer FAQ automation, experimenting with rule-based systems and basic ML models to handle common banking queries before LLM capabilities became widely available.",
+        "Participated in hackathons focused on financial document processing, testing optical character recognition tools combined with keyword extraction to digitize loan applications and reduce manual data entry for banking operations.",
+        "Contributed to knowledge base documentation efforts by organizing banking product information into structured formats, creating the foundation for future semantic search systems that would eventually power AI-powered customer assistance.",
+        "Assisted senior developers in building RESTful APIs connecting frontend banking portals to backend core systems, gaining experience with enterprise integration patterns and understanding data flows required for future agent implementations.",
+        "Attended training sessions on Azure cloud services and data security practices, learning about authentication patterns, encryption standards, and compliance requirements essential for deploying AI systems in regulated banking environments.",
+        "Helped troubleshoot production issues in customer-facing applications by analyzing logs, reproducing bugs locally, and documenting steps for resolution, developing debugging skills that later proved valuable for maintaining complex agent systems."
+      ],
+      "environment": [
+        "Python",
+        "Azure",
+        "Azure Cognitive Services",
+        "REST APIs",
+        "PostgreSQL",
+        "FastAPI",
+        "Docker",
+        "OAuth2",
+        "Banking compliance",
+        "Data security",
+        "OCR",
+        "NLP",
+        "Rule-based systems",
+        "API development",
+        "Azure Functions",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "Master's Degree",
+      "field": "Information Technology, AI & Data Analytics",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    "Azure Data Engineer (DP-203)",
+    "Azure AI Engineer (AI-101)",
+    "Salesforce Developer-Associate"
+  ]
+}

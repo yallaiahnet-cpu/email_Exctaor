@@ -1,0 +1,320 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Principal AI Engineer - Conversational AI & Mobile Chat Experience",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Conversational AI and mobile chat application development, specializing in voice-enabled, action-oriented bots for regulated industries like banking and insurance.",
+    "Using Amazon Lex to address complex natural language understanding challenges in insurance claims processing, implemented multi-turn dialog flows with secure slot filling that reduced customer service calls by significant margin.",
+    "Leveraging AWS Lambda and DynamoDB to build serverless conversational architectures for real-time insurance policy inquiries, enabling instant customer self-service while maintaining data privacy compliance.",
+    "Implementing Amazon Connect integration for voice interaction capabilities in mobile insurance applications, allowing customers to seamlessly transition from chat to human agents during complex claim scenarios.",
+    "Developing action-oriented bots capable of processing insurance transactions securely, incorporating ASR and TTS technologies to create intuitive voice-first experiences for mobile users.",
+    "Applying secure coding practices and accessibility standards across all conversational AI implementations, ensuring insurance applications meet WCAG guidelines and protect sensitive customer data.",
+    "Designing conversational experiences with robust context management and session handling, enabling personalized insurance recommendations based on customer history and preferences.",
+    "Building CI/CD pipelines for conversational AI systems using Jenkins and GitHub Actions, automating testing and deployment of Lex bots while maintaining insurance regulatory compliance.",
+    "Integrating ML models from Amazon SageMaker with Lex chatbots to enhance intent classification accuracy, improving insurance product recommendation relevance and customer satisfaction.",
+    "Creating distributed tracing and monitoring dashboards for conversational systems, quickly identifying and resolving performance bottlenecks in real-time insurance chat applications.",
+    "Implementing PII masking and encryption protocols within DynamoDB tables, ensuring sensitive insurance customer information remains protected throughout conversation flows.",
+    "Developing mobile SDK integrations for voice capture and permissions management, enabling seamless voice-enabled insurance claim reporting through native iOS and Android applications.",
+    "Architecting multi-agent systems using Crew AI and LangGraph frameworks for complex insurance workflows, coordinating specialized bots for claims, policies, and customer service tasks.",
+    "Building RAG pipelines with vector databases to provide contextual insurance information retrieval, enhancing chatbot responses with accurate policy details and coverage explanations.",
+    "Implementing dialog orchestration patterns for handling insurance escalation scenarios, smoothly transferring context from automated bots to human agents when needed.",
+    "Designing secure authentication flows with OAuth and MFA for insurance transaction processing, ensuring only authorized users can perform sensitive actions through conversational interfaces.",
+    "Optimizing ASR and TTS workloads through batching and caching strategies, reducing latency in voice-based insurance applications while maintaining natural conversation flow.",
+    "Conducting rigorous testing of conversational agents using utterance regression validation, continuously improving insurance bot accuracy and handling edge cases effectively."
+  ],
+  "technical_skills": {
+    "Conversational AI Platforms": [
+      "Amazon Lex",
+      "Amazon Connect",
+      "Dialogflow CX",
+      "Automatic Speech Recognition",
+      "Text-to-Speech"
+    ],
+    "Natural Language Processing": [
+      "Intent Classification",
+      "Entity Recognition",
+      "Slot Filling",
+      "Context Management",
+      "Multi-turn Dialog Flows",
+      "NLU Concepts"
+    ],
+    "Cloud Services & Serverless": [
+      "AWS Lambda",
+      "DynamoDB",
+      "S3",
+      "SageMaker",
+      "Cloud Functions",
+      "Serverless Architecture"
+    ],
+    "Mobile Development": [
+      "Android SDK",
+      "iOS SDK",
+      "Voice Capture",
+      "Permissions Management",
+      "Push Notifications",
+      "Mobile Chat Integration"
+    ],
+    "Security & Compliance": [
+      "Secure Coding Practices",
+      "Data Privacy",
+      "PII Masking",
+      "OAuth",
+      "MFA",
+      "Encryption",
+      "Accessibility Standards"
+    ],
+    "Dialog Management": [
+      "State Management",
+      "Session Handling",
+      "Context Carryover",
+      "Fallback Strategies",
+      "Orchestration Frameworks"
+    ],
+    "MLOps & Deployment": [
+      "SageMaker",
+      "Vertex AI",
+      "CI/CD Pipelines",
+      "Jenkins",
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Monitoring & Observability": [
+      "Distributed Tracing",
+      "Logging",
+      "Monitoring Dashboards",
+      "Performance Optimization",
+      "Latency Reduction"
+    ],
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "Kotlin",
+      "Swift",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "Frameworks & Tools": [
+      "Crew AI",
+      "LangGraph",
+      "RAG Pipelines",
+      "Vector Databases",
+      "Prompt Engineering",
+      "Response Moderation"
+    ],
+    "Contact Center Integration": [
+      "Amazon Connect",
+      "Telephony Connectors",
+      "DTMF Handling",
+      "Real-time Context Transfer",
+      "Human Agent Escalation"
+    ],
+    "Data Storage & Processing": [
+      "DynamoDB Design",
+      "S3 Storage",
+      "Low-latency Lookups",
+      "Data Persistence",
+      "Cache Management"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Amazon Lex to address complex insurance claim reporting through mobile chat, implemented voice-enabled dialog flows with secure authentication that streamlined first notice of loss processing.",
+        "Leveraging AWS Lambda functions for dynamic insurance policy validation during conversational interactions, reducing manual verification time while maintaining strict compliance with state insurance regulations.",
+        "Implementing Amazon Connect integration for voice-based insurance customer service, enabling seamless transitions from text chat to voice calls during complex claim discussions with context preservation.",
+        "Developing action-oriented bots capable of processing insurance premium payments securely, incorporating multi-factor authentication and transaction confirmation within conversational flows.",
+        "Architecting multi-agent systems using Crew AI framework to coordinate specialized insurance bots for claims processing, policy management, and customer service inquiries across distributed teams.",
+        "Building LangGraph orchestration for complex insurance workflows that required coordination between underwriting, claims, and billing departments through conversational interfaces.",
+        "Designing secure session management with DynamoDB to maintain insurance conversation context across multiple channels, ensuring consistent customer experience from mobile to web platforms.",
+        "Implementing RAG pipelines with vector databases to provide accurate insurance policy information retrieval, enhancing chatbot responses with current coverage details and exclusions.",
+        "Creating distributed tracing systems for insurance conversational AI, quickly identifying performance bottlenecks in real-time claim reporting and reducing average handling time significantly.",
+        "Developing mobile SDK integrations for voice capture in insurance applications, overcoming initial challenges with background noise filtering to enable reliable voice claim reporting.",
+        "Building CI/CD pipelines with GitHub Actions for continuous deployment of Lex insurance bots, automating regression testing of intent recognition and dialog flow validation.",
+        "Implementing PII masking protocols within DynamoDB tables storing insurance customer conversations, ensuring sensitive information remained protected during claims processing.",
+        "Designing accessibility-compliant voice interfaces for insurance applications, conducting extensive testing with screen readers to ensure WCAG 2.1 AA compliance for disabled customers.",
+        "Optimizing ASR models for insurance-specific terminology through careful prompt engineering and custom vocabulary lists, improving speech recognition accuracy for complex insurance terms.",
+        "Creating proof-of-concept multi-agent systems that demonstrated coordinated insurance workflows across different departments, showcasing potential for reduced operational costs.",
+        "Implementing secure fallback strategies for insurance transaction failures, ensuring graceful degradation to human agents when automated systems encountered complex scenarios."
+      ],
+      "environment": [
+        "Amazon Lex",
+        "AWS Lambda",
+        "DynamoDB",
+        "Amazon Connect",
+        "S3",
+        "SageMaker",
+        "Crew AI",
+        "LangGraph",
+        "RAG Pipelines",
+        "Vector Databases",
+        "Python",
+        "Java",
+        "Android SDK",
+        "iOS SDK",
+        "GitHub Actions",
+        "Jenkins",
+        "OAuth",
+        "MFA",
+        "PII Masking",
+        "WCAG Standards"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Amazon Lex to develop healthcare conversational agents for medication information queries, implemented HIPAA-compliant dialog flows that protected patient health information.",
+        "Leveraging AWS Lambda for processing healthcare product inquiries through voice interfaces, ensuring all conversational data met strict healthcare compliance and privacy requirements.",
+        "Implementing action-oriented bots capable of scheduling healthcare appointments and providing medication reminders, incorporating secure authentication for protected health information access.",
+        "Developing voice interaction capabilities for healthcare mobile applications, enabling patients to access medical information hands-free while maintaining HIPAA security protocols.",
+        "Building multi-agent systems with Crew AI framework to coordinate healthcare information bots across different medical domains and product categories for comprehensive patient support.",
+        "Designing secure data persistence layers with DynamoDB for healthcare conversation history, implementing encryption at rest and strict access controls for sensitive medical discussions.",
+        "Creating CI/CD pipelines with Jenkins for healthcare chatbot deployments, ensuring rigorous testing of HIPAA compliance requirements before production releases.",
+        "Implementing context management systems for healthcare conversations, maintaining patient context across multiple sessions while preserving privacy and consent preferences.",
+        "Developing accessibility standards for healthcare voice applications, ensuring medical information remained accessible to patients with visual or motor impairments.",
+        "Building Amazon Connect integrations for healthcare support escalations, smoothly transferring context from automated bots to human healthcare representatives when needed.",
+        "Optimizing TTS performance for medical terminology pronunciation, working closely with healthcare professionals to ensure accurate speech output for complex drug names.",
+        "Implementing secure coding practices throughout healthcare conversational AI development, conducting regular security reviews and penetration testing for vulnerability assessment.",
+        "Creating monitoring dashboards for healthcare bot performance, tracking key metrics like intent accuracy and user satisfaction while maintaining patient privacy.",
+        "Developing proof-of-concept multi-agent systems for coordinated healthcare information delivery, demonstrating improved patient engagement through personalized conversational experiences."
+      ],
+      "environment": [
+        "Amazon Lex",
+        "AWS Lambda",
+        "DynamoDB",
+        "Amazon Connect",
+        "S3",
+        "Crew AI",
+        "Python",
+        "Java",
+        "HIPAA Compliance",
+        "Secure Coding",
+        "Accessibility Standards",
+        "CI/CD",
+        "Jenkins",
+        "Context Management",
+        "TTS Optimization",
+        "Medical Terminology"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Dialogflow CX to build healthcare assistance chatbots for state residents, implementing multi-turn conversations for accessing public health services and information.",
+        "Leveraging Google Cloud Functions for processing healthcare eligibility inquiries through conversational interfaces, ensuring all systems met state healthcare privacy regulations.",
+        "Implementing voice interaction capabilities for public health information lines, enabling residents to access COVID-19 resources and vaccination information through natural speech.",
+        "Developing action-oriented bots capable of scheduling healthcare appointments at state facilities, incorporating secure authentication for protected health information access.",
+        "Building context management systems for healthcare conversations across multiple state departments, ensuring consistent information delivery while maintaining data separation.",
+        "Designing secure data storage with Google Cloud databases for healthcare conversation logs, implementing strict access controls and audit trails for compliance reporting.",
+        "Creating accessibility-compliant voice interfaces for public health applications, ensuring all residents could access critical healthcare information regardless of ability.",
+        "Implementing telephony integrations for healthcare hotlines, enabling smooth transitions between automated information and human healthcare representatives.",
+        "Developing monitoring systems for public health chatbot performance, tracking utilization patterns and identifying areas for service improvement.",
+        "Building HIPAA-compliant conversation flows for sensitive healthcare topics, implementing additional security layers for discussions involving personal health information.",
+        "Optimizing ASR models for regional accents and dialects within Maine, improving speech recognition accuracy for diverse population groups accessing state services.",
+        "Implementing secure session handling for healthcare conversations, ensuring patient privacy while maintaining context across extended dialog sequences."
+      ],
+      "environment": [
+        "Dialogflow CX",
+        "Google Cloud Functions",
+        "Cloud Storage",
+        "Vertex AI",
+        "Python",
+        "Java",
+        "HIPAA Compliance",
+        "Accessibility Standards",
+        "ASR Optimization",
+        "Context Management",
+        "Telephony Integration",
+        "Healthcare Regulations"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Dialogflow CX to develop banking customer service chatbots, implementing secure multi-turn conversations for account inquiries and transaction history requests.",
+        "Leveraging Google Cloud Functions for processing banking transactions through conversational interfaces, ensuring all financial data met PCI compliance standards.",
+        "Implementing action-oriented bots capable of handling basic banking transactions, incorporating secure authentication and transaction confirmation protocols.",
+        "Developing voice interaction capabilities for mobile banking applications, enabling customers to check balances and recent transactions through natural speech commands.",
+        "Building context management systems for banking conversations, maintaining customer context across different banking products while ensuring data security.",
+        "Designing secure data persistence with Google Cloud databases for banking conversation history, implementing encryption and strict access controls for financial data.",
+        "Creating PCI-compliant dialog flows for banking transactions, implementing additional security verification for sensitive financial operations.",
+        "Developing accessibility standards for banking voice applications, ensuring financial services remained accessible to customers with disabilities.",
+        "Building monitoring systems for banking chatbot performance, tracking transaction success rates and identifying areas for service improvement.",
+        "Implementing secure session handling for banking conversations, ensuring customer financial data remained protected throughout extended interactions."
+      ],
+      "environment": [
+        "Dialogflow CX",
+        "Google Cloud Functions",
+        "Cloud Storage",
+        "Vertex AI",
+        "Python",
+        "Java",
+        "PCI Compliance",
+        "Banking Regulations",
+        "Secure Authentication",
+        "Context Management",
+        "Financial Data Protection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop to process large-scale conversational data from client customer service interactions, implementing data pipelines that supported early chatbot training initiatives.",
+        "Leveraging Informatica for ETL processes that transformed raw conversation logs into structured datasets for natural language processing model development.",
+        "Implementing Sqoop for data transfer between relational databases and Hadoop clusters, enabling efficient processing of customer interaction data for analytics.",
+        "Developing data validation frameworks for conversation quality assessment, helping identify patterns in customer queries that informed early conversational AI strategies.",
+        "Building data pipelines that supported initial intent classification models, processing thousands of customer service transcripts for training data generation.",
+        "Designing data storage architectures for conversational data retention, implementing partitioning strategies that optimized query performance for analysis.",
+        "Creating data quality monitoring systems for conversation logs, ensuring accurate capture of customer interactions for subsequent AI model training.",
+        "Implementing basic natural language processing pipelines that supported early chatbot development, learning foundational concepts in intent recognition and entity extraction."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Data Pipelines",
+        "ETL Processes",
+        "Data Validation",
+        "Conversation Analytics",
+        "Natural Language Processing",
+        "Intent Classification"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

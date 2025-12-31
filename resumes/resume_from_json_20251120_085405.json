@@ -1,0 +1,356 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Power Platform + Azure OpenAI + Copilot Studio Techno-Functional Consultant",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I'm bringing 10 years of experience in AI automation, cloud solutions, and enterprise workflow transformation across Insurance, Healthcare, Banking, and Consulting domains with deep expertise in Microsoft ecosystem.",
+    "Using Power Platform (Power Apps, Power Automate, Power BI) to build rapid prototypes and production-grade automation solutions, I've delivered enterprise-scale workflows that integrate seamlessly with Azure OpenAI and Copilot Studio for intelligent assistance.",
+    "With Azure OpenAI services, I've architected generative AI solutions leveraging prompt engineering, embeddings, chat completions, and retrieval-augmented workflows to transform business processes and enable AI-driven decision-making capabilities.",
+    "Building custom copilots in Microsoft Copilot Studio, I've created conversational flows, plugins, generative actions, and bot integrations that solved complex business challenges and improved user engagement through intelligent automation.",
+    "Partnering with business stakeholders to identify automation opportunities, I've led discovery sessions that translated pain points into actionable blueprints using Power Platform best practices while ensuring scalability and governance adherence.",
+    "Developing rapid prototypes within 1-3 day build cycles, I've demonstrated art of the possible solutions that combined Power Automate orchestrations with Azure OpenAI capabilities to showcase immediate value and accelerate innovation initiatives.",
+    "Integrating Power Platform with enterprise systems like Dataverse, SharePoint, REST APIs, and Azure services, I've built end-to-end automation workflows that connected disparate data sources while maintaining security and compliance standards.",
+    "Through Power BI, I've designed interactive dashboards and real-time analytics solutions that provided actionable insights, enabling stakeholders to make data-driven decisions while monitoring AI-powered automation performance metrics.",
+    "Working with agentic frameworks like CrewAI, LangGraph, and multi-agent systems, I've architected proof-of-concept solutions that demonstrated advanced AI orchestration patterns and model context protocol implementations for Insurance domain projects.",
+    "Using Azure OpenAI embedding models and vector databases, I've implemented semantic search capabilities within Power Platform solutions that enhanced information retrieval accuracy and improved user experience in healthcare compliance scenarios.",
+    "Leading technical documentation efforts, I've created architecture diagrams, flow charts, data models, and technical assumptions for each prototype while ensuring alignment with M365 governance and responsible AI standards for production readiness.",
+    "Presenting prototypes to diverse business groups, I've gathered feedback and iterated solutions based on stakeholder input, demonstrating feasibility analysis and scalability considerations that aligned with enterprise automation strategy.",
+    "Building reusable components, templates, and patterns in Power Platform, I've accelerated subsequent prototype development cycles while maintaining consistency across solutions and reducing time-to-value for business stakeholders.",
+    "Through prompt flow orchestrations in Azure OpenAI, I've designed conversational AI experiences that handled complex business logic, integrated with external APIs, and provided contextual responses aligned with domain-specific requirements.",
+    "Developing generative actions and plugins in Copilot Studio, I've extended bot capabilities to interact with backend systems, trigger Power Automate flows, and deliver personalized experiences that adapted to user intent and context.",
+    "Ensuring adherence to security best practices, I've implemented role-based access controls, data loss prevention policies, and compliance measures within Power Platform solutions that met HIPAA, PCI, and regulatory requirements.",
+    "Working closely with cross-functional teams during code reviews and troubleshooting sessions, I've debugged complex integration issues between Power Platform components and Azure services while maintaining solution stability.",
+    "Initially struggled with scaling prototype solutions to production environments, but learned to design architectures that balanced rapid development with enterprise-grade performance, eventually becoming proficient in production transition strategies."
+  ],
+  "technical_skills": {
+    "Power Platform": [
+      "Power Apps",
+      "Power Automate",
+      "Power BI",
+      "Dataverse",
+      "Power Platform Connectors",
+      "Canvas Apps",
+      "Model-Driven Apps",
+      "Power Platform Administration",
+      "Power Virtual Agents"
+    ],
+    "Azure OpenAI & AI Services": [
+      "Azure OpenAI",
+      "Prompt Engineering",
+      "Embedding Models",
+      "Chat Completion APIs",
+      "Generative AI",
+      "Azure Cognitive Services",
+      "Retrieval-Augmented Generation",
+      "Semantic Kernel",
+      "Prompt Flow"
+    ],
+    "Microsoft Copilot Studio": [
+      "Copilot Studio",
+      "Custom Copilots",
+      "Conversational Flows",
+      "Bot Building",
+      "Generative Actions",
+      "Plugins",
+      "Copilot Extensions",
+      "Bot Framework"
+    ],
+    "AI & Machine Learning": [
+      "LangChain",
+      "Llama Index",
+      "CrewAI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Agentic Frameworks",
+      "Vector Databases",
+      "Semantic Search",
+      "RAG Pipelines"
+    ],
+    "Cloud Platforms": [
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB, Functions)",
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Bedrock)",
+      "Azure Logic Apps",
+      "Azure API Management"
+    ],
+    "Integration & APIs": [
+      "REST APIs",
+      "Microsoft Graph API",
+      "SharePoint APIs",
+      "Azure Functions",
+      "API Connectors",
+      "Webhooks",
+      "OAuth Authentication",
+      "Third-Party Integrations"
+    ],
+    "Programming & Development": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "PowerFx",
+      "C#",
+      "SQL",
+      "JSON",
+      "Power Query M Language"
+    ],
+    "Data & Analytics": [
+      "Power BI",
+      "DAX",
+      "Power Query",
+      "Data Modeling",
+      "Azure SQL Database",
+      "Dataverse",
+      "SharePoint",
+      "Excel Services",
+      "Azure Synapse Analytics"
+    ],
+    "Automation & Orchestration": [
+      "Power Automate",
+      "Azure Logic Apps",
+      "Process Automation",
+      "Workflow Orchestration",
+      "Scheduled Flows",
+      "Event-Driven Automation",
+      "Business Process Flows"
+    ],
+    "Governance & Security": [
+      "Data Loss Prevention",
+      "Azure Active Directory",
+      "Role-Based Access Control",
+      "Compliance Management",
+      "Responsible AI",
+      "Power Platform Governance",
+      "M365 Security"
+    ],
+    "Enterprise Systems": [
+      "SharePoint Online",
+      "Microsoft Teams",
+      "Dynamics 365",
+      "Salesforce",
+      "Azure DevOps",
+      "ServiceNow",
+      "SAP",
+      "Office 365"
+    ],
+    "Development Tools": [
+      "Visual Studio Code",
+      "Power Platform CLI",
+      "Azure Portal",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Power Apps Test Studio",
+      "Solution Packager"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Using Power Apps and Azure OpenAI to address claims processing bottlenecks, I've built a custom canvas app with embedded prompt flows that automated document analysis, reducing manual review time significantly for Insurance adjusters.",
+        "With Copilot Studio, I've created a conversational bot for policy inquiries that integrated generative actions and Azure OpenAI chat completions, delivering contextual insurance guidance while learning from each interaction to improve response accuracy.",
+        "Leveraging Power Automate to solve repetitive approval workflows, I've orchestrated multi-stage automation flows connecting SharePoint, Dataverse, and Azure OpenAI embeddings that intelligently routed requests based on semantic content analysis.",
+        "Through CrewAI and LangGraph frameworks on Azure, I've architected multi-agent proof-of-concept systems for Insurance underwriting that coordinated specialized AI agents, demonstrating advanced orchestration patterns for risk assessment workflows.",
+        "Building rapid prototypes within 2-day cycles using Power Platform, I've demonstrated art of the possible solutions to business stakeholders by combining Power BI dashboards with Azure OpenAI insights that visualized claim trends and predicted outcomes.",
+        "Using Model Context Protocol implementations, I've developed agent-to-agent communication systems that enabled seamless data exchange between Azure OpenAI services and Power Platform connectors, creating unified automation experiences for complex Insurance scenarios.",
+        "With Power BI and DAX expressions, I've designed real-time analytics dashboards integrating Azure OpenAI sentiment analysis that tracked customer satisfaction metrics across policy lifecycle stages while identifying improvement opportunities through predictive modeling.",
+        "Partnering with business users during discovery sessions, I've translated Insurance domain challenges into technical blueprints by mapping current processes to Power Automate flows enhanced with Azure OpenAI decision-making capabilities for intelligent automation.",
+        "Struggled initially with scaling prototype vector embeddings to production loads, but worked closely with Azure team to optimize retrieval-augmented generation pipelines using Azure Cognitive Search and partitioned Dataverse tables for improved performance.",
+        "Using prompt engineering techniques with Azure OpenAI, I've fine-tuned chat completion models to understand Insurance terminology and regulatory requirements, ensuring generated responses aligned with State Farm compliance standards and policy guidelines.",
+        "Developing reusable Power Platform components and templates, I've created a library of custom connectors and Power Apps controls that accelerated prototype development cycles while maintaining consistent UX patterns across Insurance automation solutions.",
+        "Through Copilot Studio plugins, I've extended bot capabilities to trigger Power Automate flows and query Dataverse records in real-time, enabling agents to retrieve policy information and initiate claims workflows directly from conversational interfaces.",
+        "Leading architecture documentation efforts, I've created flow diagrams and technical specifications for each proof-of-concept using Azure DevOps wiki that detailed Azure OpenAI integration patterns and Power Platform governance considerations for production readiness.",
+        "Had to learn Azure OpenAI rate limiting best practices the hard way during load testing, eventually implementing retry logic and caching strategies in Power Automate that handled API throttling gracefully while maintaining user experience quality.",
+        "Using Power Platform administration center, I've configured data loss prevention policies and environment strategies that enforced security standards across development and production tenants while enabling rapid prototype iteration for Insurance innovation projects.",
+        "During troubleshooting sessions and code reviews, I've debugged complex integration issues between Power Apps custom pages and Azure OpenAI streaming responses, collaborating with Microsoft support to resolve authentication challenges in hybrid deployment scenarios."
+      ],
+      "environment": [
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "Azure OpenAI",
+        "Copilot Studio",
+        "CrewAI",
+        "LangGraph",
+        "Model Context Protocol",
+        "Multi-Agent Systems",
+        "Dataverse",
+        "SharePoint",
+        "Azure Functions",
+        "Azure Cognitive Search",
+        "REST APIs",
+        "DAX",
+        "Power Query",
+        "Prompt Engineering",
+        "Embeddings",
+        "RAG",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Using Power Automate to streamline clinical trial documentation workflows, I've built automation solutions integrating Azure OpenAI that extracted structured data from medical reports while ensuring HIPAA compliance through encrypted Dataverse storage.",
+        "With Copilot Studio, I've developed a healthcare assistant bot that answered provider questions about drug interactions and treatment protocols using generative responses powered by Azure OpenAI, reducing information retrieval time for medical staff.",
+        "Leveraging Power Apps model-driven applications, I've created patient data management interfaces connected to Azure OpenAI embeddings that enabled semantic search across medical records, improving diagnostic research efficiency while maintaining PHI security.",
+        "Through CrewAI framework implementations on Azure, I've built multi-agent proof-of-concept systems for adverse event reporting that coordinated AI agents to analyze, categorize, and escalate safety concerns based on FDA regulatory requirements.",
+        "Building rapid prototypes using Power Platform and Azure OpenAI within 3-day cycles, I've demonstrated AI-enhanced clinical workflow solutions to healthcare stakeholders that showcased potential for reducing administrative burden and improving patient care quality.",
+        "Using Power BI with Azure OpenAI insights, I've designed analytics dashboards visualizing drug efficacy trends and patient outcomes that combined traditional metrics with AI-generated predictive indicators for research team decision support.",
+        "With LangGraph orchestrations on Azure, I've architected proof-of-concept workflows for literature review automation that processed medical publications through multi-stage AI pipelines, extracting relevant research findings for evidence-based medicine initiatives.",
+        "Partnering with clinical operations teams during ideation sessions, I've identified automation opportunities in patient enrollment processes and translated requirements into Power Automate flows enhanced with Azure OpenAI screening capabilities.",
+        "Initially struggled with implementing HIPAA-compliant embeddings storage, but learned to leverage Azure's encryption and access controls with Dataverse to build secure retrieval-augmented generation systems that passed healthcare security audits.",
+        "Using prompt engineering with Azure OpenAI, I've customized chat completion models to understand medical terminology and regulatory constraints, ensuring generated clinical summaries met documentation standards while reducing provider burnout.",
+        "Developing custom Power Platform connectors, I've integrated third-party healthcare APIs and EHR systems with Power Automate flows that triggered Azure OpenAI analysis for real-time clinical decision support aligned with treatment protocols.",
+        "Through Copilot Studio generative actions, I've extended healthcare bot capabilities to query patient databases and initiate appointment workflows while maintaining conversation context using Azure OpenAI memory patterns for personalized interactions.",
+        "Had to debug authentication issues between Power Apps and Azure OpenAI endpoints during meetings with security team, eventually implementing managed identity patterns that satisfied IT requirements without compromising prototype development velocity.",
+        "Using Power Platform governance features, I've configured environment strategies and DLP policies that balanced innovation needs with regulatory compliance, enabling rapid prototyping while protecting sensitive healthcare data across development cycles."
+      ],
+      "environment": [
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "Azure OpenAI",
+        "Copilot Studio",
+        "CrewAI",
+        "LangGraph",
+        "Dataverse",
+        "SharePoint",
+        "Azure Functions",
+        "REST APIs",
+        "Prompt Engineering",
+        "Embeddings",
+        "RAG Pipelines",
+        "HIPAA Compliance",
+        "Power Query",
+        "DAX",
+        "Azure Cognitive Services",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Using Power Automate to modernize Medicaid eligibility workflows, I've built automation solutions that integrated with state healthcare systems using REST APIs and AWS Lambda functions, reducing processing time for benefit applications significantly.",
+        "With Power Apps, I've developed citizen-facing portals for healthcare program enrollment that connected to AWS RDS databases and simplified application submission while maintaining HIPAA compliance through encrypted data transmission and storage.",
+        "Leveraging Power BI for healthcare analytics, I've created dashboards visualizing program utilization and population health metrics that integrated with AWS S3 data lakes, enabling state officials to make data-driven policy decisions.",
+        "Through Power Automate orchestrations, I've automated eligibility determination processes that validated applicant information against multiple state databases using AWS API Gateway, improving accuracy while reducing manual review bottlenecks.",
+        "Building rapid prototypes with Power Platform within 2-day cycles, I've demonstrated modernization opportunities to state healthcare administrators that showcased potential for improving citizen services and reducing operational costs through automation.",
+        "Using Power Apps component framework, I've created reusable UI controls for healthcare forms that standardized data collection across multiple state programs while ensuring accessibility compliance for diverse citizen populations.",
+        "With Power Platform connectors to AWS services, I've integrated S3 storage and DynamoDB for document management workflows that automated medical record retrieval and processing, reducing staff workload during eligibility verification processes.",
+        "Partnering with state healthcare administrators during process discovery sessions, I've mapped legacy workflows to modern automation architectures using Power Automate flows that aligned with regulatory requirements and budget constraints.",
+        "Had to learn state procurement and compliance procedures the hard way, spending weeks understanding HIPAA requirements before implementing Power Platform solutions that satisfied both security audits and functional needs for healthcare programs.",
+        "Using Power BI data modeling with AWS data sources, I've built analytics solutions that tracked healthcare program performance metrics and identified enrollment trends, helping state officials optimize resource allocation and program outreach.",
+        "Troubleshooting integration challenges between Power Automate and AWS services during team meetings, I've debugged authentication failures and API timeouts, eventually implementing retry patterns that improved workflow reliability for critical processes.",
+        "Through Power Apps model-driven development, I've created case management systems for healthcare administrators that streamlined benefit coordination workflows while maintaining audit trails for compliance reporting aligned with federal regulations."
+      ],
+      "environment": [
+        "Power Apps",
+        "Power Automate",
+        "Power BI",
+        "AWS Lambda",
+        "AWS RDS",
+        "AWS S3",
+        "AWS API Gateway",
+        "DynamoDB",
+        "REST APIs",
+        "HIPAA Compliance",
+        "Dataverse",
+        "Power Query",
+        "DAX",
+        "SharePoint",
+        "SQL Server"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Using Power BI with AWS RDS data sources, I've built risk analytics dashboards for credit portfolios that integrated predictive models and visualized default probabilities, enabling risk managers to identify high-risk segments proactively.",
+        "With Power Automate, I've created automated reporting workflows that extracted transaction data from AWS S3, processed fraud detection alerts, and distributed insights to compliance teams while ensuring PCI DSS compliance throughout the pipeline.",
+        "Leveraging Power Apps for internal banking tools, I've developed loan application tracking systems connected to AWS databases that streamlined approval workflows and improved visibility into application status for relationship managers.",
+        "Through Power Platform integration with AWS services, I've automated regulatory reporting processes that aggregated data from multiple sources using AWS Lambda functions and generated compliance reports aligned with banking regulations.",
+        "Building analytics prototypes using Power BI and AWS data lakes, I've demonstrated machine learning insights to banking executives that showcased customer segmentation patterns and cross-sell opportunities derived from transactional behavior.",
+        "Using Power Automate approval workflows, I've streamlined credit decision processes that integrated with core banking systems via REST APIs and routed applications based on risk scores, reducing approval cycle time significantly.",
+        "With Power Query M language, I've transformed complex financial datasets from AWS S3 into Power BI data models that supported risk analysis and regulatory reporting while maintaining data lineage for audit requirements.",
+        "Partnering with compliance officers during requirements gathering, I've translated banking regulations into automated validation rules within Power Automate flows that enforced data quality standards and flagged anomalies for investigation.",
+        "Had to debug performance issues in Power BI dashboards loading large transaction datasets from AWS, eventually learning to implement incremental refresh strategies and aggregation tables that improved report responsiveness for executive users.",
+        "Using DAX calculations in Power BI, I've built financial metrics and KPIs that tracked loan portfolio performance and customer profitability, providing business intelligence insights that informed strategic banking decisions and product offerings."
+      ],
+      "environment": [
+        "Power BI",
+        "Power Automate",
+        "Power Apps",
+        "AWS S3",
+        "AWS RDS",
+        "AWS Lambda",
+        "REST APIs",
+        "DAX",
+        "Power Query",
+        "SQL",
+        "PCI DSS Compliance",
+        "Banking Regulations",
+        "Risk Analytics",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "It's my first time working with enterprise data pipelines, so I collaborated with senior engineers to build ETL workflows using Informatica PowerCenter that extracted data from client systems and loaded into Hadoop clusters for analytics.",
+        "Using Sqoop for data ingestion, I've transferred relational database tables into HDFS by running import jobs that moved large volumes of transactional data, learning how to optimize parallel transfers and handle schema evolution challenges.",
+        "With Hadoop MapReduce, I've assisted in developing data transformation jobs that processed raw data files stored in HDFS, aggregating metrics and preparing datasets for downstream analytics while debugging execution failures during testing phases.",
+        "Through Informatica workflows, I've automated data validation processes that checked data quality and triggered alerts when inconsistencies were detected, helping ensure reliable data delivery to business intelligence teams for reporting.",
+        "Working on data migration projects, I've used Informatica to extract legacy system data and transform formats for modern platforms, learning proper error handling and logging practices by reviewing code with experienced team members.",
+        "Using Hadoop Hive, I've created database tables and wrote SQL queries to analyze large datasets stored in HDFS, supporting business analysts who needed insights from consolidated data warehouses for client deliverables.",
+        "Struggled with Sqoop connection failures when importing data initially, but learned troubleshooting techniques from teammates and eventually became comfortable configuring JDBC drivers and resolving network connectivity issues independently.",
+        "Participating in team meetings and code reviews, I've learned best practices for ETL development, documentation standards, and testing procedures that improved my technical skills and understanding of enterprise data engineering requirements."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "HDFS",
+        "MapReduce",
+        "Hive",
+        "SQL",
+        "ETL Workflows",
+        "Data Warehousing",
+        "JDBC"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

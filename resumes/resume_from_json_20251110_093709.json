@@ -1,0 +1,324 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Backend Developer - LLM Integration Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Python backend development and AI/LLM integration, specializing in building enterprise-scale microservices and intelligent systems for insurance, healthcare, and financial domains.",
+    "Using Flask and Gunicorn to develop high-performance RESTful APIs for insurance policy management systems, implementing Redis caching that significantly reduced response times while ensuring state compliance regulations.",
+    "Leveraging LangChain and LlamaIndex to architect RAG pipelines for healthcare document processing, integrating FAISS vector databases that improved medical information retrieval accuracy while maintaining HIPAA compliance.",
+    "Implementing Docker containerization for AI microservices deployment across AWS cloud infrastructure, orchestrating scalable LLM inference endpoints that handled high-volume insurance claim processing workloads.",
+    "Designing Python backend services with MySQL and PyMySQL for enterprise data management, creating optimized database schemas that supported real-time policy calculations and regulatory reporting requirements.",
+    "Developing LLM integration layers using Claude and Mistral models for insurance underwriting systems, building custom agent frameworks that automated risk assessment while ensuring audit trail compliance.",
+    "Building retrieval-augmented generation systems with Pinecone vector databases for healthcare knowledge bases, implementing semantic search capabilities that accelerated clinical decision support processes.",
+    "Creating microservices architecture with Flask and Docker for banking compliance monitoring, developing real-time transaction analysis systems that detected anomalies while meeting PCI security standards.",
+    "Implementing CI/CD pipelines with Jenkins and GitLab CI for AI model deployment, automating testing and validation workflows that ensured reliable LLM service updates across production environments.",
+    "Designing async Python services with FastAPI for high-throughput insurance quote generation, optimizing endpoint performance that handled concurrent user requests while maintaining data consistency.",
+    "Developing agent frameworks using CrewAI for cross-functional insurance workflows, coordinating multiple AI agents that streamlined claims processing and customer service operations.",
+    "Building vector database solutions with Chroma and Weaviate for healthcare data indexing, creating efficient embedding pipelines that enabled fast medical literature retrieval for research teams.",
+    "Implementing Redis and Memcache for session management in multi-tenant insurance platforms, designing distributed caching strategies that improved application scalability and user experience.",
+    "Creating data preprocessing pipelines with Pandas and NumPy for LLM training datasets, developing feature engineering workflows that prepared insurance domain data for fine-tuning language models.",
+    "Designing secure authentication systems with OAuth2 and JWT for healthcare applications, implementing role-based access control that protected sensitive patient information according to HIPAA requirements.",
+    "Building monitoring solutions with CloudWatch for AI service observability, creating dashboards and alerts that tracked LLM performance metrics and system health across insurance applications.",
+    "Developing prompt evaluation frameworks for insurance chatbot systems, implementing testing methodologies that ensured consistent and compliant responses across different regulatory scenarios.",
+    "Implementing lightweight fine-tuning with LoRA and PEFT for domain-specific LLMs, adapting pre-trained models to insurance terminology while maintaining computational efficiency and model performance."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "Flask",
+      "FastAPI",
+      "Gunicorn",
+      "uWSGI",
+      "asyncio",
+      "RESTful API Design",
+      "Microservices Architecture"
+    ],
+    "AI/LLM Integration & Frameworks": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "OpenDevin",
+      "Claude AI",
+      "LLaMA",
+      "Mistral",
+      "RAG Pipelines",
+      "Agent Frameworks"
+    ],
+    "Vector Databases & Search": [
+      "Pinecone",
+      "FAISS",
+      "Weaviate",
+      "Chroma",
+      "Vector Embeddings",
+      "Semantic Search",
+      "Retrieval Systems"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS (EC2, S3, Lambda, RDS)",
+      "AWS Bedrock",
+      "CloudFormation",
+      "CloudWatch",
+      "ECR",
+      "ECS"
+    ],
+    "Databases & Caching": [
+      "MySQL",
+      "PyMySQL",
+      "Redis",
+      "Memcache",
+      "SQLAlchemy",
+      "Database Optimization",
+      "Session Management"
+    ],
+    "Data Processing & Analysis": [
+      "Pandas",
+      "NumPy",
+      "Data Preprocessing",
+      "Feature Engineering",
+      "Data Serialization",
+      "JSON",
+      "Parquet"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Containerization",
+      "Image Management",
+      "Docker Compose",
+      "Service Isolation"
+    ],
+    "CI/CD & DevOps": [
+      "Jenkins",
+      "GitLab CI",
+      "Git",
+      "GitHub",
+      "Automated Testing",
+      "Deployment Pipelines",
+      "Version Control"
+    ],
+    "Testing & Quality Assurance": [
+      "PyTest",
+      "Unit Testing",
+      "API Testing",
+      "Integration Testing",
+      "Test Coverage",
+      "Code Quality"
+    ],
+    "Security & Authentication": [
+      "OAuth2",
+      "JWT",
+      "RBAC",
+      "Secure Coding",
+      "Data Encryption",
+      "Authentication Systems"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch",
+      "Logging",
+      "Performance Monitoring",
+      "System Health",
+      "Metric Tracking",
+      "Alerting"
+    ],
+    "Documentation & Collaboration": [
+      "Swagger",
+      "OpenAPI",
+      "API Documentation",
+      "Agile Methodology",
+      "Technical Documentation",
+      "Team Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Using Flask and Gunicorn to address slow insurance policy API response times, implemented Redis caching layer with optimized session management that dramatically improved endpoint performance while maintaining state regulatory compliance requirements.",
+        "Leveraging LangChain framework to solve complex insurance document processing challenges, designed RAG pipeline with FAISS vector database that enabled accurate information retrieval from policy documents and reduced manual review time significantly.",
+        "Implementing Docker containerization for microservices deployment issues, created optimized container images and orchestration strategy that streamlined AI service deployment across AWS infrastructure while ensuring high availability.",
+        "Designing Python backend with MySQL and PyMySQL to handle insurance claim data management problems, developed efficient database schemas and query optimization techniques that supported real-time processing of high-volume claim submissions.",
+        "Using Claude and Mistral LLMs to address insurance underwriting automation needs, built custom agent framework with CrewAI that coordinated multiple AI agents for risk assessment while generating comprehensive audit trails.",
+        "Implementing Pinecone vector database to solve insurance knowledge base search limitations, created semantic search system with optimized embeddings that improved information discovery accuracy for complex policy inquiries.",
+        "Developing FastAPI async services for high-concurrency insurance quote generation challenges, designed scalable endpoint architecture that handled peak traffic loads while maintaining data consistency across distributed systems.",
+        "Using Jenkins CI/CD pipelines to address deployment consistency problems, implemented automated testing and validation workflows that ensured reliable LLM service updates and reduced production incidents significantly.",
+        "Implementing Redis caching strategy for session management inefficiencies, designed distributed cache architecture that improved user experience across multi-tenant insurance platforms while maintaining security compliance.",
+        "Leveraging LangChain agents to solve complex insurance workflow coordination issues, created intelligent orchestration system that automated multi-step processes while ensuring regulatory requirement adherence.",
+        "Designing monitoring solution with CloudWatch to address AI service observability gaps, implemented comprehensive dashboards and alerting systems that provided real-time insights into LLM performance and system health.",
+        "Using PyMySQL and SQLAlchemy to optimize database performance problems, implemented connection pooling and query optimization techniques that improved data retrieval speeds for insurance analytics dashboards.",
+        "Implementing OAuth2 authentication system to address security vulnerabilities, designed role-based access control with JWT tokens that protected sensitive customer data according to insurance industry standards.",
+        "Developing prompt evaluation framework for insurance chatbot consistency issues, created testing methodology and validation suite that ensured compliant and accurate responses across various regulatory scenarios.",
+        "Using Docker and container orchestration to solve environment consistency problems, implemented standardized deployment processes that eliminated configuration drift across development, staging, and production environments.",
+        "Implementing lightweight fine-tuning with LoRA to address domain-specific model adaptation needs, developed PEFT workflows that customized pre-trained LLMs for insurance terminology while maintaining computational efficiency."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "FastAPI",
+        "Gunicorn",
+        "LangChain",
+        "LlamaIndex",
+        "CrewAI",
+        "Claude",
+        "Mistral",
+        "FAISS",
+        "Pinecone",
+        "Docker",
+        "AWS",
+        "MySQL",
+        "PyMySQL",
+        "Redis",
+        "Jenkins",
+        "PyTest"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Using Flask framework to address healthcare data API performance bottlenecks, implemented Redis caching and query optimization that accelerated clinical data retrieval while ensuring HIPAA compliance standards.",
+        "Leveraging LlamaIndex to solve medical literature search challenges, designed RAG system with Weaviate vector database that enabled efficient research document retrieval and improved clinical decision support accuracy.",
+        "Implementing Docker containerization for healthcare AI service deployment issues, created secure container images and deployment workflows that met stringent healthcare security and compliance requirements.",
+        "Designing Python microservices with MySQL to handle patient data management problems, developed optimized database architecture that supported real-time healthcare analytics while maintaining data privacy.",
+        "Using LangChain agents to address clinical workflow automation needs, built intelligent coordination system that streamlined patient care processes and reduced administrative burden on healthcare staff.",
+        "Implementing Chroma vector database to solve medical knowledge management limitations, created semantic search capabilities with optimized embeddings that accelerated research and development processes.",
+        "Developing FastAPI async endpoints for high-volume healthcare data processing challenges, designed scalable architecture that handled concurrent requests from multiple clinical systems efficiently.",
+        "Using GitLab CI pipelines to address healthcare application deployment reliability problems, implemented automated testing and security scanning that ensured compliant and stable production releases.",
+        "Implementing Memcache distributed caching for session management inefficiencies, designed caching strategy that improved application performance across global healthcare research teams.",
+        "Leveraging RAG pipelines to solve clinical documentation retrieval issues, created intelligent search system that provided accurate medical information while maintaining patient confidentiality.",
+        "Designing monitoring solution with CloudWatch to address healthcare AI service reliability gaps, implemented comprehensive observability framework that tracked system performance and alerted on anomalies.",
+        "Using SQLAlchemy ORM to optimize database interaction problems, implemented efficient data access patterns that improved healthcare application responsiveness and user experience.",
+        "Implementing JWT authentication system to address healthcare data security requirements, designed secure token management that protected sensitive patient information according to HIPAA standards.",
+        "Developing prompt management framework for clinical chatbot systems, created evaluation methodology that ensured accurate and compliant medical information delivery across various healthcare scenarios."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "FastAPI",
+        "LangChain",
+        "LlamaIndex",
+        "Weaviate",
+        "Chroma",
+        "Docker",
+        "AWS",
+        "MySQL",
+        "Redis",
+        "Memcache",
+        "GitLab CI",
+        "PyTest",
+        "SQLAlchemy"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Using Flask to address healthcare API development challenges, implemented RESTful services that processed public health data while ensuring compliance with state healthcare regulations and data privacy laws.",
+        "Leveraging Python backend development to solve data processing bottlenecks, created efficient ETL pipelines with Pandas and NumPy that prepared healthcare datasets for ML model training and analysis.",
+        "Implementing Docker containerization for ML model deployment issues, developed containerized microservices that enabled scalable deployment of healthcare prediction models across Azure infrastructure.",
+        "Designing MySQL database solutions for healthcare data management problems, optimized schema design and query performance that supported public health reporting and analytics requirements.",
+        "Using vector database concepts to address healthcare document search limitations, implemented semantic similarity approaches that improved information retrieval from medical guidelines and protocols.",
+        "Developing API documentation with Swagger to address integration challenges, created comprehensive API specifications that facilitated collaboration with external healthcare partners and agencies.",
+        "Implementing Redis caching for healthcare application performance issues, designed caching strategies that improved response times for frequently accessed public health data and reports.",
+        "Using PyTest framework to address code quality concerns, implemented comprehensive test suites that ensured reliability of healthcare data processing pipelines and API endpoints.",
+        "Designing monitoring solutions for healthcare system observability gaps, implemented logging and performance tracking that provided insights into system operation and data processing efficiency.",
+        "Leveraging microservices architecture to address application scalability problems, created distributed system design that supported growing healthcare data volumes and user demands.",
+        "Implementing security best practices for healthcare data protection requirements, developed authentication and authorization mechanisms that safeguarded sensitive public health information.",
+        "Using data preprocessing techniques to address healthcare data quality issues, implemented cleaning and validation pipelines that ensured accurate and reliable dataset preparation for analysis."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Docker",
+        "Azure",
+        "MySQL",
+        "Redis",
+        "Pandas",
+        "NumPy",
+        "PyTest",
+        "Swagger",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Using Python data processing to address financial data analysis challenges, implemented Pandas and NumPy workflows that prepared banking transaction data for fraud detection model training while ensuring PCI compliance.",
+        "Leveraging Flask framework to develop banking API services, created RESTful endpoints that served financial insights and model predictions to internal banking applications and dashboards.",
+        "Implementing database optimization techniques to address query performance issues, developed MySQL query tuning strategies that improved financial data retrieval speeds for real-time analytics.",
+        "Designing data preprocessing pipelines for banking data quality problems, created validation and cleaning workflows that ensured accurate financial dataset preparation for machine learning applications.",
+        "Using containerization concepts to address model deployment challenges, explored Docker implementation that would enable consistent environment deployment for financial risk assessment models.",
+        "Developing API documentation to address integration complexity issues, created clear specifications that facilitated collaboration between data science and banking application development teams.",
+        "Implementing caching strategies for financial data access patterns, designed Redis usage patterns that improved performance of frequently accessed banking analytics and reporting data.",
+        "Using testing frameworks to address model reliability concerns, implemented validation suites that ensured accurate financial predictions and maintained regulatory compliance standards.",
+        "Designing monitoring approaches for banking application observability, implemented logging and performance tracking that provided insights into data pipeline operation and model performance.",
+        "Leveraging microservices concepts to address system architecture scalability, contributed to distributed system design that supported growing banking data volumes and analytical requirements."
+      ],
+      "environment": [
+        "Python",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "RESTful APIs",
+        "Data Processing"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Using Hadoop ecosystem to address large-scale data processing challenges, implemented MapReduce jobs and Hive queries that transformed client data for business intelligence and reporting requirements.",
+        "Leveraging Informatica ETL tools to solve data integration problems, designed and developed data workflows that extracted, transformed and loaded enterprise data from multiple source systems.",
+        "Implementing Sqoop for database migration challenges, created efficient data transfer processes that moved structured data between relational databases and Hadoop distributed file system.",
+        "Designing data pipelines to address processing efficiency issues, optimized ETL workflows that improved data processing performance and met client service level agreements.",
+        "Using data validation techniques to address quality concerns, implemented checking and cleansing procedures that ensured accurate and reliable data delivery for client analytics.",
+        "Developing documentation to address knowledge sharing challenges, created technical specifications and process documentation that facilitated team collaboration and project continuity.",
+        "Implementing performance tuning for data processing bottlenecks, optimized Hadoop cluster configurations and Informatica workflows that improved overall data pipeline efficiency.",
+        "Using problem-solving skills to address technical implementation challenges, collaborated with team members to troubleshoot and resolve data processing issues across the ETL pipeline."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "MapReduce",
+        "Hive",
+        "ETL",
+        "Data Warehousing",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}
