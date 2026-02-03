@@ -3,6 +3,7 @@ Werkzeug==2.3.7
 python-dotenv==1.0.0
 gunicorn==21.2.0
 groq>=0.4.1
+langchain>=0.3.0
 langchain-groq>=0.3.3
 langchain-core
 python-docx
