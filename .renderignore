@@ -1,0 +1,4 @@
+# Render ignore file - prevents Docker detection
+Dockerfile
+docker-compose.yml
+.dockerignore
