@@ -6,7 +6,14 @@ from datetime import datetime
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain.chat_models import init_chat_model
+try:
+    from langchain.chat_models import init_chat_model
+except ImportError:
+    try:
+        from langchain_core.chat_models import init_chat_model
+    except ImportError:
+        # Fallback: init_chat_model might not be available
+        init_chat_model = None
 
 # Load environment variables first
 load_dotenv()
@@ -34,6 +41,9 @@ def get_cohere_model():
     global cohere_model
     if cohere_model is None:
         try:
+            if init_chat_model is None:
+                logging.warning("init_chat_model not available, Cohere model will not be initialized")
+                return None
             cohere_model = init_chat_model("command-a-03-2025", model_provider="cohere")
         except Exception as e:
             logging.error(f"Failed to initialize Cohere model: {e}")
