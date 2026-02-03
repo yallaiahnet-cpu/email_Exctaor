@@ -31,10 +31,6 @@ RUN mkdir -p generated_resumes resumes
 # Expose port (Render will set PORT env var)
 EXPOSE 10000
 
-# Create entrypoint script to handle PORT variable
-RUN echo '#!/bin/sh\nset -e\nexec gunicorn app:app --bind "0.0.0.0:${PORT:-10000}" --workers 2 --timeout 120' > /app/entrypoint.sh && \
-    chmod +x /app/entrypoint.sh
-
-# Use entrypoint script
-ENTRYPOINT ["/app/entrypoint.sh"]
+# Use gunicorn to run the app (shell form to expand PORT env var)
+CMD gunicorn app:app --bind 0.0.0.0:${PORT:-10000} --workers 2 --timeout 120
 
