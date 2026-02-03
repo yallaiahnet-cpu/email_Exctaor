@@ -1,0 +1,321 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Scientist - Risk Modeling & Analytics",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data science and risk modeling, specializing in machine learning, anomaly detection, and graph analytics for healthcare, government, and finance domains, applying advanced statistical techniques to solve complex risk problems.",
+    "Spearheaded the development of transformer-based NLP models for entity resolution and sentiment analysis on healthcare claims data, deploying PyTorch pipelines to identify fraudulent patterns and enhance compliance monitoring, achieving robust Precision@K scores for high-risk case prioritization.",
+    "Architected a multi-agent risk detection system using Crew AI and LangGraph to orchestrate graph analytics workflows across medical supply chains, implementing entity relationship modeling to uncover anomalous vendor behaviors and mitigate supply chain vulnerabilities in Azure environments.",
+    "Engineered a graph machine learning framework leveraging TensorFlow and scikit-learn to perform anomaly detection on large-scale insurance claim networks, extracting explainable insights for stakeholders and improving fraud detection ROC-AUC by capturing sophisticated collusive schemes.",
+    "Led the validation and evaluation of risk models for government public health datasets, establishing rigorous metrics like F1-score and ROC-AUC to ensure model reliability, and translating complex outputs into clear business language for non-technical agency decision-makers.",
+    "Designed and implemented a real-time anomaly detection system for financial transactions using Python and PyTorch, focusing on operational impact by reducing false positives and integrating the model into existing AWS-based payment screening workflows for immediate fraud mitigation.",
+    "Developed an end-to-end risk modeling pipeline incorporating graph ML libraries to analyze relationships in FDA datasets, identifying non-compliance patterns in drug imports and generating actionable reports that streamlined the risk screening process for regulatory teams.",
+    "Optimized machine learning models for national security risk modeling by applying advanced statistics and entity resolution techniques, refining transformer architectures to handle sensitive, unstructured data while maintaining stringent Public Trust clearance data protocols.",
+    "Collaborated with cross-functional teams to deploy explainable AI (XAI) features for risk models, utilizing SHAP and LIME libraries to demystify model decisions for business stakeholders in healthcare, thereby fostering trust and enabling faster regulatory approval cycles.",
+    "Pioneered the use of graph analytics for compliance monitoring within HIPAA-regulated environments, building network graphs of patient data access to detect insider threats and presenting findings to security councils through intuitive visualizations and stakeholder communication.",
+    "Mentored junior data scientists on best practices for model evaluation and validation, emphasizing robust testing frameworks and the importance of Precision@K in ranking high-risk entities for targeted investigations in insurance fraud detection projects.",
+    "Solved complex entity resolution challenges across disparate government datasets by implementing custom sentiment analysis and transformer fine-tuning, which improved the linkage accuracy of public health records and supported more effective risk assessments.",
+    "Integrated risk models into existing imports risk screening workflows, creating Python APIs that connected PyTorch inference engines with legacy PREDICT-like systems, ensuring seamless operation and minimal disruption to compliance officers' daily tasks.",
+    "Conducted extensive debugging and performance tuning on graph ML algorithms to handle scale, wrestling with memory issues in large entity relationship graphs and finally optimizing with Azure Databricks to achieve sub-second query times for real-time risk scoring.",
+    "Authored comprehensive documentation and presented explainable insights to non-technical stakeholders, converting intricate anomaly detection results into clear narratives that influenced policy changes and resource allocation for fraud investigation units.",
+    "Applied supply chain risk modeling techniques to healthcare logistics data, using anomaly detection to flag irregular shipment patterns and potential counterfeit medical products, directly supporting patient safety and regulatory adherence initiatives.",
+    "Facilitated client interaction workshops to gather requirements for risk modeling systems, translating business needs into technical specifications for graph analytics and machine learning solutions that addressed specific fraud detection and compliance pain points.",
+    "Championed a culture of rigorous model evaluation, instituting automated testing for F1-score, ROC-AUC, and Precision@K on all deployed risk models to ensure sustained accuracy and operational relevance in dynamic, real-world environments."
+  ],
+  "technical_skills": {
+    "Programming Languages & Core Data Science": [
+      "Python (Advanced)",
+      "R",
+      "SQL",
+      "Scala",
+      "Bash/Shell Scripting"
+    ],
+    "Machine Learning & Deep Learning Frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "XGBoost",
+      "LightGBM"
+    ],
+    "Risk, Anomaly & Graph Modeling": [
+      "Anomaly Detection",
+      "Risk Modeling",
+      "Graph Analytics",
+      "Graph ML Libraries",
+      "Entity Relationship Modeling"
+    ],
+    "Advanced Statistics & Model Evaluation": [
+      "Advanced Statistics",
+      "Model Evaluation & Validation",
+      "Hypothesis Testing",
+      "Precision@K",
+      "ROC-AUC",
+      "F1-score"
+    ],
+    "Natural Language Processing": [
+      "Transformer-based NLP Models",
+      "Sentiment Analysis",
+      "Entity Resolution",
+      "BERT",
+      "spaCy",
+      "NLTK"
+    ],
+    "Big Data & Cloud Platforms (Azure)": [
+      "Azure ML Studio",
+      "Azure Databricks",
+      "Azure Data Factory",
+      "Apache Spark",
+      "Delta Lake",
+      "Azure Cosmos DB"
+    ],
+    "Big Data & Cloud Platforms (AWS)": [
+      "AWS SageMaker",
+      "AWS Glue",
+      "Amazon Redshift",
+      "Apache Kafka",
+      "AWS Lambda"
+    ],
+    "MLOps, Deployment & Orchestration": [
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "Git",
+      "CI/CD Pipelines"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "Plotly",
+      "Seaborn",
+      "Power BI",
+      "Tableau"
+    ],
+    "Agentic AI & Advanced Frameworks": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "LangChain",
+      "RAG Pipelines"
+    ],
+    "Databases & Data Stores": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Elasticsearch"
+    ],
+    "Domain Knowledge & Compliance": [
+      "HIPAA",
+      "FDA Datasets",
+      "Public Trust Clearance",
+      "Fraud Detection",
+      "Compliance Monitoring",
+      "Supply Chain Risk"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized PyTorch and graph ML libraries to construct an anomaly detection system for medical supply chain risk, addressing vulnerabilities in vendor relationships by modeling entity graphs, which flagged 15+ suspicious networks for compliance review.",
+        "Applied transformer-based NLP models to perform sentiment analysis and entity resolution on unstructured FDA dataset excerpts and supplier communications, solving data linkage challenges to create a unified risk profile for import screening workflows.",
+        "Engineered a multi-agent fraud detection framework using Crew AI and LangGraph, orchestrating specialized agents for graph analytics, NLP, and scoring to investigate complex healthcare fraud patterns, enhancing investigative team efficiency.",
+        "Developed a comprehensive model evaluation suite in Python, incorporating Precision@K and ROC-AUC metrics to rigorously validate risk models against historical fraud cases, ensuring reliable performance before deployment to Azure ML endpoints.",
+        "Architected a real-time inference pipeline with Azure Data Factory and Databricks, solving latency issues in risk scoring for incoming shipments by implementing streaming graph analytics, reducing decision time from hours to minutes.",
+        "Led client interaction sessions with supply chain and compliance teams, translating model outputs into clear business language and explainable insights that guided strategic decisions on vendor partnerships and risk mitigation investments.",
+        "Implemented advanced statistical techniques for time-series anomaly detection on drug inventory data, identifying irregular patterns suggestive of diversion or counterfeit products, and presenting findings to stakeholder leadership.",
+        "Built and fine-tuned custom BERT models for entity resolution across disparate healthcare data sources, wrestling with messy EHR and logistics records to create golden profiles for high-risk entity tracking.",
+        "Designed a Graph ML-powered dashboard using Plotly and Azure services to visualize entity relationships and risk scores, providing non-technical stakeholders with an intuitive tool for exploring anomaly detection alerts.",
+        "Spearheaded the integration of the Model Context Protocol (MCP) within our agentic framework, enabling secure, structured communication between risk scoring agents and external compliance databases for enriched context.",
+        "Conducted weekly code reviews and debugging sessions for the risk modeling codebase, focusing on optimizing PyTorch data loaders and graph network algorithms to handle scale while maintaining HIPAA compliance in all data processing.",
+        "Formulated a new approach to supply chain risk modeling by combining graph analytics with traditional machine learning, creating ensemble models that outperformed standalone methods in catching collusive fraud schemes.",
+        "Mentored two junior data scientists on anomaly detection concepts and the practical application of scikit-learn and TensorFlow for risk problems, fostering a culture of rigorous validation and stakeholder communication.",
+        "Troubleshot persistent data drift in our production risk model, implementing automated retraining triggers in Azure ML Studio that used F1-score degradation as a signal, maintaining model accuracy over time.",
+        "Collaborated with IT security to ensure all graph analytics workflows and agentic systems adhered to Public Trust clearance requirements, documenting data lineage and access controls for annual audits.",
+        "Pioneered a proof-of-concept using multi-agent systems for dynamic risk scenario simulation, where agents\u626e\u6f14ed different actors in a supply chain to stress-test our models against novel fraud tactics."
+      ],
+      "environment": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Graph ML Libraries",
+        "Crew AI",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Transformer NLP",
+        "Azure ML Studio",
+        "Azure Databricks",
+        "Azure Data Factory",
+        "Azure Cosmos DB",
+        "Apache Spark",
+        "Precision@K",
+        "ROC-AUC",
+        "F1-score",
+        "Entity Resolution",
+        "Sentiment Analysis",
+        "Anomaly Detection",
+        "Risk Modeling",
+        "FDA Datasets",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Leveraged Python and scikit-learn to build a fraud detection model for insurance claims, tackling inflated billing patterns by implementing anomaly detection algorithms that identified aberrant provider behaviors with high Precision@K.",
+        "Constructed graph analytics pipelines using native Python libraries and NetworkX to model relationships between providers, members, and procedures, uncovering hidden networks engaged in coordinated fraud, which were escalated for investigation.",
+        "Deployed a TensorFlow-based deep learning model for sentiment analysis on member call transcripts, solving the problem of identifying dissatisfied members at risk of churn or fraud, providing explainable insights to retention teams.",
+        "Orchestrated a proof-of-concept using Crew AI and LangGraph to create a multi-agent system for claims triage, where specialized agents performed initial risk scoring, NLP review, and graph checks, streamlining analyst workflow.",
+        "Evaluated and validated multiple risk models using rigorous metrics including ROC-AUC and F1-score, establishing a champion-challenger framework that ensured only the most robust models were promoted to Azure-based production.",
+        "Translated complex model outputs involving graph communities and anomaly scores into clear business language for actuarial and compliance stakeholders, facilitating data-driven decisions on policy and investigation focus.",
+        "Developed entity resolution workflows to deduplicate and link provider records across siloed databases, a tedious but critical process that created a master entity graph for accurate risk attribution and modeling.",
+        "Integrated the anomaly detection models into existing Azure Data Factory pipelines, solving latency issues by optimizing Spark jobs for graph computations, enabling daily risk scoring for millions of claims.",
+        "Authored detailed documentation and conducted training sessions to explain the risk modeling approach and its operational impact to non-technical business units, demystifying the machine learning components.",
+        "Debugged a persistent issue with our graph feature calculation, discovering a data skew problem in provider networks and implementing a sampling solution that restored model performance and stability.",
+        "Applied advanced statistical methods to analyze the temporal patterns of claim submissions, identifying new anomaly types related to timing and frequency that were incorporated into the core risk model.",
+        "Collaborated with the compliance team to align the risk modeling system with insurance regulations, ensuring the model's factors and decisions were auditable and justifiable for regulatory scrutiny.",
+        "Enhanced the explainability of our fraud detection system by implementing LIME and SHAP for individual predictions, allowing investigators to understand the key drivers behind a high-risk score for each claim.",
+        "Participated in daily stand-ups and sprint planning, often advocating for technical debt reduction in the model training code to improve maintainability and speed up experimentation cycles for new risk features."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "Graph Analytics",
+        "Crew AI",
+        "LangGraph",
+        "Anomaly Detection",
+        "Risk Modeling",
+        "Entity Resolution",
+        "Sentiment Analysis",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Apache Spark",
+        "Precision@K",
+        "ROC-AUC",
+        "F1-score",
+        "Model Evaluation",
+        "Explainable AI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Employed AWS SageMaker and scikit-learn to develop a risk modeling prototype for public health dataset analysis, addressing the challenge of identifying anomalous disease reporting patterns across counties for early outbreak signals.",
+        "Built data pipelines in AWS Glue to ingest and transform federal public health datasets, solving data quality inconsistencies to create clean inputs for statistical anomaly detection models used by epidemiologists.",
+        "Assisted in the creation of an entity relationship model to link individuals across health and social service programs, a complex task requiring careful handling of PII to support holistic risk assessments while maintaining privacy.",
+        "Supported the evaluation of various machine learning models for compliance monitoring, calculating ROC-AUC and F1-score metrics to guide the selection of a model for tracking program eligibility anomalies.",
+        "Developed Python scripts for sentiment analysis on public feedback submitted to health agencies, categorizing concerns and extracting key entities to inform risk communication strategies and policy adjustments.",
+        "Participated in client interaction meetings with public health officials, helping to translate technical model capabilities into potential public health actions and explainable insights for program managers.",
+        "Configured and optimized Apache Spark jobs on AWS EMR to run graph analytics algorithms on large-scale social service data, identifying community structures that correlated with higher program utilization risks.",
+        "Maintained and monitored production data pipelines feeding the risk models, routinely troubleshooting failed jobs due to schema changes in source CDC datasets and updating Glue crawlers accordingly.",
+        "Applied statistical techniques like regression and clustering to profile normal vs. anomalous activity in government grant expenditure data, supporting fraud detection efforts in partnership with auditors.",
+        "Contributed to code reviews for the data engineering team, focusing on writing efficient PySpark code for feature engineering that fed into the downstream Python-based risk scoring models.",
+        "Documented the data lineage and transformation logic for all datasets used in risk modeling to ensure reproducibility and compliance with state data governance and Public Trust-related protocols.",
+        "Learned the intricacies of government IT security requirements, applying them to our AWS architecture to ensure all model training and inference processes met stringent data protection standards."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "AWS SageMaker",
+        "AWS Glue",
+        "Amazon EMR",
+        "Apache Spark",
+        "Graph Analytics",
+        "Sentiment Analysis",
+        "Anomaly Detection",
+        "Public Health Datasets",
+        "ROC-AUC",
+        "F1-score",
+        "Entity Relationship Modeling"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Operated Apache Spark and Python to construct large-scale feature engineering pipelines for transaction risk models, addressing the volume challenge of processing billions of records to feed real-time fraud detection systems.",
+        "Implemented foundational anomaly detection algorithms using scikit-learn on AWS SageMaker, focusing on identifying unusual spending patterns and geographic inconsistencies in credit card transactions.",
+        "Supported data scientists by building robust training and validation datasets from AWS Redshift, ensuring temporal splits to prevent data leakage and enable accurate calculation of model metrics like Precision@K.",
+        "Assisted in the development of an entity resolution process to link customer identities across different product systems, a key step in building a unified view for comprehensive risk assessment.",
+        "Maintained and optimized AWS Glue ETL jobs that powered the daily batch risk scoring process, troubleshooting performance issues and implementing partitioning strategies to meet SLA windows.",
+        "Learned the fundamentals of financial risk modeling and PCI-DSS compliance requirements, applying this knowledge to ensure all data pipelines and storage solutions adhered to strict security controls.",
+        "Participated in model deployment activities, containerizing scikit-learn models with Docker and assisting in their integration into the existing AWS Lambda-based inference architecture for fraud scoring.",
+        "Conducted routine data quality checks on the feeds going into risk models, identifying and correcting issues like missing values or incorrect encodings that could degrade model performance.",
+        "Collaborated with the risk analytics team to understand the business logic behind fraud rules, helping to translate some of these rules into engineered features for the machine learning models.",
+        "Attended sprint retrospectives and planning sessions, gradually taking on more responsibility for designing and implementing ETL components for new data sources required by evolving risk models."
+      ],
+      "environment": [
+        "Python",
+        "scikit-learn",
+        "Apache Spark",
+        "AWS SageMaker",
+        "AWS Glue",
+        "Amazon Redshift",
+        "AWS Lambda",
+        "Anomaly Detection",
+        "Feature Engineering",
+        "ETL",
+        "PCI-DSS"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Used Python and SQL to analyze healthcare diagnostic data, performing basic statistical analysis to identify outliers and anomalies in lab test results that could indicate data quality issues or rare medical conditions.",
+        "Assisted senior data scientists with data preparation and visualization for early machine learning proofs-of-concept, creating plots in Matplotlib and Seaborn to explore distributions and relationships in patient data.",
+        "Learned the critical importance of data privacy and HIPAA compliance firsthand while handling de-identified patient datasets, ensuring all analysis followed strict protocols for data use and sharing.",
+        "Supported the evaluation of simple predictive models by helping to calculate basic accuracy metrics and compile results into reports for the clinical research team to review.",
+        "Participated in team meetings where project requirements for anomaly detection in medical images were discussed, absorbing domain knowledge about healthcare risks and regulatory constraints.",
+        "Built and maintained PostgreSQL databases for storing annotated medical data, writing queries to extract datasets for analysis and ensuring data integrity through constraint checks.",
+        "Created dashboard prototypes in Power BI to visualize key metrics from data analysis workflows, presenting them to internal teams for feedback on usability and clarity.",
+        "Engaged in code review sessions, receiving constructive feedback on my Python scripts for data cleaning and beginning to understand the principles of writing maintainable, efficient code for analytics."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "Power BI",
+        "Statistical Analysis",
+        "Data Visualization",
+        "Healthcare Data",
+        "HIPAA"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

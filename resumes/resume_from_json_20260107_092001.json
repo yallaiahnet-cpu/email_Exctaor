@@ -1,0 +1,253 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Lead Data Engineer - Big Data, Streaming Analytics & Cloud Platforms",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-grade data pipelines, specializing in big data processing, streaming analytics, and cloud data platforms across healthcare, insurance, government, and finance domains.",
+    "Designed and architected a scalable event-driven architecture using Apache Kafka and Spark Structured Streaming to ingest real-time patient monitoring data, enabling near real-time analytics for Medline's healthcare operations while ensuring strict HIPAA compliance.",
+    "Orchestrated complex batch data pipelines with Apache Airflow on AWS EMR, processing terabytes of daily insurance claim data for Blue Cross Blue Shield, significantly improving data freshness and reducing operational reporting latency.",
+    "Engineered a cost-optimized data warehousing solution by migrating on-premise SQL Server workloads to Snowflake, implementing dimensional data modeling techniques that enhanced analytics performance for government reporting at the State of Arizona.",
+    "Built a lakehouse architecture utilizing Delta Lake and Parquet formats on Azure Data Lake, consolidating disparate financial transaction data for Discover Financial Services and improving data quality checks for PCI compliance.",
+    "Spearheaded the development of PySpark applications on Hadoop YARN clusters to perform large-scale data processing of healthcare images and records at Sig Tuple, creating analytics-ready datasets for machine learning research.",
+    "Implemented comprehensive data lineage and governance frameworks across all projects, documenting data flows from ingestion to consumption, which streamlined audit processes and met regulatory requirements in each sector.",
+    "Optimized the performance of critical ELT pipeline designs by fine-tuning Spark jobs, partitioning strategies, and cluster configurations, resulting in consistent SLA adherence for time-sensitive business intelligence.",
+    "Led the integration of streaming analytics into traditional batch-oriented ecosystems, introducing Spark Structured Streaming for real-time fraud detection pipelines in financial services, enhancing security monitoring capabilities.",
+    "Championed the adoption of cloud data platforms, migrating legacy on-premise Hive data warehouses to AWS, leveraging S3 for scalable storage and EMR for distributed data processing, which reduced infrastructure costs.",
+    "Developed and enforced data quality checks at each stage of the pipeline, implementing validation rules and anomaly detection that proactively identified issues in insurance premium calculations before impacting downstream reports.",
+    "Collaborated with analytics teams to design and provision analytics enablement platforms, creating curated data marts in Snowflake that accelerated self-service reporting and dashboard development for business users.",
+    "Architected a hybrid cloud data integration solution that connected SaaS applications with on-premise legacy systems for the State of Arizona, ensuring seamless data flow while maintaining government security standards.",
+    "Pioneered the use of agentic frameworks like Crew AI and LangGraph for proof-of-concept projects, exploring multi-agent systems to automate data quality anomaly detection and pipeline monitoring tasks.",
+    "Mentored junior data engineers on best practices for scalable pipeline design, code reviews, and troubleshooting production issues in distributed systems, fostering a culture of reliability and knowledge sharing.",
+    "Conducted detailed cost optimization analyses of cloud data platforms, right-sizing compute resources and implementing lifecycle policies for data storage, which delivered substantial annual savings across projects.",
+    "Established production data reliability standards through rigorous testing, automated recovery procedures, and comprehensive monitoring, achieving high availability for mission-critical healthcare data pipelines.",
+    "Navigated complex domain-specific regulations including HIPAA, PCI-DSS, and government data policies, embedding compliance controls directly into data architecture and processing logic to ensure continuous adherence."
+  ],
+  "technical_skills": {
+    "Programming & Query Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell Scripting"
+    ],
+    "Big Data Processing Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Spark Structured Streaming",
+      "Apache Hadoop",
+      "Hive",
+      "YARN"
+    ],
+    "Streaming & Messaging Platforms": [
+      "Apache Kafka"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS",
+      "AWS EMR",
+      "AWS S3",
+      "Azure"
+    ],
+    "Data Warehousing & Lakehouse": [
+      "Snowflake",
+      "Delta Lake"
+    ],
+    "Orchestration & Workflow Management": [
+      "Apache Airflow"
+    ],
+    "Data Storage Formats": [
+      "Parquet",
+      "JSON",
+      "ORC"
+    ],
+    "Data Modeling & Architecture": [
+      "Dimensional Data Modeling",
+      "Event-Driven Architecture",
+      "Lakehouse Architecture"
+    ],
+    "CI/CD & DevOps": [
+      "CI/CD Pipelines",
+      "Git",
+      "Jenkins"
+    ],
+    "Data Governance & Quality": [
+      "Data Lineage",
+      "Data Governance",
+      "Data Quality Checks"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized Apache Spark and PySpark to address the slow processing of billion-row patient supply chain datasets, developing optimized transformations and caching strategies that cut batch processing time by half, enabling faster inventory analytics.",
+        "Architected a real-time streaming pipeline with Spark Structured Streaming and Apache Kafka to ingest HL7 healthcare events, designing windowed aggregations for patient bed turnover rates that provided near real-time operational visibility to hospital administrators.",
+        "Implemented a lakehouse architecture on AWS S3 using Delta Lake tables to unify batch and streaming data, solving data silo problems across clinical and operational systems, which created a single source of truth for analytics.",
+        "Orchestrated complex ELT pipeline designs with Apache Airflow, managing dependencies between data ingestion, quality checks, and transformation jobs, thereby ensuring reliable daily loads of sensitive PHI data with full HIPAA compliance.",
+        "Engineered dimensional data models in Snowflake for analytics enablement, building conformed dimensions and fact tables from disparate source systems that accelerated dashboard development for supply chain performance reporting.",
+        "Conducted performance tuning on critical EMR clusters by analyzing Spark UI metrics and adjusting executor configurations, resolving memory spill issues that had caused nightly job failures during peak data volumes.",
+        "Spearheaded cost optimization initiatives by implementing lifecycle policies on S3 storage layers and moving historical Parquet files to cheaper tiers, reducing monthly cloud expenditure by twenty-five percent without impacting access.",
+        "Integrated data quality checks directly into pipelines using PySpark assertions and custom validation frameworks, catching anomalies in medical device shipment records before they propagated to downstream financial systems.",
+        "Established comprehensive data lineage and governance documentation using custom metadata tracking, mapping data flows from source EHR systems to consumption layers, which simplified audit responses for healthcare regulators.",
+        "Pioneered a proof-of-concept using Crew AI and LangGraph for a multi-agent system that automated the detection of data drift in patient demographic datasets, exploring agent-to-agent collaboration for proactive monitoring.",
+        "Built scalable pipeline designs that accommodated seasonal surges in healthcare data volume during flu seasons, implementing auto-scaling EMR clusters and parallel processing patterns that maintained SLA performance.",
+        "Led troubleshooting sessions for production pipeline failures, analyzing YARN application logs and Spark executor diagnostics to identify and fix issues with skewed joins on patient identifier columns.",
+        "Collaborated in daily stand-ups and design reviews to align data architecture with clinical analytics requirements, translating business needs for real-time bed capacity into technical streaming specifications.",
+        "Debugged complex data transformation logic in PySpark UDFs that handled de-identification of PHI, ensuring the logic complied with HIPAA Safe Harbor standards while preserving data utility for research teams.",
+        "Mentored mid-level engineers on best practices for writing efficient Spark SQL and managing partition evolution in Delta Lake tables, improving team productivity and code quality across the data platform.",
+        "Championed the adoption of Parquet as the standard columnar storage format for all new datasets, demonstrating its compression and query performance benefits over legacy JSON formats for analytical workloads."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Apache Spark",
+        "Spark Structured Streaming",
+        "Apache Kafka",
+        "AWS",
+        "EMR",
+        "S3",
+        "Snowflake",
+        "Delta Lake",
+        "Apache Airflow",
+        "Parquet",
+        "JSON",
+        "Hadoop",
+        "YARN",
+        "Hive",
+        "CI/CD Pipelines"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Leveraged Apache Airflow to orchestrate daily batch data pipelines processing millions of insurance claims, designing modular DAGs with retry logic and alerts that improved pipeline reliability from ninety-five to ninety-nine point nine percent.",
+        "Developed real-time streaming pipelines with Apache Kafka to capture member eligibility change events, using Spark Structured Streaming to update provider directories within minutes, enhancing accuracy for point-of-service queries.",
+        "Constructed ELT pipeline designs that extracted data from mainframe systems, loaded raw files to S3, and transformed them in Snowflake, reducing the load on operational systems and accelerating financial reporting cycles.",
+        "Modeled dimensional data schemas for insurance analytics, creating star schemas around claims, members, and providers that simplified complex queries for actuarial and underwriting analysis teams.",
+        "Performed performance tuning on sluggish Snowflake queries involving multi-billion row fact tables, implementing clustering keys and materialized views that brought report generation times under service level agreements.",
+        "Executed cost optimization reviews of AWS EMR usage, identifying underutilized clusters and replacing them with spot instances for non-critical jobs, achieving a thirty percent reduction in monthly compute costs.",
+        "Instituted automated data quality checks for premium and claims calculations, writing PySpark tests that validated business rules and flagged discrepancies before data was consumed by regulatory filing processes.",
+        "Documented end-to-end data lineage for critical financial metrics, tracing numbers from source adjudication systems to state insurance commission reports, ensuring transparency for compliance officers.",
+        "Explored proof-of-concepts with agentic frameworks like LangGraph to automate the mapping of legacy insurance code sets to modern standards, initially struggling with state management but achieving a functional prototype.",
+        "Designed distributed data processing systems on YARN to handle large-scale member data enrichment jobs, optimizing resource allocation to prevent job queue backlogs during month-end processing.",
+        "Supported analytics enablement by building curated data marts in Snowflake, providing clean, aggregated datasets that empowered business analysts to create self-service reports without engineering assistance.",
+        "Participated in extensive code reviews for PySpark applications, focusing on schema evolution, null handling, and error logging to ensure robust pipelines capable of handling messy source data.",
+        "Investigated production issues with Kafka consumer lag in streaming pipelines, adjusting fetch sizes and parallelization to maintain near real-time ingestion of provider transaction data.",
+        "Facilitated knowledge-sharing sessions on event-driven architecture patterns, illustrating how to use Kafka events to trigger downstream data quality workflows and cache invalidation processes."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PySpark",
+        "Apache Spark",
+        "Apache Airflow",
+        "Apache Kafka",
+        "AWS",
+        "EMR",
+        "S3",
+        "Snowflake",
+        "Parquet",
+        "CI/CD Pipelines"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Applied Azure Data Factory and PySpark to modernize legacy data ingestion from citizen service portals, building resilient pipelines that handled sporadic data volumes while meeting government availability mandates.",
+        "Engineered batch data pipelines that consolidated public assistance program data from multiple counties into a centralized Azure Data Lake, implementing deduplication logic that created a golden record for each beneficiary.",
+        "Formulated a data warehousing strategy using Snowflake on Azure, designing fact and dimension tables for reporting on unemployment claims that provided the governor's office with daily dashboards during the pandemic.",
+        "Achieved performance tuning for complex geospatial joins in Spark jobs analyzing census tract data, partitioning datasets by county boundaries to speed up processing for demographic reporting applications.",
+        "Conducted cost optimization analysis for Azure Synapse vs. Snowflake, recommending a hybrid approach that balanced performance needs with budget constraints for the state's multi-year data strategy.",
+        "Implemented foundational data quality checks for sensitive personally identifiable information, validating Social Security numbers and addresses against external reference data to ensure accurate benefit distribution.",
+        "Initiated data lineage documentation for federally funded programs, mapping data elements from application forms to Treasury Department reports to satisfy grant compliance and auditing requirements.",
+        "Built analytics-ready datasets from raw JSON application logs, flattening nested structures into relational Parquet files that accelerated the development of public-facing transparency portals.",
+        "Collaborated with security teams to embed data governance controls into pipeline code, ensuring role-based access to sensitive data complied with state privacy laws and public records statutes.",
+        "Debugged nightly pipeline failures caused by schema changes in source CSV files, implementing schema inference and evolution features in Spark to handle new columns without manual intervention.",
+        "Attended weekly change advisory board meetings to coordinate pipeline deployments with other IT service updates, communicating risks and rollback plans for production data system modifications.",
+        "Assisted in troubleshooting data discrepancies reported by program analysts, tracing numbers through transformation logic to identify and correct a misinterpretation of eligibility date boundaries."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PySpark",
+        "Azure",
+        "Snowflake",
+        "Parquet",
+        "JSON",
+        "Apache Spark"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Harnessed Apache Spark to process massive volumes of credit card transaction data, building batch pipelines that aggregated spending patterns for merchant analytics while adhering to strict PCI-DSS data masking requirements.",
+        "Developed streaming analytics prototypes using Spark Streaming to detect potential fraudulent transactions in near real-time, creating windowed aggregations that flagged anomalous spending behavior for further review.",
+        "Constructed ELT pipelines that extracted data from mainframe VSAM files, landed it on Azure Blob Storage, and transformed it using Hive queries, enabling historical trend analysis on decades of transaction data.",
+        "Designed dimensional models for financial product analytics, modeling facts around card issuance, activation, and usage to support business decisions on product features and customer segmentation.",
+        "Performed initial performance tuning on Hive queries running on Hadoop clusters, optimizing join orders and implementing bucketing to improve the speed of daily risk assessment reports.",
+        "Participated in cost optimization discussions for the on-premise Hadoop cluster, recommending data retention policies and compression codecs to extend storage capacity without immediate hardware investment.",
+        "Integrated basic data quality checks into transaction processing pipelines, validating field formats and numerical ranges to ensure the accuracy of downstream financial reconciliation processes.",
+        "Began documenting data lineage for key financial metrics, starting with net credit loss calculations to provide auditors with clear traceability from source systems to regulatory reports.",
+        "Learned the intricacies of financial data governance, working with compliance teams to understand Regulation Z requirements and implement appropriate data handling in pipeline logic.",
+        "Supported senior engineers during production issues, analyzing job tracker logs to identify failed map tasks and assist in reconfiguring memory settings for large-scale sort operations."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Hadoop",
+        "Hive",
+        "Azure",
+        "Parquet"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Employed Python and SQL to analyze healthcare imaging data, writing scripts to calculate statistical distributions of diagnostic features and identify outliers in pathology slide metadata for research teams.",
+        "Assisted in building foundational batch data pipelines that ingested lab results from partner hospitals, standardizing varied CSV and JSON formats into a unified schema for machine learning training datasets.",
+        "Supported the design of early analytics-ready datasets by cleaning and structuring raw patient data, ensuring proper de-identification to meet HIPAA privacy standards before researcher access.",
+        "Learned dimensional data modeling concepts by contributing to the design of a simple star schema for tracking sample processing throughput across different laboratory instruments and locations.",
+        "Conducted basic performance tuning on PostgreSQL queries used by internal dashboards, adding indexes to frequently filtered columns and rewriting subqueries as joins to improve dashboard load times.",
+        "Observed cost optimization principles by helping archive old research data from expensive production databases to compressed flat files, maintaining access for compliance without ongoing database costs.",
+        "Participated in implementing initial data quality checks for incoming digital pathology images, validating file integrity, metadata completeness, and ensuring they matched associated patient records.",
+        "Began understanding data lineage by documenting the flow of a single patient's data from slide scanner through feature extraction pipelines to final research publication, learning traceability importance."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "JSON"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

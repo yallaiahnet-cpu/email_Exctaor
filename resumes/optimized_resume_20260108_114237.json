@@ -1,0 +1,206 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Java Developer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Core Java and Spring Boot to develop scalable backend applications, ensuring high performance and reliability in an agile environment.",
+    "Engineered microservices architectures using Spring Boot, enhancing system modularity and scalability for complex applications.",
+    "Implemented REST APIs with Spring Boot, facilitating seamless communication between frontend and backend systems.",
+    "Integrated Hibernate/JPA for efficient ORM, streamlining database interactions and improving data access performance.",
+    "Optimized SQL queries to enhance database performance, ensuring faster response times for critical applications.",
+    "Implemented CI/CD pipelines using Jenkins and GitHub Actions, automating testing and deployment processes for faster releases.",
+    "Collaborated with cross-functional teams to design and deploy microservices, improving system resilience and maintainability.",
+    "Applied Java 8+ features like streams and lambdas to write cleaner, more efficient code, reducing development time.",
+    "Developed and maintained RESTful APIs, ensuring compliance with industry standards and best practices for API design.",
+    "Worked with Docker and Kubernetes to containerize applications, enabling consistent deployment across environments.",
+    "Integrated Kafka for real-time data streaming, enhancing data processing capabilities in high-throughput systems.",
+    "Implemented cloud-native solutions on AWS, leveraging services like EC2 and RDS for scalable and secure applications.",
+    "Conducted code reviews and debugging sessions to identify and resolve performance bottlenecks in Java applications.",
+    "Participated in agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives for continuous improvement.",
+    "Automated repetitive tasks using shell scripts, freeing up time for more complex problem-solving activities.",
+    "Mentored junior developers in Java best practices, fostering a culture of knowledge sharing and team growth.",
+    "Ensolved complex technical challenges through iterative problem-solving, learning from failures and adapting strategies.",
+    "Delivered high-quality software solutions on time, balancing multiple priorities in a fast-paced development environment."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Boot",
+      "Hibernate",
+      "JPA",
+      "REST APIs",
+      "Microservices"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "Cloud Platforms": [
+      "AWS (EC2, RDS, S3)",
+      "Azure (App Services, SQL Database)"
+    ],
+    "DevOps & CI/CD": [
+      "Jenkins",
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes",
+      "Git"
+    ],
+    "Messaging & Streaming": [
+      "Apache Kafka"
+    ],
+    "Development Tools": [
+      "IntelliJ IDEA",
+      "Eclipse",
+      "Postman",
+      "Jira",
+      "Confluence"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Java Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized Spring Boot to develop microservices, improving system scalability and reducing deployment complexity.",
+        "Implemented REST APIs using Spring Boot, ensuring seamless integration with frontend applications and third-party services.",
+        "Optimized SQL queries with Hibernate/JPA, enhancing data retrieval performance and reducing latency.",
+        "Integrated Jenkins for CI/CD pipelines, automating testing and deployment processes for faster releases.",
+        "Collaborated with DevOps teams to containerize applications using Docker, ensuring consistent environments across development and production.",
+        "Implemented Kafka for real-time data streaming, improving data processing efficiency in high-volume systems.",
+        "Deployed applications on AWS EC2 and RDS, leveraging cloud services for scalable and secure solutions.",
+        "Conducted code reviews and debugging sessions to identify and resolve performance issues in Java applications.",
+        "Participated in agile sprints, contributing to daily stand-ups, sprint planning, and retrospectives for continuous improvement.",
+        "Automated repetitive tasks using shell scripts, freeing up time for more complex problem-solving activities.",
+        "Mentored junior developers in Java best practices, fostering a culture of knowledge sharing and team growth.",
+        "Resolved complex technical challenges through iterative problem-solving, learning from failures and adapting strategies.",
+        "Delivered high-quality software solutions on time, balancing multiple priorities in a fast-paced development environment.",
+        "Implemented Java 8+ features like streams and lambdas to write cleaner, more efficient code, reducing development time.",
+        "Worked with cross-functional teams to design and deploy microservices, improving system resilience and maintainability.",
+        "Ensured compliance with industry standards and best practices for API design and implementation."
+      ],
+      "environment": [
+        "Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, SQL, Jenkins, Docker, Kubernetes, AWS, Kafka"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed scalable backend applications using Core Java and Spring Boot, ensuring high performance and reliability.",
+        "Engineered microservices architectures with Spring Boot, enhancing system modularity and scalability.",
+        "Implemented REST APIs for seamless communication between frontend and backend systems.",
+        "Integrated Hibernate/JPA for efficient ORM, streamlining database interactions and improving performance.",
+        "Optimized SQL queries to enhance database performance, ensuring faster response times.",
+        "Set up CI/CD pipelines using Jenkins and GitHub Actions, automating testing and deployment processes.",
+        "Collaborated with teams to design and deploy microservices, improving system resilience and maintainability.",
+        "Applied Java 8+ features to write cleaner, more efficient code, reducing development time.",
+        "Developed and maintained RESTful APIs, ensuring compliance with industry standards.",
+        "Worked with Docker to containerize applications, enabling consistent deployment across environments.",
+        "Integrated Kafka for real-time data streaming, enhancing data processing capabilities.",
+        "Implemented cloud-native solutions on AWS, leveraging services like EC2 and RDS.",
+        "Conducted code reviews and debugging sessions to resolve performance bottlenecks.",
+        "Participated in agile ceremonies, contributing to sprint planning and retrospectives."
+      ],
+      "environment": [
+        "Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, SQL, Jenkins, Docker, AWS, Kafka"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed backend applications using Core Java and Spring Boot, focusing on scalability and performance.",
+        "Implemented microservices architectures with Spring Boot, improving system modularity.",
+        "Created REST APIs for seamless frontend-backend communication.",
+        "Integrated Hibernate/JPA for efficient database interactions.",
+        "Optimized SQL queries to enhance database performance.",
+        "Set up CI/CD pipelines using Jenkins, automating testing and deployment.",
+        "Collaborated on microservices design and deployment, improving system resilience.",
+        "Applied Java 8+ features for cleaner, more efficient code.",
+        "Developed and maintained RESTful APIs, ensuring industry compliance.",
+        "Worked with Docker for consistent application deployment.",
+        "Integrated Kafka for real-time data streaming.",
+        "Implemented AWS solutions for scalable and secure applications."
+      ],
+      "environment": [
+        "Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, SQL, Jenkins, Docker, AWS, Kafka"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed backend applications using Core Java and Spring Boot.",
+        "Implemented microservices with Spring Boot for system scalability.",
+        "Created REST APIs for frontend-backend integration.",
+        "Integrated Hibernate/JPA for efficient database operations.",
+        "Optimized SQL queries for improved performance.",
+        "Set up CI/CD pipelines with Jenkins for automation.",
+        "Collaborated on microservices design and deployment.",
+        "Applied Java 8+ features for code efficiency.",
+        "Developed and maintained RESTful APIs.",
+        "Worked with Docker for application containerization."
+      ],
+      "environment": [
+        "Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, SQL, Jenkins, Docker"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed backend applications using Core Java.",
+        "Implemented Spring Boot for building scalable applications.",
+        "Created REST APIs for system integration.",
+        "Integrated Hibernate for database interactions.",
+        "Optimized SQL queries for performance.",
+        "Set up CI/CD pipelines with Jenkins.",
+        "Collaborated on application design and deployment.",
+        "Applied Java features for efficient coding.",
+        "Developed and maintained APIs."
+      ],
+      "environment": [
+        "Java, Spring Boot, REST APIs, Hibernate, SQL, Jenkins"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Oracle Certified Professional: Java SE 8 Programmer",
+    "Spring Professional Certification",
+    "AWS Certified Developer - Associate",
+    "Docker Certified Associate"
+  ]
+}

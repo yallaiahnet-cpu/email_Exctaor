@@ -1,0 +1,297 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Databricks Data Engineer - Healthcare & Insurance Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering with specialized expertise in building and optimizing Databricks lakehouse architectures for enterprise-scale healthcare, insurance, government, and financial domains.",
+    "Architected and implemented a centralized Delta Lake on Azure Databricks to unify disparate electronic health record systems, enabling real-time analytics on patient data while maintaining strict HIPAA compliance through column-level encryption and access governance policies.",
+    "Engineered complex PySpark data pipelines within Databricks for processing insurance claim adjudication data, utilizing advanced window functions and query optimization techniques to reduce report generation time from hours to minutes for Blue Cross Blue Shield.",
+    "Orchestrated end-to-end ELT patterns using dbt Core and dbt Cloud to transform raw governmental census data into consumable dimensional models, implementing data lifecycle management and incremental load strategies to handle terabytes of historical information.",
+    "Spearheaded the migration of on-premise SQL Server databases to a cloud-native Azure Databricks environment, designing distributed processing frameworks that improved data throughput by 400% while reducing infrastructure costs through intelligent cluster optimization.",
+    "Developed comprehensive data asset modeling methodologies for financial transaction systems, creating a unified business glossary and lineage documentation that enhanced data discovery and trust across Discover Financial Services' analytics teams.",
+    "Implemented robust observability patterns within Databricks workflows, integrating logging, metrics collection, and automated alerting mechanisms that proactively identified data quality issues before impacting downstream healthcare dashboards.",
+    "Designed and tuned high-performance Spark jobs for real-time Medicare eligibility verification, applying partitioning strategies, broadcast joins, and catalyst optimizer configurations to handle peak loads of 50,000 concurrent requests.",
+    "Established CI/CD pipelines using Azure DevOps and Git for Databricks notebooks and dbt projects, enabling seamless deployment workflows and version control across development, testing, and production environments.",
+    "Built multi-agent proof-of-concept systems using Crew AI and LangGraph frameworks to automate data quality monitoring, where specialized agents collaboratively identified anomalies in healthcare datasets and triggered remediation workflows.",
+    "Led performance tuning initiatives for critical data pipelines, debugging memory spill issues and skew problems in Spark applications through careful examination of execution plans and strategic repartitioning of large Delta tables.",
+    "Created monitoring dashboards using Databricks SQL endpoints that provided real-time visibility into pipeline health, cluster utilization metrics, and data freshness SLAs for executive stakeholders across multiple healthcare domains.",
+    "Governed the enterprise data lakehouse implementation by enforcing Delta Lake best practices including time travel, schema evolution, and vacuum policies, ensuring reliable data recovery capabilities for audit and compliance requirements.",
+    "Collaborated with data scientists to operationalize machine learning models within Databricks, building feature stores and model serving infrastructure that accelerated the deployment of predictive analytics for patient readmission risks.",
+    "Mentored junior engineers on distributed processing concepts and PySpark optimization techniques, conducting code reviews and knowledge sharing sessions that elevated the entire team's ability to deliver production-ready data solutions.",
+    "Automated the deployment and configuration of Databricks workspaces using Infrastructure as Code principles, ensuring consistent security settings and cluster policies across multiple Azure subscriptions and regions.",
+    "Integrated dbt transformation layers with Delta Live Tables to create reliable streaming pipelines for insurance premium calculations, implementing slowly changing dimension patterns that maintained accurate historical records for regulatory reporting.",
+    "Championed data reliability engineering practices by implementing comprehensive test suites in dbt, establishing data quality thresholds that prevented erroneous data from propagating through healthcare analytics platforms."
+  ],
+  "technical_skills": {
+    "Data Engineering & Processing": [
+      "Databricks",
+      "Apache Spark",
+      "PySpark",
+      "Distributed Processing",
+      "Delta Lake",
+      "Lakehouse Architecture"
+    ],
+    "Data Transformation & Modeling": [
+      "dbt Core",
+      "dbt Cloud",
+      "ELT Patterns",
+      "Advanced SQL",
+      "Query Optimization",
+      "Data Asset Modeling"
+    ],
+    "Cloud Platform & Services": [
+      "Azure Databricks",
+      "Azure Data Factory",
+      "Azure Synapse",
+      "Azure DevOps",
+      "Azure Storage"
+    ],
+    "Data Governance & Management": [
+      "Delta Lake Governance",
+      "Data Lifecycle Management",
+      "Data Lineage",
+      "Access Controls",
+      "Compliance Frameworks"
+    ],
+    "Performance & Optimization": [
+      "Performance Tuning",
+      "Cluster Optimization",
+      "Spark Configuration",
+      "Partitioning Strategies",
+      "Memory Management"
+    ],
+    "Observability & Reliability": [
+      "Logging",
+      "Metrics Collection",
+      "Alerting Systems",
+      "Monitoring Dashboards",
+      "Data Quality Monitoring"
+    ],
+    "DevOps & Automation": [
+      "Git",
+      "CI/CD Pipelines",
+      "Release Automation",
+      "Deployment Workflows",
+      "Infrastructure as Code"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Bash/Shell Scripting"
+    ],
+    "Data Storage & Formats": [
+      "Delta Lake",
+      "Parquet",
+      "ORC",
+      "Avro",
+      "JSON"
+    ],
+    "Agentic Frameworks & POCs": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Proof of Concept Development"
+    ],
+    "Domain Expertise": [
+      "Healthcare (HIPAA)",
+      "Insurance Regulations",
+      "Government Compliance",
+      "Financial (PCI)",
+      "Data Privacy"
+    ],
+    "Orchestration & Scheduling": [
+      "Apache Airflow",
+      "Databricks Workflows",
+      "Azure Data Factory Pipelines",
+      "Job Scheduling"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected a healthcare data lakehouse on Azure Databricks using Delta Lake to consolidate patient records, supply chain data, and clinical outcomes, implementing governance policies for HIPAA-compliant data access and audit trails across the organization.",
+        "Engineered PySpark streaming pipelines that processed real-time medical device telemetry data, utilizing window functions and watermarking to detect equipment anomalies while maintaining strict data quality thresholds for patient safety monitoring.",
+        "Orchestrated dbt Cloud transformations to create unified product dimension tables from disparate ERP systems, implementing incremental models and snapshotting strategies that reduced transformation time by 65% for nightly business intelligence loads.",
+        "Spearheaded the implementation of multi-agent systems using Crew AI and LangGraph frameworks, where specialized agents collaboratively validated clinical trial data, identified protocol deviations, and generated automated compliance reports for FDA submissions.",
+        "Optimized Spark clusters for memory-intensive genomic data processing jobs, configuring dynamic allocation and instance type selection that improved processing throughput by 300% while reducing Azure compute costs through intelligent autoscaling policies.",
+        "Developed comprehensive monitoring dashboards in Databricks SQL that tracked data pipeline performance, data freshness SLAs, and quality metrics across healthcare domains, enabling proactive identification of issues before impacting clinical decision support systems.",
+        "Governed the enterprise Delta Lake implementation by enforcing schema evolution controls, retention policies, and time travel capabilities that ensured reliable data recovery for audit purposes and regulatory compliance investigations.",
+        "Implemented automated alerting mechanisms using Databricks workflow notifications and Azure Monitor, creating escalation paths for data quality breaches that could impact patient safety or medication administration processes.",
+        "Designed and deployed CI/CD pipelines for dbt models and Databricks notebooks using Azure DevOps, establishing Git-based version control and automated testing that accelerated feature deployment from weeks to days across development teams.",
+        "Constructed proof-of-concept systems using Model Context Protocol for agent-to-agent communication, enabling autonomous validation of healthcare data quality through collaborative workflows between data profiling, anomaly detection, and remediation agents.",
+        "Debugged complex Spark job failures during peak processing of hospital census data, analyzing executor logs and heap dumps to identify memory leaks in user-defined functions, then refactoring code to utilize DataFrame operations instead.",
+        "Established data asset modeling frameworks that documented business definitions, technical lineage, and ownership details for critical healthcare datasets, improving data discoverability and trust among clinical research and analytics teams.",
+        "Configured Delta Live Tables for streaming ingestion of pharmacy inventory data, implementing change data capture patterns and merge operations that maintained real-time inventory visibility across Medline's distribution network.",
+        "Mentored junior data engineers on distributed processing best practices, conducting weekly code reviews and pair programming sessions that improved team productivity and adherence to healthcare data security standards.",
+        "Championed the adoption of observability tooling by instrumenting data pipelines with custom logging and metrics collection, creating visibility into data lineage and transformation quality throughout the healthcare analytics ecosystem.",
+        "Automated the deployment of Databricks workspaces across multiple Azure regions using Terraform, ensuring consistent security configurations and cluster policies for development, testing, and production environments supporting global operations."
+      ],
+      "environment": [
+        "Databricks",
+        "Delta Lake",
+        "PySpark",
+        "Azure",
+        "dbt Cloud",
+        "Crew AI",
+        "LangGraph",
+        "Git",
+        "CI/CD",
+        "Apache Spark",
+        "SQL",
+        "ELT Patterns",
+        "Lakehouse",
+        "Governance",
+        "Observability"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Built insurance claims processing pipelines on Azure Databricks utilizing PySpark for distributed ETL operations, transforming raw adjudication data into analytical models that supported member eligibility and benefit determinations.",
+        "Designed and implemented dbt Core transformations that created conformed dimensions for provider networks and member demographics, implementing incremental load strategies that handled billions of claim records while meeting SLA requirements.",
+        "Optimized complex SQL queries for member analytics dashboards, applying query optimization techniques including predicate pushdown, partition pruning, and statistics-based join reordering that improved dashboard load times by 70%.",
+        "Established data lifecycle management policies for insurance policy documents, implementing automated archival and purge processes in Delta Lake that maintained compliance with state insurance regulations and data retention requirements.",
+        "Configured performance tuning parameters for Spark jobs processing healthcare provider directories, adjusting memory fractions, shuffle partitions, and serializer settings to eliminate out-of-memory errors during geographic network adequacy analyses.",
+        "Developed logging frameworks for data pipelines that captured detailed lineage information and transformation metrics, enabling rapid debugging of data quality issues affecting premium calculation and risk adjustment processes.",
+        "Implemented alerting systems that monitored data freshness and completeness for critical insurance domains, triggering automated notifications and remediation workflows when source system extracts failed or were delayed beyond thresholds.",
+        "Created monitoring dashboards using Databricks SQL that visualized pipeline execution trends, cluster utilization patterns, and data quality scores, providing operational visibility to both technical teams and business stakeholders.",
+        "Engineered proof-of-concept multi-agent systems using Crew AI frameworks to automate the validation of insurance rate filings, where specialized agents collaborated to verify calculation logic and compliance with state insurance regulations.",
+        "Governed the insurance data lakehouse by implementing Delta Lake access controls and audit logging, ensuring that sensitive member health information was protected according to HIPAA privacy and security rule requirements.",
+        "Established CI/CD workflows for dbt projects using Git and Azure DevOps, implementing automated testing of data models and documentation generation that improved collaboration between data engineering and actuarial teams.",
+        "Debugged performance bottlenecks in provider network analysis jobs, utilizing Spark UI to identify skew in geographic distribution data and implementing salting techniques that balanced workload across executors more effectively.",
+        "Constructed data asset models that documented business definitions and technical specifications for insurance domains including claims, members, providers, and benefits, creating a unified vocabulary across state-level Blue Cross organizations.",
+        "Orchestrated the migration of legacy SAS insurance analytics to Databricks and dbt, transforming complex statistical procedures into scalable PySpark implementations that could process entire state member populations efficiently."
+      ],
+      "environment": [
+        "Databricks",
+        "Apache Spark",
+        "dbt Core",
+        "Delta Lake",
+        "Azure",
+        "PySpark",
+        "SQL",
+        "ELT",
+        "Lakehouse",
+        "Git",
+        "CI/CD",
+        "Governance",
+        "Performance Tuning",
+        "Observability"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Developed AWS-based data pipelines for governmental public health reporting, utilizing Spark to transform COVID-19 case data from disparate county systems into standardized formats for CDC submission and public dashboarding.",
+        "Implemented dbt transformations for Arizona unemployment claims data, creating dimensional models that supported analytics on claim volumes, processing times, and fraud detection while maintaining data privacy for citizen information.",
+        "Optimized Spark SQL queries for voter registration analysis, applying broadcast join hints and partition optimizations that reduced query execution time by 60% during high-volume election preparation periods.",
+        "Established data governance frameworks for sensitive citizen data, implementing access controls and audit trails in Delta Lake that ensured compliance with Arizona public records laws and data privacy regulations.",
+        "Configured performance monitoring for critical government data pipelines, setting up alerting thresholds for job durations and data quality metrics that ensured timely delivery of legislative reporting requirements.",
+        "Debugged data pipeline failures during annual tax revenue processing, analyzing Spark execution plans to identify Cartesian product joins and refactoring queries to utilize window functions instead of self-joins.",
+        "Built monitoring dashboards for public health department stakeholders, visualizing data pipeline status and data quality metrics for COVID-19 testing, vaccination, and hospitalization datasets used for policy decisions.",
+        "Implemented CI/CD practices for governmental data projects using Git and Jenkins, establishing deployment workflows that included security scanning and compliance validation for code handling sensitive citizen information.",
+        "Designed data lifecycle management processes for temporary pandemic assistance programs, creating automated archival procedures that maintained historical records while removing eligibility data after program sunset dates.",
+        "Governed the state data lake implementation by enforcing Delta Lake best practices including schema validation, data versioning, and time travel capabilities for audit and transparency requirements.",
+        "Orchestrated the migration of on-premise governmental databases to cloud-based data platforms, transforming legacy ETL processes into modern ELT patterns using dbt and Spark for improved maintainability and scalability.",
+        "Established logging standards for all governmental data pipelines, ensuring comprehensive audit trails that documented data lineage, transformation logic, and access patterns for compliance with public records requests."
+      ],
+      "environment": [
+        "AWS",
+        "Apache Spark",
+        "Delta Lake",
+        "dbt",
+        "SQL",
+        "ELT Patterns",
+        "Data Governance",
+        "Performance Tuning",
+        "CI/CD",
+        "Git",
+        "Data Management",
+        "Observability"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Engineered AWS-based data pipelines for credit card transaction processing, utilizing Spark to detect fraudulent patterns in real-time while maintaining PCI DSS compliance through encryption and access control mechanisms.",
+        "Implemented dbt transformations for customer financial behavior models, creating feature stores that supported machine learning algorithms for credit risk assessment and personalized marketing campaigns.",
+        "Optimized Spark jobs for monthly financial statement generation, tuning shuffle partitions and memory settings to handle peak processing of billions of transactions during quarter-end closing periods.",
+        "Established data governance policies for sensitive financial information, implementing column-level encryption in Delta Lake and audit logging that satisfied regulatory requirements for financial data protection.",
+        "Configured performance monitoring for real-time fraud detection pipelines, setting up alerts for latency increases or data quality issues that could impact the effectiveness of transaction scoring models.",
+        "Debugged data pipeline failures during holiday season transaction spikes, analyzing executor logs to identify skew in merchant category data and implementing custom partitioning strategies to balance processing loads.",
+        "Built operational dashboards for financial compliance teams, visualizing data pipeline metrics and data quality scores for regulatory reporting submissions to federal banking authorities.",
+        "Implemented CI/CD workflows for financial data projects using Git and Jenkins, establishing code review requirements and automated testing for changes to critical transaction processing logic.",
+        "Designed data lifecycle management procedures for customer financial records, creating retention policies that balanced business analytics needs with regulatory requirements for data minimization and privacy.",
+        "Governed the financial data lake implementation by enforcing Delta Lake schema evolution controls and data quality checks that ensured reliable reporting for SEC filings and investor communications."
+      ],
+      "environment": [
+        "AWS",
+        "Apache Spark",
+        "Delta Lake",
+        "dbt",
+        "SQL",
+        "Financial Regulations",
+        "PCI Compliance",
+        "Data Governance",
+        "Performance Tuning",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Developed SQL-based analytics for healthcare diagnostic data, creating queries that analyzed patterns in medical imaging results and patient outcomes to support clinical research and diagnostic algorithm improvements.",
+        "Implemented data transformation pipelines using Python and SQL, standardizing laboratory test results from various hospital information systems into unified formats for machine learning model training and validation.",
+        "Optimized database queries for patient cohort analysis, applying indexing strategies and query restructuring that improved report generation times for clinical studies on disease progression and treatment effectiveness.",
+        "Established data quality checks for medical imaging metadata, implementing validation rules that ensured completeness and accuracy of diagnostic information used for training AI-based diagnostic assistance systems.",
+        "Configured basic monitoring for healthcare data pipelines, setting up alerts for data extraction failures or unusual patterns in laboratory test volumes that could indicate systemic issues with diagnostic equipment.",
+        "Debugged data integration issues between hospital EHR systems and research databases, analyzing data discrepancies and working with clinical teams to establish reconciliation processes for patient diagnostic information.",
+        "Built analytical dashboards for healthcare researchers using Python visualization libraries, creating interactive charts that explored relationships between diagnostic markers, patient demographics, and clinical outcomes.",
+        "Implemented version control practices for analytical code using Git, establishing collaborative workflows for clinical research projects that required reproducible analysis of sensitive patient health information."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Analysis",
+        "Data Visualization",
+        "Database Optimization",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,313 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Looker + Google BigQuery Architect (BI Solutioning Lead)",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in enterprise BI architecture and data platform engineering, specializing in Looker and Google BigQuery.",
+    "Architected end-to-end Looker semantic layers across multiple regulated domains, implementing governed LookML for finance, healthcare, and insurance analytics.",
+    "Led Jira-based agile delivery for BI managed services, breaking architecture into epics, stories, and tasks to ensure predictable SLA and velocity outcomes.",
+    "Designed and governed BigQuery data architectures with rigorous partitioning, clustering, and cost optimization strategies for large-scale enterprise datasets.",
+    "Translated complex business KPIs into scalable analytics solutions, developing Looker dashboards for sales, product, and operations leadership teams.",
+    "Established comprehensive BI governance frameworks, implementing row-level and column-level security to meet HIPAA, PCI, and government regulations.",
+    "Partnered closely with data engineering teams to ensure fresh, reliable datasets, building automated pipelines and proactive health monitoring systems.",
+    "Owned BigQuery query performance and cost governance, establishing SLAs, monitoring, and alerting to optimize spend and ensure user satisfaction.",
+    "Drove governed self-service analytics programs, mentoring BI analysts and developers on Looker best practices and enterprise BI standards.",
+    "Collaborated with product owners and business stakeholders to define requirements, prioritize backlogs, and manage dependencies across delivery teams.",
+    "Implemented Looker embedded analytics and API integrations, enabling seamless data experiences within custom applications and agentic frameworks.",
+    "Explored AI/ML-driven insights within the Looker ecosystem, prototyping multi-agent systems and proof-of-concepts for advanced analytical workflows.",
+    "Enforced enterprise BI standards through rigorous architecture guidance, design reviews, and performance feedback for BI delivery team members.",
+    "Automated reporting and analytics processes using Looker Blocks and custom development, significantly reducing manual effort and cycle times.",
+    "Managed full BI solution lifecycle within an AMS model, from architecture and development to deployment, support, and continuous optimization.",
+    "Leveraged dbt alongside BigQuery to transform and model data, creating robust, documented data products for the Looker semantic layer.",
+    "Proactively conducted BI health checks and observability assessments, identifying performance bottlenecks and implementing corrective actions.",
+    "Owned delivery metrics tracking, analyzing velocity, SLA adherence, and cycle time to drive continuous improvement in BI development processes."
+  ],
+  "technical_skills": {
+    "BI & Analytics Platforms": [
+      "Looker",
+      "LookML",
+      "Looker API",
+      "Looker Blocks",
+      "Tableau",
+      "Power BI",
+      "Embedded Analytics"
+    ],
+    "Cloud Data Warehouses": [
+      "Google BigQuery",
+      "Partitioning",
+      "Clustering",
+      "Cost Optimization",
+      "Google Cloud Platform",
+      "BigQuery ML"
+    ],
+    "Data Transformation & Modeling": [
+      "dbt",
+      "Dataform",
+      "SQL",
+      "Advanced SQL",
+      "Query Performance Optimization",
+      "Semantic Layer Design"
+    ],
+    "Data Engineering & ETL": [
+      "Apache Airflow",
+      "Google Cloud Composer",
+      "Data Pipelines",
+      "Data Freshness Management",
+      "CDC"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "JavaScript",
+      "Looker API Integrations"
+    ],
+    "DevOps & CI/CD": [
+      "Jira",
+      "Agile Delivery",
+      "Git",
+      "GitHub Actions",
+      "Terraform",
+      "Sprint Planning"
+    ],
+    "Data Governance & Security": [
+      "Row-Level Security",
+      "Column-Level Security",
+      "Access Controls",
+      "BI Security",
+      "HIPAA Compliance",
+      "GDPR"
+    ],
+    "Cloud Services (GCP)": [
+      "Google BigQuery",
+      "Cloud Storage",
+      "Cloud Functions",
+      "Vertex AI",
+      "Cloud SQL",
+      "IAM"
+    ],
+    "Agentic & AI Frameworks": [
+      "Crew AI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Proof of Concepts",
+      "RAG Pipelines"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "Cloud SQL"
+    ],
+    "Observability & Monitoring": [
+      "SLA Monitoring",
+      "Alerting",
+      "BI Health Checks",
+      "Performance Dashboards",
+      "Logging"
+    ],
+    "Delivery Management": [
+      "Jira Boards",
+      "Epic/Story/Task Breakdown",
+      "Backlog Grooming",
+      "Dependency Management",
+      "Velocity Tracking"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilized Looker and LookML to architect a new enterprise semantic layer, addressing disjointed healthcare analytics by centralizing KPIs for supply chain and inventory management, enabling unified reporting.",
+        "Employed Google BigQuery partitioning and clustering strategies to tackle spiraling query costs on patient data, redesigning table structures and implementing cost governance dashboards that reduced monthly spend.",
+        "Led the Jira-based agile delivery for the BI team, converting architectural blueprints into prioritized epics and stories, which improved sprint velocity and predictability for HIPAA-compliant dashboard releases.",
+        "Implemented row-level security in Looker to resolve data exposure risks for PHI, crafting dynamic user attributes and access filters that ensured strict compartmentalization per healthcare compliance mandates.",
+        "Orchestrated a partnership with data engineering using Apache Airflow on GCP, solving dataset freshness issues by building monitored pipelines that guaranteed SLAs for critical operational reports.",
+        "Designed and developed a suite of Looker dashboards for finance and operations, translating complex business requirements into intuitive visualizations that drove strategic decisions for medical supply logistics.",
+        "Pioneered a governed self-service analytics program by mentoring analysts on Looker Explores, establishing clear development standards that reduced rogue report creation and maintained data integrity.",
+        "Championed BigQuery performance optimization through rigorous query reviews and indexing, addressing slow-running reports on patient trends and reducing average execution time significantly.",
+        "Integrated Looker with emerging agentic frameworks like Crew AI for a proof-of-concept, exploring multi-agent systems to automate insight generation from clinical and operational data streams.",
+        "Established proactive BI health checks and observability using custom monitoring, identifying and resolving a silent data drift issue in provider datasets before it impacted executive reviews.",
+        "Authored comprehensive architecture guidance documents and conducted design reviews for all new Looker development, enforcing enterprise standards across the expanding BI developer team.",
+        "Collaborated with cloud operations to implement column-level security for sensitive financial data, adding an extra governance layer for revenue cycle management reports in a regulated environment.",
+        "Automated key reporting processes using the Looker API and scheduled downloads, eliminating manual weekly tasks for the finance team and allowing them to focus on analysis over compilation.",
+        "Explored AI-driven insights by prototyping BigQuery ML models within the Looker environment, demonstrating predictive analytics for inventory demand forecasting to skeptical stakeholders.",
+        "Managed complex dependencies between BI deliverables and upstream data engineering projects via meticulous Jira tracking, preventing delays in the rollout of a new product analytics module.",
+        "Drove skill development for junior BI engineers through hands-on feedback sessions on LookML code, fostering a culture of quality and attention to detail in healthcare data presentation."
+      ],
+      "environment": [
+        "Looker",
+        "LookML",
+        "Google BigQuery",
+        "GCP",
+        "Partitioning",
+        "Clustering",
+        "Cost Optimization",
+        "Row-Level Security",
+        "Column-Level Security",
+        "Jira",
+        "Agile Delivery",
+        "Apache Airflow",
+        "dbt",
+        "Advanced SQL",
+        "Looker API",
+        "Crew AI",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "HIPAA Compliance",
+        "BI Governance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Architected a scalable BigQuery data platform on AWS to centralize claims and member data, solving legacy system fragmentation and enabling faster analytics for insurance underwriting decisions.",
+        "Developed a robust Looker semantic layer with dbt transformations, addressing inconsistent metric definitions across business units by establishing a single source of truth for key insurance KPIs.",
+        "Implemented granular row-level security in Looker to manage access for sensitive member health information, ensuring strict compliance with insurance regulations and internal data policies.",
+        "Led the design of executive dashboards for sales and product leadership, translating complex insurance product performance data into actionable visual insights that guided portfolio strategy.",
+        "Partnered with data engineering to establish SLAs for dataset freshness, building monitoring and alerting for ETL pipelines that fed critical claims adjudication reporting.",
+        "Optimized costly and slow-running BigQuery queries for actuarial models by refining JOIN logic and applying clustering, which improved performance and reduced cloud spend.",
+        "Mentored a team of BI analysts on self-service best practices within Looker, creating training materials and hosting office hours to build analytics competency across the insurance domain.",
+        "Governed the BI development lifecycle using Jira boards, breaking down project requirements into manageable stories and tasks that streamlined delivery for rate analysis projects.",
+        "Conducted proactive performance audits on the Looker instance, identifying underutilized explores and recommending archiving strategies to simplify the user experience for analysts.",
+        "Collaborated with IT security teams to enhance column-level security protocols, adding protection for personally identifiable information within member eligibility reports.",
+        "Explored proof-of-concept multi-agent systems using emerging frameworks to automate routine report generation and distribution, freeing up analyst time for deeper investigative work.",
+        "Established a cost governance framework for BigQuery usage, creating dashboards that tracked spend by team and query, leading to more accountable and efficient resource utilization.",
+        "Facilitated backlog grooming sessions with product owners from claims and care management, ensuring BI development priorities aligned with evolving business needs in the insurance sector.",
+        "Drove the adoption of Looker Blocks for common insurance analytics patterns, accelerating dashboard development for new state-specific Medicaid and CHIP program reporting requirements."
+      ],
+      "environment": [
+        "Looker",
+        "BigQuery",
+        "AWS",
+        "dbt",
+        "Row-Level Security",
+        "Column-Level Security",
+        "Jira",
+        "Agile Delivery",
+        "SQL",
+        "Query Performance",
+        "Cost Governance",
+        "LookML",
+        "Insurance Regulations",
+        "SLA Monitoring",
+        "BI Architecture",
+        "Self-Service Analytics"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Designed and implemented a BigQuery data warehouse on AWS to consolidate disparate government agency data, addressing reporting latency issues for public health and social service programs.",
+        "Built foundational Looker dashboards for operations and finance teams, transforming raw grant and expenditure data into transparent visualizations for government stakeholder reviews.",
+        "Applied partitioning strategies in BigQuery to manage rapidly growing public datasets, solving performance challenges for time-series analysis of unemployment and economic assistance claims.",
+        "Established basic row-level security models in Looker to control data access across multiple government departments, ensuring compliance with data-sharing agreements and privacy statutes.",
+        "Supported data engineering in developing fresh datasets for daily COVID-19 reporting, troubleshooting pipeline failures and ensuring reliable data flow for critical public health dashboards.",
+        "Participated in Jira sprint planning and backlog grooming for the BI team, helping to break down user stories related to transportation and infrastructure analytics.",
+        "Conducted query performance tuning on complex joins across agency datasets, reducing runtimes for monthly compliance reports required by federal funding guidelines.",
+        "Assisted in creating governed self-service training materials for agency analysts, introducing them to Looker Explores for ad-hoc analysis of census and demographic data.",
+        "Collaborated on implementing column-level security for sensitive citizen information within social service applications, adding necessary safeguards for public trust.",
+        "Monitored basic BI health through dashboard usage logs, identifying unused reports for potential decommissioning to reduce maintenance overhead.",
+        "Learned to leverage the Looker API for automating the distribution of key weekly reports to various government department heads via email.",
+        "Supported senior architects in documenting BI standards and best practices for the nascent state government analytics program, focusing on scalability and sustainability."
+      ],
+      "environment": [
+        "Looker",
+        "BigQuery",
+        "AWS",
+        "SQL",
+        "Partitioning",
+        "Row-Level Security",
+        "Jira",
+        "Government Data",
+        "Data Warehousing",
+        "Dashboard Development",
+        "Performance Tuning",
+        "Looker API"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed SQL-based ETL processes on Azure to populate dimensional models for credit card transaction analytics, addressing gaps in financial reporting for fraud detection teams.",
+        "Supported the development of foundational Power BI reports for finance and sales operations, translating merchant settlement data into insights for business performance reviews.",
+        "Assisted in implementing initial data security layers by helping define user roles and permissions within the reporting tool to protect PCI-regulated transaction data.",
+        "Partnered with senior engineers to optimize slow-running queries on customer behavior datasets, learning to analyze execution plans and suggest indexing improvements.",
+        "Participated in agile ceremonies using Jira, updating task statuses and contributing to stand-ups regarding the progress of monthly financial close reporting deliverables.",
+        "Aided in monitoring dataset freshness for daily balance and payment feeds, alerting the team to pipeline delays that could impact regulatory reporting deadlines.",
+        "Learned to apply basic cost optimization techniques by identifying and recommending the termination of unused, expensive ad-hoc queries in the data warehouse.",
+        "Collaborated on documenting data lineage and metric definitions for key financial KPIs, contributing to the early stages of a governed analytics environment.",
+        "Assisted with troubleshooting user-reported issues in dashboards, tracing discrepancies back to source data problems or incorrect filter logic in report definitions.",
+        "Gained exposure to the challenges of translating complex finance regulations into concrete technical requirements for compliant reporting and data visualization."
+      ],
+      "environment": [
+        "Azure",
+        "SQL",
+        "Power BI",
+        "Data Warehousing",
+        "ETL",
+        "PCI Compliance",
+        "Financial Data",
+        "Jira",
+        "Agile",
+        "Query Optimization",
+        "Data Security"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Utilized SQL and Python to extract and analyze healthcare diagnostic image metadata, addressing data quality issues that impacted the accuracy of early machine learning model training.",
+        "Developed foundational dashboards in Power BI to visualize lab test result trends, providing clinicians with initial tools to track diagnostic patterns and operational throughput.",
+        "Learned the importance of data governance by assisting in the manual application of access controls to sensitive patient data, ensuring alignment with HIPAA principles for privacy.",
+        "Supported senior team members in documenting the lineage of clinical datasets, tracing data from source systems to analytical reports used for research and development.",
+        "Participated in team meetings to translate basic business questions from healthcare researchers into structured data queries for analysis of medical imaging studies.",
+        "Assisted in troubleshooting slow report generation times by helping to identify inefficient queries and suggesting simpler, alternative approaches for data aggregation.",
+        "Gained exposure to the analytics development lifecycle by updating tasks in a project tracking tool and observing how larger reporting requirements were decomposed into work items.",
+        "Contributed to maintaining data freshness for key reports by manually running and validating weekly data extraction scripts, ensuring reliable inputs for clinical reviews."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Healthcare Data",
+        "Data Analysis",
+        "HIPAA",
+        "Data Visualization",
+        "Data Quality"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

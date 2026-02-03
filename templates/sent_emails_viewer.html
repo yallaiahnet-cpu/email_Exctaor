@@ -199,6 +199,54 @@
             font-size: 0.85em;
         }
         
+        .comments-cell {
+            min-width: 200px;
+            max-width: 300px;
+        }
+        
+        .comments-input {
+            width: 100%;
+            padding: 8px;
+            border: 2px solid #00c9ff;
+            border-radius: 6px;
+            font-size: 0.85em;
+            font-family: inherit;
+            resize: vertical;
+            min-height: 60px;
+            transition: border-color 0.3s ease;
+        }
+        
+        .comments-input:focus {
+            outline: none;
+            border-color: #0099cc;
+            box-shadow: 0 0 5px rgba(0, 201, 255, 0.3);
+        }
+        
+        .comments-save-btn {
+            margin-top: 4px;
+            padding: 4px 12px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.75em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .comments-save-btn:hover {
+            background: #218838;
+            transform: scale(1.05);
+        }
+        
+        .comments-saved {
+            color: #28a745;
+            font-size: 0.7em;
+            margin-top: 4px;
+            font-style: italic;
+        }
+        
         .loading {
             text-align: center;
             padding: 40px;
@@ -227,6 +275,43 @@
         .refresh-btn:hover {
             background: #218838;
             transform: translateY(-2px);
+        }
+        
+        .load-more-container {
+            text-align: center;
+            margin-top: 20px;
+            padding: 20px;
+        }
+        
+        .load-more-btn {
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 201, 255, 0.4);
+        }
+        
+        .load-more-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 201, 255, 0.6);
+        }
+        
+        .load-more-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .pagination-info {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
         }
         /* Navigation Bar Styles */
         .nav-bar {
@@ -275,6 +360,9 @@
             <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
             <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
             <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+            <a href="/otter_link" class="nav-btn">🎙️ Otter Links</a>
+            <a href="/salesforce_prompt_generator" class="nav-btn">⚡ Salesforce</a>
+            <a href="/salesforce_prompt_generator_role_change" class="nav-btn">⚡ Salesforce + Role Change</a>
         </div>
         
         <h1>📧 Sent Emails Archive</h1>
@@ -298,12 +386,13 @@
         <div class="controls">
             <input type="text" id="searchBox" class="search-box" placeholder="Search by name, email, subject, or phone...">
             <button class="filter-btn" onclick="filterTable()">🔍 Search</button>
-            <button class="refresh-btn" onclick="loadEmails()">🔄 Refresh</button>
+            <button class="refresh-btn" onclick="refreshEmails()">🔄 Refresh</button>
         </div>
         
         <div class="table-container">
             <div id="loading" class="loading">Loading emails...</div>
             <div id="error" class="error" style="display: none;"></div>
+            <div id="paginationInfo" class="pagination-info" style="display: none;"></div>
             <table id="emailsTable" style="display: none;">
                 <thead>
                     <tr>
@@ -315,16 +404,28 @@
                         <th>Subject</th>
                         <th>Body Preview</th>
                         <th>Resume</th>
+                        <th>Comments</th>
                     </tr>
                 </thead>
                 <tbody id="emailsTableBody">
                 </tbody>
             </table>
         </div>
+        
+        <div class="load-more-container" id="loadMoreContainer" style="display: none;">
+            <button class="load-more-btn" onclick="loadNextPage()">📥 Load More Emails</button>
+        </div>
     </div>
     
     <script>
-        let allEmails = [];
+        // Only keep displayed emails in memory - no bulk loading
+        let displayedEmails = [];
+        let currentPage = 1;
+        let totalEmails = 0;
+        let hasMore = false;
+        let isSearchMode = false;
+        let currentSearchTerm = '';
+        const EMAILS_PER_PAGE = 25; // Load 25 emails at a time
         
         function formatTimestamp(timestamp) {
             try {
@@ -341,12 +442,41 @@
             }
         }
         
-        function loadEmails() {
+        function loadStats() {
+            // Load stats separately without loading all emails
+            fetch('/sent_emails_stats')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('total-emails').textContent = data.total || 0;
+                    document.getElementById('with-resume').textContent = data.with_resume || 0;
+                    document.getElementById('with-phone').textContent = data.with_phone || 0;
+                })
+                .catch(error => {
+                    console.error('Error loading stats:', error);
+                });
+        }
+        
+        function loadEmails(reset = true) {
+            if (reset) {
+                // Clear existing emails and reset
+                displayedEmails = [];
+                currentPage = 1;
+                const tbody = document.getElementById('emailsTableBody');
+                tbody.innerHTML = '';
+            }
+            
             document.getElementById('loading').style.display = 'block';
             document.getElementById('error').style.display = 'none';
             document.getElementById('emailsTable').style.display = 'none';
+            document.getElementById('loadMoreContainer').style.display = 'none';
             
-            fetch('/sent_emails_data')
+            // Build URL with pagination and search
+            let url = `/sent_emails_data?page=${currentPage}&per_page=${EMAILS_PER_PAGE}`;
+            if (isSearchMode && currentSearchTerm) {
+                url += `&search=${encodeURIComponent(currentSearchTerm)}`;
+            }
+            
+            fetch(url)
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById('loading').style.display = 'none';
@@ -357,15 +487,18 @@
                         return;
                     }
                     
-                    // Sort by timestamp (latest first)
-                    allEmails = data.emails.sort((a, b) => {
-                        const dateA = new Date(a.timestamp || 0);
-                        const dateB = new Date(b.timestamp || 0);
-                        return dateB - dateA; // Latest first
-                    });
+                    // Append new emails to displayed list
+                    displayedEmails = displayedEmails.concat(data.emails || []);
+                    totalEmails = data.total || 0;
+                    hasMore = data.has_more || false;
                     
-                    updateStats();
-                    renderTable(allEmails);
+                    // Render only the new batch (append to table)
+                    renderNewBatch(data.emails || []);
+                    updatePaginationInfo();
+                    
+                    // Show table and load more button if applicable
+                    document.getElementById('emailsTable').style.display = 'table';
+                    document.getElementById('loadMoreContainer').style.display = hasMore ? 'block' : 'none';
                 })
                 .catch(error => {
                     document.getElementById('loading').style.display = 'none';
@@ -374,28 +507,49 @@
                 });
         }
         
-        function updateStats() {
-            const total = allEmails.length;
-            const withResume = allEmails.filter(e => e.resume_attached).length;
-            const withPhone = allEmails.filter(e => e.phone && e.phone.trim()).length;
-            
-            document.getElementById('total-emails').textContent = total;
-            document.getElementById('with-resume').textContent = withResume;
-            document.getElementById('with-phone').textContent = withPhone;
+        function loadNextPage() {
+            currentPage++;
+            loadEmails(false); // Don't reset, just append
         }
         
-        function renderTable(emails) {
+        function updatePaginationInfo() {
+            const infoElement = document.getElementById('paginationInfo');
+            if (infoElement && totalEmails > 0) {
+                infoElement.style.display = 'block';
+                infoElement.textContent = `Showing ${displayedEmails.length} of ${totalEmails} emails`;
+            } else if (infoElement) {
+                infoElement.style.display = 'none';
+            }
+        }
+        
+        // Removed updateStats function - using loadStats instead
+        
+        function updatePaginationInfo() {
+            const infoElement = document.getElementById('paginationInfo');
+            if (infoElement && totalEmails > 0) {
+                infoElement.style.display = 'block';
+                infoElement.textContent = `Showing ${displayedEmails.length} of ${totalEmails} emails`;
+            } else if (infoElement) {
+                infoElement.style.display = 'none';
+            }
+        }
+        
+        function renderNewBatch(emails) {
             const tbody = document.getElementById('emailsTableBody');
-            tbody.innerHTML = '';
             
-            if (emails.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 40px; color: #999;">No emails found</td></tr>';
-                document.getElementById('emailsTable').style.display = 'table';
+            if (emails.length === 0 && displayedEmails.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="9" style="text-align: center; padding: 40px; color: #999;">No emails found</td></tr>';
                 return;
             }
             
-            emails.forEach(email => {
+            // Only render the new batch (append to existing rows)
+            emails.forEach((email) => {
                 const row = document.createElement('tr');
+                // Create a unique ID for this email entry (using timestamp and email as identifier)
+                // Use base64 encoding to handle special characters safely
+                const emailId = btoa(unescape(encodeURIComponent(`${email.timestamp || ''}|||${email.to_email || ''}|||${email.from_email || ''}`)));
+                const commentValue = escapeHtml(email.comment || '');
+                
                 row.innerHTML = `
                     <td class="timestamp-cell">${formatTimestamp(email.timestamp || '')}</td>
                     <td class="name-cell">${escapeHtml(email.name || 'N/A')}</td>
@@ -405,11 +559,18 @@
                     <td class="subject-cell">${escapeHtml(email.subject || '')}</td>
                     <td class="body-preview">${escapeHtml((email.body || '').substring(0, 100))}${(email.body || '').length > 100 ? '...' : ''}</td>
                     <td>${email.resume_attached ? '<span class="resume-badge">✓ Resume</span>' : '<span class="no-resume">No Resume</span>'}</td>
+                    <td class="comments-cell">
+                        <textarea 
+                            class="comments-input" 
+                            data-email-id="${emailId}"
+                            placeholder="Add comments..."
+                        >${commentValue}</textarea>
+                        <button class="comments-save-btn" onclick="saveComment('${emailId}')">💾 Save</button>
+                        <div class="comments-saved" id="saved-${emailId.replace(/[^a-zA-Z0-9]/g, '_')}" style="display: none;">✓ Saved</div>
+                    </td>
                 `;
                 tbody.appendChild(row);
             });
-            
-            document.getElementById('emailsTable').style.display = 'table';
         }
         
         function escapeHtml(text) {
@@ -419,30 +580,19 @@
         }
         
         function filterTable() {
-            const searchTerm = document.getElementById('searchBox').value.toLowerCase().trim();
+            const searchTerm = document.getElementById('searchBox').value.trim();
             
-            if (!searchTerm) {
-                renderTable(allEmails);
-                return;
-            }
+            // Reset pagination and clear displayed emails
+            displayedEmails = [];
+            currentPage = 1;
+            isSearchMode = searchTerm.length > 0;
+            currentSearchTerm = searchTerm;
             
-            const filtered = allEmails.filter(email => {
-                const name = (email.name || '').toLowerCase();
-                const toEmail = (email.to_email || '').toLowerCase();
-                const fromEmail = (email.from_email || '').toLowerCase();
-                const subject = (email.subject || '').toLowerCase();
-                const phone = (email.phone || '').toLowerCase();
-                const body = (email.body || '').toLowerCase();
-                
-                return name.includes(searchTerm) ||
-                       toEmail.includes(searchTerm) ||
-                       fromEmail.includes(searchTerm) ||
-                       subject.includes(searchTerm) ||
-                       phone.includes(searchTerm) ||
-                       body.includes(searchTerm);
-            });
+            const tbody = document.getElementById('emailsTableBody');
+            tbody.innerHTML = '';
             
-            renderTable(filtered);
+            // Load first page with search filter (server-side search)
+            loadEmails(true);
         }
         
         // Allow Enter key to trigger search
@@ -452,8 +602,84 @@
             }
         });
         
-        // Load emails on page load
-        loadEmails();
+        function saveComment(emailId) {
+            const textarea = document.querySelector(`textarea[data-email-id="${emailId}"]`);
+            if (!textarea) {
+                console.error('Textarea not found for emailId:', emailId);
+                return;
+            }
+            
+            const comment = textarea.value.trim();
+            // Use a safe ID for the saved message element
+            const safeId = emailId.replace(/[^a-zA-Z0-9]/g, '_');
+            const savedMsg = document.getElementById(`saved-${safeId}`);
+            
+            // Send comment to backend
+            fetch('/save_email_comment', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    email_id: emailId,
+                    comment: comment
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Show saved message
+                    if (savedMsg) {
+                        savedMsg.style.display = 'block';
+                        setTimeout(() => {
+                            savedMsg.style.display = 'none';
+                        }, 2000);
+                    }
+                } else {
+                    alert('Error saving comment: ' + (data.error || 'Unknown error'));
+                }
+            })
+            .catch(error => {
+                console.error('Error saving comment:', error);
+                alert('Error saving comment: ' + error.message);
+            });
+        }
+        
+        // Auto-save on blur (when user clicks away from textarea)
+        document.addEventListener('DOMContentLoaded', function() {
+            // This will be called after table is rendered
+            setTimeout(() => {
+                document.querySelectorAll('.comments-input').forEach(textarea => {
+                    let timeout;
+                    textarea.addEventListener('blur', function() {
+                        clearTimeout(timeout);
+                        timeout = setTimeout(() => {
+                            const emailId = this.getAttribute('data-email-id');
+                            if (emailId) {
+                                saveComment(emailId);
+                            }
+                        }, 500);
+                    });
+                });
+            }, 100);
+        });
+        
+        function refreshEmails() {
+            // Reset everything and reload
+            displayedEmails = [];
+            currentPage = 1;
+            isSearchMode = false;
+            currentSearchTerm = '';
+            document.getElementById('searchBox').value = '';
+            const tbody = document.getElementById('emailsTableBody');
+            tbody.innerHTML = '';
+            loadStats();
+            loadEmails(true);
+        }
+        
+        // Load stats and first page of emails on page load
+        loadStats();
+        loadEmails(true);
     </script>
 </body>
 </html>

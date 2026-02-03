@@ -1,0 +1,298 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Flink Streaming Engineer with Healthcare & Insurance Domain Expertise",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a data engineering professional with over 10 years of specialized experience in building and optimizing enterprise-grade Apache Flink streaming pipelines for high-volume, mission-critical applications across Healthcare, Insurance, Government, and Finance sectors.",
+    "Architected and deployed multiple production-grade Apache Flink applications for stateful stream processing, leveraging windows, watermarks, and exactly-once semantics to ensure data consistency for HIPAA-compliant healthcare event analytics and patient data flows.",
+    "Orchestrated end-to-end fault tolerance strategies by configuring robust checkpointing and savepoint mechanisms, enabling zero-downtime updates and reliable recovery for real-time insurance claim processing pipelines handling millions of daily transactions.",
+    "Diagnosed and remediated complex performance bottlenecks in Flink jobs by tuning parallelism, mitigating backpressure through operator chaining optimization, and managing state size, which drastically reduced execution time for government public service data streams.",
+    "Engineered robust schema evolution and data quality validation frameworks within Flink SQL, ensuring data integrity and compliance with stringent financial regulations like PCI-DSS while processing real-time transaction streams.",
+    "Integrated Apache Kafka as the core streaming backbone with deep expertise in partitions, consumer groups, and offset management to guarantee ordered, high-throughput ingestion for healthcare IoT device telemetry and patient monitoring systems.",
+    "Designed and implemented comprehensive observability for streaming pipelines by automating CloudWatch metrics collection for lag, throughput, latency, and watermark drift, establishing proactive alerts for SLA adherence in insurance platforms.",
+    "Built scalable data warehousing solutions by modeling Hive tables and partitions, optimizing queries for AWS Athena, and designing batch + streaming hybrid processing patterns to support historical analytics alongside real-time dashboards.",
+    "Led the full software development lifecycle for Flink-based solutions, from gathering requirements and creating HLD/LLD documents to conducting code reviews, unit testing, and managing production deployments with rollback strategies.",
+    "Collaborated with data platform teams to optimize relational database interactions, applying indexing awareness and query tuning principles to enhance the performance of lookup joins within real-time enrichment streams for financial fraud detection.",
+    "Spearheaded the adoption of modern DevOps practices for data pipelines, implementing CI/CD with Jenkins for automated builds, artifact versioning, and environment promotion, significantly improving deployment reliability and team velocity.",
+    "Mentored junior engineers on Flink best practices, state management, and backpressure handling, fostering a culture of excellence and knowledge sharing while overseeing PR reviews and enforcing coding standards across the healthcare data team.",
+    "Developed shell scripting utilities for operational automation, including job health checks, log aggregation, and diagnostic tools, which streamlined the troubleshooting process for late data and checkpoint timeout incidents.",
+    "Applied strong Java and Scala programming skills to develop custom Flink operators and user-defined functions, enabling complex event processing logic for real-time eligibility checks in government benefit distribution systems.",
+    "Configured IAM policies and S3 lifecycle rules within AWS to secure pipeline data at rest and in transit, ensuring compliance with healthcare data governance policies while optimizing storage costs for multi-terabyte streams.",
+    "Leveraged agentic frameworks like Crew AI and LangGraph for proof-of-concept projects, exploring multi-agent systems to automate data quality anomaly detection and incident response workflows within the streaming infrastructure.",
+    "Resolved critical production defects originating from system testing by analyzing thread dumps, heap profiles, and network metrics, deploying fixes that restored pipeline stability and data freshness for executive reporting.",
+    "Established strong partnerships with business analysts and product owners to translate complex regulatory reporting requirements into technical specifications for scalable, maintainable Flink jobs that adapt to evolving data contracts."
+  ],
+  "technical_skills": {
+    "Stream Processing Engines": [
+      "Apache Flink",
+      "Apache Kafka Streams",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "Core Programming Languages": [
+      "Java",
+      "Scala",
+      "Python",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Streaming Messaging & Ingestion": [
+      "Apache Kafka",
+      "Amazon Kinesis",
+      "Apache Pulsar"
+    ],
+    "Big Data Query & Processing": [
+      "Apache Spark",
+      "Apache Hive",
+      "AWS Athena",
+      "Presto",
+      "Apache Hadoop"
+    ],
+    "Cloud Services (AWS)": [
+      "Amazon S3",
+      "AWS IAM",
+      "Amazon CloudWatch",
+      "AWS Glue",
+      "Amazon EC2",
+      "AWS Lambda"
+    ],
+    "Data Warehousing & Databases": [
+      "Apache Hive",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "Data Modeling"
+    ],
+    "Data Pipeline Orchestration": [
+      "Apache Airflow",
+      "AWS Step Functions",
+      "CI/CD Pipelines"
+    ],
+    "Observability & Monitoring": [
+      "Prometheus",
+      "Grafana",
+      "CloudWatch Dashboards",
+      "Custom Metrics",
+      "Alerting"
+    ],
+    "Containerization & Deployment": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Performance & Fault Tolerance": [
+      "Checkpointing",
+      "Savepoints",
+      "Backpressure Handling",
+      "State Management",
+      "Exactly-Once Semantics"
+    ],
+    "Development & Collaboration Tools": [
+      "Git",
+      "JIRA",
+      "Confluence",
+      "IntelliJ IDEA",
+      "VS Code",
+      "Jupyter Notebooks"
+    ],
+    "Data Formats & Serialization": [
+      "Avro",
+      "Parquet",
+      "JSON",
+      "Protocol Buffers",
+      "Apache ORC"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a production-grade Apache Flink pipeline to process high-volume healthcare supply chain event streams, implementing tumbling windows and watermarks for real-time inventory tracking while ensuring HIPAA compliance through field-level encryption.",
+        "Investigated recurring job failures due to checkpoint timeouts by analyzing state backend serialization, reconfiguring RocksDB options and increasing task manager heap, which stabilized the pipeline and guaranteed exactly-once semantics for patient data.",
+        "Orchestrated the migration of a legacy batch ETL process to a streaming-plus-batch pattern using Flink's DataStream API and Table API, reducing end-to-end latency for clinical trial data aggregation from hours to near real-time.",
+        "Diagnosed severe backpressure in a Kafka-to-Flink ingestion job by profiling network usage and revising parallelism per partition, subsequently applying operator chaining to minimize serialization overhead and restore healthy throughput.",
+        "Championed the setup of comprehensive observability by automating CloudWatch metrics emission for watermark lag, checkpoint duration, and operator throughput, enabling the data ops team to proactively identify SLA breaches.",
+        "Constructed a robust schema registry integration using Java, handling backward-compatible evolution of Avro schemas for medical device telemetry, which prevented pipeline crashes during deployments of new event versions.",
+        "Guided a team of three engineers through the design and delivery of a scalable data warehousing solution, producing detailed LLDs for Flink-to-Hive sinks partitioned by event date and hospital region for efficient AWS Athena queries.",
+        "Integrated a multi-agent proof-of-concept using Crew AI and LangGraph to automate the triage of data quality alerts; the system parsed Flink metric anomalies and suggested remediation actions, reducing manual on-call load.",
+        "Reinforced fault tolerance by designing and testing savepoint-based recovery procedures, conducting controlled failover drills that validated sub-minute restoration for critical patient discharge event processing.",
+        "Authored dozens of unit and integration tests for stateful Flink functions using Java, mocking Kafka sources and validating windowed aggregation logic, which caught several edge cases before system testing.",
+        "Reviewed all pull requests for the streaming team, enforcing best practices around state TTL configuration, avoiding keyed state abuse, and implementing proper watermark generators for event-time processing.",
+        "Tackled a tricky late data issue impacting daily reconciliation reports by adjusting allowed lateness in global windows and implementing side-outputs for missed events, ensuring complete data sets for regulatory audits.",
+        "Collaborated with cloud architects to refine IAM roles and S3 bucket policies, ensuring the pipeline's access patterns adhered to the principle of least privilege for protected health information (PHI).",
+        "Consolidated multiple fragmented streaming jobs into a cohesive topology using operator chaining and shared slots, optimizing resource utilization on the AWS EMR cluster and cutting cloud costs by approximately eighteen percent.",
+        "Documented the restart strategy configuration and operational runbook for the on-call rotation, detailing steps to diagnose backpressure sources and escalate issues related to Kafka consumer group lag.",
+        "Explored the Model Context Protocol for agent-to-agent communication within a diagnostic assistant POC, aiming to contextualize streaming pipeline failures with historical logs and deployment changes."
+      ],
+      "environment": [
+        "Apache Flink",
+        "Java",
+        "Apache Kafka",
+        "AWS S3",
+        "AWS IAM",
+        "CloudWatch",
+        "Hive",
+        "AWS Athena",
+        "RocksDB",
+        "Avro",
+        "Docker",
+        "Git",
+        "Jenkins",
+        "Crew AI",
+        "LangGraph",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed a new Flink pipeline in Scala for high-volume insurance claim adjudication events, implementing session windows to detect fraudulent activity patterns and embedding data quality checks for member eligibility validation.",
+        "Optimized a resource-intensive Flink job plagued by high CPU usage by dissecting the execution plan, resizing key groups for state, and applying local keyed state where possible, which halved its execution time.",
+        "Configured a fine-grained exactly-once semantic guarantee using Kafka transactional sinks and Flink's two-phase commit sink, ensuring no duplicate or lost claims were processed during system outages, vital for financial accuracy.",
+        "Established automated dashboards in a Prometheus-style system to monitor end-to-end latency, watermark staleness, and checkpoint alignment delay, providing the business visibility into claim processing health.",
+        "Engineered a change data capture (CDC) stream from Oracle to Kafka using Debezium, then utilized Flink SQL for real-time transformations to populate a derived Hive table optimized for fast Athena queries by claims analysts.",
+        "Remediated a critical defect where late-arriving policy updates caused incorrect claim denials; implemented a temporal table join in Flink SQL with versioned state, ensuring accurate real-time context enrichment.",
+        "Led the system testing phase for a major pipeline release, coordinating with QA to validate watermark propagation and window correctness under simulated event-time disorder, documenting several edge-case behaviors.",
+        "Mentored two mid-level engineers on Flink's stateful processing model, walking through debugging sessions using the web UI to inspect operator backpressure and keyed state entries for specific member IDs.",
+        "Spearheaded the integration of the pipeline with the existing CI/CD framework, creating Jenkins build stages that ran unit tests, generated savepoints, and promoted artifacts from development to production AWS environments.",
+        "Designed a partitioning strategy for output Hive tables aligned with the batch reporting cycle, using event-day partitions in ORC format to accelerate daily aggregate queries run via AWS Athena.",
+        "Troubleshooted a complex incident involving network saturation between Kafka brokers and Flink task managers; reconfigured the consumer fetch size and decompression settings to alleviate the bottleneck.",
+        "Prototyped an agentic framework using LangGraph to create a diagnostic assistant that could interpret checkpoint failure logs and suggest configuration tweaks, though it remained a POC due to stability concerns.",
+        "Formulated a rollback procedure leveraging Flink savepoints, allowing the team to confidently deploy new job versions and revert within minutes if data quality checks failed in the production insurance environment.",
+        "Conducted weekly code review sessions focusing on efficient state usage and appropriate watermark assignment, catching several potential memory leak issues in custom Scala FlatMap functions before merge."
+      ],
+      "environment": [
+        "Apache Flink",
+        "Scala",
+        "Apache Kafka",
+        "Debezium",
+        "AWS S3",
+        "Hive",
+        "AWS Athena",
+        "Prometheus",
+        "Oracle",
+        "Jenkins",
+        "ORC",
+        "Exactly-Once Semantics",
+        "Stateful Processing",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Built a government benefits eligibility streaming pipeline using Apache Flink on Azure HDInsight, processing citizen application events with event-time windows to ensure fair and timely processing according to program guidelines.",
+        "Addressed frequent checkpoint failures caused by oversized state by introducing state time-to-live (TTL) for transient data and splitting the operator into subtasks, recovering stable performance for long-running sessions.",
+        "Implemented robust watermark generation to handle out-of-order data from various county offices, setting appropriate idle source detection to prevent stagnation in the stream of public assistance applications.",
+        "Created Azure Data Factory pipelines to orchestrate complementary batch data loads, merging historical reference data with the real-time Flink stream to provide a complete view for caseworker dashboards.",
+        "Authored complex Flink SQL queries for real-time transformations and validation against government-defined business rules, ensuring compliance with state and federal data reporting requirements.",
+        "Assisted in the design of a data warehouse solution on Azure Synapse, modeling dimensional tables from the streaming output to support ad-hoc analysis of program uptake and effectiveness.",
+        "Debugged job failures related to schema mismatches by implementing a flexible deserialization routine that logged problematic records to a dead-letter queue in Azure Event Hubs for later inspection.",
+        "Configured alerting based on key pipeline metrics such as throughput drops and increasing watermark lag, enabling the operations team to respond swiftly to data ingestion delays from source systems.",
+        "Participated in daily stand-ups and sprint planning, translating business analyst requirements for new benefit programs into technical tasks for the streaming data team.",
+        "Performed code reviews for fellow engineers, focusing on clarity of windowing logic and proper handling of late-arriving data that could impact benefit calculation accuracy.",
+        "Developed shell scripts to automate the deployment and configuration of Flink job managers on Azure VMs, streamlining the setup process for new development and testing environments.",
+        "Supported the system testing effort by providing sample data streams and validating that output metrics matched expected counts for anonymized citizen data, ensuring reporting accuracy."
+      ],
+      "environment": [
+        "Apache Flink",
+        "Azure HDInsight",
+        "Azure Event Hubs",
+        "Azure Data Factory",
+        "Azure Synapse",
+        "SQL",
+        "Streaming Windows",
+        "Watermarks",
+        "Checkpointing",
+        "Data Warehousing",
+        "Government Compliance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Supported the development of real-time transaction fraud detection pipelines using Apache Spark Streaming, applying micro-batch windows to analyze patterns and flag anomalies for further review, adhering to PCI-DSS standards.",
+        "Optimized Spark jobs by tuning executor memory, core allocation, and parallelism to reduce garbage collection pauses and improve end-to-end processing time for high-volume credit card transaction streams.",
+        "Implemented data quality checks within the streaming pipeline to validate transaction schema and required fields, rejecting malformed records to maintain the integrity of the fraud detection model's input data.",
+        "Built Hive external tables over processed data stored in Azure Data Lake Storage, partitioning by transaction date and card issuer to enable efficient exploratory queries by the data science team.",
+        "Assisted in the design of a streaming-plus-batch architecture where real-time alerts were supplemented by daily batch scoring runs to catch complex, multi-transaction fraud patterns.",
+        "Configured basic observability by logging pipeline throughput and batch processing times to Azure Monitor, helping the team identify periods of unusually high transaction volume.",
+        "Participated in troubleshooting sessions for pipeline failures, learning to analyze executor logs and Spark UI to identify skewed joins or shuffles causing performance degradation.",
+        "Developed unit tests for data transformation functions using ScalaTest, ensuring business logic for transaction enrichment and normalization was correctly implemented.",
+        "Contributed to the creation of deployment scripts that packaged Spark applications and submitted them to the Azure Databricks workspace, gaining familiarity with CI/CD concepts.",
+        "Documented data lineage and transformation rules for the fraud detection pipeline, ensuring clarity for auditors reviewing the system's compliance with financial regulations."
+      ],
+      "environment": [
+        "Apache Spark",
+        "Spark Streaming",
+        "Scala",
+        "Azure Databricks",
+        "Azure Data Lake",
+        "Apache Hive",
+        "Azure Monitor",
+        "Data Quality",
+        "PCI-DSS",
+        "Batch Processing",
+        "Financial Data"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic image metadata using SQL queries against PostgreSQL databases, generating reports on dataset volumes and distributions for the machine learning research team working on AI-assisted pathology.",
+        "Developed Python scripts to automate the extraction and basic validation of batch data from clinical systems, ensuring patient identifiers were anonymized in accordance with HIPAA guidelines before research use.",
+        "Assisted senior engineers in validating the output of early data pipeline prototypes, comparing counts and aggregates between source systems and processed outputs to identify discrepancies.",
+        "Created visualizations in Power BI to illustrate data quality metrics, such as missing field rates and value distributions, which helped prioritize areas for data cleansing efforts.",
+        "Learned the fundamentals of relational database modeling and query tuning while optimizing slow-running reports used by healthcare analysts to track sample processing throughput.",
+        "Participated in requirements gathering meetings, taking notes and helping to translate clinician feedback on data needs into clear, actionable tickets for the engineering team.",
+        "Supported the troubleshooting of a data load issue by writing SQL to isolate duplicate records and null values that were causing failures in a downstream Python processing script.",
+        "Maintained documentation for the analytical datasets, including column definitions, refresh schedules, and known data quality issues, fostering better understanding across the interdisciplinary team."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "PostgreSQL",
+        "Power BI",
+        "Data Analysis",
+        "Data Validation",
+        "HIPAA",
+        "Healthcare Data",
+        "Reporting",
+        "Batch Data Processing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

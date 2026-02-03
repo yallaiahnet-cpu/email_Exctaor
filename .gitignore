@@ -63,3 +63,13 @@ backup_unused_files/Archive*.zip
 # Large data files
 flask_server_error.log
 *.log
+
+# Deployment backups
+deployment_backup_*/
+
+# Package directories (for sharing)
+Email_Notifications_Package*/
+
+# Note: email.json is NOT ignored - it's needed for the app to function
+# ⚠️  WARNING: email.json contains sensitive SMTP credentials
+# Consider moving credentials to environment variables for better security

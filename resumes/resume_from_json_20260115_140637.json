@@ -1,0 +1,335 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Neo4j & Graph Platform Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Senior Graph Platform Engineer with 10 years in Insurance, Healthcare, Banking, and Consulting, focusing on owning and scaling cloud-based Neo4j environments using Kubernetes, Azure, and modern CI/CD to reduce user friction and mature enterprise operations.",
+    "Establish Neo4j as the central graph database on Azure Kubernetes Service, managing its lifecycle from upgrades and stabilization to scaling for containerized workloads, ensuring high availability for critical production environments across regulated domains.",
+    "Construct comprehensive monitoring and alerting with Prometheus and Grafana for Neo4j clusters in AKS, providing real-time visibility into performance metrics and enabling proactive troubleshooting of potential stability issues before they impact users.",
+    "Formulate and enforce role-based access control policies for the Neo4j environment, onboarding new users securely and managing their permissions to ensure compliant data access aligned with HIPAA and financial regulations.",
+    "Develop Terraform modules and Argo CD pipelines to automate the provisioning and deployment of Neo4j instances on Azure, achieving consistent and repeatable environment setups that accelerate project delivery cycles.",
+    "Design and implement Graph RAG pipelines using LangGraph and multi-agent systems, integrating Neo4j knowledge graphs with vector databases like Pinecone to enhance semantic search and retrieval for enterprise data platforms.",
+    "Architect hybrid search solutions combining Neo4j's Cypher-based graph traversal with BM25 and vector similarity from Weaviate, improving the accuracy and relevance of search results for complex enterprise data relationships.",
+    "Build and maintain data ingestion pipelines using PySpark and Databricks to efficiently populate and update Neo4j graphs from various source systems, ensuring data freshness and consistency for operational analytics.",
+    "Configure JFrog Artifactory as the central repository for Neo4j Helm charts and Docker images, streamlining the CI/CD process and ensuring version control for all database deployment artifacts.",
+    "Create detailed documentation and runbooks for Neo4j operations, including disaster recovery procedures and performance tuning guides, enabling other team members to effectively support the platform.",
+    "Collaborate closely with the Neo4j vendor support team to diagnose and resolve complex production issues, leveraging their expertise to implement patches and workarounds that minimize downtime for business users.",
+    "Implement Model Context Protocol clients to facilitate seamless communication between different AI agents within multi-agent systems, ensuring context preservation and efficient tool calling across the platform.",
+    "Optimize Cypher query performance through profiling and index management, working directly with application teams to rewrite inefficient queries and improve the responsiveness of graph-powered applications.",
+    "Establish a centralized observability stack using OpenTelemetry to trace requests across Neo4j, microservices, and agent workflows, providing end-to-end visibility into system performance and user experience.",
+    "Define and execute a strategy for Neo4j backup and recovery on Azure, utilizing managed storage services to ensure point-in-time recovery capabilities that meet stringent business continuity requirements.",
+    "Integrate Neo4j with enterprise security frameworks, managing secrets through Azure Key Vault and implementing PII redaction processes to comply with data privacy regulations in healthcare and banking projects.",
+    "Guide application teams on effective graph data modeling principles, helping them structure their Neo4j datasets to maximize query efficiency and support future scalability needs as data volumes grow.",
+    "Evaluate and incorporate new graph database features from Neo4j releases, running proof-of-concept tests in a staging environment to validate functionality and performance before rolling out to production."
+  ],
+  "technical_skills": {
+    "Graph Databases & Knowledge Graphs": [
+      "Neo4j",
+      "Neo4j Cypher",
+      "Graph Data Modeling",
+      "Graph Traversal",
+      "Entity Linking",
+      "Knowledge Graphs",
+      "Graph RAG",
+      "Semantic Search"
+    ],
+    "Multi-Agent & LLM Frameworks": [
+      "LangGraph",
+      "Multi-Agent Systems",
+      "LangChain Agents",
+      "Model Context Protocol (MCP)",
+      "Tool Calling",
+      "Retrieval-Augmented Generation (RAG)",
+      "Hybrid RAG Pipelines",
+      "Prompt Engineering"
+    ],
+    "Container Orchestration & Cloud": [
+      "Kubernetes",
+      "Azure Kubernetes Service (AKS)",
+      "Docker",
+      "Azure",
+      "Containerized Workloads",
+      "Terraform",
+      "CI/CD Pipelines",
+      "Cloud Environments"
+    ],
+    "Data Engineering & Processing": [
+      "PySpark",
+      "Databricks",
+      "Data Ingestion Pipelines",
+      "Apache Airflow",
+      "Big Data Frameworks",
+      "ETL",
+      "Document Chunking"
+    ],
+    "Vector Databases & Search": [
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "Vector Databases",
+      "Hybrid Search (BM25 + Vector)",
+      "Dense Retrieval",
+      "Embedding Models",
+      "Re-Ranking Models"
+    ],
+    "Observability & MLOps": [
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "MLOps",
+      "Model Versioning",
+      "LLM Evaluation",
+      "Cost Optimization",
+      "Caching Strategies"
+    ],
+    "API & Integration": [
+      "FastAPI",
+      "REST APIs",
+      "Webhooks",
+      "Streaming APIs",
+      "WebSockets",
+      "Server-Sent Events (SSE)",
+      "API Integration"
+    ],
+    "Programming Languages": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Security & Compliance": [
+      "Role-Based Access Control (RBAC)",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "PII Redaction",
+      "Secrets Management",
+      "Security Best Practices"
+    ],
+    "Additional Databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "DynamoDB",
+      "Redis",
+      "ElasticSearch"
+    ],
+    "Deployment & Orchestration Tools": [
+      "Argo CD",
+      "JFrog Artifactory",
+      "Git",
+      "GitHub Actions",
+      "Helm"
+    ],
+    "LLM & AI Services": [
+      "OpenAI API",
+      "Anthropic Claude API",
+      "Google Gemini API",
+      "vLLM",
+      "Ollama",
+      "LangSmith"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "environment": [
+        "Neo4j",
+        "Azure Kubernetes Service (AKS)",
+        "PySpark",
+        "Databricks",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Terraform",
+        "Argo CD",
+        "Azure",
+        "Kubernetes",
+        "Containerized Workloads",
+        "CI/CD",
+        "Graph DB",
+        "Production Environments",
+        "Neo4j Upgrades",
+        "Pinecone",
+        "FastAPI",
+        "OpenTelemetry",
+        "Prometheus",
+        "Grafana"
+      ],
+      "responsibilities": [
+        "Plan the migration of the legacy graph store to a managed Neo4j cluster on Azure Kubernetes Service, designing the AKS node pools and storage classes to meet the insurance platform's low-latency requirements for policy relationship queries.",
+        "Implement a multi-agent proof of concept using LangGraph and Model Context Protocol, where separate agents handle claims investigation, fraud detection, and customer communication, coordinating through a shared Neo4j knowledge graph of policies and entities.",
+        "Deploy the Neo4j environment using Terraform for infrastructure and Argo CD for application delivery, creating a GitOps workflow that ensures all changes to the graph database configuration are version-controlled and auditable for compliance.",
+        "Monitor cluster health and query performance using Prometheus metrics exposed by the Neo4j Kubernetes operator, setting up Grafana dashboards that alert the team to high memory usage or slow Cypher queries impacting user applications.",
+        "Optimize complex Cypher queries for traversing deep insurance policy hierarchies, adding composite indexes and rewriting traversal patterns to reduce response times from seconds to milliseconds for underwriter dashboards.",
+        "Troubleshoot a production incident where a runaway PySpark job on Databricks overloaded the Neo4j cluster with write requests, implementing query rate limiting and adjusting the Spark job configuration to batch writes appropriately.",
+        "Construct a Graph RAG pipeline that retrieves information from insurance policy documents stored in Pinecone and enriches it with structured relationship data from Neo4j, improving the accuracy of AI-driven claim summaries.",
+        "Establish a role-based access control model in Neo4j, mapping insurance user roles like 'Adjuster' and 'Underwriter' to specific database permissions that restrict access to sensitive claim data based on regulatory requirements.",
+        "Execute a minor Neo4j version upgrade during a maintenance window, testing the upgrade procedure in a staging AKS cluster first and coordinating with application teams to validate their queries post-upgrade before cutting over production.",
+        "Configure Azure DevOps pipelines to integrate Neo4j schema change scripts, automatically applying Cypher-based index and constraint modifications as part of the continuous integration process for related microservices.",
+        "Build a persistent memory system for the multi-agent framework using Redis, allowing agents to maintain context across long-running insurance claim processing workflows that involve multiple human-in-the-loop steps.",
+        "Analyze slow query logs from the Neo4j environment, identifying a pattern of inefficient property lookups and working with the application team to refactor their data model, adding labels and indexes that improved overall throughput.",
+        "Document the operational runbooks for the Neo4j platform, including backup restoration procedures and disaster recovery steps, and conducted training sessions for the platform support team on day-to-day management tasks.",
+        "Integrate OpenTelemetry tracing into the Neo4j driver configuration, providing distributed traces that show how graph queries fit into the broader microservice architecture for end-to-end performance analysis.",
+        "Collaborate with the security team to implement PII redaction for Neo4j query logs, ensuring that sensitive customer information from insurance policies is masked in all diagnostic outputs and monitoring tools.",
+        "Develop a cost optimization strategy for the Neo4j AKS deployment, right-sizing the persistent volumes and adjusting CPU/memory requests based on actual usage patterns observed over several billing cycles."
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "environment": [
+        "Neo4j",
+        "Azure Kubernetes Service (AKS)",
+        "PySpark",
+        "Databricks",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Terraform",
+        "Azure",
+        "Kubernetes",
+        "CI/CD",
+        "PostgreSQL",
+        "MongoDB",
+        "Containerized Workloads",
+        "Graph DB",
+        "Production Environments",
+        "HIPAA Compliance",
+        "FastAPI",
+        "Prometheus"
+      ],
+      "responsibilities": [
+        "Planned the architecture for a healthcare knowledge graph that connected patient records, clinical trials, and research papers using Neo4j on Azure Kubernetes Service, ensuring the design complied with HIPAA data isolation requirements.",
+        "Implemented a LangGraph-based multi-agent system to automate the literature review process for clinical research, where agents crawled, summarized, and linked new studies to existing trial data in the Neo4j knowledge graph.",
+        "Deployed the Neo4j cluster using Helm charts stored in a private repository, with Terraform managing the underlying AKS infrastructure, achieving a repeatable deployment pattern for development, staging, and production environments.",
+        "Monitored database performance and resource utilization through Azure Monitor and custom Prometheus exporters, setting up alerts for disk space and memory pressure to prevent outages during large data ingestion batches.",
+        "Optimized the data ingestion pipeline from Databricks, rewriting PySpark jobs to use Neo4j's bulk import tools for initial loads and batched transactions for incremental updates, significantly reducing the load on the production database.",
+        "Troubleshooted connectivity issues between application pods and the Neo4j service in AKS, discovering a network policy conflict and working with the platform team to adjust the Kubernetes network configuration to allow proper traffic flow.",
+        "Built a hybrid search interface combining Neo4j graph traversal for relationship queries with vector similarity search from Weaviate for semantic document retrieval, enabling researchers to find relevant clinical trial data more effectively.",
+        "Established a backup and restore process for the Neo4j databases using Azure Blob Storage, scheduling regular snapshots and testing recovery procedures to ensure data durability for critical healthcare research information.",
+        "Executed a security audit of the Neo4j environment, reviewing user access logs and tightening network policies to ensure only authorized services from specific namespaces could connect to the graph database ports.",
+        "Configured GitLab CI/CD pipelines to automate the testing of Neo4j Cypher migrations, integrating a test suite that validated schema changes against a sample dataset before applying them to the production cluster.",
+        "Analyzed query patterns from various research applications, creating targeted composite indexes on frequently accessed node properties like 'drug_name' and 'trial_phase' to improve dashboard loading times for clinical teams.",
+        "Documented the graph data model and its alignment with healthcare domain standards, producing entity-relationship diagrams that helped new team members understand the complex connections between medical entities.",
+        "Collaborated with data scientists to integrate pre-computed embeddings from patient data into Neo4j nodes, enabling similarity searches that helped identify potential candidates for clinical trials based on historical treatment graphs.",
+        "Developed a gradual rollout strategy for Neo4j version updates, using blue-green deployments in AKS to minimize downtime and allow instant rollback if any compatibility issues arose with existing healthcare applications."
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "environment": [
+        "Neo4j",
+        "AWS",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "DynamoDB",
+        "Graph DB",
+        "Production Environments",
+        "HIPAA Compliance",
+        "CI/CD",
+        "Containerized Workloads",
+        "Python",
+        "FastAPI",
+        "Terraform",
+        "Prometheus"
+      ],
+      "responsibilities": [
+        "Planned the deployment of a Neo4j database on AWS EKS to model public health data relationships for the state's disease surveillance system, ensuring the architecture met stringent HIPAA compliance requirements for patient information.",
+        "Implemented data pipelines that transformed EHR extracts from PostgreSQL sources into graph format, creating nodes for patients, providers, and diagnoses, and edges for treatment relationships and care pathways.",
+        "Deployed the Neo4j instance using Kubernetes manifests and managed persistent volumes on AWS, configuring automatic backups to S3 with retention policies aligned with public health data governance standards.",
+        "Monitored the graph database's performance and resource consumption using CloudWatch and a sidecar Prometheus exporter, establishing baseline metrics for normal operation during low and high surveillance reporting periods.",
+        "Optimized the Cypher queries used by epidemiology dashboards, adding query hints and restructuring MATCH clauses to efficiently traverse large chains of disease transmission relationships during outbreak investigations.",
+        "Troubleshooted an issue where slow write performance occurred during daily data loads, identifying a missing index on patient identifier properties and adding it to speed up the node merge operations significantly.",
+        "Built a GraphQL layer over Neo4j using an open-source library, allowing frontend developers to query the public health graph without writing Cypher, which accelerated the development of new surveillance reporting features.",
+        "Established access control lists and database encryption at rest using AWS KMS, working with the security team to ensure the Neo4j deployment passed internal audits for handling protected health information.",
+        "Executed a disaster recovery drill by restoring the Neo4j database from an S3 snapshot to a different AWS region, validating the recovery time objective and documenting the steps for the operations team's runbook.",
+        "Configured Jenkins pipelines to apply Neo4j schema changes as part of the application deployment process, integrating Cypher scripts that created constraints and indexes before new application versions went live.",
+        "Analyzed the graph model's scalability as data volume grew, proposing and implementing a sharding strategy based on geographic regions to distribute the load and improve query performance for localized health data.",
+        "Documented the entire Neo4j operation procedure, including startup/shutdown sequences, backup verification steps, and common troubleshooting scenarios, creating a knowledge base for the state's IT support staff."
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "environment": [
+        "Neo4j",
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "Graph DB",
+        "Production Environments",
+        "PCI-DSS Compliance",
+        "Python",
+        "Kubernetes",
+        "Containerized Workloads",
+        "CI/CD",
+        "Terraform",
+        "Prometheus"
+      ],
+      "responsibilities": [
+        "Planned the introduction of a Neo4j graph database to model financial transaction networks for fraud detection, designing the AWS ECS deployment to integrate with existing PCI-DSS compliant data pipelines and security controls.",
+        "Implemented anomaly detection algorithms that traversed transaction graphs to identify unusual patterns of money movement, writing Cypher queries that calculated centrality metrics and detected cyclic transfer patterns.",
+        "Deployed the Neo4j container on AWS Fargate to simplify cluster management, using Terraform to define the task definitions, security groups, and EFS volumes for persistent graph storage across container replacements.",
+        "Monitored the fraud detection system's performance, tracking metrics like query latency and graph update frequency to ensure real-time transaction scoring remained within the required sub-second thresholds for payment processing.",
+        "Optimized the data synchronization process between the core banking PostgreSQL database and Neo4j, implementing a change data capture pattern that kept the transaction graph current with minimal impact on source systems.",
+        "Troubleshooted a data inconsistency issue where some transaction edges were missing in the graph, tracing the problem to a race condition in the ingestion pipeline and implementing a locking mechanism to ensure data integrity.",
+        "Built a reporting module that visualized transaction networks for fraud investigators, using Neo4j's spatial functions to map transaction flows geographically and temporal functions to highlight time-based anomalies.",
+        "Established a rigorous testing framework for all Cypher queries used in production, creating a suite of unit tests that validated query results against known synthetic fraud patterns before deployment to live systems.",
+        "Executed regular security patches and minor version updates for Neo4j, coordinating with the cybersecurity team to review vulnerability reports and schedule maintenance windows that minimized impact on fraud monitoring operations.",
+        "Configured Blue/Green deployment patterns for the Neo4j-backed fraud detection service, allowing new algorithm versions to be tested with live traffic before fully cutting over, reducing risk in the production financial environment."
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "PostgreSQL",
+        "SQL",
+        "Python",
+        "Data Pipelines",
+        "ETL",
+        "Data Warehousing",
+        "Consulting"
+      ],
+      "responsibilities": [
+        "Planned the data extraction strategy for a client's customer analytics project, using Sqoop to migrate data from legacy Oracle systems into Hadoop HDFS for processing, ensuring minimal downtime during the cutover.",
+        "Implemented Informatica workflows to transform and cleanse the raw customer data, applying business rules for data standardization and deduplication before loading it into the target data warehouse for reporting.",
+        "Deployed the batch processing jobs on a Hadoop cluster, scheduling them with Oozie to run during off-peak hours and configuring alerting for job failures to ensure daily data freshness for business users.",
+        "Monitored the performance of long-running Sqoop jobs, identifying bottlenecks in network throughput and adjusting the parallelism settings to optimize data transfer speeds between source and target systems.",
+        "Optimized Hive queries used by the analytics team, rewriting them to better leverage map-side joins and partition pruning, which reduced query execution times from hours to minutes for common customer segmentation analyses.",
+        "Troubleshooted data quality issues reported by business users, tracing inaccuracies back to a misconfigured Informatica mapping and correcting the transformation logic to properly handle null values from source systems.",
+        "Built a simple data validation framework using Python scripts that compared record counts and checksums between source and target systems, providing early detection of data pipeline failures or inconsistencies.",
+        "Documented the entire ETL architecture and data flow diagrams for the client's knowledge base, creating operational manuals that enabled their internal team to maintain the system after the consulting engagement ended."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

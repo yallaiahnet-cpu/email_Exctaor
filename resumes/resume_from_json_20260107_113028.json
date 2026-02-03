@@ -1,0 +1,250 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI Engineer - RAG & LLM Agents",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI Engineering specializing in RAG and multi-agent systems, having built enterprise-grade solutions across Healthcare, Insurance, Government, and Finance domains with stringent regulatory compliance requirements.",
+    "Architected and deployed multi-agent systems using LangGraph and Crew AI to automate complex healthcare workflows, integrating with Pinecone vector stores and implementing sophisticated context management to handle PHI data according to HIPAA regulations.",
+    "Developed RAG pipelines with advanced hallucination reduction techniques and token optimization strategies, leveraging LangChain for prompt chains and function calling to improve accuracy of medical document retrieval by forty-five percent.",
+    "Engineered agent frameworks with robust tool calling logic and REST API integration, enabling autonomous agents to interact with EHR systems and insurance claim platforms while maintaining strict audit trails for compliance verification.",
+    "Implemented comprehensive memory management systems for LLM agents using AWS SageMaker and Bedrock, designing stateful conversational flows that maintained context across multiple healthcare provider interactions and patient queries.",
+    "Optimized LLM latency and throughput for real-time insurance underwriting assistants, employing asynchronous execution patterns and implementing caching layers that reduced response times from seconds to milliseconds.",
+    "Built evaluation pipelines and observability frameworks using LangSmith and Arize to monitor agent performance in production, tracing prompt chains and identifying failure modes in complex multi-agent healthcare workflows.",
+    "Designed secure guardrails and content filters for financial LLM agents, integrating PCI-DSS compliance checks and implementing runtime validations that prevented unauthorized data exposure in banking environments.",
+    "Led the development of internal agent frameworks that supported CI/CD pipelines and infrastructure-as-code deployments, enabling rapid iteration and A/B testing of different RAG retrieval strategies for government portals.",
+    "Created unit testing suites for non-deterministic LLM outputs, developing statistical validation methods and confidence scoring mechanisms that improved reliability of automated medical coding agents by thirty-eight percent.",
+    "Integrated agents with internal data fabric systems and legacy healthcare databases, building custom connectors and data normalization layers that enabled unified querying across disparate medical record formats.",
+    "Managed vector database operations including chunking strategies, embedding model selection, and hybrid search implementations using Weaviate and Milvus, significantly improving recall rates for clinical trial document retrieval.",
+    "Exposed agent capabilities via secure API layers with authentication and rate limiting, enabling other development teams to incorporate AI functionality into insurance policy management and claims processing applications.",
+    "Conducted debugging and triage sessions to resolve agent loops and unpredictable model behaviors, analyzing LangSmith traces to identify root causes in prompt chain execution and adjusting temperature parameters accordingly.",
+    "Documented agent architectures and reasoning flows for cross-functional iteration, maintaining a centralized prompt template library and creating runbooks for common failure scenarios in production healthcare AI systems.",
+    "Collaborated with data engineering teams to build data pipelines feeding into RAG systems, implementing incremental updates and versioning strategies for embedding stores containing millions of medical research documents.",
+    "Facilitated agile delivery of AI features across sprint cycles, estimating complexity of agent workflows and coordinating with product teams to prioritize latency optimization and hallucination reduction initiatives.",
+    "Mentored junior engineers on multi-agent system design patterns and RAG best practices, conducting code reviews and pair programming sessions focused on context window management and function calling implementations."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "Crew AI",
+      "ADK",
+      "Java",
+      "FastAPI"
+    ],
+    "LLM & Agent Technologies": [
+      "RAG Pipelines",
+      "Multi-Agent Systems",
+      "LLM Agents",
+      "Prompt Chains",
+      "Tool Calling",
+      "Function Calling",
+      "Context Management",
+      "Memory Management"
+    ],
+    "Performance Optimization": [
+      "Hallucination Reduction",
+      "Token Optimization",
+      "Latency Optimization",
+      "Throughput Optimization",
+      "Caching Strategies",
+      "Async Processing"
+    ],
+    "Vector Databases & Search": [
+      "Pinecone",
+      "Milvus",
+      "Weaviate",
+      "Embeddings",
+      "Vector Search",
+      "Hybrid Search",
+      "Semantic Retrieval",
+      "Chunking Strategies"
+    ],
+    "API Development & Integration": [
+      "REST API Development",
+      "REST API Consumption",
+      "Third-Party API Integration",
+      "Internal Systems Integration",
+      "Data Fabric Integration",
+      "Webhook Systems"
+    ],
+    "Engineering Practices & Observability": [
+      "Unit Testing for Stochastic Outputs",
+      "Debugging and Triage",
+      "Tracing and Observability",
+      "Agile Delivery",
+      "Sprint Execution",
+      "LangSmith",
+      "Arize"
+    ],
+    "LLMOps & MLOps": [
+      "Eval Pipelines",
+      "Vector DB Management",
+      "CI/CD",
+      "Infrastructure as Code",
+      "Model Deployment",
+      "Performance Monitoring",
+      "A/B Testing"
+    ],
+    "Cloud & Deployment": [
+      "AWS (SageMaker, Lambda, Bedrock, EC2, S3)",
+      "Azure (ML Studio, Data Factory)",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "Security & Compliance": [
+      "Guardrails",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "GDPR Compliance",
+      "Authentication",
+      "Authorization",
+      "Audit Logging",
+      "Data Encryption"
+    ],
+    "Data Processing & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Apache Spark",
+      "Apache Kafka",
+      "Pandas",
+      "NumPy",
+      "Data Pipelines"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Implemented LangGraph for orchestrating multi-agent systems that processed healthcare supply chain documents, designing state machines that managed conversation flows between procurement agents and inventory management systems while maintaining HIPAA compliance.",
+        "Built RAG workflows using Pinecone vector stores and OpenAI embeddings to retrieve relevant medical product specifications, implementing advanced chunking strategies and metadata filtering that improved retrieval accuracy by thirty-two percent for clinical staff queries.",
+        "Developed tool calling logic with LangChain that enabled agents to interface with EHR systems through REST APIs, creating authentication middleware that validated user permissions before accessing protected health information according to regulatory requirements.",
+        "Engineered context management systems for long-running medical coding assistance agents, implementing sliding window approaches and summarization techniques that maintained relevant patient history across extended diagnostic conversations.",
+        "Optimized token usage across agent workflows by implementing prompt compression and response streaming, reducing costs by twenty-eight percent while maintaining accuracy in prescription verification tasks that involved complex drug interaction checks.",
+        "Designed hallucination reduction mechanisms using retrieval-augmented generation with multiple verification steps, incorporating confidence scoring and fallback strategies that decreased incorrect medical advice generation by forty-one percent.",
+        "Created unit tests for non-deterministic outputs from insurance prior-authorization agents, developing statistical validation frameworks that compared results against human expert reviews and flagged inconsistencies for manual inspection.",
+        "Integrated agents with AWS Bedrock for model inference, building fault-tolerant pipelines that handled API rate limiting and implemented exponential backoff retry logic for high-availability healthcare consultation services.",
+        "Implemented memory management for patient assistance chatbots using Redis caches and serialization techniques, enabling continuity across multiple sessions while automatically purging sensitive data after compliance-mandated retention periods.",
+        "Built observability pipelines with LangSmith to trace prompt chains through multi-agent diagnostic systems, identifying bottlenecks in clinical guideline retrieval and optimizing embedding search parameters to reduce latency.",
+        "Developed security guardrails that screened agent responses for PHI leaks before delivery to end-users, implementing regex patterns and custom classifiers that caught potential violations during pre-production testing phases.",
+        "Architected CI/CD pipelines for agent deployment using GitHub Actions and Terraform, enabling blue-green deployments of RAG systems that minimized downtime for hospital inventory management platforms.",
+        "Conducted debugging sessions to resolve agent loops in prior-authorization workflows, analyzing conversation transcripts to identify repetitive query patterns and adjusting termination conditions in LangGraph state machines.",
+        "Collaborated with healthcare compliance officers to document agent decision flows, creating visualization tools that mapped reasoning steps for audit purposes and regulatory review of automated medical coding decisions.",
+        "Optimized latency for real-time symptom checking agents by implementing concurrent tool execution and response streaming, reducing average consultation time from forty-five to twelve seconds for urgent care scenarios.",
+        "Managed vector database operations including embedding model updates and index rebalancing, establishing monitoring alerts for recall degradation and scheduling maintenance windows during low-traffic hospital hours."
+      ],
+      "environment": [
+        "Python, LangChain, LangGraph, Crew AI, Pinecone, OpenAI APIs, AWS SageMaker, AWS Bedrock, AWS Lambda, FastAPI, Redis, PostgreSQL, Docker, Kubernetes, Terraform, GitHub Actions, LangSmith, HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Constructed multi-agent systems using Crew AI for insurance claims processing automation, coordinating specialist agents for policy verification, benefit calculation, and fraud detection while maintaining strict audit trails.",
+        "Designed RAG pipelines with Weaviate vector stores to retrieve relevant insurance policy clauses and regulatory documents, implementing hybrid search that combined semantic understanding with exact keyword matching for complex claims.",
+        "Engineered prompt chains for pre-authorization determination agents that incorporated patient history and treatment guidelines, reducing manual review requirements by thirty-five percent for standard outpatient procedures.",
+        "Developed function calling frameworks that enabled agents to query claims databases and update case statuses, implementing transaction rollback mechanisms that preserved data integrity during multi-step insurance approvals.",
+        "Implemented context management for member service chatbots handling deductible explanations and coverage questions, maintaining conversation history across channel switches from web chat to telephone support systems.",
+        "Optimized token consumption in explanation-of-benefits generators using template-based response assembly and variable substitution, decreasing processing costs by twenty-two percent while improving clarity for policyholders.",
+        "Built hallucination prevention layers for insurance policy interpretation agents, incorporating fact-checking against verified source documents and requiring high-confidence retrievals before generating coverage determinations.",
+        "Created evaluation pipelines for claim denial prediction models, comparing agent recommendations against human adjuster decisions and calculating precision-recall metrics to identify areas for prompt chain improvements.",
+        "Integrated agents with legacy mainframe systems through REST API wrappers, handling COBOL data format conversions and implementing caching to reduce load on aging insurance policy administration platforms.",
+        "Developed debugging procedures for agent inconsistencies in copayment calculations, tracing through LangSmith to identify ambiguous prompt phrasing and refining instructions with explicit examples and edge cases.",
+        "Implemented latency optimization for real-time eligibility verification agents using concurrent API calls and request batching, meeting SLA requirements for provider portal integrations during peak enrollment periods.",
+        "Designed security guardrails that filtered agent responses for personally identifiable information, incorporating insurance-specific data patterns and regulatory requirements for member privacy protection.",
+        "Managed vector database schema evolution as insurance regulations updated, implementing versioned embeddings and migration scripts that ensured continuity of service during annual policy changes.",
+        "Conducted triage sessions for production issues with premium calculation agents, analyzing error logs and implementing circuit breakers that prevented cascading failures during system outages."
+      ],
+      "environment": [
+        "Python, Crew AI, LangChain, Weaviate, AWS SageMaker, AWS Lambda, FastAPI, PostgreSQL, Redis, Docker, REST APIs, Insurance Regulations, HIPAA, CI/CD Pipelines"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Developed RAG systems for government document retrieval using Azure Cognitive Search and custom embeddings, enabling citizens to query complex regulatory texts and receive accurate summaries of eligibility requirements for social programs.",
+        "Built agent frameworks that assisted with government form completion, implementing tool calling to validate input data against eligibility databases and providing real-time feedback on application inconsistencies before submission.",
+        "Engineered prompt chains for public service information chatbots that handled frequently asked questions about licensing procedures, reducing call center volume by twenty-eight percent during business hours.",
+        "Implemented context management for multi-turn conversations about tax regulations, maintaining session state across complex query sequences that involved cross-referencing multiple government publications and rulings.",
+        "Optimized token usage in legislative document summarization agents by implementing extractive summarization as preprocessing step, decreasing generative LLM costs while maintaining compliance with document retention policies.",
+        "Designed hallucination reduction mechanisms for legal reference agents using citation requirements and source attribution, ensuring every generated response included verifiable references to state statutes and administrative codes.",
+        "Created unit tests for stochastic outputs from benefit eligibility screening agents, comparing results against known test cases and implementing confidence thresholds that triggered human review for borderline determinations.",
+        "Integrated agents with legacy government systems through secure API gateways, handling authentication with Active Directory and implementing role-based access controls that complied with state security standards.",
+        "Developed debugging protocols for agent inaccuracies in permit processing guidance, conducting root cause analysis that identified gaps in training data and supplementing with additional regulatory document ingestion.",
+        "Implemented latency improvements for high-traffic public information portals using Azure caching services and content delivery networks, meeting performance requirements during annual tax filing periods.",
+        "Built security guardrails that screened agent responses for sensitive citizen information, implementing data loss prevention patterns and encryption for personally identifiable information in transit and at rest.",
+        "Managed vector database updates as regulations changed, establishing change management procedures that included stakeholder review before deploying updated embeddings for revised statutory language."
+      ],
+      "environment": [
+        "Python, LangChain, Azure ML Studio, Azure Cognitive Search, Azure Data Factory, PostgreSQL, FastAPI, Docker, Government Regulations, Security Compliance"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Constructed data pipelines feeding into early RAG prototypes for financial document analysis, processing SEC filings and earnings reports with Apache Spark and storing embeddings in Milvus for experimental retrieval systems.",
+        "Developed API integrations that connected prototype agents to transaction monitoring systems, implementing secure authentication and audit logging that met PCI-DSS requirements for financial data access.",
+        "Engineered context management for customer service chatbot experiments that handled basic account inquiries, maintaining conversation history within compliance-mandated data retention windows for financial institutions.",
+        "Implemented token optimization techniques in credit risk assessment prototypes, experimenting with prompt compression methods that reduced input costs while preserving accuracy in financial ratio calculations.",
+        "Designed hallucination prevention measures for prototype agents explaining fee structures, incorporating verification against official disclosure documents and implementing confidence scoring for generated explanations.",
+        "Created evaluation frameworks for experimental fraud detection agents, comparing machine-generated alerts against confirmed cases and calculating detection rates to guide model selection decisions.",
+        "Integrated prototype systems with existing data warehouses through Azure Data Factory pipelines, ensuring data freshness for embeddings while maintaining separation between production and experimental environments.",
+        "Developed debugging procedures for inconsistent outputs from prototype financial advice agents, tracing through execution logs to identify ambiguous financial terminology requiring disambiguation in prompts.",
+        "Implemented latency testing for real-time transaction categorization prototypes, measuring response times under simulated peak loads and optimizing database queries to meet financial service performance standards.",
+        "Built security controls that filtered prototype outputs for sensitive financial information, incorporating pattern matching for account numbers and implementing data masking for demonstration environments."
+      ],
+      "environment": [
+        "Python, Early RAG Prototypes, Milvus, Apache Spark, Azure Data Factory, PostgreSQL, PCI-DSS Compliance, Financial Regulations"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Assisted in building foundational data pipelines for healthcare analytics platforms, processing medical imaging metadata with Python and SQL while maintaining strict adherence to early HIPAA compliance requirements.",
+        "Supported development of basic retrieval systems for medical literature, implementing keyword search functionality with PostgreSQL full-text indexing and experimenting with early semantic similarity approaches.",
+        "Contributed to context management prototypes for patient data visualization tools, helping implement session persistence that allowed physicians to review historical lab results across multiple visits.",
+        "Participated in token optimization experiments for medical report generation systems, assisting with template-based approaches that structured data for clear presentation while minimizing redundant information.",
+        "Aided in designing basic hallucination checks for automated report drafting systems, implementing rule-based validation that flagged statistically improbable findings for clinician review before finalization.",
+        "Helped create evaluation metrics for diagnostic suggestion algorithms, comparing system recommendations against physician diagnoses and tracking accuracy improvements across development iterations.",
+        "Supported integration of analytics systems with hospital databases through ODBC connections, assisting with data mapping exercises that translated legacy medical coding systems to modern standards.",
+        "Assisted in debugging data quality issues in patient cohort analysis tools, tracing inconsistencies to source system variations and documenting findings for data engineering remediation efforts."
+      ],
+      "environment": [
+        "Python, SQL, Oracle, MySQL, PostgreSQL, Healthcare Analytics, HIPAA Compliance, Medical Data Processing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

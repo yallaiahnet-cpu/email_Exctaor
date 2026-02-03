@@ -811,6 +811,9 @@
                 <a href="/fulltime" class="small-btn" style="background:#FF6347 !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">🚀 Northwestern + AI + Dev</a>
                 <a href="/project_summary_prompt" class="small-btn" style="background:#FF8C00 !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">📋 Project Summary Generator</a>
                 <a href="/sent_emails_viewer" class="small-btn" style="background:#6a5acd !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">📊 Sent Emails Archive</a>
+                <a href="/otter_link" class="small-btn" style="background:#92fe9d !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">🎙️ Otter Links</a>
+                <a href="/salesforce_prompt_generator" class="small-btn" style="background:#00a1e0 !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">⚡ Salesforce</a>
+                <a href="/salesforce_prompt_generator_role_change" class="small-btn" style="background:#1798c1 !important; color:#000000 !important; font-weight:700 !important; border-color:#000000 !important;">⚡ Salesforce + Role Change</a>
             </div>
         </div>
 
@@ -994,6 +997,17 @@
                 const opt = document.createElement('option'); opt.value=''; opt.text='No senders available'; select.appendChild(opt); updateSenderPhoneDisplay(''); return;
             }
             availableSenders.forEach(s => { const opt=document.createElement('option'); opt.value=s.email; opt.text = `${s.email} (${s.name||''})`; select.appendChild(opt); });
+            
+            // Restore saved sender selection from localStorage
+            const savedSenderEmail = localStorage.getItem('selectedSenderEmail');
+            if (savedSenderEmail) {
+                // Check if the saved sender still exists in available senders
+                const savedSender = availableSenders.find(s => s.email === savedSenderEmail);
+                if (savedSender) {
+                    select.value = savedSenderEmail;
+                }
+            }
+            
             updateSenderInfoFromSelect();
         }
 
@@ -1003,12 +1017,34 @@
             const list = availableSenders.filter(s => !query || s.email.toLowerCase().includes(query) || (s.name||'').toLowerCase().includes(query) || (s.phone||'').toLowerCase().includes(query));
             if (!list.length) { const opt=document.createElement('option'); opt.value=''; opt.text='No senders match'; select.appendChild(opt); updateSenderPhoneDisplay(''); return; }
             list.forEach(s=>{ const opt=document.createElement('option'); opt.value=s.email; opt.text=`${s.email} (${s.name||''})`; select.appendChild(opt); });
-            select.selectedIndex = 0; updateSenderInfoFromSelect();
+            
+            // Try to restore saved sender if it's in the filtered list
+            const savedSenderEmail = localStorage.getItem('selectedSenderEmail');
+            if (savedSenderEmail) {
+                const savedSenderInList = list.find(s => s.email === savedSenderEmail);
+                if (savedSenderInList) {
+                    select.value = savedSenderEmail;
+                } else {
+                    select.selectedIndex = 0;
+                }
+            } else {
+                select.selectedIndex = 0;
+            }
+            updateSenderInfoFromSelect();
         }
 
         function updateSenderInfoFromSelect() {
             const select = document.getElementById('sender-select'); if (!select) return;
-            const email = select.value; const sender = (availableSenders||[]).find(s=>s.email===email);
+            const email = select.value; 
+            
+            // Save selected sender to localStorage
+            if (email) {
+                localStorage.setItem('selectedSenderEmail', email);
+            } else {
+                localStorage.removeItem('selectedSenderEmail');
+            }
+            
+            const sender = (availableSenders||[]).find(s=>s.email===email);
             const recruiterEmailInput = document.getElementById('recruiterEmail'); const recruiterNameInput = document.getElementById('recruiterName');
             if (sender) {
                 // Only update recruiter email if it's empty - don't overwrite extracted recruiter email

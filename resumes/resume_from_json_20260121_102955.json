@@ -1,0 +1,207 @@
+{
+  "name": "Preethi Mahakala",
+  "title": "Senior Full Stack Java Developer",
+  "contact": {
+    "email": "preethimahakala330@gmail.com",
+    "phone": "+1 (571)351-1281",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/preethi330/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Focused on building scalable web applications across Banking, Healthcare, and Retail sectors using modern frontend frameworks like NextJs and ReactJs, paired with robust Java Spring Boot backends.",
+    "Configured TypeScript with Object Oriented JavaScript patterns to ensure type safety and maintainable code structure across large-scale enterprise applications.",
+    "Operationalized Material UI components to accelerate the delivery of consistent, accessible user interfaces that adhere to strict industry design standards.",
+    "Collaborated with architecture teams to define RESTful API contracts, enabling seamless data flow between NextJs frontends and NodeJS microservices.",
+    "Facilitated the integration of SQL databases within containerized Docker environments to support persistent data layers for customer-facing applications.",
+    "Partnered with DevOps engineers to establish Git-based CI/CD pipelines using Kubernetes, which automated deployments and reduced manual release efforts.",
+    "Assembled comprehensive unit test suites with Jest and React Testing Library to validate component logic and improve code reliability before production merges.",
+    "Assisted in performance tuning exercises using Webpack to minimize bundle sizes and enhance the loading speed of ReactJs single-page applications.",
+    "Coordinated daily Agile ceremonies, utilizing JIRA to track user stories and ensure timely delivery of features aligned with business priorities.",
+    "Guided junior team members through complex debugging sessions on Linux servers, fostering knowledge sharing and strengthening team problem-solving capacity."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Java",
+      "Java Spring Boot",
+      "TypeScript",
+      "JavaScript",
+      "Object Oriented JavaScript",
+      "NodeJS",
+      "HTML 5",
+      "CSS 3.0"
+    ],
+    "Frontend Development & Libraries": [
+      "NextJs",
+      "ReactJs",
+      "Material UI",
+      "Redux",
+      "Context API",
+      "React Query"
+    ],
+    "Backend Development & API": [
+      "RESTful APIs",
+      "Microservices Architecture",
+      "API Design",
+      "Server-Side Rendering"
+    ],
+    "Database Technologies": [
+      "SQL",
+      "MySQL",
+      "Database Design",
+      "Query Optimization"
+    ],
+    "Cloud Platforms & Infrastructure": [
+      "AWS",
+      "Cloud Deployment",
+      "Server Management"
+    ],
+    "DevOps & Containerization": [
+      "Docker",
+      "Kubernetes",
+      "Container Orchestration",
+      "Pod Management"
+    ],
+    "CI/CD & Automation Tools": [
+      "CI/CD Pipelines",
+      "Jenkins",
+      "GitLab CI",
+      "Automated Testing"
+    ],
+    "Version Control & Collaboration": [
+      "Git",
+      "Version Control Systems",
+      "GitHub",
+      "GitLab",
+      "Code Reviews"
+    ],
+    "Testing & Quality Assurance": [
+      "Jest",
+      "React Testing Library",
+      "Unit Testing",
+      "Integration Testing"
+    ],
+    "Build Tools & Performance": [
+      "Web Pack",
+      "Build Optimization",
+      "Performance Monitoring",
+      "Lighthouse"
+    ],
+    "Development Methodologies": [
+      "Agile Development",
+      "Scrum",
+      "JIRA",
+      "Confluence"
+    ],
+    "Operating Systems & Servers": [
+      "Linux",
+      "Bash Scripting",
+      "Server Administration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Sr Java Software Developer",
+      "client": "Northern Trust Bank",
+      "duration": "2023-Apr - Present",
+      "location": "Dallas, TX",
+      "responsibilities": [
+        "Architected a new client portal using NextJs and TypeScript, which replaced a legacy system and improved page load times for high-net-worth banking customers.",
+        "Constructed a suite of reusable Material UI components, established a shared design library that accelerated frontend development for three separate internal teams.",
+        "Migrated a critical fund calculation module from a monolithic Java application to a Spring Boot microservice, enhancing its scalability and testability.",
+        "Established a Docker-based local development environment that mirrored the AWS production stack, reducing onboarding time for new developers from one week to two days.",
+        "Integrated Jest and React Testing Library into the CI/CD pipeline, which automatically ran unit tests on every Git commit and blocked merges with insufficient coverage.",
+        "Deployed the primary customer dashboard application to a Kubernetes cluster on AWS, configured Helm charts for consistent deployment across staging and production.",
+        "Monitored application performance with AWS CloudWatch, identified a memory leak in a NodeJS service, and patched it during the next scheduled maintenance window.",
+        "Reviewed SQL query patterns for the new portfolio feature, suggested index additions that decreased average response time from 450ms to under 100ms.",
+        "Participated in daily stand-ups and bi-weekly sprint planning sessions, used JIRA to break down complex regulatory requirements into actionable development tasks.",
+        "Mentored two junior developers on ReactJs best practices and code review etiquette, which improved the overall quality of pull requests submitted by the team.",
+        "Troubleshot a production issue where CSS styles broke on older browsers, implemented a polyfill solution via Webpack that restored consistent UI rendering.",
+        "Documented the API integration process between the NextJs frontend and Spring Boot backend, created Confluence pages that became the team's standard reference."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "NextJs",
+        "ReactJs",
+        "TypeScript",
+        "Material UI",
+        "NodeJS",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "SQL",
+        "Git",
+        "Jest",
+        "Webpack",
+        "JIRA",
+        "Linux"
+      ]
+    },
+    {
+      "role": "Java Software Developer",
+      "client": "Oscar Health",
+      "duration": "2019-Dec - 2022-Sep",
+      "location": "New York, NY",
+      "responsibilities": [
+        "Developed patient management dashboard features with ReactJs and Context API, ensuring the UI complied with HIPAA regulations for data display and security.",
+        "Engineered RESTful APIs with Java Spring Boot to handle sensitive healthcare data, implemented robust input validation and audit logging for all data access.",
+        "Built automated CI/CD pipelines with Jenkins that deployed Docker containers to a Kubernetes cluster, enabling reliable zero-downtime updates for critical systems.",
+        "Tested new enrollment flow components extensively with React Testing Library, which caught several edge-case bugs before the feature reached members.",
+        "Assembled a reporting module that queraled complex SQL joins to generate patient eligibility reports, optimized queries to run within strict SLA windows.",
+        "Configured GitLab merge requests to require two approvals and successful pipeline execution, which became a team standard and reduced regression bugs.",
+        "Updated the build configuration in Webpack to split vendor and application code, which decreased the initial load time of the main application by a significant margin.",
+        "Worked closely with QA analysts to reproduce and fix bugs logged in JIRA, often pair-programming to understand the exact user scenario that caused the issue.",
+        "Applied Object Oriented JavaScript principles to refactor a large, tangled React component into smaller, composable functions that were easier to test and maintain.",
+        "Produced technical documentation for the claims processing integration, diagrammed the data flow to assist the support team during off-hours escalations."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "ReactJs",
+        "JavaScript",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "SQL",
+        "GitLab",
+        "JIRA",
+        "Webpack",
+        "Linux",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "client": "Home Depot",
+      "duration": "2017-Nov - 2019-Nov",
+      "location": "Dallas, TX",
+      "responsibilities": [
+        "Created product search and filtering components for the e-commerce website using ReactJs and plain CSS, which handled high traffic during holiday sales events.",
+        "Implemented backend services with Java to manage inventory data, wrote SQL stored procedures to update stock levels in real-time based on online purchases.",
+        "Deployed application updates using a manual process to on-premise Linux servers, followed a detailed runbook to ensure consistency across all environments.",
+        "Monitored application logs for errors after each release, often stayed late to fix any urgent issues that arose from the deployment before the store opening.",
+        "Used Git for version control, participated in code reviews to learn best practices and suggest small improvements to colleagues' implementations.",
+        "Supported the migration of static HTML pages to a more dynamic React-based structure, which laid the groundwork for future personalization features."
+      ],
+      "environment": [
+        "Java",
+        "ReactJs",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin Milwaukee",
+      "degree": "Master\u2019s in Information Technology",
+      "field": "",
+      "year": "2023-2025"
+    }
+  ],
+  "certifications": []
+}

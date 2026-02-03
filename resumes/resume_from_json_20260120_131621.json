@@ -1,0 +1,274 @@
+{
+  "personal_info": {
+    "name": "Yallesh Onteru",
+    "title": "Salesforce Service Cloud Lead Developer",
+    "email": "onteru.sfdc@gmail.com",
+    "phone": "7372310791",
+    "location": "",
+    "linkedin": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Salesforce development, specializing in Service Cloud implementations and leading technical teams across Banking, E-Commerce, Manufacturing, and Consumer Goods domains.",
+    "Employed Apex to develop batch jobs that processed high volumes of banking cases, improving data accuracy and aligning with SOX compliance mandates for secure financial service operations.",
+    "Utilized Lightning Web Components to build a modern customer service portal for an e-commerce platform, enhancing agent productivity by streamlining case and order management workflows.",
+    "Applied Service Cloud architecture knowledge to design a manufacturing support system, incorporating Email-to-Case and Omni-Channel features to connect factory floors with technical support teams.",
+    "Configured the Salesforce Service Cloud data model for a consumer goods company, extending Case Management to track product quality issues and manage retailer communications effectively.",
+    "Executed a full lifecycle implementation of Service Cloud for a banking client, covering requirements gathering, solution design with Apex and LWC, and post-deployment support.",
+    "Managed the setup and customization of Omni-Channel routing for a technology enterprise, ensuring balanced case distribution and integrating with a Knowledge Base for faster resolutions.",
+    "Formulated integrations using REST API to connect Salesforce Service Cloud with external banking systems, enabling real-time data sync for customer account and case information.",
+    "Directed a team of developers in building custom Visualforce pages for complex case logging interfaces, adhering to Salesforce governor limits and security models.",
+    "Chaired code review sessions to enforce best practices in Apex development, focusing on trigger logic and asynchronous processing for scalable Service Cloud solutions.",
+    "Organized the deployment process using Salesforce DX and Git, establishing a CI/CD pipeline that reduced deployment errors for Service Cloud feature releases.",
+    "Adapted core Service Cloud features like Web-to-Case and Knowledge Base to meet automotive industry needs, supporting dealership service operations and customer inquiries.",
+    "Tailored Email-to-Case configurations for a manufacturing environment, parsing technical error reports from equipment to auto-create and route cases to appropriate specialists.",
+    "Guided junior team members on troubleshooting complex technical issues in Service Cloud, sharing knowledge on debugging Apex code and resolving platform performance challenges.",
+    "Reviewed and optimized existing Service Cloud implementations, suggesting enhancements based on new Salesforce releases to improve case handling and customer satisfaction metrics.",
+    "Fashioned detailed technical documentation for Service Cloud configurations and custom Apex code, facilitating knowledge transfer and ongoing system maintenance.",
+    "Assembled cross-functional meetings with business analysts and project managers to translate customer service requirements into technical specifications for Service Cloud development.",
+    "Established a testing framework for Service Cloud customizations, ensuring new Apex classes and Lightning Web Components functioned correctly before production deployment."
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Apex"
+    ],
+    "frameworks": [
+      "Visualforce",
+      "Lightning Web Components (LWC)"
+    ],
+    "databases": [],
+    "cloud_technologies": [
+      "Salesforce Service Cloud"
+    ],
+    "ui_technologies": [],
+    "tools": [
+      "Email-to-Case",
+      "Omni-Channel",
+      "Knowledge Base",
+      "Case Management",
+      "Web-to-Case"
+    ],
+    "version_control": [
+      "Git"
+    ],
+    "testing_tools": [],
+    "other_skills": [
+      "REST API",
+      "SOAP API",
+      "Salesforce DX",
+      "CI/CD",
+      "Salesforce Security Model",
+      "Governor Limits",
+      "Full Lifecycle Implementation"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Comerica Bank",
+      "location": "Texas, United States",
+      "role": "Senior Salesforce Service Cloud Lead Developer",
+      "start_date": "Feb 2025",
+      "end_date": "Present",
+      "project": [
+        {
+          "name": "Banking Customer Service Platform",
+          "project_summary": "Led the technical design and implementation of a unified Service Cloud platform for retail banking. The main goal was to consolidate customer service channels, automate case routing for fraud and account inquiries, and ensure strict compliance with PCI-DSS and SOX regulations through a secure Salesforce architecture.",
+          "responsibilities": [
+            "Plan the integration of Service Cloud with core banking systems using REST API, mapping data flows for customer profiles and transaction details to support case creation.",
+            "Develop Apex triggers and batch jobs to process incoming fraud alerts, converting them into cases and applying secure data handling as per PCI-DSS standards.",
+            "Construct Lightning Web Components for the internal agent console, providing a unified view of customer cases, account details, and communication history.",
+            "Assemble Omni-Channel configurations to route high-priority banking cases based on agent skill and regulatory expertise, improving first-contact resolution rates.",
+            "Deploy the solution using Salesforce DX and Git, managing release cycles and coordinating with the security team for SOX compliance sign-offs.",
+            "Monitor system performance post-launch, analyzing Apex governor limit usage and adjusting batch job schedules to handle peak banking hours.",
+            "Optimize Case Management workflows by refining assignment rules and escalation processes for time-sensitive loan and account service requests.",
+            "Troubleshoot integration failures with external payment systems, debugging SOAP API callouts and implementing error handling in Apex.",
+            "Plan enhancements to the Email-to-Case setup, enabling automatic classification of customer emails into specific banking product queues.",
+            "Develop a comprehensive Knowledge Base for banking products, allowing agents to quickly access policy documents and standard responses.",
+            "Construct a set of Visualforce pages for complex dispute case logging that required multi-step data capture and attachment management.",
+            "Assemble and lead weekly technical discussions with a team of five developers, reviewing Apex code and LWC designs for the Service Cloud.",
+            "Deploy security model updates, defining object and field-level permissions to protect sensitive customer financial data within Salesforce.",
+            "Monitor and refine the full lifecycle implementation process, introducing new tools for requirement tracking and test case management.",
+            "Optimize the Web-to-Case functionality on the public banking website, ensuring forms captured necessary KYC details for efficient case creation.",
+            "Troubleshoot agent console performance issues, identifying inefficient SOQL queries in Apex controllers and redesigning them for better speed."
+          ],
+          "environment": [
+            "Salesforce Service Cloud",
+            "Apex",
+            "Lightning Web Components (LWC)",
+            "Visualforce",
+            "REST API",
+            "SOAP API",
+            "Email-to-Case",
+            "Omni-Channel",
+            "Case Management",
+            "Web-to-Case",
+            "Knowledge Base",
+            "Salesforce DX",
+            "Git",
+            "CI/CD",
+            "Salesforce Security Model"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Dell Technologies",
+      "location": "Round Rock, Texas, United States",
+      "role": "Salesforce Service Cloud Lead Developer",
+      "start_date": "Nov 2023",
+      "end_date": "Jan 2025",
+      "project": [
+        {
+          "name": "Enterprise Technology Support Platform",
+          "project_summary": "Directed the enhancement of Dell's global Service Cloud instance for technical support. The main agenda was to scale the platform to handle millions of support cases from enterprise customers, integrate with internal product catalog and order management systems, and improve agent efficiency through automation and a centralized Knowledge Base.",
+          "responsibilities": [
+            "Planned the expansion of Service Cloud for a new e-commerce support division, designing case object extensions to link with product SKUs and shopping cart data.",
+            "Built custom Apex classes to integrate case data with backend order management systems, ensuring support agents had real-time access to customer purchase history.",
+            "Created Lightning Web Components for a deal cart interface within the service console, allowing agents to quickly create replacement part orders during support calls.",
+            "Integrated Omni-Channel with the internal chat system, enabling customers to switch from web chat to voice while maintaining case context.",
+            "Launched a new Knowledge Base migration, converting thousands of product-specific articles for easy search within the Service Cloud console.",
+            "Observed system scalability during product launch events, tuning Apex batch processes that updated case priorities based on server-side metrics.",
+            "Improved Email-to-Case parsing logic to better identify product serial numbers and model details from customer support emails.",
+            "Resolved complex case assignment errors by debugging the Omni-Channel routing configuration and Apex trigger logic.",
+            "Planned and executed a full lifecycle implementation for a new Service Cloud feature, coordinating with business teams from design to deployment.",
+            "Built a reporting dashboard using Visualforce to track case volumes, agent performance, and e-commerce support metrics for management reviews.",
+            "Integrated REST APIs with third-party logistics systems, allowing agents to track replacement hardware shipments directly from the case page.",
+            "Coordinated with a team of eight developers, conducting code reviews and ensuring adherence to Salesforce governor limits in all new developments.",
+            "Launched the updated platform using CI/CD pipelines, managing deployment across multiple Salesforce sandboxes before production release.",
+            "Resolved data model inconsistencies that affected case reporting, cleaning up data and adjusting Apex data loaders for accuracy."
+          ],
+          "environment": [
+            "Salesforce Service Cloud",
+            "Apex",
+            "Lightning Web Components (LWC)",
+            "Visualforce",
+            "REST API",
+            "Email-to-Case",
+            "Omni-Channel",
+            "Knowledge Base",
+            "Case Management",
+            "Full Lifecycle Implementation",
+            "Salesforce DX",
+            "Git"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Herman Miller",
+      "location": "Michigan, United States",
+      "role": "Senior Salesforce Developer",
+      "start_date": "Sep 2020",
+      "end_date": "Sep 2023",
+      "project": [
+        {
+          "name": "Manufacturing Service Operations Hub",
+          "project_summary": "Architected a Service Cloud solution for Herman Miller's manufacturing and dealer network. The primary goal was to streamline technical support for production equipment and furniture installations, connecting factory technicians, field service agents, and parts inventory through a unified case management system.",
+          "responsibilities": [
+            "Planned the Service Cloud data model to support manufacturing-specific case types, linking them to equipment assets, supply chain parts, and quality control records.",
+            "Developed Apex web services that exposed case data to external manufacturing execution systems, facilitating real-time updates on production line issues.",
+            "Fabricated Lightning Web Components for field service tablets, allowing technicians to view assigned cases, access installation guides from the Knowledge Base, and log parts used.",
+            "Incorporated Web-to-Case forms into the supplier portal, enabling partners to report component quality issues that auto-created cases in the system.",
+            "Released enhanced Omni-Channel capabilities to prioritize cases from key production facilities, routing them to specialist teams based on product line expertise.",
+            "Watched system integrations with inventory management, verifying that case-related part requests accurately updated stock levels in the supply chain system.",
+            "Enhanced Email-to-Case functionality to parse machine error codes from automated system alerts, creating cases with the correct priority and assignment.",
+            "Fixed performance bottlenecks in Visualforce pages used for complex case analysis, optimizing SOQL queries and view state for manufacturing supervisors.",
+            "Planned a phased rollout of new Service Cloud features to regional manufacturing hubs, creating training materials focused on case management workflows.",
+            "Developed Apex trigger handlers to enforce business rules for case escalation when production delays exceeded predefined thresholds.",
+            "Integrated REST APIs with the quality management system, pulling in inspection data to provide context for material defect cases.",
+            "Released a major platform upgrade, migrating customizations to a new Salesforce org while maintaining all historical manufacturing case data."
+          ],
+          "environment": [
+            "Salesforce Service Cloud",
+            "Apex",
+            "Lightning Web Components (LWC)",
+            "Visualforce",
+            "REST API",
+            "Web-to-Case",
+            "Email-to-Case",
+            "Case Management",
+            "Omni-Channel",
+            "Knowledge Base"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Procter & Gamble",
+      "location": "Cincinnati, Ohio, United States",
+      "role": "Salesforce Developer",
+      "start_date": "Jan 2018",
+      "end_date": "Aug 2020",
+      "project": [
+        {
+          "name": "Consumer Goods Customer Support System",
+          "project_summary": "Contributed to the implementation of a Service Cloud platform for P&G's consumer-facing brands. The main objective was to manage customer inquiries and complaints across diverse product lines, integrate with marketing systems for campaign tracking, and provide agents with a Knowledge Base for standard responses and regulatory information.",
+          "responsibilities": [
+            "Planned the configuration of Case Management for consumer goods, creating different record types for product inquiries, complaints, and retailer support requests.",
+            "Wrote Apex classes to process batches of consumer feedback emails, categorizing sentiment and creating cases for follow-up by the brand teams.",
+            "Produced Visualforce pages for the quality assurance team to log detailed product issue reports, including image uploads and batch code tracking.",
+            "Embedded Knowledge Base articles into the case console, linking common questions to specific product lines and marketing promotions.",
+            "Rolled out a new Email-to-Case configuration for a major product launch, training agents on the updated case categorization and routing rules.",
+            "Monitored the integration between Service Cloud and the marketing automation platform, ensuring campaign-related cases were properly tagged for analysis.",
+            "Upgraded case assignment logic using Omni-Channel features, routing retailer inquiries to dedicated support agents based on geographic region.",
+            "Diagnosed issues with Web-to-Case forms on consumer brand websites, correcting field mappings and validation rules for better data quality.",
+            "Planned and developed a set of Apex test classes to cover new Service Cloud customizations, achieving required code coverage for deployment.",
+            "Integrated a REST API connection with the product lifecycle management system, allowing agents to check product specifications and ingredients directly from a case."
+          ],
+          "environment": [
+            "Salesforce Service Cloud",
+            "Apex",
+            "Visualforce",
+            "Case Management",
+            "Email-to-Case",
+            "Web-to-Case",
+            "Knowledge Base",
+            "Omni-Channel",
+            "REST API"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "BMW Toronto",
+      "location": "Toronto, Canada",
+      "role": "Salesforce Administrator",
+      "start_date": "Mar 2015",
+      "end_date": "Dec 2017",
+      "project": [
+        {
+          "name": "Automotive Dealership Service Management",
+          "project_summary": "Supported the administration and initial development of a Salesforce Service Cloud implementation for BMW Toronto's sales and service departments. The focus was on managing customer vehicle service appointments, tracking repair cases, and integrating with dealership inventory for parts availability, improving customer communication and service scheduling.",
+          "responsibilities": [
+            "Planned the basic Service Cloud setup, configuring case objects, queues, and assignment rules for vehicle service requests and sales inquiries.",
+            "Learned Apex fundamentals and wrote simple triggers to auto-populate case fields based on the vehicle model and service type selected.",
+            "Assisted in building a Visualforce page for service advisors to log detailed repair notes and link cases to specific vehicle service histories.",
+            "Helped integrate the Web-to-Case feature into the dealership website, allowing customers to submit online service appointment requests.",
+            "Supported the deployment of a basic Knowledge Base for common vehicle maintenance questions and BMW service bulletins for internal staff.",
+            "Observed case resolution times and provided reports to management, identifying bottlenecks in the service department workflow.",
+            "Aided in optimizing data entry by creating case page layouts and quick action buttons tailored for the automotive service process.",
+            "Assisted in troubleshooting user access issues, working with the security model to ensure correct permissions for sales and service teams."
+          ],
+          "environment": [
+            "Salesforce Service Cloud",
+            "Apex",
+            "Visualforce",
+            "Case Management",
+            "Web-to-Case",
+            "Knowledge Base"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "RVR & JC College of Engineering",
+      "location": "",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    ""
+  ]
+}

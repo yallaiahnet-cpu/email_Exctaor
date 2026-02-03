@@ -1,0 +1,296 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior MLOps & AI Agent Platform Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "A machine learning engineer with 10 years of experience across Insurance, Healthcare, Banking, and Consulting domains, integrating MLOps pipelines, agentic AI, and multi-agent systems into enterprise-grade production solutions.",
+    "Built scalable ML pipelines on GCP using Vertex AI and Kubeflow to automate model training and deployment for insurance risk assessment, reducing manual processes by half and ensuring compliance with governance frameworks.",
+    "Designed multi-agent orchestration systems with LangGraph and Model Context Protocol for healthcare applications, enabling autonomous agent-to-agent communication and tool-based decision-making within HIPAA boundaries.",
+    "Developed end-to-end ML lifecycle management platforms on AWS with MLflow, including model registry, testing, deployment, and monitoring, which improved model traceability and audit readiness for financial services.",
+    "Implemented observability tools and custom dashboards for model performance monitoring in banking environments, tracking drift and accuracy metrics to meet PCI-DSS requirements and reduce false positives.",
+    "Created CI/CD workflows for ML models using Docker and Kubernetes, integrating automated testing and security scans to streamline deployment and ensure system reliability in cloud-native insurance applications.",
+    "Established model governance frameworks with documentation, versioning, and explainability features, providing clear audit trails for regulatory submissions in both healthcare and financial sectors.",
+    "Configured vector databases and built RAG pipelines to support agent memory and retrieval workflows, improving the accuracy of enterprise chatbots and knowledge management systems for consulting clients.",
+    "Orchestrated complex data pipelines with Apache Spark and Airflow on Databricks, handling large-scale feature engineering and preprocessing tasks for machine learning models across different business domains.",
+    "Constructed secure REST APIs using Python and FastAPI to serve model predictions and agent execution endpoints, implementing authentication and rate limiting for low-latency, high-volume production traffic.",
+    "Managed cloud infrastructure provisioning on GCP and AWS with Terraform, setting up IAM roles, VPCs, and security groups to isolate sensitive data processing for healthcare and insurance workloads.",
+    "Optimized model inference performance by implementing techniques like quantization and model pruning, which reduced latency and resource consumption while maintaining prediction quality standards.",
+    "Collaborated with data science teams to operationalize scikit-learn, XGBoost, and PyTorch models, containerizing them and setting up A/B testing frameworks to validate performance before full rollout.",
+    "Supervised the transition from on-premise Hadoop and Informatica ecosystems to cloud-based ML platforms, migrating legacy workflows and training teams on modern MLOps practices and tools.",
+    "Formulated prompt engineering strategies and fine-tuning approaches for LLMs within agentic AI systems, improving response quality and reducing hallucinations in customer-facing applications.",
+    "Evaluated various AutoML tools for rapid prototyping and experimentation, selecting appropriate frameworks for different project phases while maintaining explainability and governance requirements.",
+    "Maintained feature stores to ensure consistency across ML and agent pipelines, enabling reuse of engineered features and reducing duplication of effort in model development cycles.",
+    "Organized knowledge transfer sessions and documented best practices for ML pipeline development and agent orchestration, upskilling cross-functional teams on emerging technologies and methodologies."
+  ],
+  "technical_skills": {
+    "Programming Languages & Data": [
+      "Python",
+      "Java",
+      "SQL",
+      "R",
+      "Scala",
+      "Bash"
+    ],
+    "Machine Learning Frameworks": [
+      "scikit-learn",
+      "XGBoost",
+      "TensorFlow",
+      "PyTorch",
+      "MLlib"
+    ],
+    "MLOps & Pipeline Platforms": [
+      "MLflow",
+      "Kubeflow",
+      "Vertex AI",
+      "Airflow",
+      "ML Ops Frameworks"
+    ],
+    "Cloud Platforms & Services": [
+      "GCP",
+      "AWS",
+      "Azure"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Big Data & Processing": [
+      "Spark",
+      "Databricks",
+      "Hadoop"
+    ],
+    "Agentic AI & Multi-Agent Systems": [
+      "LangChain",
+      "LangGraph",
+      "Model Context Protocol",
+      "A2A Protocols",
+      "Tool-Based Orchestration",
+      "Agent Development Kit",
+      "Multi-Agent Systems"
+    ],
+    "Model Deployment & APIs": [
+      "REST API Design",
+      "FastAPI",
+      "Flask"
+    ],
+    "Databases & Storage": [
+      "Vector Databases",
+      "PostgreSQL",
+      "MySQL",
+      "Redis"
+    ],
+    "DevOps & Infrastructure": [
+      "CI/CD",
+      "Git",
+      "Jenkins",
+      "Terraform",
+      "Cloud IAM"
+    ],
+    "Governance & Observability": [
+      "Model Governance Frameworks",
+      "Observability Tools",
+      "Model Monitoring"
+    ],
+    "Additional Tools": [
+      "Prompt Engineering",
+      "RAG Pipelines",
+      "Feature Stores",
+      "AutoML Tools"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Kubeflow",
+        "MLflow",
+        "Databricks",
+        "Spark",
+        "LangGraph",
+        "Model Context Protocol",
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "TensorFlow",
+        "Agent-to-Agent Protocols",
+        "Multi-Agent Systems",
+        "REST API",
+        "Vector Databases",
+        "RAG Pipelines",
+        "Cloud IAM",
+        "Observability Tools"
+      ],
+      "responsibilities": [
+        "Plan the architecture for a multi-agent insurance claims system using LangGraph and Model Context Protocol, designing agent roles and communication flows to handle document review, fraud detection, and customer communication.",
+        "Implement a proof-of-concept for agent-to-agent collaboration on GCP, integrating Vertex AI models with custom tools to process claims forms, validate policy details, and check against internal regulations automatically.",
+        "Deploy the multi-agent orchestration framework using Docker containers on Kubernetes, setting up service meshes and secure networking to ensure reliable communication between specialized agents in production.",
+        "Monitor agent performance and system health with custom observability dashboards, tracking metrics like decision accuracy, processing time, and error rates to identify bottlenecks in the automated claims workflow.",
+        "Optimize the vector database retrieval for agent memory, improving RAG pipeline efficiency by fine-tuning embeddings and indexing strategies to provide faster context access for complex insurance scenarios.",
+        "Troubleshoot intermittent failures in agent communication channels, analyzing logs and traces to resolve race conditions and timeout issues that impacted the end-to-end claims processing timeline.",
+        "Establish model governance protocols for all AI agents, documenting decision logic, creating audit trails, and implementing explainability features to maintain compliance with state insurance regulations.",
+        "Build CI/CD pipelines for agent code and model updates using Cloud Build and GitOps practices, automating testing and rollback procedures to ensure stable deployments with minimal manual oversight.",
+        "Configure GCP IAM roles and security policies for the multi-agent platform, defining least-privilege access controls and encrypting sensitive customer data processed by different agent components.",
+        "Develop training pipelines on Databricks using Spark for feature engineering, preparing large datasets of historical claims to train and validate the models powering various specialized agents.",
+        "Create a model registry with MLflow to version and manage agent models, enabling staged rollouts, A/B testing, and easy rollback to previous versions based on performance metrics and business feedback.",
+        "Design REST APIs to expose agent functionalities to external systems, implementing rate limiting and authentication to securely integrate with existing policy administration and customer service portals.",
+        "Conduct code reviews for agent logic and tool implementations, providing feedback to team members on best practices for error handling, logging, and maintaining clarity in complex decision-making code.",
+        "Coordinate with legal and compliance teams to validate agent decisions against insurance regulations, adjusting rules and thresholds to align with state-specific requirements and internal risk guidelines.",
+        "Participate in daily standups to track progress on agent development, discussing challenges with integrating legacy systems and planning incremental improvements to the overall orchestration platform.",
+        "Document the entire multi-agent system architecture and operational procedures, creating runbooks for common issues and onboarding materials for new engineers joining the insurance AI initiatives."
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Kubeflow",
+        "MLflow",
+        "Databricks",
+        "Spark",
+        "LangChain",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Docker",
+        "Kubernetes",
+        "Multi-Agent Systems",
+        "REST API",
+        "Vector Databases",
+        "RAG Pipelines",
+        "Cloud IAM",
+        "Observability Tools"
+      ],
+      "responsibilities": [
+        "Planned an AI agent platform for clinical trial document analysis, selecting LangChain as the framework to orchestrate agents for literature review, protocol comparison, and regulatory compliance checks.",
+        "Implemented healthcare RAG pipelines with vector databases on GCP, indexing medical literature and trial protocols to provide agents with contextual information while maintaining strict HIPAA compliance.",
+        "Deployed containerized ML models for adverse event prediction using Kubernetes on GCP, setting up autoscaling and resource limits to handle variable loads from different research teams across the organization.",
+        "Monitored model performance and data drift in production healthcare applications, creating alerts for accuracy degradation and scheduling retraining pipelines when validation metrics fell below defined thresholds.",
+        "Optimized the training pipelines for NLP models on Vertex AI, reducing computational costs by implementing early stopping, hyperparameter tuning, and using pre-trained models where appropriate.",
+        "Troubleshot data pipeline failures in Databricks jobs that prepared sensitive patient data for model training, fixing schema mismatches and permission issues that delayed weekly batch processing cycles.",
+        "Established a model governance framework with detailed documentation for each clinical AI application, tracking versions, training data, and validation results for audit purposes and regulatory submissions.",
+        "Built feature stores to standardize and reuse engineered features across multiple healthcare ML projects, improving consistency and reducing redundant computation in data preparation workflows.",
+        "Configured secure access to healthcare datasets using GCP IAM, implementing role-based controls and audit logging to ensure only authorized personnel and systems could process protected health information.",
+        "Developed RESTful APIs to serve model predictions to internal clinical applications, adding input validation and output logging to maintain traceability for every inference request in the system.",
+        "Created observability dashboards for multi-agent workflows, visualizing agent interactions, tool usage, and decision paths to help researchers understand and trust the automated analysis results.",
+        "Attended weekly meetings with medical affairs teams to gather requirements for new agent capabilities, translating clinical needs into technical specifications and prioritizing development tasks.",
+        "Mentored junior developers on healthcare AI best practices, reviewing their code for data handling, privacy safeguards, and error management in sensitive clinical data processing applications.",
+        "Documented the entire agent platform architecture and integration patterns, producing technical guides that enabled other teams to build compliant AI assistants for different therapeutic areas."
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "environment": [
+        "AWS",
+        "SageMaker",
+        "MLflow",
+        "Python",
+        "scikit-learn",
+        "XGBoost",
+        "Docker",
+        "Airflow",
+        "Spark",
+        "REST API",
+        "PostgreSQL",
+        "Cloud IAM",
+        "Observability Tools"
+      ],
+      "responsibilities": [
+        "Planned a machine learning system for predicting public health service demand, selecting AWS SageMaker for model development and deployment to analyze Medicaid claims data within HIPAA-compliant boundaries.",
+        "Implemented batch prediction pipelines with Airflow on AWS, scheduling nightly jobs to process incoming claims and generate forecasts for resource allocation across different healthcare facilities.",
+        "Deployed trained models as SageMaker endpoints with auto-scaling configurations, ensuring reliable inference performance during peak periods of data submission from various state healthcare providers.",
+        "Monitored model accuracy and data quality metrics through custom CloudWatch dashboards, setting up alarms for unexpected prediction patterns that could indicate issues with input data or model drift.",
+        "Optimized feature engineering code for performance, rewriting slow Python transformations into efficient Spark jobs that reduced processing time for large Medicaid datasets by significant margins.",
+        "Troubleshot connectivity issues between SageMaker endpoints and on-premise state databases, working with network teams to configure secure VPN tunnels and firewall rules for data transfer.",
+        "Established model documentation standards for public sector compliance, recording data sources, preprocessing steps, and validation results to meet state audit requirements and public transparency guidelines.",
+        "Built CI/CD pipelines using AWS CodePipeline for ML models, automating testing and deployment steps to reduce manual errors and accelerate updates to the public health forecasting system.",
+        "Configured AWS IAM policies for the ML platform, creating separate roles for data scientists, engineers, and auditors to maintain strict access controls on sensitive healthcare information.",
+        "Developed REST APIs to expose model predictions to internal dashboard applications, implementing caching layers to improve response times for frequently accessed forecast data.",
+        "Participated in compliance review meetings with state healthcare officials, explaining model methodologies and safeguards to ensure alignment with HIPAA regulations and state data privacy laws.",
+        "Documented system architecture and operational procedures, creating maintenance guides for state IT staff to manage and troubleshoot the ML platform after the initial implementation phase."
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "environment": [
+        "AWS",
+        "SageMaker",
+        "Python",
+        "scikit-learn",
+        "XGBoost",
+        "SQL",
+        "Airflow",
+        "Docker",
+        "REST API",
+        "PostgreSQL",
+        "Cloud IAM"
+      ],
+      "responsibilities": [
+        "Planned a fraud detection model development project, selecting appropriate algorithms and AWS infrastructure to handle sensitive transaction data while meeting PCI-DSS compliance requirements.",
+        "Implemented model training workflows on AWS SageMaker, preparing features from transaction histories and customer profiles to build classifiers that identified potentially fraudulent activities.",
+        "Deployed the fraud detection models as real-time inference endpoints, integrating them with transaction processing systems to provide immediate risk scores for authorization decisions.",
+        "Monitored model performance in production, tracking precision and recall metrics to balance fraud detection rates against false positives that could inconvenience legitimate customers.",
+        "Optimized feature selection processes, using statistical techniques to identify the most predictive transaction attributes while reducing dimensionality to improve model training efficiency.",
+        "Troubleshot data quality issues in training pipelines, working with data engineering teams to correct missing values and inconsistencies in historical transaction records from different banking systems.",
+        "Established model documentation for compliance reviews, detailing data sources, preprocessing steps, and validation methodologies to satisfy internal audit and regulatory reporting requirements.",
+        "Built scheduled retraining pipelines with Airflow, automating the process of incorporating new transaction data and updating models to adapt to evolving fraud patterns over time.",
+        "Configured secure data access using AWS IAM roles, ensuring that only authorized personnel could access sensitive customer transaction data during model development and evaluation phases.",
+        "Documented model development processes and results, creating presentations for business stakeholders that explained technical concepts in accessible language to support decision-making."
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Java",
+        "SQL",
+        "Python",
+        "Shell Scripting"
+      ],
+      "responsibilities": [
+        "Planned data migration projects for consulting clients, designing ETL workflows to transfer data from legacy systems to modern data warehouses using Informatica and Hadoop ecosystem tools.",
+        "Implemented daily batch data pipelines with Informatica PowerCenter, extracting data from source systems, applying transformations, and loading results into target databases for reporting and analysis.",
+        "Deployed Sqoop jobs to transfer data between relational databases and Hadoop HDFS, scheduling these jobs to run during off-peak hours to minimize impact on operational systems.",
+        "Monitored ETL job performance and data quality, creating shell scripts to check completion status and alert teams about failures or unexpected data volumes in the nightly processing cycles.",
+        "Optimized Hive queries for better performance on large datasets, rewriting inefficient joins and adding partitions to reduce query execution times for business intelligence reporting needs.",
+        "Troubleshooted failed data loads by examining Informatica session logs and Hadoop job trackers, identifying root causes like network timeouts, disk space issues, or schema changes in source systems.",
+        "Established documentation standards for ETL processes, creating data lineage maps and transformation rules that helped consulting clients understand how their data flowed through various systems.",
+        "Learned basic machine learning concepts through self-study and online courses, applying simple statistical analysis techniques to client data to identify trends and patterns for business insights."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

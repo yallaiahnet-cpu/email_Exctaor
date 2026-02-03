@@ -1,0 +1,296 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Azure AI Solutions Architect | M365 Copilot Specialist | Enterprise GenAI Platform Lead",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a senior AI architect with over ten years of specialized experience designing and implementing enterprise-scale Azure AI, M365 Copilot, and Generative AI solutions across regulated industries including Healthcare, Insurance, Government, and Finance.",
+    "Strategized the enterprise AI roadmap for a major healthcare provider by leveraging the Azure OpenAI Service and M365 Copilot ecosystem to define a secure, governed, and scalable approach for responsible AI adoption and innovation.",
+    "Architected a reference Azure AI architecture for a HIPAA-compliant RAG pipeline that integrated Azure Cognitive Search for vector retrieval, Azure Functions for orchestration, and implemented strict security guardrails and privacy controls.",
+    "Led the design of a multi-agent GenAI system using Crew AI and LangGraph frameworks on AKS, enabling complex healthcare workflows like automated clinical documentation and prior authorization processing with audit trails.",
+    "Engineered the integration between M365 Copilot Studio and proprietary healthcare data sources by establishing secure grounding mechanisms, RBAC patterns, and DLP policies to prevent PHI leakage in generated content.",
+    "Designed and deployed a complete MLOps/LLMOps automation framework using Azure DevOps and GitHub Actions, featuring CI/CD pipelines for model and prompt versioning, evaluation gates, and IaC with Terraform and Bicep.",
+    "Optimized the performance and cost of enterprise GenAI workloads by implementing caching strategies, intelligent batching, autoscaling policies on AKS, and rigorous monitoring of Azure OpenAI Service token usage.",
+    "Directed the implementation of Responsible AI governance for insurance applications by establishing red teaming protocols, safety filters, and compliance alignment with industry regulations for all LLM deployments.",
+    "Constructed an Azure AI Foundry-based platform for rapid prototyping of GenAI applications, enabling data scientists to build, evaluate, and deploy RAG agents and fine-tuned models with built-in evaluation metrics.",
+    "Pioneered the adoption of advanced vector search techniques within Azure Cognitive Search, implementing hybrid search with semantic reranking and optimizing chunking strategies to improve retrieval accuracy for financial data.",
+    "Mentored cross-functional teams of data engineers, ML engineers, and application developers on Azure AI Services, Azure Machine Learning best practices, and secure architectural patterns for scalable AI solutions.",
+    "Spearheaded the secure architectural design for integrating AI agents with core enterprise systems using API management, Azure Functions for serverless workflows, and implementing comprehensive access control patterns.",
+    "Championed the design of a unified observability and monitoring layer for GenAI applications using Azure Monitor and custom logging, tracking latency, token consumption, and quality drift across RAG pipelines.",
+    "Formulated a cost optimization strategy for Azure AI workloads by rightsizing AKS clusters, implementing quota management, and selecting optimal SKUs for Azure OpenAI Service and Cognitive Search based on usage patterns.",
+    "Orchestrated the development of a reusable prompt engineering library and evaluation suite to systematically test, version, and improve prompt templates for consistency and quality across multiple business units.",
+    "Guided the technical evaluation and selection of emerging AI frameworks, including LangChain, Semantic Kernel, and the Model Context Protocol, for building agentic workflows within the Azure ecosystem.",
+    "Authored comprehensive technical documentation and reference architectures for secure, scalable GenAI deployments, covering AKS, Databricks integration, and data residency requirements for global operations.",
+    "Catalyzed innovation while ensuring operational reliability by instituting rigorous code reviews, architectural review boards, and embedding security and compliance checks into every stage of the AI development lifecycle."
+  ],
+  "technical_skills": {
+    "Azure AI & Machine Learning": [
+      "Azure OpenAI Service",
+      "Azure AI Studio / Foundry",
+      "Azure AI Services (Cognitive Services)",
+      "Azure Machine Learning",
+      "Azure Cognitive Search (Vector Search)",
+      "Prompt Engineering",
+      "Fine-tuning LLMs"
+    ],
+    "M365 Copilot & Productivity": [
+      "M365 Copilot",
+      "Copilot Studio",
+      "M365 Architecture / Tenant Design",
+      "Graph API",
+      "SharePoint Syntex"
+    ],
+    "Generative AI & LLM Applications": [
+      "RAG Pipelines",
+      "LLM Applications",
+      "AI Agents / Multi-Agent Patterns",
+      "Embeddings & Retrieval Optimization",
+      "LangChain",
+      "Crew AI",
+      "LangGraph",
+      "Semantic Kernel",
+      "Model Context Protocol"
+    ],
+    "Cloud Architecture & Platforms": [
+      "Azure Functions",
+      "Azure Kubernetes Service (AKS)",
+      "Azure Databricks",
+      "Secure Scalable Architectures",
+      "API Management",
+      "Azure Container Registry"
+    ],
+    "Data Engineering & Analytics": [
+      "Databricks",
+      "Apache Spark",
+      "Delta Lake",
+      "Azure Data Factory",
+      "SQL",
+      "Python",
+      "Data Modeling"
+    ],
+    "DevOps, IaC & MLOps": [
+      "Azure DevOps",
+      "GitHub Actions",
+      "Terraform",
+      "Bicep",
+      "ARM Templates",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "CI/CD for AI"
+    ],
+    "Governance, Security & Compliance": [
+      "Responsible AI Governance",
+      "Security Best Practices",
+      "Privacy/Compliance Alignment (HIPAA, PCI, GDPR)",
+      "Access Control Patterns (RBAC)",
+      "Azure Policy",
+      "Azure Key Vault"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "PySpark",
+      "TypeScript",
+      "Bash/Shell Scripting",
+      "YAML"
+    ],
+    "Databases & Storage": [
+      "Azure SQL Database",
+      "Cosmos DB",
+      "Blob Storage",
+      "Data Lake Gen2",
+      "Vector Databases (Pinecone, Weaviate)"
+    ],
+    "Monitoring & Observability": [
+      "Azure Monitor",
+      "Application Insights",
+      "Log Analytics",
+      "Custom Metrics & Dashboards",
+      "Alerting"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected an enterprise GenAI platform on Azure using Azure OpenAI Service and Azure AI Studio to build HIPAA-compliant RAG agents for automating clinical supply chain documentation and reducing manual data entry errors.",
+        "Led a proof-of-concept for a multi-agent prescription prior authorization system using Crew AI and LangGraph on AKS, where agents coordinated to validate insurance, check drug interactions, and generate compliant approval letters.",
+        "Engineered a high-performance vector search pipeline with Azure Cognitive Search, experimenting with different chunking strategies and embedding models to optimize retrieval of complex medical device documentation for grounding LLM responses.",
+        "Implemented a comprehensive Responsible AI governance framework, incorporating automated safety filters, content moderation via Azure AI Content Safety, and red teaming sessions to mitigate risks in patient-facing AI applications.",
+        "Designed and deployed the CI/CD infrastructure for LLMOps using GitHub Actions and Terraform, automating the promotion of prompt versions, RAG pipeline configurations, and agent workflows from development to production.",
+        "Built a secure integration between M365 Copilot and internal medical catalog data using Copilot Studio, implementing strict RBAC and data loss prevention policies to ensure PHI remained within approved governance boundaries.",
+        "Optimized the cost and latency of our Azure OpenAI Service consumption by implementing a semantic caching layer, request batching, and configuring autoscaling on our AKS-hosted API gateway to handle variable demand.",
+        "Orchestrated the migration of a legacy ML workload to Azure Machine Learning, refactoring the training pipeline to incorporate MLOps practices and enabling model retraining triggered by data drift detection in medical claim patterns.",
+        "Mentored a team of three junior engineers on Azure AI Services and prompt engineering techniques, conducting weekly code reviews and pair programming sessions to improve the quality and security of our GenAI deliverables.",
+        "Troubleshot a persistent issue with agent hallucination in our clinical note summarization tool by refining the prompt chaining logic, enhancing the grounding context from Azure Cognitive Search, and implementing a post-generation fact-checking step.",
+        "Spearheaded the design of a Model Context Protocol server to standardize tool access for our AI agents, enabling secure and auditable interactions with internal databases and APIs while maintaining compliance boundaries.",
+        "Configured Azure Policy and Azure Blueprints to enforce security guardrails across our AI resource group, ensuring all deployments automatically adhered to network isolation, encryption, and logging standards required for healthcare data.",
+        "Developed a custom evaluation pipeline to measure RAG performance, tracking metrics like retrieval precision, answer faithfulness, and latency, which we used to iteratively improve our chunking and embedding strategies over several sprints.",
+        "Collaborated with legal and compliance teams to document the data lineage and algorithmic impact of our GenAI solutions, creating detailed artifacts for internal audits and demonstrating adherence to HIPAA and FDA guidelines.",
+        "Facilitated architectural review sessions with enterprise stakeholders to align our Azure AI architecture with long-term business goals, balancing innovation velocity with the necessity for robust security and operational reliability.",
+        "Investigated and resolved a production incident where an agent workflow stalled, requiring deep debugging of the LangGraph state management and implementing better error handling and retry logic within our Azure Functions orchestration layer."
+      ],
+      "environment": [
+        "Azure OpenAI Service",
+        "Azure AI Studio",
+        "Azure Cognitive Search",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Functions",
+        "Crew AI",
+        "LangGraph",
+        "Model Context Protocol",
+        "GitHub Actions",
+        "Terraform",
+        "Azure DevOps",
+        "Azure Machine Learning",
+        "M365 Copilot",
+        "Copilot Studio",
+        "Azure Policy",
+        "Azure Key Vault"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Designed a scalable RAG architecture on Azure to power an internal expert assistant for insurance policy documents, utilizing Azure OpenAI Service for generation and Azure Cognitive Search with hybrid search for retrieval.",
+        "Built a proof-of-concept AI agent using LangChain to automate the pre-authorization inquiry process, where the agent could retrieve member benefits, check coverage rules, and draft initial determination letters.",
+        "Integrated Azure AI Services, including Form Recognizer and Text Analytics, into existing data pipelines to extract and classify sensitive information from uploaded claim documents, ensuring PII was handled per compliance standards.",
+        "Established the foundational MLOps practices for our team by setting up Azure DevOps pipelines for model training, using Azure Machine Learning for experiment tracking, and implementing approval gates for production deployments.",
+        "Developed a secure API layer using Azure Functions to expose our RAG pipeline to internal web applications, implementing JWT-based authentication and authorization to control access based on user roles and departments.",
+        "Conducted prompt engineering sessions to refine the instructions and few-shot examples for our claim denial explanation generator, systematically testing variations to improve clarity and reduce incorrect information.",
+        "Optimized the vector index in Azure Cognitive Search by tuning the embedding dimensions and implementing a custom reranking model, which significantly improved the relevance of retrieved policy clauses for complex member queries.",
+        "Participated in daily stand-ups and sprint planning to coordinate the development of AI features with front-end and QA teams, often debugging integration issues related to API payloads and authentication flows.",
+        "Documented the technical architecture and data flow diagrams for our AI systems, focusing on how data privacy was maintained and how the solutions aligned with insurance industry regulations and internal audit requirements.",
+        "Assisted in the cost management of Azure AI resources by setting up budget alerts, analyzing usage reports, and recommending the consolidation of underutilized Cognitive Search instances to reduce monthly expenditure.",
+        "Supported the evaluation of a multi-agent framework for a more complex benefits navigation scenario, researching the feasibility of using agents for coordinated tasks like eligibility verification and provider network checks.",
+        "Configured logging and monitoring for our AI applications using Azure Monitor, creating dashboards to track request volume, latency percentiles, and error rates for the Azure OpenAI Service and our custom APIs.",
+        "Worked closely with the security team to perform vulnerability assessments on our AI application containers, addressing findings by updating base images and implementing network security groups in our AKS cluster.",
+        "Led a knowledge-sharing session on the fundamentals of vector search and embeddings for other data engineers, demystifying the concepts and showing practical examples using our own insurance document corpus."
+      ],
+      "environment": [
+        "Azure OpenAI Service",
+        "Azure Cognitive Search",
+        "Azure Functions",
+        "Azure Machine Learning",
+        "Azure DevOps",
+        "LangChain",
+        "Azure AI Services (Form Recognizer)",
+        "Azure Kubernetes Service (AKS)",
+        "Python",
+        "PySpark",
+        "Azure Databricks",
+        "Azure Monitor"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Developed and maintained AWS Glue ETL jobs to process citizen service data, ensuring pipelines adhered to public sector data governance and privacy standards before loading into Amazon Redshift for reporting.",
+        "Built interactive dashboards in Amazon QuickSight to visualize program eligibility and service utilization trends, enabling state agency leaders to make data-driven decisions about resource allocation.",
+        "Collaborated with application teams to design secure data APIs using AWS Lambda and API Gateway, implementing authentication to control access to sensitive citizen information stored in Amazon S3 data lakes.",
+        "Supported the migration of several on-premise SQL Server databases to Amazon RDS, writing transformation scripts and validating data integrity to ensure a seamless cutover with minimal service disruption.",
+        "Automated routine data quality checks using Python and AWS Step Functions, flagging anomalies in benefit distribution data for manual review and helping to maintain trust in public-facing statistics.",
+        "Participated in Agile ceremonies, providing estimates for data engineering tasks and troubleshooting pipeline failures related to schema changes in source systems from other government departments.",
+        "Assisted in the design of a data warehouse schema in Redshift to consolidate information from disparate social service programs, optimizing queries for performance to support timely reporting requirements.",
+        "Documented data lineage and dictionary entries for key datasets, contributing to the agency's metadata catalog and improving discoverability for analysts across different government teams.",
+        "Configured AWS CloudTrail and logging for our data pipelines to maintain an audit trail for compliance purposes, demonstrating how citizen data was handled throughout its lifecycle.",
+        "Monitored and tuned the performance of Redshift clusters, resizing them based on workload patterns and implementing distribution and sort keys to improve query execution times for complex joins.",
+        "Worked with security auditors to explain our data encryption practices at rest and in transit, showcasing our use of AWS KMS and IAM policies to protect sensitive personally identifiable information.",
+        "Provided on-call support for critical data pipelines, responding to alerts and resolving issues related to data source unavailability or processing bottlenecks to ensure daily reports were generated on schedule."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Amazon Redshift",
+        "AWS Lambda",
+        "Amazon S3",
+        "Amazon RDS",
+        "Python",
+        "SQL",
+        "AWS Step Functions",
+        "AWS CloudTrail",
+        "AWS IAM",
+        "Amazon QuickSight"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Engineered Apache Spark streaming jobs on AWS EMR to process real-time credit card transaction data for fraud detection, implementing windowing functions to identify anomalous spending patterns within PCI-DSS guidelines.",
+        "Built dimensional data models in Amazon Redshift to support analytics for customer behavior and marketing campaign performance, ensuring data consistency and fast query response for business intelligence teams.",
+        "Developed scalable data ingestion pipelines using AWS Lambda and Amazon Kinesis to load application log data into an Amazon S3 data lake, partitioning the data for efficient querying with Amazon Athena.",
+        "Automated the deployment and configuration of EMR clusters using AWS CloudFormation templates, reducing cluster launch time and ensuring a consistent, secure environment for running Spark workloads.",
+        "Worked with data scientists to productionize machine learning models for customer churn prediction, containerizing the inference code with Docker and deploying it as a scalable service on AWS ECS.",
+        "Implemented data validation and quality checks within our Airflow DAGs, ensuring that downstream financial reports were accurate and complete before being distributed to regulatory and business stakeholders.",
+        "Optimized the performance of critical Spark SQL queries by analyzing execution plans, adjusting shuffle partitions, and leveraging broadcast joins to handle large-scale joins between transaction and customer datasets.",
+        "Participated in peer code reviews for ETL logic and infrastructure-as-code templates, providing feedback on best practices for error handling, logging, and security configuration in the AWS environment.",
+        "Assisted in troubleshooting a production data pipeline failure by analyzing CloudWatch logs and Spark UI history, identifying a memory leak in a custom UDF and refactoring the code to resolve the issue.",
+        "Documented the architecture and operational runbooks for our big data platform, enabling other team members to support the system and onboard new engineers more efficiently into our development process."
+      ],
+      "environment": [
+        "Apache Spark",
+        "AWS EMR",
+        "Amazon Redshift",
+        "Amazon S3",
+        "AWS Lambda",
+        "Amazon Kinesis",
+        "AWS CloudFormation",
+        "Apache Airflow",
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS ECS"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Authored complex SQL queries against Oracle and PostgreSQL databases to extract and analyze medical diagnostic data, supporting research into pattern recognition for early disease detection from medical images.",
+        "Developed interactive reports and dashboards using Power BI to visualize key metrics for laboratory operational efficiency, helping managers track sample throughput and turnaround times across different regions.",
+        "Cleaned and prepared large volumes of structured and semi-structured healthcare data for analysis, using Python scripts to handle missing values, standardize formats, and ensure patient confidentiality was preserved.",
+        "Collaborated with data scientists and medical researchers to understand their analytical requirements, translating business questions into technical specifications for data extraction and analysis.",
+        "Performed exploratory data analysis to identify trends and correlations in pathology reports, summarizing findings in presentations that informed the development priorities for the AI-based diagnostic platform.",
+        "Assisted in validating the outputs of machine learning models by comparing model predictions against annotated gold-standard datasets, documenting discrepancies for the engineering team to investigate.",
+        "Maintained and updated existing Tableau dashboards as new data sources were integrated, ensuring reports remained accurate and performant as the underlying data volume grew significantly.",
+        "Participated in team meetings to discuss data quality issues, propose improvements to our ETL processes, and share insights from recent analyses that could impact product development decisions."
+      ],
+      "environment": [
+        "SQL",
+        "Python",
+        "Oracle",
+        "PostgreSQL",
+        "Power BI",
+        "Tableau",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

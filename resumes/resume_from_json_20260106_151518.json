@@ -1,0 +1,279 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Technical Lead - Database & ETL Engineering (GCP, Snowflake, DOMO)",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 7 years of experience specializing in cloud-native data platform architecture, database migrations, and real-time ETL/ELT pipelines across Healthcare, Insurance, Government, and Finance domains.",
+    "Orchestrated the migration of legacy healthcare data from on-premise MySQL to Google Cloud Spanner, designing a scalable schema and implementing CDC for continuous synchronization, which improved report generation latency by 65% for Medline's analytics team.",
+    "Formulated a config-driven ETL framework using Dataflow and Pub/Sub for Blue Cross Blue Shield, enabling rapid onboarding of new insurance claim tables with built-in HIPAA-compliant validation, reducing deployment time from weeks to days.",
+    "Managed the full lifecycle of data migrations for the State of Arizona, including schema design, incremental delta loads with watermarking, and cutover playbooks, ensuring zero data loss for critical government entitlement programs.",
+    "Structured enterprise data models and naming conventions across PostgreSQL and Cloud SQL for Discover Financial, enforcing PCI-DSS constraints and keys that streamlined audit processes and enhanced data lineage tracking.",
+    "Championed schema evolution strategy using backward-compatible versioning and rollout procedures for Snowflake tables, allowing non-disruptive updates to production DOMO dashboards that served financial risk analysts.",
+    "Integrated near-real-time streaming pipelines with Pub/Sub and Dataflow to process healthcare device events, implementing idempotency and a retry strategy with DLQ handling to guarantee reliable data delivery.",
+    "Constructed a reusable pattern for batch and streaming ingestion into BigQuery, applying delta processing techniques to manage large-scale Medicaid and Medicare datasets while maintaining strict data governance rules.",
+    "Directed a team of offshore database engineers, conducting daily code reviews and enforcing schema standards, which accelerated the delivery of multiple concurrent migration projects for enterprise clients.",
+    "Pioneered the automation of CI/CD deployments for database schema changes and pipeline configurations using Jenkins and Terraform, minimizing manual errors and enabling rapid rollback capabilities.",
+    "Evaluated and optimized advanced SQL queries, indexing strategies, and query execution plans for AlloyDB instances, resolving performance bottlenecks that impacted critical patient care reporting systems.",
+    "Assembled comprehensive runbooks and RCA templates for data operations, documenting troubleshooting steps for pipeline failures and reprocessing scenarios, which improved team incident response time by 40%.",
+    "Examined complex data integration challenges in the insurance domain, architecting solutions that merged batch historical data with real-time streaming feeds for a unified member eligibility view.",
+    "Administered the reliability engineering of event-driven pipelines, ensuring watermarking and reconciliation processes functioned correctly to support accurate financial compliance reporting in DOMO.",
+    "Guided the implementation of Cloud Storage (GCS) as a landing zone for raw data, designing curation layers in Snowflake that fed into DOMO dashboards for executive-level healthcare operational insights.",
+    "Performed hands-on development and leadership of data migration playbooks, personally debugging subtle race conditions during cutover weekends that ensured successful system transitions.",
+    "Consolidated disparate data sources from AS/400 and MongoDB systems into a governed cloud data platform, applying schema design principles to model both relational and document data effectively.",
+    "Cultivated a team culture of quality and ownership through mentoring, detailed design sessions, and collaborative problem-solving on complex data synchronization and transformation tasks."
+  ],
+  "technical_skills": {
+    "Analytics & Reporting Platforms": [
+      "Snowflake",
+      "DOMO",
+      "BigQuery",
+      "Power BI"
+    ],
+    "Relational & Cloud-Native Databases": [
+      "Google Cloud Spanner",
+      "Google Cloud SQL",
+      "AlloyDB",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "GCP Data & Streaming Services": [
+      "Pub/Sub",
+      "Dataflow",
+      "Cloud Storage (GCS)",
+      "BigQuery"
+    ],
+    "Data Engineering & Modeling": [
+      "Data Modeling (Conceptual/Logical/Physical)",
+      "Schema Design & Evolution",
+      "ETL/ELT Pipelines",
+      "Data Integration"
+    ],
+    "Migration & Synchronization": [
+      "Data Migrations (Full/Incremental)",
+      "CDC / Delta Loads",
+      "Data Synchronization",
+      "Watermarking"
+    ],
+    "Advanced SQL & Performance": [
+      "Advanced SQL Tuning",
+      "Query Plan Optimization",
+      "Indexing Strategies",
+      "Partitioning"
+    ],
+    "Streaming & Event-Driven Architecture": [
+      "Near-Real-Time Streaming",
+      "Batch Processing",
+      "Idempotency Design",
+      "Retry & DLQ Strategy"
+    ],
+    "DevOps & DataOps": [
+      "CI/CD for Databases",
+      "CI/CD for ETL Jobs",
+      "Infrastructure as Code",
+      "Monitoring & Alerting"
+    ],
+    "Leadership & Delivery": [
+      "Offshore Team Leadership",
+      "Stakeholder Partnership",
+      "Code & Design Reviews",
+      "Delivery Ownership"
+    ],
+    "Documentation & Operations": [
+      "Runbook Creation",
+      "Cutover Playbooks",
+      "RCA Templates",
+      "Operational Documentation"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Java",
+      "Bash/Shell"
+    ],
+    "Legacy & NoSQL Systems": [
+      "AS/400",
+      "MongoDB",
+      "Cassandra",
+      "DB2"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Utilized Snowflake to address slow-performing DOMO dashboards for hospital supply analytics, re-architected the underlying ELT pipelines with optimized virtual warehouses, and slashed dashboard load times from minutes to under 15 seconds.",
+        "Leveraged Google Cloud Spanner to solve scalability issues with patient inventory transactions, designed a distributed schema with interleaved tables and secondary indexes, which supported a 300% increase in concurrent users without performance degradation.",
+        "Applied Dataflow and Pub/Sub to create a near-real-time streaming pipeline for IoT data from medical devices, implemented stateful processing with precise watermarking, and enabled sub-2-minute latency for critical alert dashboards.",
+        "Employed a config-driven ETL framework to onboard new product catalog tables from MySQL, authored reusable JSON configs for transformations and validation, which cut the average onboarding cycle from 3 weeks to 4 business days.",
+        "Executed a full-scale migration from on-premise PostgreSQL to Cloud SQL, developed a comprehensive cutover playbook with rollback steps, and completed the transition over a weekend with zero HIPAA compliance violations.",
+        "Orchestrated incremental CDC loads from AlloyDB to BigQuery using Debezium, built reconciliation jobs to ensure data consistency, and established a reliable process for daily syncs of 50+ million patient records.",
+        "Formulated a schema evolution strategy for critical HL7 data models, introduced versioned table structures and backward-compatible views, allowing seamless updates without disrupting existing clinical reporting applications.",
+        "Administered a team of three offshore ETL engineers, conducted bi-weekly design reviews and pair programming sessions, and successfully delivered four major pipeline modules ahead of the project schedule.",
+        "Automated CI/CD deployments for all Dataflow jobs and DDL scripts using Cloud Build and Terraform, integrated automated regression testing, which reduced deployment-related incidents by over 70%.",
+        "Investigated a complex data duplication issue in a streaming pipeline, traced it to a missing event-time watermark, corrected the Dataflow job logic, and established monitoring to prevent future occurrences.",
+        "Pioneered the integration of agentic frameworks (Crew AI, LangGraph) for automated data quality checks, creating multi-agent systems that performed anomaly detection on incoming HIPAA-protected data streams.",
+        "Charted the physical data model for a new healthcare analytics zone in Snowflake, defined clustering keys and materialized views tailored for DOMO's query patterns, improving complex join performance by 60%.",
+        "Documented detailed runbooks for pipeline failure scenarios, including steps for replay and backfill from Cloud Storage, which empowered the operations team to handle outages independently.",
+        "Evaluated the performance of various indexing strategies on Cloud SQL for high-volume order processing tables, selected and implemented optimal indexes that reduced write latency by 40% during peak hours.",
+        "Mentored junior engineers on advanced SQL tuning and query plan interpretation, sharing practical debugging techniques that improved the team's ability to self-resolve performance issues.",
+        "Consolidated logging and monitoring for all GCP data services into a unified dashboard, configured alerts for pipeline health, and decreased mean time to detection for data latency issues."
+      ],
+      "environment": [
+        "GCP",
+        "Snowflake",
+        "DOMO",
+        "Google Cloud Spanner",
+        "Cloud SQL",
+        "AlloyDB",
+        "Pub/Sub",
+        "Dataflow",
+        "BigQuery",
+        "Cloud Storage",
+        "MySQL",
+        "PostgreSQL",
+        "CI/CD",
+        "Python",
+        "SQL",
+        "Terraform"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Architected a Snowflake data lakehouse to centralize disparate insurance claims data, implemented robust ELT processes with dbt, and powered DOMO dashboards that provided a 360-degree view of member utilization.",
+        "Designed the schema for a new policy administration system in PostgreSQL, incorporating complex business rules for co-pays and deductibles as database constraints, ensuring data integrity for millions of members.",
+        "Built a reusable framework for incremental data loads from AWS RDS (PostgreSQL) using logical decoding, crafted watermarking logic to handle late-arriving data, and maintained strict SLA for daily data freshness.",
+        "Led the migration of legacy actuarial models from SAS datasets to a cloud-native platform, transformed the ETL logic into Python-based Airflow DAGs, and improved model execution reproducibility.",
+        "Developed a near-real-time pipeline for claims adjudication events using Kafka and Spark Streaming, engineered idempotent writes to the data warehouse, reducing duplicate record issues by 95%.",
+        "Guided a team of two offshore developers in building config-driven data validation modules, establishing quality gates that automatically flagged anomalous insurance claim amounts before reporting.",
+        "Implemented a comprehensive data reconciliation process post-migration, writing complex SQL scripts to compare source and target systems, which ensured 100% accuracy for critical financial reporting data.",
+        "Optimized slow-running SQL queries on large claims history tables by analyzing query plans, introducing strategic partitioning and covering indexes, which decreased report generation time from hours to minutes.",
+        "Created a library of reusable SQL transformation patterns for common insurance concepts like member eligibility and provider networks, accelerating the development of new analytical datasets.",
+        "Established a CI/CD pipeline for database changes using Liquibase and Jenkins, automating the promotion of schema changes from dev to prod, which minimized manual deployment errors.",
+        "Partnered with onshore business architects to translate complex insurance regulations into technical data model requirements, ensuring the schema supported compliant reporting and audits.",
+        "Troubleshot a persistent data latency issue in a streaming pipeline by instrumenting detailed logging, identified a network bottleneck, and worked with cloud support to reconfigure the infrastructure.",
+        "Documented the end-to-end data flow for key insurance products, creating lineage diagrams that were used for both onboarding new team members and for regulatory compliance demonstrations.",
+        "Conducted weekly knowledge-sharing sessions on ETL best practices and AWS Glue optimizations, fostering a culture of continuous learning and improvement within the data engineering team."
+      ],
+      "environment": [
+        "AWS",
+        "Snowflake",
+        "DOMO",
+        "PostgreSQL",
+        "Apache Airflow",
+        "dbt",
+        "Apache Kafka",
+        "Spark Streaming",
+        "Python",
+        "SQL",
+        "CI/CD",
+        "Liquibase",
+        "Jenkins"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Engineered the migration of citizen benefit data from legacy Oracle systems to AWS Redshift, designed the target schema for SNAP and TANF programs, and executed a phased cutover that minimized service disruption.",
+        "Constructed batch ETL pipelines using AWS Glue to ingest data from various government departments, applied data quality rules to ensure accuracy for public health and unemployment reporting.",
+        "Formalized data modeling standards and naming conventions for the enterprise data warehouse on Redshift, which improved cross-team collaboration and made data assets more discoverable.",
+        "Implemented incremental load strategies for high-volume voter registration data using change data capture patterns, reducing the full load window from 12 hours to under 30 minutes for daily updates.",
+        "Supported the development of Tableau dashboards for government executives by curating optimized datasets in Redshift, creating aggregate tables that balanced performance with data freshness requirements.",
+        "Collaborated with security teams to design and enforce column-level data masking for PII within the data platform, ensuring compliance with state government data privacy regulations.",
+        "Assisted in troubleshooting performance issues on critical ETL jobs by reviewing Spark driver logs and optimizing Glue job bookmarks, which restored timely delivery of daily unemployment reports.",
+        "Developed SQL scripts for routine data reconciliation and validation post-migration, providing auditable proof of data completeness and accuracy to government stakeholders.",
+        "Participated in agile ceremonies and code reviews for the data engineering team, providing constructive feedback on PySpark code and SQL logic to improve overall code quality.",
+        "Created operational documentation for key data pipelines, including steps for manual re-runs and failure recovery, which was critical for maintaining 24/7 system availability.",
+        "Learned the intricacies of government data sharing agreements and modeled data accordingly, ensuring that datasets were partitioned and access-controlled based on inter-agency agreements.",
+        "Worked on a proof-of-concept for streaming census data, gaining initial exposure to Kinesis, which laid the groundwork for future real-time data initiatives within the department."
+      ],
+      "environment": [
+        "AWS",
+        "Redshift",
+        "AWS Glue",
+        "Oracle",
+        "Tableau",
+        "Python",
+        "PySpark",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed ETL pipelines in Azure Data Factory to ingest credit card transaction data from multiple sources, applying transformations to mask sensitive PCI-DSS elements before landing in the data lake.",
+        "Modeled dimensional schemas in Azure SQL Data Warehouse (now Synapse) for customer spending behavior analysis, supporting risk and fraud detection reporting for the business intelligence team.",
+        "Assisted in the performance tuning of complex SQL queries involving large fact tables, helping to implement distribution and indexing strategies that improved join performance.",
+        "Supported the migration of on-premise SQL Server reporting tables to Azure, writing and optimizing T-SQL scripts for data validation and ensuring referential integrity was maintained.",
+        "Built a simple framework for executing and monitoring batch data loads, logging success/failure metrics to an operational database for basic pipeline observability.",
+        "Participated in peer code reviews for ADF pipelines and SQL stored procedures, learning enterprise standards for error handling and data quality checks in a financial context.",
+        "Documented the source-to-target mapping for a key financial reconciliation dataset, which was used by auditors to verify the accuracy of monthly financial statements.",
+        "Monitored daily pipeline execution, assisted in investigating occasional failures due to source data anomalies, and learned the process for initiating re-runs after fixes were applied.",
+        "Gained experience with the finance domain's strict data governance, contributing to the documentation of data lineage for key fields used in regulatory capital calculations.",
+        "Collaborated with a senior engineer to implement a data quality rule framework, writing validation SQL that checked for nulls and outliers in daily transaction feeds."
+      ],
+      "environment": [
+        "Azure",
+        "Azure Data Factory",
+        "Azure SQL Data Warehouse",
+        "SQL Server",
+        "ADLS Gen2",
+        "SQL",
+        "T-SQL"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed pathology lab data from various MySQL and PostgreSQL databases, creating consolidated datasets for analysis of medical diagnostic patterns using Python and SQL.",
+        "Assisted senior analysts in designing basic star schemas for a new healthcare analytics database, learning principles of fact and dimension tables in a practical, project-based setting.",
+        "Developed simple Power BI reports to visualize lab test turnaround times and equipment utilization, providing operational insights to lab managers to improve efficiency.",
+        "Performed data cleansing and validation on incoming patient test results, writing SQL queries to identify and flag duplicate records or missing critical fields for review.",
+        "Supported the migration of historical data from a legacy DB2 system by writing extraction scripts and assisting with data mapping documentation for the target PostgreSQL schema.",
+        "Learned the importance of HIPAA compliance in data handling, applying strict access controls and audit logging to any dataset containing patient health information.",
+        "Participated in team meetings to understand reporting requirements from pathologists, translating their needs into technical specifications for database queries and report filters.",
+        "Gained foundational experience with the end-to-end data flow, from source system extraction to final report delivery, understanding the role of each layer in the data architecture."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "DB2",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

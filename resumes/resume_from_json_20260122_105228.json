@@ -1,0 +1,284 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Data Engineer with LLM & Advanced Analytics",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in data engineering with specialization in building scalable data pipelines, performing complex data wrangling, and delivering actionable insights through advanced analytics and business intelligence dashboards across healthcare, insurance, government, and finance domains.",
+    "Leveraging Snowflake as the core data warehouse to architect and manage enterprise-scale data solutions, ensuring high performance and reliability for critical business operations and regulatory compliance reporting in heavily regulated industries like healthcare and finance.",
+    "Applying advanced SQL capabilities including complex joins, window functions, and CTEs to transform raw transactional data into clean, analyzable datasets, enabling accurate customer segmentation and lifetime value calculations for strategic decision-making.",
+    "Utilizing Python with pandas and numpy for sophisticated data wrangling tasks, creating automation scripts that validate data quality, enforce business rules, and build repeatable pipelines for ETL processes across multiple cloud environments and on-premise systems.",
+    "Designing and maintaining Tableau dashboards that translate complex analytics into business-friendly visual storytelling, establishing refresh schedules and optimizing data source connections to provide stakeholders with real-time KPI visibility and engagement metrics.",
+    "Executing comprehensive data quality assurance checks including reconciliation procedures, row count validations, and null value assessments to ensure data integrity across Snowflake environments, particularly for sensitive healthcare data requiring HIPAA compliance.",
+    "Cleaning and normalizing messy transactional datasets from credit card systems, standardizing merchant names, MCC codes, currency conversions, and date formats to create unified views for spend behavior analysis and member benefit utilization tracking.",
+    "Performing exploratory data analysis across customer segments, tiers, earning patterns, and benefit usage to uncover insights that drive marketing strategies, cobrand partnership decisions, and member retention initiatives within financial services organizations.",
+    "Developing reproducible data pipelines and parameterized queries in Snowflake that handle large volumes of transaction data, implementing performance tuning and optimization techniques to reduce query execution times and infrastructure costs.",
+    "Exploring LLM-assisted approaches for cleaning and standardizing transaction data, using prompt engineering to generate transformation rules and data dictionaries that accelerate the data preparation process for analytical consumption.",
+    "Building interactive analytics applications using Snowflake Streamlit to provide self-service data exploration capabilities for business users, embedding LLM experiences through Snowflake Cortex for natural language querying of complex datasets.",
+    "Supporting customer lifetime value and segmentation modeling initiatives through careful feature preparation and validation, preparing training datasets that feed machine learning pipelines while ensuring data privacy standards are maintained.",
+    "Translating complex analytics findings into clear business insights for stakeholders, documenting assumptions and transformation logic to create auditable data lineage trails for regulatory examinations in finance and healthcare sectors.",
+    "Packaging reusable Python utilities and automation scripts that streamline data validation processes, reducing manual effort in data quality checks and enabling faster turnaround times for ad-hoc analysis requests from marketing and product teams.",
+    "Implementing data wrangling techniques to handle deduplication, outlier detection, and anomaly spotting in transactional datasets, creating robust pipelines that maintain data accuracy despite variations in source system data quality.",
+    "Establishing data source setup and refresh schedules for Tableau reporting assets, ensuring dashboards reflect the most current information while maintaining performance through efficient query design and aggregate table strategies.",
+    "Applying Snowpark and ML functions within Snowflake to operationalize feature engineering pipelines, creating feature stores that support predictive modeling efforts for customer behavior forecasting and risk assessment applications.",
+    "Investigating RAG implementations over internal data dictionaries and policy documents using LLM capabilities, aiming to improve data governance and accelerate the onboarding of new analysts to complex financial data ecosystems."
+  ],
+  "technical_skills": {
+    "Data Warehousing & SQL": [
+      "Snowflake",
+      "Advanced SQL",
+      "Complex Joins",
+      "Window Functions",
+      "CTEs",
+      "Performance Tuning",
+      "Query Optimization",
+      "Data QA"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "pandas",
+      "numpy",
+      "Automation Scripts",
+      "Package Development",
+      "Data Wrangling Utilities"
+    ],
+    "Business Intelligence & Visualization": [
+      "Tableau",
+      "Dashboard Design",
+      "KPI Visualization",
+      "Visual Storytelling",
+      "Data Source Management",
+      "Refresh Scheduling"
+    ],
+    "Data Processing & ETL": [
+      "Data Wrangling",
+      "Data Cleaning",
+      "Normalization",
+      "Transactional Data Processing",
+      "Pipeline Development",
+      "Parameterized Queries"
+    ],
+    "LLM & AI Technologies": [
+      "Snowflake Cortex",
+      "LLM-assisted Data Cleaning",
+      "Prompt Engineering",
+      "RAG Pipelines",
+      "Data Dictionary Generation",
+      "Transformation Rules"
+    ],
+    "Cloud Platforms & Services": [
+      "AWS",
+      "Azure",
+      "Cloud Data Solutions",
+      "Cloud Storage",
+      "Cloud Compute"
+    ],
+    "Analytics & Insights": [
+      "Exploratory Data Analysis",
+      "Customer Segmentation",
+      "Spend Behavior Analysis",
+      "Member Behavior Analytics",
+      "Actionable Insights"
+    ],
+    "Data Governance & Quality": [
+      "Data Quality Assurance",
+      "Reconciliation",
+      "Null Checks",
+      "Row Count Validation",
+      "Data Integrity",
+      "Audit Trails"
+    ],
+    "Domain Data Expertise": [
+      "Healthcare Data",
+      "Insurance Data",
+      "Government Data",
+      "Financial Data",
+      "Credit Card Transactions",
+      "Regulatory Compliance"
+    ],
+    "Advanced Snowflake Ecosystem": [
+      "Snowflake Streamlit",
+      "Snowpark",
+      "ML Functions",
+      "Feature Store",
+      "Cortex LLM",
+      "Snowflake Apps"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected a Snowflake data warehouse solution to consolidate disparate healthcare transaction datasets, employing advanced SQL with complex joins and window functions to create unified patient spending views while maintaining strict HIPAA compliance through data masking and access controls.",
+        "Developed Python automation scripts using pandas to clean and normalize messy medical supply transaction data, standardizing vendor names, product codes, and currency values across international datasets, which improved data accuracy for reimbursement analysis by 40%.",
+        "Designed Tableau dashboards for healthcare KPI tracking, establishing automated refresh schedules that pulled from Snowflake views to provide real-time visibility into supply chain efficiency, inventory turnover, and procurement patterns across hospital networks.",
+        "Implemented LLM-assisted data cleaning pipelines using proof-of-concept frameworks, where we applied Crew AI multi-agent systems to generate transformation rules for standardizing inconsistent medical procedure codes across legacy healthcare billing systems.",
+        "Built reproducible data pipelines in Snowflake that handled daily transaction loads from healthcare providers, using CTEs and performance tuning techniques to optimize queries that previously timed out during peak processing windows.",
+        "Created Snowflake Streamlit applications for interactive analytics, allowing hospital administrators to explore supply usage patterns and cost variances through natural language queries powered by initial experiments with Snowflake Cortex LLM capabilities.",
+        "Executed comprehensive data QA checks on patient transaction datasets, developing reconciliation procedures and null value checks that identified data quality issues before they impacted monthly financial reporting to healthcare regulators.",
+        "Supported CLV modeling initiatives for medical device customers by preparing feature datasets in Snowflake, using Snowpark ML functions to engineer features that predicted future purchase patterns while ensuring PHI data remained properly segmented.",
+        "Applied advanced data wrangling techniques to deduplicate patient records across healthcare systems, implementing outlier detection algorithms that flagged anomalous transaction patterns for fraud investigation teams in compliance with healthcare regulations.",
+        "Translated complex healthcare analytics into business insights for stakeholders, documenting the assumptions behind patient cohort definitions and spending categorizations to create auditable trails for potential insurance audits.",
+        "Packaged reusable Python utilities for data validation that automated the checking of healthcare transaction thresholds, reducing manual verification work by clinical operations teams by approximately 15 hours per week.",
+        "Experimented with LangGraph frameworks to prototype multi-agent systems that coordinated data cleaning tasks, where different AI agents specialized in standardizing dates, currencies, and medical codes within transaction datasets.",
+        "Optimized Snowflake query performance for large-scale healthcare analytics, rewriting complex joins and implementing materialized views that reduced dashboard loading times from minutes to seconds for emergency department utilization reports.",
+        "Established data source configurations for Tableau reporting on pharmaceutical inventory, creating parameterized queries that allowed regional managers to filter by facility type, department, and medication class while maintaining data security boundaries.",
+        "Conducted exploratory data analysis on medical supply utilization across hospital tiers, identifying patterns in emergency versus elective procedure supplies that informed inventory stocking decisions and contract negotiations with suppliers.",
+        "Developed Python scripts that interfaced with AWS services to validate data completeness in healthcare transaction feeds, ensuring daily ETL processes captured all patient encounters before triggering downstream analytics and billing workflows."
+      ],
+      "environment": [
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Tableau",
+        "AWS",
+        "pandas",
+        "numpy",
+        "Crew AI",
+        "LangGraph",
+        "Multi-agent Systems",
+        "Model Context Protocol",
+        "Healthcare Data",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Engineered Snowflake data solutions for insurance claim processing systems, utilizing advanced SQL techniques to join member eligibility data with claim transactions, enabling accurate calculation of benefit utilization across provider networks.",
+        "Constructed Python data wrangling pipelines that cleaned inconsistent insurance claim data, standardizing diagnosis codes, procedure modifiers, and provider identifiers to create reliable datasets for actuarial analysis and risk assessment modeling.",
+        "Fabricated Tableau dashboards tracking insurance member engagement KPIs, configuring data source connections to Snowflake that supported dynamic filtering by plan type, geographic region, and member demographics for strategic planning sessions.",
+        "Applied data quality assurance methodologies to insurance transaction datasets, implementing reconciliation checks between premium billing systems and claim payment systems to identify discrepancies affecting financial reporting accuracy.",
+        "Assembled reproducible ETL pipelines in Snowflake for daily insurance claim processing, parameterizing queries to handle varying volumes of electronic versus paper claims while maintaining performance standards for real-time adjudication support.",
+        "Performed exploratory data analysis on member healthcare utilization patterns, segmenting populations by chronic condition status to identify opportunities for care management interventions and preventive service recommendations.",
+        "Generated Python automation scripts for validating insurance data transformations, packaging these utilities as reusable modules that accelerated the onboarding of new data sources from recently acquired regional insurance carriers.",
+        "Transformed complex insurance analytics into stakeholder insights, documenting the methodology for risk adjustment factor calculations to ensure compliance with state insurance regulations and federal healthcare reform requirements.",
+        "Investigated proof-of-concept implementations using multi-agent AI frameworks to categorize unstructured claim notes, experimenting with approaches that could eventually automate the extraction of clinical details for complex case management.",
+        "Enhanced Snowflake query performance for insurance analytics workloads, optimizing window functions that calculated member month enrollment patterns and identifying members with gaps in coverage for retention initiatives.",
+        "Implemented data wrangling procedures to handle outliers in pharmaceutical claim data, developing algorithms that flagged potentially inappropriate medication combinations for clinical pharmacy review teams.",
+        "Established Tableau data refresh schedules aligned with insurance monthly closing processes, ensuring dashboards reflected complete claim runout data for accurate medical loss ratio calculations presented to regulatory bodies.",
+        "Standardized insurance transaction dates and currency values across international claims data, creating unified reporting views that supported global reinsurance negotiations and capital allocation decisions.",
+        "Coordinated with actuarial teams to prepare feature datasets for predictive modeling of healthcare costs, using Snowflake to engineer variables related to member demographics, historical utilization, and provider network characteristics."
+      ],
+      "environment": [
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Tableau",
+        "AWS",
+        "Insurance Data",
+        "Claim Processing",
+        "Regulatory Compliance",
+        "Data Quality",
+        "Exploratory Data Analysis"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Configured Azure-based data solutions integrating with Snowflake for government program analytics, using SQL to join datasets across social services, healthcare, and employment systems while maintaining strict data privacy controls for citizen information.",
+        "Produced Python data cleaning scripts for government benefit transaction data, standardizing program codes, eligibility dates, and payment amounts across disparate legacy systems to create comprehensive views of citizen service utilization.",
+        "Formulated Tableau dashboards for government program KPIs, setting up data source connections that allowed program managers to monitor enrollment trends, service delivery metrics, and outcome measurements across county jurisdictions.",
+        "Administered data quality checks on government financial transaction datasets, implementing reconciliation procedures between appropriation systems and expenditure tracking databases to support accurate fiscal reporting to legislative oversight committees.",
+        "Established reproducible data pipelines in Azure environments feeding Snowflake, parameterizing queries to handle varying transaction volumes across monthly benefit cycles while ensuring timely data availability for federal reporting deadlines.",
+        "Conducted exploratory data analysis on public assistance program utilization, identifying patterns in benefit uptake across demographic segments to inform outreach strategies and program design improvements for underserved populations.",
+        "Manufactured Python validation utilities for government data transformations, packaging these tools as reusable components that accelerated the integration of new data sources from county-level systems into statewide reporting frameworks.",
+        "Interpreted complex government analytics into actionable insights for agency leadership, documenting the assumptions behind performance metric calculations to ensure transparency and accountability in public program management.",
+        "Refined Snowflake query performance for government analytics, optimizing CTEs that calculated program eligibility timelines and benefit utilization rates across multi-year periods for longitudinal outcome studies.",
+        "Executed data wrangling procedures to deduplicate citizen records across government databases, implementing matching algorithms that respected privacy regulations while creating more accurate pictures of cross-program participation.",
+        "Scheduled Tableau data refreshes aligned with government reporting cycles, ensuring dashboards reflected complete transaction data for quarterly performance reviews and annual program evaluations required by federal funding agencies.",
+        "Normalized government transaction dates and geographic identifiers across departmental systems, creating unified dimensions that enabled cross-agency analytics on service delivery patterns and resource allocation efficiency."
+      ],
+      "environment": [
+        "Azure",
+        "Snowflake",
+        "Python",
+        "SQL",
+        "Tableau",
+        "Government Data",
+        "Public Sector",
+        "Regulatory Reporting",
+        "Data Privacy",
+        "Program Analytics"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Deployed Azure data infrastructure supporting financial transaction analytics, utilizing SQL to process credit card transaction datasets while implementing security controls required for PCI compliance and financial regulatory oversight.",
+        "Composed Python data wrangling routines for financial transaction standardization, cleaning merchant names, MCC codes, and currency values to create reliable datasets for customer spend analysis and rewards program optimization.",
+        "Authored Tableau dashboards tracking financial product KPIs, configuring data source connections that provided product managers with insights into card activation rates, transaction volumes, and customer engagement metrics across segments.",
+        "Oversaw data quality assurance for credit card transaction processing, implementing reconciliation checks between authorization systems and settlement feeds to identify discrepancies affecting daily financial position reporting.",
+        "Instituted reproducible data pipelines in Azure environments, parameterizing queries to handle peak transaction volumes during holiday shopping seasons while maintaining data freshness for real-time fraud detection support systems.",
+        "Completed exploratory data analysis on customer spending behaviors, segmenting cardholder populations by transaction patterns to identify opportunities for targeted marketing campaigns and personalized product recommendations.",
+        "Assembled Python validation tools for financial data transformations, creating reusable utilities that automated checks for transaction completeness and accuracy before data propagated to downstream regulatory reporting systems.",
+        "Communicated complex financial analytics to business stakeholders, documenting the logic behind customer segmentation models and credit risk assessments to ensure alignment with corporate risk management frameworks and regulatory expectations.",
+        "Strengthened query performance for financial analytics workloads, optimizing SQL joins that connected transaction data with customer demographic information for comprehensive views of product performance across market segments.",
+        "Implemented data wrangling procedures to handle outliers in financial transaction datasets, developing algorithms that flagged potentially fraudulent activity patterns for further investigation by security and risk management teams."
+      ],
+      "environment": [
+        "Azure",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Financial Data",
+        "Credit Card Transactions",
+        "PCI Compliance",
+        "Risk Management",
+        "Customer Analytics"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Operated SQL queries against healthcare diagnostic databases to extract patient test result data, using basic joins and filtering techniques to prepare datasets for analysis of diagnostic accuracy and laboratory efficiency metrics.",
+        "Adapted Python scripts with pandas for initial healthcare data cleaning tasks, assisting with standardization of laboratory test codes, result values, and patient identifiers to support quality improvement initiatives in diagnostic services.",
+        "Assisted with Tableau dashboard development for healthcare operational KPIs, helping configure data source connections that enabled laboratory managers to monitor test turnaround times, equipment utilization rates, and staff productivity metrics.",
+        "Participated in data quality checks for healthcare diagnostic datasets, supporting senior analysts with reconciliation of test orders against results reported to ensure complete capture of patient diagnostic pathways.",
+        "Supported the establishment of basic data pipelines for laboratory information systems, learning parameterized query techniques that handled daily test volumes while maintaining data integrity for clinical decision support.",
+        "Contributed to exploratory data analysis on diagnostic test utilization patterns, helping identify variations in test ordering practices across physician specialties that informed laboratory test menu optimization decisions.",
+        "Helped develop Python validation scripts for healthcare data transformations, learning to package basic utilities that checked for missing values and data format consistency in laboratory result transmissions.",
+        "Aided in translating healthcare analytics into operational insights, documenting simple assumptions about test categorization logic to support quality assurance processes and accreditation requirements for diagnostic laboratories."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Healthcare Data",
+        "Diagnostic Analytics",
+        "Laboratory Systems",
+        "Data Quality",
+        "Operational Reporting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

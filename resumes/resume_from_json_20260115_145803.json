@@ -1,0 +1,282 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Azure AI Engineer Administrator",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Accomplished Azure AI Engineer with 10 years designing enterprise AI solutions across Insurance, Healthcare, Banking, and Consulting sectors, specializing in scalable Azure AI Foundry deployments and multi-agent Generative AI systems that meet strict regulatory requirements.",
+    "Design and implement Azure AI Foundry solutions for insurance underwriting automation, utilizing Azure OpenAI and LangGraph to build multi-agent systems that process complex policy documents while adhering to state-specific compliance rules.",
+    "Establish enterprise MLOps pipelines using Azure Machine Learning to manage model versioning and automated deployment, incorporating automated monitoring triggers for model retraining to maintain accuracy in dynamic insurance claim environments.",
+    "Build multi-agent AI workflows with Copilot Studio Agents for healthcare patient interaction, implementing MCP for agent control and routing to ensure HIPAA-compliant handling of sensitive medical history during conversational AI sessions.",
+    "Integrate Generative AI capabilities into banking applications using secure Azure architectures, employing RAG pipelines with vector databases to provide accurate financial advice without exposing underlying customer transaction data.",
+    "Fine-tune Large Language Models like Mistral and Claude on Azure OpenAI for insurance document summarization, carefully testing outputs to eliminate bias and ensure fair treatment recommendations across diverse customer profiles.",
+    "Develop and optimize core machine learning algorithms including XGBoost and Bayesian Networks for healthcare forecasting models, deploying them through Azure Machine Learning to predict patient readmission risks with improved accuracy.",
+    "Implement Responsible AI frameworks and governance protocols for all deployed models, conducting regular bias detection audits and maintaining detailed documentation for regulatory reviews in both healthcare and financial domains.",
+    "Construct enterprise-scale RAG implementations using vector databases and embeddings, creating retrieval systems that provide accurate contextual information for Generative AI responses in customer service applications.",
+    "Orchestrate complex agent-to-agent workflows using LangChain and LangGraph frameworks, designing communication protocols that enable specialized AI agents to collaborate on multi-step insurance claim processing tasks.",
+    "Administer complete model lifecycle management from training through retirement, establishing monitoring systems that track performance degradation and automatically trigger retraining pipelines in Azure Machine Learning.",
+    "Create and maintain CI/CD pipelines for AI model deployment using Azure DevOps, implementing automated testing stages that validate model performance before production release in critical banking applications.",
+    "Configure and monitor Azure AI infrastructure for optimal cost and performance, implementing auto-scaling policies and resource optimization strategies that maintain service levels while controlling cloud expenditure.",
+    "Collaborate with data scientists and business stakeholders to translate insurance risk assessment requirements into technical specifications, facilitating regular code reviews and knowledge sharing sessions.",
+    "Engineer secure data integration architectures for Generative AI applications, implementing encryption and access controls that protect sensitive healthcare information while enabling AI-powered analytics.",
+    "Troubleshoot production AI system issues through methodical debugging sessions, analyzing model drift patterns and data pipeline failures to restore services quickly during critical business hours.",
+    "Deploy and manage vector database solutions for enterprise RAG implementations, optimizing embedding storage and retrieval performance to support low-latency responses in customer-facing AI applications.",
+    "Participate in daily standups and sprint planning meetings to coordinate AI solution development, providing technical guidance on Azure AI service selection and implementation approaches."
+  ],
+  "technical_skills": {
+    "Azure AI Platforms": [
+      "Azure AI Foundry",
+      "Azure Machine Learning",
+      "Azure OpenAI"
+    ],
+    "Generative AI Technologies": [
+      "Large Language Models (LLMs)",
+      "BERT",
+      "ROUGE",
+      "Mistral",
+      "Claude / Anthropic",
+      "Sonnet",
+      "Fine-tuning LLMs"
+    ],
+    "Multi-Agent Systems & Orchestration": [
+      "Multi-Agent AI Systems",
+      "Copilot Studio Agents",
+      "Agent-to-Agent (A2A) orchestration",
+      "MCP (Model Control Protocol)",
+      "LangChain",
+      "LangGraph"
+    ],
+    "Machine Learning Algorithms": [
+      "XGBoost",
+      "Bayesian Models / Bayesian Networks",
+      "Random Forest"
+    ],
+    "MLOps & DevOps": [
+      "CI/CD for AI/ML",
+      "Model versioning",
+      "Automated deployment pipelines",
+      "Monitoring and retraining strategies"
+    ],
+    "Programming & Frameworks": [
+      "Python",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "Data & RAG Systems": [
+      "Vector Databases",
+      "Embeddings",
+      "RAG (Retrieval Augmented Generation)"
+    ],
+    "Cloud Infrastructure": [
+      "Azure (AI Foundry, ML, OpenAI)",
+      "AWS (SageMaker, EC2, S3)"
+    ],
+    "Big Data Technologies": [
+      "Apache Spark",
+      "Databricks",
+      "Hadoop",
+      "Informatica",
+      "Sqoop"
+    ],
+    "Containers & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "Monitoring & Governance": [
+      "AI observability tools",
+      "Bias detection and mitigation techniques",
+      "Compliance and Responsible AI frameworks"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Vector Databases",
+      "Azure Cosmos DB"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Planning phase involves designing Azure AI Foundry architecture for insurance claim automation, working with business analysts to translate state-specific insurance regulations into technical requirements for multi-agent systems.",
+        "Implementation phase includes building proof of concepts for claim processing using LangGraph, where I configure agent-to-agent communication protocols that validate claim details against policy rules before approval routing.",
+        "Deployment phase manages rolling out fine-tuned Azure OpenAI models for customer communication, coordinating with IT security teams to ensure all Generative AI outputs comply with insurance regulatory standards before go-live.",
+        "Monitoring phase establishes performance tracking for Bayesian Networks predicting claim fraud, setting up Azure Machine Learning alerts that notify the team when model accuracy drops below acceptable thresholds.",
+        "Optimization phase refines vector database queries for RAG systems supporting customer service agents, improving response accuracy by testing different embedding approaches for insurance policy documents.",
+        "Troubleshooting phase debugs latency issues in multi-agent workflows, discovering that inefficient LangGraph node connections were causing delays in processing complex claims with multiple coverage types.",
+        "Planning subsequent iterations involves reviewing MCP implementation for agent governance, updating control protocols to better handle edge cases in catastrophe claim scenarios during peak storm seasons.",
+        "Implementation of enhanced features integrates Databricks for processing large-scale historical claim data, building Spark pipelines that feed cleaned data into XGBoost models for risk scoring updates.",
+        "Deployment coordination ensures smooth rollout of Copilot Studio Agents for internal underwriting support, conducting training sessions for insurance adjusters on effective AI collaboration techniques.",
+        "Monitoring system performance tracks cost utilization across Azure AI services, identifying opportunities to optimize resource allocation while maintaining response time service level agreements.",
+        "Optimization efforts focus on improving Random Forest model interpretability for regulatory compliance, creating visualization tools that explain decision factors in claim denial recommendations.",
+        "Troubleshooting production issues involves analyzing failed automated deployments, tracing problems to dependency conflicts in the MLOps pipeline and implementing version locking solutions.",
+        "Planning security enhancements incorporates additional encryption layers for sensitive customer data in vector databases, consulting with compliance officers about state data protection requirements.",
+        "Implementation of monitoring dashboards builds custom Azure Application Insights visualizations for multi-agent system health, tracking agent conversation success rates and error patterns.",
+        "Deployment of model retraining pipelines automates the process of incorporating new claim data, setting up scheduled jobs that refresh XGBoost models monthly with recent historical information.",
+        "Optimization of agent orchestration reduces processing time by reconfiguring LangGraph workflows, eliminating redundant validation steps while maintaining necessary insurance compliance checks."
+      ],
+      "environment": [
+        "Azure AI Foundry",
+        "Azure OpenAI",
+        "LangGraph",
+        "Databricks",
+        "PySpark",
+        "MCP",
+        "Copilot Studio Agents",
+        "XGBoost",
+        "Bayesian Networks",
+        "Vector Databases",
+        "Python",
+        "Azure Machine Learning",
+        "Docker",
+        "CI/CD Pipelines"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Planning phase defined architecture for healthcare AI solutions using Azure Machine Learning, ensuring all designs incorporated HIPAA compliance controls for patient data protection in clinical trial analysis.",
+        "Implementation phase constructed multi-agent systems for patient support, where I programmed specialized agents using LangChain to handle medication inquiries while maintaining strict conversation boundaries.",
+        "Deployment phase managed rollout of BERT-based models for medical document classification, working through weekends to resolve last-minute encryption requirements for PHI data in transit.",
+        "Monitoring phase established tracking for Generative AI responses in patient education materials, creating alert systems that flagged potentially misleading information about medication side effects.",
+        "Optimization phase improved RAG system accuracy for clinical research databases, experimenting with different embedding models to better retrieve relevant study information for researcher queries.",
+        "Troubleshooting phase diagnosed performance issues in real-time prediction systems, discovering that inefficient feature engineering was causing delays in patient risk scoring during peak hospital hours.",
+        "Planning enhancements involved designing proof of concepts for automated clinical coding, mapping diagnosis descriptions to standardized codes using fine-tuned language models on Azure OpenAI.",
+        "Implementation of monitoring tools built custom dashboards for AI governance tracking, visualizing model decision patterns to identify potential bias in treatment recommendation algorithms.",
+        "Deployment coordination ensured compliant rollout of patient interaction agents, obtaining necessary approvals from healthcare regulatory committees before enabling production access.",
+        "Monitoring model drift tracked performance changes in readmission prediction systems, scheduling retraining when seasonal illness patterns affected the underlying patient population characteristics.",
+        "Optimization efforts reduced inference costs by implementing model compression techniques for deployed TensorFlow models, achieving smaller footprint without sacrificing clinical accuracy requirements.",
+        "Troubleshooting data pipeline failures involved debugging Apache Spark jobs processing electronic health records, identifying date formatting inconsistencies that corrupted training datasets.",
+        "Planning security audits designed comprehensive testing protocols for AI systems, simulating attempted data exfiltration attacks to verify robust protection of sensitive healthcare information.",
+        "Implementation of automated testing frameworks created validation suites for new model versions, incorporating healthcare domain-specific checks that verified appropriate handling of medical terminology."
+      ],
+      "environment": [
+        "Azure Machine Learning",
+        "Azure OpenAI",
+        "LangChain",
+        "BERT",
+        "TensorFlow",
+        "Python",
+        "RAG",
+        "Vector Databases",
+        "HIPAA Compliance",
+        "Multi-Agent Systems",
+        "Proof of Concepts",
+        "CI/CD",
+        "Model Versioning",
+        "Apache Spark"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Planning phase developed AWS SageMaker architecture for public health forecasting, incorporating state healthcare regulations into model design requirements for COVID-19 case prediction systems.",
+        "Implementation phase built time series models using Prophet and XGBoost, dealing with inconsistent reporting schedules from different counties by creating data imputation strategies.",
+        "Deployment phase managed cloud infrastructure provisioning on AWS, configuring appropriate security groups and IAM roles to protect sensitive public health information according to state policies.",
+        "Monitoring phase established alert systems for model performance degradation, setting up CloudWatch alarms that notified the team when prediction errors exceeded acceptable thresholds for resource planning.",
+        "Optimization phase improved Random Forest model training efficiency, implementing feature selection techniques that reduced processing time while maintaining accuracy for hospital capacity forecasting.",
+        "Troubleshooting phase resolved data quality issues in daily case reports, working with public health officials to establish validation rules that caught reporting errors before model ingestion.",
+        "Planning system enhancements designed automated reporting pipelines, creating scheduled jobs that generated daily prediction summaries for state emergency response team briefings.",
+        "Implementation of monitoring dashboards built interactive visualizations using AWS QuickSight, enabling non-technical health officials to track prediction trends across different regions.",
+        "Deployment coordination ensured smooth transition from development to production, conducting extensive testing with historical data to validate model performance before official use.",
+        "Monitoring cost utilization tracked AWS resource expenditure, identifying opportunities to use spot instances for batch prediction jobs during off-peak hours to reduce cloud spending.",
+        "Optimization of data pipelines improved processing speed for real-time feeds, redesigning ETL workflows to handle sudden surges in case reporting during outbreak situations.",
+        "Troubleshooting production failures involved analyzing failed batch jobs, discovering that memory limitations on EC2 instances were causing crashes when processing large historical datasets."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "XGBoost",
+        "Random Forest",
+        "Python",
+        "Prophet",
+        "AWS EC2",
+        "AWS S3",
+        "CloudWatch",
+        "HIPAA Compliance",
+        "Public Health Regulations",
+        "Time Series Forecasting",
+        "Batch Processing"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Planning phase designed fraud detection systems using machine learning algorithms, ensuring all models complied with banking regulations and PCI-DSS requirements for transaction security.",
+        "Implementation phase developed XGBoost models for credit risk assessment, carefully engineering features from historical transaction data while maintaining audit trails for regulatory compliance.",
+        "Deployment phase managed model integration with existing banking applications, coordinating with legacy system teams to establish secure APIs for real-time scoring requests.",
+        "Monitoring phase tracked model performance in production, creating daily reports that compared fraud detection rates against established benchmarks for different customer segments.",
+        "Optimization phase improved feature calculation efficiency, refactoring Python code to reduce latency in real-time scoring pipelines that processed thousands of transactions per second.",
+        "Troubleshooting phase investigated false positive patterns in fraud alerts, analyzing model decisions to identify features causing unnecessary customer transaction blocks during holiday periods.",
+        "Planning model updates involved designing A/B testing frameworks for new algorithm versions, establishing statistical methods to measure performance improvements while minimizing customer impact.",
+        "Implementation of monitoring tools built dashboards for business stakeholders, translating technical model metrics into understandable business intelligence for risk management meetings.",
+        "Deployment coordination ensured regulatory compliance for all model changes, documenting decision logic updates and obtaining necessary approvals from banking compliance officers.",
+        "Optimization efforts reduced false positive rates by implementing ensemble methods, combining multiple algorithm outputs to achieve more balanced fraud detection performance."
+      ],
+      "environment": [
+        "AWS EC2",
+        "XGBoost",
+        "Python",
+        "PCI-DSS Compliance",
+        "Financial Regulations",
+        "Fraud Detection",
+        "Credit Risk",
+        "Batch Scoring",
+        "Real-time APIs",
+        "A/B Testing"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Planning phase designed Hadoop data lake architecture for client analytics, mapping business requirements to appropriate HDFS storage strategies and processing workflows.",
+        "Implementation phase built ETL pipelines using Informatica, learning to optimize job configurations through trial and error to handle increasing data volumes from client systems.",
+        "Deployment phase managed migration of data processes to production, staying late to monitor initial job runs and quickly address any performance issues that emerged.",
+        "Monitoring phase tracked daily ETL job completion, creating simple alert systems that notified the team when data loads failed or exceeded expected processing time windows.",
+        "Optimization phase improved Sqoop job performance for database extracts, experimenting with different parallelization settings to reduce data transfer times between source systems.",
+        "Troubleshooting phase resolved data quality issues in client reports, tracing problems back to transformation logic errors in Informatica mappings and correcting the business rules.",
+        "Planning infrastructure upgrades involved researching Hadoop cluster sizing requirements, presenting cost-benefit analysis for additional nodes to handle projected data growth.",
+        "Implementation of data validation frameworks added quality checks to ETL processes, reducing manual verification work and increasing confidence in analytics dataset accuracy."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "HDFS",
+        "ETL",
+        "Data Warehousing",
+        "Batch Processing",
+        "Data Quality",
+        "Client Analytics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

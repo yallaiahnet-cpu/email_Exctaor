@@ -1,0 +1,283 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Principal Network & Data Center Engineer - SDWAN, Multi-Tenant Architecture, Cloud Security",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing, automating, and securing multi-data-center, multi-tenant network architectures with a focus on SDWAN, VXLAN/EVPN, and PCI-DSS compliance across Healthcare, Insurance, Government, and Finance domains.",
+    "Architected a scalable multi-tenant network fabric for a major healthcare provider using VXLAN and EVPN to isolate sensitive PHI data streams, which required meticulous BGP route-target configurations and passed rigorous internal HIPAA security audits.",
+    "Orchestrated the migration from traditional MPLS cores to a secure SDWAN overlay for a financial services client, implementing Python-based automation for zero-touch provisioning that reduced deployment cycles from weeks to hours.",
+    "Engineered high-availability BGP designs with fast convergence for critical insurance claim processing systems, utilizing route dampening and OSPF/BGP redistribution tweaks learned through iterative troubleshooting sessions.",
+    "Developed Ansible playbooks with Jinja2 templates to automate the deployment of secure edge controls and DDoS mitigation policies across hundreds of network devices, ensuring consistent PCI-DSS compliance posture.",
+    "Led the design of a multi-data-center interconnect utilizing cloud peering and NFV principles on AWS, creating resilient pathways for real-time data replication that withstood simulated zone failures.",
+    "Implemented comprehensive internet peering strategies with strict access-control lists and monitoring to protect government citizen data portals from external threats, balancing public access with security mandates.",
+    "Diagnosed complex network performance issues in a multi-vendor SDWAN environment by analyzing flow data and tweaking QoS policies, which restored VoIP clarity for telehealth applications after a frustrating week of packet loss.",
+    "Configured and optimized EIGRP for legacy healthcare inventory systems during a gradual migration to a BGP-based fabric, maintaining operational continuity while modernizing the underlying network architecture.",
+    "Automated compliance checks for firewall rules and routing policies using Python scripts that interfaced with Cisco and Fortinet APIs, generating audit trails that satisfied both internal and external regulators.",
+    "Designed and troubleshot a scalable VXLAN infrastructure supporting thousands of tenants for a Blue Cross Blue Shield project, isolating test, production, and development environments effectively.",
+    "Managed the full lifecycle of SDWAN controller deployments, including software upgrades and policy push, ensuring minimal disruption to 24/7 financial trading and settlement operations.",
+    "Collaborated with security teams to integrate NFV-based next-generation firewalls into the SDWAN data path, enabling secure segmentation for different business units within a shared physical infrastructure.",
+    "Built Python tools to parse BGP neighbor tables and OSPF LSDBs, providing real-time visibility into network topology changes and accelerating mean-time-to-resolution for outages during on-call rotations.",
+    "Championed the adoption of infrastructure-as-code principles for network deployment, using Ansible to enforce golden configurations and drift detection, which eliminated several manual configuration errors.",
+    "Spearheaded a proof-of-concept using agentic frameworks (CrewAI) to analyze network telemetry data, creating a prototype that could correlate SDWAN events with application performance degradations.",
+    "Mentored junior engineers on multi-data-center design principles and troubleshooting methodologies, fostering a culture of knowledge sharing and meticulous documentation within the network team.",
+    "Continually researched emerging trends in network automation and security, applying lessons from conferences and labs to enhance the reliability and security of enterprise data center networks."
+  ],
+  "technical_skills": {
+    "Network Architecture & Protocols": [
+      "SDWAN",
+      "MPLS",
+      "VXLAN",
+      "EVPN",
+      "BGP",
+      "OSPF",
+      "EIGRP",
+      "Multi-tenant Design",
+      "Multi-data-center Design"
+    ],
+    "Network Security & Compliance": [
+      "PCI DSS Compliance",
+      "DDoS Mitigation",
+      "Internet Peering Security",
+      "Secure Edge Controls",
+      "HIPAA Compliance",
+      "Firewall Policies"
+    ],
+    "Automation & Scripting": [
+      "Python",
+      "Ansible",
+      "Jinja2",
+      "REST API Integration",
+      "Configuration Management",
+      "Change Automation"
+    ],
+    "Cloud & SDN Platforms": [
+      "AWS Networking (VPC, Direct Connect, Transit Gateway)",
+      "SD-WAN Orchestration",
+      "NFV (Network Functions Virtualization)",
+      "Cloud Peering"
+    ],
+    "Monitoring & Diagnostics": [
+      "Network Performance Analysis",
+      "Flow Analytics",
+      "SNMP",
+      "Syslog",
+      "Packet Capture Analysis",
+      "Convergence Testing"
+    ],
+    "Data Center Technologies": [
+      "Spine-Leaf Architecture",
+      "Network Fabric",
+      "Load Balancing",
+      "High Availability Clustering",
+      "Disaster Recovery Networking"
+    ],
+    "Operating Systems": [
+      "Cisco IOS/IOS-XE/NX-OS",
+      "Juniper JunOS",
+      "Linux (Red Hat, Ubuntu)",
+      "Windows Server"
+    ],
+    "DevOps & CI/CD Tools": [
+      "Git",
+      "Jenkins",
+      "Terraform (for cloud networking)",
+      "Docker (for network tool containers)"
+    ],
+    "Agile & Project Management": [
+      "Jira",
+      "Confluence",
+      "Scrum",
+      "ITIL Framework",
+      "Change Advisory Board Processes"
+    ],
+    "Collaboration & Visualization": [
+      "Visio",
+      "Lucidchart",
+      "Wireshark",
+      "SolarWinds",
+      "Splunk for Networking"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Leveraged Python and Ansible to automate the deployment of a multi-tenant VXLAN fabric for AI training clusters, solving sporadic connectivity issues that hampered model training jobs and ensuring reliable data flow for sensitive healthcare datasets.",
+        "Architected an SDWAN solution to connect research data centers, addressing high latency for GenAI inference requests by implementing performance-based routing policies that prioritized critical healthcare application traffic.",
+        "Engineered BGP policies for cloud peering between AWS and on-premise data centers, resolving route advertisement problems that isolated training data and enabling seamless data ingestion for large language model development.",
+        "Utilized Jinja2 templates to generate thousands of consistent EVPN configuration lines, eliminating manual errors during fabric expansion and supporting the rapid scaling of HIPAA-compliant AI workload segments.",
+        "Orchestrated the integration of DDoS mitigation safeguards into the network edge, protecting real-time patient data analytics portals from volumetric attacks after observing suspicious traffic patterns during off-hours.",
+        "Diagnosed a complex network convergence issue impacting multi-agent AI systems by analyzing OSPF timers and BGP updates, leading to a redesign that improved failover times for critical healthcare applications.",
+        "Implemented secure internet peering points for external research collaborations, constructing strict ACLs and monitoring flows to ensure all data exchanges complied with stringent healthcare data protocols.",
+        "Built Python scripts to perform automated compliance checks against PCI-DSS and HIPAA network requirements, generating audit reports that streamlined the quarterly review process with the security team.",
+        "Configured and troubleshot MPLS VPNs for legacy healthcare systems, facilitating their secure communication with modern AI microservices hosted in a new data center without compromising existing workflows.",
+        "Designed a proof-of-concept using agentic frameworks (CrewAI, LangGraph) to simulate network attack scenarios, creating an automated response workflow that could suggest containment policies for security incidents.",
+        "Led a troubleshooting bridge for a major SDWAN circuit outage, coordinating with carriers and internal teams to reroute traffic via secondary paths, which minimized disruption to ongoing clinical trial data processing.",
+        "Developed Ansible playbooks to enforce golden configurations for network security devices, addressing configuration drift that created vulnerabilities and establishing a repeatable baseline for all deployments.",
+        "Collaborated on the design of a Model Context Protocol (MCP) server interface to expose network topology data, enabling AI agents to understand network constraints when planning data transfer tasks.",
+        "Optimized EIGRP configurations for a small legacy healthcare facility network being absorbed into the larger SDWAN, ensuring stable routing during the cutover weekend and preventing patient data flow interruption.",
+        "Spearheaded the adoption of NFV principles by containerizing network monitoring tools, solving resource contention on physical appliances and providing more flexible scaling for observational needs.",
+        "Mentored two junior network engineers on multi-data-center design principles and Python automation, fostering their ability to contribute to the team's growing infrastructure-as-code repository."
+      ],
+      "environment": [
+        "SDWAN",
+        "VXLAN",
+        "EVPN",
+        "BGP",
+        "OSPF",
+        "Python",
+        "Ansible",
+        "Jinja2",
+        "AWS",
+        "Multi-tenant",
+        "Multi-data-center",
+        "PCI DSS",
+        "DDoS Mitigation",
+        "CrewAI",
+        "LangGraph",
+        "MCP"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Deployed a scalable SDWAN overlay to interconnect regional insurance claim processing centers, solving network congestion that delayed batch jobs and ensuring SLAs for member-facing applications were consistently met.",
+        "Utilized VXLAN and EVPN to construct a multi-tenant network isolating test, production, and analytics environments, addressing data commingling concerns and supporting strict insurance data governance policies.",
+        "Automated the generation and deployment of BGP configurations for new cloud peering connections to AWS using Python scripts, reducing provisioning time and preventing human error in route map definitions.",
+        "Investigated and resolved intermittent packet loss affecting real-time analytics dashboards by fine-tuning QoS policies on the SDWAN and adjusting OSPF cost metrics on the underlying network fabric.",
+        "Implemented Ansible-based compliance checks for firewall rules governing internet peering sessions, ensuring only authorized traffic could access sensitive insurance policyholder data repositories.",
+        "Designed a high-availability network architecture for critical data pipelines, employing BGP fast convergence techniques and redundant paths that survived multiple simulated data center device failures.",
+        "Configured DDoS mitigation profiles on edge routers after analyzing traffic spikes during open enrollment periods, protecting member portal availability from potential external attack vectors.",
+        "Led the migration of a legacy MPLS network to a modern SDWAN, creating detailed migration plans and runbooks that minimized disruption to 24/7 insurance claim adjudication systems.",
+        "Developed Jinja2 templates for consistent network device deployments across multiple states, solving configuration inconsistencies that complicated troubleshooting and accelerated new branch onboarding.",
+        "Participated in a proof-of-concept using multi-agent systems to correlate network logs with application errors, building a foundational framework for improved operational visibility across IT silos.",
+        "Diagnosed a complex routing loop caused by improper BGP redistribution into EIGRP, spending a late night analyzing traceroutes and routing tables before implementing prefix filters to resolve the issue.",
+        "Orchestrated the secure decommissioning of internet peering links for a retired application, working with security to verify no residual data flows existed before removing the access-control lists.",
+        "Collaborated with the security team to integrate NFV-based intrusion prevention services into the data center fabric, enhancing threat detection for databases containing personal health information.",
+        "Mentored a mid-level engineer on EVPN control-plane debugging, sharing techniques for examining BGP route-target communities and MAC/IP advertisement routes to isolate tenant connectivity problems."
+      ],
+      "environment": [
+        "SDWAN",
+        "MPLS",
+        "VXLAN",
+        "BGP",
+        "OSPF",
+        "EIGRP",
+        "Python",
+        "Ansible",
+        "Jinja2",
+        "AWS",
+        "Multi-tenant",
+        "NFV",
+        "DDoS Mitigation",
+        "Internet Peering"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Engineered a secure multi-data-center Azure network interconnect using VXLAN overlays, solving latency issues for citizen service databases and ensuring compliance with stringent government data residency requirements.",
+        "Utilized Python to automate the collection and validation of OSPF neighbor states across the state's wide-area network, addressing visibility gaps that hampered troubleshooting of remote office connectivity.",
+        "Configured and optimized BGP peering between state data centers and Azure ExpressRoute, resolving asymmetric routing problems that affected the performance of public-facing government web applications.",
+        "Implemented basic SDWAN principles using Azure Virtual WAN to optimize traffic paths for various department workloads, improving user experience for essential services during peak demand periods.",
+        "Assisted in the design of internet peering security for public portals, applying strict ACLs and geo-blocking rules to mitigate reconnaissance attempts against government infrastructure.",
+        "Developed Ansible playbooks to standardize network device configurations for departmental rollouts, solving inconsistency issues and accelerating the deployment of new citizen service initiatives.",
+        "Diagnosed recurring network outages in a legacy data center by analyzing EIGRP topology tables and discovering a flapping link, collaborating with facilities to replace the faulty hardware.",
+        "Participated in audits for security compliance, providing network diagrams and configuration snippets to demonstrate adherence to government-mandated security controls for data protection.",
+        "Built Jinja2 templates for firewall policy deployments, ensuring uniform rule sets were applied across all environments hosting sensitive citizen data, from development to production.",
+        "Monitored and tuned network performance for large data transfers related to census and public health datasets, working to eliminate bottlenecks in the spine-leaf data center fabric.",
+        "Supported the implementation of DDoS mitigation services at the network edge, helping to configure scrubbing centers and BGP blackholing for identified attack traffic during planned exercises.",
+        "Documented troubleshooting procedures and network topology changes in Confluence, creating a knowledge base that improved the resolution time for incidents handled by the network operations center."
+      ],
+      "environment": [
+        "VXLAN",
+        "BGP",
+        "OSPF",
+        "EIGRP",
+        "Python",
+        "Ansible",
+        "Jinja2",
+        "Azure",
+        "Multi-data-center",
+        "Internet Peering Security",
+        "DDoS Mitigation"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Supported the network design for a PCI-DSS compliant big data analytics platform on Azure, assisting with VNet segmentation and NSG rules to isolate cardholder data environments as required by audit.",
+        "Utilized Python scripts to automate the validation of firewall rules governing data ingestion paths, solving inconsistencies that could have led to compliance failures during quarterly assessments.",
+        "Assisted senior engineers in configuring BGP sessions for high-throughput data replication between data centers, ensuring the reliable transfer of financial transaction datasets for fraud analysis.",
+        "Monitored network performance metrics for Spark and Hadoop clusters, identifying and reporting bandwidth contention issues that were subsequently addressed by the network team via QoS policies.",
+        "Learned to troubleshoot basic OSPF adjacency problems within the data center fabric, applying knowledge gained from shadowing senior staff during post-change verification windows.",
+        "Documented existing network connectivity for legacy financial reporting systems, creating diagrams that aided the planning for their migration to a modern, segmented Azure network architecture.",
+        "Participated in change control meetings for network modifications, providing input on potential impacts to big data batch job schedules and ensuring minimal disruption to nightly ETL processes.",
+        "Assisted with the implementation of secure internet egress points for developer teams, helping to enforce proxy policies that complied with the company's strict financial data security standards.",
+        "Gained exposure to DDoS mitigation concepts by reviewing alerts and incident reports, understanding how volumetric attacks could disrupt the availability of customer-facing financial services.",
+        "Contributed to the development of simple Jinja2 templates for generating consistent network access-control lists for new application deployments within the PCI cardholder data environment."
+      ],
+      "environment": [
+        "BGP",
+        "OSPF",
+        "Python",
+        "Jinja2",
+        "Azure",
+        "PCI DSS",
+        "Network Segmentation",
+        "Data Center Networking"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Collaborated with the IT team to document network requirements for a new healthcare imaging data repository, specifying bandwidth needs and security zones to protect sensitive patient scan data under HIPAA guidelines.",
+        "Analyzed network performance data from SQL queries to identify periodic slowdowns in database access for radiologists, providing reports that led to an upgrade of the core switch infrastructure.",
+        "Supported the testing of a new network path for a high-volume image transfer application, verifying data integrity and transfer speeds met the clinical workflow requirements before go-live.",
+        "Learned basic Python scripting to automate the collection of network device inventory from spreadsheets, reducing the manual effort required for asset management audits.",
+        "Attended network design review meetings for a new lab environment, providing the analyst perspective on how network latency could impact the performance of AI-powered diagnostic tools.",
+        "Assisted in troubleshooting a connectivity issue between the Oracle database server and application servers by performing traceroutes and providing the results to senior network administrators.",
+        "Documented the data flow for HIPAA-compliant healthcare information, creating diagrams that illustrated how network segmentation separated PHI from other operational data within the clinic's network.",
+        "Participated in a business continuity exercise, verifying that critical healthcare applications could be accessed via designated disaster recovery network pathways after a simulated outage."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "Network Documentation",
+        "HIPAA Compliance",
+        "Healthcare Data"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,286 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Azure AI Solution Engineer & LLM Applications Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in designing and deploying enterprise-grade AI solutions, specializing in Azure AI Foundry, LLM applications, and RAG pipelines for the Healthcare, Insurance, Government, and Finance sectors with a focus on production readiness.",
+    "Architected a multi-agent clinical support system using Crew AI and LangGraph, integrating Azure OpenAI for dynamic care plan generation, which significantly improved care team coordination and adhered to strict HIPAA data governance protocols within a secure Azure environment.",
+    "Engineered a secure RAG pipeline for insurance policy analysis by implementing hybrid search with re-ranking, optimizing chunking strategies and embedding generation to enhance retrieval precision and reduce hallucination rates for Blue Cross Blue Shield.",
+    "Developed and deployed Copilot Studio agents for internal government service desks, integrating them with enterprise data sources and designing conversation flows that streamlined citizen inquiry resolution for the State of Arizona.",
+    "Utilized Azure AI Foundry to manage the end-to-end lifecycle of LLM models, including deployment, endpoint configuration, and systematic evaluation workflows, ensuring consistent performance across healthcare documentation applications.",
+    "Built Python-based evaluation harnesses to continuously monitor key metrics such as grounded answer rate, latency p50/p95, and cost per response, enabling data-driven optimizations for production LLM applications in real-time.",
+    "Integrated Microsoft Teams applications with complex Microsoft entitlement systems, implementing robust authentication and authorization patterns to enable secure, tenant-aware chatbot deployments for enterprise communications.",
+    "Designed and optimized document ingestion pipelines using advanced chunking strategies and embedding models from Azure OpenAI, specifically tailored for processing sensitive financial documents with PCI compliance requirements.",
+    "Led the performance and cost tuning of RAG systems by implementing context compression, response caching, and intelligent rate limiting, which dramatically improved token efficiency and throughput for high-volume applications.",
+    "Collaborated with cross-functional teams to deliver scalable AI solutions, focusing on API development with secure middleware, comprehensive logging, and telemetry to meet stringent enterprise security and operational standards.",
+    "Conducted rigorous evaluation of retrieval systems, measuring hallucination rates and grounding effectiveness, followed by prompt tightening and system policy refinements to ensure the reliability of automated responses.",
+    "Implemented production-grade CI/CD pipelines for AI model deployments, incorporating rollback strategies and proactive monitoring to maintain high availability and facilitate rapid incident triage for critical systems.",
+    "Applied Azure OpenAI APIs for sophisticated tool and function calling within multi-agent frameworks, employing advanced prompt engineering and safety filters to generate accurate and contextually appropriate outputs.",
+    "Orchestrated the migration of legacy government data systems to a modern Azure-based infrastructure, developing Python services and C++ modules for performance-sensitive components to meet low-latency requirements.",
+    "Configured secure gRPC and REST APIs to facilitate integration between LLM applications and existing enterprise systems, ensuring seamless data flow while maintaining rigorous access controls and audit trails.",
+    "Optimized Teams bot integration by leveraging Microsoft entitlement services to manage user access dynamically, which streamlined internal support processes and reduced manual access governance overhead.",
+    "Spearheaded the proof-of-concept development for agentic workflows using Model Context Protocol and Google's Agent-to-Agent frameworks, exploring their applicability for automating complex healthcare administrative tasks.",
+    "Championed cost optimization initiatives by analyzing token usage patterns, implementing batching strategies for embedding generation, and deploying throttling mechanisms to control operational expenses effectively."
+  ],
+  "technical_skills": {
+    "Cloud AI & Machine Learning Platforms": [
+      "Azure AI Foundry",
+      "Azure OpenAI",
+      "Azure ML Studio",
+      "Copilot Studio",
+      "Azure Databricks",
+      "AWS SageMaker"
+    ],
+    "Large Language Models & Frameworks": [
+      "OpenAI GPT Models",
+      "Azure OpenAI APIs",
+      "LangChain",
+      "LlamaIndex",
+      "Hugging Face Transformers",
+      "Crew AI",
+      "LangGraph"
+    ],
+    "Programming & Scripting Languages": [
+      "Python",
+      "C++",
+      "SQL",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "RAG Pipeline & Vector Search Technologies": [
+      "Hybrid Search",
+      "Re-ranking Models",
+      "Embedding Models (text-embedding-ada-002)",
+      "Chunking Strategies",
+      "Vector Databases",
+      "Context Window Management"
+    ],
+    "API Development & Integration": [
+      "REST APIs",
+      "gRPC",
+      "FastAPI",
+      "Flask",
+      "Secure Middleware",
+      "Authentication/Authorization (OAuth, Entra ID)"
+    ],
+    "Microsoft Ecosystem & Collaboration": [
+      "Microsoft Teams Integration",
+      "Microsoft Entitlements/Graph API",
+      "Power Platform",
+      "SharePoint"
+    ],
+    "Data Engineering & Orchestration": [
+      "Apache Airflow",
+      "Azure Data Factory",
+      "ETL/ELT Pipelines",
+      "Data Ingestion",
+      "Apache Spark"
+    ],
+    "Containerization & DevOps": [
+      "Docker",
+      "Kubernetes",
+      "Azure Kubernetes Service (AKS)",
+      "CI/CD (GitHub Actions, Azure DevOps)",
+      "Terraform"
+    ],
+    "Monitoring, Logging & Observability": [
+      "Azure Monitor",
+      "Application Insights",
+      "Log Analytics",
+      "Telemetry Implementation",
+      "Latency Tracking"
+    ],
+    "Databases & Storage": [
+      "Azure Cosmos DB",
+      "PostgreSQL",
+      "Azure SQL Database",
+      "Elasticsearch",
+      "Azure Blob Storage"
+    ],
+    "Security & Compliance": [
+      "HIPAA Compliance",
+      "PCI DSS",
+      "GDPR",
+      "Data Encryption",
+      "Access Controls",
+      "Security Policies"
+    ],
+    "Development Tools & Methodologies": [
+      "Git",
+      "VS Code",
+      "Jupyter Notebooks",
+      "Agile/Scrum",
+      "Code Reviews",
+      "Proof-of-Concept Development"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected an Azure AI Foundry solution to deploy and manage clinical documentation LLMs, establishing evaluation workflows that reduced model hallucination rates by ensuring outputs remained grounded in patient records.",
+        "Developed a Copilot Studio agent integrated with Azure OpenAI and enterprise EHR data, designing conversation flows for nurses to query patient history, which streamlined shift handovers and improved information accuracy.",
+        "Engineered a RAG pipeline for medical research retrieval, implementing document chunking strategies and hybrid search with re-ranking to optimize precision, significantly accelerating literature review for clinicians.",
+        "Built Python orchestration services using Crew AI to create a multi-agent system for prior authorization, where specialized agents handled eligibility checks and form completion, reducing processing time.",
+        "Integrated a Teams application bot with Microsoft entitlements, enabling HIPAA-compliant secure access for care teams to discuss patient cases, requiring meticulous debugging of authentication token flows.",
+        "Implemented Azure OpenAI embeddings and function calling within a LangGraph framework to model complex diagnostic pathways, iteratively refining prompts based on weekly clinical feedback sessions.",
+        "Optimized production deployment cost by instrumenting telemetry to track token usage and latency p95, then applying caching and throttling, which lowered the cost per response for high-volume inquiry bots.",
+        "Designed a gRPC API layer for secure, low-latency communication between our Python-based agent coordinator and legacy C++ patient matching modules, ensuring real-time performance for emergency triage scenarios.",
+        "Conducted daily code reviews focusing on security and performance, often debating chunking strategy trade-offs with the team to balance context relevance against retrieval latency in the RAG system.",
+        "Led a proof-of-concept using Model Context Protocol to standardize data exchange between diagnostic agents, initially struggling with schema alignment but eventually improving interoperability.",
+        "Configured CI/CD pipelines in Azure DevOps for the Copilot Studio bot, incorporating rollback procedures that were successfully used during a minor incident, minimizing service disruption.",
+        "Performed rigorous evaluation of the grounding answer rate, creating Python scripts to compare LLM outputs against source documents, which revealed areas for prompt tightening and system policy updates.",
+        "Collaborated with compliance officers to embed HIPAA safeguards directly into the LangChain agents, implementing runtime checks that redacted PHI before any external API call, a challenging but critical task.",
+        "Troubleshot a persistent latency spike in the retrieval step by analyzing telemetry, ultimately tuning the hybrid search weights and introducing context compression, which restored p50 latency to target levels.",
+        "Mentored junior engineers on best practices for prompt engineering and Azure AI Foundry deployments, sharing lessons learned from trial-and-error moments with early grounding failures.",
+        "Participated in sprint planning to prioritize context window control enhancements, advocating for features that would prevent the agents from exceeding token limits on lengthy patient histories."
+      ],
+      "environment": [
+        "Azure AI Foundry",
+        "Copilot Studio",
+        "Azure OpenAI",
+        "LangGraph",
+        "Crew AI",
+        "Python",
+        "C++",
+        "gRPC",
+        "Microsoft Teams",
+        "Microsoft Entitlements",
+        "Azure DevOps",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Constructed a RAG pipeline for insurance policy documents using Azure OpenAI embeddings, solving the problem of manual lookup by enabling semantic search, which cut claim adjudication reference time significantly.",
+        "Developed a proof-of-concept multi-agent system with LangChain where separate agents parsed member eligibility and benefit details, coordinating to generate comprehensive coverage summaries for call center staff.",
+        "Integrated Azure AI Foundry to manage custom fine-tuned models for parsing complex Explanation of Benefits forms, establishing deployment pipelines and performance monitoring dashboards for business stakeholders.",
+        "Built Python evaluation harnesses to measure retrieval precision and recall of our RAG system, identifying gaps that led us to implement re-ranking models and improve the relevance of provided context.",
+        "Designed and secured REST APIs for the policy chatbot, incorporating Azure Entra ID for authentication and ensuring all data exchanges complied with stringent insurance data protection regulations.",
+        "Orchestrated the document ingestion pipeline with Azure Data Factory, implementing custom chunking logic for lengthy legal policy PDFs to preserve semantic coherence across boundaries, a tedious but vital task.",
+        "Participated in daily standups to troubleshoot performance bottlenecks in the embedding generation step, eventually proposing a batching strategy that improved throughput for our nightly processing jobs.",
+        "Configured a Copilot Studio connector to access internal claims databases, designing conversation flows that guided users through structured queries while maintaining strict access controls based on user role.",
+        "Applied prompt engineering techniques to the Azure OpenAI chat completions API, systematically testing variations to reduce ambiguous answers in coverage-related inquiries from policyholders.",
+        "Assisted in the deployment of a Teams-integrated bot for internal underwriters, grappling with Microsoft entitlement configurations to ensure only authorized departments could access sensitive risk models.",
+        "Conducted cost optimization analysis by logging token usage per query, which revealed opportunities to cache common responses and implement rate limiting on our most expensive embedding endpoints.",
+        "Supported the implementation of hybrid search by combining keyword and vector search results, spending hours tuning the balance to improve recall for specific insurance codes and technical terminology.",
+        "Documented the incident triage process for the production RAG service, creating runbooks that outlined steps to diagnose hallucination spikes or latency degradation, which improved team response times.",
+        "Collaborated with data governance teams to ensure our LLM applications adhered to state-specific insurance regulations, integrating compliance checks into the response generation workflow."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "RAG Pipelines",
+        "LangChain",
+        "Azure AI Foundry",
+        "Python",
+        "Azure Data Factory",
+        "REST APIs",
+        "Copilot Studio",
+        "Microsoft Teams",
+        "Hybrid Search"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Migrated legacy government citizen service data to AWS, building scalable data pipelines that prepared the ground for future AI applications, while ensuring all processes met public records retention laws.",
+        "Developed Python services for data prep and integration, supporting early-stage explorations into using OpenAI APIs for summarizing public comments on legislative proposals, focusing on prompt engineering for neutrality.",
+        "Engineered batch ETL processes using AWS Glue to ingest and chunk thousands of PDF policy documents, creating a foundational corpus for a planned RAG system to assist government employees.",
+        "Assisted in the design of a citizen-facing chatbot proof-of-concept, integrating it with simple Q&A APIs and implementing basic grounding techniques to keep responses within provided factual boundaries.",
+        "Built monitoring and logging infrastructure for API services using AWS CloudWatch, establishing baselines for latency that would later inform performance SLAs for AI-driven services.",
+        "Participated in code reviews for integration code, learning to identify potential security flaws and performance issues in service-to-service communication within the government's secure network.",
+        "Supported the team in evaluating different embedding generation approaches for government document search, running small-scale experiments to compare open-source models against early cloud offerings.",
+        "Configured secure API endpoints with authentication middleware to allow inter-departmental data sharing, a task that required meticulous attention to detail regarding access permissions and audit logs.",
+        "Troubleshot data pipeline failures, often late at night, to ensure daily datasets for public health reporting were accurate and complete during the peak of the COVID-19 response efforts.",
+        "Documented data lineage and governance controls for all new pipelines, ensuring transparency and compliance with state government IT policies and freedom of information act requirements.",
+        "Collaborated with analysts to translate business requirements for public assistance programs into technical specifications for data models and API contracts.",
+        "Attended workshops on responsible AI use in government, contributing to internal guidelines on fairness and transparency for any future LLM deployments in citizen services."
+      ],
+      "environment": [
+        "AWS (S3, Glue, Lambda)",
+        "Python",
+        "ETL",
+        "REST APIs",
+        "OpenAI APIs",
+        "Data Governance",
+        "CloudWatch"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Optimized large-scale Spark data processing jobs on AWS EMR for transaction analytics, directly improving the data quality and latency of features used in fraud detection machine learning models.",
+        "Developed and maintained Kafka-based streaming pipelines for real-time transaction ingestion, ensuring data consistency and low latency to support downstream financial risk assessments.",
+        "Built batch ETL pipelines with Python and SQL to prepare customer financial data for model training, implementing rigorous data validation checks to ensure compliance with PCI DSS standards.",
+        "Assisted senior engineers in performance tuning critical data pipelines, learning to analyze Spark UI metrics and adjust configurations to reduce job runtimes and associated AWS costs.",
+        "Created monitoring dashboards for data pipeline health, tracking metrics like row counts and freshness, which enabled quicker detection of upstream source data issues.",
+        "Participated in the design of secure data access patterns for analytical workloads, helping to implement column-level encryption for sensitive customer financial information.",
+        "Supported the migration of on-premise Hadoop workloads to AWS, writing scripts to automate the transfer and verification of petabytes of historical transaction data.",
+        "Troubleshot data quality alerts from production pipelines, often diving into complex SQL queries to identify the root cause of discrepancies in daily financial reports.",
+        "Documented data dictionary entries and pipeline specifications for the fraud analytics domain, improving knowledge sharing across the newly formed data engineering team.",
+        "Attended daily scrums and planning meetings, contributing to task breakdowns and timeline estimates for building foundational data infrastructure to support future advanced analytics."
+      ],
+      "environment": [
+        "AWS EMR",
+        "Apache Spark",
+        "Apache Kafka",
+        "Python",
+        "SQL",
+        "ETL",
+        "PCI DSS"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare diagnostic image metadata using SQL and Python, producing reports that helped clinicians identify patterns and improve diagnostic accuracy for pathological screenings.",
+        "Developed Python scripts to automate the extraction and cleaning of lab test results from various formatted reports, significantly reducing manual data entry time for research teams.",
+        "Created interactive dashboards in Power BI to visualize patient cohort statistics and test result trends, enabling medical researchers to derive insights more efficiently from complex datasets.",
+        "Assisted in building foundational data pipelines that aggregated patient information from disparate sources, ensuring data integrity and compliance with early data privacy considerations.",
+        "Performed ad-hoc SQL queries against clinical databases to support specific research inquiries, carefully anonymizing patient data in all outputs to protect sensitive health information.",
+        "Collaborated with software engineers to define requirements for data storage schemas, advocating for structures that would support both analytical queries and operational reporting needs.",
+        "Documented data analysis methodologies and findings for internal knowledge sharing, contributing to the company's growing repository of research on AI-assisted diagnostics.",
+        "Participated in training sessions on healthcare data regulations, applying those principles to ensure all analytical work products adhered to necessary confidentiality and ethical standards."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Data Analysis",
+        "Healthcare Data",
+        "HIPAA"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

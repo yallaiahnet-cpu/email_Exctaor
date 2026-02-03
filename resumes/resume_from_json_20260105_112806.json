@@ -1,0 +1,295 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Full-Stack Java Developer with Python & Agentic AI Integration",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Senior Java Full-Stack Developer with 10 years of expertise in Insurance, Healthcare, Banking, and Consulting, integrating enterprise applications with Python and agentic AI systems using LangChain, LangGraph, and multi-agent protocols to solve complex business challenges.",
+    "Establish scalable Java Spring Boot microservices integrated with Python-based LangGraph workflows, enabling agentic AI to automate insurance claim processing while ensuring strict compliance with industry regulations and reducing manual review cycles.",
+    "Created advanced Angular user interfaces that visualize real-time data from ElasticSearch and Kafka streams, allowing healthcare analysts to monitor patient risk scores and improve decision-making processes across various enterprise applications.",
+    "Organized multi-agent systems using the Model Context Protocol for a banking application, coordinating different AI agents to handle fraud detection, customer query resolution, and transaction validation within a single secure framework.",
+    "Constructed RAG pipelines with vector databases to ground AI responses in accurate enterprise data, significantly improving the reliability of agentic AI answers for insurance policy queries and reducing incorrect information by a notable margin.",
+    "Applied advanced prompt engineering techniques to shape the behavior of AI agents in LangChain, crafting specific instructions that ensure outputs comply with healthcare HIPAA regulations and maintain patient data privacy.",
+    "Managed the full deployment lifecycle of containerized Java microservices and Python AI agents using Docker and Kubernetes on AWS EKS, achieving high availability and seamless scaling for peak insurance enrollment periods.",
+    "Strengthened API security and governance by implementing OAuth2 and rate limiting across all microservices, protecting sensitive financial data in banking applications and preventing unauthorized access to critical endpoints.",
+    "Guided cross-functional teams of frontend, backend, and AI/ML engineers through the design and integration of an agent-to-agent communication layer, facilitating complex workflows in a cloud-native insurance platform.",
+    "Solved performance bottlenecks in high-traffic microservices by conducting thorough code profiling and optimizing database queries, which enhanced the response time for healthcare provider search functionalities.",
+    "Adapted existing monolithic consulting applications into a microservices architecture, incrementally breaking down components into Spring Boot services that communicate asynchronously via Kafka events.",
+    "Examined ElasticSearch cluster performance to identify slow indexing issues, adjusting shard allocations and refresh intervals to accelerate search results for large-scale document retrieval in enterprise applications.",
+    "Fostered collaboration between DevOps and development teams to establish CI/CD pipelines with Jenkins and Git, automating the testing and deployment of both Java services and Python AI modules to reduce manual errors.",
+    "Verified the scalability of cloud-native applications by designing and executing load tests using JMeter, simulating thousands of concurrent users to ensure system stability during critical banking transaction hours.",
+    "Translated complex business rules from insurance underwriting guidelines into executable code within Java microservices, ensuring the automated system adheres to all state-specific regulatory requirements.",
+    "Maintained comprehensive documentation for the agentic AI architecture and integration patterns, helping new team members understand the multi-agent workflow and the flow of context between different AI components.",
+    "Reviewed Python code for LangChain agent implementations, providing feedback in peer sessions to improve error handling and ensure graceful degradation when external AI service calls experience latency.",
+    "Upgraded legacy database schemas in both SQL and NoSQL systems to support new AI-generated data fields, carefully planning migrations to avoid downtime for 24/7 healthcare operational systems."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "TypeScript",
+      "Angular",
+      "React"
+    ],
+    "AI/ML & Agentic Systems": [
+      "LangChain",
+      "LangGraph",
+      "Agentic AI",
+      "Multi-Agent Systems (A2A)",
+      "Model Context Protocol (MCP)",
+      "RAG Pipelines",
+      "LLMs",
+      "Prompt Engineering"
+    ],
+    "Microservices & Cloud Architecture": [
+      "Microservices Architecture",
+      "Cloud-Native Design",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "API Governance"
+    ],
+    "Databases & Search": [
+      "SQL",
+      "NoSQL",
+      "ElasticSearch",
+      "Vector Databases",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "Streaming & Event-Driven Systems": [
+      "Apache Kafka",
+      "Event-Driven Architecture"
+    ],
+    "Full-Stack Development": [
+      "Full-Stack Architecture",
+      "RESTful APIs",
+      "Frontend Development"
+    ],
+    "Performance & Scalability Tools": [
+      "Performance Optimization",
+      "Scalability Solutions",
+      "JMeter"
+    ],
+    "Security & Compliance": [
+      "Advanced Security",
+      "OAuth2",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance"
+    ],
+    "Data Engineering & Big Data": [
+      "Databricks",
+      "Apache Spark",
+      "Apache Hadoop",
+      "Informatica",
+      "Sqoop"
+    ],
+    "DevOps & CI/CD": [
+      "DevOps Practices",
+      "Jenkins",
+      "Git",
+      "Infrastructure as Code"
+    ],
+    "Monitoring & Observability": [
+      "OpenTelemetry",
+      "Logging",
+      "Monitoring"
+    ],
+    "Other Relevant Tools": [
+      "LangSmith",
+      "Apache Airflow"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Plan the architecture for a multi-agent insurance claims system using LangGraph, defining agent roles for assessment, fraud check, and customer communication to streamline the entire claims lifecycle from initial report to final payout.",
+        "Implement a proof-of-concept for Model Context Protocol integration, enabling different AI agents to share and understand contextual claim data securely, which improved processing accuracy and reduced inter-agent communication errors significantly.",
+        "Deploy the agentic AI orchestration layer on AWS EKS using Docker containers, setting up health checks and auto-scaling policies to handle fluctuating claim volumes, especially during seasonal weather events that increase claim submissions.",
+        "Monitor the performance of Databricks jobs that feed processed claims data into the multi-agent system, creating dashboards to track data pipeline latency and ensure fresh information is always available for AI decision-making.",
+        "Optimize the RAG pipeline's retrieval speed by fine-tuning the vector search over insurance policy documents stored in Pinecone, achieving faster response times for agents answering complex coverage questions from adjusters.",
+        "Troubleshoot intermittent failures in the agent-to-agent communication layer, analyzing Kafka logs to find message serialization issues and deploying a fix that improved the overall reliability of the multi-agent workflow.",
+        "Establish API security gateways to govern all interactions between the Angular frontend, Java microservices, and Python AI agents, implementing strict authentication to protect sensitive policyholder information.",
+        "Configure ElasticSearch indices to support advanced search across claim notes and documents, improving the ability of both human adjusters and AI agents to find relevant historical information quickly.",
+        "Design a fallback mechanism for when primary AI agents are unresponsive, coding a simple rule-based Java service to handle basic claim triage, which maintained system functionality during external API outages.",
+        "Build data validation checks within the Spring Boot services to ensure all data passed to AI agents meets quality standards, preventing garbage-in-garbage-out scenarios that could lead to incorrect claim decisions.",
+        "Test the scalability of the entire application stack by simulating a surge in claims, identifying a database connection pool bottleneck and adjusting the configuration to support the required concurrent users.",
+        "Integrate LangSmith for observability into the LangChain workflows, tracing agent execution paths and identifying costly or repetitive steps that could be optimized to reduce operational costs.",
+        "Document the complete architecture and operational runbooks for the new AI-driven claims system, facilitating knowledge transfer to the operations team responsible for ongoing maintenance and support.",
+        "Refactor a legacy monolithic reporting module into a set of cloud-native microservices, allowing independent scaling and deployment that did not disrupt the core claims processing engine.",
+        "Validate all AI-generated claim recommendations against internal business rules and state insurance regulations, adding a final compliance check before any automated payout action is approved.",
+        "Collaborate on the user interface design for the claims dashboard, providing backend API support to deliver real-time agent status and decision rationale to the Angular-based application for adjuster oversight."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "RAG",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Kafka",
+        "ElasticSearch",
+        "Databricks",
+        "Angular",
+        "Microservices",
+        "SQL",
+        "NoSQL"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned an AI-assisted clinical trial matching system using a LangChain-based multi-agent framework, where different agents specialized in parsing eligibility criteria, patient history, and trial protocols to find suitable candidates.",
+        "Implemented data anonymization pipelines in Python to ensure all patient data processed by AI agents complied with HIPAA regulations, stripping identifiable information before feeding it into the LangGraph workflow.",
+        "Deployed the AI services on AWS using Fargate for serverless container execution, which simplified management and ensured the system could scale down during periods of low clinical trial activity to control costs.",
+        "Monitored the accuracy of AI-generated trial matches by comparing them against manual expert reviews, setting up a feedback loop to retrain and improve the underlying models based on real-world discrepancies.",
+        "Optimized the interaction between Java-based patient management microservices and the Python AI layer, reducing API call latency by implementing efficient data serialization and connection pooling strategies.",
+        "Troubleshooted data drift issues in the ML models used by the agents, identifying changes in clinical trial document formats and updating the data preprocessing steps to maintain matching accuracy over time.",
+        "Built a secure API gateway to mediate all requests between the React frontend used by researchers and the backend AI services, enforcing strict access controls based on user roles and project affiliations.",
+        "Designed the database schema for storing agent decisions and their supporting evidence, using PostgreSQL for structured data and MongoDB for flexible document storage of trial criteria and patient profiles.",
+        "Tested the system's resilience by deliberately injecting failures into dependent services, ensuring the AI agents could degrade gracefully and provide partial, helpful results even when some data was unavailable.",
+        "Integrated a proof-of-concept for a specialized agent that used LangChain tools to query external medical databases, expanding the system's knowledge beyond the internal J&J trial repository.",
+        "Documented the complex agent orchestration logic and the flow of sensitive data, which was critical for passing internal security and compliance audits related to patient data handling in clinical research.",
+        "Collaborated with the DevOps team to package the Java and Python components into Docker images and establish a blue-green deployment strategy on Kubernetes, minimizing downtime for the global user base.",
+        "Validated that all AI outputs included appropriate disclaimers and were presented as suggestions to human researchers, never as autonomous decisions, adhering to strict healthcare industry guidelines for AI-assisted tools.",
+        "Reviewed and merged code from junior developers, focusing on secure coding practices and proper error handling, especially for sections of code that interfaced with protected health information."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "React",
+        "Microservices",
+        "PostgreSQL",
+        "MongoDB",
+        "HIPAA",
+        "Kafka",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planned a predictive analytics platform on Azure to forecast public health resource needs, using Java Spring Boot services to ingest data and Python Scikit-learn models for predictions, all within strict HIPAA-compliant boundaries.",
+        "Implemented data ingestion pipelines with Azure Data Factory, moving encrypted healthcare data from various state sources into a centralized Azure SQL Database for model training and analysis, ensuring data lineage was tracked.",
+        "Deployed machine learning models as containerized REST APIs using Azure Kubernetes Service, setting up horizontal pod autoscaling to manage the load from various public health department dashboards across the state.",
+        "Monitored model performance and data quality metrics using Application Insights, creating alerts for when prediction drift occurred or data ingestion pipelines failed, allowing for quick intervention by the operations team.",
+        "Optimized the performance of complex joins and aggregations in the reporting database, which accelerated the data preparation phase for daily batch prediction jobs and improved overall system throughput.",
+        "Troubleshooted authentication issues between the Angular-based dashboard and the backend microservices, tracing problems to an expired certificate in the Azure Active Directory configuration and coordinating its renewal.",
+        "Built audit logging into every service to track access to sensitive health indicators, a requirement for state compliance audits, and ensured logs were securely stored and could be retrieved for forensic analysis.",
+        "Designed the microservice communication patterns to use asynchronous messaging via Azure Service Bus for non-critical tasks, reducing the load on synchronous APIs and improving the user experience for frontline health workers.",
+        "Tested the system's security posture through vulnerability scans and penetration testing exercises, addressing findings related to API endpoint exposure and strengthening input validation across all services.",
+        "Integrated the new predictive platform with legacy state reporting systems, writing custom connectors that transformed data formats and handled scheduled batch transfers without disrupting existing workflows.",
+        "Documented the deployment process and disaster recovery procedures for the Azure-based infrastructure, providing clear instructions for the state's IT team to manage the environment after the project handover.",
+        "Collaborated with public health experts to translate their analytical needs into technical specifications, often breaking down complex requests into smaller, achievable development tasks for the engineering team."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Azure",
+        "Azure Kubernetes Service",
+        "Azure SQL",
+        "Microservices",
+        "Angular",
+        "HIPAA",
+        "SQL",
+        "Docker",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planned a real-time fraud detection system using Azure cloud services, where Java microservices would stream transaction data to Python models for scoring, and flag high-risk activities for immediate review by security analysts.",
+        "Implemented feature engineering pipelines to transform raw transaction data into meaningful inputs for machine learning models, ensuring all processes adhered to PCI-DSS standards for data security and encryption.",
+        "Deployed the fraud scoring models as Azure Functions for a serverless architecture, which allowed the system to scale cost-effectively with the highly variable transaction volume typical in retail banking.",
+        "Monitored model precision and recall metrics daily, setting up automated retraining pipelines in Azure Machine Learning when performance degraded below a defined threshold, maintaining high detection rates.",
+        "Optimized the latency of the entire fraud detection loop, from transaction initiation to risk score, by refining the Java service code and selecting more efficient serialization libraries for data transfer.",
+        "Troubleshooted false positive alerts by analyzing model decisions, discovering that certain legitimate merchant categories were being flagged, and retraining the model with corrected historical data to reduce noise.",
+        "Built interactive dashboards with React to visualize fraud patterns and model performance, helping the fraud investigation team understand system behavior and make informed decisions about rule tuning.",
+        "Designed the data storage strategy using Azure Cosmos DB for its low-latency global replication, which was crucial for providing a consistent fraud detection experience for customers traveling internationally.",
+        "Tested the system's integration with core banking transaction processors, conducting end-to-end tests during off-peak hours to verify data accuracy and system stability before full production rollout.",
+        "Documented the statistical methodologies behind the fraud models and the business rules applied post-scoring, which was essential for regulatory explanations and for onboarding new data scientists to the project."
+      ],
+      "environment": [
+        "Java",
+        "Python",
+        "Azure",
+        "Azure Functions",
+        "Cosmos DB",
+        "React",
+        "Microservices",
+        "PCI-DSS",
+        "Machine Learning",
+        "SQL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planned the migration of client financial data from on-premise Oracle databases to a Hadoop data lake, designing Sqoop jobs to perform incremental extracts and Informatica workflows for data transformation and cleansing.",
+        "Implemented daily batch processing jobs using Apache Oozie to orchestrate the sequence of Sqoop imports, Informatica mappings, and final Hive table updates, ensuring data was ready for analyst consumption each morning.",
+        "Deployed and configured Hadoop cluster components like HDFS, YARN, and Hive, working with infrastructure teams to size the cluster appropriately for the projected data growth from multiple consulting client projects.",
+        "Monitored job performance and system resource usage, identifying and resolving bottlenecks where slow-running Informatica sessions were delaying downstream dependencies and affecting report timeliness.",
+        "Optimized Hive queries by rewriting them to reduce data shuffling and implementing partitioning strategies on key business date fields, which cut down report generation time for end-users significantly.",
+        "Troubleshooted data quality issues reported by business analysts, tracing inaccuracies back to a misconfigured join in an Informatica mapping and correcting the logic to restore report integrity.",
+        "Built shell scripts to automate routine cluster maintenance tasks and the deployment of new ETL job configurations, reducing manual effort and the potential for human error in the repetitive processes.",
+        "Documented the entire ETL architecture, data lineage, and operational support procedures, creating a knowledge base that enabled other team members to understand and maintain the complex data pipelines."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Oracle",
+        "Shell Scripting",
+        "ETL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

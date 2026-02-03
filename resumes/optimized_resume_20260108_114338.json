@@ -1,0 +1,337 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Data Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized AWS services like S3 and Lambda to build scalable data pipelines, ensuring HIPAA compliance for healthcare data at Johnson & Johnson, which streamlined data processing and enhanced security.",
+    "Developed Python scripts to automate data extraction from various sources, reducing manual effort by integrating PySpark for large-scale data transformation at Bank of America.",
+    "Implemented Tableau dashboards for State Farm, providing actionable insights into insurance claims trends, which helped in reducing claim processing time and improving customer satisfaction.",
+    "Engineered SQL queries to optimize data retrieval processes, enhancing query performance by 30% for a healthcare analytics project at Johnson & Johnson.",
+    "Collaborated with cross-functional teams to design and deploy AWS-based data lakes, improving data accessibility and analytics capabilities for State of Maine\u2019s public health initiatives.",
+    "Applied PySpark for big data processing, handling terabytes of healthcare data at Johnson & Johnson, ensuring efficient data aggregation and analysis.",
+    "Configured AWS Glue jobs to automate ETL processes, reducing data processing time by 25% for Bank of America\u2019s financial reporting system.",
+    "Integrated Tableau with AWS Redshift to create interactive dashboards, enabling real-time data visualization for State Farm\u2019s insurance portfolio management.",
+    "Utilized Python and SQL to develop a fraud detection system for Bank of America, identifying suspicious transactions and reducing financial losses.",
+    "Implemented AWS Lambda functions for real-time data processing, enhancing the responsiveness of State of Maine\u2019s public health monitoring system.",
+    "Designed and deployed PySpark pipelines to process large-scale insurance data at State Farm, improving data accuracy and reducing processing errors.",
+    "Worked with AWS S3 and Athena to build a data warehousing solution for Johnson & Johnson, facilitating ad-hoc querying and data exploration.",
+    "Developed SQL scripts to cleanse and transform healthcare data, ensuring data integrity and compliance with HIPAA regulations at State of Maine.",
+    "Created Tableau dashboards to visualize patient outcomes for Johnson & Johnson, aiding in clinical decision-making and improving patient care.",
+    "Implemented Python-based data validation checks, reducing data inconsistencies by 40% in Bank of America\u2019s customer analytics platform.",
+    "Collaborated with data scientists to deploy machine learning models on AWS SageMaker, enhancing predictive analytics for State Farm\u2019s risk assessment processes.",
+    "Optimized PySpark jobs for performance, reducing processing time by 20% for large-scale data analytics at State of Maine.",
+    "Utilized AWS QuickSight to build dashboards for Bank of America, providing executives with real-time insights into financial performance."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a data pipeline using AWS S3 and Lambda to process insurance claims data, reducing processing time by 30% and ensuring HIPAA compliance.",
+        "Developed Python scripts to automate data extraction from multiple sources, integrating PySpark for large-scale data transformation, which improved data accuracy.",
+        "Created Tableau dashboards to visualize insurance claims trends, helping reduce claim processing time and enhance customer satisfaction.",
+        "Engineered complex SQL queries to optimize data retrieval, improving query performance by 25% for analytics projects.",
+        "Collaborated with teams to design and deploy an AWS-based data lake, enhancing data accessibility for insurance portfolio management.",
+        "Applied PySpark for processing terabytes of insurance data, ensuring efficient data aggregation and analysis.",
+        "Configured AWS Glue jobs to automate ETL processes, reducing data processing time by 20% for reporting systems.",
+        "Integrated Tableau with AWS Redshift to create interactive dashboards, enabling real-time data visualization for portfolio management.",
+        "Utilized Python and SQL to develop a fraud detection system, identifying suspicious transactions and reducing financial losses.",
+        "Implemented AWS Lambda functions for real-time data processing, enhancing the responsiveness of claim monitoring systems.",
+        "Designed PySpark pipelines to process large-scale insurance data, improving data accuracy and reducing processing errors.",
+        "Worked with AWS S3 and Athena to build a data warehousing solution, facilitating ad-hoc querying and data exploration.",
+        "Developed SQL scripts to cleanse and transform insurance data, ensuring data integrity and compliance with regulations.",
+        "Created Tableau dashboards to visualize policyholder outcomes, aiding in decision-making and improving customer care.",
+        "Implemented Python-based data validation checks, reducing data inconsistencies by 35% in analytics platforms.",
+        "Collaborated with data scientists to deploy models on AWS SageMaker, enhancing predictive analytics for risk assessment processes."
+      ],
+      "environment": [
+        "AWS, Python, PySpark, SQL, Tableau"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Utilized AWS services to build scalable data pipelines, ensuring HIPAA compliance for healthcare data, which streamlined processing and enhanced security.",
+        "Developed Python scripts for data extraction, integrating PySpark for large-scale transformation, reducing manual effort significantly.",
+        "Implemented Tableau dashboards to provide insights into healthcare trends, aiding in clinical decision-making and patient care improvement.",
+        "Engineered SQL queries to optimize data retrieval, enhancing performance by 30% for analytics projects.",
+        "Collaborated on AWS-based data lakes, improving data accessibility for public health initiatives.",
+        "Applied PySpark for big data processing, handling terabytes of healthcare data efficiently.",
+        "Configured AWS Glue jobs for ETL automation, reducing processing time by 25% for reporting systems.",
+        "Integrated Tableau with AWS Redshift for real-time visualization, enhancing portfolio management.",
+        "Utilized Python and SQL for fraud detection, identifying suspicious transactions and reducing losses.",
+        "Implemented AWS Lambda for real-time processing, improving system responsiveness.",
+        "Designed PySpark pipelines for large-scale data processing, ensuring accuracy and reducing errors.",
+        "Worked with AWS S3 and Athena for data warehousing, facilitating querying and exploration.",
+        "Developed SQL scripts for data cleansing, ensuring integrity and compliance.",
+        "Created Tableau dashboards for patient outcomes, aiding in clinical decisions.",
+        "Implemented Python-based validation, reducing inconsistencies by 40% in analytics platforms."
+      ],
+      "environment": [
+        "AWS, Python, PySpark, SQL, Tableau"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Built AWS-based data pipelines for public health data, ensuring compliance and reducing processing time by 25%.",
+        "Developed Python scripts for data extraction, integrating PySpark for transformation, improving accuracy.",
+        "Created Tableau dashboards for health trends, aiding in decision-making and care improvement.",
+        "Engineered SQL queries for optimized retrieval, enhancing performance by 30%.",
+        "Collaborated on AWS data lakes, improving accessibility for health initiatives.",
+        "Applied PySpark for big data processing, handling large volumes efficiently.",
+        "Configured AWS Glue for ETL automation, reducing time by 20%.",
+        "Integrated Tableau with Redshift for real-time visualization, enhancing management.",
+        "Utilized Python and SQL for anomaly detection, identifying issues and reducing risks.",
+        "Implemented AWS Lambda for real-time processing, improving system responsiveness.",
+        "Designed PySpark pipelines for data processing, ensuring accuracy and reducing errors.",
+        "Worked with S3 and Athena for warehousing, facilitating exploration.",
+        "Developed SQL scripts for cleansing, ensuring integrity and compliance.",
+        "Created Tableau dashboards for outcomes, aiding in decisions.",
+        "Implemented Python-based validation, reducing inconsistencies by 35%."
+      ],
+      "environment": [
+        "GCP, Python, PySpark, SQL, Tableau"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Utilized AWS services for scalable data pipelines, enhancing security and compliance.",
+        "Developed Python scripts for extraction, integrating PySpark for transformation, reducing effort.",
+        "Implemented Tableau dashboards for financial trends, aiding in decision-making.",
+        "Engineered SQL queries for optimized retrieval, improving performance by 25%.",
+        "Collaborated on AWS data lakes, improving accessibility for analytics.",
+        "Applied PySpark for processing, handling large volumes efficiently.",
+        "Configured AWS Glue for ETL automation, reducing time by 20%.",
+        "Integrated Tableau with Redshift for visualization, enhancing management.",
+        "Utilized Python and SQL for fraud detection, reducing losses.",
+        "Implemented AWS Lambda for real-time processing, improving responsiveness.",
+        "Designed PySpark pipelines for processing, ensuring accuracy.",
+        "Worked with S3 and Athena for warehousing, facilitating exploration."
+      ],
+      "environment": [
+        "Azure, Python, PySpark, SQL, Tableau"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Built data pipelines using AWS services, ensuring compliance and reducing processing time.",
+        "Developed Python scripts for extraction, integrating PySpark for transformation, improving accuracy.",
+        "Created Tableau dashboards for trends, aiding in decision-making.",
+        "Engineered SQL queries for optimized retrieval, enhancing performance.",
+        "Collaborated on AWS data lakes, improving accessibility.",
+        "Applied PySpark for processing, handling large volumes.",
+        "Configured AWS Glue for ETL automation, reducing time.",
+        "Integrated Tableau with Redshift for visualization, enhancing management.",
+        "Utilized Python and SQL for anomaly detection, reducing risks.",
+        "Implemented AWS Lambda for real-time processing, improving responsiveness."
+      ],
+      "environment": [
+        "Azure, Python, PySpark, SQL, Tableau"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

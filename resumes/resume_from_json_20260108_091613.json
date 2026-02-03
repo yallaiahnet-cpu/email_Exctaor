@@ -1,0 +1,312 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Cloud Solutions Architect - AI/ML & Generative AI",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 12 years of experience specializing in Cloud Solutions Architecture with deep expertise in AI/ML and Generative AI platforms, spanning Healthcare, Insurance, Government, and Financial Services domains with strict regulatory compliance.",
+    "Architected a comprehensive GCP landing zone design for a healthcare enterprise, implementing multi-project governance and VPC network architecture with private connectivity to ensure HIPAA-compliant data isolation and secure application modernization.",
+    "Developed a generative AI architecture leveraging Vertex AI and LangGraph to construct a multi-agent system for clinical documentation, implementing RAG pipelines with vector stores to improve medical coding accuracy and automate insurance claim processing.",
+    "Led the cloud migration strategy for a government agency's legacy data platforms, creating reference architectures for moving on-premise data warehouses to AWS Redshift with resilient HA/DR design and cost optimization FinOps practices.",
+    "Designed and implemented an MLOps platform on GCP using Kubeflow and Cloud Build to automate the CI/CD pipeline for machine learning models, enforcing model governance and responsible AI practices throughout the training and serving lifecycle.",
+    "Built a real-time streaming data platform using Apache Kafka and Pub/Sub on GCP to process healthcare IoT device data, implementing observability with Cloud Monitoring and Logging for proactive system health tracking and incident response.",
+    "Orchestrated the migration of monolithic insurance applications to cloud-native microservices on GKE, utilizing Docker containers and Terraform for infrastructure as code to enhance scalability and developer deployment velocity.",
+    "Architected a zero-trust security framework for financial services applications on AWS, implementing identity and access management with granular policies and secrets management via AWS KMS to meet stringent PCI DSS compliance requirements.",
+    "Created threat models and security guardrails for a multi-account AWS environment hosting sensitive government data, designing network security groups, VPC endpoints, and encryption at rest to protect citizen information and prevent data exfiltration.",
+    "Optimized cloud spending by 30% through FinOps implementation, establishing cost allocation tags, budget alerts, and rightsizing recommendations across GCP projects while maintaining performance SLAs for critical healthcare applications.",
+    "Implemented a vector search solution using Pinecone and embeddings from clinical trial documents, enabling semantic search capabilities that reduced research time for medical staff and improved patient cohort identification for studies.",
+    "Designed a high-level architecture (HLD) and low-level design (LLD) for a state-wide health information exchange, ensuring data platform migration integrity and interoperability between disparate healthcare systems using HL7 FHIR standards.",
+    "Conducted stakeholder workshops with clinical and business teams to gather requirements for an AI-powered diagnostic assistant, translating needs into technical specifications for model training patterns and generative AI integration points.",
+    "Established ML platform architecture on Vertex AI featuring automated feature engineering, hyperparameter tuning, and model registry capabilities, significantly accelerating the development cycle for predictive maintenance models in hospital equipment.",
+    "Led the technical guidance for engineering teams adopting cloud-native design patterns, providing hands-on coding reviews and troubleshooting sessions for Kubernetes deployments and service mesh configurations using Istio.",
+    "Architected a resilient disaster recovery solution across GCP regions for insurance policy administration systems, implementing automated failover testing and recovery point objectives that met business continuity planning requirements.",
+    "Developed reference architectures for embedding generative AI capabilities into existing healthcare applications, focusing on secure API gateways, rate limiting, and audit logging to maintain compliance with FDA and HIPAA regulations.",
+    "Facilitated cross-functional collaboration between data science, DevOps, and security teams to productionize machine learning models, establishing MLOps practices that ensured reproducibility, version control, and continuous model monitoring."
+  ],
+  "technical_skills": {
+    "Cloud Platforms & Architecture": [
+      "Google Cloud Platform (GCP)",
+      "Amazon Web Services (AWS)",
+      "Cloud Native Design Patterns",
+      "Landing Zone Design",
+      "Multi-Project Governance"
+    ],
+    "AI/ML & Generative AI": [
+      "ML Platform Architecture",
+      "Model Training & Serving",
+      "Generative AI Architecture",
+      "RAG Pipelines",
+      "Vector Stores & Embeddings",
+      "Model Governance",
+      "MLOps/LLMOps"
+    ],
+    "Cloud Migration & Modernization": [
+      "Cloud Migration Strategy",
+      "Application Modernization",
+      "Data Platform Migration",
+      "Reference Architecture Creation",
+      "Threat Modeling"
+    ],
+    "Security & Compliance": [
+      "Identity & Access Management (IAM)",
+      "Security Architecture & Guardrails",
+      "Zero Trust Security",
+      "Secrets Management",
+      "Key Management",
+      "HIPAA, PCI DSS, GDPR"
+    ],
+    "Networking & Connectivity": [
+      "VPC Network Architecture",
+      "VPN & Private Connectivity",
+      "Cloud DNS & Load Balancing",
+      "Firewall Rules & Security Groups"
+    ],
+    "Data Platforms & Analytics": [
+      "Google BigQuery",
+      "Amazon Redshift",
+      "Snowflake",
+      "Databricks",
+      "Apache Kafka",
+      "Cloud Pub/Sub",
+      "Real-time Streaming"
+    ],
+    "Containers & Orchestration": [
+      "Docker",
+      "Kubernetes (GKE, EKS)",
+      "Service Mesh (Istio)",
+      "Container Security",
+      "Pod Auto-scaling"
+    ],
+    "Infrastructure as Code": [
+      "Terraform",
+      "Google Cloud Deployment Manager",
+      "AWS CloudFormation",
+      "Pulumi",
+      "Version Control with Git"
+    ],
+    "Observability & Monitoring": [
+      "Cloud Monitoring & Logging",
+      "Distributed Tracing",
+      "Custom Metrics & Dashboards",
+      "Alerting Policies",
+      "SLO/SLI Definition"
+    ],
+    "CI/CD & DevOps": [
+      "Cloud Build",
+      "GitHub Actions",
+      "Jenkins",
+      "ArgoCD",
+      "Pipeline Automation",
+      "Environment Promotion"
+    ],
+    "Cost Optimization & FinOps": [
+      "Cost Allocation Tags",
+      "Budget Management",
+      "Rightsizing Recommendations",
+      "Commitment Discount Planning",
+      "Anomaly Detection"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Java",
+      "TypeScript",
+      "Bash/Shell Scripting",
+      "YAML/JSON Configuration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Spearheaded the architecture of a GCP landing zone with multi-project governance, establishing separate projects for dev, staging, and prod environments to ensure strict HIPAA-compliant data segregation and access controls for patient healthcare information.",
+        "Leveraged Vertex AI and LangGraph to construct a proof-of-concept multi-agent system for automating prior authorization, where specialized agents handled clinical coding, policy validation, and denial prediction through orchestrated workflows and agent-to-agent communication protocols.",
+        "Implemented a RAG architecture using Pinecone vector stores and text embeddings from clinical documentation, enabling healthcare providers to perform semantic searches across medical histories and improving diagnostic accuracy by retrieving similar patient cases and treatment outcomes.",
+        "Designed a model context protocol for sharing patient context between AI agents while maintaining privacy, implementing de-identification pipelines that stripped PHI before processing and re-identified results only for authorized clinical staff through secure IAM roles.",
+        "Architected a cloud-native ML platform on Vertex AI featuring automated pipelines for model training, hyperparameter tuning, and A/B testing of different algorithm versions to predict hospital supply chain demands and optimize inventory levels across distribution centers.",
+        "Orchestrated the migration of on-premise SQL Server databases to Cloud SQL with minimal downtime, implementing CDC replication and validation scripts that ensured data integrity for critical patient billing and inventory management systems during cutover.",
+        "Established MLOps practices using Kubeflow Pipelines and Cloud Build, creating CI/CD workflows that automated testing, container building, and deployment of machine learning models to production endpoints with canary releases and automated rollback capabilities.",
+        "Developed security guardrails and compliance checks using Terraform validators and Security Health Analytics, ensuring all deployed resources met HIPAA requirements for encryption, logging, and access auditing across the healthcare cloud environment.",
+        "Built observability dashboards in Cloud Monitoring that tracked model performance drift, data skew, and prediction latency for GenAI applications, setting up alerts that notified data scientists when retraining was needed to maintain accuracy standards.",
+        "Conducted stakeholder workshops with clinical operations teams to gather requirements for an AI-powered surgical instrument tracking system, translating needs into technical specifications for computer vision models and real-time inventory APIs.",
+        "Implemented cost optimization measures through sustained use discounts and committed use contracts for GCP services, establishing FinOps practices that reduced monthly cloud spend by 25% while maintaining performance SLAs for critical applications.",
+        "Troubleshot performance issues in the Crew AI orchestration layer by analyzing execution traces and optimizing agent communication patterns, reducing the average processing time for complex prior authorization requests from minutes to seconds.",
+        "Created reference architectures and deployment templates for generative AI applications, documenting best practices for prompt engineering, context window management, and output validation to ensure reliable performance in clinical decision support scenarios.",
+        "Mentored junior engineers on cloud-native design patterns and GCP services, conducting code reviews for Terraform modules and Python data pipelines to ensure adherence to security standards and operational excellence guidelines.",
+        "Designed a disaster recovery solution with automated failover between GCP regions for critical healthcare applications, testing recovery procedures quarterly to ensure RPO and RTO objectives were met for business continuity compliance.",
+        "Collaborated with the security team to implement zero-trust networking principles for AI workloads, configuring VPC Service Controls and Private Google Access to prevent data exfiltration and ensure all model training occurred within protected environments."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "Crew AI",
+        "Model Context Protocol",
+        "RAG",
+        "Pinecone",
+        "TensorFlow",
+        "PyTorch",
+        "Kubeflow",
+        "Cloud SQL",
+        "Terraform",
+        "Cloud Build",
+        "Cloud Monitoring",
+        "BigQuery",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Architected a GCP-based data platform migration from on-premise Hadoop clusters to BigQuery and Dataproc, designing incremental data loads and validation frameworks that ensured zero data loss for critical insurance claim processing pipelines.",
+        "Implemented a generative AI proof-of-concept using Vertex AI's foundational models to automate explanation of benefits (EOB) document generation, fine-tuning models on historical insurance documents to improve accuracy and reduce manual processing time.",
+        "Designed a multi-agent system with Crew AI to handle complex insurance claim adjudication workflows, where specialized agents validated policy coverage, calculated benefits, and flagged potential fraud patterns through coordinated execution chains.",
+        "Built a RAG pipeline for insurance policy documents using text embeddings stored in Cloud Memorystore Redis, enabling customer service representatives to quickly find relevant policy clauses and coverage details through natural language queries.",
+        "Established model governance practices for machine learning applications predicting claim denials, implementing bias detection algorithms and fairness metrics to ensure equitable treatment across demographic groups and comply with insurance regulations.",
+        "Created a cloud-native architecture for real-time claim processing using Pub/Sub and Dataflow, enabling streaming analytics that detected anomalous billing patterns and triggered immediate fraud investigation workflows for suspicious activities.",
+        "Implemented identity and access management policies using Cloud IAM, defining granular roles and permissions that followed the principle of least privilege for different user groups including claims adjusters, auditors, and data analysts.",
+        "Optimized BigQuery costs through partitioning and clustering strategies for large claim history tables, implementing query optimization recommendations that reduced monthly analysis costs by 40% while improving query performance.",
+        "Designed a VPC network architecture with private Google access for all analytics workloads, ensuring that data movement between Cloud Storage, BigQuery, and Vertex AI remained within the secure insurance network boundary.",
+        "Developed Terraform modules for provisioning standard insurance data marts, creating reusable templates that accelerated project onboarding and ensured consistent security configurations across multiple development teams.",
+        "Conducted troubleshooting sessions for performance issues in streaming pipelines, analyzing Dataflow job metrics and adjusting windowing strategies to handle peak claim submission volumes during open enrollment periods.",
+        "Established observability practices with Cloud Logging and Monitoring, creating custom dashboards that tracked claim processing latency, error rates, and system availability to meet SLA requirements for member services.",
+        "Collaborated with compliance officers to implement data retention and deletion policies in Cloud Storage and BigQuery, automating lifecycle management to comply with state insurance regulations and reduce storage costs.",
+        "Led the modernization of legacy COBOL batch jobs to cloud-native Dataflow pipelines, working through iterative testing and validation to ensure the new system produced identical results to the decades-old mainframe processing logic."
+      ],
+      "environment": [
+        "GCP",
+        "BigQuery",
+        "Vertex AI",
+        "Crew AI",
+        "Pub/Sub",
+        "Dataflow",
+        "Cloud IAM",
+        "Terraform",
+        "Cloud Storage",
+        "Dataproc",
+        "Redis",
+        "Python",
+        "Java",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Architected the migration of state government data warehouses from on-premise Teradata to AWS Redshift, designing the extract, transform, and load strategies that ensured data consistency across multiple agency sources while maintaining public records compliance.",
+        "Implemented a cloud-native architecture using AWS Glue and Lambda for processing citizen service requests, creating serverless workflows that automatically categorized, routed, and tracked requests through various government departments for improved response times.",
+        "Designed a VPC network topology with VPN connectivity to existing government data centers, establishing secure private links that allowed hybrid cloud operations while meeting stringent security requirements for sensitive citizen information protection.",
+        "Developed security guardrails using AWS Config and Security Hub, establishing compliance rules that automatically flagged resources violating government security policies and initiated remediation workflows for infrastructure deviations.",
+        "Built real-time data pipelines with Kinesis Data Streams and Firehose to process IoT sensor data from transportation systems, enabling the traffic management center to monitor highway conditions and adjust signal timing based on current congestion patterns.",
+        "Created cost optimization strategies using AWS Budgets and Cost Explorer, identifying underutilized resources and implementing auto-scaling policies that reduced monthly cloud spending by 35% while maintaining service levels for critical applications.",
+        "Implemented identity and access management with AWS IAM Roles Anywhere, enabling on-premise applications to securely access cloud resources without long-term credentials and simplifying the authentication model for hybrid workforce scenarios.",
+        "Designed a disaster recovery solution for vital records systems using cross-region replication in S3 and RDS, establishing recovery procedures that met state-mandated RTO and RPO requirements for essential citizen services continuity.",
+        "Established observability practices with CloudWatch Logs and X-Ray, creating operational dashboards that provided visibility into application performance and helped identify bottlenecks in citizen portal response times during peak usage periods.",
+        "Orchestrated the modernization of legacy .NET applications to containerized workloads on ECS Fargate, implementing gradual cutover strategies that minimized disruption to online licensing and permitting services for state residents.",
+        "Collaborated with security teams to implement encryption standards for data at rest and in transit, utilizing AWS KMS for key management and ensuring all sensitive citizen data met state cybersecurity framework requirements.",
+        "Developed infrastructure as code templates using CloudFormation, creating reusable modules for common government application patterns that accelerated project delivery and ensured consistent security configurations across departments."
+      ],
+      "environment": [
+        "AWS",
+        "Redshift",
+        "Glue",
+        "Lambda",
+        "VPC",
+        "Kinesis",
+        "S3",
+        "RDS",
+        "IAM",
+        "CloudWatch",
+        "ECS",
+        "KMS",
+        "CloudFormation",
+        "Government Regulations"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Architected a scalable data lake on AWS S3 for processing credit card transaction records, implementing partitioning strategies and lifecycle policies that optimized storage costs while maintaining quick access for fraud detection algorithms.",
+        "Designed and implemented real-time streaming pipelines using Kinesis Data Streams to process transaction events, enabling near-instant fraud scoring and alert generation that reduced fraudulent charge losses by early detection capabilities.",
+        "Built machine learning feature stores for fraud prediction models, creating reusable feature transformations in AWS SageMaker that ensured consistency between training and serving environments for improved model accuracy in production.",
+        "Implemented security controls and encryption for financial data using AWS KMS, establishing key rotation policies and access logging that met PCI DSS compliance requirements for protecting sensitive cardholder information throughout processing pipelines.",
+        "Developed infrastructure as code using CloudFormation to provision analytics environments, creating parameterized templates that enabled consistent deployment of EMR clusters, Redshift warehouses, and associated networking components.",
+        "Optimized Redshift query performance through distribution style selection and sort key optimization, significantly reducing query times for daily regulatory reporting and monthly financial statement generation processes.",
+        "Established data quality monitoring frameworks using Lambda functions and CloudWatch metrics, implementing automated checks that validated transaction completeness and accuracy before downstream financial reporting consumption.",
+        "Designed a VPC architecture with security groups and NACLs that segmented analytics environments from production transaction systems, ensuring that data scientists could access historical data without compromising live processing security.",
+        "Implemented cost optimization measures for EMR clusters using spot instances and auto-scaling policies, reducing Spark job costs by 50% while maintaining SLA requirements for overnight batch processing of transaction data.",
+        "Collaborated with the compliance team to implement data retention and archival policies, automating the movement of older transaction records to Glacier storage tiers while maintaining accessibility for audit and regulatory examination purposes."
+      ],
+      "environment": [
+        "AWS",
+        "S3",
+        "Kinesis",
+        "SageMaker",
+        "EMR",
+        "Redshift",
+        "KMS",
+        "CloudFormation",
+        "Lambda",
+        "CloudWatch",
+        "PCI DSS",
+        "Python",
+        "Spark",
+        "Scala"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Developed Python scripts to extract and transform pathology report data from various hospital information systems, creating standardized data models that enabled consistent analysis across different healthcare provider formats and terminologies.",
+        "Designed SQL queries and stored procedures in PostgreSQL to analyze medical imaging metadata, identifying patterns in diagnostic turnaround times and helping optimize laboratory workflows for faster patient diagnosis and treatment initiation.",
+        "Built interactive dashboards in Power BI to visualize diagnostic test volumes and positivity rates across different regions, providing healthcare administrators with insights to allocate testing resources and anticipate disease outbreak patterns.",
+        "Created data validation rules and quality checks for incoming patient lab results, implementing automated alerts for anomalous values that required manual review before integration into clinical research databases for medical studies.",
+        "Collaborated with medical researchers to structure oncology data for statistical analysis, preparing datasets for survival analysis and treatment effectiveness studies while ensuring patient privacy through proper de-identification techniques.",
+        "Documented data lineage and transformation logic for healthcare analytics pipelines, creating reference materials that helped new team members understand the complex journey from raw lab results to aggregated research insights.",
+        "Participated in code reviews for ETL processes handling sensitive patient data, suggesting improvements to error handling and logging that enhanced system reliability and auditability for regulatory compliance purposes.",
+        "Assisted in the migration of historical research data from legacy Oracle databases to a modern PostgreSQL environment, validating data completeness and accuracy through sample comparisons and statistical reconciliation methods."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Oracle",
+        "MySQL",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA",
+        "ETL",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

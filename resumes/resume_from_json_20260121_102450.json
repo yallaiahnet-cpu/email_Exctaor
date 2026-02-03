@@ -1,0 +1,320 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI/ML Inference Operations Engineer - LLM & GPU Platform Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in production AI/LLM inference operations, MLOps, and platform engineering with deep specialization in GPU-accelerated inference systems, Kubernetes orchestration, and healthcare/insurance domain compliance.",
+    "Deployed and managed Triton Inference Server and TensorRT-LLM engines on Kubernetes for HIPAA-compliant healthcare chatbots, implementing dynamic batching to improve GPU utilization by 40% while maintaining strict patient data privacy and audit trails.",
+    "Led incident management and troubleshooting for LLM inference services on multi-node GPU clusters, diagnosing latency regressions and OOM errors through telemetry dashboards, reducing Sev-1 incidents by 60% through improved alerting and runbooks.",
+    "Configured and tuned TensorRT-LLM model deployments with mixed FP16/INT8 quantization on OpenShift, achieving a 3x throughput increase for clinical documentation models while reducing memory footprint for cost-effective healthcare AI scaling.",
+    "Implemented comprehensive monitoring and observability stacks for inference health, tracking GPU memory, utilization, and SLO compliance, which enabled proactive capacity planning for seasonal insurance claim processing workloads.",
+    "Architected blue-green and canary deployment pipelines for model versioning in production, utilizing Kubernetes rolling updates and secure runtime controls to ensure zero-downtime rollouts for critical financial transaction monitoring systems.",
+    "Optimized Triton model configurations and instance groups for latency-sensitive government services, applying pipeline parallelism and sharding strategies to meet strict response time SLAs for public-facing citizen assistant applications.",
+    "Managed GPU-aware scheduling and capacity on AWS EC2 instances with Kubernetes device plugins, designing autoscaling strategies that handled volatile inference demand during insurance open enrollment periods efficiently.",
+    "Built and maintained inference deployment pipelines with automated TensorRT-LLM engine builds, integrating security scanning and HIPAA compliance checks before promoting to production environments in healthcare data pipelines.",
+    "Conducted root-cause analysis across model, runtime, networking, and Kubernetes layers for production inference issues, collaborating with data scientists to fix model performance regressions and stabilize service availability.",
+    "Applied model optimization techniques including quantization, pruning, and KV cache tuning to large language models, significantly improving tokens-per-second for real-time insurance policy analysis and recommendation systems.",
+    "Estructured event and change management processes for LLMOps within ITIL frameworks, ensuring all model rollouts and infrastructure modifications followed auditable governance procedures for financial regulatory compliance.",
+    "Designed and operated load balancing and scaling strategies for microservices-based inference APIs, using service meshes to distribute traffic across GPU nodes and maintain high availability during government web traffic surges.",
+    "Supported rollback procedures and A/B testing frameworks for LLM model evaluation in production, enabling safe experimentation with new model architectures for healthcare diagnostic support tools without impacting existing services.",
+    "Engineered secure runtime controls and API gateways for inference endpoints, implementing authentication, rate limiting, and audit logging to meet PCI DSS requirements for financial services fraud detection models.",
+    "Collaborated on multi-agent AI systems using Crew AI and LangGraph for complex workflow orchestration, deploying these agentic frameworks as containerized services on Kubernetes with robust health checks and monitoring.",
+    "Developed and maintained dashboards for inference service latency, throughput, and error rates, setting intelligent alert thresholds that reduced false positives and allowed the on-call team to focus on genuine production issues.",
+    "Facilitated knowledge sharing sessions and created troubleshooting playbooks for LLM inference operations, mentoring junior engineers on GPU performance profiling, Triton configuration, and production incident response protocols."
+  ],
+  "technical_skills": {
+    "LLM Inference & Optimization": [
+      "Triton Inference Server",
+      "TensorRT-LLM",
+      "GPU Accelerated Inference",
+      "Model Quantization",
+      "Dynamic Batching",
+      "Pipeline Parallelism",
+      "Sharding",
+      "KV Cache Tuning",
+      "Mixed Precision (FP16/INT8)"
+    ],
+    "Container Orchestration & Platform": [
+      "Kubernetes",
+      "OpenShift",
+      "Docker",
+      "GPU-Aware Scheduling",
+      "Multi-Node Clusters",
+      "Containerized Microservices",
+      "Service Mesh",
+      "API Design"
+    ],
+    "MLOps/LLMOps Operations": [
+      "Production Inference Support",
+      "Incident Management",
+      "Change Management",
+      "Event Management",
+      "Model Versioning",
+      "Blue-Green Deployments",
+      "Canary Releases",
+      "Rollback Automation"
+    ],
+    "Monitoring & Observability": [
+      "Inference Service Monitoring",
+      "Telemetry & Metrics",
+      "Distributed Tracing",
+      "Performance Dashboards",
+      "Alerting Systems",
+      "GPU Health Tracking",
+      "SLO/SLA Compliance"
+    ],
+    "Cloud & Infrastructure": [
+      "AWS EC2",
+      "AWS EKS",
+      "AWS S3",
+      "AWS SageMaker",
+      "AWS CloudWatch",
+      "Container Registry",
+      "Load Balancers",
+      "Auto Scaling Groups"
+    ],
+    "AI/ML Frameworks & Tools": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "LangChain",
+      "LlamaIndex",
+      "Crew AI",
+      "LangGraph",
+      "Model Context Protocol",
+      "Multi-Agent Systems"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "Bash/Shell Scripting",
+      "YAML",
+      "JSON",
+      "REST API Development",
+      "gRPC",
+      "Go"
+    ],
+    "CI/CD & Automation": [
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform",
+      "Helm Charts",
+      "ArgoCD",
+      "Configuration Management",
+      "Infrastructure as Code"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "Redis",
+      "AWS RDS",
+      "Elasticsearch",
+      "Vector Databases",
+      "Object Storage",
+      "Persistent Volumes"
+    ],
+    "Networking & Security": [
+      "API Gateways",
+      "Authentication/Authorization",
+      "Network Policies",
+      "SSL/TLS",
+      "HIPAA Compliance",
+      "Data Encryption",
+      "Security Groups",
+      "VPC Configuration"
+    ],
+    "Performance Tools": [
+      "NVIDIA Nsight Systems",
+      "Prometheus",
+      "Grafana",
+      "Jaeger",
+      "Py-Spy",
+      "CUDA Profiling",
+      "GPU Memory Diagnostics"
+    ],
+    "Development & Collaboration": [
+      "Jupyter Notebooks",
+      "VS Code",
+      "Git",
+      "Confluence",
+      "Jira",
+      "Slack",
+      "Postman",
+      "Swagger/OpenAPI"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Orchestrated the deployment and management of HIPAA-compliant LLM inference services on AWS EKS using Triton Inference Server, configuring dynamic batching and model ensembles to handle real-time medical supply chain inquiries.",
+        "Diagnosed a Sev-1 production incident involving GPU OOM errors during peak inference loads by analyzing telemetry dashboards and implementing TensorRT-LLM optimizations with INT8 quantization, restoring service within 30 minutes.",
+        "Engineered a GPU-aware autoscaling strategy on Kubernetes using custom metrics from Prometheus, allowing inference pods to scale based on request queue depth and GPU memory pressure for predictive healthcare analytics.",
+        "Constructed a comprehensive model rollout pipeline with blue-green deployment patterns on OpenShift, incorporating automated TensorRT-LLM engine builds and security scans to ensure PHI data protection during model updates.",
+        "Instrumented detailed monitoring for inference latency and throughput using Grafana dashboards, setting alert thresholds that identified a gradual latency regression tied to an upstream data pipeline change.",
+        "Implemented sharding and tensor parallelism for large clinical documentation models to distribute load across multiple GPU nodes, achieving a 50% improvement in tokens-per-second for real-time medical transcription services.",
+        "Championed the adoption of structured incident management processes following ITIL frameworks, creating runbooks for common Triton configuration issues and model performance degradation in production healthcare AI systems.",
+        "Optimized Kubernetes resource requests and limits for inference pods through systematic profiling of GPU memory usage patterns, eliminating sporadic OOM kills during batch processing of medical imaging reports.",
+        "Architected a multi-agent AI system using Crew AI and LangGraph for complex medical billing inquiry resolution, containerizing the agents as microservices with health checks and inter-agent communication via secure APIs.",
+        "Configured Triton Inference Server model repositories with versioning policies and load balancing across GPU instance groups, enabling A/B testing of new model architectures for hospital readmission prediction algorithms.",
+        "Spearheaded the tuning of KV cache parameters and attention mechanisms in deployed LLMs, collaborating with research teams to balance memory footprint against inference latency for patient discharge summary generation.",
+        "Established secure runtime controls and API gateways for all inference endpoints, implementing JWT authentication and audit logging to maintain strict HIPAA compliance for access to sensitive healthcare data.",
+        "Troubleshot a persistent timeout issue in the inference layer by tracing requests through Jaeger, identifying a network latency spike between Kubernetes pods and implementing service mesh retry policies with exponential backoff.",
+        "Facilitated regular capacity planning meetings using GPU utilization dashboards, forecasting resource needs for upcoming model deployments and justifying infrastructure budget allocations for AI initiatives.",
+        "Mentored junior platform engineers on Triton configuration best practices and GPU performance profiling techniques, fostering a culture of operational excellence and proactive monitoring within the ML engineering team.",
+        "Integrated model telemetry data with centralized logging systems, creating correlated views of model performance, infrastructure health, and business metrics to support executive reporting on AI ROI."
+      ],
+      "environment": [
+        "Kubernetes",
+        "OpenShift",
+        "Triton Inference Server",
+        "TensorRT-LLM",
+        "AWS EKS",
+        "GPU Accelerated Inference",
+        "Prometheus",
+        "Grafana",
+        "Jaeger",
+        "Helm",
+        "Docker",
+        "Python",
+        "Crew AI",
+        "LangGraph",
+        "Microservices",
+        "HIPAA Compliant Systems"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Deployed and managed containerized LLM inference services on Kubernetes for insurance claim processing automation, utilizing Triton Inference Server with optimized batching configurations to handle variable claim volumes.",
+        "Investigated recurring latency spikes in member chatbot responses by profiling GPU utilization and implementing mixed precision inference with FP16, reducing p95 latency by 35% while maintaining answer accuracy.",
+        "Designed and implemented a canary release framework for model updates in production, routing a percentage of member inquiries to new model versions while monitoring key metrics before full rollout.",
+        "Configured comprehensive alerting for inference health metrics including error rates, request durations, and GPU memory usage, enabling the on-call team to detect and respond to issues before member impact.",
+        "Optimized TensorRT-LLM engine builds for insurance policy document analysis models, applying quantization techniques that reduced model size by 60% without significant accuracy degradation on test datasets.",
+        "Established model versioning and rollback procedures using Kubernetes ConfigMaps and Secrets, ensuring the ability to quickly revert problematic model deployments during critical enrollment periods.",
+        "Collaborated on a proof-of-concept multi-agent system for complex insurance inquiry resolution, containerizing LangChain agents and deploying them as scalable microservices with load-balanced APIs.",
+        "Troubleshot GPU scheduling issues on a multi-node Kubernetes cluster by refining node affinity rules and resource quotas, achieving better distribution of inference workloads across available GPU capacity.",
+        "Implemented distributed tracing for inference requests across microservices, identifying bottlenecks in pre-processing pipelines that were contributing to overall latency in claim status inquiries.",
+        "Developed automation scripts for building and pushing TensorRT-LLM engines to container registries, integrating these into CI/CD pipelines with quality gates for insurance compliance validation.",
+        "Monitored and tuned the performance of deployed models using NVIDIA Nsight Systems, identifying inefficient kernel operations and working with data scientists to optimize model architectures.",
+        "Participated in incident post-mortems for production inference issues, documenting root causes and implementing preventive measures such as additional health checks and resource monitoring.",
+        "Configured secure API endpoints for internal model consumption, implementing rate limiting and authentication to control access to sensitive insurance data processed by inference services.",
+        "Maintained detailed documentation for inference platform operations, including troubleshooting guides for common issues like model loading failures, GPU memory leaks, and network timeouts in containerized environments."
+      ],
+      "environment": [
+        "Kubernetes",
+        "Triton Inference Server",
+        "TensorRT-LLM",
+        "AWS",
+        "GPU Inference",
+        "Containerized Services",
+        "Microservices",
+        "API Design",
+        "Monitoring",
+        "Alerting",
+        "Insurance Regulatory Systems"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Supported the deployment of AI inference services on Azure Kubernetes Service for government citizen assistance applications, containerizing models and configuring basic Triton serving parameters.",
+        "Assisted in troubleshooting production inference issues by analyzing logs and metrics, identifying a memory leak in a pre-processing component that was causing periodic pod restarts and service interruptions.",
+        "Implemented monitoring dashboards for inference service availability and response times, tracking SLO compliance for public-facing government applications that required consistent performance standards.",
+        "Configured basic autoscaling policies for inference deployments based on CPU and memory utilization, helping handle traffic fluctuations during tax filing season for government assistance eligibility systems.",
+        "Participated in change management processes for model updates in production, following government ITIL procedures for testing, approval, and deployment of new model versions to citizen services.",
+        "Optimized Docker images for inference services by reducing layer sizes and removing unnecessary dependencies, decreasing image pull times and improving pod startup performance on Azure Kubernetes.",
+        "Set up log aggregation for inference containers using centralized logging solutions, enabling faster debugging of issues related to model inference errors and API gateway timeouts.",
+        "Collaborated on implementing basic A/B testing framework for model comparisons, routing percentage-based traffic to different model versions while collecting performance metrics for government analytics.",
+        "Configured network policies and security groups for inference services to comply with government data protection requirements, isolating services in dedicated namespaces with restricted access.",
+        "Monitored GPU utilization and health for inference nodes, reporting on capacity trends and participating in planning discussions for infrastructure expansion to support new AI initiatives.",
+        "Assisted in developing runbooks for common operational tasks including model deployment, configuration updates, and basic troubleshooting procedures for the government AI platform team.",
+        "Supported the implementation of basic CI/CD pipelines for inference services, automating container builds and deployments to development and staging environments before production promotion."
+      ],
+      "environment": [
+        "Azure Kubernetes Service",
+        "Docker",
+        "Containerization",
+        "Basic Triton Configuration",
+        "Monitoring",
+        "Government Compliance",
+        "ITIL Processes",
+        "Azure Cloud Services"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Contributed to foundational data pipelines that fed machine learning models for financial fraud detection, implementing ETL processes with quality checks to ensure reliable training data for inference systems.",
+        "Assisted in containerizing early machine learning models for deployment, learning Docker basics and helping package models with their dependencies for more consistent execution environments.",
+        "Supported monitoring implementation for batch inference jobs, tracking job completion status and error rates to ensure timely fraud detection processing for credit card transaction monitoring.",
+        "Participated in incident response for data pipeline failures that impacted model inference, helping restore services by fixing broken data feeds and reprocessing affected batches.",
+        "Learned basic Kubernetes concepts by assisting with deployment configurations for simple model services, understanding pod specifications and service definitions in YAML configuration files.",
+        "Implemented logging improvements for data processing components, adding structured logs that helped debug issues when inference results showed unexpected patterns or errors.",
+        "Assisted in capacity planning discussions by providing data volume forecasts that informed resource allocation decisions for model training and inference infrastructure.",
+        "Supported compliance efforts by helping implement data masking and encryption for sensitive financial information used in model inference, following PCI DSS requirements.",
+        "Participated in code reviews for data processing components that fed inference systems, learning about performance optimization and error handling in production data pipelines.",
+        "Documented operational procedures for data pipeline maintenance and basic troubleshooting, contributing to team knowledge base for supporting inference system dependencies."
+      ],
+      "environment": [
+        "Azure Data Services",
+        "Basic Containerization",
+        "Data Pipelines",
+        "Financial Compliance",
+        "PCI DSS",
+        "Batch Processing",
+        "Monitoring Foundations"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare data patterns that informed early machine learning model development for medical diagnostics, creating visualizations that helped data scientists understand feature distributions and relationships.",
+        "Developed SQL queries and Python scripts for data extraction and transformation, preparing datasets that were used for training initial models in healthcare AI applications.",
+        "Created basic dashboards showing model performance metrics and data quality indicators, providing visibility into the health of early AI systems for medical image analysis.",
+        "Documented data lineage and transformation logic for analytical datasets, establishing practices that later supported reproducibility and auditability requirements for healthcare AI systems.",
+        "Participated in requirements gathering sessions with healthcare domain experts, translating medical knowledge into data specifications that guided feature engineering for diagnostic models.",
+        "Assisted in testing early model inferences by comparing results against expert annotations, helping identify patterns of errors and areas for model improvement in medical diagnostics.",
+        "Supported data quality initiatives by implementing validation checks and anomaly detection for healthcare datasets, ensuring reliable inputs for model training and inference processes.",
+        "Learned fundamental concepts of machine learning operations by observing model deployment processes and understanding the importance of consistent data pipelines for production AI systems."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Healthcare Data",
+        "Basic Analytics",
+        "Data Visualization",
+        "HIPAA Awareness",
+        "Medical Diagnostics Domain"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,333 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI Application Developer & Integration Specialist",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of enterprise experience in Insurance, Healthcare, Banking, and Consulting, I now build intelligent multi-agent systems using LLMs, Azure AI services, and MLOps practices to deliver real-world impact within Microsoft's AI ecosystem.",
+    "Designed and developed AI-driven applications and system integrations using Claude Anthropic APIs across Insurance, Healthcare, Banking, and Consulting domains, translating complex domain regulations into functional AI workflows.",
+    "Built scalable Node.js backend services with TypeScript for AI application development, implementing RESTful APIs that handled Claude AI interactions, prompt engineering, and secure data flow between systems.",
+    "Integrated Model Context Protocol MCP with multi-agent systems to create intelligent workflows, allowing different AI agents to share context and collaborate on complex insurance underwriting and claims processing tasks.",
+    "Constructed Retrieval-Augmented Generation RAG pipelines using Pinecone vector databases and hybrid search techniques, improving the accuracy of AI responses for healthcare documentation and regulatory compliance checks.",
+    "Deployed LangGraph for orchestrating multi-agent workflows in insurance applications, coordinating specialized AI agents for risk assessment, fraud detection, and customer service interactions.",
+    "Established secure API design patterns with comprehensive authentication and authorization layers, ensuring HIPAA compliance for healthcare data and PCI-DSS standards for banking transaction processing.",
+    "Implemented hybrid RAG pipelines combining dense retrieval with BM25 search, then applying re-ranking models to improve relevance for insurance policy document retrieval and customer query responses.",
+    "Applied prompt engineering techniques including prompt chaining and optimization to Claude Anthropic APIs, creating structured conversations that maintained context across lengthy insurance claim discussions.",
+    "Developed knowledge graphs using Neo4j for entity linking and graph traversal in healthcare systems, connecting patient records, treatment protocols, and regulatory requirements for better AI understanding.",
+    "Configured workflow orchestration with Temporal for AI-driven applications, managing long-running processes like insurance policy generation, medical record analysis, and financial risk assessments.",
+    "Designed system integrations connecting Claude AI with existing enterprise systems in banking and insurance domains, using middleware patterns to ensure data consistency and real-time updates.",
+    "Implemented monitoring solutions with OpenTelemetry for AI application performance tracking, setting up alerts for LLM API latency, token usage anomalies, and integration endpoint failures.",
+    "Created cost management strategies for LLM usage across multiple projects, implementing caching layers, request batching, and fallback mechanisms to optimize Claude API consumption and reduce operational expenses.",
+    "Developed secure API designs with PII redaction and secrets management, protecting sensitive healthcare information and financial data during AI processing and external API communications.",
+    "Established CI/CD pipelines for AI application deployments, automating testing of Claude API integrations, prompt versioning, and model updates across development, staging, and production environments.",
+    "Built hybrid search systems combining vector embeddings with traditional ElasticSearch indexes, enabling precise document retrieval for banking compliance documentation and insurance policy libraries.",
+    "Implemented agent memory systems using Redis for conversation context preservation, allowing Claude AI to maintain coherent dialogues across multiple sessions with insurance customers and healthcare patients.",
+    "Configured Docker containers and Kubernetes deployments for AI-driven applications, ensuring scalable and resilient hosting of Claude API integrations, RAG services, and multi-agent orchestration systems."
+  ],
+  "technical_skills": {
+    "AI & LLM Development": [
+      "Claude Anthropic APIs",
+      "Prompt Engineering",
+      "Multi-Agent Systems",
+      "Model Context Protocol MCP",
+      "LangGraph",
+      "Retrieval-Augmented Generation RAG",
+      "Hybrid RAG Pipelines",
+      "Graph RAG",
+      "OpenAI API",
+      "Google Gemini API"
+    ],
+    "Programming Languages & Frameworks": [
+      "Python",
+      "Node.js",
+      "TypeScript",
+      "FastAPI",
+      "React",
+      "Next.js"
+    ],
+    "Vector & Graph Databases": [
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "ChromaDB",
+      "Neo4j",
+      "Neo4j Cypher",
+      "Knowledge Graphs",
+      "ElasticSearch",
+      "OpenSearch"
+    ],
+    "Search & Retrieval Systems": [
+      "Semantic Search",
+      "Hybrid Search BM25 + Vector",
+      "Re-Ranking Models",
+      "Dense Retrieval",
+      "Embedding Models",
+      "Document Chunking"
+    ],
+    "AI Orchestration & Workflow": [
+      "Workflow Orchestration",
+      "Temporal",
+      "Apache Airflow",
+      "Prefect",
+      "Tool Calling",
+      "Function Calling",
+      "Agent Memory",
+      "Long-Term Memory Systems"
+    ],
+    "Backend Development": [
+      "RESTful APIs",
+      "Middleware",
+      "Authentication",
+      "Authorization",
+      "Secure API Design",
+      "System Integrations",
+      "API Development",
+      "Webhooks"
+    ],
+    "Data Engineering": [
+      "Data Ingestion Pipelines",
+      "ETL Processes",
+      "Streaming APIs",
+      "WebSockets",
+      "Server-Sent Events SSE"
+    ],
+    "Cloud & Infrastructure": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "vLLM",
+      "Ollama",
+      "TGI"
+    ],
+    "Monitoring & Optimization": [
+      "OpenTelemetry",
+      "LangSmith",
+      "LLM Evaluation",
+      "Prompt Evaluation",
+      "Caching Strategies",
+      "Cost Optimization",
+      "Performance Optimization"
+    ],
+    "Databases & Storage": [
+      "Redis",
+      "PostgreSQL",
+      "Vector Databases",
+      "Graph Databases"
+    ],
+    "Security & Compliance": [
+      "Security Best Practices",
+      "PII Redaction",
+      "Secrets Management",
+      "API Rate Limiting",
+      "Error Handling",
+      "Resiliency Patterns"
+    ],
+    "Development Practices": [
+      "CI/CD Pipelines",
+      "MLOps",
+      "Model Versioning",
+      "Automated Testing",
+      "Version Control Git",
+      "Scalable Architecture"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Plan multi-agent systems using LangGraph for insurance claim processing, designing agent collaboration patterns where specialist AI agents handle damage assessment, fraud detection, policy validation, and customer communication in coordinated workflows.",
+        "Implement Model Context Protocol MCP servers and clients to share context between insurance domain agents, enabling Claude AI systems to maintain consistent understanding of claim details across different processing stages and regulatory checks.",
+        "Deploy Databricks and PySpark for processing large-scale insurance data, building feature engineering pipelines that transform raw claim information into structured inputs for Claude AI models and multi-agent decision systems.",
+        "Monitor Claude API performance and cost metrics using OpenTelemetry, creating dashboards that track token usage patterns, response latency trends, and error rates across different insurance application modules and customer interaction points.",
+        "Optimize RAG pipelines by testing different embedding models and chunking strategies for insurance policy documents, measuring retrieval accuracy improvements and reducing Claude API calls through better context preparation.",
+        "Troubleshoot integration failures between Claude AI systems and legacy insurance policy administration platforms, debugging authentication issues, data format mismatches, and API rate limiting problems during peak claim submission periods.",
+        "Construct proof of concepts for agent-to-agent communication frameworks inspired by Google's research, implementing message passing protocols that allow Claude-based agents to negotiate coverage decisions and escalate complex insurance cases.",
+        "Develop prompt chaining sequences for insurance customer service chatbots, creating conversation flows where Claude AI gathers necessary information across multiple turns while maintaining compliance with state insurance regulations.",
+        "Establish Graph RAG systems using Neo4j knowledge graphs, connecting insurance entities like policies, claims, customers, and regulations to improve Claude's understanding of complex insurance relationships and coverage dependencies.",
+        "Configure hybrid search combining vector embeddings with BM25 on insurance document repositories, implementing re-ranking models that prioritize the most relevant policy clauses for Claude AI during claim evaluation and coverage questions.",
+        "Build workflow orchestration with Temporal for end-to-end insurance claim processing, coordinating Claude AI analysis, human adjuster reviews, payment calculations, and regulatory reporting in compliant sequences.",
+        "Design secure API gateways for Claude Anthropic API integrations, implementing authentication middleware, request validation, and PII redaction specifically for insurance customer data protection and regulatory compliance.",
+        "Create monitoring alerts for AI system performance degradation, setting up notifications for increased Claude API errors, slower response times during peak insurance claim periods, and anomalies in multi-agent communication patterns.",
+        "Implement cost optimization strategies by analyzing Claude API usage patterns across insurance applications, introducing caching layers for common insurance queries and batching strategies for document processing workloads.",
+        "Develop evaluation frameworks for prompt effectiveness in insurance domains, creating test suites that measure Claude AI accuracy on coverage questions, claim assessment reasoning, and regulatory compliance adherence.",
+        "Establish CI/CD pipelines for insurance AI applications, automating deployment of Claude API integrations, prompt version updates, and RAG index rebuilds while maintaining strict change control for insurance regulatory environments."
+      ],
+      "environment": [
+        "Claude Anthropic APIs",
+        "Node.js",
+        "TypeScript",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol MCP",
+        "Databricks",
+        "PySpark",
+        "RAG Pipelines",
+        "Neo4j",
+        "Temporal",
+        "OpenTelemetry",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "Redis",
+        "PostgreSQL",
+        "Pinecone",
+        "CI/CD Pipelines"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Planned HIPAA-compliant AI systems for healthcare applications, designing architecture where Claude AI processed patient data through secure enclaves with encryption, access logging, and audit trails for regulatory compliance.",
+        "Implemented multi-agent systems framework for medical research applications, creating specialized AI agents that collaborated on literature review, clinical trial analysis, and regulatory document preparation using Claude Anthropic APIs.",
+        "Deployed Databricks for healthcare data processing, building feature pipelines that transformed electronic health records into structured formats for Claude AI analysis while maintaining patient privacy through de-identification techniques.",
+        "Monitored AI system performance in healthcare environments, tracking Claude API response accuracy on medical terminology, drug interaction questions, and treatment protocol recommendations against validated medical knowledge bases.",
+        "Optimized prompt engineering for healthcare applications, refining Claude AI instructions to improve accuracy on medical documentation analysis, patient communication tone appropriateness, and regulatory language compliance.",
+        "Troubleshooted integration issues between Claude AI systems and healthcare EMR platforms, solving problems with HL7/FHIR data format conversions, real-time API synchronization, and fallback mechanisms during system outages.",
+        "Constructed proof of concepts for AI-assisted clinical documentation, testing Claude's ability to summarize patient encounters, generate SOAP notes, and identify potential documentation gaps while maintaining HIPAA compliance.",
+        "Developed LangChain agents for pharmaceutical research applications, creating specialized tools that allowed Claude AI to query drug databases, research literature, and clinical trial results through structured function calling.",
+        "Established RAG pipelines for medical knowledge retrieval, building vector indexes of clinical guidelines, drug monographs, and research papers that provided context to Claude AI for accurate healthcare recommendations.",
+        "Configured hybrid search systems combining medical ontologies with vector embeddings, implementing domain-specific re-ranking that prioritized peer-reviewed sources and authoritative clinical guidelines for healthcare AI applications.",
+        "Built workflow orchestration for pharmaceutical compliance processes, coordinating Claude AI analysis of regulatory documents, quality control checks, and audit preparation tasks across global research and manufacturing sites.",
+        "Designed secure API patterns for healthcare AI integrations, implementing authentication with healthcare-specific identity providers, audit logging for PHI access, and encryption for data in transit between Claude API and medical systems.",
+        "Created monitoring solutions for healthcare AI reliability, establishing alerts for response quality degradation, hallucination detection in medical advice, and compliance violations in AI-generated healthcare communications.",
+        "Implemented cost management for Claude API usage across pharmaceutical applications, analyzing patterns in research document processing, medical literature analysis, and regulatory submission preparation to optimize token consumption."
+      ],
+      "environment": [
+        "Claude Anthropic APIs",
+        "Python",
+        "FastAPI",
+        "Multi-Agent Systems",
+        "LangChain",
+        "Databricks",
+        "RAG Pipelines",
+        "HIPAA Compliance",
+        "Healthcare Regulations",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Pinecone",
+        "ElasticSearch",
+        "Temporal",
+        "OpenTelemetry",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Planned healthcare data systems for state public health applications, designing architecture that processed Medicaid claims, public health records, and vaccination data with strict HIPAA compliance and state regulatory requirements.",
+        "Implemented Python backend services for healthcare data processing, building ETL pipelines that cleaned, validated, and prepared public health data for analytical models while maintaining patient privacy through aggregation techniques.",
+        "Deployed AWS infrastructure for healthcare applications, configuring secure VPCs, encrypted storage, and access-controlled databases for sensitive public health information processing and reporting systems.",
+        "Monitored system performance for public health dashboards, tracking data pipeline latency, API response times for healthcare provider queries, and data freshness metrics for time-sensitive public health reporting.",
+        "Optimized data processing workflows for healthcare analytics, refining Spark jobs that aggregated county-level health statistics, disease incidence rates, and healthcare utilization patterns for state planning purposes.",
+        "Troubleshooted data quality issues in public health datasets, identifying problems with missing vaccination records, inconsistent diagnosis coding, and temporal discrepancies in disease reporting across different healthcare providers.",
+        "Constructed data validation frameworks for healthcare applications, creating automated checks that verified data completeness, coding standard adherence, and statistical plausibility before Claude AI processing in later projects.",
+        "Developed secure API patterns for healthcare data access, implementing role-based authentication, query auditing, and rate limiting to control access to sensitive public health information across state agencies.",
+        "Established monitoring solutions for healthcare data pipelines, setting up alerts for processing failures, data freshness violations, and anomaly detection in public health metrics that might indicate system or data quality issues.",
+        "Configured cost management for cloud healthcare infrastructure, analyzing usage patterns across different state agencies, optimizing instance sizing, and implementing auto-scaling policies for variable public health reporting workloads.",
+        "Built CI/CD pipelines for healthcare applications, automating deployment of data processing code, schema updates, and analytical model updates while maintaining rigorous change control for systems handling sensitive health information.",
+        "Designed data governance frameworks for public health AI readiness, creating documentation, access policies, and quality standards that prepared healthcare data for future Claude AI integration while maintaining regulatory compliance."
+      ],
+      "environment": [
+        "Python",
+        "AWS",
+        "HIPAA Compliance",
+        "Healthcare Regulations",
+        "Public Health Data",
+        "ETL Pipelines",
+        "PostgreSQL",
+        "Spark",
+        "FastAPI",
+        "Docker",
+        "CI/CD",
+        "Data Governance",
+        "Security Best Practices"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Planned financial risk assessment systems, designing data pipelines that processed transaction records, customer profiles, and market data for fraud detection models while maintaining PCI-DSS compliance and banking regulations.",
+        "Implemented Python analytical models for banking applications, building machine learning systems that detected anomalous transactions, assessed credit risks, and identified potential compliance violations in financial activities.",
+        "Deployed monitoring solutions for banking data systems, tracking model performance metrics, data pipeline reliability, and API availability for critical financial services applications used across retail and commercial banking.",
+        "Optimized feature engineering for financial models, refining data transformations that extracted meaningful patterns from transaction sequences, customer behavior histories, and economic indicator correlations for risk prediction.",
+        "Troubleshooted data quality issues in banking systems, solving problems with missing transaction records, inconsistent currency conversions, and temporal alignment of market data with customer activity timelines.",
+        "Constructed A/B testing frameworks for banking applications, creating controlled experiments that measured the impact of different risk models, customer segmentation approaches, and product recommendation strategies.",
+        "Developed secure data access patterns for financial analytics, implementing encryption for sensitive customer information, audit trails for model predictions affecting customers, and access controls based on banking roles.",
+        "Established model monitoring for financial applications, creating alerts for prediction drift, feature distribution changes, and performance degradation in fraud detection and credit risk assessment systems.",
+        "Configured cost management for analytical infrastructure, analyzing cloud resource usage patterns across different banking departments, optimizing data storage strategies, and implementing auto-scaling for variable workloads.",
+        "Built deployment pipelines for banking models, automating testing, validation, and promotion of machine learning models from development to production while maintaining rigorous controls for financial system changes."
+      ],
+      "environment": [
+        "Python",
+        "Banking Regulations",
+        "PCI-DSS Compliance",
+        "Machine Learning",
+        "Financial Data",
+        "AWS",
+        "PostgreSQL",
+        "Spark",
+        "Security Best Practices",
+        "Model Monitoring",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Planned data migration projects for consulting clients, designing ETL workflows that transferred business data between legacy systems and modern platforms while maintaining data integrity and business rule preservation.",
+        "Implemented Hadoop and Sqoop for data integration, building pipelines that extracted information from client databases, transformed business logic, and loaded results into data warehouses for analytical reporting.",
+        "Deployed Informatica for enterprise data management, configuring workflows that standardized customer records, product catalogs, and transaction data across different client systems with varying formats and quality levels.",
+        "Monitored data pipeline performance for consulting projects, tracking job completion rates, data quality metrics, and processing latency to ensure timely delivery of business intelligence to client stakeholders.",
+        "Optimized ETL processes for consulting applications, refining SQL queries, Hadoop job configurations, and Informatica mappings to improve throughput and reduce processing time for large client datasets.",
+        "Troubleshooted data integration failures, solving problems with character encoding mismatches, date format conversions, and business rule discrepancies between source systems and target data models.",
+        "Constructed data validation frameworks for consulting projects, creating automated checks that verified completeness, accuracy, and consistency of migrated data before client acceptance and system cutover.",
+        "Developed documentation for data engineering solutions, creating technical specifications, operational runbooks, and knowledge transfer materials that enabled client teams to maintain and extend implemented systems."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Migration",
+        "Data Warehousing",
+        "SQL",
+        "Business Intelligence",
+        "Consulting",
+        "Project Documentation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,324 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Generative AI Architect",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in software engineering with 4+ years specializing in AI/ML and 2+ years architecting and delivering enterprise Generative AI solutions, building production-ready RAG pipelines and multi-agent systems.",
+    "Architected and implemented end-to-end GenAI solutions for Healthcare and Insurance domains, integrating Azure OpenAI, CrewAI, and LangGraph to develop HIPAA-compliant multi-agent frameworks for processing sensitive patient data and insurance claims.",
+    "Led the design of RAG architecture for a large healthcare provider, employing strategic chunking, embeddings, and Pinecone vector retrieval, which enhanced answer accuracy for clinical queries by reducing hallucination in LLM outputs.",
+    "Engineered production-grade Python APIs using FastAPI and asyncio, constructing orchestration layers and reusable libraries for prompt templating, retrieval, and evaluation to standardize GenAI development across enterprise teams.",
+    "Implemented comprehensive LLMOps pipelines featuring CI/CD for GenAI models, automated prompt versioning, A/B testing, and rollback strategies using GitHub Actions and Terraform within Azure's secure cloud environment.",
+    "Designed and enforced IAM automation strategies for GenAI workloads, developing RBAC and ABAC policies with SSO integration to automate provisioning and enforce least privilege access for AI model consumption.",
+    "Built observability architectures incorporating distributed tracing, logging, and metrics using OpenTelemetry, enabling real-time monitoring of LLM latency, token usage, and cost across multiple generative AI applications.",
+    "Spearheaded the creation of security patterns and guardrails for GenAI systems, integrating content moderation and hallucination mitigation techniques to ensure AI safety and compliance with SOC 2 and HIPAA frameworks.",
+    "Optimized total cost of ownership for GenAI deployments through model benchmarking, context window optimization, and implementing autoscaling inference with circuit breakers and caching to manage Azure OpenAI costs.",
+    "Translated business outcomes into technical roadmaps by leading client workshops with healthcare executives, identifying risks, and presenting architectural decisions through detailed HLD and LLD artifacts.",
+    "Developed agentic workflows using Model Context Protocol (MCP) and Google's Agent-to-Agent frameworks to enable specialized AI agents for medical coding, prior authorization, and patient FAQ automation.",
+    "Established data access boundaries and reference implementations for secure RAG, ensuring patient health information (PHI) remained within compliant Azure storage and compute boundaries during ingestion and retrieval.",
+    "Architected a multi-agent proof-of-concept for insurance adjudication using CrewAI, where specialized agents handled claim intake, policy validation, fraud detection, and settlement communication autonomously.",
+    "Engineered a retrieval optimization system that tuned chunking strategies and embedding models, significantly improving recall for document-heavy government and insurance regulatory compliance searches.",
+    "Implemented automated evaluation frameworks using Python to assess retrieval quality, prompt effectiveness, and LLM output consistency, enabling data-driven iterations on our RAG pipelines for financial services.",
+    "Led red teaming exercises to stress-test GenAI applications, identifying vulnerabilities in prompt injection and developing mitigation strategies that were integrated into our SDLC for future government projects.",
+    "Designed and deployed reusable SDK integrations for Azure OpenAI and AWS Bedrock, abstracting complexity for development teams and accelerating the launch of new generative AI features in healthcare portals.",
+    "Mentored engineering teams on GenAI architecture patterns, prompting techniques, and cost governance, fostering a culture of experimentation while maintaining production reliability for critical business systems."
+  ],
+  "technical_skills": {
+    "Programming & Engineering": [
+      "Python (strong)",
+      "asyncio",
+      "pandas",
+      "packaging",
+      "testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "Generative AI & LLM Platforms": [
+      "Azure OpenAI",
+      "AWS Bedrock",
+      "OpenAI API",
+      "Vertex AI",
+      "Prompt Orchestration",
+      "RAG Architecture",
+      "Agent Design",
+      "Fine-tuning LLMs"
+    ],
+    "AI/ML Frameworks & Libraries": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "LangGraph",
+      "Hugging Face Transformers",
+      "PyTorch",
+      "TensorFlow",
+      "spaCy",
+      "scikit-learn"
+    ],
+    "Cloud Platforms & Services": [
+      "Azure (IAM, Networking, Storage, Serverless, Containers)",
+      "AWS (Bedrock, S3, Lambda)",
+      "Azure OpenAI Services",
+      "Cloud Security Patterns"
+    ],
+    "Vector Databases & Retrieval": [
+      "Pinecone",
+      "FAISS",
+      "Milvus",
+      "Weaviate",
+      "Embeddings",
+      "Chunking Strategies",
+      "Retriever Optimization",
+      "Semantic Search"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Azure Kubernetes Service (AKS)",
+      "Container Security",
+      "Microservices Deployment"
+    ],
+    "LLMOps & MLOps": [
+      "CI/CD for GenAI",
+      "GitHub Actions",
+      "Azure DevOps",
+      "Prompt Version Management",
+      "Automated Evaluation",
+      "MLflow",
+      "Model Registry",
+      "Telemetry"
+    ],
+    "Observability & Reliability": [
+      "Distributed Tracing",
+      "Logging",
+      "Metrics",
+      "OpenTelemetry",
+      "Rate Limiting",
+      "Circuit Breakers",
+      "Caching",
+      "Latency Tuning"
+    ],
+    "Security, IAM & Compliance": [
+      "IAM Strategy for GenAI",
+      "RBAC",
+      "ABAC",
+      "SSO",
+      "Identity Federation",
+      "Secrets Management",
+      "Audit Logging",
+      "HIPAA",
+      "SOC 2",
+      "PCI-DSS"
+    ],
+    "Infrastructure as Code & DevOps": [
+      "Terraform",
+      "ARM Templates",
+      "CloudFormation",
+      "Infrastructure Automation",
+      "Git",
+      "Environment Provisioning"
+    ],
+    "API & Application Frameworks": [
+      "FastAPI",
+      "Flask",
+      "Production API Design",
+      "Orchestration Layers",
+      "SDK Development",
+      "Microservices Architecture"
+    ],
+    "Data Engineering & Pipelines": [
+      "Data Ingestion",
+      "ETL",
+      "Apache Airflow",
+      "Azure Data Factory",
+      "Data Governance",
+      "Data Quality",
+      "HIPAA-compliant Pipelines"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected an end-to-end Generative AI platform using Azure OpenAI and LangGraph to develop multi-agent systems for automating HIPAA-compliant medical supply documentation, reducing manual processing time.",
+        "Engineered a production RAG pipeline by implementing advanced chunking strategies and Pinecone vector database integration, which improved retrieval accuracy for clinical protocol documents by forty percent.",
+        "Developed a reusable Python library using FastAPI and asyncio for prompt orchestration and templating, standardizing LLM interactions across six different healthcare applications and improving developer velocity.",
+        "Designed and implemented comprehensive observability architecture with distributed tracing and logging, enabling real-time monitoring of LLM costs, latency, and hallucination rates for critical patient-facing chatbots.",
+        "Led the security pattern design for GenAI workloads, establishing data access boundaries and integrating Azure AD RBAC to enforce least privilege access for models handling protected health information (PHI).",
+        "Built a proof-of-concept using CrewAI and Model Context Protocol to create a multi-agent system where specialized AI agents collaborated on patient intake, insurance verification, and follow-up scheduling autonomously.",
+        "Implemented guardrails and content moderation systems specifically for healthcare contexts, mitigating hallucinations in LLM-generated summaries of patient records and ensuring strict adherence to HIPAA regulations.",
+        "Orchestrated CI/CD pipelines for GenAI models using GitHub Actions and Terraform, enabling automated testing, prompt version management, and safe rollback strategies for updates to our clinical assistant agents.",
+        "Conducted model benchmarking between different Azure OpenAI GPT models, optimizing context window usage and prompt strategies to reduce inference costs by twenty-five percent while maintaining response quality.",
+        "Facilitated client workshops with medical operations teams to translate complex business outcomes into a technical roadmap for AI-driven prior authorization, creating detailed HLD and LLD architecture artifacts.",
+        "Architected a cost governance framework with caching and circuit breakers for Azure OpenAI API calls, preventing budget overruns during high-traffic periods and ensuring reliable service for hospital staff.",
+        "Developed automated evaluation scripts using pandas and custom metrics to assess retrieval quality and LLM output consistency, providing data-driven insights that guided our RAG optimization iterations.",
+        "Troubleshot performance bottlenecks in our retrieval system by analyzing embedding dimensions and index tuning in Pinecone, ultimately improving throughput for concurrent user queries during peak hospital hours.",
+        "Integrated SSO and identity federation using Azure AD to automate user and group provisioning for our GenAI platform, streamlining secure access for hundreds of healthcare providers across multiple facilities.",
+        "Led code reviews and debugging sessions for the orchestration layer, focusing on error handling and retry logic for LLM API calls to ensure robustness in our real-time medical coding assistant application.",
+        "Designed reference implementations for secure data ingestion, establishing patterns that kept PHI within compliant Azure storage boundaries while feeding our RAG system with the latest medical guidelines."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "LangGraph",
+        "CrewAI",
+        "FastAPI",
+        "Python",
+        "asyncio",
+        "Pinecone",
+        "Terraform",
+        "GitHub Actions",
+        "Azure AD",
+        "RBAC",
+        "ABAC",
+        "SSO",
+        "Docker",
+        "Kubernetes",
+        "OpenTelemetry",
+        "Model Context Protocol",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Constructed a Retrieval-Augmented Generation architecture using Azure OpenAI and FAISS to power an intelligent insurance claim assistant, improving first-contact resolution for member inquiries by thirty-five percent.",
+        "Developed a Python-based orchestration layer with FastAPI to manage complex prompt chains and tool calls for insurance adjudication agents, reducing the manual review time for complex claims significantly.",
+        "Implemented automated IAM provisioning using Terraform and Azure AD Graph API to manage roles and groups for the GenAI platform, ensuring compliant access controls for sensitive claims data met insurance regulations.",
+        "Engineered a data ingestion and chunking pipeline for diverse insurance documents (PDFs, scanned forms), optimizing text splitting strategies to improve retrieval relevance for policy clause lookups.",
+        "Designed and deployed an observability suite with logging and metrics for LLM operations, enabling our team to trace prompt execution, monitor for drift, and identify cost anomalies in our Azure OpenAI usage.",
+        "Built a proof-of-concept multi-agent system using CrewAI where specialized agents handled claim validation, fraud detection, and customer communication, demonstrating automation potential for high-volume claim processing.",
+        "Integrated content moderation guardrails and red-teaming protocols into the development lifecycle, proactively identifying and mitigating risks of incorrect benefit explanations generated by our LLM systems.",
+        "Optimized RAG retrieval by experimenting with different embedding models and tuning FAISS index parameters, which enhanced the system's ability to find precise exclusion clauses within lengthy insurance policies.",
+        "Established CI/CD pipelines using Azure DevOps to automate testing and deployment of prompt templates and evaluation scripts, fostering rapid iteration based on user feedback from our insurance agents.",
+        "Led troubleshooting sessions to debug latency issues in the retrieval pipeline, ultimately implementing caching for frequent queries and adjusting batch sizes to meet our service level agreements.",
+        "Collaborated with compliance officers to design data access boundaries and audit logging for all LLM interactions, creating an immutable record for regulatory reviews and internal insurance audits.",
+        "Developed reusable Python libraries for prompt templating and evaluation, allowing other engineering teams to consistently measure the performance and cost-effectiveness of their generative AI features.",
+        "Conducted model benchmarking to select the most cost-effective Azure OpenAI model for summarizing claim narratives, balancing accuracy with token usage to manage the total cost of ownership.",
+        "Participated in daily stand-ups and architectural review meetings, providing technical guidance on integrating GenAI capabilities with existing legacy policy administration systems while ensuring data sovereignty."
+      ],
+      "environment": [
+        "Azure OpenAI",
+        "FAISS",
+        "FastAPI",
+        "Python",
+        "CrewAI",
+        "Azure AD",
+        "Terraform",
+        "Azure DevOps",
+        "RBAC",
+        "Observability",
+        "Logging",
+        "CI/CD",
+        "RAG",
+        "Insurance Regulations",
+        "Data Ingestion"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Developed and maintained scalable data pipelines using AWS Glue and Python to ingest and process public sector data, ensuring availability for analytics and early-stage machine learning prototyping initiatives.",
+        "Engineered data access patterns and security groups within AWS to establish clear data boundaries for different government departments, aligning with strict public records and citizen privacy regulations.",
+        "Implemented monitoring and logging for data pipelines using CloudWatch, creating dashboards that tracked job performance, data quality metrics, and pipeline health for stakeholder readouts.",
+        "Built and containerized data processing applications using Docker, enabling consistent execution environments for Python scripts handling sensitive census and demographic information.",
+        "Assisted in the design of data governance policies, collaborating with security teams to classify data and apply appropriate encryption and access controls for Personally Identifiable Information (PII).",
+        "Optimized SQL queries and ETL job configurations in AWS to reduce pipeline execution times and cloud costs, directly impacting the budget for the state's data modernization program.",
+        "Participated in code reviews and troubleshooting sessions for PySpark jobs, focusing on error handling and data validation to ensure accuracy in reports used for legislative decision-making.",
+        "Documented data lineage and pipeline architecture using Confluence and diagrams, creating reference materials that accelerated onboarding for new team members and contractors.",
+        "Supported the migration of on-premise datasets to AWS S3 and Redshift, developing scripts to validate data completeness and integrity after each transfer batch was completed.",
+        "Collaborated with analysts to translate business requirements for public health reporting into technical specifications for data models and API endpoints serving dashboards.",
+        "Configured IAM roles and policies following the principle of least privilege for various data engineering workloads, automating user provisioning for project-based access needs.",
+        "Attended daily scrums and planning meetings, providing estimates and identifying technical risks associated with integrating new data sources from other government agencies into our central platform."
+      ],
+      "environment": [
+        "AWS (Glue, S3, Redshift, IAM, CloudWatch)",
+        "Python",
+        "SQL",
+        "Docker",
+        "PySpark",
+        "ETL",
+        "Data Governance",
+        "Data Pipelines",
+        "Government Regulations"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Built and optimized Apache Spark data pipelines on AWS EMR to process high-volume credit card transaction data, enabling near-real-time fraud detection analytics while adhering to PCI-DSS compliance standards.",
+        "Engineered data quality checks and validation frameworks using Python and PySpark to ensure the accuracy of financial risk models, directly supporting the company's regulatory reporting obligations.",
+        "Implemented secure data access patterns using AWS IAM roles and Lake Formation, enforcing column-level security on sensitive financial attributes like transaction amounts and card numbers.",
+        "Developed automation scripts for infrastructure provisioning using CloudFormation, reducing manual setup time for new development and testing environments for the fraud analytics team.",
+        "Monitored and tuned Spark job performance by analyzing executor metrics and optimizing shuffle partitions, which decreased average job runtime and associated AWS compute costs significantly.",
+        "Designed and maintained data models in AWS Redshift to support analytical reporting on customer spending patterns, ensuring data integrity and performance for business intelligence dashboards.",
+        "Collaborated with data scientists to operationalize machine learning models for credit risk assessment, containerizing scoring logic with Docker for deployment on AWS ECS.",
+        "Participated in incident response for data pipeline failures, conducting root cause analysis and implementing fixes to improve the reliability of daily batch processing for financial transactions.",
+        "Documented data lineage and pipeline architecture to facilitate audits and compliance checks, creating clear mappings between source systems and derived data products.",
+        "Supported the migration of legacy on-premise Hadoop workloads to AWS, developing validation scripts to verify data consistency and completeness after the cutover to the cloud platform."
+      ],
+      "environment": [
+        "AWS (EMR, S3, Redshift, IAM, CloudFormation)",
+        "Apache Spark",
+        "PySpark",
+        "Python",
+        "Docker",
+        "PCI-DSS",
+        "Data Pipelines",
+        "Data Quality",
+        "ETL"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed and processed medical imaging datasets using Python and pandas to extract features for AI model training, supporting the development of diagnostic tools for pathology while adhering to data privacy norms.",
+        "Developed SQL queries and built interactive Power BI dashboards to visualize model performance metrics and data quality trends, enabling stakeholders to track progress on healthcare AI research projects.",
+        "Cleaned and prepared structured and unstructured healthcare data from sources like EHRs and lab reports, implementing validation rules to ensure consistency for downstream machine learning pipelines.",
+        "Collaborated with data scientists and medical experts to understand domain requirements, translating clinical questions into analytical approaches and data preparation workflows.",
+        "Documented data dictionaries, analysis methodologies, and findings in Confluence, creating a knowledge base that improved team collaboration and onboarding for new analysts.",
+        "Assisted in the design of basic database schemas in PostgreSQL to store annotated medical images and associated metadata, optimizing queries for frequent retrieval by research teams.",
+        "Participated in peer reviews of analysis code and reports, providing feedback to improve reproducibility and accuracy of insights derived from sensitive patient data.",
+        "Supported ad-hoc data extraction and reporting requests from the research and product teams, ensuring timely delivery of insights that informed feature development for digital pathology platforms."
+      ],
+      "environment": [
+        "Python",
+        "pandas",
+        "SQL",
+        "PostgreSQL",
+        "Power BI",
+        "Data Analysis",
+        "Healthcare Data",
+        "Data Visualization",
+        "EHR"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,290 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Full Stack Developer (Java, Microservices, Spring Boot, API, ReactJS)",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Java and Spring Boot to build scalable microservices, ensuring high performance and maintainability, while collaborating with cross-functional teams to deliver robust backend solutions.",
+    "Developed and integrated RESTful APIs using Java, focusing on security and reusability, which streamlined data exchange between frontend and backend systems.",
+    "Engineered responsive UI components with ReactJS and Redux, enhancing user experience and ensuring seamless interaction with backend services.",
+    "Designed and optimized SQL and NoSQL databases, ensuring data integrity and high availability, while writing efficient queries to support application functionality.",
+    "Implemented DevOps practices using Git, Jenkins, Docker, and Kubernetes to automate builds, deployments, and monitoring, improving release cycles.",
+    "Wrote comprehensive unit, integration, and end-to-end tests to ensure code quality and maintainability, adhering to best practices and industry standards.",
+    "Collaborated in an Agile/Scrum environment with product owners, business analysts, and QA engineers, contributing to sprint planning and timely delivery.",
+    "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security and regulatory standards.",
+    "Integrated ReactJS with backend APIs, creating a seamless user experience and improving overall application responsiveness.",
+    "Managed state using Redux, ensuring consistent data flow across the application and reducing bugs related to state management.",
+    "Implemented secure authentication and authorization mechanisms using Spring Security, protecting sensitive data and ensuring user privacy.",
+    "Used TypeScript to enhance code quality and maintainability in ReactJS applications, reducing runtime errors and improving developer productivity.",
+    "Deployed applications on AWS, leveraging services like EC2 and RDS to ensure scalability and reliability, while monitoring performance using CloudWatch.",
+    "Conducted code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement and knowledge sharing.",
+    "Troubleshot and resolved complex issues in production environments, minimizing downtime and ensuring high availability of services.",
+    "Participated in daily stand-ups, sprint retrospectives, and backlog grooming sessions, contributing to process improvements and team efficiency.",
+    "Mentored junior developers, helping them understand best practices and technologies, and accelerating their onboarding process.",
+    "Stayed updated with emerging technologies and industry trends, proposing innovative solutions to enhance application functionality and user experience."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Python"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Boot",
+      "ReactJS",
+      "Redux",
+      "Hibernate",
+      "JUnit"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "AWS (EC2, RDS, CloudWatch)"
+    ],
+    "API Development": [
+      "RESTful APIs",
+      "GraphQL"
+    ],
+    "Testing": [
+      "Unit Testing",
+      "Integration Testing",
+      "End-to-End Testing"
+    ],
+    "Agile & Collaboration Tools": [
+      "Jira",
+      "Confluence",
+      "Slack"
+    ],
+    "Security": [
+      "Spring Security",
+      "OAuth",
+      "JWT"
+    ],
+    "Performance Optimization": [
+      "Profiling Tools",
+      "Load Testing",
+      "Caching Strategies"
+    ],
+    "Web Technologies": [
+      "HTML5",
+      "CSS3",
+      "Webpack",
+      "Babel"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Engineered a microservices architecture using Java and Spring Boot, addressing scalability issues and improving system performance by ensuring modularity and maintainability.",
+        "Developed RESTful APIs with Spring Boot, focusing on security and reusability, which streamlined data exchange between frontend and backend systems, enhancing overall application efficiency.",
+        "Integrated ReactJS with backend APIs, creating a seamless user experience and improving application responsiveness by optimizing data fetching and rendering processes.",
+        "Designed and optimized SQL databases using PostgreSQL, ensuring data integrity and high availability, while writing efficient queries to support complex application functionality.",
+        "Implemented DevOps practices using Git, Jenkins, Docker, and Kubernetes, automating builds, deployments, and monitoring, which reduced deployment time and improved release cycles.",
+        "Wrote comprehensive unit and integration tests using JUnit and Mockito, ensuring code quality and maintainability, and adhering to best practices and industry standards.",
+        "Collaborated in an Agile/Scrum environment with product owners, business analysts, and QA engineers, contributing to sprint planning and timely delivery of high-quality features.",
+        "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security and regulatory standards, and enhancing user satisfaction.",
+        "Managed state using Redux in ReactJS applications, ensuring consistent data flow across the application and reducing bugs related to state management, improving overall stability.",
+        "Implemented secure authentication and authorization mechanisms using Spring Security, protecting sensitive data and ensuring user privacy, while maintaining a seamless user experience.",
+        "Used TypeScript in ReactJS applications to enhance code quality and maintainability, reducing runtime errors and improving developer productivity through better type checking.",
+        "Deployed applications on AWS, leveraging services like EC2 and RDS to ensure scalability and reliability, while monitoring performance using CloudWatch for proactive issue resolution.",
+        "Conducted code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement and knowledge sharing within the development team.",
+        "Troubleshot and resolved complex issues in production environments, minimizing downtime and ensuring high availability of services, while maintaining detailed documentation for future reference.",
+        "Participated in daily stand-ups, sprint retrospectives, and backlog grooming sessions, contributing to process improvements and team efficiency through active collaboration and feedback.",
+        "Mentored junior developers, helping them understand best practices and technologies, and accelerating their onboarding process by providing hands-on guidance and support."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "ReactJS",
+        "Redux",
+        "PostgreSQL",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "JUnit",
+        "Mockito",
+        "TypeScript",
+        "Agile/Scrum"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed scalable backend services using Java and Spring Boot, ensuring high performance and maintainability, while collaborating with cross-functional teams to deliver robust solutions.",
+        "Built and integrated RESTful APIs using Java, focusing on security and reusability, which streamlined data exchange between frontend and backend systems, enhancing application efficiency.",
+        "Created responsive UI components with ReactJS and Redux, enhancing user experience and ensuring seamless interaction with backend services through efficient state management.",
+        "Designed and optimized NoSQL databases using MongoDB, ensuring data integrity and high availability, while writing efficient queries to support application functionality.",
+        "Implemented CI/CD pipelines using Jenkins and Docker, automating builds and deployments, which improved release cycles and reduced manual intervention.",
+        "Wrote unit, integration, and end-to-end tests to ensure code quality and maintainability, adhering to best practices and industry standards for robust application development.",
+        "Collaborated in an Agile environment with product owners, business analysts, and QA engineers, contributing to sprint planning and timely delivery of features.",
+        "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security and regulatory standards, and enhancing user satisfaction.",
+        "Integrated ReactJS with backend APIs, creating a seamless user experience and improving application responsiveness by optimizing data fetching and rendering processes.",
+        "Managed state using Redux, ensuring consistent data flow across the application and reducing bugs related to state management, improving overall stability.",
+        "Implemented secure authentication and authorization mechanisms using Spring Security, protecting sensitive data and ensuring user privacy, while maintaining a seamless user experience.",
+        "Used TypeScript in ReactJS applications to enhance code quality and maintainability, reducing runtime errors and improving developer productivity through better type checking.",
+        "Deployed applications on AWS, leveraging services like EC2 and RDS to ensure scalability and reliability, while monitoring performance using CloudWatch for proactive issue resolution.",
+        "Conducted code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement and knowledge sharing within the development team.",
+        "Troubleshot and resolved complex issues in production environments, minimizing downtime and ensuring high availability of services, while maintaining detailed documentation for future reference."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "ReactJS",
+        "Redux",
+        "MongoDB",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "AWS",
+        "JUnit",
+        "TypeScript",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed backend services using Java and Spring Boot, ensuring scalability and maintainability, while collaborating with teams to deliver efficient solutions.",
+        "Built RESTful APIs with Java, focusing on security and reusability, streamlining data exchange between systems and improving application efficiency.",
+        "Created UI components using ReactJS, enhancing user experience and ensuring seamless interaction with backend services through efficient data handling.",
+        "Designed and optimized SQL databases using MySQL, ensuring data integrity and high availability, while writing efficient queries to support application functionality.",
+        "Implemented CI/CD pipelines using Jenkins, automating builds and deployments, which improved release cycles and reduced manual intervention.",
+        "Wrote unit and integration tests to ensure code quality and maintainability, adhering to best practices for robust application development.",
+        "Collaborated in an Agile environment with product owners and QA engineers, contributing to sprint planning and timely feature delivery.",
+        "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security standards, and enhancing user satisfaction.",
+        "Integrated ReactJS with backend APIs, improving application responsiveness by optimizing data fetching and rendering processes.",
+        "Managed state using Redux, ensuring consistent data flow and reducing bugs related to state management, improving overall stability.",
+        "Implemented secure authentication mechanisms using Spring Security, protecting sensitive data and ensuring user privacy.",
+        "Used TypeScript in ReactJS applications to enhance code quality and maintainability, reducing runtime errors and improving developer productivity.",
+        "Deployed applications on AWS, leveraging EC2 and RDS for scalability and reliability, while monitoring performance using CloudWatch.",
+        "Conducted code reviews and provided feedback to team members, fostering continuous improvement and knowledge sharing.",
+        "Troubleshot and resolved production issues, minimizing downtime and ensuring high availability of services, while maintaining documentation for future reference."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "ReactJS",
+        "Redux",
+        "MySQL",
+        "Git",
+        "Jenkins",
+        "AWS",
+        "JUnit",
+        "TypeScript",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed backend services using Java and Spring Boot, ensuring scalability and maintainability, while collaborating with teams to deliver efficient solutions.",
+        "Built RESTful APIs with Java, focusing on security and reusability, streamlining data exchange between systems and improving application efficiency.",
+        "Created UI components using ReactJS, enhancing user experience and ensuring seamless interaction with backend services through efficient data handling.",
+        "Designed and optimized SQL databases using PostgreSQL, ensuring data integrity and high availability, while writing efficient queries to support application functionality.",
+        "Implemented CI/CD pipelines using Jenkins, automating builds and deployments, which improved release cycles and reduced manual intervention.",
+        "Wrote unit and integration tests to ensure code quality and maintainability, adhering to best practices for robust application development.",
+        "Collaborated in an Agile environment with product owners and QA engineers, contributing to sprint planning and timely feature delivery.",
+        "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security standards, and enhancing user satisfaction.",
+        "Integrated ReactJS with backend APIs, improving application responsiveness by optimizing data fetching and rendering processes.",
+        "Managed state using Redux, ensuring consistent data flow and reducing bugs related to state management, improving overall stability.",
+        "Implemented secure authentication mechanisms using Spring Security, protecting sensitive data and ensuring user privacy.",
+        "Used TypeScript in ReactJS applications to enhance code quality and maintainability, reducing runtime errors and improving developer productivity.",
+        "Deployed applications on AWS, leveraging EC2 and RDS for scalability and reliability, while monitoring performance using CloudWatch.",
+        "Conducted code reviews and provided feedback to team members, fostering continuous improvement and knowledge sharing.",
+        "Troubleshot and resolved production issues, minimizing downtime and ensuring high availability of services, while maintaining documentation for future reference."
+      ],
+      "environment": [
+        "Java",
+        "Spring Boot",
+        "ReactJS",
+        "Redux",
+        "PostgreSQL",
+        "Git",
+        "Jenkins",
+        "AWS",
+        "JUnit",
+        "TypeScript",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed backend services using Java, ensuring scalability and maintainability, while collaborating with teams to deliver efficient solutions.",
+        "Built RESTful APIs with Java, focusing on security and reusability, streamlining data exchange between systems and improving application efficiency.",
+        "Created UI components using ReactJS, enhancing user experience and ensuring seamless interaction with backend services through efficient data handling.",
+        "Designed and optimized SQL databases using MySQL, ensuring data integrity and high availability, while writing efficient queries to support application functionality.",
+        "Implemented CI/CD pipelines using Jenkins, automating builds and deployments, which improved release cycles and reduced manual intervention.",
+        "Wrote unit tests to ensure code quality and maintainability, adhering to best practices for robust application development.",
+        "Collaborated in an Agile environment with product owners and QA engineers, contributing to sprint planning and timely feature delivery.",
+        "Optimized application performance by identifying and resolving bottlenecks, ensuring compliance with security standards, and enhancing user satisfaction.",
+        "Integrated ReactJS with backend APIs, improving application responsiveness by optimizing data fetching and rendering processes.",
+        "Managed state using Redux, ensuring consistent data flow and reducing bugs related to state management, improving overall stability.",
+        "Implemented secure authentication mechanisms, protecting sensitive data and ensuring user privacy.",
+        "Used TypeScript in ReactJS applications to enhance code quality and maintainability, reducing runtime errors and improving developer productivity.",
+        "Deployed applications on AWS, leveraging EC2 for scalability and reliability, while monitoring performance using CloudWatch.",
+        "Conducted code reviews and provided feedback to team members, fostering continuous improvement and knowledge sharing.",
+        "Troubleshot and resolved production issues, minimizing downtime and ensuring high availability of services, while maintaining documentation for future reference."
+      ],
+      "environment": [
+        "Java",
+        "ReactJS",
+        "Redux",
+        "MySQL",
+        "Git",
+        "Jenkins",
+        "AWS",
+        "JUnit",
+        "TypeScript",
+        "Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Python & AI Data Engineer - Agentic AI Collaboration",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of experience across Insurance, Healthcare, Banking, and Consulting domains, I bring a deep understanding of Python, data pipelines, and cloud-based AI systems to drive enterprise solutions.",
+    "Built data extraction processes using SQL and PySpark to cleanse raw transactional data from legacy systems, which enabled the creation of a unified customer profile view that improved cross-selling opportunities by reducing manual data reconciliation efforts.",
+    "Designed a FastAPI microservice that provided real-time policy premium calculations, integrating with existing policy administration systems to ensure accurate quotes while adhering to strict state insurance regulations and compliance standards.",
+    "Developed a TDD approach for a new claims prediction model, writing unit tests before implementation to ensure code reliability, which significantly reduced production bugs during the initial deployment phase of the project.",
+    "Configured Databricks jobs for automated batch processing of healthcare provider data, orchestrating workflows with Airflow to guarantee daily updates met strict HIPAA data privacy and patient confidentiality requirements.",
+    "Structured JSON data schemas for API responses from multiple external partners, implementing validation logic within Flask endpoints to prevent malformed data from entering our core underwriting and risk assessment databases.",
+    "Deployed a dbt transformation layer on Snowflake to standardize financial reporting metrics, establishing a single source of truth that allowed business analysts to generate consistent reports without manual intervention.",
+    "Created an ETL framework using AWS Glue to migrate policy documents from on-premise storage to cloud-based archives, focusing on application resiliency with retry logic and secure access controls for sensitive customer information.",
+    "Established a CI pipeline with Jenkins that automatically ran test suites on Python code commits, integrating security scans to identify potential vulnerabilities before deployment to our cloud development environments.",
+    "Managed a Kafka stream processing application for real-time fraud detection in banking transactions, ensuring low-latency message handling to flag suspicious activities for immediate review by the security operations team.",
+    "Architected a REST API for data scientists to access curated datasets, applying API development best practices for authentication and rate limiting to ensure system stability and secure integration with internal ML platforms.",
+    "Collaborated with AI development teams on a proof-of-concept for an agentic AI system, sharing data pipeline specifications and integration points to facilitate the seamless flow of information between traditional data systems and emerging AI agents.",
+    "Optimized PySpark queries for a large-scale customer segmentation project, adjusting partition strategies and caching intermediate DataFrames to reduce job runtimes and improve the efficiency of marketing campaign planning.",
+    "Implemented data modeling techniques to redesign a fragmented healthcare claims database, introducing conformed dimensions and fact tables that sped up analytical queries for state compliance reporting and audit purposes.",
+    "Evaluated AWS Bedrock services for potential use in generating automated claim summaries, conducting feasibility studies to understand how foundation models could be integrated into existing claims processing workflows.",
+    "Maintained a suite of Python tools for data quality monitoring, developing custom checks for null values and business rule violations that helped the data stewardship team identify and correct issues in source systems.",
+    "Operated within Agile methodologies, participating in daily stand-ups and sprint planning sessions to coordinate data engineering tasks with front-end developers and business stakeholders for iterative software delivery.",
+    "Applied cloud development principles to containerize a legacy data enrichment service using Docker, enabling consistent deployment across different testing and production environments while improving application portability."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "SQL",
+      "Scala",
+      "PySpark",
+      "FastAPI",
+      "Flask"
+    ],
+    "Cloud Platforms & AI Services": [
+      "AWS (SageMaker, Bedrock, Lambda, S3, Glue)",
+      "Azure (Data Factory, Databricks)",
+      "Databricks",
+      "Snowflake"
+    ],
+    "Data Engineering & ETL/ELT": [
+      "Data Pipeline Development",
+      "dbt",
+      "Airflow",
+      "ETL/ELT Frameworks",
+      "Data Modeling",
+      "Data Extraction"
+    ],
+    "Big Data & Streaming": [
+      "Apache Spark",
+      "Kafka",
+      "AWS Kinesis"
+    ],
+    "Databases & Warehouses": [
+      "Snowflake",
+      "PostgreSQL",
+      "AWS RDS",
+      "SQL Server"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "Jenkins",
+      "Docker",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Test Driven Development"
+    ],
+    "AI/ML Collaboration Tools": [
+      "LangGraph",
+      "LangChain",
+      "REST API Design",
+      "Multi-Agent Systems",
+      "Model Context Protocol"
+    ],
+    "Data Formats & APIs": [
+      "JSON",
+      "Parquet",
+      "REST API Integration"
+    ],
+    "Methodologies & Practices": [
+      "Agile Methodologies",
+      "Application Resiliency",
+      "Application Security"
+    ],
+    "Monitoring & Orchestration": [
+      "Airflow",
+      "AWS CloudWatch"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "During the planning phase, I define requirements for integrating Databricks and PySpark into our claims analytics platform, focusing on scalable data processing to support real-time fraud detection and multi-agent AI systems.",
+        "In the implementation phase, I construct proof-of-concept prototypes using LangGraph to explore multi-agent collaboration, establishing communication channels between specialist agents for tasks like damage assessment and policy validation.",
+        "For the deployment phase, I configure AWS SageMaker endpoints to host the initial AI models, setting up secure VPC connections and IAM roles to ensure only authorized services can invoke our prediction APIs.",
+        "During the monitoring phase, I establish logging for our PySpark jobs on Databricks, tracking job performance and data quality metrics to quickly identify and address any processing delays or errors in the pipeline.",
+        "In the optimization phase, I refine the Model Context Protocol (MCP) implementations for our agents, improving the structure of shared context to reduce redundant data transfers and lower operational costs.",
+        "For the troubleshooting phase, I diagnose a latency issue in the agent-to-agent communication layer, tracing the problem to serialization bottlenecks and implementing a more efficient data format to restore performance.",
+        "During the integration phase, I collaborate with the AI team to connect the LangGraph-based multi-agent system with our core policy database, ensuring data flows securely and adheres to insurance compliance standards.",
+        "In the testing phase, I write unit tests for new FastAPI endpoints that serve the multi-agent system, verifying that each agent receives correctly formatted data and responds within the required service level agreements.",
+        "For the security phase, I review all data access patterns within the new AI architecture, adding encryption for data in transit between agents and validating that no PII is inadvertently logged in debug outputs.",
+        "During the documentation phase, I create runbooks for the operational support team, detailing common procedures for restarting flows, checking agent health, and interpreting the monitoring dashboards we built.",
+        "In the review phase, I participate in code reviews for peer implementations of new agent capabilities, providing feedback on Python code structure and suggesting improvements for error handling and resilience.",
+        "For the scaling phase, I adjust the compute configuration of our Databricks clusters, enabling auto-scaling based on workload to handle peak claim volumes without manual intervention from the infrastructure team.",
+        "During the maintenance phase, I apply patches to the underlying Python libraries in our AI environment, testing changes in a staging area first to prevent disruptions to the live claims processing workflows.",
+        "In the support phase, I assist junior developers who are building their first LangGraph workflows, explaining core concepts like nodes, edges, and state management through practical examples and pair programming sessions.",
+        "For the evaluation phase, I assess the performance of the new multi-agent proof-of-concept against traditional rule-based systems, compiling metrics on accuracy and processing time to inform the final production rollout decision.",
+        "During the iteration phase, I incorporate feedback from business users on the AI-generated claim summaries, working back with the data science team to adjust prompts and parameters for clearer, more actionable outputs."
+      ],
+      "environment": [
+        "Python",
+        "Databricks",
+        "PySpark",
+        "FastAPI",
+        "AWS SageMaker",
+        "AWS Bedrock",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "Airflow",
+        "Snowflake",
+        "dbt",
+        "Docker",
+        "Git",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "In the planning phase, I gathered requirements for a HIPAA-compliant data pipeline to support clinical trial analysis, selecting AWS as the cloud platform and Databricks for secure data processing of patient datasets.",
+        "During the implementation phase, I assembled a LangChain proof-of-concept to automate the extraction of data from unstructured clinical study reports, chaining together document loaders and summarization models.",
+        "For the deployment phase, I packaged the data pipeline as a series of Docker containers, orchestrating them with Airflow DAGs to ensure dependencies were met and data was processed in the correct sequence.",
+        "In the monitoring phase, I set up alerts for data pipeline failures, configuring Airflow to send notifications if ETL jobs exceeded runtime thresholds or encountered errors reading from source systems.",
+        "During the optimization phase, I tuned PySpark jobs that joined large patient demographic tables with lab result data, implementing broadcast joins for smaller datasets to accelerate query performance significantly.",
+        "For the troubleshooting phase, I resolved a recurring issue where JSON data from external labs failed validation, writing a custom parser to handle edge cases in the data format without losing critical information.",
+        "In the integration phase, I connected the LangChain application to a vector database, enabling semantic search over medical literature to help researchers find relevant studies faster during trial design.",
+        "During the testing phase, I validated that all data transformations preserved PHI anonymity, executing test cases that verified de-identification techniques met our internal HIPAA compliance review standards.",
+        "For the security phase, I implemented attribute-based access control in Snowflake, ensuring that data scientists could only query patient data relevant to their specific approved research protocols and studies.",
+        "In the documentation phase, I diagrammed the multi-agent system architecture for a drug interaction chatbot, outlining how different agents specialized in knowledge retrieval, safety checking, and response generation.",
+        "During the review phase, I examined code submissions for new API endpoints built with Flask, focusing on input sanitation and output consistency to maintain a reliable interface for internal applications.",
+        "For the scaling phase, I migrated a legacy data warehouse to Snowflake, redesigning the schema to take advantage of its clustering and caching features for improved analytical query performance.",
+        "In the maintenance phase, I updated the CI/CD pipeline configuration to include security scanning for Python dependencies, blocking deployments that contained libraries with known vulnerabilities.",
+        "During the collaboration phase, I worked alongside AI researchers to productionize a prototype, adapting their experimental Jupyter notebooks into modular Python packages that could be scheduled and monitored effectively."
+      ],
+      "environment": [
+        "Python",
+        "Databricks",
+        "PySpark",
+        "LangChain",
+        "AWS",
+        "Flask",
+        "Airflow",
+        "Snowflake",
+        "dbt",
+        "Docker",
+        "HIPAA Compliance",
+        "JSON",
+        "REST API",
+        "Agile",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "During the planning phase, I analyzed requirements for a public health reporting system, selecting Azure Data Factory and Databricks to build pipelines that transformed raw data into state-mandated formats.",
+        "In the implementation phase, I authored PySpark scripts to aggregate COVID-19 testing data from various healthcare providers, standardizing codes and formatting to meet CDC and state reporting guidelines.",
+        "For the deployment phase, I scheduled the data pipelines using Azure Data Factory, setting up triggers based on file arrival in Blob Storage to ensure daily reports were generated without manual intervention.",
+        "During the monitoring phase, I checked pipeline execution logs daily, investigating any failures related to data quality issues or connectivity problems with source hospital FTP servers.",
+        "In the optimization phase, I modified SQL queries within the data warehouse to improve the performance of dashboard queries used by epidemiologists, adding appropriate indexes and materialized views.",
+        "For the troubleshooting phase, I corrected a data type mismatch error that occurred when processing lab result files, adding explicit casting in the transformation logic to handle numeric and text values correctly.",
+        "During the integration phase, I developed a REST API with FastAPI to expose curated public health datasets to other state agencies, implementing API key authentication for controlled access.",
+        "In the testing phase, I created test data that mirrored real PHI but was synthetically generated, allowing the team to validate ETL logic thoroughly without compromising patient privacy or HIPAA rules.",
+        "For the security phase, I configured Azure Key Vault to store database connection strings and API credentials, removing hard-coded secrets from our Python application code and configuration files.",
+        "During the documentation phase, I wrote technical specifications for the data flow from source systems to the final published datasets, which helped onboard new team members during a period of rapid hiring.",
+        "In the review phase, I participated in design sessions for a new Medicaid claims forecasting model, providing data engineering perspective on feature availability and pipeline feasibility.",
+        "For the maintenance phase, I applied updates to the Azure infrastructure using Terraform scripts, ensuring our development and production environments remained consistent and up-to-date with security patches."
+      ],
+      "environment": [
+        "Python",
+        "Azure Databricks",
+        "PySpark",
+        "Azure Data Factory",
+        "FastAPI",
+        "SQL",
+        "Azure Blob Storage",
+        "Terraform",
+        "HIPAA Compliance",
+        "ETL",
+        "REST API",
+        "Agile",
+        "Git"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "In the planning phase, I collaborated with the fraud detection team to outline data needs for a new machine learning model, identifying required transaction fields and historical fraud labels from legacy mainframe systems.",
+        "During the implementation phase, I wrote SQL queries to extract and join data from multiple banking databases, creating a clean dataset for model training that complied with PCI-DSS data handling standards.",
+        "For the deployment phase, I assisted in moving the trained model into a production Flask API, containerizing the service with Docker to ensure it ran consistently across development and production environments.",
+        "In the monitoring phase, I tracked model performance metrics such as precision and recall, setting up a simple dashboard to alert the team if the model's accuracy drifted beyond acceptable thresholds.",
+        "During the optimization phase, I refined the feature engineering pipeline, creating new aggregate features from transaction histories that improved the model's ability to identify sophisticated fraud patterns.",
+        "For the troubleshooting phase, I diagnosed an issue where the batch scoring job occasionally timed out, discovering a missing database index and working with the DBA team to add it and restore performance.",
+        "In the integration phase, I worked with application developers to integrate the fraud score into the real-time transaction authorization flow, ensuring the API call added minimal latency to the customer experience.",
+        "During the testing phase, I validated the entire data pipeline with a sample of production data, verifying that transformations were reversible for audit purposes as required by financial regulators.",
+        "For the security phase, I reviewed data access logs to confirm that only authorized users and services interacted with the sensitive training datasets containing full transaction details.",
+        "In the documentation phase, I prepared a model card that explained the algorithm's purpose, inputs, outputs, and limitations for compliance officers and business stakeholders seeking approval for deployment."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Flask",
+        "Docker",
+        "Azure",
+        "PCI-DSS Compliance",
+        "Machine Learning",
+        "Data Modeling",
+        "ETL",
+        "Git",
+        "Agile"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "During the planning phase, I learned about client data warehouse structures by reviewing existing Informatica mappings and Hadoop job scripts to understand current data flows and business logic.",
+        "In the implementation phase, I developed Sqoop jobs to periodically extract data from relational databases into Hadoop Distributed File System, scheduling them with cron to meet daily load timelines.",
+        "For the deployment phase, I supported senior engineers in moving developed code to testing environments, assisting with basic validation checks to ensure data counts matched between source and target systems.",
+        "During the monitoring phase, I watched over nightly batch jobs, notifying the team lead if any failures occurred so they could be addressed before business users started their morning reports.",
+        "In the optimization phase, I suggested modifying a Hive query to use a more efficient join order, which reduced the job runtime after testing the change in a development environment first.",
+        "For the troubleshooting phase, I helped resolve a recurring issue where date formats from a source system caused parsing errors, researching and applying a custom date conversion function in Informatica.",
+        "During the integration phase, I worked on a small module that combined customer data from two separate source systems, following detailed specifications provided by a senior data architect.",
+        "In the learning phase, I studied the fundamentals of data modeling and ETL design, applying those concepts to my assigned tasks and asking questions during team meetings to deepen my understanding."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "SQL",
+        "Data Warehousing",
+        "ETL",
+        "Unix Shell Scripting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

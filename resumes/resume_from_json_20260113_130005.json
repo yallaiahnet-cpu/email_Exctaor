@@ -1,0 +1,295 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Principal AI Engineer - Intelligent Multi-Agent Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years of enterprise experience in Insurance, Healthcare, Banking, and Consulting, I now build intelligent multi-agent systems using LLMs, Azure AI services, and MLOps practices to deliver real-world impact within Microsoft's AI ecosystem.",
+    "Utilized LangGraph to model stateful, multi-step workflows for an insurance claims processing system, which allowed complex agent handoffs and control flows to handle policy validation, damage assessment, and fraud detection autonomously.",
+    "Applied the Model Context Protocol (MCP) to standardize shared context, tools, and memory across a team of healthcare diagnostic agents, ensuring consistent data interpretation and reducing context-switching errors by a significant margin.",
+    "Designed and implemented Agent-to-Agent (A2A) communication protocols using custom message buses and event-driven architectures to enable seamless coordination between underwriting, customer service, and compliance agents in a financial environment.",
+    "Built a sophisticated prompt orchestration layer using Semantic Kernel to manage complex decision trees and conditional logic across multiple conversational AI agents, dynamically routing queries based on intent and user history.",
+    "Containerized entire multi-agent workflows with Docker and orchestrated their deployment at scale using Kubernetes on Azure Kubernetes Service (AKS), ensuring high availability and efficient resource utilization for enterprise workloads.",
+    "Integrated Azure OpenAI Service with proprietary insurance datasets to develop a RAG pipeline that empowered agents to pull accurate policy clauses and regulatory updates, improving response accuracy for complex customer inquiries.",
+    "Established a continuous training pipeline using Azure ML and Databricks to periodically fine-tune GPT models on new insurance claim narratives, maintaining agent performance as language patterns and fraud tactics evolved.",
+    "Conducted rigorous behavior testing for autonomous agents by simulating real-world edge cases in insurance scenarios, such as natural disaster claims, to validate decision-making logic and ensure system safety before deployment.",
+    "Implemented comprehensive monitoring for multi-agent systems using Azure Monitor and Application Insights, tracking agent performance, conversation quality, and operational metrics to quickly identify and troubleshoot degradation.",
+    "Developed a semantic search system using Azure Cognitive Search to allow banking compliance agents to quickly retrieve relevant financial regulations and internal policy documents, drastically reducing research time for auditors.",
+    "Engineered a secure, HIPAA-compliant agent architecture for a healthcare client by integrating Azure Key Vault for secret management and implementing strict data access controls, ensuring patient data privacy across all AI interactions.",
+    "Created a library of reusable tools and functions compliant with MCP standards, enabling different agent teams in a consulting project to share capabilities like data validation, report generation, and external API calls efficiently.",
+    "Optimized the inference latency of a multi-agent customer support system by implementing caching strategies for LLM responses and fine-tuning smaller, specialized models for specific high-frequency tasks, improving user experience.",
+    "Collaborated with platform engineering teams to integrate autonomous agents with Microsoft Graph API, allowing them to schedule meetings, retrieve documents, and manage tasks within the existing enterprise productivity suite.",
+    "Authored detailed documentation for agent behavior, system architecture, and troubleshooting guides, which became the standard reference for the engineering team and accelerated the onboarding process for new developers.",
+    "Participated in daily stand-ups and design reviews with product and design teams to translate business requirements for healthcare policy automation into technical specifications for agent capabilities and interaction protocols.",
+    "Debugged a critical issue in a loan approval multi-agent system where context was leaking between user sessions; the fix involved refining the session isolation mechanism in LangGraph and adding additional security validations."
+  ],
+  "technical_skills": {
+    "AI Agent Development & Frameworks": [
+      "AI Agent Developers",
+      "intelligent multi-agent systems",
+      "Autonomous Agent Development",
+      "LLM-based decision-making agents",
+      "multi-agent frameworks",
+      "LangGraph",
+      "AutoGen",
+      "Langchain",
+      "CrewAI",
+      "Semantic Kernel",
+      "Model Context Protocol (MCP)",
+      "Agent-to-Agent (A2A) protocols"
+    ],
+    "Large Language Models & AI Services": [
+      "large language models (LLMs)",
+      "GPT models",
+      "OpenAI API",
+      "Azure OpenAI Service",
+      "Azure AI services",
+      "conversational AI",
+      "prompt engineering",
+      "prompt orchestration",
+      "OpenAI SDK",
+      "RAG pipelines",
+      "semantic search"
+    ],
+    "Cloud & Infrastructure": [
+      "Azure services",
+      "cloud infrastructure",
+      "Microsoft Graph API",
+      "Power Platform",
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines",
+      "Databricks",
+      "Azure ML"
+    ],
+    "MLOps & Engineering Practices": [
+      "MLOps pipelines",
+      "continuous training, deployment, and monitoring",
+      "AI Integration & MLOps",
+      "Quality & Integration Engineering",
+      "behavior testing and validation",
+      "performance, safety, and real-world edge cases"
+    ],
+    "Programming & Development": [
+      "Python",
+      "REST APIs",
+      "FastAPI",
+      "Git"
+    ],
+    "Security & Compliance": [
+      "security, compliance, and privacy",
+      "HIPAA",
+      "PCI-DSS",
+      "Azure Key Vault"
+    ],
+    "Data Engineering & Big Data": [
+      "Apache Spark",
+      "Hadoop",
+      "Informatica",
+      "Sqoop",
+      "ETL",
+      "data pipelines"
+    ],
+    "Monitoring & Observability": [
+      "Azure Monitor",
+      "Application Insights",
+      "logging",
+      "metric collection"
+    ],
+    "Project Domains": [
+      "Insurance",
+      "Healthcare",
+      "Banking",
+      "Consulting"
+    ]
+  },
+  "experience": [
+    {
+      "role": " Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Planning Phase: Architect a scalable multi-agent system for automated insurance claims using LangGraph to define stateful workflows where specialized agents handle intake, assessment, and settlement, ensuring compliance with state regulations.",
+        "Implementation Phase: Construct a proof of concept with Databricks and PySpark for processing historical claim data, then build agents using MCP to share fraud detection context and tools, improving early fraud identification.",
+        "Deployment Phase: Containerize each autonomous agent using Docker and deploy them on Azure Kubernetes Service, setting up Azure DevOps CI/CD pipelines for automated testing and seamless rollouts of new agent versions.",
+        "Monitoring Phase: Configure Azure Monitor and custom dashboards to track agent decision accuracy, system latency, and cost, setting up alerts for any deviation from expected performance in the claims processing pipeline.",
+        "Optimization Phase: Fine-tune the GPT-4 models powering the assessment agents on a curated dataset of past claims to improve their understanding of automotive damage descriptions and repair cost estimations.",
+        "Troubleshooting Phase: Diagnose an issue where the customer service agent was repeating questions; the fix involved adjusting the conversation memory retention policy in LangGraph and improving the context window management.",
+        "Planning Phase: Design a secure, compliant architecture for handling sensitive customer data, integrating Azure Key Vault for secret management and ensuring all agent-to-agent communication is encrypted for privacy.",
+        "Implementation Phase: Develop a RAG pipeline using Azure Cognitive Search and OpenAI embeddings, enabling agents to pull the most current policy documents and procedural guidelines when responding to customer queries.",
+        "Deployment Phase: Establish a blue-green deployment strategy on Kubernetes for the multi-agent system to enable zero-downtime updates and easy rollback if a new agent version introduces unexpected behavior.",
+        "Monitoring Phase: Implement detailed logging for all agent interactions and decisions to create an audit trail for compliance purposes and to provide data for periodic model retraining and system validation.",
+        "Optimization Phase: Refactor the prompt orchestration logic using Semantic Kernel to reduce the number of LLM calls per claim by batching similar reasoning steps, which lowered operational costs.",
+        "Troubleshooting Phase: Resolve a performance bottleneck where the document processing agent was slowing down the entire workflow by optimizing its PySpark code and increasing its allocated resources in Kubernetes.",
+        "Planning Phase: Collaborate with product and legal teams to define the behavior boundaries and ethical guidelines for autonomous decision-making agents, particularly for high-value claims requiring manual review.",
+        "Implementation Phase: Integrate Microsoft Graph API to allow the administrative agent to automatically generate and file claim reports in SharePoint, streamlining the backend documentation process for adjusters.",
+        "Deployment Phase: Create a comprehensive behavior testing suite that simulates complex edge-case scenarios like multi-vehicle accidents to validate the entire multi-agent system's resilience before production deployment.",
+        "Troubleshooting Phase: Investigate and fix a context leakage bug between user sessions by reinforcing session isolation in the LangGraph state management and adding a unique identifier validation step for each request."
+      ],
+      "environment": [
+        "LangGraph",
+        "Model Context Protocol (MCP)",
+        "Agent-to-Agent (A2A)",
+        "Azure OpenAI Service",
+        "GPT-4",
+        "Databricks",
+        "PySpark",
+        "Docker",
+        "Kubernetes",
+        "Azure Kubernetes Service (AKS)",
+        "Azure DevOps",
+        "CI/CD",
+        "Azure Monitor",
+        "Azure Key Vault",
+        "RAG",
+        "Azure Cognitive Search",
+        "Semantic Kernel",
+        "Microsoft Graph API",
+        "Python"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planned a HIPAA-compliant multi-agent system to assist medical researchers by automating literature review and clinical trial data synthesis, using Azure's secure infrastructure for all data processing and storage.",
+        "Built a proof-of-concept using LangChain to create a chain of agents that could search PubMed, summarize findings, and cross-reference results with internal research data, significantly accelerating the initial research phase.",
+        "Deployed the agent system on Azure Container Instances with Azure Front Door for secure access, implementing strict network policies and audit logging to meet stringent healthcare data protection requirements.",
+        "Monitored agent performance and data access patterns using Azure Log Analytics, ensuring no unauthorized data retrieval and validating that all agent interactions complied with internal privacy policies.",
+        "Optimized the LangChain agent flows by implementing caching for frequent literature queries and creating smaller, fine-tuned models for specific medical jargon to reduce reliance on larger, more expensive LLMs.",
+        "Troubleshot inaccuracies in agent-generated summaries by refining the prompt templates and adding a verification step where a second agent would fact-check key data points against source documents.",
+        "Planned the integration of the research agent system with internal data warehouses, designing secure APIs for agents to query anonymized patient cohort data while maintaining full HIPAA compliance.",
+        "Built a semantic search layer over regulatory document repositories using Azure AI Search, allowing compliance agents to quickly find relevant FDA guidelines and internal SOPs during the drug development process.",
+        "Deployed a continuous training pipeline in Azure Machine Learning to periodically retrain the NLP models used by agents on the latest medical literature, keeping their knowledge base current.",
+        "Monitored for potential model drift in the diagnostic support agents by tracking their recommendation accuracy against a labeled test set of historical cases, triggering alerts for retraining when needed.",
+        "Optimized the cost of running multiple concurrent research agents by implementing an asynchronous job queue and scaling the container instances based on workload, reducing idle compute time.",
+        "Troubleshot a system outage caused by a downstream API change by building more resilient agent code with comprehensive error handling and fallback mechanisms for critical external data sources.",
+        "Collaborated with clinical teams to gather feedback on agent outputs, holding weekly meetings to review inaccuracies and iteratively improve the agents' understanding of complex medical contexts.",
+        "Documented the entire multi-agent architecture, agent capabilities, and security protocols, creating runbooks that enabled the platform support team to manage and maintain the system independently."
+      ],
+      "environment": [
+        "Multi-agent systems",
+        "LangChain",
+        "Azure OpenAI Service",
+        "Azure Container Instances",
+        "HIPAA",
+        "Azure AI Search",
+        "Azure Machine Learning",
+        "Python",
+        "FastAPI",
+        "Docker",
+        "CI/CD",
+        "Azure Log Analytics",
+        "proof of concepts"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planned a predictive model deployment on AWS SageMaker to forecast public health resource demand across the state, focusing on simplicity and explainability for government stakeholders.",
+        "Built and trained regression models using scikit-learn on historical healthcare utilization data, ensuring all personally identifiable information was removed to comply with state and federal privacy laws.",
+        "Deployed the models as real-time endpoints on AWS SageMaker, creating a secure API layer with Amazon API Gateway and Lambda functions for internal applications to consume the predictions.",
+        "Monitored model performance and data drift using Amazon CloudWatch and SageMaker Model Monitor, setting up dashboards for the public health team to track forecast accuracy over time.",
+        "Optimized the inference pipeline by implementing batch transformations for non-urgent forecasts, reducing SageMaker endpoint costs while maintaining service level agreements for real-time queries.",
+        "Troubleshot a recurring issue where model predictions would spike incorrectly, ultimately tracing it to a bug in the feature engineering pipeline that mishandled holiday data patterns.",
+        "Planned the migration of an older on-premise epidemiological model to AWS, designing a containerized approach with ECS Fargate to avoid managing servers and to improve scalability.",
+        "Built data pipelines using AWS Glue to ingest and clean daily COVID-19 testing data from various county health departments, standardizing formats for model consumption.",
+        "Deployed a simple CI/CD pipeline using AWS CodePipeline to automate the testing and deployment of updates to the data preprocessing scripts, improving team productivity.",
+        "Monitored the ETL jobs for failures and data quality issues, creating alerting rules in CloudWatch to notify the team via SNS if any data source failed to update.",
+        "Optimized the cost of the AWS Glue jobs by adjusting the worker types and implementing job bookmarks to process only incremental data, staying within the project's budget.",
+        "Troubleshot data latency issues by reviewing VPC configurations and streamlining the data transfer process from secure government SFTP servers to S3 buckets."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "scikit-learn",
+        "AWS Glue",
+        "Amazon S3",
+        "Lambda",
+        "API Gateway",
+        "Amazon ECS",
+        "Fargate",
+        "CloudWatch",
+        "Python",
+        "Docker",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": " New York, New York.",
+      "responsibilities": [
+        "Planned a machine learning project to identify patterns indicative of potential financial compliance violations, working within a strictly controlled AWS environment designed for PCI-DSS data.",
+        "Built feature engineering pipelines using PySpark on AWS EMR to process large volumes of transaction data, creating aggregates and indicators for the downstream classification models.",
+        "Deployed a random forest model for initial transaction risk scoring using AWS SageMaker batch transform jobs, scheduling them to run nightly and output results to a secure Redshift cluster.",
+        "Monitored the model's false positive rate closely with the compliance team, holding weekly review sessions to adjust the classification threshold and reduce the burden on human investigators.",
+        "Optimized the PySpark jobs to run faster and more cost-effectively by experimenting with different EMR instance types and implementing better data partitioning strategies on S3.",
+        "Troubleshot a model performance drop by discovering that a key data source had changed its format; updated the ingestion script and retrained the model to restore accuracy.",
+        "Planned and executed A/B tests for a new customer segmentation model, designing the experiment to measure the impact on marketing campaign engagement within the online banking platform.",
+        "Built interactive dashboards in Tableau to visualize model outputs and key risk metrics for business stakeholders, making complex model behavior more interpretable for non-technical audiences.",
+        "Deployed a lightweight Flask application on an EC2 instance to provide a simple interface for compliance officers to query specific model scores and see the contributing factors.",
+        "Documented the entire modeling process, data lineage, and operational procedures to satisfy internal audit requirements and facilitate knowledge transfer within the team."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "EMR",
+        "PySpark",
+        "Amazon S3",
+        "Redshift",
+        "EC2",
+        "Tableau",
+        "Flask",
+        "Python",
+        "scikit-learn",
+        "PCI-DSS"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Learned to design and build batch ETL pipelines using Informatica PowerCenter to extract data from client source systems, transform it according to business rules, and load it into a centralized data warehouse.",
+        "Assisted in developing Sqoop scripts to move data between relational databases and the Hadoop Distributed File System (HDFS) as part of a larger data lake modernization project for a retail client.",
+        "Deployed and scheduled Informatica workflows to run overnight, monitoring their success each morning and investigating any failures by checking log files and verifying source data availability.",
+        "Monitored the performance of long-running Hive queries on the Hadoop cluster, working with senior engineers to suggest optimizations like partitioning and bucketing to improve execution times.",
+        "Optimized several slow-running Informatica mappings by revising the transformation logic and adjusting the session properties to use more efficient join types and sorting methods.",
+        "Troubleshot data quality issues in the target reports by tracing the problem back through the ETL layers, often finding discrepancies in source system extracts or misunderstandings of transformation rules.",
+        "Participated in requirement gathering meetings with business analysts, learning to translate vague business needs into concrete technical specifications for data integration and reporting.",
+        "Wrote basic SQL queries and shell scripts to automate routine data validation tasks, reducing the manual effort required for daily checks and improving the team's overall efficiency."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica PowerCenter",
+        "Sqoop",
+        "Hive",
+        "SQL",
+        "Shell Scripting",
+        "ETL",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

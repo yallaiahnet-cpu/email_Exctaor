@@ -1,0 +1,309 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Agentic AI & Multi-Agent Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Over ten years of experience in Insurance, Healthcare, Banking, and Consulting domains, now focusing on designing and implementing advanced Agentic AI systems and multi-agent orchestration pipelines using MCP Protocol and NLP to build intelligent virtual assistants.",
+    "Incorporate Azure Databricks and PySpark to design scalable data processing pipelines, enabling efficient data preparation for training large language models and fine-tuning them with techniques like PEFT and LoRA within the MLflow framework for consistent model management.",
+    "Apply LangGraph and CrewAI to construct multi-agent frameworks where specialized agents handle distinct tasks like intent recognition and SQL generation, facilitating complex workflows such as context-driven summarization for enterprise knowledge management.",
+    "Utilize Azure OpenAI services, including GPT-4, alongside Hugging Face models to develop sophisticated Q&A pipelines and knowledge-aware conversational agents capable of multi-step reasoning for accurate and contextually relevant responses in regulated domains.",
+    "Build RAG systems by integrating vector databases like Cosmos DB with Azure Cognitive Search, implementing retrieval fusion techniques to combine results from semantic search and knowledge graphs for improved answer accuracy and reduced hallucination.",
+    "Establish context persistence mechanisms within conversational agents using state management in LangGraph, allowing for coherent multi-turn dialogues that maintain user intent and previous interactions for a more human-like assistant experience.",
+    "Deploy fine-tuned LLMs and RAG pipelines on Azure Kubernetes Service (AKS), creating Docker containers that ensure portability and scalability while implementing CI/CD practices for automated testing and reliable updates to production systems.",
+    "Develop semantic search capabilities using embedding models from Azure OpenAI to convert unstructured enterprise documents into vectors, storing them in Milvus for fast retrieval and enabling precise answers from internal policy and regulatory documents.",
+    "Collaborate with data engineers to structure data within Delta Lake and Azure Data Lake, applying SQL for complex transformations to create clean, labeled datasets essential for training intent classification and entity recognition models.",
+    "Work with UX designers to translate user requirements into functional specifications for virtual assistants, focusing on creating intuitive interactions that leverage the assistant's NLP capabilities for tasks like form filling and information lookup.",
+    "Implement prompt-response logging across all AI interactions, storing logs in Cosmos DB for subsequent analysis to identify patterns, measure performance, and gather data for continuous prompt engineering and model improvement cycles.",
+    "Apply prompt engineering principles to carefully craft system and user prompts for multi-agent systems, instructing agents on their specific roles and the MCP Protocol for inter-agent communication to complete tasks like report generation.",
+    "Use Semantic Kernel to define and orchestrate AI plugins and native functions, allowing conversational agents to perform secure operations such as querying SQL databases or generating summaries while adhering to compliance boundaries.",
+    "Design evaluation metrics and feedback loops for RAG pipelines, working with product teams to define key performance indicators like answer relevance and citation accuracy, then using this data to iteratively optimize retrieval and generation components.",
+    "Create proof-of-concept systems to demonstrate the value of agentic AI for specific business cases, such as automating insurance claim triage with a multi-agent system that gathers information, assesses policy rules, and generates a summary for adjusters.",
+    "Participate in code reviews for AI pipeline components, providing feedback on the implementation of retrieval strategies, agent logic, and error handling to ensure code quality, maintainability, and alignment with responsible AI principles.",
+    "Set up observability for deployed AI agents using application monitoring tools, tracking metrics like latency, token usage, and error rates to quickly identify and troubleshoot issues in production, ensuring high system availability.",
+    "Follow responsible AI and data governance principles by implementing access controls via Unity Catalog in Databricks, ensuring that models and data used in healthcare and insurance applications comply with HIPAA and other regulatory standards."
+  ],
+  "technical_skills": {
+    "Agentic AI & Orchestration": [
+      "Agentic AI",
+      "Multi-agent frameworks",
+      "LangGraph",
+      "CrewAI",
+      "Semantic Kernel",
+      "AutoGen",
+      "MCP Protocol",
+      "Multi-agent orchestration",
+      "Agent communication"
+    ],
+    "Large Language Models": [
+      "Azure OpenAI (GPT-4)",
+      "LLM fine-tuning",
+      "PEFT",
+      "LoRA",
+      "Prompt engineering",
+      "Prompt-response logging",
+      "Context persistence",
+      "Multi-step reasoning"
+    ],
+    "NLP & Conversational AI": [
+      "NLP",
+      "Intent recognition",
+      "Knowledge-aware conversational agents",
+      "Q&A pipelines",
+      "Context-driven summarization",
+      "Hugging Face models",
+      "Transformers library"
+    ],
+    "Retrieval Systems": [
+      "RAG systems",
+      "RAG pipeline development",
+      "Semantic search",
+      "Vector databases (Milvus, CosmosDB vector search)",
+      "Embedding models",
+      "Retrieval fusion",
+      "Cognitive Search",
+      "Knowledge graphs"
+    ],
+    "Data & ML Platforms": [
+      "Azure Databricks",
+      "Databricks MLflow",
+      "Unity Catalog",
+      "Azure ML",
+      "Delta Lake",
+      "SQL generation",
+      "PySpark"
+    ],
+    "Cloud Services (Azure)": [
+      "Azure Data Lake",
+      "Cosmos DB",
+      "Azure Kubernetes Service (AKS)",
+      "Azure Cognitive Search"
+    ],
+    "Programming & Query Languages": [
+      "Python",
+      "SQL"
+    ],
+    "MLOps & Deployment": [
+      "MLflow integration",
+      "AKS deployment",
+      "CI/CD for AI pipelines",
+      "Containerization (Docker)",
+      "Observability & Monitoring"
+    ],
+    "Data Engineering": [
+      "Data preprocessing & ETL",
+      "Big Data processing"
+    ],
+    "Tools & Collaboration": [
+      "Version control (Git)"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Planning Phase: Currently outline the architecture for a multi-agent insurance claims assistant using LangGraph, defining agent roles for data gathering, policy validation, and report synthesis to meet strict state regulatory requirements.",
+        "Implementation Phase: Build the agent orchestration with CrewAI, integrating a specialized SQL generation agent that queries Azure Databricks Delta tables to pull customer policy details and claims history for accurate context.",
+        "Deployment Phase: Containerize the entire multi-agent system using Docker and deploy it on Azure Kubernetes Service (AKS), setting up Helm charts for managing different microservices like the RAG API and the agent coordinator.",
+        "Monitoring Phase: Establish comprehensive logging using MLflow to track every agent interaction and prompt, which helps our team audit decisions for compliance and identify inconsistent model responses for further tuning.",
+        "Optimization Phase: Experiment with different retrieval fusion strategies in our RAG pipeline, combining results from Cosmos DB vector search and a proprietary knowledge graph to improve answer precision for complex insurance queries.",
+        "Troubleshooting Phase: Diagnose a latency issue in the Q&A pipeline by analyzing Databricks Spark logs, discovering a bottleneck in the embedding generation step, and implementing a batch processing fix with PySpark UDFs.",
+        "Planning Phase: Design a proof of concept for a fraud detection agent that uses MCP Protocol to request data from other system agents, enabling collaborative reasoning over transaction patterns and historical claim data.",
+        "Implementation Phase: Develop a context persistence layer using Azure Cosmos DB to store conversation state, allowing our virtual assistant to maintain context across user sessions for ongoing policy inquiries and updates.",
+        "Deployment Phase: Configure CI/CD pipelines in Azure DevOps to automatically run unit tests on our LangGraph workflows and integration tests on the RAG system before any deployment to a staging AKS cluster.",
+        "Monitoring Phase: Set up dashboards to monitor the performance of fine-tuned GPT-4 models, tracking metrics like hallucination rate and compliance adherence specifically for insurance terminology and regulation summaries.",
+        "Optimization Phase: Apply LoRA fine-tuning to a Hugging Face model on a curated dataset of insurance documents, improving its performance on intent recognition for customer service dialogues while reducing training costs.",
+        "Troubleshooting Phase: Fix a bug where the semantic search agent was returning irrelevant documents by adjusting the chunking strategy and re-indexing the source documents in Azure Cognitive Search with better metadata.",
+        "Planning Phase: Coordinate with the data engineering team to plan the ingestion of new insurance product guides into our knowledge base, specifying the ETL pipeline in Azure Data Factory to populate Delta Lake tables.",
+        "Implementation Phase: Write PySpark scripts to clean and structure unstructured claim notes, creating a high-quality dataset used to train a custom model for context-driven summarization within the claims processing workflow.",
+        "Deployment Phase: Manage the rolling update of a new agent version in AKS, carefully monitoring error rates and rollback metrics to ensure the update does not disrupt the live virtual assistant handling customer calls.",
+        "Optimization Phase: Refactor prompt templates for the multi-agent system based on logged interactions, simplifying instructions for the research agent to reduce token usage and speed up the overall claim assessment time."
+      ],
+      "environment": [
+        "LangGraph",
+        "CrewAI",
+        "MCP Protocol",
+        "Multi-agent systems",
+        "Azure Databricks",
+        "PySpark",
+        "Azure OpenAI",
+        "GPT-4",
+        "RAG",
+        "Cosmos DB",
+        "Vector Search",
+        "Delta Lake",
+        "SQL",
+        "Docker",
+        "AKS",
+        "MLflow",
+        "CI/CD",
+        "Prompt Engineering",
+        "LoRA",
+        "Hugging Face",
+        "Semantic Search",
+        "Azure Data Lake",
+        "Unity Catalog"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planning Phase: Defined the architecture for a HIPAA-compliant virtual healthcare assistant using a multi-agent framework, specifying agents for patient intent recognition, medical literature retrieval, and safe response generation.",
+        "Implementation Phase: Constructed the agent orchestration with LangChain and LangGraph, creating a dedicated agent that used Azure Cognitive Search to retrieve relevant information from a secured database of clinical trial protocols.",
+        "Deployment Phase: Packaged the conversational AI application into Docker containers and managed its deployment on Azure App Services, implementing strict network policies to protect patient data as per healthcare regulations.",
+        "Monitoring Phase: Established a monitoring suite to track the assistant's performance, logging all queries and responses to an encrypted Azure SQL database for regular audits to ensure adherence to HIPAA guidelines.",
+        "Optimization Phase: Improved the accuracy of the medical Q&A pipeline by implementing a hybrid retrieval system that combined keyword search with vector similarity from a fine-tuned BioBERT embedding model hosted on Azure ML.",
+        "Troubleshooting Phase: Investigated an issue where the agent failed to handle drug interaction queries; traced it to a missing context window in the LangGraph state and corrected the agent's memory persistence logic.",
+        "Planning Phase: Collaborated with pharmacovigilance experts to design a proof of concept for an agent that could summarize adverse event reports, outlining the multi-step reasoning required to extract and correlate key entities.",
+        "Implementation Phase: Developed a knowledge-aware agent using Azure OpenAI that could read and summarize complex medical device documentation, maintaining context across lengthy documents for accurate technical support responses.",
+        "Deployment Phase: Utilized Azure Databricks notebooks to run the training pipelines for intent classification models, logging all experiments to MLflow and registering the best-performing model for deployment via an AKS endpoint.",
+        "Monitoring Phase: Regularly reviewed prompt-response logs to identify potential biases in the assistant's answers related to patient demographics, using these insights to refine the training data and prompt guidelines.",
+        "Optimization Phase: Fine-tuned a smaller, open-source LLM from Hugging Face for the task of medical abbreviation expansion, significantly reducing latency and cost compared to using a larger general-purpose model for this specific task.",
+        "Troubleshooting Phase: Solved a data leakage problem in the RAG pipeline where test set documents appeared in the training index by implementing a rigorous data segregation process using Unity Catalog in Databricks.",
+        "Planning Phase: Worked with UX researchers to plan new conversation flows for the assistant, translating user journey maps into technical specifications for new agent skills like appointment scheduling and prescription refill status.",
+        "Implementation Phase: Built a custom tool for the LangChain agent that allowed it to execute safe, parameterized SQL queries against a de-identified patient database to answer general questions about treatment protocols."
+      ],
+      "environment": [
+        "LangGraph",
+        "LangChain",
+        "Multi-agent systems",
+        "Azure Databricks",
+        "Azure OpenAI",
+        "RAG",
+        "HIPAA",
+        "Azure Cognitive Search",
+        "Docker",
+        "Azure App Services",
+        "Azure ML",
+        "MLflow",
+        "Hugging Face models",
+        "SQL",
+        "Prompt Engineering",
+        "LLM Fine-tuning",
+        "Unity Catalog",
+        "PySpark"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planning Phase: Designed a system to categorize and route public health inquiries for a state-wide portal, selecting AWS Comprehend for its built-in entity recognition to handle PHI securely within HIPAA guidelines.",
+        "Implementation Phase: Built data pipelines using AWS Glue to ingest and anonymize public health survey data stored in S3, transforming it into a format suitable for training a custom text classification model in SageMaker.",
+        "Deployment Phase: Deployed the trained model as a real-time endpoint on Amazon SageMaker, creating a secure API gateway so that the front-end application could submit citizen questions and receive predicted categories.",
+        "Monitoring Phase: Configured Amazon CloudWatch alarms to monitor the SageMaker endpoint's latency and error rate, ensuring the public-facing health portal remained responsive during peak usage times like flu season.",
+        "Optimization Phase: Improved the model's accuracy on rarely seen inquiry types by implementing a data augmentation strategy, synthetically generating new training examples to create a more robust classifier.",
+        "Troubleshooting Phase: Diagnosed intermittent timeouts in the prediction API by examining VPC flow logs, discovering a network configuration issue between the application subnet and the SageMaker endpoint's VPC configuration.",
+        "Planning Phase: Collaborated with epidemiologists to plan a data visualization tool that could summarize infection trends, deciding to use AWS QuickSight to create dashboards fed by processed data from the Lake Formation catalog.",
+        "Implementation Phase: Developed ETL scripts in Python to process unstructured clinical notes, extracting key terms and geolocation data to populate a Redshift database used for tracking disease spread patterns.",
+        "Deployment Phase: Used AWS Lambda functions and Step Functions to orchestrate the daily batch inference pipeline, which processed new inquiries overnight and updated the routing database for the next business day.",
+        "Monitoring Phase: Conducted weekly reviews of the classification model's performance on a held-out test set, tracking metrics like precision and recall to catch any model drift caused by changing public health concerns.",
+        "Optimization Phase: Reduced the model's size and inference cost by applying pruning techniques, allowing it to run on a smaller instance type in SageMaker without a significant drop in categorization accuracy.",
+        "Troubleshooting Phase: Fixed a data quality issue where encoding errors in submitted forms caused processing failures, writing a preprocessing function to clean and standardize text input before feeding it to the model."
+      ],
+      "environment": [
+        "AWS SageMaker",
+        "AWS Glue",
+        "Amazon S3",
+        "AWS Lambda",
+        "Amazon Redshift",
+        "AWS Comprehend",
+        "Python",
+        "SQL",
+        "HIPAA",
+        "ETL",
+        "Data Preprocessing",
+        "CloudWatch",
+        "VPC",
+        "QuickSight",
+        "Step Functions"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planning Phase: Proposed a machine learning model to detect anomalous patterns in credit card transaction data, ensuring the design complied with PCI-DSS standards by keeping raw card numbers encrypted and access logged.",
+        "Implementation Phase: Developed feature engineering pipelines using PySpark on an AWS EMR cluster, creating aggregates like transaction frequency and average amount from historical data stored in Parquet files on S3.",
+        "Deployment Phase: Served the trained isolation forest model as a batch scoring job, scheduling it with Apache Airflow to run nightly and flag suspicious transactions for review by the bank's fraud investigation team.",
+        "Monitoring Phase: Tracked the model's false positive rate weekly by comparing its alerts against confirmed fraud cases, adjusting the anomaly threshold parameter to maintain an optimal balance between detection and investigator workload.",
+        "Optimization Phase: Enhanced the model's feature set by incorporating customer behavioral segments derived from K-means clustering, which helped reduce false alarms for customers with unusual but legitimate spending habits.",
+        "Troubleshooting Phase: Resolved a data skew issue in the training dataset where legitimate transactions vastly outnumbered fraud cases by applying SMOTE oversampling techniques to create a more balanced training set.",
+        "Planning Phase: Designed an A/B test framework to evaluate a new model for predicting customer loan default risk, working with business analysts to define the key success metrics and the required sample size.",
+        "Implementation Phase: Built the challenger model using XGBoost in Python, training it on a dataset of customer demographics and financial history extracted from the bank's Oracle data warehouse via secure SQL queries.",
+        "Deployment Phase: Integrated the model's prediction score into the existing loan application processing system via a REST API built with Flask and deployed on EC2 instances behind an Application Load Balancer.",
+        "Optimization Phase: Refactored the model training code to use more efficient data types in Pandas, cutting the monthly retraining job's runtime significantly and allowing for more frequent model updates."
+      ],
+      "environment": [
+        "AWS EMR",
+        "PySpark",
+        "Amazon S3",
+        "Apache Airflow",
+        "Python",
+        "XGBoost",
+        "PCI-DSS",
+        "SQL",
+        "Oracle",
+        "Flask",
+        "EC2",
+        "SMOTE",
+        "K-means",
+        "REST API",
+        "Parquet"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planning Phase: Learned to design ETL workflows for a client's sales data consolidation project, mapping source fields from multiple CRM systems to a unified schema in the target data warehouse.",
+        "Implementation Phase: Wrote Informatica mappings to extract data from Oracle and SQL Server databases, applying transformations like data cleansing and deduplication before loading it into a Netezza appliance.",
+        "Deployment Phase: Scheduled the Informatica workflows using the built-in scheduler, monitoring the daily job runs to ensure all sales regions' data was loaded completely and on time for morning reporting.",
+        "Monitoring Phase: Checked job logs each morning for any failures, often finding issues like source file format changes or network timeouts, and worked with the database team to restart or fix the stalled workflows.",
+        "Optimization Phase: Suggested improving performance of a slow lookup transformation in Informatica by replacing it with a SQL join executed directly in the database, which reduced the job's runtime.",
+        "Troubleshooting Phase: Assisted a senior engineer in debugging a data accuracy issue, tracing it back to an incorrect filter condition in a Source Qualifier transformation and correcting the SQL override.",
+        "Planning Phase: Participated in meetings to understand requirements for ingesting log files from web servers, helping decide to use Sqoop for database data and Flume for the semi-structured log files into HDFS.",
+        "Implementation Phase: Developed simple Hadoop MapReduce jobs in Java to parse the ingested web logs, counting page views by user session as part of a basic web analytics proof of concept for the client."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Oracle",
+        "SQL Server",
+        "Netezza",
+        "ETL",
+        "Data Warehousing",
+        "MapReduce",
+        "Java",
+        "HDFS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

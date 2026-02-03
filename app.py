@@ -47,6 +47,7 @@ email_sender = EmailSender(
 )
 
 EMAIL_ARCHIVE_PATH = os.path.join(os.getcwd(), 'sent_emails.json')
+OTTER_LINKS_PATH = os.path.join(os.getcwd(), 'otter_links.json')
 
 
 def _normalise_recipient_list(value: str) -> list:
@@ -167,27 +168,354 @@ def job_scraper():
 def project_summary_prompt():
     return render_template('project_summary_prompt.html')
 
+@app.route('/salesforce_prompt_generator')
+def salesforce_prompt_generator():
+    return render_template('salesforcedeveloper.html')
+
+@app.route('/salesforce_prompt_generator_role_change')
+def salesforce_prompt_generator_role_change():
+    return render_template('salesforcedeveloper_role_change.html')
+
 @app.route('/sent_emails_viewer')
 def sent_emails_viewer():
     return render_template('sent_emails_viewer.html')
 
+@app.route('/otter_link')
+def otter_link():
+    """Render the Otter.ai links management page"""
+    return render_template('otter_link.html')
+
 @app.route('/sent_emails_data', methods=['GET'])
 def sent_emails_data():
-    """Return sent emails data from JSON archive"""
+    """Return sent emails data from JSON archive with pagination support"""
     try:
-        if not os.path.exists(EMAIL_ARCHIVE_PATH):
-            return jsonify({'emails': []}), 200
+        # Get pagination parameters
+        page = int(request.args.get('page', 1))
+        per_page = int(request.args.get('per_page', 25))
+        search_term = request.args.get('search', '').strip().lower()
         
+        if not os.path.exists(EMAIL_ARCHIVE_PATH):
+            return jsonify({
+                'emails': [],
+                'total': 0,
+                'page': page,
+                'per_page': per_page,
+                'total_pages': 0,
+                'has_more': False
+            }), 200
+        
+        # Read file in chunks to avoid loading all into memory at once
         with open(EMAIL_ARCHIVE_PATH, 'r', encoding='utf-8') as f:
             emails = json.load(f)
         
         if not isinstance(emails, list):
             emails = []
         
-        return jsonify({'emails': emails}), 200
+        # Sort by timestamp (latest first) - do this once
+        emails.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
+        
+        # Apply search filter if provided
+        if search_term:
+            filtered_emails = []
+            for email in emails:
+                name = (email.get('name', '') or '').lower()
+                to_email = (email.get('to_email', '') or '').lower()
+                from_email = (email.get('from_email', '') or '').lower()
+                subject = (email.get('subject', '') or '').lower()
+                phone = (email.get('phone', '') or '').lower()
+                body = (email.get('body', '') or '').lower()
+                comment = (email.get('comment', '') or '').lower()
+                
+                if (search_term in name or search_term in to_email or 
+                    search_term in from_email or search_term in subject or 
+                    search_term in phone or search_term in body or 
+                    search_term in comment):
+                    filtered_emails.append(email)
+            emails = filtered_emails
+        
+        # Calculate pagination
+        total = len(emails)
+        total_pages = (total + per_page - 1) // per_page  # Ceiling division
+        start_index = (page - 1) * per_page
+        end_index = start_index + per_page
+        
+        # Get only the emails for this page
+        paginated_emails = emails[start_index:end_index]
+        
+        return jsonify({
+            'emails': paginated_emails,
+            'total': total,
+            'page': page,
+            'per_page': per_page,
+            'total_pages': total_pages,
+            'has_more': end_index < total
+        }), 200
     except Exception as e:
         print(f"❌ Error reading sent emails: {e}")
+        import traceback
+        traceback.print_exc()
         return jsonify({'error': str(e), 'emails': []}), 500
+
+@app.route('/sent_emails_stats', methods=['GET'])
+def sent_emails_stats():
+    """Return statistics about sent emails without loading all data"""
+    try:
+        if not os.path.exists(EMAIL_ARCHIVE_PATH):
+            return jsonify({
+                'total': 0,
+                'with_resume': 0,
+                'with_phone': 0
+            }), 200
+        
+        # Read and count without loading full data
+        total = 0
+        with_resume = 0
+        with_phone = 0
+        
+        with open(EMAIL_ARCHIVE_PATH, 'r', encoding='utf-8') as f:
+            emails = json.load(f)
+        
+        if isinstance(emails, list):
+            total = len(emails)
+            for email in emails:
+                if email.get('resume_attached'):
+                    with_resume += 1
+                if email.get('phone') and email.get('phone', '').strip():
+                    with_phone += 1
+        
+        return jsonify({
+            'total': total,
+            'with_resume': with_resume,
+            'with_phone': with_phone
+        }), 200
+    except Exception as e:
+        print(f"❌ Error reading email stats: {e}")
+        return jsonify({
+            'total': 0,
+            'with_resume': 0,
+            'with_phone': 0
+        }), 200
+
+@app.route('/save_email_comment', methods=['POST'])
+def save_email_comment():
+    """Save comment for a specific email entry"""
+    try:
+        import base64
+        
+        data = request.get_json()
+        email_id_encoded = data.get('email_id', '')
+        comment = data.get('comment', '').strip()
+        
+        if not email_id_encoded:
+            return jsonify({'success': False, 'error': 'Email ID is required'}), 400
+        
+        # Decode email_id (format: base64(timestamp|||to_email|||from_email))
+        try:
+            email_id_decoded = base64.b64decode(email_id_encoded).decode('utf-8')
+            parts = email_id_decoded.split('|||')
+            if len(parts) < 3:
+                return jsonify({'success': False, 'error': 'Invalid email ID format'}), 400
+            
+            timestamp = parts[0]
+            to_email = parts[1]
+            from_email = parts[2]
+        except Exception as decode_error:
+            print(f"❌ Error decoding email ID: {decode_error}")
+            return jsonify({'success': False, 'error': 'Invalid email ID encoding'}), 400
+        
+        if not os.path.exists(EMAIL_ARCHIVE_PATH):
+            return jsonify({'success': False, 'error': 'Email archive not found'}), 404
+        
+        # Load existing emails
+        with open(EMAIL_ARCHIVE_PATH, 'r', encoding='utf-8') as f:
+            emails = json.load(f)
+        
+        if not isinstance(emails, list):
+            emails = []
+        
+        # Find matching email entry
+        found = False
+        for email in emails:
+            email_timestamp = email.get('timestamp', '')
+            email_to = email.get('to_email', '')
+            email_from = email.get('from_email', '')
+            
+            # Match by timestamp, to_email, and from_email
+            if (email_timestamp == timestamp and 
+                email_to == to_email and 
+                email_from == from_email):
+                # Update comment
+                email['comment'] = comment
+                found = True
+                break
+        
+        if not found:
+            return jsonify({'success': False, 'error': 'Email entry not found'}), 404
+        
+        # Save updated emails back to file
+        with open(EMAIL_ARCHIVE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(emails, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Comment saved for email: {to_email} (timestamp: {timestamp})")
+        return jsonify({'success': True}), 200
+        
+    except Exception as e:
+        print(f"❌ Error saving comment: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/otter_links_data', methods=['GET'])
+def otter_links_data():
+    """Return all Otter.ai links data"""
+    try:
+        if not os.path.exists(OTTER_LINKS_PATH):
+            return jsonify({'links': []}), 200
+        
+        with open(OTTER_LINKS_PATH, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        links = data.get('links', []) if isinstance(data, dict) else (data if isinstance(data, list) else [])
+        
+        # Ensure each link has an id
+        for i, link in enumerate(links):
+            if 'id' not in link:
+                link['id'] = i + 1
+        
+        return jsonify({'links': links}), 200
+    except Exception as e:
+        print(f"❌ Error reading Otter links: {e}")
+        return jsonify({'error': str(e), 'links': []}), 500
+
+@app.route('/add_otter_link', methods=['POST'])
+def add_otter_link():
+    """Add a new Otter.ai link"""
+    try:
+        data = request.get_json()
+        url = data.get('url', '').strip()
+        comment = data.get('comment', '').strip()
+        
+        if not url:
+            return jsonify({'success': False, 'error': 'URL is required'}), 400
+        
+        # Load existing links
+        links = []
+        if os.path.exists(OTTER_LINKS_PATH):
+            with open(OTTER_LINKS_PATH, 'r', encoding='utf-8') as f:
+                file_data = json.load(f)
+                links = file_data.get('links', []) if isinstance(file_data, dict) else (file_data if isinstance(file_data, list) else [])
+        
+        # Generate new ID
+        new_id = max([link.get('id', 0) for link in links] + [0]) + 1
+        
+        # Add new link
+        new_link = {
+            'id': new_id,
+            'url': url,
+            'comment': comment,
+            'created_at': datetime.utcnow().isoformat()
+        }
+        links.append(new_link)
+        
+        # Save back to file
+        with open(OTTER_LINKS_PATH, 'w', encoding='utf-8') as f:
+            json.dump({'links': links}, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Otter link added: {url}")
+        return jsonify({'success': True, 'link': new_link}), 200
+        
+    except Exception as e:
+        print(f"❌ Error adding Otter link: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/save_otter_link', methods=['POST'])
+def save_otter_link():
+    """Update an existing Otter.ai link"""
+    try:
+        data = request.get_json()
+        link_id = data.get('id')
+        url = data.get('url', '').strip()
+        comment = data.get('comment', '').strip()
+        
+        if not link_id:
+            return jsonify({'success': False, 'error': 'Link ID is required'}), 400
+        
+        if not url:
+            return jsonify({'success': False, 'error': 'URL is required'}), 400
+        
+        if not os.path.exists(OTTER_LINKS_PATH):
+            return jsonify({'success': False, 'error': 'Links file not found'}), 404
+        
+        # Load existing links
+        with open(OTTER_LINKS_PATH, 'r', encoding='utf-8') as f:
+            file_data = json.load(f)
+            links = file_data.get('links', []) if isinstance(file_data, dict) else (file_data if isinstance(file_data, list) else [])
+        
+        # Find and update link
+        found = False
+        for link in links:
+            if link.get('id') == link_id:
+                link['url'] = url
+                link['comment'] = comment
+                link['updated_at'] = datetime.utcnow().isoformat()
+                found = True
+                break
+        
+        if not found:
+            return jsonify({'success': False, 'error': 'Link not found'}), 404
+        
+        # Save back to file
+        with open(OTTER_LINKS_PATH, 'w', encoding='utf-8') as f:
+            json.dump({'links': links}, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Otter link updated: ID {link_id}")
+        return jsonify({'success': True}), 200
+        
+    except Exception as e:
+        print(f"❌ Error saving Otter link: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/delete_otter_link', methods=['POST'])
+def delete_otter_link():
+    """Delete an Otter.ai link"""
+    try:
+        data = request.get_json()
+        link_id = data.get('id')
+        
+        if not link_id:
+            return jsonify({'success': False, 'error': 'Link ID is required'}), 400
+        
+        if not os.path.exists(OTTER_LINKS_PATH):
+            return jsonify({'success': False, 'error': 'Links file not found'}), 404
+        
+        # Load existing links
+        with open(OTTER_LINKS_PATH, 'r', encoding='utf-8') as f:
+            file_data = json.load(f)
+            links = file_data.get('links', []) if isinstance(file_data, dict) else (file_data if isinstance(file_data, list) else [])
+        
+        # Remove link
+        original_count = len(links)
+        links = [link for link in links if link.get('id') != link_id]
+        
+        if len(links) == original_count:
+            return jsonify({'success': False, 'error': 'Link not found'}), 404
+        
+        # Save back to file
+        with open(OTTER_LINKS_PATH, 'w', encoding='utf-8') as f:
+            json.dump({'links': links}, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Otter link deleted: ID {link_id}")
+        return jsonify({'success': True}), 200
+        
+    except Exception as e:
+        print(f"❌ Error deleting Otter link: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'success': False, 'error': str(e)}), 500
 
 @app.route('/extract_docx_text', methods=['POST'])
 def extract_docx_text():
@@ -1047,6 +1375,104 @@ def send_email():
                 pass
         if hasattr(email_sender, '_original_filename'):
             delattr(email_sender, '_original_filename')
+
+@app.route('/extract_jd', methods=['POST'])
+def extract_jd():
+    """Extract job details from job description using AI"""
+    try:
+        data = request.get_json()
+        job_description = data.get('job_description', '').strip()
+        
+        if not job_description:
+            return jsonify({'error': 'Job description is required'}), 400
+        
+        # Use ResumeOptimizer or create a simple extraction
+        try:
+            from langchain_groq import ChatGroq
+            from langchain_core.messages import HumanMessage, SystemMessage
+            
+            groq_key = os.getenv("GROQ_API_KEY")
+            if groq_key:
+                groq_model = ChatGroq(
+                    model="llama-3.1-8b-instant",
+                    temperature=0.7,
+                    api_key=groq_key
+                )
+                
+                system_prompt = """You are an expert job description analyzer. Extract the following information from the job description in JSON format:
+{
+  "recruiter_name": "Name of recruiter or hiring manager if mentioned",
+  "company_name": "Company name",
+  "location": "Job location (city, state, country)",
+  "key_focus": "Key technologies/skills mentioned (comma-separated)",
+  "linkedin_note": "Generate a professional LinkedIn connection note mentioning: years of experience (assume 10+), key skills from JD, and phone number: 9733271133. Keep it brief and professional."
+}
+
+Only return valid JSON, no additional text."""
+
+                messages = [
+                    SystemMessage(content=system_prompt),
+                    HumanMessage(content=f"Job Description:\n\n{job_description}")
+                ]
+                
+                response = groq_model.invoke(messages)
+                result_text = response.content.strip()
+                
+                # Try to extract JSON from response
+                import json
+                json_match = re.search(r'\{[^}]+\}', result_text, re.DOTALL)
+                if json_match:
+                    extracted_data = json.loads(json_match.group())
+                    
+                    # Ensure all fields exist
+                    result = {
+                        'recruiter_name': extracted_data.get('recruiter_name', ''),
+                        'company_name': extracted_data.get('company_name', ''),
+                        'location': extracted_data.get('location', ''),
+                        'key_focus': extracted_data.get('key_focus', ''),
+                        'linkedin_note': extracted_data.get('linkedin_note', '')
+                    }
+                    
+                    print(f"✅ JD extracted: {result['company_name']}")
+                    return jsonify(result), 200
+                
+        except Exception as ai_error:
+            print(f"⚠️ AI extraction failed: {ai_error}, using fallback")
+        
+        # Fallback: Simple regex extraction
+        recruiter_match = re.search(r'(?:Recruiter|Contact|Hiring Manager)[:\s]+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)', job_description, re.IGNORECASE)
+        company_match = re.search(r'(?:Company|Organization)[:\s]+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*(?:\s+(?:LLC|Inc|Corp|Tech|Solutions|LLC))?)', job_description, re.IGNORECASE) or \
+                       re.search(r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Pro Tech|LLC|Inc|Solutions|LLC))', job_description)
+        location_match = re.search(r'(?:Location|City)[:\s]+([A-Z][a-z]+(?:,\s*[A-Z]{2})?(?:\s+US)?)', job_description, re.IGNORECASE) or \
+                         re.search(r'([A-Z][a-z]+,\s*[A-Z]{2}(?:\s+US)?)', job_description)
+        
+        # Extract skills/key focus
+        skills_keywords = ['Python', 'AI', 'ML', 'Spark', 'PySpark', 'Databricks', 'GenAI', 'RAG', 'MCP', 'Copilot']
+        found_skills = [skill for skill in skills_keywords if skill.lower() in job_description.lower()]
+        
+        recruiter_name = recruiter_match.group(1) if recruiter_match else ''
+        company_name = company_match.group(1) if company_match else ''
+        location = location_match.group(1) if location_match else ''
+        key_focus = ', '.join(found_skills) if found_skills else 'Python, AI/ML, Spark, Databricks'
+        
+        # Generate basic LinkedIn note
+        linkedin_note = f"Hi {recruiter_name or '[Name]'}, I'm an AI Engineer with 11 years of experience. I specialize in building production AI/ML solutions using {key_focus}. Reach me: 9733271133."
+        
+        result = {
+            'recruiter_name': recruiter_name,
+            'company_name': company_name,
+            'location': location,
+            'key_focus': key_focus,
+            'linkedin_note': linkedin_note
+        }
+        
+        return jsonify(result), 200
+        
+    except Exception as e:
+        print(f"❌ Error extracting JD: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5002)

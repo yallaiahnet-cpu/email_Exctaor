@@ -1,0 +1,336 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior Python Developer (AI & Conversational Systems)",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Python to build scalable backend systems for AI chatbots, ensuring reliability and compliance with HIPAA regulations in healthcare projects.",
+    "Integrated large language models (LLMs) into production systems, focusing on prompt design and context management for conversational AI.",
+    "Implemented retrieval-augmented generation (RAG) pipelines to enhance chatbot responses using LangChain and Llama Index.",
+    "Developed AI agents and tool/function calling mechanisms to improve chatbot functionality and user interaction.",
+    "Ensured chatbot safety and compliance through moderation, guardrails, and abuse prevention strategies.",
+    "Set up monitoring, logging, and alerting systems using AWS CloudWatch to support production reliability.",
+    "Led code reviews and enforced best practices to maintain high engineering standards across teams.",
+    "Contributed to CI/CD pipelines using GitHub Actions for seamless cloud deployments on AWS.",
+    "Evaluated and adopted new AI technologies like Claude AI and OpenAI APIs to enhance system capabilities.",
+    "Collaborated with cross-functional teams to deliver high-quality code in a fast-paced environment.",
+    "Designed and implemented conversational systems for insurance claim processing, improving customer engagement.",
+    "Worked with healthcare data, ensuring compliance with GDPR and HIPAA regulations in AI-driven systems.",
+    "Built RAG pipelines using OpenAI APIs to enhance data retrieval in banking fraud detection systems.",
+    "Integrated LLMs into consulting projects to automate client interaction and improve response accuracy.",
+    "Used Docker and Kubernetes to containerize and orchestrate AI applications for scalability.",
+    "Implemented abuse prevention mechanisms in public-facing chatbots to ensure user safety.",
+    "Proactively communicated risks and collaborated with teams to resolve issues in production systems.",
+    "Adopted architectural improvements to support long-term scalability of AI-driven applications."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Built a scalable Python backend for an AI chatbot using Flask and integrated LLMs for insurance claim processing, ensuring HIPAA compliance.",
+        "Implemented RAG pipelines with LangChain to enhance chatbot responses, improving customer engagement.",
+        "Used AWS SageMaker to deploy and manage LLMs, focusing on prompt design and context management.",
+        "Set up monitoring and alerting systems using AWS CloudWatch to ensure production reliability.",
+        "Collaborated with teams to enforce code review best practices and maintain high engineering standards.",
+        "Contributed to CI/CD pipelines using GitHub Actions for seamless cloud deployments on AWS.",
+        "Evaluated and adopted new AI technologies like Claude AI to enhance system capabilities.",
+        "Implemented abuse prevention mechanisms to ensure chatbot safety and compliance.",
+        "Worked with Docker and Kubernetes to containerize and orchestrate AI applications for scalability.",
+        "Proactively communicated risks and collaborated with teams to resolve production issues.",
+        "Designed conversational systems to automate client interactions, reducing response times.",
+        "Integrated OpenAI APIs for tool/function calling in chatbot systems, improving functionality.",
+        "Ensured compliance with GDPR regulations in AI-driven systems for healthcare data.",
+        "Built RAG pipelines using OpenAI APIs to enhance data retrieval in fraud detection systems.",
+        "Used Apache Kafka for real-time data streaming in chatbot systems, improving response accuracy.",
+        "Adopted architectural improvements to support long-term scalability of AI applications."
+      ],
+      "environment": [
+        "Python, Flask, AWS (SageMaker, CloudWatch, S3), LangChain, Docker, Kubernetes, GitHub Actions, OpenAI APIs, Apache Kafka"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Developed Python backend systems for healthcare chatbots, ensuring compliance with HIPAA regulations.",
+        "Integrated LLMs into production systems, focusing on prompt design and context management.",
+        "Implemented RAG pipelines using Llama Index to enhance chatbot responses for patient queries.",
+        "Set up monitoring and logging systems using AWS CloudWatch to support production reliability.",
+        "Led code reviews and enforced best practices to maintain high engineering standards.",
+        "Contributed to CI/CD pipelines using GitHub Actions for cloud deployments on AWS.",
+        "Evaluated and adopted new AI technologies like Hugging Face Transformers for NLP tasks.",
+        "Collaborated with cross-functional teams to deliver high-quality code in a fast-paced environment.",
+        "Implemented moderation and guardrails to ensure chatbot safety and compliance.",
+        "Used Docker to containerize AI applications, improving deployment efficiency.",
+        "Worked with Apache Airflow to orchestrate data pipelines for chatbot training data.",
+        "Integrated Claude AI for advanced conversational capabilities in healthcare chatbots.",
+        "Ensured compliance with GDPR regulations in AI-driven systems for patient data.",
+        "Built RAG pipelines using OpenAI APIs to enhance data retrieval in healthcare applications."
+      ],
+      "environment": [
+        "Python, AWS (SageMaker, CloudWatch, S3), Hugging Face Transformers, Llama Index, Docker, GitHub Actions, Apache Airflow, Claude AI"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Developed Python backend systems for government chatbots, ensuring compliance with data regulations.",
+        "Integrated LLMs into production systems, focusing on prompt design and context management.",
+        "Implemented RAG pipelines using LangChain to enhance chatbot responses for citizen queries.",
+        "Set up monitoring and alerting systems using GCP Cloud Monitoring to ensure reliability.",
+        "Collaborated with teams to enforce code review best practices and maintain high standards.",
+        "Contributed to CI/CD pipelines using GitHub Actions for cloud deployments on GCP.",
+        "Evaluated and adopted new AI technologies like OpenAI APIs for conversational systems.",
+        "Implemented moderation and guardrails to ensure chatbot safety and compliance.",
+        "Used Docker and Kubernetes to containerize and orchestrate AI applications.",
+        "Worked with Apache Kafka for real-time data streaming in chatbot systems.",
+        "Integrated Claude AI for advanced conversational capabilities in government chatbots.",
+        "Ensured compliance with data regulations in AI-driven systems for citizen data.",
+        "Built RAG pipelines using OpenAI APIs to enhance data retrieval in government applications."
+      ],
+      "environment": [
+        "Python, GCP (Big Query, Cloud Monitoring), LangChain, Docker, Kubernetes, GitHub Actions, OpenAI APIs, Apache Kafka, Claude AI"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Developed Python scripts for banking fraud detection using machine learning models.",
+        "Integrated LLMs into fraud detection systems to improve anomaly detection.",
+        "Implemented RAG pipelines using OpenAI APIs to enhance data retrieval for fraud analysis.",
+        "Set up monitoring and alerting systems using Azure Monitor to ensure reliability.",
+        "Collaborated with teams to enforce code review best practices and maintain high standards.",
+        "Contributed to CI/CD pipelines using Azure DevOps for cloud deployments on Azure.",
+        "Evaluated and adopted new AI technologies like TensorFlow for fraud detection models.",
+        "Implemented moderation and guardrails to ensure system safety and compliance.",
+        "Used Docker to containerize fraud detection applications, improving deployment efficiency.",
+        "Worked with Apache Spark for large-scale data processing in fraud detection systems.",
+        "Integrated Claude AI for advanced anomaly detection in banking applications.",
+        "Ensured compliance with PCI regulations in AI-driven systems for financial data."
+      ],
+      "environment": [
+        "Python, Azure (ML Studio, Monitor), TensorFlow, Docker, Azure DevOps, OpenAI APIs, Apache Spark, Claude AI"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Developed Python scripts for data processing and ETL pipelines using Apache Airflow.",
+        "Integrated LLMs into data processing systems to improve data quality and insights.",
+        "Implemented RAG pipelines using OpenAI APIs to enhance data retrieval for analytics.",
+        "Set up monitoring and alerting systems using Azure Monitor to ensure reliability.",
+        "Collaborated with teams to enforce code review best practices and maintain high standards.",
+        "Contributed to CI/CD pipelines using Azure DevOps for cloud deployments on Azure.",
+        "Evaluated and adopted new AI technologies like Scikit-Learn for data processing tasks.",
+        "Implemented moderation and guardrails to ensure system safety and compliance.",
+        "Used Docker to containerize data processing applications, improving deployment efficiency.",
+        "Worked with Apache Spark for large-scale data processing in analytics systems.",
+        "Integrated Claude AI for advanced data insights in consulting projects.",
+        "Ensured compliance with data regulations in AI-driven systems for client data."
+      ],
+      "environment": [
+        "Python, Azure (Data Factory, Monitor), Apache Airflow, Docker, Azure DevOps, OpenAI APIs, Apache Spark, Claude AI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

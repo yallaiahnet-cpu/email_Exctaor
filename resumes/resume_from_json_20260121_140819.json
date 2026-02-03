@@ -1,0 +1,396 @@
+{
+  "personal_info": {
+    "name": "Yallaiah Onteru",
+    "title": "Senior Agentic AI Lead Developer | AWS Data Engineer | GenAI & MLOps Specialist",
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "location": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building scalable AI systems, cloud data platforms, and enterprise automation solutions across Insurance, Healthcare, Banking, and Consulting domains with AWS and Azure technologies.",
+    "Architect multi-agent AI workflows using LangChain, LangGraph, CrewAI, AutoGen for autonomous task delegation, reasoning chains, memory management, tool orchestration, and Agent-to-Agent communication with feedback loops and validation.",
+    "Build Agentic RAG pipelines combining vector search, keyword matching, graph relationships using Pinecone, FAISS, Weaviate, OpenSearch with Neo4j integration, semantic re-ranking, cross-encoder scoring, metadata filtering, and retrieval accuracy optimization.",
+    "Implement Model Context Protocol services creating MCP servers, connectors for APIs, databases, vector stores with schema versioning, tool contracts, context window management, token budgeting, caching strategies integrated with OpenAI SDK, Claude SDK, Anthropic tools.",
+    "Deploy containerized AI workloads on Kubernetes EKS clusters managing Helm charts, Kustomize configurations, Horizontal Pod Autoscaling, blue-green deployments, canary releases with Prometheus, Grafana, OpenTelemetry for observability and resource monitoring.",
+    "Orchestrate multi-LLM systems routing between GPT-4, GPT-4o, Claude Sonnet, Claude Opus, LLaMA 3, Mistral with fallback strategies, latency optimization, prompt versioning, system prompt governance, cost monitoring, and token usage tracking.",
+    "Design scalable data pipelines on AWS using S3, Glue, Lambda, Step Functions for ETL workflows ensuring data quality, consistency, availability across analytical systems with batch and streaming processing for real-time ingestion.",
+    "Manage containerized workloads with AWS ECS, ECR, Fargate for ML, GenAI services including Docker image builds, deployment orchestration, performance tuning, resource allocation, and automated scaling based on CloudWatch metrics.",
+    "Develop secure RESTful APIs using API Gateway, Lambda, container services with DynamoDB for NoSQL workloads, partition design, performance optimization, data modeling, and query pattern analysis for high-throughput applications.",
+    "Configure AWS Cognito for authentication, authorization mechanisms, Route 53 for DNS routing, SSL certificate management, CloudFront for CDN distribution, S3 for static websites with multi-service integration across distributed systems.",
+    "Integrate Amazon Bedrock, Bedrock AgentCore, custom LLMs, embeddings for GenAI capabilities including RAG architectures, vector databases, semantic search, document processing, summarization tools, chatbot development for enterprise AI applications.",
+    "Build embeddings pipelines using OpenAI Embeddings, Sentence Transformers, BGE, Instructor with batch ingestion, streaming updates, index lifecycle management, incremental re-indexing, deduplication, semantic caching for efficient retrieval.",
+    "Establish observability frameworks monitoring pod CPU utilization, node saturation, request latency, error rates, token consumption with Prometheus Alertmanager, CloudWatch alerts, load testing, chaos engineering for reliability.",
+    "Secure AI platforms implementing Guardrails AI, Rebuff, prompt injection detection, PII redaction, data masking, role-based access control, output validation using schemas, regex, policy filters with audit logging for compliance.",
+    "Manage AWS OpenSearch clusters for indexing structured, unstructured data with vector search capabilities, hybrid search combining semantic and keyword matching, query optimization, shard allocation, and performance tuning.",
+    "Apply CI/CD practices using CodePipeline, GitHub Actions, Jenkins for automated deployments, infrastructure as code with Terraform, GitOps workflows, version control, and collaborative development across cross-functional teams.",
+    "Ensure compliance with HIPAA, GDPR, PCI-DSS, FDA regulations implementing data governance, security best practices, IAM policies, roles, cross-account access, secrets management using AWS Secrets Manager, Vault for credential protection.",
+    "Mentor engineering teams conducting architecture reviews, design sessions, POC demonstrations, creating reference architectures, reusable frameworks, and translating business requirements into technical solutions with stakeholder collaboration."
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "Bash",
+      "JavaScript",
+      "YAML",
+      "JSON"
+    ],
+    "machine_learning_ai_frameworks": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "Semantic Kernel",
+      "OpenAI SDK",
+      "Anthropic Claude SDK",
+      "Amazon Bedrock",
+      "Bedrock AgentCore",
+      "Vertex AI ADK",
+      "A2A"
+    ],
+    "deep_learning_neural_networks": [
+      "GPT-4",
+      "GPT-4o",
+      "Claude 3 Sonnet",
+      "Claude Opus",
+      "LLaMA 3",
+      "Mistral",
+      "Mixtral",
+      "OpenAI Embeddings",
+      "Sentence Transformers",
+      "BGE",
+      "Instructor"
+    ],
+    "data_processing_analytics": [
+      "Pandas",
+      "NumPy",
+      "PySpark",
+      "Apache Spark",
+      "Dask",
+      "Polars",
+      "ETL",
+      "ELT",
+      "Data Modeling",
+      "Schema Design"
+    ],
+    "big_data_technologies": [
+      "Hadoop",
+      "Hive",
+      "Sqoop",
+      "Informatica",
+      "Apache Kafka",
+      "Kinesis",
+      "Data Streaming",
+      "Batch Processing"
+    ],
+    "cloud_platforms_services": [
+      "AWS",
+      "Azure",
+      "S3",
+      "Lambda",
+      "Step Functions",
+      "Glue",
+      "ECS",
+      "ECR",
+      "Fargate",
+      "API Gateway",
+      "CloudFront",
+      "Route 53",
+      "Cognito",
+      "IAM",
+      "EKS",
+      "Azure Functions",
+      "Azure Data Factory"
+    ],
+    "databases_data_storage": [
+      "DynamoDB",
+      "OpenSearch",
+      "Pinecone",
+      "FAISS",
+      "Weaviate",
+      "Neo4j",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Vector Databases"
+    ],
+    "etl_data_integration": [
+      "AWS Glue",
+      "Step Functions",
+      "Lambda",
+      "Informatica",
+      "Sqoop",
+      "Data Pipeline",
+      "Workflow Orchestration",
+      "DAG"
+    ],
+    "mlops_model_deployment": [
+      "SageMaker",
+      "Model Registry",
+      "Endpoint Deployment",
+      "A/B Testing",
+      "Model Monitoring",
+      "Drift Detection",
+      "MLflow",
+      "Kubeflow"
+    ],
+    "devops_cicd": [
+      "CodePipeline",
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform",
+      "GitOps",
+      "Infrastructure as Code",
+      "Automated Testing",
+      "Deployment Automation"
+    ],
+    "containerization_orchestration": [
+      "Docker",
+      "Kubernetes",
+      "EKS",
+      "Helm",
+      "Kustomize",
+      "HPA",
+      "Pod Autoscaling",
+      "Blue-Green Deployment",
+      "Canary Releases"
+    ],
+    "monitoring_logging": [
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "CloudWatch",
+      "CloudWatch Logs",
+      "ELK Stack",
+      "Alertmanager",
+      "Performance Monitoring",
+      "Resource Tracking"
+    ],
+    "development_tools_ides": [
+      "VS Code",
+      "PyCharm",
+      "Jupyter",
+      "Git",
+      "Postman",
+      "Swagger",
+      "OpenAPI"
+    ],
+    "version_control_collaboration": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Code Review",
+      "Pull Requests",
+      "Branching Strategies"
+    ],
+    "security_compliance": [
+      "Guardrails AI",
+      "Rebuff",
+      "AWS Secrets Manager",
+      "Vault",
+      "PII Redaction",
+      "HIPAA",
+      "GDPR",
+      "PCI-DSS",
+      "FDA Compliance",
+      "Prompt Security",
+      "IAM Policies"
+    ]
+  },
+  "experience": [
+    {
+      "company": "State Farm",
+      "location": "Austin, Texas.",
+      "role": "Senior AI Lead Developer",
+      "start_date": "2025-Jan",
+      "end_date": "Present",
+      "project": [
+        {
+          "name": "Claims Automation Intelligence Platform",
+          "project_summary": "Building an enterprise claims processing automation platform using Agentic AI, RAG pipelines, and AWS cloud services to streamline insurance claims validation, fraud detection, policy compliance checks, and risk assessment workflows reducing manual processing time and improving accuracy for millions of insurance claims annually.",
+          "responsibilities": [
+            "Design multi-agent systems using LangChain Agents, LangGraph state machines, CrewAI for autonomous claims routing, validation workflows, fraud detection with Agent-to-Agent communication, task delegation, reasoning chains, memory management across distributed AI services.",
+            "Build Agentic RAG pipelines combining OpenSearch vector engine, FAISS, Pinecone for hybrid search with semantic retrieval, keyword matching, metadata filtering, cross-encoder re-ranking, chunking strategies to query insurance policy documents, claims history, regulatory guidelines.",
+            "Implement Model Context Protocol servers creating MCP connectors for DynamoDB, S3, Lambda functions with schema versioning, tool contracts, context window optimization, token budgeting, caching integrated with Claude SDK, OpenAI SDK for standardized tool invocation.",
+            "Deploy containerized AI workloads on EKS clusters managing Helm charts, Kustomize configurations, Horizontal Pod Autoscaling based on CPU utilization, memory usage with blue-green deployments, canary releases for zero-downtime production updates.",
+            "Orchestrate multi-LLM routing between GPT-4o, Claude Sonnet, Claude Opus with fallback strategies, latency optimization, prompt template versioning, system prompt governance, cost monitoring tracking token consumption across different model endpoints.",
+            "Develop scalable ETL pipelines using AWS Glue, Step Functions, Lambda for batch processing claims data from S3, streaming real-time updates via Kinesis ensuring data quality, consistency, availability across analytical systems with automated data validation.",
+            "Manage ECS Fargate tasks for ML inference services containerizing Python applications with Docker, ECR for image registry, performance tuning resource allocation, automated scaling based on CloudWatch metrics monitoring request throughput, latency.",
+            "Configure API Gateway endpoints securing RESTful services with AWS Cognito authentication, IAM authorization, rate limiting, request validation integrating Lambda backend functions, DynamoDB for session management, claims metadata storage with partition key optimization.",
+            "Establish observability using Prometheus for metrics collection, Grafana dashboards visualizing pod CPU utilization, node saturation, request latency, error rates, token usage with Alertmanager notifications for threshold breaches, performance degradation.",
+            "Secure AI platform implementing Guardrails AI for output validation, Rebuff for prompt injection detection, PII redaction for sensitive customer data, role-based access control using IAM policies, Secrets Manager for API keys, database credentials.",
+            "Integrate Amazon Bedrock AgentCore for GenAI capabilities building RAG workflows with vector embeddings using OpenAI Embeddings, Sentence Transformers, Neo4j graph database for relationship-aware retrieval enhancing claims processing accuracy, fraud pattern detection.",
+            "Optimize DynamoDB partitions designing composite keys for claims records, policy data, customer profiles with performance tuning query patterns, global secondary indexes, DynamoDB Streams for change data capture triggering downstream Lambda processing.",
+            "Configure Route 53 DNS routing, SSL certificates, CloudFront distributions for static S3 websites hosting claims portals with multi-region failover, health checks, traffic management across distributed microservices architecture.",
+            "Apply CI/CD automation using CodePipeline, GitHub Actions for infrastructure deployment, Terraform for IaC managing EKS clusters, Lambda functions, API Gateway configurations with automated testing, security scanning before production releases.",
+            "Debug production issues analyzing CloudWatch Logs, tracing request flows using OpenTelemetry, conducting root cause analysis for latency spikes, memory leaks, attending cross-team meetings coordinating with data scientists, application developers.",
+            "Ensure HIPAA compliance implementing data governance, audit logging, encryption at rest using S3 KMS, encryption in transit with TLS, access controls following insurance industry regulations, PCI-DSS standards for payment data protection."
+          ],
+          "environment": [
+            "AWS (S3, Glue, Lambda, Step Functions, ECS, ECR, Fargate, API Gateway, CloudFront, Route 53, Cognito, IAM, EKS, CloudWatch, Secrets Manager, OpenSearch, DynamoDB, Kinesis)",
+            "LangChain, LangGraph, CrewAI, AutoGen, Amazon Bedrock, Bedrock AgentCore, Model Context Protocol, OpenAI SDK, Claude SDK, GPT-4o, Claude Sonnet, Claude Opus, Vertex AI ADK, A2A",
+            "Pinecone, FAISS, Weaviate, OpenSearch Vector Engine, Neo4j, OpenAI Embeddings, Sentence Transformers, BGE, Instructor",
+            "Docker, Kubernetes, EKS, Helm, Kustomize, HPA, Prometheus, Grafana, OpenTelemetry, Alertmanager",
+            "Python, Pandas, NumPy, PySpark, Boto3, Flask, FastAPI",
+            "Guardrails AI, Rebuff, PII Redaction, IAM Policies, AWS Secrets Manager",
+            "CodePipeline, GitHub Actions, Terraform, GitOps, Git, VS Code, Jupyter",
+            "Insurance Domain, Claims Processing, Fraud Detection, Risk Assessment, Policy Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "location": "New Brunswick, New Jersey.",
+      "role": "Senior AI Developer",
+      "start_date": "2021-Aug",
+      "end_date": "2024-Dec",
+      "project": [
+        {
+          "name": "Clinical Data Intelligence System",
+          "project_summary": "Developed an enterprise patient records management platform leveraging AI-driven data pipelines, cloud infrastructure, and machine learning models to enable clinical decision support, medical imaging analysis, electronic health records integration, and population health analytics while ensuring HIPAA compliance and patient data security for healthcare operations.",
+          "responsibilities": [
+            "Architected Agentic RAG systems combining Weaviate vector database, OpenSearch for hybrid search with semantic retrieval, keyword matching, graph relationships using Neo4j for patient history, clinical notes, medical literature with re-ranking, metadata filtering improving diagnostic accuracy.",
+            "Constructed ETL workflows using AWS Glue, Step Functions orchestrating data ingestion from S3, Lambda transformations for patient records, lab results, imaging metadata ensuring data quality, consistency across analytical systems with automated validation rules.",
+            "Provisioned ECS clusters running Fargate tasks for ML inference services containerizing TensorFlow models, Python applications with Docker images stored in ECR, configured autoscaling policies based on CloudWatch CPU metrics, memory utilization.",
+            "Created RESTful APIs using API Gateway, Lambda backend integrating DynamoDB for patient metadata, session tokens, Cognito for healthcare provider authentication, authorization with HIPAA-compliant access controls, audit logging.",
+            "Embedded GenAI features using Amazon Bedrock for clinical summarization, document processing, LangChain for medical chatbots, OpenAI Embeddings for semantic search across electronic health records, treatment protocols, clinical guidelines.",
+            "Tuned DynamoDB schemas designing partition keys for patient identifiers, composite sort keys for timestamps, global secondary indexes for query optimization, DynamoDB Streams triggering Lambda functions for real-time data synchronization.",
+            "Monitored application health using Prometheus scraping metrics from EKS pods, Grafana dashboards tracking request latency, error rates, resource consumption, Alertmanager sending notifications for threshold violations, performance anomalies.",
+            "Secured healthcare data implementing encryption at rest with S3 KMS, encryption in transit using TLS, PII masking for sensitive fields, role-based access using IAM policies, Secrets Manager for database credentials, API keys.",
+            "Coordinated with data scientists during model training reviewing feature engineering, hyperparameter tuning, validation metrics, collaborated with DevOps team troubleshooting deployment issues, container crashes, network connectivity problems.",
+            "Configured CloudFront CDN distributions, Route 53 DNS for patient portals hosted on S3 with SSL certificates, health checks, multi-region failover ensuring high availability for critical healthcare applications.",
+            "Automated infrastructure deployments using CodePipeline, Terraform managing EKS resources, Lambda functions, API Gateway stages with GitHub Actions for CI/CD testing, security scanning before production releases.",
+            "Analyzed CloudWatch Logs investigating latency spikes, timeout errors, memory leaks using log insights, tracing distributed requests across microservices, conducted root cause analysis sessions with engineering teams.",
+            "Validated HIPAA compliance implementing data governance policies, access audits, encryption standards, patient consent management, regulatory reporting meeting FDA guidelines for medical software applications.",
+            "Optimized OpenSearch clusters configuring shard allocation, replica settings, query caching, index lifecycle policies for structured clinical data, unstructured medical notes enabling fast full-text search, aggregations."
+          ],
+          "environment": [
+            "AWS (S3, Glue, Lambda, Step Functions, ECS, ECR, Fargate, API Gateway, CloudFront, Route 53, Cognito, IAM, CloudWatch, Secrets Manager, OpenSearch, DynamoDB)",
+            "LangChain, Amazon Bedrock, OpenAI SDK, GPT-4, Claude 3, OpenAI Embeddings, Sentence Transformers, Vertex AI ADK",
+            "Weaviate, OpenSearch, Neo4j, FAISS, Vector Databases",
+            "Docker, ECS, Fargate, Prometheus, Grafana, Alertmanager, CloudWatch",
+            "Python, Pandas, NumPy, Boto3, TensorFlow, Scikit-learn, Flask",
+            "PII Masking, IAM Policies, AWS Secrets Manager, Encryption (KMS, TLS)",
+            "CodePipeline, Terraform, GitHub Actions, Git, VS Code, Postman",
+            "Healthcare Domain, EHR, Clinical Decision Support, Medical Imaging, HIPAA, FDA, Patient Data Security"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "State of Maine",
+      "location": "Augusta, Maine.",
+      "role": "Senior ML Engineer",
+      "start_date": "2020-Apr",
+      "end_date": "2021-Jul",
+      "project": [
+        {
+          "name": "Population Health Analytics Platform",
+          "project_summary": "Engineered a public health data warehouse and analytics platform utilizing Azure cloud services, machine learning pipelines, and data integration tools to support state healthcare initiatives including disease surveillance, health outcome tracking, resource allocation, and policy decision-making while maintaining HIPAA compliance for citizen health information.",
+          "responsibilities": [
+            "Assembled data pipelines using Azure Data Factory orchestrating data flows from Azure Blob Storage, transforming public health records, vaccination data, disease surveillance reports with Azure Functions for serverless processing ensuring data consistency.",
+            "Trained ML models using Azure Machine Learning for population health predictions, disease outbreak forecasting, resource allocation optimization with Python scikit-learn, TensorFlow, deployed endpoints for real-time inference.",
+            "Containerized ML services using Docker images pushed to Azure Container Registry, deployed to Azure Kubernetes Service managing pod configurations, resource limits, horizontal scaling policies based on traffic patterns.",
+            "Established APIs using Azure API Management, Azure Functions backend connecting to Cosmos DB for NoSQL document storage, Azure Active Directory for authentication, role-based access ensuring state healthcare regulations compliance.",
+            "Integrated vector search using Azure Cognitive Search for semantic retrieval across health policies, clinical guidelines, research publications with custom ranking profiles, filters enhancing information discovery for public health officials.",
+            "Monitored Azure resources using Azure Monitor collecting metrics, Application Insights for distributed tracing, Log Analytics workspaces querying diagnostic logs, creating alert rules for performance degradation, failures.",
+            "Handled HIPAA compliance requirements implementing data encryption using Azure Key Vault, network security groups, private endpoints, access policies, audit trails for protected health information meeting state regulatory standards.",
+            "Collaborated with public health teams attending requirements gathering sessions, sprint planning meetings, code reviews with developers, troubleshooting data quality issues, schema mismatches in ingestion pipelines.",
+            "Configured Azure Front Door for CDN, load balancing across regions, SSL termination, Web Application Firewall protecting public health dashboards, portals against common vulnerabilities, DDoS attacks.",
+            "Automated deployments using Azure DevOps pipelines, ARM templates for infrastructure provisioning, automated testing, release gates ensuring stable production updates for critical health surveillance systems.",
+            "Processed streaming data using Azure Event Hubs ingesting real-time health alerts, syndromic surveillance feeds, triggering Azure Functions for immediate processing, storage in Azure Data Lake for historical analysis.",
+            "Debugged production incidents analyzing application logs, performance counters, network traces, coordinating with infrastructure team resolving connectivity issues, service outages impacting health reporting systems."
+          ],
+          "environment": [
+            "Azure (Blob Storage, Data Factory, Functions, AKS, Container Registry, API Management, Cosmos DB, Active Directory, Monitor, Application Insights, Key Vault, Front Door, DevOps, Event Hubs, Data Lake, Cognitive Search)",
+            "Python, Scikit-learn, TensorFlow, Pandas, NumPy, Azure ML SDK",
+            "Docker, Kubernetes, AKS, Helm, HPA",
+            "Azure Cognitive Search, Vector Search, Semantic Retrieval",
+            "Azure Monitor, Application Insights, Log Analytics",
+            "ARM Templates, Azure DevOps, Git, VS Code",
+            "Public Healthcare Domain, Disease Surveillance, Population Health, HIPAA, State Regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Bank of America",
+      "location": "New York, New York.",
+      "role": "Data Scientist",
+      "start_date": "2018-Jan",
+      "end_date": "2020-Mar",
+      "project": [
+        {
+          "name": "Mortgage Risk Analytics Engine",
+          "project_summary": "Delivered a mortgage processing and risk assessment platform leveraging Azure data services, predictive analytics, and automation workflows to support loan underwriting decisions, fraud detection, credit risk modeling, and regulatory compliance for financial services operations while adhering to PCI-DSS security standards.",
+          "responsibilities": [
+            "Developed predictive models using Python scikit-learn, XGBoost for mortgage default prediction, credit risk scoring, fraud detection with Azure Machine Learning for experiment tracking, model versioning, hyperparameter tuning.",
+            "Extracted data using Azure Data Factory pipelines connecting to SQL databases, Azure Blob Storage, transforming loan applications, payment histories, credit reports with Azure Databricks for large-scale processing.",
+            "Deployed ML models to Azure Container Instances, Azure Kubernetes Service exposing REST endpoints for real-time scoring, batch predictions integrated with loan origination systems, underwriting platforms.",
+            "Analyzed transaction patterns using Python Pandas, NumPy, SQL queries on Azure Synapse Analytics identifying anomalies, fraud indicators, risk factors supporting compliance teams with evidence-based insights.",
+            "Visualized analytics using Power BI dashboards connecting to Azure SQL Database, Azure Analysis Services displaying loan portfolio metrics, risk distributions, compliance indicators for stakeholders, management teams.",
+            "Secured financial data implementing Azure Key Vault for encryption keys, connection strings, PCI-DSS controls including data tokenization, network isolation, access logging meeting banking industry regulations.",
+            "Participated in code reviews, agile sprint meetings, retrospectives, collaborated with business analysts translating requirements into technical specifications, data models for mortgage analytics applications.",
+            "Troubleshot data pipeline failures investigating Azure Data Factory logs, debugging Python scripts, resolving schema conflicts, connection timeouts impacting daily loan processing workflows.",
+            "Configured Azure Monitor alerts tracking model performance metrics, prediction latency, error rates, resource utilization sending notifications to on-call engineers for immediate response.",
+            "Automated model retraining workflows using Azure Logic Apps triggering training jobs based on data drift detection, performance degradation, scheduled intervals ensuring model accuracy over time."
+          ],
+          "environment": [
+            "Azure (Data Factory, Machine Learning, Databricks, Container Instances, AKS, Blob Storage, SQL Database, Synapse Analytics, Analysis Services, Key Vault, Monitor, Logic Apps)",
+            "Python, Scikit-learn, XGBoost, Pandas, NumPy, SQL, Azure ML SDK",
+            "Power BI, Azure Analysis Services",
+            "Docker, AKS, Container Instances",
+            "Azure Monitor, Log Analytics",
+            "Git, Azure DevOps, Jupyter, VS Code",
+            "Banking Domain, Mortgage Processing, Credit Risk, Fraud Detection, PCI-DSS Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hexaware",
+      "location": "Mumbai, Maharashtra.",
+      "role": "Data Engineer",
+      "start_date": "2015-Oct",
+      "end_date": "2017-Dec",
+      "project": [
+        {
+          "name": "Enterprise Data Warehouse Migration",
+          "project_summary": "Contributed to an enterprise analytics and data warehouse migration project using Hadoop ecosystem, Informatica ETL tools, and data integration technologies to consolidate business intelligence from multiple source systems supporting reporting, analytics, and decision-making for consulting clients across industries.",
+          "responsibilities": [
+            "Loaded data using Sqoop importing tables from relational databases into HDFS, Hive tables for analytical processing, performed incremental imports scheduling jobs with cron for daily updates.",
+            "Transformed data using Informatica PowerCenter designing mappings, workflows extracting customer records, transaction data, applying business rules, data cleansing, loading into target data warehouse.",
+            "Processed large datasets using Hadoop MapReduce writing custom mappers, reducers in Python for aggregations, filtering, joining operations on log files, structured data stored in HDFS.",
+            "Queried Hive tables using SQL writing analytical queries for reporting, ad-hoc analysis, created partitioned tables, bucketing strategies optimizing query performance for business users.",
+            "Scheduled ETL jobs using Informatica Workflow Manager, monitored execution logs, handled failures, reprocessed error records ensuring data pipeline reliability, completeness.",
+            "Learned Hadoop administration attended training sessions on cluster configuration, HDFS replication, YARN resource management, troubleshooting common issues under senior engineer guidance.",
+            "Collaborated with business analysts gathering requirements, understanding source data structures, mapping rules, participated in design sessions, sprint planning meetings.",
+            "Debugged ETL failures analyzing Informatica session logs, Sqoop error messages, Hadoop task logs, coordinating with team members resolving connectivity issues, data type mismatches."
+          ],
+          "environment": [
+            "Hadoop, HDFS, Hive, MapReduce, YARN, Sqoop",
+            "Informatica PowerCenter, Workflow Manager",
+            "Python, SQL, Shell Scripting",
+            "Linux, Cron, Git",
+            "Consulting Domain, Data Warehousing, Business Intelligence, ETL"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "KITS",
+      "location": "",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    ""
+  ]
+}

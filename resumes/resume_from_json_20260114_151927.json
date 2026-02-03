@@ -1,0 +1,267 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Generative AI & Python Engineer with Healthcare, Insurance, Government, and Finance Domain Expertise",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building advanced Python-based automation, scalable microservices, and intelligent agentic workflows, specifically within regulated sectors like Healthcare, Insurance, Government, and Finance, ensuring compliance with HIPAA, PCI-DSS, and other stringent frameworks.",
+    "Leveraging Python for advanced scripting and automation to architect a multi-agent system for Medline's supply chain, utilizing LangGraph for orchestration and GCP Vertex AI to process real-time healthcare inventory data while maintaining strict HIPAA-compliant data governance across all service-to-service integrations.",
+    "Orchestrating agent-based workflows with LangChain to solve complex claim adjudication challenges at Blue Cross Blue Shield, designing a proof-of-concept that integrated multiple specialized AI agents for automated decision support, significantly improving processing accuracy and reducing manual review cycles.",
+    "Implementing scalable microservices architecture on Google Cloud Platform to modernize a legacy pharmaceutical tracking system, using Python for API integration and Pub/Sub for A2A communication, which enhanced data flow reliability and supported real-time regulatory reporting requirements.",
+    "Developing distributed systems for the State of Arizona's public health database, employing Python for ETL automation and Apache Airflow for workflow orchestration, which streamlined the aggregation of disparate data sources into a single, governable source of truth for policy analysis.",
+    "Constructing a Model Context Protocol (MCP) server prototype within a financial services context at Discover, enabling secure and structured data exchange between different AI models and existing core banking systems to facilitate advanced fraud detection analytics while adhering to PCI standards.",
+    "Engineering prompt chaining techniques within LangChain frameworks to create coherent multi-step reasoning pipelines for insurance document processing, transforming unstructured text into structured, queryable data that powered automated underwriting and customer service bots.",
+    "Architecting cloud-native applications on GCP utilizing Cloud Run and Cloud Functions to deploy serverless Python microservices, which handled high-volume transactions for healthcare payment processing with built-in scalability and robust fault tolerance mechanisms.",
+    "Designing and troubleshooting A2A integrations using REST APIs and message queues to connect internal EHR systems with external pharmacy networks, ensuring seamless, real-time data synchronization that improved patient care coordination and medication adherence tracking.",
+    "Leading the implementation of tool-calling capabilities in generative AI agents, allowing them to dynamically interact with internal SQL databases and external APIs to pull real-time insurance coverage data, thereby providing accurate and instantaneous customer service responses.",
+    "Optimizing Python automation scripts for large-scale data validation and cleansing within government datasets, incorporating parallel processing with concurrent.futures to reduce ETL job runtimes by over 50% and improve data quality for critical public reporting.",
+    "Spearheading the migration of monolithic insurance policy administration systems to a microservices-based architecture, utilizing Docker for containerization and Kubernetes on GCP for orchestration, which improved deployment agility and system resilience.",
+    "Building and debugging real-time data pipelines using Apache Kafka and Python to stream financial transaction data, implementing idempotent consumers and state tracking to guarantee exactly-once processing semantics crucial for audit trails and compliance reporting.",
+    "Facilitating service-to-service communication patterns using gRPC and protocol buffers for high-performance inter-microservice data exchange within a healthcare analytics platform, reducing latency for critical patient risk score calculations.",
+    "Crafting sophisticated multi-agent systems using CrewAI for collaborative task solving, where specialized agents for data retrieval, analysis, and report generation worked in concert to automate the creation of complex monthly compliance documents for government audits.",
+    "Employing advanced Python techniques for API integration with third-party medical coding services, developing robust retry logic and circuit breaker patterns to ensure system reliability and data accuracy for critical billing and coding operations.",
+    "Configuring and maintaining CI/CD pipelines using Cloud Build and GitHub Actions for Python-based microservices, incorporating automated testing and security scanning to enforce code quality and compliance standards before production deployment.",
+    "Conducting rigorous code reviews and collaborative debugging sessions for distributed system components, focusing on edge cases in healthcare data ingestion to prevent PII leaks and ensure all data handling adhered to stringent privacy regulations."
+  ],
+  "technical_skills": {
+    "Programming Languages & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell",
+      "Java",
+      "TypeScript"
+    ],
+    "Generative AI & Agent Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "Model Context Protocol (MCP)",
+      "OpenAI APIs",
+      "Vertex AI"
+    ],
+    "Cloud Platform (GCP)": [
+      "Cloud Functions",
+      "Cloud Run",
+      "Pub/Sub",
+      "BigQuery",
+      "Cloud SQL",
+      "Vertex AI",
+      "Cloud Build",
+      "Secret Manager"
+    ],
+    "API & Service Integration": [
+      "REST APIs",
+      "gRPC",
+      "Protocol Buffers",
+      "FastAPI",
+      "Flask",
+      "GraphQL",
+      "OAuth2"
+    ],
+    "Message Brokers & Event Streaming": [
+      "Apache Kafka",
+      "Google Pub/Sub",
+      "RabbitMQ"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes",
+      "Docker Compose"
+    ],
+    "Data Engineering & ETL": [
+      "Apache Airflow",
+      "Apache Spark",
+      "Pandas",
+      "PySpark",
+      "dbt"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL",
+      "MySQL",
+      "BigQuery",
+      "Cloud SQL",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub Actions",
+      "Cloud Build",
+      "Terraform"
+    ],
+    "Architecture & Design": [
+      "Microservices",
+      "Distributed Systems",
+      "Event-Driven Architecture",
+      "A2A Integration",
+      "Service-to-Service Communication"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Utilizing LangGraph to orchestrate complex, stateful multi-agent workflows for managing real-time medical supply chain logistics, where each agent handled procurement, inventory forecasting, and compliance checks, significantly improving operational efficiency and reducing stockouts of critical items.",
+        "Applying Python for advanced automation of HIPAA-compliant data pipelines on GCP, building a system that ingested HL7 messages from hospital EHRs, transformed them via Cloud Functions, and loaded them into BigQuery for analytics, ensuring all PII was tokenized before processing.",
+        "Implementing a Model Context Protocol server to standardize interactions between various generative AI models and legacy inventory management systems, enabling secure, structured data queries that improved the accuracy of demand forecasting models by 40%.",
+        "Architecting a proof-of-concept for agent-to-agent communication using Google's Vertex AI and LangChain, designing specialized agents that collaboratively analyzed patient discharge data to predict readmission risks and automatically generate care coordination alerts for clinical teams.",
+        "Developing scalable microservices with FastAPI on Google Cloud Run to expose critical drug utilization analytics, ensuring service-to-service communication was secured with IAM and private networking to comply with stringent healthcare data protection standards.",
+        "Constructing a tool-calling framework within LangChain agents, enabling them to securely query internal PostgreSQL databases containing sensitive supplier information, which automated the vendor qualification process and reduced manual verification workloads by 60%.",
+        "Designing and debugging a distributed event-driven system using Pub/Sub and Cloud Functions, which processed real-time orders from thousands of healthcare facilities, implementing idempotency keys to prevent duplicate shipments and ensure order accuracy.",
+        "Leading the integration of a multi-agent system built with CrewAI into the existing order management portal, where agents for customer service, logistics, and billing worked in tandem to resolve complex customer inquiries without human intervention, improving resolution times.",
+        "Orchestrating prompt chaining sequences to guide a generative AI model through multi-step reasoning for analyzing clinical trial data, extracting adverse event patterns, and generating regulatory reports that met FDA submission requirements with high accuracy.",
+        "Building A2A integrations between the central data lake on GCP and third-party logistics providers using REST APIs and OAuth2, automating shipment tracking updates and ensuring real-time visibility into the supply chain for temperature-sensitive pharmaceuticals.",
+        "Configuring Kubernetes clusters on GCP to deploy and manage Python-based microservices for real-time pricing analytics, implementing horizontal pod autoscaling to handle fluctuating demand during seasonal healthcare procurement cycles efficiently.",
+        "Troubleshooting a performance bottleneck in the LangGraph workflow execution, which involved detailed profiling of Python code and optimizing the state management logic, ultimately reducing the average workflow execution time from minutes to seconds.",
+        "Establishing a CI/CD pipeline using Cloud Build and GitHub Actions specifically for AI agent deployments, incorporating automated testing of tool-calling functions and security scans to validate no PHI leakage in generated outputs before production release.",
+        "Facilitating daily stand-ups and code review sessions focused on the multi-agent system's error handling, encouraging the team to build robust fallback mechanisms for when AI agents encountered ambiguous or out-of-scope user requests.",
+        "Crafting Python scripts to automate the validation and cleansing of supplier data feeds, incorporating regular expressions and custom business rules to flag non-compliant items before they entered the procurement system, ensuring regulatory adherence.",
+        "Collaborating with compliance officers to map data flows within the new agentic systems, documenting all touchpoints for audit trails and implementing additional encryption layers in GCP's Secret Manager for API keys used in service-to-service calls."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "GCP (Vertex AI, Cloud Functions, BigQuery, Pub/Sub, Cloud Run, Kubernetes)",
+        "FastAPI",
+        "PostgreSQL",
+        "Model Context Protocol",
+        "Docker",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Employing Python and LangChain to develop an agent-based workflow for automated insurance claim scrutiny, where specialized agents validated provider credentials, checked policy coverage, and flagged discrepancies, reducing manual review backlog by 35%.",
+        "Building a scalable service on AWS Lambda and Step Functions to handle high-volume claim ingestion, using Python for data transformation and ensuring all personally identifiable information was masked in accordance with state insurance regulations before processing.",
+        "Creating a proof-of-concept multi-agent system using a pre-release version of CrewAI, where collaborative agents analyzed complex medical billing codes to detect potential fraud patterns, presenting findings through an interactive dashboard for investigators.",
+        "Developing Python automation scripts to integrate with external clearinghouses via RESTful APIs, standardizing claim status inquiries and payment postings, which streamlined reconciliation processes and improved cash flow visibility for the finance department.",
+        "Implementing prompt chaining with OpenAI's APIs to generate patient-friendly explanations of benefits (EOBs) from structured claim data, ensuring the language was clear, compliant, and tailored to individual member plans and state-specific regulations.",
+        "Architecting a microservices-based backend using FastAPI and Amazon ECS to host the new claims adjudication engine, designing the service-to-service communication protocol with async messaging to maintain system responsiveness under peak loads.",
+        "Constructing A2A integrations between the new AI-driven claims system and legacy policy administration databases on AWS RDS, implementing a dual-write strategy with careful conflict resolution to ensure data consistency across the enterprise landscape.",
+        "Orchestrating data pipelines with Apache Airflow on AWS MWAA to batch-process historical claims for model training, utilizing PySpark for feature engineering and ensuring the pipeline complied with data retention policies dictated by insurance law.",
+        "Troubleshooting a critical issue in the LangChain agent where it hallucinated incorrect policy details, leading to a deep dive into prompt engineering and the implementation of a rigorous fact-checking step that queried the authoritative source system before final output.",
+        "Configuring AWS API Gateway and Lambda authorizers to secure all endpoints for the new insurance services, enforcing strict role-based access control to protect sensitive member data as per HIPAA and HITECH Act requirements.",
+        "Participating in bi-weekly architecture review meetings to discuss the evolution of the agentic systems, advocating for the adoption of a circuit breaker pattern to gracefully handle failures in dependent external provider eligibility services.",
+        "Writing comprehensive unit and integration tests for the Python-based claim processing modules, simulating edge cases like duplicate claims and retroactive policy cancellations to ensure system robustness before user acceptance testing.",
+        "Debugging a performance issue in the distributed tracing of microservices, which involved correlating logs across CloudWatch and X-Ray to identify a latency spike in a downstream dependency that was causing timeouts in the claim submission flow.",
+        "Documenting the entire architecture of the multi-agent system and its integrations, creating runbooks for the operations team to monitor agent performance and intervene when automated decisions fell outside pre-defined confidence thresholds."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "CrewAI",
+        "AWS (Lambda, Step Functions, ECS, RDS, API Gateway, MWAA)",
+        "FastAPI",
+        "Apache Airflow",
+        "PySpark",
+        "OpenAI API",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Leveraging Python for automation of ETL jobs that consolidated public health data from county-level sources into a centralized AWS S3 data lake, implementing data quality checks to ensure accuracy for statewide pandemic response reporting.",
+        "Developing scalable data processing services on AWS Glue and Lambda to anonymize sensitive citizen information before analytics use, adhering to strict government privacy statutes and data sharing agreements with federal agencies.",
+        "Building RESTful APIs with Flask to provide secure access to aggregated unemployment statistics for various government departments, implementing API key authentication and request throttling to manage access and prevent system overload.",
+        "Orchestrating batch workflows with Apache Airflow hosted on an EC2 instance to automate the nightly refresh of key economic indicators, which involved extracting from legacy mainframes, transforming with Pandas, and loading into Redshift for dashboard consumption.",
+        "Integrating disparate transportation and infrastructure datasets by designing a series of Python scripts that normalized schemas and handled missing values, creating a unified view that supported long-term planning and federal grant applications.",
+        "Assisting in the design of a nascent microservices architecture to modernize the voter registration system, containerizing Python services with Docker and managing them via AWS ECS to improve deployment reliability and scalability.",
+        "Troubleshooting data pipeline failures caused by schema changes in source systems, developing a more resilient ingestion framework that could detect changes and alert engineers before jobs broke, reducing unplanned downtime significantly.",
+        "Conducting code reviews for fellow data engineers, focusing on writing efficient PySpark jobs for large-scale demographic data processing and ensuring all code followed departmental security and documentation standards.",
+        "Creating Python automation to generate and distribute mandated regulatory reports to federal entities, ensuring formats complied with specific submission guidelines and all deadlines were met automatically via scheduled Lambda functions.",
+        "Configuring and monitoring AWS Redshift clusters that housed the consolidated public datasets, optimizing query performance through careful distribution key and sort key selection based on common access patterns from analysts.",
+        "Collaborating with auditors to demonstrate the complete data lineage for critical public health metrics, from raw source to published dashboard, ensuring full transparency and compliance with open data laws.",
+        "Documenting the entire data ingestion and governance process for the newly formed data analytics team, creating training materials that accelerated their onboarding and ability to maintain the systems independently."
+      ],
+      "environment": [
+        "Python",
+        "AWS (Glue, Lambda, S3, Redshift, EC2, ECS)",
+        "Apache Airflow",
+        "Flask",
+        "PySpark",
+        "Pandas",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Utilizing Python and PySpark on Azure Databricks to process terabytes of daily credit card transaction data, building features for real-time fraud detection models while ensuring all data handling adhered to PCI-DSS security standards.",
+        "Developing and maintaining scalable data pipelines with Azure Data Factory that ingested transaction logs from on-premise systems into Azure Data Lake Storage, implementing incremental load patterns to optimize costs and processing time.",
+        "Building a service-to-service communication layer using Azure Service Bus and Python-based consumers, which reliably routed transaction alerts between the fraud detection system and the customer notification service with guaranteed delivery.",
+        "Assisting in the migration of legacy SAS fraud scoring jobs to a Python-based microservices architecture on Azure Kubernetes Service, containerizing the logic and improving scoring latency from hours to near real-time.",
+        "Implementing robust error handling and dead-letter queues within the event-driven architecture, ensuring that no transaction alert was lost and that failed messages could be reprocessed after root-cause analysis and bug fixes.",
+        "Creating Python automation scripts to validate the integrity of financial data across different stages of the pipeline, comparing record counts and checksums to ensure accuracy before data was consumed by downstream reporting applications.",
+        "Configuring and monitoring Azure Synapse Analytics (formerly SQL DW) pools that stored processed transaction data, tuning performance by implementing table distribution strategies and creating indexed views for frequent queries.",
+        "Participating in daily scrums to coordinate pipeline deployments with the data science team, ensuring new model features were integrated smoothly into production pipelines without disrupting the 24/7 fraud monitoring operations.",
+        "Troubleshooting performance bottlenecks in PySpark jobs by analyzing the execution plans and optimizing joins and shuffles, which reduced the runtime of critical nightly batch processing jobs by over 30%.",
+        "Documenting the data flow architecture and operational runbooks for the newly deployed real-time fraud detection system, enabling the site reliability engineering team to effectively monitor and support the production environment."
+      ],
+      "environment": [
+        "Python",
+        "PySpark",
+        "Azure (Databricks, Data Factory, Data Lake, Service Bus, Kubernetes Service, Synapse)",
+        "SQL",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Applying Python and SQL to analyze and validate digital pathology image metadata, ensuring data quality and consistency for machine learning model training aimed at automating cancer cell detection, with strict adherence to patient privacy protocols.",
+        "Developing Python scripts to automate the extraction, transformation, and loading of lab instrument output files into a centralized MySQL database, reducing the manual effort required for data aggregation by research scientists.",
+        "Building interactive dashboards in Power BI to visualize key metrics related to image analysis accuracy and model performance, enabling the clinical team to quickly assess algorithm efficacy across different types of pathological samples.",
+        "Assisting senior data scientists with feature engineering tasks by writing SQL queries and Python code to calculate statistical properties from image-derived data, which were used as inputs for preliminary diagnostic prediction models.",
+        "Cleansing and pre-processing large volumes of structured lab test data using Pandas in Jupyter notebooks, handling missing values and outliers according to domain expert guidance to prepare clean datasets for exploratory analysis.",
+        "Creating documentation for the data dictionary and ETL processes, which helped standardize data definitions across the interdisciplinary team of engineers, data scientists, and medical professionals working on the project.",
+        "Participating in peer code reviews for SQL queries and analysis scripts, learning to write more efficient and readable code while ensuring all data manipulation respected the anonymization guidelines for sensitive health information.",
+        "Supporting the data infrastructure by monitoring database performance and working with DBAs to optimize slow-running queries that were part of the daily reporting routines, gaining foundational experience in database tuning."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Pandas",
+        "Jupyter Notebook",
+        "Power BI",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

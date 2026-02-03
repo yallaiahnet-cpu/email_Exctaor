@@ -1,0 +1,307 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI Solutions Consultant - Enterprise Legal & Procurement AI",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in solution consulting, AI implementation, and enterprise application delivery across Healthcare, Insurance, Government, and Finance domains, specializing in AI agent solutions for legal workflows and ERP integrations.",
+    "Engineered multi-agent AI systems using CrewAI and LangGraph to automate contract review workflows for healthcare procurement, integrating with existing ERP modules to streamline vendor onboarding while ensuring strict HIPAA compliance and data governance standards.",
+    "Designed and implemented AI-enabled business process redesign for legal operations, translating stakeholder requirements into scalable technical solutions that reduced manual review cycles by automating clause extraction and obligation identification.",
+    "Led enterprise AI implementation projects from proof-of-concept to production, configuring AI agents for compliance monitoring and document analysis to meet rigorous healthcare, insurance, and financial regulatory requirements.",
+    "Architected end-to-end process integration solutions connecting AI agents with procurement and payments modules within SAP ERP environments, establishing reliable data flows for automated financial and legal decision support.",
+    "Developed comprehensive solution documentation and architecture diagrams for AI agent deployments, creating runbooks and implementation best practices that enabled operational teams to manage complex multi-agent workflows effectively.",
+    "Conducted stakeholder management sessions with legal, finance, and procurement teams to gather requirements for AI solutions, employing a consultative approach to build trusted advisor relationships across diverse organizational functions.",
+    "Configured AI agents for legal workflow automation, focusing on risk identification and contract review processes while aligning with enterprise security standards and data governance policies specific to regulated industries.",
+    "Delivered solution demonstrations and pre-sales support for AI agent implementations, showcasing how AI-enabled business process redesign could transform case management and compliance monitoring operations.",
+    "Spearheaded the translation of business requirements into scalable technical solutions for AI agent deployments, ensuring these solutions integrated seamlessly with existing enterprise systems via robust API frameworks.",
+    "Directed the design of RAG pipelines for legal document analysis, implementing document retrieval patterns that enabled efficient search and clause extraction from extensive healthcare contract repositories.",
+    "Orchestrated the integration of AI solutions with enterprise systems using REST APIs and event-based patterns, ensuring reliable data exchange between AI agents and core ERP, procurement, and payments modules.",
+    "Championed governance and compliance considerations for AI solutions in regulated domains, embedding performance and reliability requirements into the solution design from initial proof-of-concept stages.",
+    "Formulated AI workflow automation strategies that transformed legal operations processes, reducing manual effort in document analysis while maintaining audit trails for regulatory compliance and oversight.",
+    "Pioneered the application of LLM-based agents for specialized legal workflows, adapting general AI capabilities to address domain-specific challenges in contract review and compliance monitoring.",
+    "Assembled cross-functional collaboration frameworks between technology teams and business stakeholders, facilitating effective communication that ensured AI solutions met both technical and operational needs.",
+    "Evaluated enterprise security standards for AI agent deployments, implementing data governance alignment measures that protected sensitive legal and financial information within integrated systems.",
+    "Synthesized complex business requirements from legal, procurement, and finance stakeholders into coherent AI solution designs, balancing functional needs with technical constraints and regulatory mandates."
+  ],
+  "technical_skills": {
+    "AI Agent Engineering & Frameworks": [
+      "CrewAI",
+      "LangGraph",
+      "Multi-Agent Systems",
+      "Model Context Protocol",
+      "Agent-to-Agent Communication",
+      "AI Workflow Orchestration",
+      "LLM-based Agents"
+    ],
+    "Enterprise AI Implementation": [
+      "Solution Consulting",
+      "AI Agent Design",
+      "AI Agent Configuration",
+      "Proof-of-Concept Delivery",
+      "Solution Demonstrations",
+      "Pre-sales Support",
+      "Enterprise Integration"
+    ],
+    "Legal Domain AI Solutions": [
+      "Contract Workflow Automation",
+      "Contract Review Automation",
+      "Clause Extraction",
+      "Risk Identification",
+      "Obligation Tracking",
+      "Compliance Monitoring",
+      "Document Analysis",
+      "Case Management",
+      "Legal Operations"
+    ],
+    "Enterprise Platform Integration": [
+      "ERP Systems Integration",
+      "Procurement Modules",
+      "Payments Modules",
+      "End-to-End Process Integration",
+      "SAP Integration",
+      "Oracle ERP",
+      "Enterprise API Integration"
+    ],
+    "Cloud & Data Platforms": [
+      "AWS (SageMaker, Lambda, S3, RDS, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks)",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "Elasticsearch"
+    ],
+    "NLP & Document Processing": [
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT Models",
+      "spaCy",
+      "LangChain",
+      "Llama Index",
+      "RAG Pipelines",
+      "OpenAI APIs",
+      "Document Retrieval Patterns"
+    ],
+    "Data Engineering & ETL": [
+      "Apache Spark",
+      "Apache Airflow",
+      "AWS Glue",
+      "Python",
+      "SQL",
+      "Data Pipelines",
+      "API Integration",
+      "Event-Based Processing"
+    ],
+    "Solution Architecture": [
+      "Solution Documentation",
+      "Architecture Diagrams",
+      "Implementation Best Practices",
+      "Runbooks",
+      "Operational Documentation",
+      "System Design"
+    ],
+    "Governance & Security": [
+      "Enterprise Security Standards",
+      "Data Governance",
+      "HIPAA Compliance",
+      "PCI Compliance",
+      "Regulatory Compliance",
+      "Performance Requirements",
+      "Reliability Engineering"
+    ],
+    "Consulting & Delivery": [
+      "Requirements Gathering",
+      "Stakeholder Management",
+      "Technical Solution Translation",
+      "Trusted Advisor Approach",
+      "Cross-functional Collaboration",
+      "Business Process Redesign"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Deployed CrewAI multi-agent systems to automate healthcare contract review workflows, addressing manual inefficiencies in vendor agreement processing by implementing AI agents for clause extraction and risk identification, which accelerated contract turnaround by 72 hours while maintaining HIPAA compliance.",
+        "Architected AI agent solutions integrating with Medline's SAP procurement modules, solving disjointed data flows between legal review and purchasing systems by developing event-driven APIs that synchronized contract approvals with procurement workflows, ensuring seamless end-to-end process integration.",
+        "Led the design of an AI-enabled business process redesign for legal operations, tackling excessive manual document analysis by configuring specialized agents for compliance monitoring and obligation tracking, which reduced legal team workload by approximately 40% on routine contract reviews.",
+        "Configured LangGraph workflows for complex legal decision support, overcoming sequential processing limitations by implementing parallel agent orchestration that enabled simultaneous review of contractual, regulatory, and financial aspects, improving review comprehensiveness.",
+        "Executed a comprehensive proof-of-concept for AI-driven contract workflow automation, demonstrating feasibility to stakeholders by building a functional prototype that extracted key clauses and identified risks in vendor agreements, securing executive approval for full implementation.",
+        "Engineered RAG pipelines for healthcare legal document analysis, solving information retrieval challenges from vast contract repositories by implementing semantic search with specialized embeddings, enabling precise extraction of HIPAA-related clauses and compliance requirements.",
+        "Developed solution documentation and architecture diagrams for the AI agent deployment, addressing knowledge transfer gaps by creating detailed runbooks that outlined configuration procedures, troubleshooting steps, and integration patterns with existing ERP systems.",
+        "Orchestrated stakeholder management sessions with legal, procurement, and finance teams, bridging communication gaps by translating business requirements into technical specifications for AI agents, ensuring the solution addressed cross-functional needs effectively.",
+        "Implemented governance frameworks for AI solutions in healthcare, confronting regulatory compliance challenges by establishing data governance protocols and security standards that ensured protected health information remained secure throughout automated processing.",
+        "Designed REST API integrations connecting AI agents with payment modules, resolving data synchronization issues by building reliable interfaces that transmitted approved contract terms to financial systems, automating payment term configuration and reducing manual entry errors.",
+        "Pioneered the use of Model Context Protocol for agent communication, tackling inter-agent coordination problems by establishing standardized data exchange formats that improved system reliability and made debugging agent interactions more straightforward.",
+        "Conducted solution demonstrations for pre-sales support with prospective healthcare clients, showcasing AI agent capabilities by walking through realistic contract review scenarios that highlighted automation benefits while addressing specific regulatory concerns.",
+        "Formulated implementation best practices for multi-agent deployments, overcoming operational inconsistencies by documenting configuration standards, monitoring approaches, and performance validation techniques that ensured system reliability during high-volume processing periods.",
+        "Troubleshot performance issues in production AI workflows, diagnosing latency in contract processing by analyzing agent interaction patterns and optimizing LangGraph execution plans, which restored system responsiveness to service level agreements.",
+        "Championed cross-functional collaboration between technology and legal teams, facilitating weekly alignment meetings that addressed integration challenges and prioritized feature development based on evolving regulatory requirements and business needs.",
+        "Evaluated different LLM models for legal workflow applications, conducting comparative testing to identify optimal balance between accuracy, cost, and processing speed for healthcare contract analysis, ultimately selecting a hybrid approach for production deployment."
+      ],
+      "environment": [
+        "CrewAI",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "S3",
+        "RDS",
+        "Bedrock",
+        "SAP ERP",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Hugging Face Transformers",
+        "LangChain",
+        "REST APIs",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Built AI agent solutions for insurance contract review automation, confronting manual processing delays by implementing CrewAI-based systems that extracted policy clauses and identified coverage limitations, streamlining provider agreement reviews.",
+        "Integrated AI workflow automation with existing claims management systems, solving data silo problems by developing API connectors that enabled AI agents to access historical claims data for pattern analysis, improving contract adequacy assessments.",
+        "Assembled proof-of-concept demonstrations for legal AI solutions, showcasing automation potential to insurance stakeholders by creating working prototypes that processed sample provider contracts and highlighted risk areas requiring manual review.",
+        "Established AI agent configuration standards for insurance domains, addressing regulatory compliance requirements by implementing validation rules that ensured automated reviews adhered to state-specific insurance regulations and coverage mandates.",
+        "Collaborated with legal stakeholders to translate business requirements into technical specifications, conducting detailed workshops that captured nuances of insurance contract interpretation and transformed them into agent decision logic.",
+        "Devised document analysis pipelines for insurance policy review, tackling unstructured data challenges by implementing NLP models that classified policy sections and identified critical coverage terms, reducing manual extraction effort.",
+        "Administered solution design for AI-enabled compliance monitoring, meeting regulatory reporting requirements by architecting systems that tracked changes in insurance regulations and flagged non-compliant contract language automatically.",
+        "Constructed architecture diagrams for enterprise AI implementation, communicating complex system interactions to technical and business audiences through visual representations that clarified data flows between agents and core insurance systems.",
+        "Coordinated with procurement stakeholders on integration requirements, aligning AI solution capabilities with vendor management workflows by designing interfaces that connected contract review outcomes with procurement system updates.",
+        "Programmed REST API endpoints for AI agent communication, enabling seamless data exchange between contract analysis agents and policy administration systems while maintaining audit trails for regulatory compliance verification.",
+        "Guided the implementation of data governance for AI solutions, establishing protocols for handling sensitive insurance data that balanced analytical needs with privacy protection requirements and regulatory constraints.",
+        "Examined performance requirements for legal AI workflows, conducting load testing on contract processing systems to ensure they could handle peak volumes during annual provider contract renewal periods without degradation.",
+        "Liaised between finance and technology teams on payments integration, facilitating discussions that defined requirements for transmitting approved contract terms to payment systems while maintaining financial controls and approval workflows.",
+        "Verified reliability of AI solutions through rigorous testing, designing test cases that simulated edge conditions in insurance contracts to ensure agent behavior remained predictable and accurate across diverse policy types and structures."
+      ],
+      "environment": [
+        "CrewAI",
+        "LangGraph",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Insurance Regulations",
+        "REST APIs",
+        "NLP",
+        "Document Processing",
+        "Stakeholder Management",
+        "Solution Documentation"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Implemented document analysis solutions for government contract workflows, addressing manual processing bottlenecks by developing Azure-based NLP pipelines that extracted key terms from procurement agreements and flagged compliance issues.",
+        "Connected AI solutions with government ERP systems, solving integration challenges with legacy platforms by building middleware components that translated modern API calls to older system interfaces, enabling automated data exchange.",
+        "Supported the design of AI-enabled business process improvements for legal operations, contributing to workflow analysis that identified automation opportunities in public records requests and compliance reporting processes.",
+        "Adapted AI agent concepts for government use cases, tailoring commercial frameworks to public sector constraints by implementing additional validation layers that ensured decisions aligned with statutory requirements and transparency mandates.",
+        "Prepared solution documentation for government AI implementations, creating detailed specifications that addressed procurement requirements while clearly articulating technical approaches for non-technical review committees.",
+        "Assisted with stakeholder management across multiple agencies, participating in meetings with legal, procurement, and technology teams to capture diverse requirements and constraints for cross-agency AI solutions.",
+        "Compiled architecture diagrams for government review processes, visually representing system components and data flows to facilitate security approvals and compliance verification by oversight bodies.",
+        "Applied enterprise security standards to AI solution designs, incorporating government-specific security protocols and data classification requirements into system architectures from initial design phases.",
+        "Contributed to requirements gathering for legal workflow automation, documenting current state processes and pain points in government contract management that informed AI solution prioritization and development sequencing.",
+        "Tested AI solution integrations with procurement modules, validating data accuracy and completeness as contract information flowed between AI analysis systems and government purchasing platforms.",
+        "Participated in cross-functional collaboration sessions, representing technical perspectives while learning about legal and procurement constraints that shaped practical implementation approaches for government AI projects.",
+        "Reviewed compliance considerations for AI solutions in government contexts, researching regulatory frameworks and documenting requirements that influenced technical design decisions and implementation timelines."
+      ],
+      "environment": [
+        "Azure ML Studio",
+        "Azure Data Factory",
+        "Python",
+        "SQL Server",
+        "Government Regulations",
+        "ERP Integration",
+        "Document Analysis",
+        "Compliance Monitoring",
+        "NLP",
+        "API Development"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed data pipelines for financial document analysis, addressing processing scale limitations by implementing Spark-based workflows that extracted terms from credit card agreements while ensuring PCI compliance throughout data handling.",
+        "Engineered integrations between document processing systems and financial platforms, solving data consistency problems by building reliable ETL processes that synchronized analyzed contract terms with account management systems.",
+        "Extended solution consulting to financial domain challenges, analyzing pain points in agreement review processes and proposing technical approaches that balanced automation benefits with regulatory compliance requirements.",
+        "Assessed AI implementation opportunities in financial workflows, researching emerging technologies and evaluating their applicability to credit agreement analysis while considering financial industry constraints and oversight requirements.",
+        "Produced technical documentation for data solutions, creating clear guides that explained system architectures and operational procedures to both technical teams and business stakeholders in compliance departments.",
+        "Examined enterprise application delivery patterns for financial systems, studying existing integration approaches and identifying improvements that could enhance reliability and maintainability of document analysis solutions.",
+        "Investigated governance requirements for financial AI solutions, documenting data handling protocols and approval workflows that needed accommodation in any automated system processing customer agreements.",
+        "Surveyed stakeholder needs across legal and finance departments, interviewing subject matter experts to understand manual review processes and identify candidate areas for assisted automation using emerging AI capabilities.",
+        "Cataloged technical requirements for financial system integrations, documenting API specifications and data formats needed to connect document analysis outputs with core banking and account management platforms.",
+        "Researched compliance considerations specific to financial AI applications, studying regulatory guidance on automated decision systems and documenting constraints that would influence future solution designs in this domain."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Apache Spark",
+        "Python",
+        "SQL",
+        "PCI Compliance",
+        "Financial Regulations",
+        "Data Pipelines",
+        "ETL",
+        "System Integration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Analyzed healthcare data workflows to identify process improvement opportunities, examining manual steps in document processing that represented candidates for future automation as AI capabilities matured in healthcare applications.",
+        "Extracted insights from healthcare document repositories, using SQL queries and Python scripts to analyze patterns in medical contracts and identify common clauses that might benefit from standardized automated processing approaches.",
+        "Studied healthcare regulations affecting document processing, researching HIPAA requirements and their implications for automated systems handling protected health information in contractual and compliance contexts.",
+        "Documented existing business processes for healthcare legal workflows, creating process maps that captured current state operations and highlighted inefficiencies that emerging technologies might address in future initiatives.",
+        "Supported requirements gathering for system improvements, assisting senior team members in interviews with healthcare stakeholders to understand pain points in contract management and compliance monitoring activities.",
+        "Prepared data analyses for solution design discussions, compiling metrics on document processing volumes and cycle times that informed business cases for investing in automated processing capabilities.",
+        "Learned about enterprise system integrations in healthcare, studying how different platforms exchanged data and identifying integration patterns that supported efficient information flow across organizational boundaries.",
+        "Assisted with documentation of technical solutions, helping to organize architecture diagrams and system specifications that communicated design approaches to both technical and business audience members."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Healthcare Data",
+        "HIPAA",
+        "Process Analysis",
+        "Requirements Gathering",
+        "Documentation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

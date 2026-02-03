@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JD Extractor</title>
+    <link rel="stylesheet" href="sidebar.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 JD Extractor & LinkedIn Connector</h1>
+            <button id="toggleView" class="btn-toggle">📋 View Saved JDs</button>
+        </header>
+
+        <!-- Paste JD Section -->
+        <div id="pasteSection" class="section active">
+            <div class="paste-area">
+                <textarea 
+                    id="jdInput" 
+                    placeholder="Paste job description(s) here...&#10;&#10;You can paste multiple JDs separated by '---' or just paste them one after another.&#10;&#10;Example:&#10;Python Full Stack Developer with GenAI&#10;Company: MASH Pro Tech&#10;Location: Charlotte, NC&#10;Recruiter: Vinod Reddy&#10;&#10;---&#10;&#10;Another JD here..."
+                    rows="15"
+                ></textarea>
+                <div class="info-text">
+                    💡 Tip: Paste multiple JDs separated by "---" or just paste them sequentially
+                </div>
+                <button id="extractBtn" class="btn-primary">✨ Extract & Generate Notes</button>
+            </div>
+            
+            <!-- Processing Queue -->
+            <div id="processingQueue" class="processing-queue" style="display: none;">
+                <h3>🔄 Processing Queue</h3>
+                <div id="queueStatus"></div>
+                <div id="queueProgress"></div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultsSection" class="section">
+            <div class="results-container">
+                <div class="field-group">
+                    <label>Recruiter Name:</label>
+                    <input type="text" id="recruiterName" class="editable-field">
+                </div>
+                <div class="field-group">
+                    <label>Company Name:</label>
+                    <input type="text" id="companyName" class="editable-field">
+                </div>
+                <div class="field-group">
+                    <label>Location:</label>
+                    <input type="text" id="location" class="editable-field">
+                </div>
+                <div class="field-group">
+                    <label>Key Focus / Skills:</label>
+                    <textarea id="keyFocus" class="editable-field" rows="3"></textarea>
+                </div>
+                <div class="field-group">
+                    <label>LinkedIn Connection Note:</label>
+                    <textarea id="linkedInNote" class="editable-field" rows="6"></textarea>
+                </div>
+                <div class="field-group">
+                    <label>Date & Time:</label>
+                    <input type="text" id="dateTime" class="editable-field" readonly>
+                </div>
+                <div class="button-group">
+                    <button id="saveBtn" class="btn-success">💾 Save</button>
+                    <button id="copyNoteBtn" class="btn-secondary">📋 Copy Note</button>
+                    <button id="newJDBtn" class="btn-secondary">➕ New JD</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Saved JDs List Section -->
+        <div id="savedSection" class="section">
+            <div class="saved-header">
+                <h2>📚 Saved Job Descriptions</h2>
+                <div>
+                    <button id="refreshBtn" class="btn-secondary" style="margin-right: 10px;">🔄 Refresh</button>
+                    <button id="backToPasteBtn" class="btn-secondary">← Back</button>
+                </div>
+            </div>
+            <div id="jdsList" class="jds-list">
+                <div class="loading">Loading saved JDs...</div>
+            </div>
+        </div>
+
+        <!-- Status Message -->
+        <div id="statusMessage" class="status-message"></div>
+    </div>
+
+    <script src="sidebar.js"></script>
+</body>
+</html>
+

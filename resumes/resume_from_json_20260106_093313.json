@@ -1,0 +1,301 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Lead AI/ML Engineer - Conversational AI & Agentic Systems",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With 10 years designing enterprise systems for Insurance, Healthcare, Banking, and Consulting, I now deliver cloud-native conversational AI using Vertex AI, Dialogflow CX, and LLMs to build scalable virtual agents that enhance digital customer engagement across regulated industries.",
+    "Deploy Vertex AI Agent Engine and Dialogflow CX to build multi-agent chat systems, coordinating specialized agents via A2A protocols and MCP for context sharing, which improved insurance claim automation accuracy by handling complex, multi-step customer inquiries.",
+    "Implement Retrieval Augmented Generation pipelines on GCP using BigQuery and Cloud Storage, feeding real-time insurance policy data into LLMs to ensure chatbot responses are accurate, compliant, and avoid generating hallucinated information for customers.",
+    "Construct MLOps frameworks with Vertex AI Pipelines and Docker to automate the training and deployment of NLP models, enabling continuous integration of new intent classifiers and entity extractors for virtual agents in healthcare applications.",
+    "Apply LangGraph to orchestrate agentic workflows within chat Virtual Agent solutions, defining clear state transitions and decision paths that manage healthcare appointment scheduling and insurance eligibility checks reliably.",
+    "Utilize the Google Agent Development Kit to prototype and test new conversational flows quickly, gathering feedback from cross-functional teams to refine the dialogue management before full-scale deployment on Cloud Run.",
+    "Integrate GenAI capabilities from PaLM and Gemini models into Dialogflow ES bots, using prompt engineering techniques to improve intent classification and response generation for banking customer queries about transactions and fraud alerts.",
+    "Develop CI/CD pipelines with Cloud Functions and Pub/Sub for event-driven agent updates, triggering automated retraining when model monitoring in Vertex AI detects performance drift in production conversational AI systems.",
+    "Formulate NLP strategies using TensorFlow and Hugging Face transformers to preprocess and understand customer chat text, improving the virtual agent's ability to handle nuanced requests in insurance and healthcare domains.",
+    "Establish cloud-native architectures on GCP with Kubernetes for containerized agent deployment, ensuring high availability and scalability of Digital Customer Engagement platforms during peak insurance inquiry periods.",
+    "Create REST APIs and gRPC services to connect Dialogflow CX virtual agents with backend enterprise systems like CRMs, enabling secure access to customer data for personalized interactions in banking and consulting.",
+    "Design multi-agent systems where specialized agents communicate via A2A protocols, allowing one agent to handle FAQ retrieval while another processes complex insurance form submissions, improving overall solution efficiency.",
+    "Configure Model Context Protocol within agentic workflows to maintain coherent conversation history and user state across different LLM calls, which was crucial for maintaining compliance during regulated healthcare interactions.",
+    "Assemble training datasets from Cloud Storage and BigQuery, applying PyTorch for custom model development to address unique conversational patterns found in banking security verification and healthcare HIPAA-compliant dialogues.",
+    "Prepare monitoring dashboards for chat Virtual Agent performance, tracking metrics like intent confusion and fallback rates to identify areas for prompt engineering and RAG source improvement in insurance applications.",
+    "Execute proof-of-concept projects using Vertex AI's generative AI tools to demonstrate the feasibility of automated insurance claim triage and healthcare information routing to stakeholders, securing project buy-in.",
+    "Operate within cross-functional cloud and data teams, providing technical leadership on AI/ML best practices for deploying and maintaining enterprise-grade virtual agents that meet strict industry regulations.",
+    "Guide the adoption of agentic AI design patterns across projects, mentoring team members on using LangGraph for workflow orchestration and MCP for context management in scalable customer service solutions."
+  ],
+  "technical_skills": {
+    "AI/ML & Agentic Engineering": [
+      "AI/ML Engineer",
+      "Vertex AI",
+      "Vertex AI Agent Engine",
+      "Dialogflow CX/ES",
+      "chat Virtual Agent",
+      "Agentic AI",
+      "Multi-Agent Systems",
+      "Google Agent Development Kit (ADK)",
+      "Model Context Protocol (MCP)",
+      "Agent-to-Agent (A2A) Communication",
+      "LangGraph",
+      "Agentic Workflows"
+    ],
+    "Conversational AI & NLP": [
+      "CCAI",
+      "NLP",
+      "LLM",
+      "GenAI",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation (RAG)",
+      "Intent Classification",
+      "Entity Extraction"
+    ],
+    "Cloud Platforms (GCP)": [
+      "GCP",
+      "Vertex AI Pipelines",
+      "Cloud Functions",
+      "Cloud Run",
+      "Pub/Sub",
+      "Cloud Storage",
+      "BigQuery",
+      "cloud-native architectures"
+    ],
+    "Machine Learning Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Hugging Face",
+      "Scikit-Learn"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & CI/CD": [
+      "MLOps",
+      "CI/CD",
+      "Model Monitoring",
+      "Drift Detection"
+    ],
+    "APIs & Integration": [
+      "REST APIs",
+      "gRPC",
+      "API Security",
+      "Authentication",
+      "Event-driven Architecture"
+    ],
+    "Data Engineering & Tools": [
+      "Databricks",
+      "Apache Spark",
+      "Apache Airflow"
+    ],
+    "Additional Technologies": [
+      "Gemini",
+      "PaLM",
+      "CRM Integration"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Planning Phase: Define the architecture for a multi-agent insurance claims system using Vertex AI Agent Engine, outlining how specialized agents for damage assessment and customer verification will communicate via A2A protocols while adhering to strict state insurance regulations.",
+        "Planning Phase: Draft technical specifications for integrating Databricks and PySpark pipelines with Vertex AI, ensuring processed claims data flows reliably into RAG pipelines to support the conversational AI's knowledge base for policy coverage questions.",
+        "Implementation Phase: Build proof-of-concept multi-agent systems with LangGraph, creating directed graphs that orchestrate workflows between a document intake agent and a fraud detection agent, significantly reducing manual claim review steps.",
+        "Implementation Phase: Develop the Model Context Protocol server to manage and share conversation state across different LLM-powered agents, a critical requirement for maintaining audit trails in regulated insurance customer interactions.",
+        "Implementation Phase: Write Python services that implement A2A communication, allowing the primary chat Virtual Agent to delegate complex sub-tasks like address validation or policy lookup to specialized micro-agents hosted on Cloud Run.",
+        "Implementation Phase: Code Dialogflow CX agents with generative AI features, using prompt engineering to craft system prompts that ensure all generated responses comply with insurance disclosure requirements and avoid legal misstatements.",
+        "Deployment Phase: Containerize the multi-agent application using Docker and deploy it on a GKE cluster, configuring auto-scaling policies so the system handles sudden spikes in claims inquiries after major weather events.",
+        "Deployment Phase: Establish CI/CD pipelines with Cloud Build and GitHub Actions to automate the testing and rollout of new agent versions, integrating security scans to protect sensitive customer data within the insurance platform.",
+        "Deployment Phase: Create deployment packages for the Vertex AI Pipelines that retrain the intent classification models weekly, using new chat logs from BigQuery to keep the virtual agent aligned with evolving customer phrasing.",
+        "Monitoring Phase: Set up model monitoring dashboards in Vertex AI to track performance metrics for each LLM in the agentic workflow, alerting the team to potential drift in the fraud detection agent's classification accuracy.",
+        "Monitoring Phase: Instrument the agents with custom logging to Cloud Logging, capturing detailed traces of the A2A protocol exchanges to debug issues where conversations stalled during complex, multi-step insurance processes.",
+        "Optimization Phase: Refine RAG pipeline performance by optimizing vector similarity searches over millions of insurance policy documents stored in Cloud Storage, which cut the virtual agent's response latency for technical questions.",
+        "Optimization Phase: Tune the prompts for the Gemini model used in the summary agent, running A/B tests to find the prompt structure that produces the most concise and accurate claim summaries for adjuster review.",
+        "Troubleshooting Phase: Diagnose a recurring failure in the LangGraph workflow where the context object would become corrupted, leading to incorrect claim recommendations, and patched the MCP implementation to validate state integrity.",
+        "Troubleshooting Phase: Fix a production issue where Pub/Sub messages from the legacy claims system were not triggering the correct agent, spending a late night tracing event paths and updating the Cloud Functions routing logic.",
+        "Troubleshooting Phase: Collaborate with the data team to resolve a data freshness problem in the BigQuery tables powering the RAG system, implementing a daily incremental update job to ensure agents had the latest policy changes."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Vertex AI Agent Engine",
+        "Dialogflow CX",
+        "Databricks",
+        "PySpark",
+        "LangGraph",
+        "Python",
+        "Model Context Protocol (MCP)",
+        "A2A Protocols",
+        "Multi-Agent Systems",
+        "Docker",
+        "Kubernetes",
+        "Cloud Run",
+        "Pub/Sub",
+        "Cloud Functions",
+        "BigQuery",
+        "Cloud Storage",
+        "CI/CD",
+        "REST APIs",
+        "Gemini",
+        "RAG",
+        "LLM",
+        "GenAI"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Planning Phase: Assess requirements for a HIPAA-compliant virtual agent to handle patient inquiries about medical devices, selecting Dialogflow ES and Vertex AI as the core platform due to GCP's robust security controls and audit capabilities.",
+        "Planning Phase: Sketch initial agentic workflows for a multi-agent system where one agent retrieves product manuals while another schedules follow-up calls, exploring frameworks like LangGraph and LangChain for the orchestration layer.",
+        "Implementation Phase: Craft the primary conversational flows in Dialogflow ES, meticulously designing intents and entities to understand diverse patient descriptions of symptoms while never storing protected health information in logs.",
+        "Implementation Phase: Construct a proof-of-concept using LangGraph to manage a stateful conversation for clinical trial eligibility pre-screening, where the graph managed transitions between data collection, preliminary checks, and specialist handoff.",
+        "Implementation Phase: Assemble a RAG pipeline that connected the chatbot to a secure knowledge base of FDA documentation, using Vertex AI's text embedding models to allow patients to ask complex questions about device approvals.",
+        "Implementation Phase: Produce Python scripts to train custom entity extraction models with PyTorch and Hugging Face, improving the bot's ability to identify specific drug names and medical device codes from unstructured patient text.",
+        "Deployment Phase: Package the NLP models and dialogue engine into Docker containers, deploying them on Cloud Run with strict IAM policies to ensure only authorized services could access the underlying patient data storage.",
+        "Deployment Phase: Activate Vertex AI Pipelines to automate the end-to-end training of the intent classifier, which needed frequent updates as new medical terminology entered common usage during public health campaigns.",
+        "Monitoring Phase: Watch the model monitoring alerts in Vertex AI, investigating any dip in the intent confidence scores that could indicate the chatbot was misunderstanding newly emerged patient concerns about specific treatments.",
+        "Optimization Phase: Enhance the RAG retrieval step by fine-tuning the embedding model on a corpus of medical literature, which made the virtual agent better at finding relevant information for rare or complex patient conditions.",
+        "Optimization Phase: Amend the LangGraph workflow to include a fallback path that escalated conversations to a human nurse agent whenever the system detected high uncertainty, a key safeguard for patient safety in healthcare AI.",
+        "Troubleshooting Phase: Uncover a data leakage issue in the training pipeline where test data was accidentally used for validation, requiring a full retrain of the models and a review of all MLOps procedures with the data science team.",
+        "Troubleshooting Phase: Rectify a latency problem in the agent's response time by profiling the Cloud Functions and discovering an inefficient query to BigQuery, which was solved by adding a dedicated caching layer using Memorystore.",
+        "Troubleshooting Phase: Solve a recurring dialog loop where patients asking about side effects were not getting clear answers, leading a workshop to rewrite the prompts and training phrases based on actual conversation transcripts."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Dialogflow ES",
+        "Python",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "PyTorch",
+        "Hugging Face",
+        "TensorFlow",
+        "RAG",
+        "Docker",
+        "Cloud Run",
+        "Vertex AI Pipelines",
+        "BigQuery",
+        "Cloud Functions",
+        "Pub/Sub",
+        "Healthcare",
+        "HIPAA",
+        "LLM",
+        "NLP"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Planning Phase: Evaluate AWS SageMaker and Comprehend for building a text classification system to categorize citizen emails to the state health department, ensuring the design met public sector data residency and HIPAA requirements.",
+        "Planning Phase: Map the data flow from on-premise SQL Server databases to AWS S3 using Glue ETL jobs, creating a secure pipeline to prepare training data for models predicting public health inquiry topics.",
+        "Implementation Phase: Generate training datasets from historical email data, applying NLP techniques with spaCy and NLTK to clean and tokenize the text before training models to route inquiries to the correct state agency.",
+        "Implementation Phase: Fit several machine learning models in SageMaker, including XGBoost and a simple neural network, comparing their performance on the tricky task of distinguishing between Medicare and Medicaid-related questions.",
+        "Deployment Phase: Launch the best-performing model as a real-time endpoint on SageMaker, building a lightweight Flask API wrapper that integrated with the state's existing citizen portal to provide instant email categorization.",
+        "Deployment Phase: Roll out a batch inference pipeline with AWS Step Functions and Lambda, which processed nightly email batches and populated a dashboard used by department heads to track emerging public health concerns.",
+        "Monitoring Phase: Check CloudWatch metrics daily for the SageMaker endpoint, watching for increases in latency or error rates that could indicate problems as email volume fluctuated with seasonal health awareness campaigns.",
+        "Optimization Phase: Improve model accuracy by implementing a custom feature engineering step that incorporated metadata like the citizen's county, which provided important context for questions about localized health services.",
+        "Troubleshooting Phase: Discover an inconsistency where the batch and real-time inference results differed, tracing it to a subtle difference in text preprocessing between the Glue job and the Flask API, and harmonizing the logic.",
+        "Troubleshooting Phase: Address a model performance decay issue by implementing a simple retraining trigger based on inference confidence scores, which kicked off a new training job when accuracy fell below a set threshold.",
+        "Troubleshooting Phase: Work with the state's IT security team to close vulnerabilities identified in an audit, adding stricter IAM roles and encrypting all data in transit for the S3 buckets containing sensitive citizen information.",
+        "Troubleshooting Phase: Mend a broken data pipeline after a schema change in the source database broke the Glue job, updating the crawler definition and adding better schema validation to prevent future outages."
+      ],
+      "environment": [
+        "AWS",
+        "SageMaker",
+        "AWS Glue",
+        "S3",
+        "Lambda",
+        "Step Functions",
+        "Python",
+        "spaCy",
+        "NLTK",
+        "XGBoost",
+        "Flask",
+        "SQL Server",
+        "CloudWatch",
+        "Healthcare",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Planning Phase: Outline the data requirements for a fraud detection model analyzing credit card transaction narratives, working under PCI-DSS guidelines to ensure all model training occurred within secure, isolated AWS environments.",
+        "Planning Phase: Design the validation strategy for the NLP model, creating a hold-out test set that represented different fraud patterns and ensuring the model's false positive rate remained low to avoid unnecessary customer disruption.",
+        "Implementation Phase: Extract and transform transaction memo field text from Redshift using Python and SQL, dealing with messy, abbreviated merchant descriptions to create a clean corpus for model development.",
+        "Implementation Phase: Train a binary classification model using Scikit-learn, experimenting with TF-IDF features and logistic regression to flag potentially fraudulent transactions based on the merchant description text.",
+        "Deployment Phase: Convert the trained model into a Lambda function that could be invoked by the real-time transaction processing system, ensuring it added minimal latency to the critical payment authorization path.",
+        "Deployment Phase: Incorporate the model scores into the existing fraud dashboard in Tableau, helping human analysts prioritize their review queue based on a combination of rule-based and ML-based risk signals.",
+        "Monitoring Phase: Validate model predictions weekly against the actual fraud outcomes confirmed by investigators, tracking metrics to ensure the model remained effective as fraudsters changed their tactics over time.",
+        "Optimization Phase: Augment the model's feature set by adding word embeddings trained on the transaction corpus, which helped the model understand that 'NYC Diner' and 'New York Restaurant' were similar merchant types.",
+        "Troubleshooting Phase: Isolate a sudden drop in model precision to a change in how a major retailer submitted transaction memos, quickly retraining the model on recent data to adapt to the new text format.",
+        "Troubleshooting Phase: Correct a data quality issue where non-English transaction text was causing encoding errors in the feature pipeline, implementing a robust text encoding detection and conversion step as a fix."
+      ],
+      "environment": [
+        "AWS",
+        "Redshift",
+        "Lambda",
+        "Python",
+        "SQL",
+        "Scikit-learn",
+        "NLP",
+        "Tableau",
+        "PCI-DSS",
+        "Banking"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Planning Phase: Learn the client's on-premise Hadoop and Informatica landscape from senior team members, documenting the existing ETL processes that moved sales data from source systems into the central reporting data warehouse.",
+        "Planning Phase: Assist in designing a new Sqoop job to incrementally extract customer data from an Oracle database into HDFS, focusing on making the extraction efficient to avoid impacting the source system during business hours.",
+        "Implementation Phase: Write Informatica mappings under guidance to transform raw product data, applying business rules for data cleansing and joining different source tables to create a unified product dimension.",
+        "Implementation Phase: Develop simple Hive queries to validate the data loaded into Hadoop, checking row counts and looking for obvious null values or duplicates that might indicate a problem with the ETL logic.",
+        "Deployment Phase: Support the deployment of the new Sqoop job by helping to schedule it in the enterprise job scheduler and monitoring its first few runs to ensure it completed successfully within the expected time window.",
+        "Deployment Phase: Participate in the production migration of the updated Informatica workflows, following the checklist to promote objects from the development to the testing and finally to the production repository.",
+        "Monitoring Phase: Perform routine checks on the daily ETL batches, notifying a senior engineer if any job failed so they could begin troubleshooting the root cause, whether in the mapping or the source data.",
+        "Optimization Phase: Suggest a small change to a Hive query that was running slowly during validation, adding a partition filter that cut the execution time by allowing it to skip reading unnecessary data files."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "Hive",
+        "Oracle",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

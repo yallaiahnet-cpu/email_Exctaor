@@ -1,0 +1,291 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior AI Engineer (Node.js/TypeScript + Claude/Anthropic)",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in AI Engineering, specializing in Node.js, TypeScript, and LLM orchestration with Claude/Anthropic to build secure, scalable solutions across Healthcare, Insurance, Government, and Finance domains.",
+    "Architected production-grade Node.js services with TypeScript, focusing on RESTful API design and microservices patterns to meet stringent HIPAA and PCI compliance requirements in real-time healthcare and financial data workflows.",
+    "Engineered Claude API integrations for enterprise applications, implementing advanced prompt engineering techniques, structured outputs, and safety guardrails to reduce hallucinations in critical medical and insurance documentation.",
+    "Developed comprehensive middleware layers for request/response shaping, logging, and retry logic, ensuring robust error handling and observability across distributed AI-driven microservices in regulated environments.",
+    "Orchestrated LLM workflows using tool-calling patterns and multi-agent systems like Crew AI, designing fallback mechanisms to maintain service reliability for patient data processing and insurance claim automation.",
+    "Implemented secure API designs with JWT/OAuth2 authentication, rate limiting, and input validation, protecting sensitive PHI and financial data while adhering to government and healthcare privacy regulations.",
+    "Optimized LLM response quality by tuning system prompts and few-shot examples, balancing accuracy, safety, and latency to meet real-time requirements for clinical decision support and financial fraud detection systems.",
+    "Built privacy-first logging and PII-safe telemetry systems, ensuring all model interactions and API calls complied with GDPR, HIPAA, and insurance regulatory standards across multi-tenant architectures.",
+    "Established monitoring dashboards for latency tracking, failure analysis, and token usage, enabling cost optimization through intelligent caching and prompt minimization strategies in high-volume environments.",
+    "Designed resilience patterns with circuit breakers and timeouts for AI services, preventing cascade failures in government portal integrations and ensuring continuous availability for public service applications.",
+    "Collaborated with Product and Architecture teams to define service boundaries and contracts, facilitating smooth delivery and release readiness for AI features in enterprise insurance and healthcare platforms.",
+    "Created technical documentation including API specifications, operational runbooks, and prompt version notes, enabling knowledge transfer and sustainable maintenance of complex AI systems across teams.",
+    "Integrated Claude models into existing React/Next.js frontends, ensuring seamless user experiences for healthcare provider portals and insurance customer service applications with responsive interfaces.",
+    "Leveraged AWS cloud services to deploy containerized AI microservices using Docker, implementing CI/CD pipelines with GitHub Actions for automated testing and deployment of secure API updates.",
+    "Applied cost optimization techniques by batching requests and implementing intelligent retry policies, significantly reducing operational expenses for large-scale government and financial AI applications.",
+    "Conducted rigorous testing and evaluation checks on prompt templates, working closely with QA teams to validate output consistency and mitigate risks in automated insurance adjudication processes.",
+    "Developed agentic frameworks using LangGraph for proof-of-concept explorations, creating multi-agent systems that streamlined complex government benefit eligibility verification workflows.",
+    "Mentored junior engineers on secure coding practices and LLM integration patterns, fostering a culture of innovation and compliance within fast-paced healthcare technology development teams."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "Java",
+      "SQL",
+      "React",
+      "Next.js"
+    ],
+    "LLM & AI Integration": [
+      "Claude API (Anthropic)",
+      "LLM Orchestration",
+      "Prompt Engineering",
+      "Tool Calling Patterns",
+      "Structured Outputs",
+      "Multi-Agent Systems",
+      "Crew AI",
+      "LangGraph"
+    ],
+    "Backend Development": [
+      "RESTful API Design",
+      "Microservices Architecture",
+      "Middleware Development",
+      "Service Contracts",
+      "Error Handling Patterns",
+      "API Gateway"
+    ],
+    "Security & Compliance": [
+      "JWT/OAuth2 Authentication",
+      "Secure API Design",
+      "Rate Limiting",
+      "Input Validation",
+      "PII Redaction",
+      "HIPAA Compliance",
+      "PCI DSS",
+      "GDPR"
+    ],
+    "Cloud & DevOps": [
+      "AWS (Lambda, S3, EC2, CloudWatch)",
+      "Docker",
+      "CI/CD Pipelines",
+      "GitHub Actions",
+      "Container Orchestration",
+      "Infrastructure as Code"
+    ],
+    "Observability & Reliability": [
+      "Monitoring & Alerting",
+      "Latency Optimization",
+      "Token Usage Tracking",
+      "Cost Optimization",
+      "Circuit Breakers",
+      "Retry Mechanisms",
+      "Logging Systems"
+    ],
+    "Data Management": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Redis",
+      "Data Caching",
+      "Batch Processing",
+      "Stream Processing"
+    ],
+    "Frontend Integration": [
+      "React.js",
+      "Next.js",
+      "API Consumption",
+      "State Management",
+      "Component Libraries",
+      "Responsive Design"
+    ],
+    "Development Tools": [
+      "VS Code",
+      "Git",
+      "Postman",
+      "Swagger/OpenAPI",
+      "JIRA",
+      "Confluence",
+      "Docker Compose"
+    ],
+    "Testing & Quality": [
+      "Unit Testing",
+      "Integration Testing",
+      "API Testing",
+      "Prompt Evaluation",
+      "Security Testing",
+      "Performance Testing"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Utilized Node.js and TypeScript to architect microservices for healthcare AI applications, addressing slow response times in patient data processing by implementing caching layers and optimizing database queries, which enhanced real-time API performance for clinical decision support systems.",
+        "Leveraged Claude API to develop an AI-driven documentation summarization service, solving the problem of lengthy medical record reviews by creating structured output templates with PII redaction, significantly reducing physician administrative burden while maintaining HIPAA compliance.",
+        "Implemented LLM orchestration using Crew AI for multi-agent medical coding systems, tackling inconsistent insurance claim processing through carefully engineered prompt chains with fallback mechanisms, improving coding accuracy and reducing claim denials by substantial margins.",
+        "Designed secure RESTful APIs with JWT authentication for healthcare data exchange, addressing vulnerability concerns by integrating OAuth2 patterns and input validation middleware, ensuring protected health information remained secure across distributed hospital networks.",
+        "Built monitoring dashboards for Claude API calls within AWS CloudWatch, identifying latency spikes in medical image analysis workflows by implementing token usage tracking and cost optimization alerts, enabling proactive performance tuning for radiology report generation.",
+        "Created middleware for request/response shaping in pharmacy management systems, solving inconsistent drug interaction alert delivery by developing standardized logging and retry logic, improving system reliability for critical medication safety checks.",
+        "Orchestrated tool-calling patterns with Claude for medical literature Q&A services, addressing incomplete research responses by implementing guardrails and citation verification workflows, enhancing the quality of evidence-based medicine recommendations for clinicians.",
+        "Engineered resilience patterns with circuit breakers for real-time bed availability APIs, preventing cascade failures during peak hospital admissions by configuring intelligent timeouts and retry policies, maintaining operational continuity for emergency department workflows.",
+        "Developed prompt templates for healthcare chatbot interactions, reducing hallucination risks in symptom checking by implementing few-shot examples and safety filters, ensuring medically appropriate guidance aligned with clinical protocols and liability requirements.",
+        "Integrated Claude with existing React frontends for patient portal enhancements, addressing user experience fragmentation by creating consistent API contracts and response formatting middleware, improving patient engagement with telehealth services.",
+        "Implemented privacy-first telemetry systems for AI model interactions, solving PHI exposure risks in debugging logs by designing PII-safe masking algorithms, maintaining compliance during troubleshooting of medical diagnosis support features.",
+        "Optimized LLM costs for medical transcription services through intelligent batching and prompt minimization strategies, addressing budget overruns by analyzing usage patterns and implementing caching for common medical terminology, reducing monthly operational expenses.",
+        "Collaborated with healthcare architecture teams to define service boundaries for AI-powered diagnosis support, solving integration challenges with legacy EMR systems by designing clear API contracts and error handling standards, facilitating smoother product delivery.",
+        "Conducted code reviews for AI safety features in clinical trial matching systems, identifying potential prompt injection vulnerabilities and mentoring junior developers on secure coding practices for healthcare applications with sensitive research data.",
+        "Documented API specifications and operational runbooks for ICU predictive analytics services, addressing knowledge silos by creating comprehensive prompt version notes and deployment guides, enabling sustainable maintenance of life-critical monitoring systems.",
+        "Explored agentic frameworks using LangGraph for surgical supply chain optimization POCs, tackling inventory prediction challenges by designing multi-agent systems that coordinated procurement alerts, demonstrating potential for reducing surgical delays."
+      ],
+      "environment": [
+        "Node.js",
+        "TypeScript",
+        "Claude API",
+        "AWS",
+        "Microservices",
+        "REST APIs",
+        "JWT/OAuth2",
+        "React",
+        "Docker",
+        "CI/CD",
+        "Crew AI",
+        "LangGraph",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Employed TypeScript to develop API service layers for insurance claim processing, addressing slow adjudication times by implementing efficient data transformation middleware, accelerating claim resolution for millions of policyholders across multiple states.",
+        "Applied Claude API integration for automated claim review summaries, solving adjuster workload bottlenecks by creating structured output templates with explanation of benefits formatting, reducing manual review time while maintaining regulatory compliance standards.",
+        "Constructed LLM orchestration workflows for insurance policy document analysis, tackling inconsistent interpretation across documents by implementing tool-calling patterns for clause extraction, improving accuracy in coverage determination and reducing disputes.",
+        "Engineered secure API designs with rate limiting for member portal integrations, addressing brute force attack vulnerabilities by implementing JWT token rotation and input validation layers, protecting sensitive insurance data from unauthorized access attempts.",
+        "Developed monitoring systems for AI-driven premium calculation services, identifying cost overruns in risk assessment models by tracking token usage and implementing alert thresholds, enabling proactive optimization of actuarial prediction workflows.",
+        "Created middleware for logging insurance application processing, solving audit trail gaps by designing PII-safe telemetry that captured essential metrics without exposing sensitive member information, facilitating regulatory compliance reporting.",
+        "Implemented prompt engineering techniques for insurance chatbot deployments, reducing incorrect coverage answers by developing system prompts with few-shot examples from policy documents, enhancing customer self-service accuracy for common inquiries.",
+        "Designed fallback mechanisms for pre-authorization AI services, addressing model unavailability during peak usage by implementing circuit breakers and cached responses, ensuring continuous service for urgent medical procedure approvals.",
+        "Optimized response latency for provider directory search APIs, solving slow geolocation queries by implementing intelligent caching strategies and database indexing, improving search experience for patients seeking in-network healthcare providers.",
+        "Integrated Claude with existing insurance platforms for denial letter generation, addressing inconsistent communication tones by creating structured output templates with empathetic language guidelines, improving member satisfaction during claim disputes.",
+        "Built resilience patterns for real-time eligibility verification systems, preventing system-wide failures during open enrollment periods by configuring appropriate timeouts and retry policies with exponential backoff, maintaining service availability.",
+        "Collaborated with insurance product teams on AI feature delivery, addressing requirement ambiguities by creating detailed API specifications and testing plans for new wellness program recommendation engines, ensuring successful deployment.",
+        "Documented prompt versioning systems for underwriting AI models, tackling reproducibility challenges by maintaining comprehensive change logs and evaluation results, enabling controlled iteration of risk assessment algorithms.",
+        "Conducted troubleshooting sessions for pharmacy benefit management APIs, identifying performance bottlenecks in drug interaction checks and implementing query optimizations that reduced response times for critical medication safety alerts."
+      ],
+      "environment": [
+        "TypeScript",
+        "Node.js",
+        "Claude API",
+        "AWS",
+        "REST APIs",
+        "Microservices",
+        "JWT",
+        "Insurance Regulations",
+        "Prompt Engineering",
+        "LLM Orchestration"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Utilized Azure services to build data pipelines for government benefit programs, addressing slow application processing by implementing efficient ETL workflows with error handling, accelerating assistance delivery to eligible residents during pandemic relief efforts.",
+        "Applied secure API design principles for public portal integrations, solving data exposure risks by implementing OAuth2 authentication and input validation middleware, protecting citizen information in unemployment and social service applications.",
+        "Developed monitoring solutions for government service chatbots, identifying response quality issues by tracking interaction metrics and implementing prompt adjustment workflows, improving accuracy for frequently asked questions about public programs.",
+        "Created data validation middleware for census data processing systems, tackling data integrity challenges by implementing comprehensive checks and audit trails, ensuring statistical accuracy for redistricting and funding allocation decisions.",
+        "Engineered logging systems with PII redaction for public health reporting APIs, addressing privacy concerns by designing telemetry that captured performance metrics without exposing individual citizen health data, maintaining HIPAA compliance.",
+        "Implemented caching strategies for frequently accessed government resource directories, solving slow search performance by designing Redis integration with invalidation policies, improving citizen access to emergency service information.",
+        "Built error handling patterns for voting system data integrations, addressing data synchronization failures during election periods by implementing retry logic with circuit breakers, ensuring reliable reporting of election results.",
+        "Designed API contracts for inter-agency data sharing initiatives, solving interoperability challenges between legacy systems by creating standardized RESTful interfaces with clear documentation, facilitating smoother collaboration.",
+        "Developed cost optimization measures for public records request processing, addressing budget constraints by implementing batching strategies and usage monitoring for document analysis services, reducing operational expenses.",
+        "Created technical documentation for emergency response system integrations, tackling knowledge transfer challenges by writing comprehensive runbooks and API specifications, enabling sustainable maintenance by government IT teams.",
+        "Conducted performance troubleshooting for DMV appointment scheduling APIs, identifying bottlenecks in real-time availability checks and implementing database optimizations that reduced wait times for citizens.",
+        "Collaborated with government architecture teams on data governance frameworks, addressing compliance requirements by contributing to security pattern definitions and implementation guidelines for new citizen service applications."
+      ],
+      "environment": [
+        "Azure",
+        "REST APIs",
+        "Security Patterns",
+        "Data Pipelines",
+        "Government Regulations",
+        "OAuth2",
+        "API Design",
+        "Monitoring",
+        "Error Handling"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Leveraged Azure Data Factory to construct financial transaction pipelines, addressing slow fraud detection by implementing real-time processing workflows with anomaly detection algorithms, enhancing security for millions of cardholder accounts.",
+        "Applied secure API design principles for financial data integrations, solving PCI DSS compliance challenges by implementing encryption layers and strict input validation, protecting sensitive payment information during external partner exchanges.",
+        "Developed monitoring systems for credit risk assessment models, identifying performance degradation by tracking processing latency and implementing alert mechanisms, enabling proactive maintenance of critical financial decision systems.",
+        "Created error handling patterns for batch payment processing systems, tackling transaction failures during peak volumes by implementing comprehensive retry logic with circuit breakers, ensuring reliable settlement operations.",
+        "Engineered logging solutions with financial data masking, addressing audit trail requirements without exposing account details by designing PII-safe telemetry that captured essential processing metrics, facilitating regulatory compliance reporting.",
+        "Implemented caching strategies for frequently accessed customer profile data, solving slow application processing by designing efficient data retrieval patterns with appropriate invalidation policies, improving credit decision turnaround times.",
+        "Built API contracts for banking partner integrations, solving interoperability issues by creating standardized RESTful interfaces with clear authentication requirements, facilitating smoother data exchanges for joint financial products.",
+        "Designed cost optimization measures for data analysis services, addressing budget constraints by implementing intelligent query routing and resource allocation policies, reducing operational expenses for market risk calculations.",
+        "Developed technical documentation for fraud detection system integrations, tackling knowledge preservation challenges by writing comprehensive operational runbooks and data flow diagrams, enabling sustainable system maintenance.",
+        "Conducted performance troubleshooting for real-time authorization APIs, identifying bottlenecks in merchant category validation and implementing optimization that reduced decline rates for legitimate transactions while maintaining security."
+      ],
+      "environment": [
+        "Azure",
+        "Big Data",
+        "Financial Regulations",
+        "PCI DSS",
+        "API Security",
+        "Data Pipelines",
+        "Monitoring",
+        "Error Handling",
+        "Financial Systems"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Utilized Python and SQL to analyze medical imaging data, addressing inconsistent diagnostic patterns by developing statistical models that identified correlations in pathology reports, supporting early disease detection research in oncology workflows.",
+        "Applied data visualization techniques with Power BI for clinical trial metrics, solving communication gaps in research progress by creating interactive dashboards that highlighted patient enrollment trends and treatment efficacy indicators.",
+        "Developed data validation routines for laboratory information systems, tackling data integrity issues in test results by implementing comprehensive quality checks and anomaly detection algorithms, improving reliability of diagnostic outputs.",
+        "Created documentation for healthcare data analysis processes, addressing knowledge transfer challenges by writing detailed procedure manuals and data dictionary references, enabling consistent analytical approaches across research teams.",
+        "Engineered data extraction workflows from electronic medical records, solving access limitations by designing efficient query patterns that retrieved relevant patient history while maintaining HIPAA compliance through proper data anonymization.",
+        "Implemented basic monitoring for data pipeline performance, identifying processing bottlenecks in large-scale genomic data by tracking execution times and resource utilization, enabling optimization of bioinformatics analysis workflows.",
+        "Built collaborative relationships with clinical research teams, solving requirement misinterpretations by participating in regular meetings to clarify data needs and analysis objectives for various medical studies.",
+        "Conducted troubleshooting for data quality issues in patient outcome tracking systems, identifying source system inconsistencies and implementing reconciliation processes that improved data accuracy for longitudinal health studies."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Healthcare Data",
+        "HIPAA",
+        "Data Analysis",
+        "Medical Imaging",
+        "Power BI",
+        "Electronic Medical Records"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

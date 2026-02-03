@@ -1,0 +1,321 @@
+{
+  "personal_info": {
+    "name": "Yallaiah Onteru",
+    "title": "Senior Artificial Intelligence Engineer - AI Platforms & Agentic Workflows",
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "location": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/"
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in building enterprise-scale AI platforms, focusing on agentic systems, event-driven architectures, and AI-assisted development workflows across insurance, healthcare, banking, and consulting domains.",
+    "Constructed scalable AI workflow platforms using LangGraph framework to orchestrate multi-agent systems for complex business processes like automated RFP response, improving operational efficiency and reducing manual effort significantly.",
+    "Integrated ChatGPT and Claude modules within Python-based AI agents to synthesize product requirements, generate technical content, and assist developers, enhancing the overall innovation and build cycle for technology solutions.",
+    "Architected event-driven systems using RabbitMQ and AWS EventBridge to manage asynchronous communication between AI agents, ensuring reliable message delivery and enabling scalable, decoupled microservices for enterprise applications.",
+    "Built RAG pipelines with LangChain to ground LLM responses in proprietary enterprise data, improving answer accuracy for client-facing AI products and ensuring responses align with internal knowledge bases and strategy.",
+    "Applied prompt engineering techniques to optimize interactions with various LLMs for specific tasks such as code generation, requirement analysis, and document creation, tailoring outputs to meet strict enterprise standards.",
+    "Developed React-based front-end interfaces for AI workflow management consoles, allowing users to visualize agent states, trigger processes, and monitor event flows, creating an intuitive platform for non-technical stakeholders.",
+    "Established CI/CD pipelines on AWS for AI agent deployments, automating testing of LangGraph workflows and model updates to ensure consistent delivery and rapid iteration of new agent capabilities across the enterprise.",
+    "Configured AWS VPC networking, IAM policies, and security groups to host AI platforms, ensuring HIPAA and PCI-DSS compliance for projects handling sensitive insurance, healthcare, and financial data.",
+    "Managed infrastructure coding using AWS CDK to define cloud resources for AI services, enabling version-controlled, repeatable deployments of DynamoDB tables, Lambda functions, and API Gateway endpoints.",
+    "Operationalized AI agents for industrial use by implementing monitoring, logging, and state persistence in DynamoDB, providing resilience and audit trails for critical business automation workflows.",
+    "Collaborated with global technology and analytics teams to align AI platform development with enterprise-wide strategy, translating client needs into technical specifications for agentic AI solutions.",
+    "Engineered middleware services to bridge communication between legacy systems and modern AI agents, using Python and event streams to transform data formats and enable seamless integration.",
+    "Utilized Cursor AI assistant for daily development tasks, including debugging Python code, writing unit tests for LangGraph nodes, and reviewing pull requests, accelerating the AI-assisted development lifecycle.",
+    "Designed AI workflow platforms supporting HL7 FHIR data standards for healthcare projects, building adapters to process clinical data securely and feed it into analytics and decision-support agents.",
+    "Implemented agentic AI patterns to decompose complex RFP responses into manageable tasks handled by specialized agents, coordinating their work through a central LangGraph orchestration layer.",
+    "Governed technology scaling by designing modular, reusable agent components and workflow templates, allowing different business units to adapt the core AI platform for their specific automation needs.",
+    "Transformed technology delivery by mentoring team members on LangGraph concepts, event architecture best practices, and prompt engineering, fostering a culture of scalable AI innovation."
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "JavaScript"
+    ],
+    "machine_learning_ai_frameworks": [
+      "LangGraph",
+      "LangChain",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "deep_learning_neural_networks": [
+      "Transformer Models",
+      "LLMs (GPT, Claude)",
+      "Embedding Models"
+    ],
+    "data_processing_analytics": [
+      "Pandas",
+      "NumPy",
+      "Prompt Engineering",
+      "RAG Pipelines"
+    ],
+    "big_data_technologies": [
+      "Hadoop",
+      "Spark",
+      "Sqoop"
+    ],
+    "cloud_platforms_services": [
+      "AWS (VPC, IAM, Lambda, EventBridge)",
+      "Azure",
+      "AWS DynamoDB",
+      "AWS CloudFormation"
+    ],
+    "databases_data_storage": [
+      "DynamoDB",
+      "SQL Server",
+      "Azure Blob Storage"
+    ],
+    "etl_data_integration": [
+      "Informatica",
+      "Apache NiFi",
+      "Custom Data Pipelines"
+    ],
+    "mlops_model_deployment": [
+      "Model Registry",
+      "Workflow Orchestration",
+      "Agent State Management"
+    ],
+    "devops_cicd": [
+      "AWS CodePipeline",
+      "Jenkins",
+      "GitHub Actions",
+      "Infrastructure as Code"
+    ],
+    "containerization_orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "monitoring_logging": [
+      "CloudWatch",
+      "ELK Stack",
+      "Custom Agent Logging"
+    ],
+    "development_tools_ides": [
+      "Cursor",
+      "VS Code",
+      "Jupyter Notebook"
+    ],
+    "version_control_collaboration": [
+      "Git",
+      "GitHub",
+      "Confluence",
+      "Agile Methodology"
+    ]
+  },
+  "experience": [
+    {
+      "company": "State Farm",
+      "location": "Austin, Texas.",
+      "role": "Senior AI Lead Developer",
+      "start_date": "2025-Jan",
+      "end_date": "Present",
+      "project": [
+        {
+          "name": "AI-Powered Claims Processing System",
+          "project_summary": "Led development of an event-driven AI platform to industrialize agentification for insurance claims automation. The system uses LangGraph to orchestrate specialized AI agents that assess claims, validate policies, and generate correspondence, integrating with legacy systems via RabbitMQ. It focuses on scaling AI across the enterprise while adhering to strict insurance regulations, reducing claim processing time and improving accuracy through AI-assisted decision workflows.",
+          "responsibilities": [
+            "Orchestrate LangGraph workflows to manage a multi-agent system for claims adjudication, where each agent handles tasks like damage assessment, fraud detection, and compliance checks, coordinating their outputs into a final decision.",
+            "Guide a coding assistant daily to write Python services for AI agents, debug graph state issues, and review team code, significantly speeding up development while maintaining high quality standards.",
+            "Synthesize complex product requirements by conversing with ChatGPT to draft technical design documents for new agent capabilities, then translate these into actionable development tasks for the team.",
+            "Construct React front-end components for a claims dashboard, visualizing the real-time status of AI agent workflows and allowing adjusters to intervene or approve automated decisions as needed.",
+            "Architect an event-driven backbone with AWS EventBridge and RabbitMQ, enabling claims data to flow reliably between AI agents, core policy systems, and external validation services.",
+            "Establish CI/CD pipelines that automatically test and deploy new versions of LangGraph workflows to AWS Lambda, ensuring rapid iteration and reliable updates to the production claims platform.",
+            "Configure AWS VPC with private subnets and security groups to isolate the AI platform, implementing IAM roles and KMS encryption to protect sensitive policyholder data throughout the claims process.",
+            "Operationalize AI agents by implementing state checkpoints in DynamoDB, allowing long-running claims processes to resume after interruptions and providing a complete audit trail for regulatory reviews.",
+            "Engineered a RAG pipeline that grounds LLM responses in the company's policy manuals and past claim rulings, ensuring automated decisions are consistent with internal guidelines and legal standards.",
+            "Applied prompt engineering to refine the instructions for a document analysis agent, improving its ability to extract relevant information from uploaded claim photos and repair estimates accurately.",
+            "Managed infrastructure coding using AWS CDK to define all required resources, from DynamoDB tables for agent memory to S3 buckets for document storage, promoting infrastructure as code practices.",
+            "Collaborated with legal and compliance teams to ensure the AI agents' logic and outputs align with state-specific insurance regulations, adjusting workflow rules based on their feedback and audit findings.",
+            "Designed a middleware service in Python to transform legacy claim data into a structured format consumable by AI agents, solving data compatibility issues that initially slowed down processing.",
+            "Utilized Cursor to quickly refactor a complex agent coordination module, exploring different code structures with AI suggestions before settling on a clean, maintainable design for the team.",
+            "Implemented monitoring with CloudWatch alarms for agent error rates and event queue depths, setting up dashboards that give the operations team visibility into the platform's health.",
+            "Governed the technology by creating reusable LangGraph component libraries, enabling other teams in the enterprise to build their own compliant insurance automation workflows more quickly."
+          ],
+          "environment": [
+            "Python",
+            "LangGraph",
+            "LangChain",
+            "AI Agents",
+            "ChatGPT",
+            "Claude modules",
+            "RAG pipelines",
+            "Prompt Engineering",
+            "React",
+            "AWS (VPC, IAM, Lambda, EventBridge, DynamoDB)",
+            "CI/CD",
+            "RabbitMQ",
+            "Event Architecture",
+            "Middleware",
+            "Cursor",
+            "Infrastructure coding",
+            "HL7",
+            "FHIR"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "location": "New Brunswick, New Jersey.",
+      "role": "Senior AI Developer",
+      "start_date": "2021-Aug",
+      "end_date": "2024-Dec",
+      "project": [
+        {
+          "name": "Intelligent Patient Records Management",
+          "project_summary": "Built an AI-assisted platform for managing and analyzing patient records, leveraging LangChain and LLMs to automate data entry, summarize clinical notes, and ensure HIPAA compliance. The system uses an event-driven architecture to process HL7 FHIR data streams, enabling real-time updates and providing healthcare professionals with AI-generated insights for patient care and clinical decision support within a secure AWS environment.",
+          "responsibilities": [
+            "Built LangChain chains and agents to parse unstructured clinical notes, extract medical codes, and populate structured fields in the patient database, reducing manual data entry workload for clinical staff.",
+            "Integrated ChatGPT API into a healthcare chatbot interface, carefully prompting it to provide general wellness information while restricting responses about specific medical treatments to avoid compliance issues.",
+            "Applied FHIR data standards to structure all patient information exchanged between system modules, ensuring interoperability with other hospital systems and compliance with healthcare data regulations.",
+            "Architected a HIPAA-compliant event stream using AWS services where patient record updates published events that triggered AI agents for tasks like anomaly detection and report generation.",
+            "Configured AWS IAM policies and encryption for DynamoDB tables storing de-identified patient data used for AI model training, adhering to strict data governance and privacy protocols.",
+            "Designed a RAG system that allowed LLM agents to answer queries about clinical trial protocols by retrieving information from a secure knowledge base, improving the accuracy of responses provided to researchers.",
+            "Operated a CI/CD pipeline that deployed Python-based AI microservices to AWS ECS, automating the integration of new natural language processing models into the production patient records platform.",
+            "Managed the development of React components for a clinician portal, displaying AI-generated patient summaries and trend visualizations in a clear, actionable dashboard for daily rounds.",
+            "Utilized prompt engineering techniques to create specialized instructions for an agent that translated between medical jargon and plain language, aiding in patient communication and education materials.",
+            "Collaborated with clinical stakeholders to understand their workflow needs, translating those into requirements for AI agents that prioritize alerts and surface relevant patient information proactively.",
+            "Engineered a middleware layer to convert incoming HL7 messages to FHIR resources, then route them to the appropriate processing AI agents, ensuring reliable data ingestion from legacy hospital systems.",
+            "Established monitoring for AI agent performance, tracking metrics like note processing latency and entity recognition accuracy to ensure the system met clinical usability standards.",
+            "Guided junior developers on using LangGraph for a pilot project that orchestrated multiple agents for patient discharge summary automation, sharing best practices for state management and error handling.",
+            "Constructed a secure AWS VPC environment for the AI platform, with private subnets for model inference and API Gateway endpoints for controlled external access by authorized healthcare applications."
+          ],
+          "environment": [
+            "Python",
+            "LangChain",
+            "AI Agents",
+            "ChatGPT",
+            "LLMs",
+            "RAG pipelines",
+            "Prompt Engineering",
+            "AWS (VPC, IAM, ECS, DynamoDB, API Gateway)",
+            "CI/CD",
+            "Event Architecture",
+            "HL7",
+            "FHIR",
+            "React",
+            "Healthcare Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "State of Maine",
+      "location": "Augusta, Maine.",
+      "role": "Senior ML Engineer",
+      "start_date": "2020-Apr",
+      "end_date": "2021-Jul",
+      "project": [
+        {
+          "name": "Public Health Records System",
+          "project_summary": "Developed a machine learning platform for the state's public health department to analyze population health data, track disease outbreaks, and manage immunization records. The Azure-based system processed HL7 data feeds from healthcare providers, used ML models for anomaly detection in reporting data, and provided analytics dashboards to support public health decision-making while ensuring compliance with state regulations and HIPAA requirements.",
+          "responsibilities": [
+            "Developed machine learning models in Python to detect anomalies in weekly disease reporting data, flagging potential outbreaks for early investigation by public health epidemiologists.",
+            "Implemented data pipelines on Azure Data Factory that ingested HL7 messages from healthcare providers, transformed them, and loaded them into a centralized data lake for analysis.",
+            "Built Azure Functions to serve ML model predictions, creating APIs that the analytics dashboard could call to get risk scores for different geographic regions based on current health data.",
+            "Designed a data warehouse schema optimized for public health queries, enabling fast retrieval of historical immunization rates and disease incidence data for trend analysis and reporting.",
+            "Created interactive dashboards using Power BI to visualize ML model outputs, showing maps of high-risk areas and time-series graphs of key health indicators for state officials.",
+            "Collaborated with public health experts to define relevant features for the ML models, incorporating their domain knowledge on factors that influence disease spread in community settings.",
+            "Managed the model deployment process using Azure ML, versioning models and tracking their performance metrics to ensure consistent and reliable predictions in production.",
+            "Established data governance protocols to ensure all patient data was de-identified before ML processing, maintaining strict HIPAA compliance throughout the analytics workflow.",
+            "Configured Azure security groups and network policies to restrict access to the health data platform, allowing only authorized public health department personnel to query the system.",
+            "Trained department staff on using the new analytics dashboard, creating user guides and conducting workshops to help them interpret the ML-generated insights for policy planning.",
+            "Debugged data quality issues in the ingestion pipelines, working with healthcare providers to correct formatting errors in their HL7 messages that caused processing failures.",
+            "Optimized the performance of database queries supporting the dashboard, adding indexes and refining joins to ensure officials could interact with the data without frustrating delays."
+          ],
+          "environment": [
+            "Python",
+            "Machine Learning",
+            "Azure (Data Factory, Functions, SQL Database, ML Studio)",
+            "HL7",
+            "Power BI",
+            "Data Warehousing",
+            "Healthcare Analytics",
+            "HIPAA Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Bank of America",
+      "location": "New York, New York.",
+      "role": "Data Scientist",
+      "start_date": "2018-Jan",
+      "end_date": "2020-Mar",
+      "project": [
+        {
+          "name": "Mortgage Processing System",
+          "project_summary": "Enhanced a mortgage processing platform with data science capabilities to assess applicant risk, detect fraud, and automate document verification. The project involved building predictive models on Azure using applicant financial data, integrating these models into the loan origination workflow, and creating dashboards to monitor model performance and decision rates, all while ensuring compliance with financial regulations and PCI-DSS standards.",
+          "responsibilities": [
+            "Built predictive models to assess mortgage applicant risk using historical loan performance data, incorporating features like credit scores, debt-to-income ratios, and employment history.",
+            "Created automated document verification scripts that extracted key information from scanned bank statements and tax forms using OCR and pattern matching, reducing manual review time.",
+            "Developed fraud detection algorithms that flagged applications with unusual patterns, such as mismatched addresses or suspicious income documentation, for further investigation by the risk team.",
+            "Designed A/B tests to evaluate new model versions, working with business analysts to define success metrics and ensure statistically valid comparisons of approval rates and default risk.",
+            "Implemented model APIs using Azure Machine Learning services, allowing the core mortgage processing application to get risk scores in real-time during the application workflow.",
+            "Prepared regular reports on model performance and business impact, presenting findings to risk management stakeholders and recommending adjustments to model thresholds based on economic conditions.",
+            "Collaborated with IT security teams to ensure all data handling and model deployment processes met PCI-DSS requirements for protecting sensitive customer financial information.",
+            "Managed the data pipeline that fed model training, ensuring features were calculated consistently between training and production environments to prevent model drift and performance degradation.",
+            "Debugged data quality issues that caused model prediction errors, tracing problems back to source systems and working with data engineers to implement corrections in the ETL processes.",
+            "Trained business users on interpreting model outputs, creating simple guides that explained how different factors influenced an applicant's risk score and the resulting loan decision."
+          ],
+          "environment": [
+            "Python",
+            "Machine Learning",
+            "Data Science",
+            "Azure ML",
+            "Predictive Modeling",
+            "A/B Testing",
+            "Data Analysis",
+            "PCI-DSS Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hexaware",
+      "location": "Mumbai, Maharashtra.",
+      "role": "Data Engineer",
+      "start_date": "2015-Oct",
+      "end_date": "2017-Dec",
+      "project": [
+        {
+          "name": "Enterprise Analytics Dashboard",
+          "project_summary": "Developed a centralized data warehouse and business intelligence dashboard for a retail client, migrating on-premise data to a Hadoop ecosystem. The project involved building ETL pipelines with Informatica and Sqoop to consolidate sales, inventory, and customer data from multiple source systems, enabling the client's business teams to access unified reports and analytics for strategic decision-making.",
+          "responsibilities": [
+            "Built Informatica workflows to extract data from multiple source systems including SQL Server and flat files, transforming and loading it into a centralized Hadoop data warehouse.",
+            "Created Sqoop jobs to efficiently transfer large volumes of data between relational databases and HDFS, optimizing parameters for performance based on network conditions and data characteristics.",
+            "Designed Hive tables and partitions to store retail sales data in an optimized structure, enabling faster query performance for the business intelligence reports and dashboards.",
+            "Developed shell scripts to automate the scheduling and monitoring of ETL jobs, sending alerts to the team when data loads failed or encountered data quality issues requiring attention.",
+            "Collaborated with business analysts to understand their reporting needs, translating requirements into data models that provided the necessary dimensions and measures for their analytics.",
+            "Tested data quality at each stage of the pipeline, writing validation queries to check for missing values, duplicates, and business rule violations before data reached the reporting layer.",
+            "Documented the data warehouse architecture and ETL processes, creating runbooks that enabled support teams to troubleshoot issues and onboard new team members effectively.",
+            "Learned about performance tuning in Hadoop by experimenting with different file formats and compression codecs, eventually settling on Parquet format for most tables to balance speed and storage."
+          ],
+          "environment": [
+            "Hadoop",
+            "Hive",
+            "Informatica",
+            "Sqoop",
+            "SQL",
+            "Shell Scripting",
+            "ETL",
+            "Data Warehousing",
+            "Business Intelligence"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "KITS",
+      "location": "",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    ""
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior LLM Engineer",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience in Large Language Models and AI Engineering, specializing in building enterprise-grade Gen AI solutions across Healthcare, Insurance, Government, and Finance domains with strict regulatory compliance.",
+    "Architected and deployed Retrieval-Augmented Generation pipelines using FAISS and Pinecone vector databases to ground LLM responses in accurate, up-to-date medical knowledge, significantly reducing hallucination risks for clinical decision support systems.",
+    "Engineered sophisticated prompt strategies incorporating Chain-of-Thought reasoning and few-shot learning to improve model accuracy on complex insurance policy interpretation tasks, enhancing automated claim processing reliability.",
+    "Led the fine-tuning of open-source and proprietary LLMs on domain-specific corpora, implementing rigorous experiment tracking with MLflow to systematically evaluate model versions and select optimal performers for production.",
+    "Designed and optimized knowledge bases for RAG systems, experimenting with various chunking strategies and embedding models to balance retrieval precision and recall for government regulation document search.",
+    "Implemented comprehensive model evaluation frameworks benchmarking latency, token efficiency, and accuracy across multiple LLM providers, enabling data-driven selection and cost optimization for financial analytics applications.",
+    "Built multi-agent systems using Crew AI and LangGraph frameworks to orchestrate complex workflows, allowing specialized agents to collaborate on healthcare data analysis while maintaining HIPAA-compliant data handling.",
+    "Developed and maintained robust LLM integration APIs using FastAPI, ensuring high availability and scalable throughput for real-time inference services powering customer-facing insurance chatbots.",
+    "Applied advanced knowledge grounding techniques to anchor model generations in source documents, meticulously tracing outputs to citations within insurance policy manuals to ensure verifiable accuracy.",
+    "Conducted systematic performance benchmarking of various embedding models and vector search algorithms, tuning FAISS indices to achieve sub-second retrieval times over millions of healthcare article embeddings.",
+    "Orchestrated the complete model lifecycle from experimentation to deployment, establishing monitoring pipelines to track performance drift and trigger retraining cycles for government service chatbots.",
+    "Pioneered the use of Model Context Protocol for standardizing interactions between different AI agents, simplifying the integration of specialized tools for financial fraud detection analysis.",
+    "Optimized token usage through prompt compression and caching strategies, significantly reducing inference costs while maintaining response quality for high-volume patient inquiry systems.",
+    "Researched and applied cutting-edge techniques like zero-shot prompting and instruction tuning to adapt general-purpose LLMs for specialized domains without extensive labeled data, accelerating project timelines.",
+    "Collaborated with data engineers to design ETL pipelines preparing training data, implementing strict data quality checks and anonymization procedures to meet healthcare privacy regulations.",
+    "Spearheaded proof-of-concept projects demonstrating the viability of agentic workflows for automating regulatory compliance checks, presenting findings to stakeholders to secure funding for full implementation.",
+    "Mentored junior engineers on LLM best practices, conducting code reviews focused on prompt design patterns, error handling for model APIs, and efficient vector database query construction.",
+    "Troubleshot production issues with RAG pipelines, diagnosing problems ranging from embedding mismatches to retriever bottlenecks, and implementing fixes that restored system reliability under peak loads."
+  ],
+  "technical_skills": {
+    "Programming Languages & Frameworks": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "LangGraph"
+    ],
+    "Large Language Model Engineering": [
+      "Prompt Engineering",
+      "Few-shot Learning",
+      "Chain-of-Thought Reasoning",
+      "Model Fine-tuning",
+      "Zero-shot Prompting",
+      "Knowledge Grounding",
+      "Instruction Tuning"
+    ],
+    "Retrieval-Augmented Generation (RAG)": [
+      "RAG Pipeline Development",
+      "Knowledge Base Design",
+      "Embedding Models",
+      "Chunking Strategies",
+      "Retriever Optimization",
+      "Hallucination Reduction",
+      "Semantic Search"
+    ],
+    "Vector Databases & Search": [
+      "FAISS",
+      "Pinecone",
+      "Chroma",
+      "Vector Indexing",
+      "Similarity Search",
+      "Approximate Nearest Neighbor"
+    ],
+    "Model Operations & Lifecycle": [
+      "Model Versioning",
+      "Experiment Tracking",
+      "MLflow",
+      "Model Evaluation",
+      "Performance Benchmarking",
+      "Model Deployment",
+      "Monitoring"
+    ],
+    "Cloud & Infrastructure (AWS)": [
+      "AWS SageMaker",
+      "AWS Lambda",
+      "Amazon Bedrock",
+      "EC2",
+      "S3",
+      "RDS",
+      "CloudFormation"
+    ],
+    "Performance Optimization": [
+      "Latency Optimization",
+      "Token Optimization",
+      "Cost Optimization",
+      "Caching Strategies",
+      "API Response Time"
+    ],
+    "Data Engineering for AI": [
+      "Data Pipelines",
+      "ETL Processes",
+      "Data Quality Checks",
+      "Anonymization",
+      "Regulatory Compliance"
+    ],
+    "API Development & Integration": [
+      "REST APIs",
+      "FastAPI",
+      "API Design",
+      "Integration Patterns",
+      "Authentication & Authorization"
+    ],
+    "Development & Collaboration Tools": [
+      "Git",
+      "Docker",
+      "Jupyter Notebooks",
+      "VS Code",
+      "CI/CD Pipelines",
+      "Agile Methodology"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Leveraged LangChain and custom prompt engineering to address inconsistent medical coding suggestions, implementing a few-shot learning system with clinical examples that improved coding accuracy by aligning with HIPAA-compliant data practices.",
+        "Utilized FAISS vector database to solve slow retrieval of medical device documentation, creating optimized embeddings and implementing hierarchical navigable small world graphs that cut search latency for clinical staff by half.",
+        "Applied model fine-tuning techniques using PyTorch to adapt a base LLM for parsing complex electronic health records, carefully curating a training dataset that preserved patient privacy under strict healthcare regulations.",
+        "Orchestrated a multi-agent proof of concept with Crew AI where specialist agents collaborated on patient intake automation, using Model Context Protocol to ensure seamless handoffs between diagnosis and scheduling tasks.",
+        "Implemented a comprehensive experiment tracking system with MLflow to compare different chunking strategies for a RAG pipeline, selecting an approach that balanced context preservation with retrieval precision for medical literature.",
+        "Architected a knowledge base design incorporating medical ontologies and FDA regulatory documents, structuring embeddings in Pinecone to support accurate grounding of LLM responses about drug interactions.",
+        "Engineered a Chain-of-Thought prompting strategy for prior authorization prediction, guiding the model through logical steps that produced auditable reasoning trails compliant with healthcare auditing requirements.",
+        "Developed a model versioning pipeline using Git and DVC to manage iterations of fine-tuned clinical models, enabling safe rollback when new versions showed decreased performance on rare medical conditions.",
+        "Optimized token usage in dialogue systems for patient education by implementing prompt compression and response caching, significantly reducing costs while maintaining educational quality and medical accuracy.",
+        "Built a performance benchmarking framework comparing various embedding models on medical text, selecting a model that excelled at capturing clinical nuance while operating within AWS SageMaker budget constraints.",
+        "Designed a hallucination reduction mechanism for discharge summary generation by strengthening the RAG retriever with hybrid search combining semantic and keyword matching over patient history documents.",
+        "Integrated AWS Bedrock models into existing healthcare analytics workflows, creating abstraction layers that allowed seamless switching between foundation models based on task-specific latency and accuracy needs.",
+        "Conducted weekly code reviews focusing on prompt injection vulnerabilities and data leakage risks in LLM applications, ensuring all implementations met stringent healthcare security and privacy standards.",
+        "Troubleshot a production issue where latency spikes occurred during peak hospital hours, diagnosing a vector database connection pool exhaustion and implementing a fix that stabilized response times.",
+        "Led a brainstorming session to explore advanced retrieval optimization techniques, eventually prototyping a recursive retrieval approach that improved answer relevance for multi-step medical queries.",
+        "Mentored two junior engineers on effective prompt engineering patterns for healthcare applications, sharing hard-won lessons about phrasing questions to elicit clinically safe and useful model responses."
+      ],
+      "environment": [
+        "Python",
+        "LangChain",
+        "FAISS",
+        "Pinecone",
+        "AWS SageMaker",
+        "AWS Lambda",
+        "Amazon Bedrock",
+        "PyTorch",
+        "MLflow",
+        "FastAPI",
+        "CrewAI",
+        "LangGraph",
+        "Model Context Protocol",
+        "HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Employed retrieval-augmented generation techniques to tackle inaccuracies in policy explanation chatbots, grounding responses in the latest insurance plan documents to ensure compliance with state regulations.",
+        "Harnessed few-shot learning approaches to improve claim denial reasoning generation, providing the model with curated examples of correctly explained denials that respected patient privacy and insurance guidelines.",
+        "Constructed a vector database using Chroma to enable efficient similarity search over millions of insurance clauses, implementing sentence-transformers embeddings that captured nuanced coverage details.",
+        "Formulated a prompt engineering strategy incorporating zero-shot prompting for classifying incoming customer inquiries, reducing the need for labeled training data while maintaining high categorization accuracy.",
+        "Assembled a proof-of-concept multi-agent system using LangGraph where separate agents specialized in policy lookup, benefit calculation, and exception handling, coordinating through a central orchestrator.",
+        "Established an experiment tracking regimen to evaluate different LLM providers for cost and accuracy, ultimately selecting a provider that balanced performance with budget for high-volume member communications.",
+        "Customized a chunking strategy for insurance policy PDFs that preserved logical sections like exclusions and limitations, critical for accurate RAG retrieval when members asked specific coverage questions.",
+        "Programmed a latency optimization solution for the member portal chatbot, implementing asynchronous API calls and response streaming that improved perceived responsiveness during open enrollment periods.",
+        "Administered regular model evaluations comparing fine-tuned models against baseline performance, using metrics tailored to insurance domain accuracy like coverage detail precision and regulatory compliance.",
+        "Configured AWS Lambda functions to serve LLM inferences for real-time eligibility checks, ensuring the system scaled automatically during morning claim processing peaks without manual intervention.",
+        "Examined hallucination reduction techniques for pre-authorization guidance, implementing a confidence scoring layer that flagged low-confidence responses for human review by insurance specialists.",
+        "Guided a junior developer through the intricacies of knowledge base design for insurance products, emphasizing the importance of maintaining clear source attribution for all generated explanations.",
+        "Participated in daily standups discussing retriever optimization challenges, contributing ideas about query expansion that improved recall for member questions using non-standard insurance terminology.",
+        "Reviewed pull requests for new prompt templates, suggesting modifications that strengthened instruction following and reduced the chance of generating misleading coverage information."
+      ],
+      "environment": [
+        "Python",
+        "RAG",
+        "Chroma",
+        "Few-shot Learning",
+        "Zero-shot Prompting",
+        "LangGraph",
+        "AWS Lambda",
+        "Experiment Tracking",
+        "Model Evaluation",
+        "Prompt Engineering",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Operated Azure Cognitive Services and custom models to extract information from scanned government forms, designing prompts that guided the LLM to focus on legally required fields while ignoring irrelevant details.",
+        "Assembled a knowledge grounding system for public FAQ chatbots, linking responses to specific sections of municipal codes and regulations to provide citizens with verifiable information sources.",
+        "Adapted a pre-trained language model using fine-tuning techniques on corpus of legal and public administration documents, improving its comprehension of bureaucratic language and government acronyms.",
+        "Compiled performance benchmarks for different embedding models on government document retrieval, selecting a model that performed well on formal legislative text while fitting within Azure budget limits.",
+        "Structured a chunking strategy for lengthy regulatory documents that respected natural section boundaries, enabling more precise retrieval when citizens asked about specific permitting requirements.",
+        "Maintained a model versioning system for the public assistance eligibility screening tool, ensuring that only approved model versions meeting government transparency standards were deployed to production.",
+        "Coordinated with legal teams to review prompt designs for sensitive topics like voting information, iterating on wording to ensure generated responses remained strictly factual and non-partisan.",
+        "Supported the integration of a vector search capability into the existing citizen portal, troubleshooting issues with character encoding in older PDF documents that affected embedding quality.",
+        "Analyzed token usage patterns across different government departments, identifying opportunities to implement shared response caches for frequently asked questions about tax deadlines and license renewals.",
+        "Tested various retriever optimization approaches for the public records search, settling on a hybrid method combining semantic search with controlled keyword matching for optimal precision.",
+        "Documented the model lifecycle management procedures for audit purposes, creating clear records of training data sources, model changes, and evaluation results for transparency compliance.",
+        "Attended weekly cross-departmental meetings to align AI initiatives with public sector ethics guidelines, contributing technical perspective on implementing guardrails in LLM applications."
+      ],
+      "environment": [
+        "Python",
+        "Azure Cognitive Services",
+        "Model Fine-tuning",
+        "Knowledge Grounding",
+        "Performance Benchmarking",
+        "Model Versioning",
+        "Government Regulations",
+        "RAG"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Applied early prompt engineering techniques to improve sentiment analysis of customer service transcripts, crafting instructions that helped the model identify financial distress signals while ignoring casual language.",
+        "Processed large volumes of transaction data to create training examples for few-shot learning models detecting fraudulent patterns, ensuring all data handling complied with PCI DSS security standards.",
+        "Evaluated different embedding approaches for clustering similar customer inquiries about credit card terms, selecting a method that grouped questions by underlying financial concepts rather than surface wording.",
+        "Prepared structured financial knowledge bases for prototype RAG systems, organizing terms and conditions documents into searchable segments that could ground model responses about interest rates and fees.",
+        "Monitored model performance on credit limit increase explanations, tracking metrics like clarity and regulatory compliance to ensure automated communications met financial disclosure requirements.",
+        "Assisted in the development of a simple chain-of-thought prototype for explaining credit score factors, breaking down the complex calculation into sequential reasoning steps for customer transparency.",
+        "Participated in model testing sessions for the fraud detection chatbot, identifying edge cases where the model might inadvertently reveal sensitive fraud pattern information to potential bad actors.",
+        "Contributed to latency optimization efforts for the real-time transaction alert system, helping implement caching for common customer questions about pending charges and authorization holds.",
+        "Learned about hallucination reduction techniques specific to financial domains, implementing basic fact-checking against account terms databases before presenting information to customers.",
+        "Supported senior engineers in maintaining experiment tracking logs for different natural language understanding approaches, documenting which techniques worked best for financial terminology."
+      ],
+      "environment": [
+        "Python",
+        "Prompt Engineering",
+        "Few-shot Learning",
+        "Embeddings",
+        "Knowledge Base Design",
+        "Model Evaluation",
+        "PCI Compliance",
+        "Financial Regulations"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and prepared medical text data from various healthcare databases using Python and SQL, creating clean datasets for early NLP experiments while strictly adhering to data anonymization protocols.",
+        "Explored basic keyword matching and TF-IDF approaches for retrieving relevant medical literature, laying groundwork for more advanced semantic search techniques that would later evolve into RAG systems.",
+        "Assisted in evaluating early text classification models on medical document categorization tasks, manually reviewing predictions to identify patterns where models struggled with specialized medical terminology.",
+        "Compiled documentation on healthcare data standards and HIPAA requirements, building foundational knowledge that would inform future work on compliant AI systems in medical domains.",
+        "Participated in team discussions about improving information retrieval from patient records, contributing ideas about structuring data to support more accurate search and analysis.",
+        "Learned fundamental concepts of machine learning model evaluation, applying basic accuracy and precision metrics to assess performance of text processing tools on medical data.",
+        "Supported the development of simple data visualization dashboards in Power BI to track model performance trends over time, making technical results accessible to healthcare domain experts.",
+        "Gained hands-on experience with healthcare data challenges through troubleshooting data quality issues in pathology reports, developing attention to detail crucial for later work on clinical AI systems."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Data Preparation",
+        "Text Processing",
+        "Model Evaluation Basics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

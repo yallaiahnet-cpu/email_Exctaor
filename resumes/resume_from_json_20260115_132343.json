@@ -1,0 +1,309 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "Senior AI/ML Engineer - Claude & LLM Applications",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "With ten years of experience designing AI systems across Insurance, Healthcare, Banking, and Consulting domains, I specialize in building Claude-integrated applications using Anthropic APIs, Node.js, and TypeScript to solve complex business challenges.",
+    "Applied Claude models and LangGraph frameworks to construct multi-agent systems for insurance policy analysis, enabling dynamic tool calling and function calling that improved automated underwriting accuracy by reducing manual review cycles.",
+    "Configured Model Context Protocol (MCP) clients and servers to standardize context management across disparate AI workflows, ensuring consistent data access for Claude APIs while maintaining security compliance for enterprise applications.",
+    "Built hybrid RAG pipelines combining vector databases like Pinecone with graph databases such as Neo4j, implementing semantic search and entity linking to retrieve precise information for Claude-powered question-answering systems.",
+    "Developed and optimized prompt chains for Claude API interactions, applying prompt engineering techniques to structure multi-step reasoning tasks and validate outputs against healthcare regulatory guidelines like HIPAA.",
+    "Integrated Claude with AWS Bedrock and SageMaker to deploy scalable inference endpoints, implementing cost management strategies and API rate limiting to control LLM usage expenses across high-volume applications.",
+    "Created AI-driven workflows using LangChain agents and custom Python scripts, orchestrating sequential Claude calls that automated document processing for banking compliance checks and PCI-DSS validation.",
+    "Designed knowledge graphs with Neo4j Cypher queries to represent domain relationships, supporting Graph RAG implementations that provided Claude models with structured contextual data for more accurate responses.",
+    "Implemented retrieval-augmented generation systems with dense retrieval models and re-ranking components, improving Claude answer quality by supplying relevant insurance policy excerpts and healthcare guideline snippets.",
+    "Set up monitoring and observability for Claude API usage with OpenTelemetry and custom dashboards, tracking token consumption, latency metrics, and error rates to identify optimization opportunities.",
+    "Constructed secure API gateways with FastAPI and Node.js middleware, adding authentication, authorization, and PII redaction layers to protect sensitive data sent to Claude models from healthcare applications.",
+    "Established data ingestion pipelines for RAG systems, chunking documents and generating embeddings with OpenAI models before storing in Weaviate vector databases for Claude-augmented retrieval.",
+    "Optimized Claude prompt performance through systematic A/B testing and evaluation frameworks, comparing different phrasing strategies and few-shot examples to determine most effective approaches for insurance use cases.",
+    "Deployed containerized Claude applications with Docker and Kubernetes on AWS, configuring auto-scaling policies and health checks to maintain availability during peak insurance claim processing periods.",
+    "Built multi-agent collaboration systems where specialized Claude instances handled distinct tasks like data validation, regulatory checking, and report generation, coordinating through LangGraph orchestration.",
+    "Applied graph traversal algorithms on Neo4j knowledge graphs to navigate healthcare provider networks, enriching Claude prompts with relational context about medical facilities and physician specialties.",
+    "Engineered fallback mechanisms and error handling routines for Claude API failures, implementing retry logic with exponential backoff and alternative model routing to ensure workflow resilience.",
+    "Collaborated with product and architecture teams to translate business requirements into technical specifications for Claude implementations, participating in sprint planning sessions and design reviews."
+  ],
+  "technical_skills": {
+    "AI/ML Frameworks & LLMs": [
+      "Claude (Anthropic APIs)",
+      "OpenAI API",
+      "Google Gemini API",
+      "LangGraph",
+      "LangChain",
+      "Multi-Agent Systems",
+      "vLLM",
+      "Ollama",
+      "Hugging Face Transformers"
+    ],
+    "RAG & Search Technologies": [
+      "Retrieval-Augmented Generation",
+      "Hybrid RAG Pipelines",
+      "Graph RAG",
+      "Vector Databases",
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "Semantic Search",
+      "Hybrid Search",
+      "ElasticSearch",
+      "OpenSearch"
+    ],
+    "Knowledge Graphs & Databases": [
+      "Neo4j",
+      "Neo4j Cypher",
+      "Knowledge Graphs",
+      "Graph Databases",
+      "Entity Linking",
+      "Graph Traversal",
+      "PostgreSQL",
+      "Redis",
+      "ChromaDB"
+    ],
+    "Programming Languages": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "SQL",
+      "Java",
+      "Bash/Shell Scripting"
+    ],
+    "Cloud & DevOps": [
+      "AWS (Bedrock, SageMaker, Lambda, EC2, S3)",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Git",
+      "Jenkins",
+      "Terraform",
+      "AWS Services"
+    ],
+    "API Development & Orchestration": [
+      "FastAPI",
+      "RESTful APIs",
+      "WebSockets",
+      "Server-Sent Events",
+      "Model Context Protocol",
+      "MCP Client Integration",
+      "Webhooks",
+      "Tool Calling",
+      "Function Calling"
+    ],
+    "Data Engineering": [
+      "Apache Spark",
+      "Databricks",
+      "Apache Airflow",
+      "Data Ingestion Pipelines",
+      "Document Chunking",
+      "Embedding Models",
+      "ETL Processes"
+    ],
+    "Monitoring & Observability": [
+      "OpenTelemetry",
+      "LangSmith",
+      "LLM Evaluation",
+      "Prompt Evaluation",
+      "Logging",
+      "Performance Monitoring"
+    ],
+    "Security & Compliance": [
+      "Authentication",
+      "Authorization",
+      "Secure API Design",
+      "PII Redaction",
+      "Secrets Management",
+      "HIPAA Compliance",
+      "PCI-DSS Compliance",
+      "Data Validation"
+    ],
+    "Workflow & Optimization": [
+      "Prompt Engineering",
+      "Prompt Chaining",
+      "Prompt Versioning",
+      "Workflow Orchestration",
+      "Temporal",
+      "Caching Strategies",
+      "Cost Optimization",
+      "Performance Optimization"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior AI Lead Developer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas",
+      "responsibilities": [
+        "Plan multi-agent system architecture using LangGraph to coordinate specialized Claude instances for insurance claim processing, defining agent roles for document analysis, fraud detection, and settlement calculation within State Farm's regulatory framework.",
+        "Implement Model Context Protocol servers to standardize access to insurance policy databases and customer history, enabling Claude agents to retrieve compliant context for personalized policy recommendations and coverage explanations.",
+        "Deploy hybrid RAG pipelines with Pinecone vector storage and Neo4j knowledge graphs, combining semantic search with graph traversal to provide Claude models with precise policy clauses and regulatory references for accurate responses.",
+        "Monitor Claude API usage across production claim processing systems, setting up OpenTelemetry collectors to track token consumption, response latency, and error rates while ensuring compliance with insurance industry regulations.",
+        "Optimize prompt chains for Claude interactions with complex insurance documents, experimenting with different few-shot examples and reasoning structures to improve accuracy in identifying coverage exceptions and policy limitations.",
+        "Troubleshoot performance bottlenecks in multi-agent conversations, analyzing LangGraph execution traces to identify delays in tool calling and implementing caching strategies for frequently accessed policy data.",
+        "Build POC demonstrating Claude's ability to parse complex insurance forms using advanced prompt engineering techniques, validating outputs against human underwriter decisions to establish confidence thresholds for automated processing.",
+        "Configure AWS Bedrock endpoints for Claude model inference, implementing rate limiting and cost tracking to manage API expenses while maintaining service availability during peak insurance renewal periods.",
+        "Develop authentication middleware for Claude API gateway, integrating with State Farm's existing IAM system to control access based on user roles and ensuring only authorized personnel can process sensitive claim data.",
+        "Create monitoring dashboards for AI workflow performance, tracking metrics like claim processing time, automated decision accuracy, and manual intervention rates to demonstrate ROI of Claude integration projects.",
+        "Design data ingestion pipelines for RAG system updates, processing new policy documents through chunking and embedding generation before indexing in vector databases for Claude retrieval during customer inquiries.",
+        "Establish CI/CD pipelines for Claude application deployments, automating testing of prompt changes and model configurations before promoting to production environments serving insurance agents and customers.",
+        "Conduct code reviews for multi-agent system implementations, ensuring proper error handling and fallback mechanisms when Claude API calls fail during critical claim adjudication processes.",
+        "Coordinate with architecture teams to integrate Claude systems with existing policy administration platforms, designing API contracts and data transformation layers to ensure seamless information exchange.",
+        "Debug complex issues in graph RAG implementations where Neo4j relationship traversals occasionally return incomplete policy hierarchies, adding validation checks and alternative retrieval paths.",
+        "Validate Claude outputs against insurance regulatory requirements, developing automated checks to flag potential compliance issues before responses reach customers or affect claim decisions."
+      ],
+      "environment": [
+        "Claude API",
+        "LangGraph",
+        "Multi-Agent Systems",
+        "Model Context Protocol",
+        "AWS Bedrock",
+        "AWS SageMaker",
+        "Pinecone",
+        "Neo4j",
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "FastAPI",
+        "OpenTelemetry",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ]
+    },
+    {
+      "role": "Senior AI Developer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey",
+      "responsibilities": [
+        "Planned AI-driven workflow for medical literature analysis using Claude models, mapping processes for extracting drug efficacy data from clinical study PDFs while maintaining strict HIPAA compliance for patient information handling.",
+        "Implemented LangChain agents with Claude integration to answer pharmaceutical researchers' questions about drug interactions, connecting to internal knowledge bases and validating responses against FDA regulatory documents.",
+        "Deployed RAG system with Weaviate vector database for medical document retrieval, configuring Claude prompts to cite sources from retrieved clinical trial excerpts when answering complex pharmacology questions from research teams.",
+        "Monitored Claude API usage across healthcare applications, implementing cost controls and usage quotas to manage expenses while ensuring researchers had adequate access for legitimate medical inquiry purposes.",
+        "Optimized prompt engineering strategies for Claude interactions with medical terminology, testing different approaches to handle drug names, dosage information, and side effect descriptions accurately in generated responses.",
+        "Troubleshot data privacy issues in RAG implementations where patient identifiers occasionally appeared in retrieved documents, adding PII redaction layers before sending context to Claude models for processing.",
+        "Built proof of concept for multi-agent system where different Claude instances specialized in drug safety analysis, clinical trial design, and regulatory compliance checking, coordinating through custom orchestration logic.",
+        "Configured AWS services including SageMaker endpoints for Claude model deployment, establishing VPC configurations and security groups to protect healthcare data according to J&J's internal compliance standards.",
+        "Developed authentication system integrating with J&J's Active Directory, ensuring only authorized medical researchers could access Claude-powered tools containing proprietary drug development information.",
+        "Created evaluation framework for Claude responses in medical contexts, developing test cases with physician experts to measure accuracy, completeness, and safety of AI-generated drug information summaries.",
+        "Designed data pipeline to process clinical trial documents into RAG systems, implementing custom chunking strategies to preserve context around drug dosage, patient demographics, and study outcomes.",
+        "Established version control for Claude prompts used in healthcare applications, tracking changes and performance metrics to identify which prompt variations produced most accurate medical information.",
+        "Conducted security reviews of Claude API integrations, verifying encryption of data in transit and at rest, and ensuring proper logging of all AI interactions for audit trails required by healthcare regulations.",
+        "Collaborated with QA teams to develop test scenarios covering edge cases in medical inquiries, including drug interactions, contraindications, and off-label usage questions that Claude needed to handle appropriately."
+      ],
+      "environment": [
+        "Claude API",
+        "LangChain",
+        "Multi-Agent Systems",
+        "AWS SageMaker",
+        "Weaviate",
+        "Python",
+        "FastAPI",
+        "HIPAA Compliance",
+        "PII Redaction",
+        "Medical Document Processing",
+        "RAG Pipelines",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine",
+      "responsibilities": [
+        "Planned machine learning system to analyze public health data for pandemic response, selecting appropriate models and designing data pipelines that complied with state healthcare regulations and patient privacy laws.",
+        "Implemented data validation routines for healthcare datasets, checking completeness and accuracy of COVID-19 testing information before processing through predictive models to forecast case trends across Maine counties.",
+        "Deployed containerized ML models using Docker on AWS infrastructure, configuring auto-scaling policies to handle variable loads during different phases of public health reporting cycles and emergency responses.",
+        "Monitored model performance and data drift in production systems, setting up alerts for when prediction accuracy dropped below acceptable thresholds for public health decision-making purposes.",
+        "Optimized feature engineering pipelines for healthcare datasets, transforming raw patient data into meaningful inputs for models predicting hospital utilization rates and resource needs across medical facilities.",
+        "Troubleshot data pipeline failures during peak reporting periods, identifying bottlenecks in ETL processes and implementing parallel processing to maintain timely updates of public health dashboards.",
+        "Built authentication layer for healthcare data portals, integrating with state identity management systems to ensure only authorized public health officials could access sensitive patient information and model predictions.",
+        "Configured AWS services including S3 for data storage and Lambda for serverless data processing, establishing proper access controls and audit logging required for healthcare applications under state regulations.",
+        "Developed API endpoints for model inference, adding rate limiting and request validation to protect backend systems from overload while serving multiple state agencies and healthcare partners.",
+        "Created documentation for ML systems used in public health decision-making, explaining model limitations and appropriate use cases to non-technical stakeholders in state government and healthcare administration.",
+        "Established data governance procedures for healthcare ML applications, defining protocols for data access, model retraining, and performance validation in consultation with legal and compliance teams.",
+        "Collaborated with public health experts to translate epidemiological requirements into technical specifications, ensuring ML systems addressed actual needs of healthcare providers and policy makers across Maine."
+      ],
+      "environment": [
+        "Python",
+        "AWS",
+        "Docker",
+        "Healthcare Data",
+        "HIPAA Compliance",
+        "Machine Learning",
+        "Data Pipelines",
+        "Public Health Analytics",
+        "API Development",
+        "Data Security"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York",
+      "responsibilities": [
+        "Planned fraud detection models using transaction data, designing feature engineering pipelines that extracted meaningful patterns while complying with banking regulations and PCI-DSS security requirements.",
+        "Implemented model training pipelines with scikit-learn and XGBoost, experimenting with different algorithms to identify fraudulent credit card transactions while minimizing false positives that inconvenience legitimate customers.",
+        "Deployed trained models to production scoring systems, containerizing with Docker and integrating with existing transaction processing infrastructure to provide real-time fraud risk assessments.",
+        "Monitored model performance in production, tracking metrics like detection rate, false positive rate, and alert volume to identify when retraining was needed based on evolving fraud patterns.",
+        "Optimized feature selection for fraud models, using techniques like recursive feature elimination to identify most predictive transaction attributes while reducing computational overhead for real-time scoring.",
+        "Troubleshot data quality issues in transaction feeds, working with data engineering teams to fix missing values and incorrect formatting that affected model accuracy and reliability in production systems.",
+        "Built authentication mechanisms for model management interfaces, ensuring only authorized risk analysts could adjust fraud detection thresholds or access sensitive model performance data.",
+        "Configured secure data environments for model development, implementing encryption and access controls required for handling financial transaction data under banking industry regulations.",
+        "Developed API specifications for model scoring services, defining input formats, output structures, and error handling approaches for integration with multiple banking applications and channels.",
+        "Created model documentation and validation reports for regulatory compliance, demonstrating thorough testing and performance verification before deployment to production financial systems."
+      ],
+      "environment": [
+        "Python",
+        "Scikit-learn",
+        "XGBoost",
+        "Fraud Detection",
+        "Banking Data",
+        "PCI-DSS Compliance",
+        "Docker",
+        "Model Deployment",
+        "Financial Analytics"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra",
+      "responsibilities": [
+        "Planned ETL processes for client data migration projects, mapping source systems to target data warehouses and identifying transformation requirements for business intelligence reporting needs.",
+        "Implemented Hadoop data pipelines using MapReduce jobs, processing large volumes of customer data for analytics applications while learning distributed computing concepts and optimization techniques.",
+        "Deployed Informatica workflows for scheduled data integration tasks, configuring connections to various database systems and file sources to extract, transform, and load information for reporting.",
+        "Monitored ETL job performance, identifying slow-running transformations and working with database administrators to optimize queries and improve overall data processing throughput.",
+        "Optimized Sqoop jobs for data transfer between relational databases and Hadoop clusters, adjusting parallelism settings and buffer sizes to achieve better performance for large table extractions.",
+        "Troubleshot data quality issues in ETL processes, tracing problems back to source systems and coordinating with application teams to implement fixes or workarounds for downstream analytics.",
+        "Built basic authentication for data access tools, implementing role-based permissions to control which business users could view sensitive customer information in reporting dashboards.",
+        "Configured development environments for data engineering work, setting up Hadoop clusters, Informatica repositories, and scheduling systems to support multiple client projects simultaneously."
+      ],
+      "environment": [
+        "Hadoop",
+        "Informatica",
+        "Sqoop",
+        "ETL",
+        "Data Warehousing",
+        "SQL",
+        "Data Integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": []
+}

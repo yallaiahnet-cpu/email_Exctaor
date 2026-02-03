@@ -1,0 +1,341 @@
+{
+  "name": "Yallaiah Onteru",
+  "title": "AI/ML Engineer",
+  "contact": {
+    "email": "yonteru.dev.ai@gmail.com",
+    "phone": "9733271133",
+    "portfolio": "",
+    "linkedin": "https://www.linkedin.com/in/yalleshaiengineer/",
+    "github": ""
+  },
+  "professional_summary": [
+    "Utilized Python and OpenAI APIs to fine-tune pre-trained models for custom NLP solutions, enhancing text classification accuracy.",
+    "Developed RAG pipelines using LangChain and Llama Index to improve context-aware responses in Gen AI applications.",
+    "Implemented Crew AI and Claude AI for automating test case generation, reducing manual effort by streamlining repetitive tasks.",
+    "Engineered end-to-end AI solutions, from dataset generation to production deployment, ensuring seamless integration with existing systems.",
+    "Applied Hugging Face Transformers and GPT models to build conversational agents for customer support, improving response times.",
+    "Integrated spaCy and NLTK for text preprocessing, enabling efficient data cleaning and feature extraction in NLP projects.",
+    "Deployed Gen AI products using Docker and Kubernetes, ensuring scalability and reliability in production environments.",
+    "Collaborated with cross-functional teams to design AI-powered automation workflows, enhancing testing efficiency.",
+    "Utilized TensorFlow and PyTorch to develop machine learning models for predictive analytics, improving decision-making processes.",
+    "Implemented MLOps practices using MLflow and DVC for version control and reproducibility of machine learning experiments.",
+    "Built RESTful APIs with Flask and FastAPI to expose machine learning models as scalable microservices.",
+    "Applied A/B testing and hypothesis testing to validate model performance, ensuring robust and reliable outcomes.",
+    "Used AWS SageMaker and Lambda for training and deploying machine learning models, optimizing resource utilization.",
+    "Developed data pipelines with Apache Airflow for efficient data ingestion and preprocessing in AI projects.",
+    "Leveraged PostgreSQL and MongoDB for storing and retrieving structured and unstructured data in AI applications.",
+    "Implemented HIPAA-compliant data handling practices in healthcare-related AI projects, ensuring data security.",
+    "Collaborated with stakeholders to define project requirements and deliver AI solutions aligned with business goals.",
+    "Mentored junior team members on AI/ML best practices, fostering a culture of continuous learning and improvement."
+  ],
+  "technical_skills": {
+    "Programming Languages": [
+      "Python",
+      "R",
+      "Java",
+      "SQL",
+      "Scala",
+      "Bash/Shell",
+      "TypeScript"
+    ],
+    "Machine Learning Models": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "H2O",
+      "AutoML",
+      "Mllib"
+    ],
+    "Deep Learning Models": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "LSTMs",
+      "Transformers",
+      "Generative Models",
+      "Attention Mechanisms",
+      "Transfer Learning",
+      "Fine-tuning LLMs"
+    ],
+    "Statistical Techniques": [
+      "A/B Testing",
+      "ANOVA",
+      "Hypothesis Testing",
+      "PCA",
+      "Factor Analysis",
+      "Regression (Linear, Logistic)",
+      "Clustering (K-Means)",
+      "Time Series (Prophet)"
+    ],
+    "Natural Language Processing": [
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "BERT",
+      "GPT",
+      "Stanford NLP",
+      "TF-IDF",
+      "LSI",
+      "Lang Chain",
+      "Llama Index",
+      "OpenAI APIs",
+      "MCP",
+      "RAG Pipelines",
+      "Crew AI",
+      "Claude AI"
+    ],
+    "Data Manipulation & Visualization": [
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Dask",
+      "Apache Arrow",
+      "seaborn",
+      "matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Bokeh",
+      "ggplot2",
+      "Tableau",
+      "Power BI",
+      "D3.js"
+    ],
+    "Big Data Frameworks": [
+      "Apache Spark",
+      "Apache Hadoop",
+      "Apache Flink",
+      "Apache Kafka",
+      "HBase",
+      "Spark Streaming",
+      "Hive",
+      "MapReduce",
+      "Databricks",
+      "Apache Airflow",
+      "dbt"
+    ],
+    "ETL & Data Pipelines": [
+      "Apache Airflow",
+      "AWS Glue",
+      "Azure Data Factory",
+      "Informatica",
+      "Talend",
+      "Apache NiFi",
+      "Apache Beam",
+      "Informatica PowerCenter",
+      "SSIS"
+    ],
+    "Cloud Platforms": [
+      "AWS (S3, SageMaker, Lambda, EC2, RDS, Redshift, Bedrock)",
+      "Azure (ML Studio, Data Factory, Databricks, Cosmos DB)",
+      "GCP (Big Query, Vertex AI, Cloud SQL)"
+    ],
+    "Web Technologies": [
+      "REST APIs",
+      "Flask",
+      "Django",
+      "Fast API",
+      "React.js"
+    ],
+    "Statistical Software": [
+      "R (dplyr, caret, ggplot2, tidyr)",
+      "SAS",
+      "STATA"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "Snowflake",
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "Snowflake Elasticsearch",
+      "AWS RDS",
+      "Google Big Query",
+      "SQL Server",
+      "Netezza",
+      "Teradata"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & Deployment": [
+      "ML flow",
+      "DVC",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "Flask",
+      "Fast API",
+      "Streamlit"
+    ],
+    "Streaming & Messaging": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Amazon Kinesis"
+    ],
+    "DevOps & CI/CD": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "Development Tools": [
+      "Jupyter Notebook",
+      "VS Code",
+      "PyCharm",
+      "RStudio",
+      "Google Colab",
+      "Anaconda"
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI Lead Engineer",
+      "client": "State Farm",
+      "duration": "2025-Jan - Present",
+      "location": "Austin, Texas.",
+      "responsibilities": [
+        "Utilized AWS SageMaker and Python to fine-tune pre-trained models for fraud detection, improving accuracy by enhancing feature engineering.",
+        "Developed a RAG pipeline using LangChain and Llama Index to improve context-aware responses in customer support chatbots.",
+        "Implemented Crew AI for automating test case generation, reducing manual effort and improving testing efficiency.",
+        "Engineered end-to-end AI solutions, from dataset generation to production deployment, ensuring seamless integration with existing systems.",
+        "Applied Hugging Face Transformers and GPT models to build conversational agents, improving customer engagement.",
+        "Integrated spaCy and NLTK for text preprocessing, enabling efficient data cleaning and feature extraction in NLP projects.",
+        "Deployed Gen AI products using Docker and Kubernetes, ensuring scalability and reliability in production environments.",
+        "Collaborated with cross-functional teams to design AI-powered automation workflows, enhancing testing efficiency.",
+        "Utilized TensorFlow and PyTorch to develop machine learning models for predictive analytics, improving decision-making processes.",
+        "Implemented MLOps practices using MLflow and DVC for version control and reproducibility of machine learning experiments.",
+        "Built RESTful APIs with Flask and FastAPI to expose machine learning models as scalable microservices.",
+        "Applied A/B testing and hypothesis testing to validate model performance, ensuring robust and reliable outcomes.",
+        "Used AWS Lambda for training and deploying machine learning models, optimizing resource utilization.",
+        "Developed data pipelines with Apache Airflow for efficient data ingestion and preprocessing in AI projects.",
+        "Leveraged PostgreSQL and MongoDB for storing and retrieving structured and unstructured data in AI applications.",
+        "Implemented HIPAA-compliant data handling practices in healthcare-related AI projects, ensuring data security.",
+        "Collaborated with stakeholders to define project requirements and deliver AI solutions aligned with business goals.",
+        "Mentored junior team members on AI/ML best practices, fostering a culture of continuous learning and improvement."
+      ],
+      "environment": [
+        "Python, AWS (SageMaker, Lambda, S3), Docker, Kubernetes, TensorFlow, PyTorch, Hugging Face, LangChain, Llama Index, Flask, FastAPI, PostgreSQL, MongoDB, Apache Airflow, HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior AI Engineer",
+      "client": "Johnson & Johnson",
+      "duration": "2021-Aug - 2024-Dec",
+      "location": "New Brunswick, New Jersey.",
+      "responsibilities": [
+        "Utilized GCP Vertex AI and Python to develop NLP models for medical text analysis, improving diagnostic accuracy.",
+        "Implemented RAG techniques to enhance context-aware responses in healthcare chatbots, ensuring patient-specific recommendations.",
+        "Automated test case generation using OpenAI APIs, reducing manual effort and improving testing coverage.",
+        "Designed and deployed Gen AI products for healthcare applications, ensuring compliance with HIPAA regulations.",
+        "Applied fine-tuning techniques to pre-trained models for custom healthcare solutions, improving model performance.",
+        "Integrated spaCy and NLTK for text preprocessing, enabling efficient data cleaning and feature extraction in NLP projects.",
+        "Deployed machine learning models using Docker and Kubernetes, ensuring scalability and reliability in production environments.",
+        "Collaborated with cross-functional teams to design AI-powered automation workflows, enhancing testing efficiency.",
+        "Utilized TensorFlow and PyTorch to develop machine learning models for predictive analytics, improving decision-making processes.",
+        "Implemented MLOps practices using MLflow and DVC for version control and reproducibility of machine learning experiments.",
+        "Built RESTful APIs with Flask and FastAPI to expose machine learning models as scalable microservices.",
+        "Applied A/B testing and hypothesis testing to validate model performance, ensuring robust and reliable outcomes.",
+        "Used GCP Big Query for storing and retrieving structured and unstructured data in AI applications.",
+        "Developed data pipelines with Apache Airflow for efficient data ingestion and preprocessing in AI projects.",
+        "Leveraged PostgreSQL and MongoDB for storing and retrieving structured and unstructured data in AI applications.",
+        "Implemented HIPAA-compliant data handling practices in healthcare-related AI projects, ensuring data security.",
+        "Collaborated with stakeholders to define project requirements and deliver AI solutions aligned with business goals.",
+        "Mentored junior team members on AI/ML best practices, fostering a culture of continuous learning and improvement."
+      ],
+      "environment": [
+        "Python, GCP (Vertex AI, Big Query), Docker, Kubernetes, TensorFlow, PyTorch, Hugging Face, LangChain, Llama Index, Flask, FastAPI, PostgreSQL, MongoDB, Apache Airflow, HIPAA Compliance"
+      ]
+    },
+    {
+      "role": "Senior ML Engineer",
+      "client": "State of Maine",
+      "duration": "2020-Apr - 2021-Jul",
+      "location": "Augusta, Maine.",
+      "responsibilities": [
+        "Utilized Azure ML Studio and Python to develop machine learning models for predictive analytics, improving decision-making processes.",
+        "Implemented RAG techniques to enhance context-aware responses in government chatbots, ensuring citizen-specific recommendations.",
+        "Automated test case generation using OpenAI APIs, reducing manual effort and improving testing coverage.",
+        "Designed and deployed Gen AI products for government applications, ensuring compliance with data security regulations.",
+        "Applied fine-tuning techniques to pre-trained models for custom government solutions, improving model performance.",
+        "Integrated spaCy and NLTK for text preprocessing, enabling efficient data cleaning and feature extraction in NLP projects.",
+        "Deployed machine learning models using Docker and Kubernetes, ensuring scalability and reliability in production environments.",
+        "Collaborated with cross-functional teams to design AI-powered automation workflows, enhancing testing efficiency.",
+        "Utilized TensorFlow and PyTorch to develop machine learning models for predictive analytics, improving decision-making processes.",
+        "Implemented MLOps practices using MLflow and DVC for version control and reproducibility of machine learning experiments.",
+        "Built RESTful APIs with Flask and FastAPI to expose machine learning models as scalable microservices.",
+        "Applied A/B testing and hypothesis testing to validate model performance, ensuring robust and reliable outcomes.",
+        "Used Azure Cosmos DB for storing and retrieving structured and unstructured data in AI applications.",
+        "Developed data pipelines with Apache Airflow for efficient data ingestion and preprocessing in AI projects.",
+        "Leveraged PostgreSQL and MongoDB for storing and retrieving structured and unstructured data in AI applications.",
+        "Implemented data security practices in government-related AI projects, ensuring data protection.",
+        "Collaborated with stakeholders to define project requirements and deliver AI solutions aligned with business goals.",
+        "Mentored junior team members on AI/ML best practices, fostering a culture of continuous learning and improvement."
+      ],
+      "environment": [
+        "Python, Azure (ML Studio, Cosmos DB), Docker, Kubernetes, TensorFlow, PyTorch, Hugging Face, LangChain, Llama Index, Flask, FastAPI, PostgreSQL, MongoDB, Apache Airflow"
+      ]
+    },
+    {
+      "role": "Data Scientist",
+      "client": "Bank of America",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "New York, New York.",
+      "responsibilities": [
+        "Utilized Python and Scikit-Learn to develop machine learning models for fraud detection, improving accuracy by enhancing feature engineering.",
+        "Implemented NLP techniques using spaCy and NLTK for text analysis in customer feedback, improving sentiment analysis.",
+        "Automated data preprocessing tasks using Apache Airflow, reducing manual effort and improving data pipeline efficiency.",
+        "Developed predictive models using TensorFlow and PyTorch, improving decision-making processes in financial applications.",
+        "Built RESTful APIs with Flask to expose machine learning models as scalable microservices.",
+        "Applied A/B testing and hypothesis testing to validate model performance, ensuring robust and reliable outcomes.",
+        "Used PostgreSQL and MongoDB for storing and retrieving structured and unstructured data in AI applications.",
+        "Implemented PCI-compliant data handling practices in financial-related AI projects, ensuring data security.",
+        "Collaborated with stakeholders to define project requirements and deliver AI solutions aligned with business goals.",
+        "Mentored junior team members on AI/ML best practices, fostering a culture of continuous learning and improvement."
+      ],
+      "environment": [
+        "Python, Scikit-Learn, TensorFlow, PyTorch, Flask, PostgreSQL, MongoDB, Apache Airflow, PCI Compliance"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "Hexaware",
+      "duration": "2015-Oct - 2017-Dec",
+      "location": "Mumbai, Maharashtra.",
+      "responsibilities": [
+        "Utilized Python and SQL to develop data pipelines for efficient data ingestion and preprocessing in AI projects.",
+        "Implemented ETL processes using Apache NiFi, improving data flow and reducing processing time.",
+        "Built data warehouses using PostgreSQL and MongoDB, ensuring efficient data storage and retrieval.",
+        "Collaborated with cross-functional teams to design data-driven solutions, enhancing business intelligence.",
+        "Developed scripts using Bash/Shell for automating repetitive tasks, improving operational efficiency.",
+        "Implemented data security practices in financial-related projects, ensuring data protection.",
+        "Collaborated with stakeholders to define project requirements and deliver data solutions aligned with business goals.",
+        "Mentored junior team members on data engineering best practices, fostering a culture of continuous learning and improvement."
+      ],
+      "environment": [
+        "Python, SQL, PostgreSQL, MongoDB, Apache NiFi, Bash/Shell"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KITS",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "AWS Certified Machine Learning Engineer \u2013 Associate",
+    "Salesforce Certified Salesforce Developer PD1"
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Conversational AI & ML Engineer with GenAI Expertise",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am having 10 years of experience specializing in building scalable Conversational AI systems, deploying LLMs, and implementing MLOps pipelines within regulated Healthcare, Insurance, Government, and Finance domains, ensuring strict compliance with standards like HIPAA and PCI.",
+    "Utilizing GCP Vertex AI Agent Engine to architect a multi-agent framework for a healthcare client, I integrated Dialogflow CX with custom LLM orchestrations to automate complex patient intake workflows, significantly reducing manual data entry errors and improving processing speed for HIPAA-sensitive information.",
+    "Leveraging PyTorch and Hugging Face transformers to develop a specialized clinical NLP model, I addressed the challenge of extracting structured medical codes from physician notes, implementing a RAG pipeline with fine-tuned BERT models that enhanced accuracy for insurance claim adjudication processes.",
+    "Implementing a CI/CD pipeline using Cloud Build and Kubernetes for a TensorFlow-based risk prediction model, I solved the problem of slow, manual deployment cycles, automating the testing and rollout of new model versions which improved the team's deployment frequency by seventy percent.",
+    "Designing a serverless RAG architecture on GCP with Cloud Functions, Pub/Sub, and BigQuery, I tackled the issue of stale knowledge bases in a virtual agent, enabling real-time updates from clinical guidelines that boosted the answer relevance for healthcare provider inquiries.",
+    "Orchestrating Dialogflow ES chatbots integrated with backend REST APIs for a government services portal, I resolved citizen query routing inefficiencies by implementing intent categorization and context management, leading to a higher first-contact resolution rate for public assistance programs.",
+    "Constructing a comprehensive MLOps framework using Vertex AI Pipelines and Docker containers to manage the lifecycle of multiple NLU models, addressing model drift in production and establishing a reproducible training process that ensured consistent performance across insurance underwriting applications.",
+    "Employing Kubernetes to containerize and scale a suite of Python microservices for a real-time payment fraud detection system, I solved resource contention issues during peak transaction periods, achieving higher system availability and lower latency for financial transaction monitoring.",
+    "Developing a Cloud Run service to host a lightweight TensorFlow model for sentiment analysis on insurance customer feedback, I addressed the cost of running always-on VMs, creating an auto-scaling solution that adjusted capacity based on inquiry volume, optimizing cloud expenditure.",
+    "Applying BigQuery ML to analyze historical claim patterns and predict high-cost cases for a healthcare payer, I tackled the problem of reactive cost management, building proactive intervention models that helped care managers identify at-risk members earlier in the treatment cycle.",
+    "Integrating Cloud Storage with event-driven Cloud Functions to process unstructured documents like scanned insurance forms, I solved manual data extraction bottlenecks by triggering OCR and NLP pipelines automatically, accelerating the claims submission-to-payment timeline.",
+    "Architecting a multi-agent GenAI system using Crew AI and LangGraph for a healthcare triage proof of concept, I coordinated specialized AI agents to handle different aspects of a patient query, simulating a collaborative diagnostic conversation that improved the depth of automated assessments.",
+    "Building a TensorFlow-based sequence model to classify the urgency of government benefit applications, I addressed the challenge of prioritizing caseworker reviews, implementing an NLU layer that parsed application narratives and flagged critical needs for expedited processing.",
+    "Deploying a Hugging Face transformer model as a REST API using FastAPI and Docker, I enabled low-latency inference for a financial chatbot, allowing it to understand complex product comparison questions and retrieve accurate information from a structured knowledge graph.",
+    "Establishing a robust model monitoring suite on Vertex AI to track the performance of deployed Dialogflow CX agents, I identified degradation in intent detection for new healthcare terminology, triggering retraining workflows that maintained high accuracy amidst evolving medical jargon.",
+    "Creating a Pub/Sub messaging system to decouple data ingestion from model inference in a real-time underwriting platform, I ensured that high-volume insurance application streams were processed reliably without data loss, even during downstream service maintenance windows.",
+    "Configuring Kubernetes Horizontal Pod Autoscalers for PyTorch inference services, I dynamically managed computational resources based on the incoming load from virtual agent conversations, maintaining response time guarantees during open enrollment periods for health insurance.",
+    "Implementing a secure data pipeline from Cloud Storage to BigQuery for training healthcare models, I applied stringent access controls and encryption to comply with HIPAA, enabling data scientists to work with de-identified patient datasets safely for research and model development."
+  ],
+  "technical_skills": {
+    "Cloud Platform & Services (GCP)": [
+      "Google Cloud Platform (GCP)",
+      "Vertex AI (Agent Engine, Pipelines)",
+      "Cloud Functions",
+      "Cloud Run",
+      "Pub/Sub",
+      "BigQuery",
+      "Cloud Storage"
+    ],
+    "Conversational AI & NLP": [
+      "Dialogflow CX / ES",
+      "Conversational AI / Chat Virtual Agents",
+      "Natural Language Processing (NLP/NLU)",
+      "Large Language Models (LLMs) / GenAI",
+      "Hugging Face",
+      "Retrieval-Augmented Generation (RAG)",
+      "Contact Center AI (CCAI)"
+    ],
+    "Machine Learning & Deep Learning Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Keras"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "SQL",
+      "Bash/Shell"
+    ],
+    "Containerization & Orchestration": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "MLOps & DevOps": [
+      "MLOps",
+      "CI/CD",
+      "Git",
+      "GitHub Actions"
+    ],
+    "API Development & Integration": [
+      "REST APIs",
+      "FastAPI",
+      "Flask"
+    ],
+    "Big Data & Analytics": [
+      "Apache Spark",
+      "Apache Airflow",
+      "Apache Kafka"
+    ],
+    "Databases & Data Warehouses": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle"
+    ],
+    "Monitoring & Visualization": [
+      "MLflow",
+      "TensorBoard",
+      "Cloud Logging",
+      "Cloud Monitoring"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "\u2060Illinois",
+      "responsibilities": [
+        "Architected a multi-agent GenAI system on GCP Vertex AI Agent Engine using Crew AI and LangGraph, tackling disjointed patient service workflows by coordinating specialist AI agents for intake, triage, and FAQ, which streamlined HIPAA-compliant customer interactions.",
+        "Engineered a Dialogflow CX virtual agent integrated with a RAG pipeline and fine-tuned LLMs to solve complex medical supply ordering inaccuracies, implementing context-aware conversation flows that reduced manual agent transfers by a significant margin.",
+        "Developed a PyTorch-based NLP model for clinical document classification, addressing the challenge of unstructured EHR data by utilizing Hugging Face transformers to extract and normalize medical entities for automated insurance coding.",
+        "Constructed an end-to-end MLOps pipeline with Vertex AI Pipelines and Kubeflow to automate the retraining of NLU models, solving model drift in symptom-checker chatbots and ensuring consistent performance against evolving medical terminology.",
+        "Deployed a real-time inference service using Cloud Run and Docker containers for a TensorFlow model that predicted hospital supply demand, enabling procurement teams to anticipate needs and optimize inventory levels across distributed locations.",
+        "Implemented a CI/CD strategy with GitHub Actions and Kubernetes to manage the continuous deployment of Python microservices for agentic AI frameworks, reducing deployment downtime and improving team velocity for new feature releases.",
+        "Designed a secure data ingestion system using Pub/Sub and Cloud Functions to process streaming HIPAA-protected data, triggering real-time analytics in BigQuery that powered dashboards for supply chain oversight and compliance reporting.",
+        "Built a monitoring dashboard using Cloud Operations suite to track the latency and accuracy of deployed conversational AI agents, identifying and troubleshooting performance bottlenecks during peak customer service hours.",
+        "Integrated external healthcare APIs via RESTful services with the core Dialogflow CX agent, expanding its knowledge base to answer detailed product compatibility questions, which decreased callback rates for technical support specialists.",
+        "Led code review sessions focusing on the Python code for multi-agent orchestration logic, emphasizing error handling and state management to ensure robust, fault-tolerant conversations in the clinical environment.",
+        "Containerized a suite of legacy data preprocessing scripts using Docker, migrating them to a GKE cluster to solve environment inconsistency issues and create a reproducible pipeline for training data generation.",
+        "Orchestrated the migration of an on-premise TensorFlow model serving layer to GCP Cloud Run, carefully debugging networking and IAM permissions to maintain strict access controls over sensitive patient data.",
+        "Prototyped an agent-to-agent communication layer using the Model Context Protocol to facilitate knowledge sharing between separate AI assistants for sales and clinical support, enhancing cross-functional information flow.",
+        "Configured BigQuery as the central feature store for machine learning models, unifying disparate data sources and enabling efficient batch and streaming feature computation for real-time prediction services.",
+        "Collaborated with compliance officers to audit all Cloud Storage buckets and BigQuery datasets, implementing data encryption and access logs to fully satisfy HIPAA security requirements for AI training data.",
+        "Spearheaded a proof-of-concept using LangGraph to model complex, multi-turn insurance pre-authorization dialogues, testing its ability to handle nested conditional logic within a simulated healthcare regulatory framework."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI Agent Engine & Pipelines",
+        "Dialogflow CX",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "Crew AI",
+        "LangGraph",
+        "RAG",
+        "Docker",
+        "Kubernetes (GKE)",
+        "CI/CD (GitHub Actions)",
+        "Cloud Functions",
+        "Cloud Run",
+        "Pub/Sub",
+        "BigQuery",
+        "Cloud Storage",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "\u2060St. Louis",
+      "responsibilities": [
+        "Developed a TensorFlow-based NLP model to automate the categorization of member appeal letters, addressing a massive backlog by extracting key denial reasons and proposed resolutions, which accelerated the review process for clinical teams.",
+        "Implemented a RAG system using Vertex AI and Pinecone to ground a virtual insurance agent's responses in the latest plan policy documents, solving the problem of outdated information and reducing incorrect coverage answers.",
+        "Migrated on-premise batch inference pipelines to GCP using Cloud Composer (Airflow) and Kubernetes, resolving job failures due to resource constraints and achieving more reliable scheduling for nightly claim prediction models.",
+        "Built a real-time fraud detection pipeline with Apache Kafka and Pub/Sub streaming claim data into a PyTorch model on Cloud Run, flagging anomalous patterns for investigation and protecting against financial losses.",
+        "Containerized multiple Hugging Face transformer models using Docker to standardize the environment for both training and inference, simplifying the deployment process across development, staging, and production clusters.",
+        "Established a CI/CD pipeline with Cloud Build to automatically test and deploy updates to Dialogflow ES agents, enabling the rapid rollout of new insurance plan information during annual enrollment periods.",
+        "Designed a REST API wrapper using FastAPI for a suite of internal NLU models, allowing other development teams to easily integrate claim intent classification and sentiment analysis into their applications.",
+        "Leveraged BigQuery ML to build and deploy a regression model predicting member churn risk, empowering the retention department to proactively engage with high-risk individuals through personalized outreach campaigns.",
+        "Architected a proof-of-concept multi-agent system using a pre-Crew AI framework where specialized agents handled eligibility, benefits, and claims status, improving the conversational depth of the main virtual assistant.",
+        "Configured monitoring alerts in Vertex AI for a critical claims adjudication model, troubleshooting a sudden drop in accuracy that was traced to a shift in diagnostic code patterns after a regulatory update.",
+        "Engineered a Cloud Function triggered by new documents in Cloud Storage to perform OCR and initial NLP extraction, automating the first step in processing mailed-in insurance forms and saving hundreds of manual hours.",
+        "Participated in daily stand-ups and bi-weekly sprint planning, often advocating for technical debt reduction in the MLOps codebase, which later prevented a major pipeline failure during a critical audit period.",
+        "Optimized a PyTorch training script to use Vertex AI's distributed training capabilities, cutting the time to train a large claims classification model from several days down to a matter of hours.",
+        "Secured all pipeline components by implementing service account-based authentication and encrypting data in transit, ensuring the system met stringent insurance data security and privacy regulations."
+      ],
+      "environment": [
+        "GCP",
+        "Vertex AI",
+        "Dialogflow ES",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "CI/CD (Cloud Build)",
+        "Cloud Functions",
+        "Pub/Sub",
+        "BigQuery",
+        "Cloud Storage",
+        "Apache Kafka",
+        "REST APIs (FastAPI)"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Constructed AWS Lambda functions and Step Functions to orchestrate NLP data pipelines that processed public citizen feedback, classifying sentiments and topics to help government agencies prioritize community needs.",
+        "Built a text analytics platform using Amazon Comprehend and custom Python scikit-learn models to analyze open-ended survey responses from state services, identifying common pain points in benefit application processes.",
+        "Deployed a simple rule-based chatbot prototype on AWS Lex to answer frequent FAQs about unemployment benefits, reducing call center volume during the initial pandemic surge and providing 24/7 basic assistance.",
+        "Engineered an AWS Glue ETL job to cleanse and prepare legislative document text stored in S3, creating a searchable corpus in Aurora PostgreSQL that improved research efficiency for policy analysts.",
+        "Assisted in migrating on-premise data warehouses to Amazon Redshift, writing complex SQL queries to transform and load historical public records data while maintaining strict data governance protocols.",
+        "Developed Python scripts to automate the extraction of structured data from PDF reports using regular expressions and simple NLP techniques, saving manual data entry time for the departmental research team.",
+        "Configured Amazon S3 lifecycle policies and access controls to securely archive sensitive but public government datasets, ensuring compliance with state records retention and public disclosure laws.",
+        "Monitored and tuned the performance of AWS Athena queries used for ad-hoc analysis of public service interaction logs, helping identify website sections that caused the most citizen confusion.",
+        "Collaborated with a vendor to integrate their API for address validation into a citizen portal application, writing the middleware code in Python to ensure data quality for service eligibility checks.",
+        "Participated in agile ceremonies, providing estimates for data engineering tasks and documenting the data flow architecture for the newly implemented cloud-based analytics systems.",
+        "Supported senior engineers in troubleshooting a data pipeline failure that affected a daily report, learning to trace issues through CloudWatch Logs and Lambda function execution histories.",
+        "Created basic data visualizations in QuickSight to showcase trends in public service utilization, which were used in internal management meetings to discuss resource allocation."
+      ],
+      "environment": [
+        "AWS (Lambda, Step Functions, S3, Glue, Redshift, Lex, Comprehend)",
+        "Python",
+        "scikit-learn",
+        "SQL (PostgreSQL, Redshift)",
+        "REST APIs"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed Apache Spark Streaming jobs in Scala and Python to process real-time credit card transaction data, detecting potential fraud patterns by applying statistical anomaly detection models from scikit-learn.",
+        "Built and optimized Hive queries on a large Hadoop cluster to generate daily feature aggregates for machine learning models used in customer credit risk assessment, ensuring timely data availability for batch scoring.",
+        "Engineered an Apache Airflow DAG to orchestrate the daily retraining and validation pipeline for a fraud classification model, automating the process from data extraction to model performance reporting.",
+        "Assisted in the implementation of a new data lake on AWS S3, designing the directory structure and implementing lifecycle policies to manage raw and processed financial data in a cost-effective manner.",
+        "Wrote Python UDFs for Spark to cleanse and standardize transaction descriptions, improving the consistency of data used for customer spending categorization and personal financial management features.",
+        "Collaborated with data scientists to productionize a logistic regression model, containerizing the scoring logic with Docker and deploying it as a microservice for real-time inference on transaction streams.",
+        "Participated in PCI-DSS compliance audits by documenting data flows, access controls, and encryption methods for all production pipelines handling sensitive cardholder data.",
+        "Supported the troubleshooting of a critical nightly ETL job failure, analyzing logs to identify a data schema change that broke the processing pipeline and implementing a fix to handle the new format.",
+        "Migrated a set of legacy SAS scoring scripts to equivalent Python and Spark code, improving execution speed and maintainability while ensuring the mathematical outputs remained identical for regulatory reasons.",
+        "Attended daily scrum meetings and presented updates on pipeline stability and feature delivery, learning to communicate technical details effectively with both engineering and business stakeholders."
+      ],
+      "environment": [
+        "Apache Spark",
+        "Apache Hadoop (Hive)",
+        "Apache Airflow",
+        "Python",
+        "Scala",
+        "scikit-learn",
+        "AWS S3",
+        "Docker"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Authored complex SQL queries on Oracle and PostgreSQL databases to extract and analyze pathology lab test results, supporting data scientists in building early predictive models for disease detection from medical images.",
+        "Created interactive dashboards in Power BI to visualize trends in diagnostic test volumes and turnaround times, helping lab managers optimize operational workflows and resource allocation across facilities.",
+        "Cleansed and preprocessed large volumes of structured lab data using Python and Pandas, addressing issues of missing values and inconsistent formatting to create reliable datasets for machine learning experiments.",
+        "Documented data definitions, lineage, and quality rules for key healthcare analytics datasets, establishing a foundation for data governance as the company scaled its AI-driven diagnostic offerings.",
+        "Assisted senior engineers in testing a new data pipeline by validating output counts and checking for anomalies, providing crucial quality assurance before the pipeline was released to production.",
+        "Learned the basics of healthcare data regulations (HIPAA principles) and applied them practically by ensuring all analysis outputs were properly de-identified before being shared in cross-functional reports.",
+        "Participated in team brainstorming sessions for feature engineering, suggesting potential derived fields from timestamp data that could indicate testing process efficiencies.",
+        "Supported the migration of a reporting database from MySQL to a more scalable PostgreSQL instance, writing data validation scripts to ensure completeness and accuracy after the cutover."
+      ],
+      "environment": [
+        "Python",
+        "SQL (Oracle, PostgreSQL, MySQL)",
+        "Pandas",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,284 @@
+{
+  "name": "Shivaleela Uppula",
+  "title": "Senior Data Engineer - AWS Glue, Lambda & Databricks Migration Specialist",
+  "contact": {
+    "email": "shivaleelauppula@gmail.com",
+    "phone": "+12244420531",
+    "portfolio": "",
+    "linkedin": "https://linkedin.com/in/shivaleela-uppula",
+    "github": ""
+  },
+  "professional_summary": [
+    "I am a Senior Data Engineer with 10 years of experience in migrating legacy AWS Glue and Lambda ecosystems to modern Databricks Lakehouse platforms, specializing in Healthcare, Insurance, Government, and Finance domains with a focus on HIPAA, PCI DSS, and regulatory compliance.",
+    "Leveraging AWS Glue Jobs and PySpark ETL pipelines to address complex data migration challenges, I refactored monolithic workflows into modular Databricks notebooks, achieving 40% faster processing for real-time healthcare analytics while ensuring stringent data privacy standards.",
+    "Utilizing Terraform for Infrastructure as Code to solve inconsistent environment deployments, I codified AWS Glue Connections, IAM roles, and Databricks workspaces, enabling repeatable and compliant infrastructure across development, staging, and production environments.",
+    "Applying Apache Spark and Delta Lake to overcome slow batch processing in insurance claim pipelines, I engineered optimized Spark jobs with Z-Ordering and partitioning, reducing data latency by 55% and improving cost efficiency for large-scale distributed datasets.",
+    "Orchestrating AWS Glue Workflows and Lambda triggers to manage event-driven data ingestion problems, I transitioned to Databricks Jobs and Delta Live Tables, enhancing pipeline reliability and observability through integrated logging and retry mechanisms.",
+    "Implementing Databricks Lakehouse and Apache Iceberg tables to resolve data versioning and schema evolution issues, I established robust table design patterns that supported both batch and streaming consumption for government reporting mandates.",
+    "Employing AWS S3 Data Lake and IAM permissions to tackle insecure data access patterns, I designed fine-grained security policies and bucket structures that met HIPAA requirements for protected health information (PHI) handling.",
+    "Integrating CloudWatch and DataDog for monitoring pipeline failures and performance bottlenecks, I created comprehensive dashboards and alerts that reduced mean time to resolution (MTTR) by 70% for critical financial data pipelines.",
+    "Harnessing CI/CD coordination with DevOps teams to address manual deployment pains, I automated packaging and promotion of Databricks notebooks and Terraform configurations using GitHub Actions, ensuring seamless environment transitions.",
+    "Designing real-time pipelines with streaming concepts to modernize legacy batch-only architectures, I built Kafka-integrated Spark Structured Streaming jobs that enabled near-real-time ingestion for healthcare IoT device data.",
+    "Optimizing AWS Glue Crawlers and tables for discovering and cataloging unstructured data, I migrated this functionality to the Unity Catalog within Databricks, improving data discoverability and governance for insurance analytics teams.",
+    "Collaborating on CloudFormation and Terraform stacks to unify infrastructure deployment, I contributed modules for VPC, security groups, and Databricks cluster policies, standardizing the tech stack across multiple enterprise projects.",
+    "Translating Lambda scripting logic for event-driven processing into Databricks Workflows, I re-architected serverless functions as notebook tasks with enhanced error handling, improving maintainability for finance reconciliation processes.",
+    "Supporting large-scale distributed data pipelines with a focus on cost and scale, I performed hands-on tuning of Spark executor configurations and cluster auto-scaling, achieving a 30% reduction in cloud spend for petabyte-scale workloads.",
+    "Enabling real-time and batch ingestion and consumption patterns for healthcare data, I architected a medallion architecture using Delta Lake, ensuring raw, enriched, and curated layers were available for both operational and analytical use cases.",
+    "Managing Delta and Iceberg table design including partitioning and compaction to solve small file problems, I implemented daily optimization jobs that improved query performance for complex joins on government demographic datasets.",
+    "Conducting assessments of existing Glue jobs and Lambda functions for migration feasibility, I created detailed runbooks and data parity validation frameworks that minimized downtime during the cutover to the new Databricks platform.",
+    "Advocating for strong communication and cross-functional coordination throughout migration projects, I facilitated daily stand-ups and technical deep-dives with data scientists, analysts, and compliance officers to align on business outcomes."
+  ],
+  "technical_skills": {
+    "Cloud Data Services": [
+      "AWS Glue",
+      "Glue Jobs",
+      "Glue Crawlers",
+      "Glue Workflows",
+      "AWS Lambda",
+      "AWS S3 Data Lake",
+      "AWS IAM",
+      "AWS CloudWatch",
+      "Databricks Lakehouse"
+    ],
+    "Data Processing & ETL Frameworks": [
+      "Apache Spark",
+      "PySpark",
+      "Python",
+      "Delta Lake",
+      "Apache Iceberg",
+      "Delta Live Tables",
+      "Spark Streaming"
+    ],
+    "Infrastructure as Code & Deployment": [
+      "Terraform",
+      "AWS CloudFormation",
+      "CI/CD",
+      "GitHub",
+      "Environment Deployments"
+    ],
+    "Orchestration & Workflow": [
+      "AWS Glue Workflows",
+      "Databricks Jobs",
+      "Event-Driven Processing",
+      "Real-time Pipelines"
+    ],
+    "Data Storage & Management": [
+      "S3",
+      "Delta Tables",
+      "Iceberg Tables",
+      "Data Partitioning",
+      "Z-Ordering",
+      "Schema Evolution"
+    ],
+    "Monitoring & Observability": [
+      "CloudWatch",
+      "DataDog",
+      "Logging",
+      "Metrics",
+      "Alerting"
+    ],
+    "Scripting & Automation": [
+      "Python",
+      "AWS CLI",
+      "Bash/Shell",
+      "Lambda Scripting"
+    ],
+    "Version Control & Collaboration": [
+      "GitHub",
+      "Code Reviews",
+      "Technical Documentation"
+    ],
+    "Data Pipeline Architecture": [
+      "Distributed Data Pipelines",
+      "Batch Processing",
+      "Streaming Ingestion",
+      "Idempotency",
+      "Error Handling"
+    ],
+    "Security & Compliance": [
+      "AWS IAM Permissions",
+      "HIPAA Compliance",
+      "Data Governance",
+      "Access Controls"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Data Engineer-AI/ML with Gen AI",
+      "client": "Medline Industries",
+      "duration": "2023-Dec - Present",
+      "location": "Illinois",
+      "responsibilities": [
+        "Architected the migration of HIPAA-sensitive AWS Glue ETL PySpark jobs to Databricks Lakehouse, addressing legacy job maintenance complexity by refactoring scripts into modular notebooks with unit tests, ensuring data parity and compliance for patient supply chain analytics.",
+        "Orchestrated the replacement of event-driven AWS Lambda functions for real-time alerting using Databricks Workflows and streaming jobs, solving latency issues by designing a Kafka-to-Delta Lake pipeline that reduced alert generation time from minutes to seconds.",
+        "Engineered Terraform modules for provisioning Databricks workspaces, AWS IAM roles, and S3 buckets, tackling manual setup errors by codifying all infrastructure, which enabled consistent and repeatable deployments across three separate healthcare data environments.",
+        "Implemented Delta Lake tables with strategic partitioning by 'date' and 'facility_id' to optimize query performance on billion-row patient encounter datasets, resolving slow dashboard loads by implementing V-Order compaction during nightly maintenance jobs.",
+        "Designed a comprehensive observability stack using DataDog dashboards and CloudWatch alarms for migrated pipelines, addressing opaque failure modes by integrating custom Spark listener metrics, cutting troubleshooting time by half for the operations team.",
+        "Led the validation of data parity between legacy Glue tables and new Delta tables, solving discrepancy concerns by developing a Python-based reconciliation framework that compared checksums and sample records across both systems automatically.",
+        "Optimized Spark job performance for large-scale distributed data pipelines processing clinical data, tackling executor memory spills by adjusting spark.sql.shuffle.partitions and leveraging broadcast joins, achieving a 40% reduction in job runtime and cost.",
+        "Collaborated with DevOps on a CI/CD pipeline using GitHub Actions, addressing inconsistent notebook deployments by creating a packaging script that promoted jobs from dev to prod, incorporating HIPAA-compliance checks at each stage.",
+        "Established reliable error handling and retry mechanisms in Databricks Jobs, solving intermittent network failures to on-premise sources by implementing exponential backoff and writing dead-letter queues to S3 for manual review.",
+        "Built real-time pipelines for streaming IoT data from medical devices using Spark Structured Streaming and Delta Lake, addressing data loss concerns by designing idempotent writes and watermarking for late-arriving data in compliance with FDA guidelines.",
+        "Managed Delta table design and schema evolution for evolving healthcare data models, solving breaking changes by enabling mergeSchema options and documenting evolution protocols for the data science team using the new features.",
+        "Conducted hands-on coding and debugging sessions for junior engineers on PySpark transformations and Glue API nuances, addressing knowledge gaps by creating a shared repository of common patterns and troubleshooting guides for the team.",
+        "Integrated multi-agent proof-of-concept frameworks (Crew AI, LangGraph) with the new Databricks data platform, exploring use cases for automated data quality report generation and anomaly detection on migrated pipelines.",
+        "Facilitated cross-functional coordination with compliance officers to ensure all migrated pipelines adhered to HIPAA security rules, conducting joint reviews of IAM policies and S3 bucket encryption settings for PHI data.",
+        "Performed cost optimization analysis on Databricks clusters running migrated workloads, identifying underutilized all-purpose clusters and advocating for the shift to job clusters, which projected 25% monthly savings.",
+        "Documented the entire migration methodology, including lessons learned from translating Glue PySpark ETL to Databricks, creating a reusable playbook for future modernization efforts within the healthcare organization."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Glue Jobs",
+        "PySpark",
+        "AWS Lambda",
+        "Databricks Lakehouse",
+        "Apache Spark",
+        "Delta Lake",
+        "Terraform",
+        "S3",
+        "IAM",
+        "CloudWatch",
+        "DataDog",
+        "GitHub",
+        "CI/CD",
+        "Kafka",
+        "HIPAA"
+      ]
+    },
+    {
+      "role": "Senior Data Engineer",
+      "client": "Blue Cross Blue Shield Association",
+      "duration": "2022-Sep - 2023-Nov",
+      "location": "St. Louis",
+      "responsibilities": [
+        "Migrated insurance claims adjudication pipelines from AWS Glue to Databricks, tackling complex business logic embedded in Glue Jobs by meticulously refactoring Python and Spark code, ensuring zero discrepancy in multi-million dollar financial calculations.",
+        "Developed Terraform configurations to automate the deployment of Glue Connections and Databricks metastore integrations, solving environment drift by versioning all infrastructure, which accelerated the provisioning of new testing environments for actuarial teams.",
+        "Utilized AWS Glue Crawlers and the Glue Data Catalog initially to discover incoming provider data, later transitioning this function to Databricks Unity Catalog to improve governance and access control for sensitive PII and PHI data.",
+        "Constructed batch and streaming pipelines for member eligibility data using Delta Lake, addressing late-arriving updates by implementing SCD Type 2 patterns, providing a complete historical view for audit and regulatory reporting.",
+        "Configured CloudWatch alarms and metric filters for critical Glue Workflows and Lambda functions, solving unmonitored pipeline failures by setting up notifications to Slack, improving the team's response time to overnight job issues.",
+        "Refactored Lambda logic that triggered ETL steps based on S3 events, transitioning to Databricks Jobs with parameterized runs, which enhanced orchestration visibility and provided built-in retry capabilities for transient errors.",
+        "Supported large-scale distributed data pipelines processing terabytes of daily claims, tackling performance bottlenecks by analyzing Spark UI logs and optimizing shuffle partitions, reducing average job duration by 35%.",
+        "Implemented Delta Lake table partitioning by 'claim_date' and 'state_code' for fast queries on historical claims, solving slow reporting by advising the analytics team to use the OPTIMIZE and ZORDER commands regularly.",
+        "Collaborated on CI/CD coordination with the DevOps team to containerize Spark applications, addressing dependency conflicts by building Docker images for Databricks jobs, ensuring consistent runtime environments across releases.",
+        "Enabled real-time ingestion of healthcare provider feeds using Apache Spark Streaming from Kinesis, solving data freshness problems by designing a bronze-to-silver Delta pipeline that made data available for queries within minutes.",
+        "Validated data parity post-migration by executing row-count and checksum comparisons between Glue tables and Delta tables, identifying and rectifying subtle data type conversion issues related to insurance policy codes.",
+        "Conducted knowledge transfer sessions on Databricks best practices and Delta Lake performance tuning, upskilling the existing data team to confidently maintain and extend the new modernized data platform.",
+        "Troubleshot persistent permissions issues when Databricks clusters accessed S3 buckets containing encrypted insurance data, working closely with the security team to refine IAM role trust policies and S3 bucket policies.",
+        "Participated in daily stand-ups and sprint planning, providing detailed updates on migration progress and blockers, while also assisting teammates with debugging tricky PySpark window function logic for cohort analysis."
+      ],
+      "environment": [
+        "AWS Glue",
+        "Glue Workflows",
+        "Lambda",
+        "Databricks",
+        "Apache Spark",
+        "Delta Lake",
+        "Terraform",
+        "S3",
+        "CloudWatch",
+        "IAM",
+        "Python",
+        "PySpark",
+        "CI/CD",
+        "Insurance Regulations"
+      ]
+    },
+    {
+      "role": "Data Engineer",
+      "client": "State of Arizona",
+      "duration": "2020-Apr - 2022-Aug",
+      "location": "Arizona",
+      "responsibilities": [
+        "Assisted in the assessment and documentation of existing Azure Data Factory pipelines and logic, identifying candidates for optimization and future migration to a cloud-native architecture for government public health datasets.",
+        "Built and supported batch data pipelines using Azure Databricks and Spark to consolidate demographic data from various state agencies, solving data silo issues by establishing a centralized Bronze layer for raw data ingestion.",
+        "Applied partitioning strategies on Delta tables for census and public assistance data, addressing full-table scan performance problems by partitioning on 'county' and 'fiscal_year', which sped up quarterly reporting queries significantly.",
+        "Implemented basic error handling and retry logic in Databricks notebooks, tackling sporadic failures in source file ingestion by adding try-catch blocks and logging errors to a dedicated monitoring table for follow-up.",
+        "Utilized Azure monitoring tools to track pipeline performance and resource utilization, identifying an under-provisioned cluster configuration that was causing job timeouts and recommending a resizing to the team lead.",
+        "Collaborated on the design of a medallion architecture blueprint for the state's data lakehouse initiative, contributing to the standards for Bronze, Silver, and Gold layers to ensure data quality and transformation traceability.",
+        "Supported the validation of data pipelines post-deployment by writing SQL validation queries to check record counts and critical metric thresholds against legacy reporting systems for accuracy.",
+        "Participated in code reviews for PySpark transformations developed by peers, providing feedback on best practices for handling null values and efficient join strategies to avoid performance regressions.",
+        "Attended requirements gathering meetings with agency business analysts to understand the regulatory reporting needs for federal grants, translating those needs into technical specifications for the data engineering team.",
+        "Troubleshot data quality alerts related to beneficiary eligibility files, tracing discrepancies back to a source system timestamp change and coordinating with the source team to adjust the extraction logic.",
+        "Maintained technical documentation for pipelines and data models, ensuring that data lineage and transformation rules were clearly captured for audit purposes required by state government mandates.",
+        "Assisted senior engineers in performance tuning exercises for a key Spark job aggregating economic data, learning to interpret the Spark UI to identify stages with high shuffle spill and suggesting a repartition before the aggregation."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Apache Spark",
+        "Delta Lake",
+        "Python",
+        "PySpark",
+        "SQL",
+        "Data Pipelines",
+        "Batch Processing",
+        "Government Data Regulations"
+      ]
+    },
+    {
+      "role": "Big Data Engineer",
+      "client": "Discover Financial Services",
+      "duration": "2018-Jan - 2020-Mar",
+      "location": "Houston, Texas",
+      "responsibilities": [
+        "Developed batch ETL pipelines using Azure Data Factory and Databricks to process credit card transaction data, addressing volume scaling challenges by implementing incremental load patterns based on transaction datetime.",
+        "Applied data modeling techniques to design fact and dimension tables in a Azure SQL Data Warehouse (now Synapse) environment, supporting fast analytical queries for fraud detection and customer spending behavior reports.",
+        "Ensured PCI DSS compliance for all financial data pipelines by collaborating with security teams to implement column-level encryption for sensitive fields like card numbers and CVV data during ingestion and processing.",
+        "Built monitoring checks within pipelines to validate data quality, such as checking for negative transaction amounts or duplicate records, and redirecting suspicious records to a quarantine table for investigation.",
+        "Participated in an on-call rotation to support production pipelines, responding to alerts for job failures and performing root cause analysis, often related to source file format changes or temporary network issues.",
+        "Optimized Spark SQL queries for customer segmentation models by rewriting correlated subqueries as joins and pre-filtering large datasets, reducing the model training data preparation time by several hours.",
+        "Assisted in the deployment of pipeline updates across development, testing, and production environments using release pipelines in Azure DevOps, ensuring that changes were promoted systematically and with approval gates.",
+        "Documented data lineage from source systems (mainframes) to the final reporting tables, creating diagrams and metadata entries that were crucial for internal audits and regulatory examinations.",
+        "Learned to troubleshoot common Spark errors like OutOfMemory exceptions by analyzing executor logs and adjusting memory overhead configurations in cluster settings under the guidance of a senior engineer.",
+        "Contributed to a proof-of-concept for real-time fraud scoring by helping to set up a Kafka topic and writing a simple Spark Streaming application to consume and score a sample stream of transaction events."
+      ],
+      "environment": [
+        "Azure Databricks",
+        "Apache Spark",
+        "Azure Data Factory",
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Warehousing",
+        "PCI DSS",
+        "Financial Data"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "client": "Sig Tuple",
+      "duration": "2015-May - 2017-Nov",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Extracted and transformed medical diagnostic image metadata from Oracle and MySQL databases using Python and SQL, supporting data scientists in building machine learning models for automated analysis while adhering to data anonymization protocols.",
+        "Built interactive dashboards in Power BI to visualize lab test result trends and operational metrics for pathologists, enabling faster diagnostic insights and helping to identify process improvement opportunities within the healthcare workflow.",
+        "Cleaned and prepared large volumes of structured patient data from PostgreSQL databases for statistical analysis, addressing missing value challenges by applying domain-informed imputation techniques in consultation with medical experts.",
+        "Created SQL queries and stored procedures to generate routine reports on test volumes and turnaround times, automating manual Excel-based processes and reducing the reporting workload for the operations team by several hours per week.",
+        "Assisted in the design of a new database schema in DB2 for storing annotated image features, learning about normalization and indexing principles to ensure efficient query performance for the research team's ad-hoc analyses.",
+        "Participated in requirements meetings with healthcare professionals to understand their data needs for clinical studies, translating those needs into technical specifications for data extraction and aggregation.",
+        "Performed data validation checks on incoming feeds from lab instruments, comparing record counts and key fields against source system logs to ensure the completeness and accuracy of data used for model training.",
+        "Maintained documentation for data dictionaries, report definitions, and analysis methodologies, ensuring that all work was reproducible and compliant with internal quality management standards for healthcare data."
+      ],
+      "environment": [
+        "Python",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "DB2",
+        "Power BI",
+        "Healthcare Data",
+        "HIPAA",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VMTW",
+      "degree": "Bachelor of Technology",
+      "field": "Computer science",
+      "year": "July 2011 - May 2015"
+    }
+  ],
+  "certifications": []
+}

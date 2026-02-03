@@ -371,6 +371,9 @@
             <a href="/fulltime" class="nav-btn">🚀 Northwestern + AI + Dev</a>
             <a href="/project_summary_prompt" class="nav-btn">📋 Project Summary Generator</a>
             <a href="/sent_emails_viewer" class="nav-btn">📊 Sent Emails Archive</a>
+            <a href="/otter_link" class="nav-btn">🎙️ Otter Links</a>
+            <a href="/salesforce_prompt_generator" class="nav-btn">⚡ Salesforce</a>
+            <a href="/salesforce_prompt_generator_role_change" class="nav-btn">⚡ Salesforce + Role Change</a>
         </div>
         
         <h1>🚀 .NET Resume Prompt Generator</h1>
@@ -386,8 +389,8 @@
         
         <div class="clients-grid">
         <div class="client-section">
-            <div class="client-name" style="margin-bottom: 8px;">Client 1: State of TX</div>
-            <div class="client-details" style="margin-bottom: 10px;">Role: Lead .NET Developer | Domain: State Government, Healthcare | Duration: Dec 2023 - Present</div>
+            <div class="client-name" style="margin-bottom: 8px;">Client 1: State of Texas</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: Full Stack Lead Developer | Domain: State Government, Healthcare | Duration: Dec 2023 - Present</div>
             <div class="cloud-selector">
                 <div class="cloud-option">
                     <input type="radio" name="client1" id="client1-aws" value="AWS">
@@ -415,8 +418,8 @@
         </div>
         
         <div class="client-section">
-            <div class="client-name" style="margin-bottom: 8px;">Client 2: Maxim Healthcare</div>
-            <div class="client-details" style="margin-bottom: 10px;">Role: Senior React / .NET Full Stack Developer | Domain: Healthcare | Duration: Jul 2021 - Nov 2023</div>
+            <div class="client-name" style="margin-bottom: 8px;">Client 2: Maxima Health</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: Senior Full Stack Developer | Domain: Healthcare | Duration: Jul 2021 - Nov 2023</div>
             <div class="cloud-selector">
                 <div class="cloud-option">
                     <input type="radio" name="client2" id="client2-aws" value="AWS">
@@ -445,7 +448,7 @@
         
         <div class="client-section">
             <div class="client-name" style="margin-bottom: 8px;">Client 3: Wells Fargo</div>
-            <div class="client-details" style="margin-bottom: 10px;">Role: Senior .NET Full Stack Developer | Domain: Banking Finance | Duration: Feb 2019 - Jun 2021</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: Full-stack Developer | Domain: Banking Finance | Duration: Feb 2019 - Jun 2021</div>
             <div class="cloud-selector">
                 <div class="cloud-option">
                     <input type="radio" name="client3" id="client3-aws" value="AWS">
@@ -474,7 +477,7 @@
         
         <div class="client-section">
             <div class="client-name" style="margin-bottom: 8px;">Client 4: AT&T</div>
-            <div class="client-details" style="margin-bottom: 10px;">Role: .NET / Angular Developer | Domain: Telecommunications | Duration: Mar 2017 - Jan 2019</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: Software Developer | Domain: Telecommunications | Duration: Mar 2017 - Jun 2019</div>
             <div class="cloud-selector">
                 <div class="cloud-option">
                     <input type="radio" name="client4" id="client4-aws" value="AWS">
@@ -502,8 +505,8 @@
         </div>
         
         <div class="client-section">
-            <div class="client-name" style="margin-bottom: 8px;">Client 5: IndiGo Airlines</div>
-            <div class="client-details" style="margin-bottom: 10px;">Role: .NET Developer | Domain: Airlines | Duration: Mar 2015 - Feb 2017</div>
+            <div class="client-name" style="margin-bottom: 8px;">Client 5: IndiGo (InterGlobe Aviation Ltd)</div>
+            <div class="client-details" style="margin-bottom: 10px;">Role: Junior Software Developer | Domain: Airlines | Duration: Mar 2015 - Feb 2017</div>
             <div class="cloud-selector">
                 <div class="cloud-option">
                     <input type="radio" name="client5" id="client5-aws" value="AWS">
@@ -669,7 +672,7 @@ PROFESSIONAL EXPERIENCE - GLOBAL RULES (APPLY TO ALL CLIENTS)
   ====================================================================
   ==> bulletpoint structure should be like this: planning phase, implementation phase, deployment phase, monitoring phase, optimization phase, troubleshooting phase, etc.
 
-CLIENT 1 (Senior-most role - most recent) - State of TX
+CLIENT 1 (Senior-most role - most recent) - State of Texas
 
 • Write exactly 16 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
 
@@ -682,10 +685,9 @@ ${client1TechStack ? `• Tech stack: ${client1TechStack}. Integrate JD keywords
 
 • Show domain-specific challenges: Healthcare regulations, compliance, risk management
 
-CLIENT 2 (Mid-senior level) - Maxim Healthcare
+CLIENT 2 (Mid-senior level) - Maxima Health
 
 • Write exactly 14 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
-g
 
 • Domain: Healthcare - integrate JD keywords with Healthcare regulations (HIPAA)
 .. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
@@ -715,6 +717,8 @@ CLIENT 4 (Entry-to-mid level) - AT&T
 • Write exactly 10 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
 
 • Domain: Telecommunications - integrate JD keywords with Telecommunications regulations
+
+• Duration: Mar 2017 - Jun 2019 (updated end date)
 .. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
 
 ${client4Cloud ? `• Cloud: Use only ${client4Cloud} - integrate JD keywords with existing cloud services only` : '• Cloud: Integrate JD keywords with cloud services as appropriate'}
@@ -724,10 +728,9 @@ ${client4TechStack ? `• Tech stack: ${client4TechStack}. Integrate JD keywords
 
 • Show domain-specific challenges: Telecommunications compliance, network security, service regulations
 
-CLIENT 5 (Entry-level) - IndiGo Airlines
+CLIENT 5 (Entry-level) - IndiGo (InterGlobe Aviation Ltd)
 
 • Write exactly 8 bullet points, each between 180-280 characters long point with varying sentence lengths and include authentic tasks: debugging, meetings, code reviews, troubleshooting
-
 
 • Domain: Airlines - integrate JD keywords with Airlines domain requirements
 .. project_summary keep the smart summary main goal of the project explain with 300 to 400 char main goal in the json, main agenda
@@ -835,7 +838,7 @@ EXECUTION CHECKLIST:
 
 {
 "personal_info": {
-"name": "Onteru",
+"name": "Onteru Yallesh",
 "title": "",
 "email": "onteru.sfdc@gmail.com",
 "phone": "7372310791",
@@ -874,12 +877,12 @@ EXECUTION CHECKLIST:
 "other_skills": []
 },
 "experience": [
-{
-"company": "State of TX",
-"location": "Dallas, TX",
-"role": "Lead .NET Developer",
-"start_date": "Dec 2023",
-"end_date": "Present",
+    {
+    "company": "State of Texas",
+    "location": "United States",
+    "role": "Full Stack Lead Developer",
+    "start_date": "Dec 2023",
+    "end_date": "Present",
 "project": [
 {
 "name": "MedConnect Patient Records System",
@@ -907,13 +910,13 @@ EXECUTION CHECKLIST:
 ]
 }
 ]
-},
-{
-"company": "Maxim Healthcare",
-"location": "Seattle, WA",
-"role": ".NET Full Stack Developer",
-"start_date": "Jul 2021",
-"end_date": "Nov 2023",
+    },
+    {
+    "company": "Maxima Health",
+    "location": "United States",
+    "role": "Senior Full Stack Developer",
+    "start_date": "Jul 2021",
+    "end_date": "Nov 2023",
 "project": [
 {
 "name": "CareBridge Clinical Workforce Portal",
@@ -939,13 +942,13 @@ EXECUTION CHECKLIST:
 ]
 }
 ]
-},
-{
-"company": "Wells Fargo",
-"location": "San Francisco, CA",
-"role": "Senior .NET Full Stack Developer",
-"start_date": "Feb 2019",
-"end_date": "Jun 2021",
+    },
+    {
+    "company": "Wells Fargo",
+    "location": "United States",
+    "role": "Full-stack Developer",
+    "start_date": "Feb 2019",
+    "end_date": "Jun 2021",
 "project": [
 {
 "name": "SecureLoan Mortgage Processing System",
@@ -969,13 +972,13 @@ EXECUTION CHECKLIST:
 ]
 }
 ]
-},
-{
-"company": "AT&T",
-"location": "Dallas, TX",
-"role": ".NET / Angular Developer",
-"start_date": "Mar 2017",
-"end_date": "Jan 2019",
+    },
+    {
+    "company": "AT&T",
+    "location": "United States",
+    "role": "Software Developer",
+    "start_date": "Mar 2017",
+    "end_date": "Jun 2019",
 "project": [
 {
 "name": "NetFlow Customer Service & Billing Platform",
@@ -997,13 +1000,13 @@ EXECUTION CHECKLIST:
 ]
 }
 ]
-},
-{
-"company": "IndiGo Airlines",
-"location": "Bengaluru, India",
-"role": ".NET Developer",
-"start_date": "Mar 2015",
-"end_date": "Feb 2017",
+    },
+    {
+    "company": "IndiGo (InterGlobe Aviation Ltd)",
+    "location": "United States",
+    "role": "Junior Software Developer",
+    "start_date": "Mar 2015",
+    "end_date": "Feb 2017",
 "project": [
 {
 "name": "AeroOps Flight & Crew Management System",
@@ -1026,13 +1029,13 @@ EXECUTION CHECKLIST:
 }
 ],
 "education": [
-{
-"degree": "Bachelor of Computer Science",
-"institution": "Vignan University",
-"location": "Hyderabad, India",
-"year": "2015"
-}
-],
+    {
+    "degree": "Bachelor of Computer Science",
+    "institution": "Vignan's University",
+    "location": "Austin, Texas, United States",
+    "year": "2015"
+    }
+    ],
 "certifications": [
 ""
 ]

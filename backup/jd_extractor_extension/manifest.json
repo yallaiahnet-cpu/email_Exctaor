@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "JD Extractor & LinkedIn Connector",
+  "version": "1.0.0",
+  "description": "Extract job details from job descriptions and generate LinkedIn connection notes",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "sidePanel",
+    "notifications"
+  ],
+  "host_permissions": [
+    "http://localhost:5002/*",
+    "https://*/*"
+  ],
+  "action": {
+    "default_title": "JD Extractor"
+  },
+  "side_panel": {
+    "default_path": "sidebar.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
+
