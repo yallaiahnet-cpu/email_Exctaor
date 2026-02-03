@@ -70,6 +70,11 @@ deployment_backup_*/
 # Package directories (for sharing)
 Email_Notifications_Package*/
 
+# Local startup scripts (keep local, don't commit)
+start_server.sh
+run_flask.sh
+setup_autostart.sh
+
 # Note: email.json is NOT ignored - it's needed for the app to function
 # ⚠️  WARNING: email.json contains sensitive SMTP credentials
 # Consider moving credentials to environment variables for better security
