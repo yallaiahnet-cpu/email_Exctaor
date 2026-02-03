@@ -1,12 +1,9 @@
 services:
   - type: web
     name: email-notifications-api
-    env: python
     plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
-    dockerContext: ""
-    dockerfilePath: ""
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
     envVars:
       - key: GROQ_API_KEY
         sync: false
