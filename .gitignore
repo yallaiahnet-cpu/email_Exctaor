@@ -72,6 +72,8 @@ Email_Notifications_Package*/
 
 # Local startup scripts (keep local, don't commit)
 start_server.sh
+start_server.bat
+start_server.ps1
 run_flask.sh
 setup_autostart.sh
 

@@ -1,11 +1,28 @@
+# Python Version Requirement: Python 3.8 or higher (Python 3.11 recommended)
+# See runtime.txt for specific version used in deployment
+
+# Web Framework
 Flask==2.3.3
 Werkzeug==2.3.7
+
+# Environment Variables
 python-dotenv==1.0.0
+
+# Production Server
 gunicorn==21.2.0
+
+# LLM and AI Libraries
 groq>=0.4.1
 langchain>=0.3.0
 langchain-groq>=0.3.3
 langchain-core
+
+# Document Processing
 python-docx
+
+# HTTP and Web Scraping
 requests>=2.31.0
 beautifulsoup4>=4.12.3
+
+# Standard Library (included with Python, listed for reference)
+# json, re, os, datetime, typing, smtplib, email, logging, traceback
